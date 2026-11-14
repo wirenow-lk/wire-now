@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T22:30:26.079422+00:00",
+ "updated": "2026-11-14T23:16:15.411985+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "334fabfb84",
+   "title": "SpaceX Starship re-enters Earth, lands at same spot from which it launched a day ago",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPME0zbnBYeHJya1lVdm84eTYzb0s1ODUwYUpERHY2aGd0Zy1kZTFPLXFJQW5QSDlILTBwOUotMG1RLXNxNHlvcUMyUkVKWWtTU1NsZGNJNGNtbEpuSlkwYnZDaUV4SDY4RzV5NktjQ2xNSlhONXNjXzJNSnhaLUMxZ2ZR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-14T22:45:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
   {
    "id": "08f820db21",
    "title": "Another soldier from CFB Wainwright fire dead: DND",
@@ -11,7 +28,24 @@
    "image": "",
    "source": "CBC",
    "region": "CA",
-   "date": "2026-11-14T21:17:05+00:00",
+   "date": "2026-11-14T22:41:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "927c335e1b",
+   "title": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnpWQjBzYmVPMVRvTU1aQ2h6eFlSVnFfRDYyM0FfMWRKd1M5dG41bUR5a244SkRhS1NWYzk2bEFtRjRaeXY5RHY2cmE1VXdDd0w2eXFWZm1wZTktdUl6S2RiUjZ3N1ZlcW9lWW5LMTJZcktlVnhVM1lNei05b1FaMlZYeXBLYktKMFMzTnRZZXZIOTRNaEphUzV3WEJpQVNqXzFFVFpWcVFfb0Y0VUtnemFoMG1sRko0V21wTFZEYzRLb2s?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-14T22:07:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -89,40 +123,6 @@
    "topic": "Politics"
   },
   {
-   "id": "875eaaf63d",
-   "title": "Carney says he will not boycott APEC 'family photo' with Putin",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTkFkTWtYbk4waGxCWmcxMk9GcFFUWU85eVBORDhEWGc4SnYwcGdzcG9IMVdKY1VJbUtQd1R1WE9wSEdYdGtIOEtQYTlaUGJHM29KSFk3dWlrY2Uyc0hpR1VkV3QyVTdpODJ3bmh1endFZ19hVmx4aW52TXVQM00?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-14T18:18:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2cff972569",
-   "title": "Prince William, Kate Middleton celebrate King Charles’ 78th birthday with surprising Elton John tribute",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2IydDc1TElPZEVyQzdqMHptOXRDdDR0dFhXdGU2QmxHQTVhdU9DcHlEUDFnRHhwQ3EtaGlRMjA4VXc3UXowWmdnR053Vkg3aWRMSzdmUVFBd2pUbzlTdUQ0TmdhZTN4b3BCZnBocUtfT2RPWHh4YWZwdnZUb2tMZTJOUEp6bjZ4U3AtQUZPaVd1MGtmcUJmanpESU9FYXJoN1BNLVJWT3dNQTVRS2hjaw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Page Six",
-   "region": "CA",
-   "date": "2026-11-14T18:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5cc67357c8",
    "title": "Vancouver duo's song goes viral after featuring in Grand Theft Auto VI",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQam1UYy1GSTk3TVg0dFJ1N3F0UEpzMkJkS0NoeXU5RUt3TnBIMHBLRlQtR05rWVJMSXE5NGMtanpvU1V6R3dSNkh2dG5iMTBlS01OaC1uaHpPYzhXZkQ2R3I2WHUxdWU4UFdPZ01LZEd0dWhuTHlIdUxhY3d5akJXTWljMDNWSnpQNWRDWlp4Qjh1RmJMMVA2YlNfbmUzV2k3WUVIZ2RaSWNDUQ?oc=5",
@@ -140,48 +140,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "1e58d737d9",
-   "title": "New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWUE3QXhFWW5qSW84UFdEX2lCeXJaSlgwcmtPMzNyZTFaM3NoTXd4RG9FTHlZTDZlQ1NEWFFHVHVMTEJqamx2SmhFQjVia0MtVmpGUHBKZzVDcUJQaUgxX3BTVU55NVIySERhODB4cVduMndkM3YwVlUtRnN1NGM5T09nTUo0eEtWRmxRSWlib01sbjdSdlFvWU1SS0dTSVk?oc=5",
+   "id": "7af628746d",
+   "title": "McDavid chasing history as Maple Leafs look to avoid historic home losing streak",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUW90NDdIVEx6cVdVbEdxcWFkUXR2Z1lZSFdCMF9DZkF6Vkp0bXpNVFQxQVBWZlJ3V3plcjh5MFhCcGxQbURJX2N0bHJuRlFvWUdzQ2J3UHlpZElGTncycVh2ZF95NlVNNzdrR1BsMWd4NHkydjREVXN1THp3dnBuNTlpVU1tRGdKU25Tajg4MWE2RlBKc0NDLV91QlNUU2pmT0oxUklvTGNhcHhxX0RxY2tBSUdULVk?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "TSN",
    "region": "CA",
-   "date": "2026-11-14T17:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6dfeee1ff2",
-   "title": "Joly says Stellantis could get more government money if it promised to keep Brampton plant open",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQXFVal9SUVBGM2k5V2VkaEtqdVpOTTNKQl93bUNHbjduTDdETS1Hdld4cjhMa19ydE1ndzV6Q25TZVZ0bnJKdDRQbnh1NXROM2pYRjljUlhyTldUOVFtU1J5d1ExSDNfaUxYaEoycnhzTXRsX0oxdm1jS012VExiZjJlUFVaY2ZrLVFSQ0dJZnA5UnpaMXBUMzQteURGSHlueGZOVWJ3MjlXMVQ4d0pneHU1RDlTNFhWT2dqMEZkNXhoMk5DM0w0bEVvZXFoMk0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CTV News",
-   "region": "CA",
-   "date": "2026-11-14T17:35:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "0bb72558c7",
-   "title": "Russell Brand’s eerie joke about jail resurfaces after he’s sentenced to 10 years for rape, sexual assault",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEVwX19UV0RSUlVMaHhFMkJnbmtjOEdkVl9jNHhCeWZRaHBMdGVtaElsMzNkZDNFM2xtQlZFWk5rbEszYWF3VGdKVWVodDJsUC1zTmlLM091Mm9pR3FEN0s2RmdocDFnMGF1S1hmWm5xUTE1WEowWHhTTDJweDRfZWJ2aXpmRFpZXzhOQnNNNnF1RE1sQS1OMXRFdTlwUXFiUzc2MDFNVFNNcUJzWHl0aw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Page Six",
-   "region": "CA",
-   "date": "2026-11-14T17:31:00+00:00",
+   "date": "2026-11-14T17:51:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -225,23 +191,19 @@
    "topic": "Society"
   },
   {
-   "id": "4d66b9fc39",
-   "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEFkUnFjYld1dUgwTlpzYXp1TG81YXVDci1CQi1MMVNGcXM1Y3ZIVXVMaVV2UktReXBneVpoUE1XYzkzZFBxa28xLV9RejJxTFZRQXMtelh3aXkxUnBKVDBPeXluZFdjVTJXdkpUTmxGRlNRcE1hWUFDRGd3M1N6STZjdTMydlE4N3g0WjFZRFhLd3VwZEJhTE13WlZSUE9xbUNkc0NxcTlmR2RWU1R1V1k5ckthLU3SAbwBQVVfeXFMUEdnNUhOc2MtWldmRjRUcVdycGFCTlctUGNmcFdiZTBDS3ZOanRtQVdldXduU25OLVdPUGh5eGJjcm1kTnk0b1NLZzlDRXdIclZ4aGNWYzFka3kyRzlZVG1lVXJNNGZaOWM4dkRvNks1YmFMeTVnb0tTcXpSLXhJRWRybjFmdHZJNC1wMHZaTkc5amhLRkU4dTVaTVE2NGdSd2lJalJqZnd1QVRGaDhPd3RwTmhfU0drOEFxT2M?oc=5",
+   "id": "e97eb72f3a",
+   "title": "Olivia Wilde makes surprising admission about co-parenting with Jason Sudeikis after bitter split",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcElad1VtcUV2STRiQkFYVmgxUFNsR3ZlYzl3MjFBemR3T0Vkemh4LTB2aktEa0NOWGFDZ01PZXl4MHNXU0prMTVFcmE4VXk4YWEtLUtXR25KQ1B6UU5sSVBHcWFMTkUtdGlvT1dlOUlwdXhJdURIZnlwYUN0Tm5VLWVzM2VtdGxEaEdCZDlidDZxYTdId3VhYzVnU0ZBUkpzdFVjM09MYjlRaE1pNE9BbGhEMDM4WklyNEYxVXBjaG1DTktMSVlDRHlHb0RGVGExVXVr?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Page Six",
    "region": "CA",
-   "date": "2026-11-14T17:11:01+00:00",
+   "date": "2026-11-14T17:11:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Canada",
     "place": "",
-    "flag": "🇺🇸 🇺🇦 🇷🇺",
-    "also": [
-     "Ukraine",
-     "Russia"
-    ]
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -314,6 +276,23 @@
    "topic": "Society"
   },
   {
+   "id": "37adaf30df",
+   "title": "Russell Brand Jokes About Being 'Lonely' In Jail In Resurfaced Interview With Lindsay Lohan",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTM0MlZCRjBQenNJQkROdGx2ZzFTcGE5MjN3YmNCVVFrWUtFcTgxZWZzTTc3Zk9oSG5uTzRUOVp4dDlZR09QNmYxa3FpRDFHajhTVThFUkZHb3ZuU0hVbnJNNGRXSmxOU2VhX1AxQ2RJS3QtR1FfdjRmT1pHeGZzcHpQQW9PVTljV2xsNkxnSGlCTl90eDRPVkxkTUpvSEVxOVRrQw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TMZ",
+   "region": "CA",
+   "date": "2026-11-14T15:43:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e533ca409b",
    "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjJVeVVUUTMxUjhqRXBIUzRwMW5pSTFleld2QWM2NERxQ0JYSkR3YllRd09oQWVtYUI2UVFQMWZGY21GcFdFNXNackNXcXhiZldCdHRhd25BVFdPaWUycW01MXZ3NWRtT0l4eXM4NjZXcDBoRG1XSVh1TmVTY2dpRjl1UzBfaW1lQ0k4ckFwQjNVakRmVFZDYTdiaFdKUkx0cnFfUURzY2dwUlHSAbABQVVfeXFMTUp2dm9kYV9UeTdPdkVzOE5SWTUxQXVZeXdqZ242UnRPRmlGZFBoUE1lenVwUG5uLW00VTh2Z2J2V1pjWGtELU1VNk5xazBvNDFaVVQyUVRjUUZyOU1DLUt1ZFJtaW9SbEl1US1vdlVxVVMzaGRDSnUwWnZRMWh5NjJzcWpfZFVsLXI0MnlfTWRsbmxZcWFyT0NnTVc0VS1kNUVMd0pkNUkwXzBzTHRvblE?oc=5",
@@ -327,6 +306,26 @@
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3189ec4f46",
+   "title": "U.S. asked Ukraine if it would cede Donbas for NATO membership, Zelensky says",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkFTbGhXSi1TTjB6TjB0RnlKdk8wSFZCbUNiRkxwcjBsOHJHYXU5dkQzRU55YjFfX3R3cW9sYlF2U25LcXM5QmJEb0JiRnh4eDBZMHdQcENhLUY3NnVHVHk5RWFWXzU5dllzaXJmN1JCRW1fMWFHWlp6LVZjLS1oWU41NjZZd1c2UTE1ZXhR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-14T15:10:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
    },
    "topic": "Society"
   },
@@ -419,40 +418,6 @@
    "topic": "Society"
   },
   {
-   "id": "d62fb57906",
-   "title": "How Lake Superior Compares To The Biggest Lake On Every Other Continent",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFpmUGhkMEVqVzYtcW9pdTNMRm43TFQ5WWhYczJteUZZRm9iaGFPTjA1SU9ZQzMzeUNIdDdrWXpMSG5WLVVXNFJ2VWlKLXotb19vbng3ZkVGeVhaV21HcU5ZbTdMMzRJalRadFduY3h2QjBSbWtSUUdaSDdJWGZ6blgxdzhrb1d1Y2RHUmlITldwbWE2T3BHd0ZuT2p4XzVUQUowSmM2eTFROTRIcGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WorldAtlas",
-   "region": "CA",
-   "date": "2026-11-14T11:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "af15b4ba7d",
-   "title": "'Flames soon engulfed us': Artemis II astronaut Jeremy Hansen describes his mission's riskiest moment",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOGFYcjZEME5CVFVRa040TFYzVGJFM2RnNzdwYlNTNGQ5X2o2ZFJBWVJWdjhCZlBkYjJ1MmtHS3FoZDE0ek5pMHRDVjhkNmN3c2x0MzY0cndVelRMcjFSUG1RSXBDRnBaQ2hXZ09lTGg2Um14b0YteDRIdlRnLVlPU3VDUlFrNktzMGRQQjdmT2xxRzkxc3pJRW9vajlvVWRIcXZvSlp3aHhtN25YSkJSZ1NBTVFyT1JuWS1rZGtiRHhzRmhGYWsxekF1VjBNQTZ2Mk45em9xeGxWX1lKa3JScng0a2hNVmhINkxwMy1hREoxVDFIdHdqRUpwaXQ4T3V4a0cybzd6SQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Live Science",
-   "region": "CA",
-   "date": "2026-11-14T11:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4c2d9d78a5",
    "title": "Carney’s big bet on debt",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUUhWZmt2UndEV0QzRFN5bVp6cjkzZGlpV3VmSTVMNGI0RldjUTNRMnAzMFk5UzNwYTAyQnVPV0tQT1M0RVNZaWdZdzUwTHFpZE5hVFJTVF9EYkllMDVRYkpvQy14d2FPSmdYRVFDS2VYemg2aGhLaFM0Ql9odw?oc=5",
@@ -504,21 +469,55 @@
    "topic": "Society"
   },
   {
-   "id": "97b81cd6fd",
-   "title": "Alberta changing royalty system to encourage oilsands production, new investment",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXYzRFA1LUk4Xy02T1I5cTJ1UDF2OEJLamVwTnBZMEliVVZSc3BjaU1VUTFNeTZLQjc4WTM1TVlzSzA4MWdHOHNjTzIzQjlsb2JxdmVkNnpBTldhQW04eUF2ckMwb0xpUHhnUV9fcW5uaktlNUJzR2FGWWI1aHIwcHdsbW4?oc=5",
+   "id": "75159721a4",
+   "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fV3EtekZoU3lSWHJwZnd0aTZJVWx0bkowWEtyUkxWQjVfX3ZLMHJIdFZQV2M5N2F2QmdjMTN6dElScGZGSWx2RWw4YUxWVFpfOUZ5VE5rRUVJRGFUampPcm9sZ1g3eG9vR1E?oc=5",
    "summary": "",
    "image": "",
-   "source": "Global News",
+   "source": "CNN",
    "region": "CA",
-   "date": "2026-11-14T02:43:55+00:00",
+   "date": "2026-11-14T01:17:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Business"
+   "topic": "Society"
+  },
+  {
+   "id": "546b645d24",
+   "title": "Varcoe: Alberta touts royalty rates for new oilsands projects",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbUNWa3BNbjdxS3pZNHFPeW44ZEJzTWZpMERucXp0VnQxSmtnZHJYYUJIZklPRS13YVdudTNTaF9pT21mRHFwdVJLNnBHMy1qekVXSVZtVGl6QzU1alVlQWkxUndQUmhwV3NJU19KdEo4Wmh1X1U0RVpiY3NwaHdXOXhVZWZNYWpRTzFlejA5TkUxZmhhZFVDZTExSFNIb3ozbDJ3YjRSWWxFRDR5LUlnQjhUbl9mU1A1OFdhdzF6TGUzenEwdjR6WDJ3aTlMdGZkanRCdjJMQnNKbHI5enZ0OWl2bW4zTG12ZXhSci1QZGpoQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Calgary Herald",
+   "region": "CA",
+   "date": "2026-11-13T23:54:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0a13cb0105",
+   "title": "Ottawa, Ontario working on package to persuade Stellantis to cancel sale of Brampton plant",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbURZeVctVlJoTGRYdTZJa19hZWUyZUdfYWVEQXBzXzlnZ3FfcW1BWV81S3cxYWNhRFJvaFZkT2hIdllKOU5NLU1MYnJHRmxfbE5kR05adjFMRm5SMnNSY2pvRjUyX21PS1RoMlpyU1Izc28zMy16eEhDNDNOaWcyWHA4WXppREs4X3pOOGRwSmRydnU0WDhLZVAtNUR5OE1hWks2S05NUWNiaFYzOEVnQ2VUQlc1QjFJZTZ3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-13T23:38:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "b37083dd7c",
@@ -546,23 +545,6 @@
    "source": "Global News",
    "region": "CA",
    "date": "2026-11-13T21:52:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e15dab275d",
-   "title": "Canada's Stelco to recall 175 laid-off workers, restart Hamilton plant finishing lines",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFk4REtPMUgyQjF2WFpQLUQ4TWM0dFBxQnpGOThwLVZtdGswVHltVV9takgwaFZ2NFluLVlvei1aVHBPU1JIYnJDa1BVNHhCTXJiSUxKa3lTek1NY3c3aVFvNlRfSXFXQko1TEtOaXZPanNPMl92RV9Ca3Z0VUo3cmdOcTRJUzI1NGxqbG1qYTlRbklXbFl5R3A3aHVVQVVlZU1oRHRkVUJBbVpVeVR2YTRwYldvaWpwbXpBZGNEOFBJbHo5?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "CA",
-   "date": "2026-11-13T21:49:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -606,6 +588,23 @@
    "topic": "Society"
   },
   {
+   "id": "e6b6766802",
+   "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNENSQWo2eG9BYl85Q0NnYUFfY291R0wxMmhqYTZRYkJMSkhpNVBhOF9lQjlKcFY3a1d1RGRhMHNVVUt0OVFjQWVnaVo3UDczdkdPSW1zSGhyNVNNWjZiTUtaajlEMW91d2RidkdNYWZmcEtaanNOSXdqMjRJZ0t1cmNYRmdQZUVVS3BMMXFIZEdZNkZCcV9EVXkzWVltTXhtMGVoQ2JYWHRfZERCZkFKTXFaT1BlUGVwYmJSSlBYaUtEeUhNMWtNR0RWSksyaWZGVjZDTDJoWXg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Space",
+   "region": "CA",
+   "date": "2026-11-13T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3019964230",
    "title": "$11.5M in drugs seized, one arrested - Thunder Bay News",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUpLMTVzTmhNV0RCT0ZtX0w0LXlCelJvQ3NkWk1tTXBzZ3ZDT1dCc2tIeEtsaGdkQXlYNWNHUXhTUk9fcWxPMFZPbGtHSFRKOXFMNUt0RGN1YXBUTmRjX2hBUTQwTzFmMmE1LWg0TkZyY1gwN3ZRQkh1QjRtOVJ5eVYtY09pcHZH?oc=5",
@@ -623,36 +622,23 @@
    "topic": "Society"
   },
   {
-   "id": "badc0b4223",
-   "title": "McMaster leans on teamwork, depth in pursuit of historic U Sports double gold",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNmJuai1XeXNMT0FjYVdEc2FRLXNWWHI1bGhHZGRycXhPOU9KeTVscVkyVGppU3pEc3VhbEk4SXAzelVwa293NW9aRjR3aHpmQm5VYmRrS1FHaUFLVnNoWFZwdHFGTVBMenpxeWY0VjhQa1F6eWRNX0Z5S1N1V3VTOEJ0UTRMY0dUOWlEUkllTE05c2ZuZFdDbUV0Y1NFUUljVnB2WDZZTDd2R2VWbllRTVpQdnMzbjI3aW5hSzJRQkhyT2c?oc=5",
+   "id": "c386cb4923",
+   "title": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLUNOZGYxREhHMEZTNnZfcFJtdWxPMVNINTl0cGRkeHpHeGM3eXBoUEk1YkJfMEZ5cjhsdmtrOG9SSUNpN3gzV3IwdTBTV2gwcVBLczhvaXJRZ3IyVk5mcVVQV0tmTEFWVTMtUEUtZGF4Z1Y4clg4Z0o1TGdfVFd2c1F4cnBfbmlHRU9QX0hqb3p5RGQzZmxGXzlyT3hnSTJnNExTSFpVeC1fWkdEMWxJQ2ZLQnZvTEIwNWwyYk05XzZ6MWZrT2JueTU1amVneGNGdTB2dWFOQlpiaVZQQ3VaU1VOTHd3d0p0MEpMN250SjhONHUzQVV4bUdaRlFVMy03Z05qc0xqS2N4Ym1fS0JoVC1qUUxwU3htVkE?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBC",
+   "source": "The Guardian",
    "region": "CA",
-   "date": "2026-11-13T15:45:14+00:00",
+   "date": "2026-11-13T07:11:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "Australia",
     "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "16a9466075",
-   "title": "Some Microsoft services back online as global outage disrupts businesses and governments",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblFIam5oM2JqemVtTXdkMUhBeVBaYkZLRk5iUng5d3p4ZWJsdWdhbUV5ZjJkSkxTU2dLbHVUaU9jTkFPR3FKUmhUNzZ5U3Z1djRWWUg4ZVhadG1sQi1Fci1aZnVDcC1McVItUmNIekxZRWt0WXZkb3F2RWdfdndMUTBEZXptQVZWdmE0VWQ3SkpIVzZ1TnNUaUF3X2gzX2NGVWlkaVh3ZDVhMXc2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Globe and Mail",
-   "region": "CA",
-   "date": "2026-11-13T10:11:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇦🇺 🇺🇸 🇮🇳",
+    "also": [
+     "United States",
+     "India"
+    ]
    },
    "topic": "Tech"
   }
