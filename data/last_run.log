@@ -1,10 +1,10 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 2/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 3/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 41 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
+OK   EconomyNext: 20 stories
 OK   Daily Mirror: 69 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
@@ -14,7 +14,7 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 11 stories
+OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 23 stories
 OK   The Guardian: 45 stories
@@ -23,46 +23,41 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 91 stories
 
-Biggest stories right now: All passengers and crew on New Orleans cruise (6 outlets) | 'We'll get home one day' - US travellers impa (6 outlets) | Trump, Xi, Putin to hold historic meeting in  (6 outlets) | US has floated Ukraine ceding Donbas for Nato (5 outlets) | Italy fines Meta €805m over accessing users'  (5 outlets)
+Biggest stories right now: All passengers and crew on New Orleans cruise (6 outlets) | Trump, Xi, Putin to hold historic meeting in  (6 outlets) | 'We'll get home one day' - US travellers impa (5 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | Italy fines Meta €805m over accessing users'  (4 outlets)
 
 3 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Hill [2 outlets]: Pennsylvania, Wisconsin report additional deaths linked to measles
-    important (also on Reuters) - researching
+* CBS News [3 outlets]: Evacuation lifted after bomb threat near industrial plant in Peoria, I
+    important (also on AP News, The Guardian) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: Hiru News 09:55 PM | 2026-11-14
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: Police to review 100 videos over unrest near Ruwanwelisaya
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
+    gemini failed (The read operation timed out)
+    attempt 1 failed: AI did not reply with JSON: ''
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 rejected: the name/word 'US-Russia' is not in the article; key_facts must have 4 to 8 points covering every main point of the article
-    attempt 2 rejected: the name/word 'Americans' is not in the article; the name/word 'Indo-Pacific' is not in the article; the name/word 'Iranian' is not in the article; the name/word 'Washington-Moscow' is not in the arti
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 2 rejected: the name/word 'FAA' is not in the article
+    -> no cards; posting with the site's own summary
+* The Guardian [2 outlets]: New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tan
+    no AI summary: saving the rest of today for important news
+* NPR [1 outlets]: 'We can't let them down' — After midterm wins, Democrats turn to chart
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
   photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
