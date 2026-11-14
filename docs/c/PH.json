@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T18:56:36.642942+00:00",
+ "updated": "2026-11-14T19:39:32.781507+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
+  {
+   "id": "d078538b69",
+   "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGxPa25kU01IWi1TUnptaktldGpsVWZPb2hjQ3ljVklsOVYxWEk5WXRwZ3VSNFFDYkh4TEVoeHdmbjFvT0kySjQwX3JUM3BNT1JKME9BT0hIbU5UQVhDNDFTQzVDbVhyNFE0aFpHakJPTG0yTFRXT2JCNzZOOW9yaEZuZ3hBVjdnZmpLLW9IVXdOZ05wVHcxRnZfUE1KT3dIc0E4X1BrY2N2a2dnaFBUag?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "PH",
+   "date": "2026-11-14T19:04:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
   {
    "id": "1b5afc7182",
    "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -22,7 +39,7 @@
   },
   {
    "id": "1068860c29",
-   "title": "US grounds all flights for hours over tech issues, prompting travel chaos",
+   "title": "Copper wire upgrade caused nationwide flight chaos, US transport secretary says",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadHk4LURmeWRBc04wcVRoZXl4eWpxUWJFYl95MUdoaXVyZkxCaEhjQXFzcEdQQmZYZUx2N1NuaERuT2R2Q295M2hGSkxYYmQ0WnpnZXRxNFFRLVU?oc=5",
    "summary": "",
    "image": "",
@@ -35,7 +52,7 @@
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "83eef51ec4",
@@ -55,14 +72,31 @@
    "topic": "Society"
   },
   {
-   "id": "e0134e8db7",
-   "title": "Vulcan Return-To-Flight Launch Reset For Nov. 15",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbld2aldPWkRpRm1LZXpBSWVBSndHclNqZkhzSHc5NktDdmhaUVFUWHFFRy12SDV2ZWdSVW9mcTRoRzBUeU9xeUdfdnh3am1OSlFFWXBrTEhhTlRFM05OeGVJXzRsSHJaS0c4SlpPZF96RWNEMW9lSy1GRnE1RlFUQUhqdHFEazlHZXp0clZ3b1Y1am8?oc=5",
+   "id": "e6c8260438",
+   "title": "From Bali to Europe: ASEAN Peace Pact welcomes 3 new members",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGJOTDhsVHdVTWl5VDRlek9jd1FWZE5faUVzYmxNa0p0dkZUNzFmdDRxckdoc3o5N2diZ2loTlRmU0RMWTZaQjVRRUlReDBwLWMwbnBRLVFSYVl0eWl4SGFQUmJYSlBBSUtOSmlWM0RqRVBrd3luOFMtZU1sUEFRa2NkTExkclBLUHowWDl5QktMMXF2dEdQelVnRzkxMC13ZzVn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Aviation Week",
+   "source": "BusinessMirror",
    "region": "PH",
-   "date": "2026-11-14T16:43:06+00:00",
+   "date": "2026-11-14T16:28:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Indonesia",
+    "place": "",
+    "flag": "🇮🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2a8cd95f69",
+   "title": "Amyloid pathology compresses dynamic range and degrades spatial coding in an Alzheimer’s mouse model",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQd1hDWG5lWVhieW5lRkpOREhGek13YkktaXRVbGdpMnpoVkFnTDRsNGlfSkplVlRxLUdFWXpvcG5xaTJIelU0SUJvUEFycnd1cFBXZWIzOEtnVVhvaW1n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "PH",
+   "date": "2026-11-14T16:22:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -70,45 +104,28 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "fd04299cc4",
-   "title": "HMD flip phone leaks with GPS tracking and some unexpected features",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhWTWdPS0hKbzJpMzhxeWw5YlgxVHJCeE1wQU90c0RoMWFodjk2cFZNM1Bld3R2N3QzOHBOaHFXMGswOGVpZGpWQ2VpRG5rZXhhYWx1bUVkOVJyUGJpaU1penNZczNLa29VSV9kMmNocHVWLXN2X3pESkdjWVRWeUxtUVFpRmhVODFiZ3ZzaWc5dUpNdm9LQXlOTExob2VPNkdQbTB0dDVFREs0WXRoQkRn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Notebookcheck",
-   "region": "PH",
-   "date": "2026-11-14T16:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1f0db23d71",
-   "title": "Netflix Confirms Massive New KPop Demon Hunters Event for 2027",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZTc5bHJlMndCZmwzSXdLWE9hY0FaYmZRZnU1Q05xUGkzVERINE9Jd3ZURzUwcGxUV3pvRVg0ZEg5RXlNY0M3LVFOVXBwdTgwREV2R2tYVzNaQzB1Q2J5dVp5aFJXNV85RzYyQWxHdGdHcXdOYjFrbHZR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Comic Book Resources",
-   "region": "PH",
-   "date": "2026-11-14T16:21:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "ad0c7a8a7b",
    "title": "Do not disrupt ASEAN security blanket – PNP",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVJyMzRtSmVSN3o2Rm15cFZNZVNYUk5tWWVKVEZWc3dEMTVBei1BWE85bXFvcS1IVWxlSmc3dzVrN0hWMXFsZFRJS2ducm5HQm1kSlgwazd3cWJRU2JYWnlKcVI5Njd5MWRBdUtFT05JcVZ4MzFYcEl3QkJXb0tfXzREZjZ1TjlIWUF1MXpVbWluanVFQ3VZ0gGeAUFVX3lxTFBXakxPWFJOSHdjR3Y5b1FSZlZreUtVVHlxZ21nZk1abFB3WF9mLXRVZF9zdEpxQmNaOXAwN3FoVmRSaWlxUzBmNEd6bDFVN2p1S21ScFV1RXJ5OW1OajNKWUhBeEtOT0d4dzhNbG9xd3Mzdkc4emdmaXZOOXhIMTZtam1kcTQxNjJzTXo4ckJrQ3ZQa0Z5Qk52Z2gxUDZB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philstar.com",
+   "region": "PH",
+   "date": "2026-11-14T16:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "124b39581e",
+   "title": "Diplomats convene ahead of ASEAN meet",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFEtVVpOY1Bsdmp4NzhYRWZxZ3BobnFfSENqNTRISmR0SEpkbG9TZHlFcEp4eGdIU2JldFV2NlNBdjdlY253amMyRW5xUVdSdElTaXJCcTdHRlhSbnBlX2hNaFpwd0ZWY3NEdzMzaVo5Yk4tMk1KQUFRbEFLTGRJUFlQaTdERDc5MFNIa3VrLWxCd9IBmAFBVV95cUxNc2VNSUJrQV90Yml3d0dyM09qYXo4MEkxOTdIb0tBWVpGRmJZdjF0VjdFcy1FdU1MNWZBMjh2SUNESTB0ZjNld2swYkU1WXRtTjA2Vm9MWHFVVGtUV1gxOWlNUUl4TGFEcTFlRndYdjY0MUtHWXl3cllYci1hUDV3RlFKTDRWTWhtaEpDM0xTalZQRWltOXpRTQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Philstar.com",
@@ -225,23 +242,6 @@
    "topic": "Society"
   },
   {
-   "id": "d26c4908a2",
-   "title": "'Waiting so long': Fans gather for Eurovision's first Asia show",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbllDR0JheHR2WFQxLW5OREd3VnpBU2QxbGxKMngxNnhXOTgtdFN3MnVNS0Z2VGVwRkxvSFM2N0gtWmJNODZVNHFzU1hDbkNlUUkxT0U1QUh4YmpVMWNKd2F6V2w2TW5KMUN1Y1VwdEF0dVY3S2NHdW03VFFZbE91YXgwTkhtTElPb1laMHBwY0tXUmZrbzI0QTdOdGdHNXpzb1JlUkVXS2pWNDA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "France 24",
-   "region": "PH",
-   "date": "2026-11-14T12:55:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a398564477",
    "title": "Timor-Leste to chair ASEAN in 2029",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91VzhiM00wTFF3cGd0andrbGdjWjJfRXdNVDR6Yy1VZFlVVnQ2a3pmNWgwZXZQRkRnMV9OVkQtUTNldi1TcUZ3X1FaSzBtek55SkdZN3ZWQlA5aDFpeXBjWWFKUFFVUnBHSk5abDJHLUhOMGM?oc=5",
@@ -250,7 +250,7 @@
    "source": "Philippine News Agency",
    "region": "PH",
    "date": "2026-11-14T12:17:00+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "location": {
     "country": "Philippines",
     "place": "",
@@ -293,23 +293,6 @@
    "topic": "Society"
   },
   {
-   "id": "4b29dbea65",
-   "title": "Ejercito tightens scrutiny of local infra projects, eyes Nov. 20 report",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0d1SWlOanA3TGs3TU9qVGo3MzhTS2xsT25vTXBxdWZjMFoyZTZHLUs4ZzV2em9KZDJBVUY2ZE5RdHVxdnVTd2ljNXBmZG5jUmk5WmVvWnhUSTZxeS00UmxNdkVCRzZ5bzNFcG1vX21wU3M4OE5aQ0hvalpvcDdreU04bS1RS2VpRmw0NVozWjFiRVY1TFNmQm9aekZrbjlFSzRLNEl3V2pUVDDSAbABQVVfeXFMT1gydnFZcGZOSFdIZUJHY0VxRnkzUXJ0QUZXMmFlcl9aQ3VZbjQzRkRyUjRKTnExc3dJN2hfMTdIN0tmdzV1WlpHZWprMV9vRS1ZZnFRaWFPR2FibFg3U1J4LU5NUUhDRXN0V296c2NwcmxUa1lYR1RYRml0SC12aE5aajhKZUZRV0cyVlBjbFhoZmJwQi1oNXNXWkRWbXVmUVE0NHAwVVg5REh2NEVJSXU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Inquirer.net",
-   "region": "PH",
-   "date": "2026-11-14T08:58:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "058faba5ef",
    "title": "PBBM creates national council to oversee AI development, governance",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkpSWmF2bE1mN3JyNWQ2VXVCNDRVQWozanV5aTJGbVpTMHQzNkJhYnF3NjBwVE1Zc1VTOXVxcTVibTNWZV9TUVJBNlN6d3RXd0xYSE5TTThmeVZxZUdnT3M4WnRZMFk2MDI1elB3eGQyVV9xM0RvQzhEY1cxM19rSUN0Zy1xdkxlMC03Q29XdWV0VHgyeTExQ1Nfa1BxQQ?oc=5",
@@ -327,14 +310,14 @@
    "topic": "Tech"
   },
   {
-   "id": "4ee0d678b9",
-   "title": "Warriors vs. Spurs player grades: LJ Cryer shines, Yaxel Lendeborg struggles",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzN4c2N3NlBXczJsNVVremtHdkRnVmVyOVNzYTBmeXZESWlGajEyM3UwODFrQ3pRWm1zaDI1MjhkY0xMN1hMUEQ1S3RtdTlHT2VPS0xoaW1tbW9NQkxwVFI1NDJ4LVQtWnZoeGc4X1VXMnFUZEJzWEJoaDRjWldQVkYzZWQ2S1E?oc=5",
+   "id": "f0ba5559cc",
+   "title": "Avril Lavigne welcomes her first child",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUJpRmhiMEh2NVZvbGNEQnhWaVIzRXRQVVNYanRSQ1ZpeWdDeV9qZVlXTDAtaEptSUpXMU9IRjVTQXVDMDdrRTdqSUFENFVLa25QcFZpb1F6c0xzT2JkNW9kR0Jtcm5CTXNORWhJS0hfTTJjSGI2SUhyQ1BFM0lZdDJWRUlDSkRGSTBRdEJHekdZNXhpWDFlbTRZZ242SW54T3NxY3hVNGVJRnQ0SE5QUm5R?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "ABS-CBN",
    "region": "PH",
-   "date": "2026-11-14T07:04:00+00:00",
+   "date": "2026-11-14T08:17:10+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -361,23 +344,6 @@
    "topic": "Society"
   },
   {
-   "id": "2211213a81",
-   "title": "Sustain security efforts beyond 2026 chairship, PH tells ASEAN",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFhLSVhiTXpkT0xINUhPbkszb2NFdmRCYmp1alZVSS1jdE9hMDl0SW11WWZzTHF1Y213Q0kxVW04cVYtWnQ2NFVvTHEtdFlIMFc5TlgzWFBUMFNKZmFPaEw3aWNmMmZRcHBIRG1HZWJ0TU9ZcjQ3TUk2ZWE2RXNzZk95SkJDbzM4c2FBZldWQW5oZmx2YkdR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Philippine News Agency",
-   "region": "PH",
-   "date": "2026-11-14T05:54:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7b9d8631b1",
    "title": "How to Watch Thunder vs Clippers for Free: TV Channels, Live Stream Options",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0owWFVsRDRkb1NBd1lkc0Z6SVRpNWdkU3NzMlJTSElrcmQ1X1E5SklCNXRnVEVCUXVfZ1k2d3pfUnZCNlpURzR0R1JUeFlMMDFsNk1HNmNXRm9GOVVMejI4aEFXZC1vakJwb01ITi1XTWRHTV9TaFVvWG5Ic3NtSGJKbGFlQQ?oc=5",
@@ -395,14 +361,14 @@
    "topic": "Society"
   },
   {
-   "id": "606dd679ae",
-   "title": "Meralco Bills to Rise Again in November as Peso Slump, Middle East War Lift Power Costs",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUnZELVBpZ1haOGdhVkFGUlJ4ZXN1WktqaHRmeDVDbm9EWDc1ejgyb1djd1BYT245c3VXZUFvRUhLRjMwT0MyT3REaXloQ3ZmUFF1UjlGa0tHUEFPSlFRRVJkQ2pnN2lVajJPZDJkUWMzc24zQ1E?oc=5",
+   "id": "392952627e",
+   "title": "Amihan no longer affecting PH; easterlies prevail",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRmhoQk9ueWF1bm1LWUxMblhrc1FXYWhVeWpqbUdWZW1aa0M1RmRTNnJyYUhjWnVVZ1k2RDZ4a3ZyanZWZVgxXzlJZ2hTRlJ6cXJzMlVrcGxNeVAtSUVid3NrLTI5OWd4bVo0bk5QSTB1YWJWQ2ota28wSERUZ2ctV0dzSGxlNGw3Z1I5YzRJY9IBlAFBVV95cUxNcHRXLXh6WEViSmpqeDRSdkRMalFUVEtsR3NwVUtTZllrSHM3NWg0VVJ1bVVhWmhHTnVoNmZScVhYblB1dmp3OUd5QkhBYlNSekE2d1pFcGp3VHlQM0FTcVNEQ1FVNTNxc3dZNEFLVkFZaUtqMVdTX2RCblVGU1AxSk85UFJBcE12ejY5QnMwMkhDai1D?oc=5",
    "summary": "",
    "image": "",
-   "source": "BigGo Finance",
+   "source": "Inquirer.net",
    "region": "PH",
-   "date": "2026-11-13T23:55:00+00:00",
+   "date": "2026-11-13T23:25:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -412,14 +378,14 @@
    "topic": "Society"
   },
   {
-   "id": "392952627e",
-   "title": "Amihan no longer affecting PH; easterlies prevail",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRmhoQk9ueWF1bm1LWUxMblhrc1FXYWhVeWpqbUdWZW1aa0M1RmRTNnJyYUhjWnVVZ1k2RDZ4a3ZyanZWZVgxXzlJZ2hTRlJ6cXJzMlVrcGxNeVAtSUVid3NrLTI5OWd4bVo0bk5QSTB1YWJWQ2ota28wSERUZ2ctV0dzSGxlNGw3Z1I5YzRJY9IBlAFBVV95cUxNcHRXLXh6WEViSmpqeDRSdkRMalFUVEtsR3NwVUtTZllrSHM3NWg0VVJ1bVVhWmhHTnVoNmZScVhYblB1dmp3OUd5QkhBYlNSekE2d1pFcGp3VHlQM0FTcVNEQ1FVNTNxc3dZNEFLVkFZaUtqMVdTX2RCblVGU1AxSk85UFJBcE12ejY5QnMwMkhDai1D?oc=5",
+   "id": "452dbe18f3",
+   "title": "Warriors vs Spurs NBA Cup: Here's how to watch",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM1E4akJNS1dOM0RsNS11bUFOaWdEcEIydEFHc3R5UXJqWkVuRHVLUHQ4TlJEY1JIdWthcDM2MDhCRk5zTF9aYzJzUnh6dnR5UVFKTmlUX2lRRjl0OGRZNXFIcEFKT2laMzlEeGRFNWxaRmVjeXROVEw2WWpITXVUaEtobURzVnBCTzlIRk1ER29VaWEwbEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Inquirer.net",
+   "source": "SFGATE",
    "region": "PH",
-   "date": "2026-11-13T23:25:00+00:00",
+   "date": "2026-11-13T21:36:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -480,14 +446,14 @@
    "topic": "Society"
   },
   {
-   "id": "225493b70f",
-   "title": "Sol y Vida Recognizes National Diabetes Awareness Month, Honoring the Families and Communities Leading the Way on Early Detection",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMUo5NURnUmtBdzc0V3kwUkVqTFZvbDcwYjhTUHdaai1MRV91MDBqMVF5Z3VFTU9abG1XUVFpTzA2cnlqN0tKY0VudmhZQWxWNjhic1hIWU82eVV0eXpKSk50Q0xrVTQ1QkU3UnJDa0hHMXBXWERtTUl3WV9VUHBpZ2JZUlAxbUxIZDBPN3VZN3RZNm9GV2VsOXNJQnBrOXpLS2R5VUJkbHZCVXZZYTlXOHRSQVZhTVV6cXJISERuTEl3cGtOWWlReHhua2ZuWTZFNjVQbjNkYXVVci1zd1h3Mms1cnBZOHVBcVJQRUJwQWtWcDdIdFg3VlNkRGFQYThrekpZeDhBekNuamhnZlBmeDZ5dUhXeXR2Rk9lZWNnbnR3TmZNNXlWTlJB0gGvAkFVX3lxTE8yd3pxVS1UR1RiU09mYXUyNW1GZkhrUExmTlNzVjZWa1BJb1gxUThkSVVWSFczUWhySHVjbHdYNlRhV1RtbmdIcW9kR0E4UkV1Vnhoa1hLd0hqdHBLTnpRZ3gzUFFjU2lPS1AzOHNUVnd6UzFfQXVhMW5uVjhiSEFaSFEyeDl0bFJRejFRRTQ2N0R2dWw5aExPbDhsUG5rczZUTUZDV01wOHhNaHNKMS1LSjVFLXZycWlMRDBSRXM2NnNsa2I4QkxFcGU4SzF1bkdfbUZzdTd6S1R5TE04Um9rdElfdFFHbU5kcjktZE91Z0dfVXhLQW1taThrRGF3UVVlZzZJOTB6LW9vbkZvUWU2RDk3RDNKWkJDZ2c4UUdwemR2Vktidy1OR1NSSm5Taw?oc=5",
+   "id": "f6eac365d7",
+   "title": "The Under-$20 Stocking Stuffer That Keeps the Whole Family Warm: CRISLEX’s Magnetic 2-Pack Hand Warmers",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWU02M0UtV21lX25NOVdzazNxTWR2UGU3Q2xjNTBsYUlLSlpodHg3WE40VXEwMy1SMHBYdTVHNE1nZUpmZVdyd0VqMzU0OTFrbmdrdUZkQ3VmbXVGUk1UYnZrMlVCMmotM0VhTzVjQ2RTZHh0dS1mdTZnZzYzTENxTTE1LXcxVEdvcmFhV3AwcVo2R1lES25pS3NMVE9GN0hjbDNVcl9uRGhVeFNVNGtJaURqa3ljTEs3MG1iMkZJV2xEUVVNTkdZMFdDNU5FZHJGcUkxNTcxVHlBQmdwNnd6d3lnUHBhaFcyUEZ6cTVLRDFIalBsTVJTVHU4bE1OMXdTZ1VtNg?oc=5",
    "summary": "",
    "image": "",
    "source": "The Manila Times",
    "region": "PH",
-   "date": "2026-11-13T14:35:32+00:00",
+   "date": "2026-11-13T13:12:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -497,14 +463,14 @@
    "topic": "Society"
   },
   {
-   "id": "b5cc277675",
-   "title": "Let’s go back to 1997 and play the original ‘Grand Theft Auto’",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzJQbGltcUVnM0VjZk1pTV9rcXlqZU1BeDF5RW1nY0thcUY0QXNfVmpCWWJucXBqNktvNEhpMnFKLWQxSEJ0TGx6M2ZGY3JYMlpaNkgzY1FTNHI4b3NxTndJcXliRFZNUkNra1Q3LXIzYXA4VWNSUVg1NnVyRDc5RGpQdUJNdmItYlhrd1VBdWxZOFN5aEFHVFZJOVB2dG5z?oc=5",
+   "id": "266ce40c29",
+   "title": "‘KPop Demon Hunters’ Golden World Tour: Every Date, City And Presale",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb293Nlk1dHdmNmhPQ3ZoM3ZzbWRURTZ0N2ZhNXBvVUhuNGFveDFkTlNWWXJ1N2dRT3lqV1ZGVGVVYUNLbUVGSFZhaWhvQmdDVXl6UUVsM0FYM2RtZ0VnXzNSdUNONU1xZ2daMW1jNEIyblJXMlNFc0xGT2RoamVXVV9VY2RLRXRZTmV5Y293MHJUU2l0Sm5kcUs2bld5MzA0NUkzdmtNNlZTLWtNRGEyRHR2aHZYT2FhUEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Top Gear Philippines",
+   "source": "Forbes",
    "region": "PH",
-   "date": "2026-11-13T14:29:00+00:00",
+   "date": "2026-11-13T13:00:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -531,6 +497,23 @@
    "topic": "Society"
   },
   {
+   "id": "be65f54cc4",
+   "title": "MSI Crosshair A16 HX MLG Edition: Gaming Power Meets Anime-Inspired Design",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lXzZOMmtTcXhHY2JyMHBPeHBaaG41Qm5nYllwSVhIUXN6OU9jT1BMbkxLbzF0Z2VvalZXcDdTX3N3Y0J4YnZzdE5FSkl1Nkw3TkdvNDhvbFRkN1c1emJFYjM4ekFtVnh3MHh2WTUwT3ZNZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WalasTech",
+   "region": "PH",
+   "date": "2026-11-13T12:18:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "90f6d0cdd0",
    "title": "Marcos calls for patience amid Asean Summit inconveniences",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY28xWmNRZFZFUFVPSGJjd0xzUGdLS2htWWx5R1l0cU1ia2Z2Qy1jVlE4RVVnd2Q0NGMwRkdmNV9SeWwtOURjajdmcWZkWnQ3aUtDUzlvV2VrVnFQTUQ5Rm0wVnJDQUNKWEtuU0J1alBodXZVZFBRMkRNVDJOdDNUbDl3YzZGNWROWEladkRlcDJNLWxfWVVJ0gGkAUFVX3lxTE9NTmJ6c0NLdzRlQlJXQktMM09USDVNZ2dTY1BFN2l4Umh6SmZqQkFPRlNHTGNtX3JtbllyY1BGSDQxOU9Zcm1PVTNERzlFcU1NZmNXTXdvNFF6X1o3UFBrWnlJTE1IM1hLNkVxdHNXb3k0UWtRczQwNHBwMFd5TzAwaWFkdTBmTDVnUnJzY3ltMldxamhVZHpjQWxxX3dMLUM1UURR?oc=5",
@@ -546,6 +529,23 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "4cec750a2d",
+   "title": "85.9 Million Records Exposed in Philippines Cyberattacks",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwa0YybzRrZlhKTmkybWxWdkRvQTg2RjdZRHpCMTVSZC0xbDF5amVBd092R0ZMdFNXeVN3U2M4SWpjY3pJSjNYWkFSejNrMDVxbmRteTRZck5aV1RZWFY5bXkxR3lSV3JVdVdBa0hyM3U4RHJPVERB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The 420.in",
+   "region": "PH",
+   "date": "2026-11-13T07:08:49+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Tech"
   },
   {
    "id": "d38aba81f2",

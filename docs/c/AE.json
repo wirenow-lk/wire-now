@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:56:36.642942+00:00",
+ "updated": "2026-11-14T19:39:32.781507+00:00",
  "code": "AE",
  "name": "UAE",
  "stories": [
@@ -11,12 +11,32 @@
    "image": "",
    "source": "The New York Times",
    "region": "AE",
-   "date": "2026-11-14T18:53:48+00:00",
-   "coverage": 1,
+   "date": "2026-11-14T19:43:59+00:00",
+   "coverage": 2,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "14d283b20e",
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "AE",
+   "date": "2026-11-14T19:21:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
    },
    "topic": "Society"
   },
@@ -36,6 +56,23 @@
     "flag": "🇦🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "6bd27b41dd",
+   "title": "Italy fines Meta $887 million over Android users' data access",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "AE",
+   "date": "2026-11-14T18:12:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Tech"
   },
   {
    "id": "ed020e8974",
@@ -110,6 +147,57 @@
    "topic": "Tech"
   },
   {
+   "id": "d640b2ce32",
+   "title": "UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tonight",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzV280OFF1Z2VMVXlpeEtaRFFzcUZlQ3VVSWtJZGdkaW91RV9mRm1GVlIxZnJuc3htdElrdTRLRFNFYlZfeUNBcGFkY3BTb1BodWFmMTdSM19kX3RKY1U4SWxSMHI1V3hYQm1maWs2d1pRQnRn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS Sports",
+   "region": "AE",
+   "date": "2026-11-14T17:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8edb608fc8",
+   "title": "Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy”",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDdEVGJwWkw5ZDBXcXRDeU9pQkxPMnN3ZEhCNVBQUTdoOVpHYWs1ZUVmRHVzQUVDd1J4S0FNclZRLXJuWm5ERURidXBCUlVBOVJTZ3Y2UHZPR0QxdlpldjRLQjVIWURSQmVObzZXdTRpLUk4RGxUamtocW5RN0l1VGtHZ280dHlCZkVZRkFXcHZtWTlUbi1tSTg0TkU4YVBxV1dSaQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hollywood Reporter",
+   "region": "AE",
+   "date": "2026-11-14T17:28:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4415b2930a",
+   "title": "Pennsylvania, Wisconsin report additional deaths linked to measles",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTZWOHI2bXl5ekN5VnJRblFQXzFOTjBuSFg3YjViRmdrX0JMS3FRY254ZnFpMGpraEg4MGFXN2FFSmJob0tWZ05qajREM1NpazU4LXA2bnVFQmo3VkdNVjFLbXhUeHk5aExiME1iNHppdGhSREVLdk9FSHVvRUhPLXRLZl96RHYwUl8xa2Z5WG1jWXo3cWZz0gGcAUFVX3lxTFB1bE5lLUJsVFhCdjQwR09PcWNfOUNPTmprNjdHenFoS0syYWhKS1J4d3VQSmwxckctaElRNVNBTjBuLVcyOG55QThhaVY2S29tOGhXaHJVX1ZiWGJiaU51TWF3NGFvTTBCdlR5Xy1SMURRT3ZTQV90UkNTNWFTcFZGR3RuUWQwSXpZTkt0TlVXTm9rRTRtMk0xVHgyNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hill",
+   "region": "AE",
+   "date": "2026-11-14T16:33:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "008d2d8b64",
    "title": "Stephen Miller faces first crisis as White House chief of staff",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUJGTmU0OUlnNHg1QVdVRUZsQVZkMWZ2MzhqRFBIMzFxOUNpN3AtUUl6a1lSZnNnZ3hpbUJUeFNqLS1mNlJtVHJtRk1UZFhNNmU1X0ZkS083UEF1S3F1TUJHS0tOaF9PalpmVEJMZjg2blpsRHVHeU05enVwakI2cFc0LXhmM3loeWotMkNyVGxsZEh5VVhxeDNZQzJtdnRlMGZaMGxiYXp3V0JnZWFwT2ZzYw?oc=5",
@@ -117,29 +205,12 @@
    "image": "",
    "source": "The Washington Post",
    "region": "AE",
-   "date": "2026-11-14T17:32:11+00:00",
+   "date": "2026-11-14T16:23:20+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "576b56a1b2",
-   "title": "2 Americans die in suspected drowning incident in the Bahamas",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2NYNjJjTXFpOWJwVEw5U2hPVUNWMFFNWjM0Ti10ZGd6M3ZnampFeFA1UDFiU2RmRGhSZWROTUpmYm9QWExIbXdscmV2SHFxRmNQaUhrY2U2WEpCUkJSNlB1VkdpclVMTlZLeWk1MkFuc2xGbFVpLVZYYzdlcS15cDYtOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBS News",
-   "region": "AE",
-   "date": "2026-11-14T16:26:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
    },
    "topic": "Society"
   },
@@ -229,23 +300,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "d3f0053094",
-   "title": "Peoria police urge evacuations after 'credible' bomb threat at Illinois plant - ABC News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUlhcVh1Nm8xb09QWHlnamhEejI4NWFhNm1RUWUzbTZXQk9zdXh5WjRrOTVFdXRqUGc2RDRKaVFGb1E1QW5zOEx3a1B1TFRWa0VkOWlndlFhTnhfLWFRWGtkYVFHRTRzejBLQVFHamRCSzczYnpTcjdkclBUMXBQbF9CenVnb3gtMUhyY1FfaVc4b0pDREcwUDktMW9LaXRx0gGmAUFVX3lxTE1UWkJBdjJiNGplWUxZaW9TY1g2TjdYMktKWWpqYkk5N1ZBd2tyUXZ6TnM3anQ5TkY4WHdDNGt4X1BiU1NsandjQ05WWVZVOU5NNUNmQ1RINGZRZ2RnSV9jYXZqRjZDazk3Zk95TTVjVFRJNGxsWVhVRzVvM09fOGJMUWU1dGFrUW9jclo0R3M4UlVKR3A5NWw4UWNDaWxYc3psZThDLUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Breaking News, Latest News and Videos",
-   "region": "AE",
-   "date": "2026-11-14T15:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "37adaf30df",
    "title": "Russell Brand Jokes About Being 'Lonely' In Jail In Resurfaced Interview With Lindsay Lohan",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTM0MlZCRjBQenNJQkROdGx2ZzFTcGE5MjN3YmNCVVFrWUtFcTgxZWZzTTc3Zk9oSG5uTzRUOVp4dDlZR09QNmYxa3FpRDFHajhTVThFUkZHb3ZuU0hVbnJNNGRXSmxOU2VhX1AxQ2RJS3QtR1FfdjRmT1pHeGZzcHpQQW9PVTljV2xsNkxnSGlCTl90eDRPVkxkTUpvSEVxOVRrQw?oc=5",
@@ -263,31 +317,14 @@
    "topic": "Society"
   },
   {
-   "id": "4d37199a53",
-   "title": "Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVY5SnR5LXZkRWhWSU5xalppcXRvenZYWVBTWmRTMkNOVkstcURFTWM4aXdrWm9FNFB4aHZsdElhYk8tc3dTYUxscng0bWZlY0phY3RUaHpieFIwVG45ekVlTkJSeGdRUjczbDZFN2ZGMVRrbDMweUU0a1RpSl9QSE9aRWV5VkthbmVjdnFVUEU4Ui0wSk4w?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Variety",
-   "region": "AE",
-   "date": "2026-11-14T15:43:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5466b9dd99",
+   "id": "6f0f8a66b6",
    "title": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjd6a3BlTlpLTm5NVnIzUzg0YW9rZGI3ZWRPZDlZQi1FV2dabjRRMWZJYV9OajBUZE1oWWNvczBTMFFvalNWQ1QxLU9NOTZmLTh5dWtyN1hQVlh3b0VhTmlpYzZxQXJJVzB5RTZ4TGVZdE1abnF6VVdBRkwtT19FQS1YMEJvc0dVcjlhcm1TWndld28wZVpDMTBOVTBvM0Z4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZkJHZ2s3RE93OXJMMmFYTHZQQ0VmZHpFMHZ1ZEN4NnA0R1NuMkFYYm44MlZYMzNtaUdiUEdzUVR5RE1LUTN0dXVDZGk1dkJpV2VYQUhXeXFoZS1jeVB0QllyMkxKNVAzaXBTQWZ0MTY?oc=5",
    "summary": "",
    "image": "",
-   "source": "Variety",
+   "source": "Yahoo News UK",
    "region": "AE",
-   "date": "2026-11-14T15:27:00+00:00",
+   "date": "2026-11-14T15:27:58+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -314,34 +351,14 @@
    "topic": "Society"
   },
   {
-   "id": "14d283b20e",
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
+   "id": "34d1c921ed",
+   "title": "Brian Kelly interviews for Big Ten coaching job",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZjZsVVpKX1l0QmNWN3FlUmRWVlM1X0VXNnU3Q3JLSGRtN3g4cl9IWHRLaWJ2dHBMVjd4TS1JT000VlY3c2pUVkV1bGgyUEhva2xNMmZiUjFaNE5CNkNBYnhkd212cnR5RlpXQW9FYUpKN1ZsRnBoV0RMUE5KM3lKZ1JuT3JrYmZfSC1B?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "AL.com",
    "region": "AE",
-   "date": "2026-11-14T15:15:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇺🇦",
-    "also": [
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "44df091f70",
-   "title": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSW9jTGlpdkhxZk9CNzBUbEpnY0oxV2hRbFUxajd3TW96M3YtdGtKXzlJbHJBZzk3VEtDS2R1b1lEamNLbG5MTDRzUnFQdmlhNWVBbWNQVHpFRnI0YzhqdHRiRlBMYklYMWo5UFpma0pUZFFHc0VvcmthNENYTmRmdFBseU8xSkJTaTZvcmZPUFVCVDNwdXJqb1duTlV4dC1jQmdHajF1SnBDUGtELS0tdUZrQWhvYXQtRXcyUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Space",
-   "region": "AE",
-   "date": "2026-11-14T15:04:34+00:00",
+   "date": "2026-11-14T14:31:00+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -351,36 +368,36 @@
    "topic": "Society"
   },
   {
-   "id": "a76dacda49",
-   "title": "UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVJ6bmI2NWtjeDNlM1lLMXg3ZEZucTlSc0hucS0zRGxrZkRCVDNyTWpaekxSckhZajlzSmNZNUZFcHRYMlZFbXptcUhLcDBHWF9MeG4yZmtQUXBYWTJlMUF2NmNYT1Vvc19JWUlhUUFmMkdkcnM4VEM5RXFnR0pBeDdReFhYQ3h1RGhuOGNZWEJlQnZXeDZoeEpZMEFwY0pONTUzbGpOTGYxWERSNzJZSUlocVJJUmsxNHV5M04xeTZXZjUyM3o4akg3SUwzQmctX0RJV0pn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Fox News",
-   "region": "AE",
-   "date": "2026-11-14T14:53:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6da1c9de15",
-   "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHBXcHlxSWh4WWRHODc0WEU1U1pVbDJNelNMWkI5RHpZajVuc3AzWFJhT1ZVRG56eXo4QUdxbXhxZGJxVG1JQ2NkQ3pyblloU1VWUzJoenkyTzI0WkJ3VmxtTlF5ODBpSkI0LTBYbWVUWUR0MU90Z0ZfREdnc05uV2Z2Vm81dTlkLU1YLUplbFloUQ?oc=5",
+   "id": "ee41b6f967",
+   "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNblc4YTI0VDhiZk1XOTVqRmlYTXZRWklGb25pY0I5Q1lDT3Mtby11elR6alhaZjJaSmFnWmJ4VGtqQ0xyMG5xZlU2bzhBNGxham5uaHJPbGc3NThRZHdqa1ZnODRqbGkxc1VUN01KaEdlN0hpVWU1UEduT2poaHJIWXExZlFWUQ?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "AE",
-   "date": "2026-11-14T14:08:00+00:00",
+   "date": "2026-11-14T14:13:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "UAE",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7499a39d20",
+   "title": "MAGA turns on Lutnick amid China spy scandal",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVjViYmdFdVdLcUZqMlFIdWsxdGZad3pwSEh2dHpzaFVzWVNzdXJ0bVYtc1JPYW5lajh1WEZ0dFk2VzhzdGxsWXNEUmtmMFZRbTdiZjhsVlFKeEM5cVhrZWNGS05wUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Axios",
+   "region": "AE",
+   "date": "2026-11-14T13:51:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
    },
    "topic": "Society"
   },
@@ -419,40 +436,6 @@
    "topic": "Society"
   },
   {
-   "id": "f6679bc47b",
-   "title": "Man in his 70s diagnosed with rare heart defect usually found in infancy: \"Lucky to have lived this long\"",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYaWxkTktUUzE0MzFxMEp3TVY4TDFTTDJOUjhjTnVyMDQyRll4VjRBREx6WmxrRWZyV0JPY09FeE1pbWxDZFdLTXhlVldsdmRxd1BkaTRlTzZPbVdGZzJraEEwdXBtcmlDVkhndGZSQWZMck9IRUE0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBS News",
-   "region": "AE",
-   "date": "2026-11-14T13:00:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7499a39d20",
-   "title": "MAGA turns on Lutnick amid China spy scandal",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVjViYmdFdVdLcUZqMlFIdWsxdGZad3pwSEh2dHpzaFVzWVNzdXJ0bVYtc1JPYW5lajh1WEZ0dFk2VzhzdGxsWXNEUmtmMFZRbTdiZjhsVlFKeEM5cVhrZWNGS05wUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Axios",
-   "region": "AE",
-   "date": "2026-11-14T12:39:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4bc4744d73",
    "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6NG54Z1ZGTjNWOXRhVU1STzdjb3BOMUU5VWNGQnlodDdoREJxbE1YSHAzSDNyQllJWnk4ay1SaGN5bXIweTVTWDZaZEg5RGJrRlByVWI5RWpfRmxHbUlwd2hYcjdxUXktZndReGVudw?oc=5",
@@ -487,19 +470,19 @@
    "topic": "Tech"
   },
   {
-   "id": "2f0642442d",
-   "title": "The senators who could join Van Hollen's insurgency against Schumer",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5",
+   "id": "363dce0a4b",
+   "title": "As Congress Plans Investigations, White House Prepares Ferocious Response",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYkx2YXNrZlBZU0dNZlRwbU4yOWRiRVhpWV9rUDNHejQ3LTNacGdoLUU5eGM2QVFLMjFDUmFBS3lhVjk2amgxZHJhcFdmWFE3S1hYU2lnRzFkYkJrTjU0UGlUVW9KRHZoVldDNUxTOFFpUVRCeHlTQmx4dnJWRzhJY1FnVU5wSGVW?oc=5",
    "summary": "",
    "image": "",
-   "source": "Axios",
+   "source": "The New York Times",
    "region": "AE",
-   "date": "2026-11-14T10:51:48+00:00",
+   "date": "2026-11-14T10:02:21+00:00",
    "coverage": 1,
    "location": {
-    "country": "UAE",
+    "country": "United States",
     "place": "",
-    "flag": "🇦🇪"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -538,23 +521,6 @@
    "topic": "Society"
   },
   {
-   "id": "f74a4b3477",
-   "title": "HomeView Tidbits: Mirror, Sleep Timer, and Other Details",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkZ1owaFRKTFJrS0F3Ymw1MmNESGlCTWhiMk40a0xlN0t4VlRLQnRMWTlNeVdqS2tqVXJySkR0SHRhRXVKN3luVU1ESWV0R2p5N2NTbjZhQ3dNd3lFb2M2NXNlSHZBNWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MacRumors",
-   "region": "AE",
-   "date": "2026-11-13T22:04:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5bf4e1cac1",
    "title": "Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnQ3REtQVWdMM0ViRGFHRVBiektOamtSSmJIUjBOdWM2ZE5fTnJ6NmllbXhQT2NvUk81SnNXOGhYdDlVU2pzaFdQWjRqMF9iOEh3VkZDc3lLdDBvVHlhdDJqVElkTi1Wb2pNV3Qtd1JKNW04WVlObFppYmhmZklfMEtPQzRaSXlNRWVKSmZTUzI3VDFFLTVGcEpxMmIzb0RuV0NQU2Jocm9xTXdBR3JrdWhLeW9Id9IBuwFBVV95cUxOUGVJX2lkTkxZa2RfcXBFM3BCUEVRSmRpSDZGUENzaERNQTRlcUtVUV9Cd0NQc1Fwa3JzSTE4ZEJjU3k3cW5hdXc5UUdRN1l5ellmQXpDbzdFendNZ013bHNSenN3dXZpcDRIcTFURVplRDE0UGc1NFlPUUNSdXQ0ZGhTZGZjTGNFc0pTTXdvRG96UUtzaXhBTHBBOVpXV3FHQTZTUUZCNFhBNkRYN05IeWlidkliSFhuTVFn?oc=5",
@@ -587,6 +553,23 @@
     "flag": "🇦🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "903335cdf1",
+   "title": "After 3 Weeks and More Than 451,000 Folds, the iPhone Duo's Hinge Is Finally Starting to Fail",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1RydlN6dGdpdzJES3BBczhFS3ViSHFPT1ZwRjNxbDgxdnRWNTBUTXNmRGpVdHhrWFlGWnNwTWUzLWgyXy00V3FyNFQ5LTNTTk5yZ0xoZWtjMmxBNjY3REE1SDJwaHM2dEpZdXc4eHBNeE5lX0dGUy1lVU55cDVUbkJn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNET",
+   "region": "AE",
+   "date": "2026-11-13T16:50:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Tech"
   },
   {
    "id": "f3592280a5",
@@ -640,9 +623,9 @@
    "topic": "Society"
   },
   {
-   "id": "e5f2d815fd",
-   "title": "Zelda: Ocarina of Time Remake Sells 5 Million in Four Days, Yet Former Nintendo Leads Say The Series Sold \"Like Nothing\" Before Breath of the Wild",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUklWZzlXU1gzQ3NWX2x3dVpOYnE5OU5WVE5pTFFjRVZNTlYzbTY4NWNqMzIxeXNNYlZwWTNDNkJMRWoxX3Boa3U5OU9WVmRLdDVfQldvYzBWWGdlN0kzcXhmUENtbEZja3pJa1NyLVpwcFA2TW96WlRwemk0ZHhoeU9CSTM1RGoxZ2hHdmxDcjc4YS14eVhwbUlrYkhGcV9kd3d5d0pTanctVmhQOWdF?oc=5",
+   "id": "b4add258ea",
+   "title": "Zelda: Ocarina of Time Remake Sells 5 Million in Four Days, Yet Former Nintendo Leads Say The Series Sold “Like Nothing” Before Breath of the Wild",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUklWZzlXU1gzQ3NWX2x3dVpOYnE5OU5WVE5pTFFjRVZNTlYzbTY4NWNqMzIxeXNNYlZwWTNDNkJMRWoxX3Boa3U5OU9WVmRLdDVfQldvYzBWWGdlN0kzcXhmUENtbEZja3pJa1NyLVpwcFA2TW96WlRwemk0ZHhoeU9CSTM1RGoxZ2hHdmxDcjc4YS14eVhwbUlrYkhGcV9kd3d5d0pTanctVmhQOWdF0gG0AUFVX3lxTE1hVmpWRGZUZWswUWJEMGdZb1BVUzRDVVFNZWRPZUVQN1hVVWZGNDk3TXpneDZlRmljT3E0VU93d0dfQTNIVTVISlE2UmE5MXhRdzR3ZTBzMldxS1VtOFZ2ZFJIMEl3NVpyeEluM1VjWTFrWEsyanZwN3BFa3dzZF9rdFhTNHVYUHhCY1IyRE9UTHFzYS02NmVBeXRqYmVyMzA1ZUFuQ0Q4VDFZQUluY29WclJKUA?oc=5",
    "summary": "",
    "image": "",
    "source": "Wccftech",

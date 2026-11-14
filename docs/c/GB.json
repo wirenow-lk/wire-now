@@ -1,17 +1,37 @@
 {
- "updated": "2026-11-14T18:56:36.642942+00:00",
+ "updated": "2026-11-14T19:39:32.781507+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "c95c8d90d8",
-   "title": "Man, 21, stabbed to death in London",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTFpDakp6Skpqa2ppR0pjOC0wT3FWRXVxRFJuVjBGMVN0MWZ0MldnaEVlS2xsUzVFQlc1aDVjRE96azZNMjFyRm5zTG1MdFRFYWNHUlhWbHVDbkRaTTdSM3J2QkNRR1h6THNHdmdXSXltdUFzSnJwQw?oc=5",
+   "id": "9f34ca1cfb",
+   "title": "Uefa Nations League: Norway vs Wales - watch live stream, listen live, text updates, stats & head-to-head",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54akhLRTZDN0toZHc1VzJkTmdtRTV4bzRTR1NPRXIydnN2RHMzWlpIaTVfT3RkMm5SMjl4N3BVdWxzc2FSNG5YNzgwR3lVSUk0UVgtNlpFVXZTb0FSc1JMWWF0Q2Z0UQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky News",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T17:31:08+00:00",
+   "date": "2026-11-14T18:54:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Norway",
+    "place": "",
+    "flag": "🇳🇴 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "95b14c8542",
+   "title": "Thomas Oduro: Murder investigation launched over 21-year-old's death",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56U2JxUU8zb0h5LWNsNFM5WHZBMTlNbjc1Si1wZUszVllRLU8telJjZG51dFRVR0RaOFFhdlUxTmlTWXBJVnByekhMVGlwU1JONVM1LVNFQjlhR1pvd0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T17:56:24+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -21,22 +41,36 @@
    "topic": "Society"
   },
   {
-   "id": "8a027010ac",
-   "title": "Nations Championship - Wales 35-28 New Zealand: Hosts display immense defence to pull off first win vs All Blacks since 1953",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZlV4SWxWNjRzVTJ1SDJvZ2Rjc2NVckxCb0Z1MVpYRVhBWUw4c00tOVdoMVJnX0NQa2I3d0hvaTJuMHVRM0tOQWdoTC04UzZGWldPNjBMV2JmUlRXTnlLMFVENDhiYVpja2xWNVlSdkxyaWlXcU53RmhqUHJHZWtjRTAwMGZ0VXlnTHFlRzFUUmQySFRyNTFSeHhpS2lqY3NNQWVMMlhydmhJWWNvaVBTVEI5T0FMNF9JQlJycGRucmlTM2w0Z2pfc2h2LTM1VGpWTlNTeWFKeG1PU1RwMktPNndtWkJGc3BHenZRckZ0QnZYRkVmMTloc3pwX0FYSTdKaWpz?oc=5",
+   "id": "736dab59b4",
+   "title": "Wales beat the All Blacks for first time since 1953",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM01pM1haYzhoNEFCOGNuM3NjbE9zbTNyR18xeUN0VmlGeDdrM1BfOXE2d0tnRkpSa3ZCajl2UVBiS0JVS3BNQ0pVUUJCRjcxWlcyTWtERDhYSlFZTDEzVENNZV82NlNsd29xS1dpQ2hDbXNPYlJPb0QzZk9HcmZpNGQxOEVHN19iQmdWTnlmZDI?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sports",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-14T17:23:27+00:00",
+   "date": "2026-11-14T17:36:48+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
-    "flag": "🇬🇧 🇳🇿",
-    "also": [
-     "New Zealand"
-    ]
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3c17fea293",
+   "title": "Copper wire upgrade work caused nationwide flight suspension, US transport secretary says",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T17:03:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -75,21 +109,38 @@
    "topic": "Economy"
   },
   {
-   "id": "3c17fea293",
-   "title": "Copper wire upgrade work caused nationwide flight suspension, US transport secretary says",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
+   "id": "7d1dc63cd2",
+   "title": "A rapid interest rate rise seems inevitable – and UK households are expected to pick up the tab",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWg2eXA2U2I2QTRzRWFjcVV2X1hQaURhamh1aGJId3lGUWRRUkZySEdHWm5TOUdxOW5lZ3VISVZGTmxBTERqNjlxLTVqVXlaRkdxNzJSYTBoNlJWeFNzeFI4Sld4d2R5NkZuWmhHdUR2MWF1RGN6UG1sbkR6VC11NFViWUxpbHg0X1R0aHp3eVJ4WnpRdVlKUG5NMEVERmNL?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-14T16:41:31+00:00",
+   "date": "2026-11-14T16:55:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Economy"
+  },
+  {
+   "id": "5cd0c98d9e",
+   "title": "Police launch probe after four-month-old baby dies at north Glasgow home",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXNMU2FELVdacC1uSFRCRkh0VHo0ZHJMMVdTTTJ1Q1cwUTVTVnJDeUlNaTgxWVhTVFp0bW56SmVBUmJ6ZldzRnJNU3V5QnVtajVqSTBQenhNbkNlUTRpdHY0SUN5R3BsQ19PTUZkR2lDS2R3WGdWblZwdjRVOXpfeDVScUpKa2VXTTNsdVhBRUrSAZYBQVVfeXFMTk9SZERBU2kxZFdQYmVEaXhkRERqR2V0cmx3elJKSUJ1Vm13WFdGajBxWXJTeW4xbUxKOHB1OHhYMTNBamQ0WWxZQ0h6dGVwQVRIUjJGck44U2NrRTVzQ1RSZzI0R1ZjX0k0TUxIaDF0SkVzaFBzdzZDSWZfVm9fRWZ4eEkzbFVDc1ZhT2ZfLXlyX0ZNaDRR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Glasgow Live",
+   "region": "GB",
+   "date": "2026-11-14T16:12:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Politics"
   },
   {
    "id": "2263464616",
@@ -110,7 +161,7 @@
   },
   {
    "id": "c697b8b9ae",
-   "title": "England v Japan: Nations Championship rugby union – live",
+   "title": "England 78-15 Japan: Nations Championship rugby union – live",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1lXVXhHd24zN1JVSDdiNTJCRGpOUng2dmI2YTlQV1F1RlRLNlhZY3FCUW9PQmMtanlHVmI5ajRHbklKN1NWRzhWaDYxbUxfSWRkdFFTLVBhaWVGTTNqdHI4SGQ5Y2tQWTlGQXJXYnRDQVE4bkhMU29OUUFYX2FLdFlScVN4dVJ6WG1sTTR4LU4zWXV4YlpITEZ0d1JkUjZHUE0tUGxrOA?oc=5",
    "summary": "",
    "image": "",
@@ -166,23 +217,6 @@
    "topic": "Society"
   },
   {
-   "id": "aff0a99259",
-   "title": "Karndean Designflooring Mares' Open NH Flat Race (Listed) (GBB Race) - Cheltenham Racecards",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSTNlUzF4bWt2U0ItVElLWnYxQ2dVYzdsZHl3OVdnTDFBUERhS0xVejIwYkp5dk4xMEZUbzJlTXRPSDFkWWR2MktEaU5xUUVyVkNzMHJTUWw3bld3NFhTNHFwYTFkVDB6eGJTbzdGRWk5cjI5aUlJWWlRUmlmSzZfLUkybHRTMGZBZ3p3dTRpRk9wUkxGYjFrUEtVQmk0UV96RHZiTGJUVWlhMU4yT182ZHZjTndiYThDZDVMWUcycmpFRHA0c3c2Z2xqNVJvOUFlUHEtTmI3VW00SWZTV21KcQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sporting Life",
-   "region": "GB",
-   "date": "2026-11-14T14:56:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "cb535e947c",
    "title": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFR4U0ZNUWxvdTlBSEY2ckpkZGV5RTRBaTRDZWRPM0s0WmExV1lfM2NNTnVQM3hQWWVBcW1jajVuU1hNREU2M3Z4ZDA3R1dMTjljajBkVkw1ckxLT1VNdDU3aHBvc1JTUmk5UFlTNFBGeVlLbnVDTmNiS3hpaC1nMWJSZ29DckdzY3pVSUFaXzJLMGQxYVJGa0RRVjJlSFJmTl85azVaY1Zpa3pfZnQtRGRwQkZZYTRES0RB?oc=5",
@@ -211,23 +245,6 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-14T14:46:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e92b3706a8",
-   "title": "Crumpsall murder investigation after man's 'shocking' stabbing",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aSTJvenM4Mm9CYnVHSy1rTGtySGxIMWRFUm5xNkxKSmh0VXpkTVFuTEFPS3cyWmJNSmZqQjJGWU1tVmswVFJOYW1QSGZ0Wk5FVUFqWTJLTG9QVnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-14T14:40:04+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -288,40 +305,6 @@
    "topic": "Society"
   },
   {
-   "id": "6acd0257ef",
-   "title": "The supplements the nutritionists take — from creatine to omega-3",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFJmY200OUtsazVvSmhxN042Q0FlaEdjWDc1b25fd2lFNC1RajF0Ql9UOHpPUWw4bXJHaFRZcTdaSjByX0dtTGkyMHpkNGxIZ2pDNmFQV3ZWaWdFV2pBV29LaFludTdXWVRjTWRMOG1zRmotcHJra21qVFhQYm5vZFdxNlhFYkRya19Ddlg0dDdJbF9YeU5nVXN2U2xSZmZ6?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "GB",
-   "date": "2026-11-14T13:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "97fd4d365f",
-   "title": "Thousands turn out in Edinburgh to protest against AI data centres",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLMkYxc3kxeGJoRXlkalJwbUZsS2tyTkU3d3IwdVlxSEUxZjFOSVR5bG1kSWFHc2R2eWRCVjB4NkZ6VlVlS1ZXY2xzMUN6MEQ0cndzN1k2NlF5eklTcHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-14T13:25:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "51208fb2fc",
    "title": "Cold weather health alerts issued for parts of UK on Sunday night",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVRMdE1YSC03cjFzRjgxZFlieFJxQ0RMQ3pINTZpZDVEdVlESXlQUmpkOFpDX25fSTdKbDNsZHBqbUliekxVOVIySEl6TEpGRVpQdk5hYkw2UWVBSTh4U0I4b0ZUNUVpRDdSSzNJb3Z2aldoeHRpZWhGa0xjM1BSdk9vWEVIT3NrbFBkRWNQclpqTnQxdHJ3cg?oc=5",
@@ -371,23 +354,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
-  },
-  {
-   "id": "50bc0499f5",
-   "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTJTaDRiMXdzRmJWYTFnR2RDak1FNklXdm5sT0pYQUlXZzFtZkVVT3VER1g3dEpKb0YzSzRiS0JBWE1RbFJ1czJ0MnZSOE1QZGt0TF9sRUNrSGJ3YmZpVDFvMlVpdmhvMVdIbHhQcnZpVFdleTVmb1lCRzRNcm9CejIxdVZPVF9NNjR4ZDJ0Q01ZVGxoNnQyYkEyU1J5T0FGSUlueGJxeUdtVlJaaDJB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-14T12:05:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Economy"
   },
   {
    "id": "b2e9d7648a",
@@ -458,6 +424,23 @@
    "topic": "Society"
   },
   {
+   "id": "da16c78ab9",
+   "title": "Vera Holland's family appeal 30 years after her murder in Reading",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nYlRLZkxLVkFzMlJmXzZLYmpUd1FlcGVPVXhYNnkwNmtDTkFDcjZQMlpWVlhUN1YxWlFWRy00d2RLYlVoM0JMdVAtQ3g0VVhEYVZQeEJZWXV3M1FDQlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T07:25:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "5e1b0f1341",
    "title": "Rare Chinese Qing dynasty vases could fetch £50,000",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SOENsU3cxRFMwVHhiQTdRY09YeEgxYXBKeXZaMGRvLWlrOWFtdmdfNjN3Nm1NQ3JWRTRLSTA1c25BajJXcUduTWJVdXlVTjhCNFhzSHVxSG9OSlpnWGc?oc=5",
@@ -475,25 +458,8 @@
    "topic": "Society"
   },
   {
-   "id": "25b8802cd9",
-   "title": "Stakes raised as Grand Slam of Darts begins",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OdEFSTUZlYllQNmgxRnhZQTg4cE95RXgzQWZuQmZaNnNPRkxvbmZPS1g4SkZsTloxVzJvZU5OVks5SHpTSmtSbk1rRVJ0OWxIcnFLYm1fNUJ6ZDFYVFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-14T07:14:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f385c7605f",
-   "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
+   "title": "Live: More than 100,000 protest across France, interior ministry says",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWJZRklkOFZabGx4WDN5V0pUSnFnUW9uSG0wek82OGNyVm1CeHVSWlNkTmF6am1UNVplVTd6LU9iakE0RzczR2JpTWQ2UUYtNmc4dTNDVzEwS1F3WG5mQUpDMEI0SlcteHAyOTVKOHZWNE1pM05XYVZuc19zampUcmZJSm5uZjg5TVJlX29BemJFX0ZDenlkN3I2OW9WUEtf?oc=5",
    "summary": "",
    "image": "",
@@ -506,7 +472,7 @@
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "9e8fad3ff1",
@@ -546,6 +512,23 @@
    "topic": "Society"
   },
   {
+   "id": "f7b0aad2ff",
+   "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peXRGaTVTWHN0TTMwMGdISUQ3ODZlV3gxZS1GMWZnakRMdGRtcFpPUFExaDVfNDVHX1VOYUJ3NXRRSnZmcVZYdWtRNXVLRm9iR0pfMnB0VGJXYVJtR0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T00:37:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "8c41445d9a",
    "title": "BBC Children in Need’s 2026 Appeal raises £38.7 million",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xVFRlbDNSS05scEE5X2NBR3RUMXZNY1hqOXVKSFYtQk1jMjFaUDNPaDJTc2JydkM0cnpWM1NoT1padGpsWmFudi12UEtvQ3p2U1JOd2Z3TUo4ek05ZHJHUXd6N0Z4VUdZNVNHdVIxNzlqbTMxUzFfZ1BB?oc=5",
@@ -561,6 +544,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "8d1cceffd8",
+   "title": "Nvidia staff and investors demand second chance for Jensen Huang",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUm5OcGRnRlZuZWxuREhpYnFoZy1nY292VXpMOGszNjlVMkJ5ektKbjZSaEpOWHBpbFJZZkQwZUNMa3p1Wi1tcjM3dk96a1gwRTRRYXNDRTJPbmYtaGg2WC1CTkZ1NjJseEsyVC04a3oyd0hxVlAwdFBHY2p3VVd0cVluLXdKd2pRZHdFblJvWnF4a2trYW5DV2JvSVU5Y3VKMzM5VkJHNkloV2xvWHNhNG43T2t6WXFZb1Vacm9URDd0S2NV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times",
+   "region": "GB",
+   "date": "2026-11-13T22:13:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
   },
   {
    "id": "f74a4b3477",
@@ -597,19 +597,19 @@
    "topic": "Tech"
   },
   {
-   "id": "262dc83650",
-   "title": "Jensen Huang’s years-long effort to get close to China",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdpdFdoUHF2WEtfdW1CeUUxamVuY0RTeHlmLWFEcnB3ZzBnRk9mbk5IdVBZTS1taWJrcjdKelBfbGZTUWpOZHh4NWNSQTZhRTJpTUdueVR6TTZNdGNCWS0xSlNrYTVvdThtcDBmNnBtY1dBYXktSFE3NzRFWl9oVWVfc0M?oc=5",
+   "id": "ed2503a2fb",
+   "title": "Stricter rules aim to reduce risk of bird flu spreading",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Q0tBdXNnRTlUNmlVSjI3UERRelUwMUpzVkI0MVU0NG53NEZsSGhUTjNEMW1DZGU5em5MY1F6aTIwVk5XRVhMY1prZGhXOWxMTnIta3NmQVlsWThtaFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-13T12:04:12+00:00",
+   "date": "2026-11-13T19:07:28+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇨🇳"
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   }

@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 1/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 43 stories
+OK   Ada Derana: 41 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
-OK   Daily Mirror: 67 stories
+OK   EconomyNext: 15 stories
+OK   Daily Mirror: 69 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
-OK   Daily News: 45 stories
+OK   Daily News: 26 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,18 +21,33 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 93 stories
+OK   AP News: 92 stories
 
-Biggest stories right now: Trump-Xi-Putin trilateral meeting at APEC: Wh (6 outlets) | All passengers and crew on New Orleans cruise (6 outlets) | 'We'll get home one day' - US travellers impa (6 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | US has floated Ukraine ceding Donbas for Nato (5 outlets)
+Biggest stories right now: Trump-Xi-Putin trilateral meeting at APEC: Wh (7 outlets) | All passengers and crew on New Orleans cruise (6 outlets) | 'We'll get home one day' - US travellers impa (6 outlets) | US has floated Ukraine ceding Donbas for Nato (5 outlets) | Second catch attempt for SpaceX Starship rock (5 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* WWLTV.com [4 outlets]: Port of New Orleans sues tanker owners for over $1M after cruise ship 
-    important (also on AP News, BBC World, Reuters) - researching
+* Hiru News [1 outlets]: Even Grand Theft Auto's original creators haven't been able to play GT
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* TMZ [1 outlets]: Joe Jonas & Tatiana Gabriela Split After Year of Dating
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* CBS Sports [2 outlets]: College football live updates, scores: Week 11 schedule features Miami
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: NASA's Voyager 1 probe poised to achieve mega-distance milestone
+    important (also on Al Jazeera) - researching
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -40,40 +55,27 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 400,
     "message": "Request contains a)
     gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The article never mentions a lawsuit; the claim that 'The Port of New Orleans is suing the owners of a tanker for over $1M' appears in 'what_happened', all three 'details' items, 'key_facts', 'blurb',
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    attempt 1 rejected: key_facts must have 4 to 8 points covering every main point of the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 2 failed: no AI available for checkers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 failed: no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     -> no cards; posting with the site's own summary
-* Hiru News [1 outlets]: King jokes with Elton John as he marks 78th birthday with radio show
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Tenerife boss says Owono's 12-match ban 'feels light'
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Le Tissier scores stunner as Man Utd beat Palace
-    no AI summary: saving the rest of today for important news
-* AP News [2 outlets]: Meta fined $887 million in Italy over Android gallery photos and video
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: US blames system upgrade for longest nationwide FAA ground stop since 
+* The Guardian [2 outlets]: Philippines’ Carmelle wins first Eurovision contest in Asia
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
+  photos: looked up 24, found 1
   photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini failed (AI error 400: {
@@ -86,4 +88,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 11 story pages for Google)
 
-Countries: IN 38, PK 36, BD 38, US 38, GB 35, IE 35, CA 37, AU 38, NZ 31, SG 32, MY 35, PH 34, AE 38, IL 34, NG 35, KE 30, ZA 33, GH 28, FR 32, DE 33, JP 11, IT 31, ES 34, BR 34
+Countries: IN 38, PK 35, BD 37, US 37, GB 35, IE 35, CA 37, AU 37, NZ 31, SG 33, MY 35, PH 34, AE 37, IL 33, NG 36, KE 32, ZA 35, GH 28, FR 33, DE 33, JP 10, IT 31, ES 34, BR 34

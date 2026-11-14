@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:56:36.642942+00:00",
+ "updated": "2026-11-14T19:39:32.781507+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
@@ -12,50 +12,13 @@
    "source": "Haaretz",
    "region": "IL",
    "date": "2026-11-14T18:40:00+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "location": {
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "abfbc9eef0",
-   "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUlvSURSczBqT2EyeUo4aXZQSHRKWGZmNDhQaVBKNlhEOVZ2dGhmOUUtTVJZQ18ySlRmSVZ5cmNrZm56RzlhYVBZSDVWWXlNVFJRcEJTeDZVOVRLSDc2ZF9KRVpnV2JzT29ZMHdtN05xeGRCQzBTWTNSaWs5MllJWm5mamhyb21VbXZKbUxpbFFfckxP?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "IL",
-   "date": "2026-11-14T18:01:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "837a049a14",
-   "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jZTJKck1vQm5TSUdObTY0OEZ4S2xrSUNQT3Fnb2xDM0FwWWE5NDkxN3p5N0duOEtUd2ptYWYxclBLWGtSWm43MVBVcVRBODAzR0RscTN1OWNBejVrZm9OUGJYcVdlN1hnd0VuY0VjWDdFY296Wjd3S21R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBC News",
-   "region": "IL",
-   "date": "2026-11-14T18:00:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭 🇹🇭",
-    "also": [
-     "Thailand"
-    ]
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "e616e63f23",
@@ -109,12 +72,29 @@
    "topic": "Society"
   },
   {
+   "id": "ce1ece793f",
+   "title": "Juventus, Zhegrova starts for Kosovo: 0-0 against Israel in the Nations League",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVJVWFVoMlRzZVVLRTd0RXdEbHlnc1VWMzlRZ0dORzh2dmt5R2gwVFlmR0lOMTUyRlVLbmlpVU1lZkVWV29aOWY3NkJEUk9QZ1BsQWhXZWJWRG94LVBRdEhNZjdPNGxLMzg1SXJ6LVJGRU1KODVhY3ozbkpOd0pOdU0zcDdVQTZiZVFCVVFiS3ZxRllzNnA0dnpqSmVtbURudzVnaW5MdVptcVVhNFo5aDRhYzNHTms4WXd1NmU0NWdOUjQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "IL",
+   "date": "2026-11-14T16:28:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "38cf60e22f",
    "title": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1YzaW0zb2ZwdklVeWYwTk1ZMHpmemlCZ1AyQlBGWDZQMDN3Sk5yV193bC1Hbmh3X3lvNkd4ZG9MazU3SjhyVXhZOEhSZmxvWHVoS0dhWktrWGRvUHFMcDY5RnNxS0V2OVd0Vk00TFhQWDlkRVVGdnQ4VGd1LU96cTVaZHN5YzN5UmhZMHNCbTZDczVMOVJMSkRid1pEVFh3cWg2Ym9ubXZWbnkwSGFHZg?oc=5",
    "summary": "",
    "image": "",
-   "source": "www.politico.eu",
+   "source": "POLITICO.eu",
    "region": "IL",
    "date": "2026-11-14T16:28:00+00:00",
    "coverage": 1,
@@ -126,21 +106,24 @@
    "topic": "Society"
   },
   {
-   "id": "9b5e4268ea",
-   "title": "Kosovo fans boo and whistle Israeli national anthem before 0-0 Nations League draw",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQ3RlYUtaa0lhNk4waUFtM1R4NW5vYmpRQUZlcjlMZ25TTkU3MkZ6bGhzUUR3OTB2OTJObHlna05MekV4eWMzWGhuSV9vYVhUWkp0WExSQmJiMURZdDVhNk9FZXVpWDVaaG11OXgweW9vV2hkczRJVzgyNUllVXpfQU54b2xBdFR0Z3AtdzJxUlhxQ1FiVVYtejBmcDN3QTZRN0VCQml1dlh0WFcwMmlmVlRjck00WXRjMzRUM3dpTEpnSnNwckFTUEQ0SEVXaXlSeGJLYU0yQ1lId2p5THBJQWZZYXlqZ0JuTE5wMlBaQ0Z2NklEQ1dJNF9mb0RuRm9WNG13Nzg3SHVnZVBfbXY0?oc=5",
+   "id": "61ad1daa25",
+   "title": "CARMELLE from Philippines wins inaugural Eurovision Song Contest Asia in Bangkok",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzJieFEwOEpkZFRuRTJCMVpTNVFSU3NYT09vOGFsLS0zSzhfUlh3U0FrdjFIUVRIMmdpYjZHNjc0a09jTXRCNUxtTTUtN2FJOWF2a2VidkZXdDV6S2NTSXNlcHNYZFFvV05WaW5yLWtPZTJKWk9SNEpQT2Fob3U5T1dESjE3VDlkeTBNQ1lMekp0bkxtZ0xmSg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bozeman Daily Chronicle",
+   "source": "EBU",
    "region": "IL",
-   "date": "2026-11-14T16:24:59+00:00",
+   "date": "2026-11-14T16:17:06+00:00",
    "coverage": 1,
    "location": {
-    "country": "Israel",
+    "country": "Philippines",
     "place": "",
-    "flag": "🇮🇱"
+    "flag": "🇵🇭 🇹🇭",
+    "also": [
+     "Thailand"
+    ]
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "e533ca409b",
@@ -175,26 +158,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "5032630b13",
-   "title": "Trump says may hold off on Iran attacks, tankers caught on fire in Strait",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODhLQTdVRndCdkh2MFRBWjBEZkNIbDVZQTJoS3FiREphTVFPYVhMR1VFd0Q5djl0bVVNLWVCWkUxdV9BUENaZjF1VEk0VndxNzZFdFJMejVLSEd5TGJEWFN2a0hBRWF2TUJuRHVSaVU3VS1melhSczRqR2tRN3lySkJwV25XNGtm?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New Arab",
-   "region": "IL",
-   "date": "2026-11-14T14:31:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇮🇷",
-    "also": [
-     "Iran"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "7803bf1dab",
@@ -285,19 +248,19 @@
    "topic": "Society"
   },
   {
-   "id": "34d742a69b",
-   "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWtOUzhMcWJoZHpEQ1Q1XzFXUjR2aWNtcjdKczZuZExpTWphdEhUYnRaeXpTSDNjalY0ODF0d2pEVGVKV1hYRXpUMVM4WkRyNExjTWtVYnNnTERWa1ZiSk1SS1ZHV0FCdVBQa3h2Q2hLNUNoaWhPR3JtUW5iN1NXZ1FrTDFRQnl2SHpaa1NiQy05Mk8xRnpoU0hSQy1ycE5ablNVSmhVbUZxbVI4VFJfbmF1QTQ0eWUyZ3pnZ1Fhd3pOUQ?oc=5",
+   "id": "3113272fcf",
+   "title": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz, Iranian state media says",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5",
    "summary": "",
    "image": "",
-   "source": "NPR",
+   "source": "The Jerusalem Post",
    "region": "IL",
-   "date": "2026-11-14T12:40:26+00:00",
+   "date": "2026-11-14T12:00:58+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Iran",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇮🇷"
    },
    "topic": "Society"
   },
@@ -421,6 +384,23 @@
    "topic": "Society"
   },
   {
+   "id": "1837f46a81",
+   "title": "FAA lifts ground stop flights, airline stocks fall",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmhTVWJNczRGMUItM3ZqWm9TcU9fdUxpcURfY0tYZFpfM3ZiSTBPV2hKTExvQmpMQ1p4UTVsVThGbmdjYUlrbVd4S3g4dnR1b24wUUM4X3NCWjk4c1FQbmhHUG1YMFFKWUxFR09pOTFhWEdBaUZKZTE0cFBLeHF1aG52S1NET0pzY280N0lmc1REUUdwRGx3RDROZW16WlJZUVk0TWp5N0ZzN01ETVpCLUlxZm8xbGQ0dWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Finance Singapore",
+   "region": "IL",
+   "date": "2026-11-14T02:09:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "202e7cf190",
    "title": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG5hUEtNekVUelhnUVFLRmVVZC10UC1fbmNIWjJ2a3R3UFY4V09EbWRVQ0ZNWkNBTGtTSXJxOWw0dEJrd09SRHp6LTB6REVLeDNpVGx4eWRtd1hlclREVV96VjNnbHYtX19kbXh3M3FDZm1sd3JmM25lY0g2THJNdXZya3RBZXJCVmJmUU56UUdhWDFRRGRBQXpnX1NRYkFYQTZwYjRQVkZSYTlaRkNIVGt1TWpJQdIBuwFBVV95cUxNNHNCUjZHRVhKRFJsZ3o0U0V1bWtlTkp3SHBzWU42N2xfcEd2LVRHWUxNUDhJYXluVklMTkdFQjJ6bndDS09kUHBOVmR2TGJaV3lIc2l6c29lVkFIekNCeGNJc2hhYTVOMDJTb2FqeDg0X2RrdHVMMjBOODhnU0RGVkx5eUxLdFlHVmVhaXlkYWRodDhOVnBoVzBteTNaQ2ZXU0FVZVNiUHBRSVU3RDc1WVdTOEN6VXY2NjV3?oc=5",
@@ -457,6 +437,23 @@
     "flag": "🇮🇱"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "33a02f5965",
+   "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12TlM5andXTTlTZ2JlWWI3d2MteWkyTV80ODY2eEp4NDZob0ItWGhHNjBxRC1ya1czRFpqT0g1WGlseDk2Z3ByMW1MMUFfSzJaVVc3eUpQdUZzaVlsTkJhbWxMUGIwd3FjN3VPRmVYX3VSZ0RsWm5R?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NPR",
+   "region": "IL",
+   "date": "2026-11-13T21:06:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
   },
   {
    "id": "b5432f9254",
@@ -563,23 +560,6 @@
     "flag": "🇵🇸"
    },
    "topic": "Weather"
-  },
-  {
-   "id": "4d32cba2d4",
-   "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "IL",
-   "date": "2026-11-13T07:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷"
-   },
-   "topic": "Society"
   },
   {
    "id": "b71ded0071",
