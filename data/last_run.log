@@ -1,10 +1,10 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 3/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 4/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 41 stories
+OK   Ada Derana: 42 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
+OK   EconomyNext: 16 stories
 OK   Daily Mirror: 69 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
@@ -13,7 +13,7 @@ OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 0 stories
+OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 23 stories
@@ -21,43 +21,52 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 91 stories
+OK   AP News: 88 stories
 
-Biggest stories right now: All passengers and crew on New Orleans cruise (6 outlets) | Trump, Xi, Putin to hold historic meeting in  (6 outlets) | 'We'll get home one day' - US travellers impa (5 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | Italy fines Meta €805m over accessing users'  (4 outlets)
+Biggest stories right now: 'Miracle on Mississippi' - All passengers res (6 outlets) | 'We'll get home one day' - US travellers impa (6 outlets) | Italy fines Meta €805m over accessing users'  (5 outlets) | Trump, Xi, Putin to hold historic meeting in  (5 outlets) | US floated idea of Ukraine ceding Donbas for  (4 outlets)
 
-3 new stories to post
+4 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* CBS News [3 outlets]: Evacuation lifted after bomb threat near industrial plant in Peoria, I
-    important (also on AP News, The Guardian) - researching
+* Consequence of Sound [1 outlets]: Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Ai
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* CNBC [1 outlets]: Nvidia board urged to consider 'potential return of Jensen Huang' by t
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Fox News [1 outlets]: New prostate cancer guidelines urge men to start screening at specific
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine
+    important (also on The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: the name/word 'Donald' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    cards OK (attempt 2, written by openrouter)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: AI did not reply with JSON: ''
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 2 rejected: the name/word 'FAA' is not in the article
-    -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tan
-    no AI summary: saving the rest of today for important news
-* NPR [1 outlets]: 'We can't let them down' — After midterm wins, Democrats turn to chart
-    no AI summary: saving the rest of today for important news
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 9 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'Mississippi'' is not in the article
