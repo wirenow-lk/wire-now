@@ -1,12 +1,12 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 65/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 70/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 47 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 12 stories
-OK   Daily Mirror: 68 stories
-OK   Hiru News: 92 stories
+OK   EconomyNext: 14 stories
+OK   Daily Mirror: 75 stories
+OK   Hiru News: 91 stories
 OK   Newsfirst: 14 stories
 OK   Daily News: 45 stories
 OK   Sunday Times: 2 stories
@@ -14,7 +14,7 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 11 stories
+OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
@@ -23,34 +23,82 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (8 outlets) | Miracle on the Mississippi: All accounted for (6 outlets) | US has floated Ukraine ceding Donbas for Nato (5 outlets) | LAUGFS Gas CEO apologises for shortage, defen (4 outlets) | Second catch attempt for SpaceX Starship rock (4 outlets)
+Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (8 outlets) | 'Miracle on Mississippi' - All passengers res (6 outlets) | What to know about flights after the US natio (5 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | LAUGFS Gas CEO apologises for shortage, defen (4 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Red alert issued for fishing and naval communities as Bay of Bengal sy
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Yahoo Finance [1 outlets]: Jensen Huang reportedly gave up in final hours as Nvidia CEO — as his 
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Netflix’s ‘Magic the Gathering’ Animated Series Drops First Look at ‘P
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Hiru News 06:55 PM | 2026-11-14
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: New awards show celebrates AI music and its creators
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [2 outlets]: Napping Kansas driver whose truck sped on to soccer field and killed t
+* The Guardian [2 outlets]: Bomb found at Illinois ethanol plant, prompting evacuations
     important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* ESPN [2 outlets]: Colorado upsets No. 14 Houston for first AP top-15 win since 2007
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* AP News [2 outlets]: NASA’s Voyager 1 closes in on a light-day in interstellar space for a 
+    important (also on Al Jazeera) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+* Newswire [2 outlets]: Belarus waives visa fees for Sri Lankan students pursuing higher educa
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+* BBC World [2 outlets]: What we know about the ground stop and what to do if you're affected
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+* The Guardian [3 outlets]: US air travel slowly recovers from nationwide flight ground stop as ch
+    important (also on AP News, BBC World) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (429)
+    read 2 articles: The Guardian, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -77,35 +125,24 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
 
-Top 10: 1 fully explained
+Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
   photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  Fact Base: 9 facts and 0 people saved
   meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 11 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 11 story pages for Google)
 
-Countries: IN 38, PK 35, BD 36, US 36, GB 34, IE 34, CA 38, AU 37, NZ 31, SG 32, MY 32, PH 34, AE 36, IL 35, NG 33, KE 33, ZA 34, GH 30, FR 34, DE 34, JP 9, IT 33, ES 34, BR 34
-
-Posted today's Top 10 round-up
+Countries: IN 38, PK 35, BD 36, US 36, GB 34, IE 33, CA 38, AU 37, NZ 32, SG 32, MY 32, PH 34, AE 36, IL 35, NG 33, KE 32, ZA 33, GH 29, FR 33, DE 34, JP 9, IT 33, ES 34, BR 34
 
 World Pulse not made this run: no AI available for writers

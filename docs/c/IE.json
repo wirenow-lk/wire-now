@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:12:59.259752+00:00",
+ "updated": "2026-11-14T15:55:00.909577+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
@@ -48,7 +48,7 @@
    "image": "",
    "source": "Irish Independent",
    "region": "IE",
-   "date": "2026-11-14T13:13:24+00:00",
+   "date": "2026-11-14T13:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -126,6 +126,23 @@
    "topic": "Entertainment"
   },
   {
+   "id": "d032cffc9e",
+   "title": "'Realistic replica gun' leads to early morning arrest on Cork coach",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzgtMzFXQlJBYlZxemJjYkZ0d1lNbVc4enEwMEVoSS1rSnNuaG8wTDlncnFjT3BRX3FaaVlqZmZCeTl5LW8xdVRkRlZfbWVyTENCRFZwZFl6eXhHSFJhSGFmckIxazdtbm1oSkpqMXpMcHNPSXNWQUZXN2xEUlR4eDZtTlg4VU9M0gGOAUFVX3lxTFBVTHBncGJ0V2ZYLV9KeDU2VHJhenk5SENnNXpFMDBKTVZKeUtGTnJ4bVpBcVBCSjlmTjR3T2UyZ0dPYkg3OWpEdkZqeWpmODlOaDh5UjdxMHhFLWtRM0ZtMUZlMkdmVmhKajRxOHppYlZMWTRKX2NwWjdyd3ZXbXphbElHMkhOc0E2RGs3LUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Cork Beo",
+   "region": "IE",
+   "date": "2026-11-14T11:08:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "096475b5f3",
    "title": "I had brain fog & pain so bad I couldn’t walk with my kids - op revealed why",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPel9FZlhlYWdUN3V2OU1tclZiUFRnTkZMZkxvMjJ3V1ctRVhKR191VWdwbEp5TlBXY1p3b3RuWllOQjBucnNJeFRRREZKbnZkcDFtck03YmJYcUdwbVZHcHU0VllNejNfR2VYU011ak5oWF9ZdFRsTEZFZW9VWld2cl9EaUN0T2M?oc=5",
@@ -177,38 +194,21 @@
    "topic": "Society"
   },
   {
-   "id": "bf2843d497",
-   "title": "James Kelly, 215 Ros Suilighe, Oldtown, Letterkenny",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOU5GVEhKRGFrRGlrVHZVWWl6ay1mZlNib2I0THYxNnp3OEU2QW5pVEJVa3AyOHVieFRPNjBZN082NW5hRlZIZlNWWW5QNXhfTzMydkQtTW04M3hkRmhvc2hWY0tFdWh1cG1MQ1dKNW9Na2dlcVRFTlRraVpmOG8zNFN6UThLY1dmeWlzNzBOZ1RaNTZNbHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Highland Radio",
-   "region": "IE",
-   "date": "2026-11-14T09:10:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4d7cea449a",
-   "title": "Important collections propelling international art sales to new heights",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RazNwd1lZajB1M1pMZFZET01PYTFqUEtBbzZGVjl0QnpKNlhHZElUajBPdlp5a3dDYUZYX2RPeFVxejR0c19SeDZsYzNQTW5zakhFa2NNTVBpbEU1dVpCbmx0WU5JUHBnTXUySzgxQjYtZw?oc=5",
+   "id": "78bb4d03ed",
+   "title": "A record-breaking year to remember in the art market and auction business",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LS0xSXzNiODNOai1BNnhUUi1oOEs4eVhMT1RidFpCc0FpOWpKa3JCLThiSWQ5YUk1Q1had2NnUnhfNVFJNDVyOFdVOG5XVlgzdjVadHBxYUhkeUh6cEVlYnY4b01ZY2VCcUl2bko2Mk5NQQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Irish Examiner",
    "region": "IE",
-   "date": "2026-11-14T09:05:00+00:00",
+   "date": "2026-11-14T09:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Society"
+   "topic": "Business"
   },
   {
    "id": "6f6a02129a",
@@ -273,23 +273,6 @@
    "source": "RTE.ie",
    "region": "IE",
    "date": "2026-11-14T07:00:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "be5a57ee79",
-   "title": "Parents urged to get their babies vaccinated for RSV ahead of winter",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR29aUnozQUVDN1lkTTNyd2dKeDhheGJBRDJfOUtLRE9QSEtiWHJZRHVhTm9yb08tNEZFMU04LVcxS1JmRS1iT01Cb1RWaE1SYUZIY09MckZTeHlKNTJZcHJHZHlqYzNHcFd6WUd3dnlGQno5U2ZNaHNCSFVrd0F0QkJsY0NEM1dKMHZqRF9od0dqNS1WZWRGVw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Donegal News",
-   "region": "IE",
-   "date": "2026-11-14T07:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
