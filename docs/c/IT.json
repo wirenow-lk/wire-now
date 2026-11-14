@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T16:32:07.397521+00:00",
+ "updated": "2026-11-14T17:19:36.475369+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
+  {
+   "id": "5b80096140",
+   "title": "Incidente a Cosenza oggi, quattro morti dopo uno scontro tra due auto in galleria a San Fili. Uno dei feriti è grave",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcklLeXRXUGtxcDlfVnNMZVdVVVhvQmFPZEw0WjNZYUpsVFNpSlNmYmJzSldjVEo3NGJGeHVkWjVBWGVUbG1Ra2Y5X3A5dlJKTkY0V29hOVd5SVpzbHB5Z084MVpURzFOalFaNDB1UGJKMjJEZVZDZHdjNzl6bnJIVVUycFdDZ0tmUXZIRU5rd1k4UVk2NkVUSHpiN2V5eUFhcDhTMjlRcUtVNTlvMVBSS0dJbGtJX2dDWjBFVDI2TnJKN0trbk1XdEctTjQzZEtlZUdYblpOU2tKamRmTVBuZlYzTllfeDN1Zi12S3VoMnnSAfYBQVVfeXFMTTI1RkdhV3hjbFJsRTJlY1VPVVZGU0V5c3p6amo1cDR5aWROYWl0TWZVMmpXdVZja2gzcnJkQTNlblVXMnF5ODQ5WVlvaHhUa1VmWE10WGNOLUdpYXpQd2tqb1duZU9wc3hfR0FxUXpFTDV5cnNiYUVyeW5sX0ZkQVBEMlNjQVNvaFpGSng5ckwwc0NILXVCVEtLcjNtWDBwTTVvX3FsVHROTGIwN0wzLXRWZHRjdVRRRnFTenNrcFplQ0RwT1lwRE11bDJTWGNZeXBNY2tXY3V6MGJjV2xxTTBrOTYzRV9GNWhFZWlRVE5CQmRiUlNB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Corriere della Sera",
+   "region": "IT",
+   "date": "2026-11-14T16:52:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
   {
    "id": "9cc2e2a926",
    "title": "Il Cremlino conferma: il 19 novembre incontro trilaterale Putin-Xi-Trump a Shenzhen - Media di Kiev: Mosca ha tolto il veto sull'eliminazione fisica di Zelensky",
@@ -12,27 +29,6 @@
    "source": "RaiNews",
    "region": "IT",
    "date": "2026-11-14T16:04:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇺🇸 🇺🇦",
-    "also": [
-     "United States",
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "67caa9daae",
-   "title": "Guerra Ucraina-Russia, le notizie in diretta | Il Cremlino conferma: «Vertice Putin-Xi-Trump il 19 novembre a Shenzen». Zelensky: «Gli Usa ci propongono adesione alla Nato ma cessione di territori ucraini»",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3hZMVVqUUhEbU00TjR2OE9ESWhzWmRpN0xxYzNHa25laGFNOVhOUEpqTTRRY0s5Vjg0V3R0SjV1aVRvaUxxTVVfMW1BZjdTTWd0cG5hTEJOVXVwQ3NpbzdXWnI4bGtjWkhlREVoaHRMaC1XTnVpTzU4cElaU0ZHLUl0MnRWRnN5ZGh5ZnVwRkpHTDZ1MmdfMng2d0pwbE41bUlNOHlIZG8yOURB0gGyAUFVX3lxTE05UFNpWVdzZldiazFjU0xPcUZaZDA4TzJ4UzVkMjItRGp1WVMwYkxlVElXVFctbjRlY0VJRDNYdnZrZnJSNm1udFBQMjRYNDdPQzZjZXFHRVQ5SHQzd2FXUk1GWFd3elk5ZVl1MzZLNERKRE5GNVR4eXd5bHk3cXVFT0JxV043NVREdDdZdnp5MHgxMnFzUWt4ZFplbTZNRml3a040aVlWOFpqdEJ3QnRhNUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Corriere della Sera",
-   "region": "IT",
-   "date": "2026-11-14T15:59:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Russia",
@@ -97,23 +93,6 @@
    "topic": "Society"
   },
   {
-   "id": "5b80096140",
-   "title": "Incidente a Cosenza oggi, quattro morti dopo uno scontro tra due auto in galleria a San Fili. Uno dei feriti è grave",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcklLeXRXUGtxcDlfVnNMZVdVVVhvQmFPZEw0WjNZYUpsVFNpSlNmYmJzSldjVEo3NGJGeHVkWjVBWGVUbG1Ra2Y5X3A5dlJKTkY0V29hOVd5SVpzbHB5Z084MVpURzFOalFaNDB1UGJKMjJEZVZDZHdjNzl6bnJIVVUycFdDZ0tmUXZIRU5rd1k4UVk2NkVUSHpiN2V5eUFhcDhTMjlRcUtVNTlvMVBSS0dJbGtJX2dDWjBFVDI2TnJKN0trbk1XdEctTjQzZEtlZUdYblpOU2tKamRmTVBuZlYzTllfeDN1Zi12S3VoMnnSAfYBQVVfeXFMTTI1RkdhV3hjbFJsRTJlY1VPVVZGU0V5c3p6amo1cDR5aWROYWl0TWZVMmpXdVZja2gzcnJkQTNlblVXMnF5ODQ5WVlvaHhUa1VmWE10WGNOLUdpYXpQd2tqb1duZU9wc3hfR0FxUXpFTDV5cnNiYUVyeW5sX0ZkQVBEMlNjQVNvaFpGSng5ckwwc0NILXVCVEtLcjNtWDBwTTVvX3FsVHROTGIwN0wzLXRWZHRjdVRRRnFTenNrcFplQ0RwT1lwRE11bDJTWGNZeXBNY2tXY3V6MGJjV2xxTTBrOTYzRV9GNWhFZWlRVE5CQmRiUlNB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Corriere della Sera",
-   "region": "IT",
-   "date": "2026-11-14T14:14:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "12d37ba329",
    "title": "Francia, nuova giornata di proteste in tutto il Paese: attesi oltre 100mila manifestanti",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW9KLUo2ZDVSeXUxRGN6ZHo4Sm5TM1RqdGtvVjd0eVlvUzRTSWV2clc4Tm53YWVpZzBfUjR4OTlMQnRVbWhWRTRkR1JsVnZEck13czAxRmc2SXRFbFpyVUxBTDRTemNWUDRNX3FyeGZvMmc0Y1BRZHlpcTNSeUFtNEFKQUJiN2M4LVBMVHpwTzhTWUJ5Z3RJUlhzNndLZHBCa2VMRzQycEEwTDNEeVRPamVn0gFoQVVfeXFMTUxGd090eGg4blI3VmFrcmJtdXAyZHg1VmRkNmE4Ny1TbkhCY2NCOC1aczRCVmpTYWdHd2VKNXc4eExucXpGOHRGb2NiN3JFNGcwTEtvcFdrTzl6ZEE0Z1BhN01SaVhPV1Y?oc=5",
@@ -131,31 +110,14 @@
    "topic": "Society"
   },
   {
-   "id": "85b4ad2ee5",
-   "title": "Rugby, Italia-Argentina 14-19, gli highlights del match di Nations Championship 2026",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVZRSEhIUFgzLXMyT1NTd1VWZlZQZERtV2U4STYtZWZkYmpFbzJDTWFrdl9QUGRfblR6UjhqSkhfdUNtZjg2RlotY2Jid2pRaUlmWHIwM1RhVUZnS1FpY2VFUVZQOEhWLWZZZGMxaV9hSUdSMXZtcGh0OTVWcjVVRm53dnJTam9pMmJuWTFuTm9WRElCOXl1cFZCcS0?oc=5",
+   "id": "92020e6edf",
+   "title": "Morte avvelenate, in corso l'interrogatorio di un tecnico di laboratorio",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeUh3WWF6ZVdOVlVaazA2RWpRZDVwazNWejNXR0c4UXhUTDBqUlJfdjBLSllPaU1uazJLYUhZcHdGSEdLXzhveXpBZmdsQy03UFpkcG9WLVpxemM4T0JHOXBzcHRHYnVLczFPN216MXpSam92XzBRWDZUaUQydVR1RkYtaGFodTlWMmZfNDU0SnNvOTk5UlB0aEFFd1g0SDZJYkNDTnBLWEV3akNyYW1vR3lTUUJteTFnV0oxYW9xanFfMkhlTjFvUXdlMWhxNi1QOWMzZGVxdnZqTzBzOF9pV2lOcFVhOEI5UXJhQjVxMFB6SUFsbzZz0gH8AUFVX3lxTE5YOE16WU9yNURiN1hUdGM1enk0VWp0X3ZLN1NIWUFFeUxwVjRKbHp1S2RuMFJudjg1UDJDN3lHeGdGWkM4WnhkVW54Y08wakQ0N3ptc1MwTVphTnZyUW53SUpNUU5uaFFKQWJsdDRFNDgtMWxJcW5ZaF9oZFBoQUwtaVZEZThMZW50U2o0ekhrNWVMaUNyZmdKOVVEY3RUOEUtRFVKUlF6cUNUeks4MXdtODFFT2szRG14Y2lKdGNCZ1lhUVZna2h4d1VhM3lTNHlnX2FmbGs3dlJrcXpOWkhERkFCRmo3SlBCTWROcS1iSElRTHhXWmxsYjRyNg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sport",
+   "source": "ANSA",
    "region": "IT",
-   "date": "2026-11-14T13:58:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Argentina",
-    "place": "",
-    "flag": "🇦🇷"
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "8098c47d47",
-   "title": "Rally “Città di Lucca”, auto travolge commissario di gara",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0Jhbzd2RkJxTGd3M3pVakgwdTF5ajVpamJJdmtxUlM1WVBPcVh6dTFfdlhqbENPeFRQWXRPY3RaNDZiaG8yUE1OaXVDX1NKRXNhbWE2M0kyeGphc1RadkVFczh5SlZhTjJiUElIbV9vZWNwMWdNYWNkTndwZl9MRGNSMkFBQ28wSFFvZHFadVMzZUhuZTgxTW9EOVlPLXh6dmlUMzk2TlRRaEpmcHVxbGhMVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Il Tirreno",
-   "region": "IT",
-   "date": "2026-11-14T13:58:00+00:00",
+   "date": "2026-11-14T13:49:02+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -199,23 +161,6 @@
    "topic": "Tech"
   },
   {
-   "id": "61898bf590",
-   "title": "Avril Lavigne è diventata mamma, l'annuncio sui social: “La nostra mini principessa è arrivata\"",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOazNOcmJpV2c2SzloU1F4RnJvYk9aUm1fUnBSOTZZYXRmRnVZcGh3aWxQTzBCZ19nTGxmekVQVHI3ZW9kSk1Fald6RmdQRmVHNC1rTWpvUGgyV25lR2FUVlNBZThjTW9SeDdkdlU0T29wWWU3QS1kMThEZ2VFaWVWWGMzbmJvOHRaQkdMcl9kSDFBY1FPZkRSLWRVeHJkVWpRaFlpTXliSmhmVG5iZnhkaHBlYTJPTkZtYnBPMFdPTlkzUUZsb2lzY1lERmJFa3AtVjFZb0ZaTkVfYXUxcGEyeDU3dGNhVDFzb2V6Y3hycHAweXpsU0l6WXowVWR0QXpONzFVMmRwcERpTTjSAZACQVVfeXFMUHhfbVlmNWNCZF9kZEpydnVaY0c0WDlRZkcwUUxtek1fT1FiYmVnRl9nZWJTcHE3RkxfdnB2Rno0MG9RUE1vUUh0Nk40U1BELW5HY25mT3lEdGUyX012MEhiOVJhbTc0U2toSU5mbG43QmFubW1LYUxsbVdvSWRhZXBpLUhPYU8yaDgtZVdpdExzeE54cUxUenZjRTViVUZiMWd5bFU1SEFNZExwUEVFYk5qUWc0SVduQmN3enkyMm1odnE4M0NzMDg5OFNLU0hwM1BNSGhaMl9yUmZPelBXcV9sY044WUdFX1JPNGNnV2g0OURSdElpM2g0R2FkanZfeHNsbVBnYVkzSGMxdHZmTGM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RaiNews",
-   "region": "IT",
-   "date": "2026-11-14T11:26:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ff4687ebdc",
    "title": "Flat tax a 100mila euro, Meloni all’attacco: la sinistra confonde fatturato e stipendio",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUZrbUNEQWU3Z29YRDEydGpGcC1zRkp1cG5RM2s2bHVOT3EtbVRqSzFabXpXNndXRGF3LTV3Vkw4M1dpSkZkc3RTSkNlUVR1d3ZwQjhNU1F1VmJDRS12VmxPVTNiZ1A5ZHNLNkpaN1doZy0xbWlLUVFYQ3BBbW9uT2hSNGpYQ1VlMUtyODUyMFlRa2VDd0xRWXd5UXJQTkJnYW96Y244NW9JVENZZ19tcmQ5NE9URWxFWkF0OVZB?oc=5",
@@ -231,23 +176,6 @@
     "flag": "🇮🇹"
    },
    "topic": "Economy"
-  },
-  {
-   "id": "79ed50c386",
-   "title": "Giallo ricina a Pietracatella, interrogato il marito di un'amica di Gianni Di Vita",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDhXLXJ0c19iR1p2QldBcUlIeFFOWlprem11QW1UYnNSQ3VkNnNUMDBHdXlUekMzLWNkMnljbWl2aDQ3dFk5dk9PM2w4emJQQjcwanQtUDRfVDZMZm8yYmd3c1pYZm9YY2NnX0l1UzF2Y2N2U2NjSmp2dG9YanppanZXd1hfR05FOGpqRlZ6VGpXRkFDNElNa1NySQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky TG24",
-   "region": "IT",
-   "date": "2026-11-14T11:05:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
   },
   {
    "id": "f380a27f79",
@@ -268,7 +196,7 @@
   },
   {
    "id": "3a7c2d7742",
-   "title": "Milano, anziano ucciso in casa durante una truffa del \"finto carabiniere\": due arresti",
+   "title": "Milano, anziano ucciso durante truffa 'finto carabiniere': 2 arresti",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXk1dlltcXE1RDdMNnVvaUs4aTdKUWhSN0dCMEFmOUdZTWNNQXpETnplWXlnUFpKbElQbWpiMHBCMWJnYnR4R0F3RzV2ZzVoQXJHVVB2NGhsM2hWM0xBSHdVaW00aXlTdlZkQkNQcWxlWndta3VkdTB1WGFGRDdBYkdFNHlSb3hsQWR5cHJn?oc=5",
    "summary": "",
    "image": "",
@@ -282,6 +210,23 @@
     "flag": "🇮🇹"
    },
    "topic": "Society"
+  },
+  {
+   "id": "85b4ad2ee5",
+   "title": "Rugby, Italia-Argentina 14-19, gli highlights del match di Nations Championship 2026",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVZRSEhIUFgzLXMyT1NTd1VWZlZQZERtV2U4STYtZWZkYmpFbzJDTWFrdl9QUGRfblR6UjhqSkhfdUNtZjg2RlotY2Jid2pRaUlmWHIwM1RhVUZnS1FpY2VFUVZQOEhWLWZZZGMxaV9hSUdSMXZtcGh0OTVWcjVVRm53dnJTam9pMmJuWTFuTm9WRElCOXl1cFZCcS0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky Sport",
+   "region": "IT",
+   "date": "2026-11-14T10:43:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Argentina",
+    "place": "",
+    "flag": "🇦🇷"
+   },
+   "topic": "Sports"
   },
   {
    "id": "148be71374",
@@ -301,14 +246,14 @@
    "topic": "Society"
   },
   {
-   "id": "6225dc2eeb",
-   "title": "Il popolo e il fascismo, Gesù e Barabba: il doppio grave scivolone di La Russa",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFYwUGprOVBLd0JHekFDcWZaUUh0eDJ4LUNUeEtZajdGRmhpVEVNZFhBRjk3bW5RLWhSTERielpBRUFwTmxfUnZubnEtckx0eFo1QTM1ZnpLMmRRZHFwcWRSNHJsRHl0UTlJLTN6cUdRcE5aOV90SmduVS15ci1UeEF3ZWN6QllRTkxjU25zd19IZkUtUDhfUTgtdUtJVlM0YU9KQ3VsS051c284LThwVENqLXBITEl4?oc=5",
+   "id": "b8acb345c4",
+   "title": "Cortei, perquisizioni in 13 città per violenze, anche a minorenni",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHJSM1c5T0g4SFBFekJ0SW5jTTRhYm0zVWEyRXBUeC1fSjhRTkpRbEhqdkYtR21sVUZJSUtXeVpDVy1nNVVSY3dwZkV4UUNhdmI4NWsySjFqcFR6YTk5WHFDeThjaFVCeEVVeW9jd0tlLXhvRi1zTFlWTTNJS1VMVVUtZHlDN1BTLTNYZ2kwazFCaWdweTNyRldsb0lRSkNhQWJEQ1RjQ3ZWd9IBrwFBVV95cUxQajRoTXpVMGxuRzBvQjdGbVNIYjJOQlo1OG8zMnZRVEpnWHlwRkVuVXE0SG1XVm8yczlYNkkzMUhRUjNwNGhMQTRES2RlZ0N0UFA0a2VxdXpmUldZOVV0VnJFNjFxQ3pBQnNWRFVpNUk2cjItejc3YjJFNVJqVndrQkE2SDNTVFExQ2thUV9WR0p5WmJVOFoya25WQUxCMUVwQUJERzN1OWpxSk12RkZJ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Avvenire",
+   "source": "la Repubblica",
    "region": "IT",
-   "date": "2026-11-14T09:24:00+00:00",
+   "date": "2026-11-14T10:27:59+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -331,6 +276,40 @@
     "country": "Italy",
     "place": "",
     "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ff3dcc43da",
+   "title": "Serena Autieri, le case tra Roma e Napoli: la vista sul Golfo, la terrazza romana, il salotto dai toni beige",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXhwSmZmS3RDc1p6cTNBY3lmMmIzSHQtV3VRU1pJQWlQRTBKNUlKeXdOWnUtMWRUQVFISFlEOUZYWmpETVY5TWZsaVRHbWhvUVlOV3M5UUItTUIzVDlFV2hERWkySkM1MmZwQVZQTHJpNzlNZFd3a01vWlhaNFV5VG9HM0poaGZNRGhDR3RMaTJHM19UeElHYVBB0gGfAUFVX3lxTFBsdFF0ZHloRG44dkVFMEdlZi1JUklBbnJzVy12RGVrOUhBcHJKaEJvT0FvdDlIZ2dhRkUyN01ZT3RFMjRnQ215RW14UnEyRUlqOExLVHg4RlpUZWZ0S0Y3Q2hHU2pIYlZIUmNtdG1fclpvcjJKc1lEdmZqMk9BWHNhMjdPQ3huN3pVcG1BOXdMdUx5c0dOampQNFNIM1ZFbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Il Messaggero",
+   "region": "IT",
+   "date": "2026-11-14T08:42:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2b66ce3913",
+   "title": "Anche Farage scarica Putin: “La Russia è la più grande minaccia per il Regno Unito”",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFVhampfa29GZzN1aExoYlB1YU5ySDJxZ1dxNXRpWkZxNWljdUJ0dGNJcTJnNHRMeXNUU3hjWWZEdE05WmhZcy1qSVBHRmprRkVIQmZRZjZ6a1g1UnJtZ1hWbmx2UGpZVGdpdTJJbGhUd1kwQzV2NGJ4TThtVVYwNGc0Ym9jTG5GNDk0VjA0cEpKcnpzMXJaR1pYQV9HZ28zZ2tjMDdrTTJNWkp4cnhjbVNSc1B0alpZSUNB0gHAAUFVX3lxTE9mbUVYSmQtZmY1MXd4cy1JV2hZTFFkUDkycURNZlFuUlZCbHJWYVdTcEhaT2ktcEU4TVktdWxkVmsySXZ0Q3p2WndFUlZXMk5yUmlEek90WURxWHpCOE52YmlmSWxIN0owNWpEUVlrWTZSZ0YxTTdBUEJha1RpMklCWGd6QXhWUG03cnZpeTZDS0pqT1pXMkNmRDQ0eFRmdUpsSGdHelVGdzJIdmJYb05Ebmcxc1UwQzQ1b0xQQlpPaQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "la Repubblica",
+   "region": "IT",
+   "date": "2026-11-14T08:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺"
    },
    "topic": "Society"
   },
@@ -360,6 +339,23 @@
    "source": "La Gazzetta dello Sport",
    "region": "IT",
    "date": "2026-11-14T08:14:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "285ea75add",
+   "title": "Usa, voli cancellati e blocco totale del traffico aereo per 4 ore: che cosa è successo",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jMnJueFgxYl9CX0pVVXBaXzFwenJpQllEVGRlRHltY2FOTkNDYjExRWlJU2gweFlSQVVRN3YyaXdPME5qSGgzbkd2T3Vnby1PNjNYaThnZmZFVmtGSm1pV0tUTlA4ZTdWYVpuVjhqQ0xFY3VDRTFj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky TG24",
+   "region": "IT",
+   "date": "2026-11-14T07:37:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -454,23 +450,6 @@
    "topic": "Society"
   },
   {
-   "id": "3c3adaff7d",
-   "title": "Tutti gli aerei a terra. Voli fermi negli Stati Uniti",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLW5HbFptZUZsUFVyZFROOTd0b2tHMHY2c2NzazlXc0tiVFRYNTc0cUJGem93dlFsNnFLMHNhN0VrYjE4RjluOGFuV0NiRUNwN25ERHNxbUZ6NDJhdDVCUDVjNEw1ZHNDeXlGMk1FSzIzNzlVX2VpaU9KUFc3WXBsTnNnSnJJYl96T1VVM2JwQW41Nk1Pc2JiNXhwVDR3eko0a21VZkZKNXdRTUxLM1ROSUtZQ3FSbGlUa3RUMkYxdDFOcktwX0hhLVkxa0FTaU0xclV2OUlVbTZYYUJaOXBMTGtyWGXSAeoBQVVfeXFMT1RZUFBVajYwSjNfcmNxUnlWM2pxXzVGeEN2Mm92emNWWVZmS2E5MzFZZ1BMVGZLdjJjNDU1UnJUREZyRDkwbmtka1RRaDdtYXNnbkhwQUpyLWk1RmhXZFBWMWN4dEdrNEE2akt4UFB3ZDBNbXZXNE80MUFJbGc2X2xRcmN5Z1NhbDFETW5aU1g5WW4zZkc4a0RNTDR0SFl4M1VnN3ZtWjg2aUxCalltcXd4ZUdQTWNIY29LXzQzbUNtbTZQSWQtSmxSMjdTamR4SFJqMW5ieHFpcTdERmNjRktuYUc5a2xYdnJR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RaiNews",
-   "region": "IT",
-   "date": "2026-11-14T02:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "556fd760aa",
    "title": "S&p conferma il rating dell’Italia. Outlook positivo",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXJRdGlCLW5wRFFWOGItMktIRzY5aWZPcVR3Nk1LUlNXTXpnR1lHbExmRkFWbXdRbWsxNW13ZmVtR1BxV0FrN2kzd2RLaUdNVVhxYXNCZ25ybllQLWM0b2NMX1YtNFkxaF9icVg4MFAzbW10THNsQU52WXowLVk1cXRZQzRKQks5dmJvRDRVWHdUWkZKU2owMldqX2tKaTQ?oc=5",
@@ -522,6 +501,23 @@
    "topic": "Society"
   },
   {
+   "id": "9c2c9b063a",
+   "title": "Sciopero generale del 20 novembre: in piazza anche la Cgil, oltre a Cub e Sgb. In piazza anche a Milano",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNjI2T0FNUmpkWklPZ0Vsc2daRmVxa3U2TVZGV0U5VW5CdXViaTE1VUg4aUQtR3NaYUNDZWM0ZnN3MmpGZjRjU09CdGlFbHlSLUh1cFItN0ZLRFdtai14aFBUa3hMcW41Rmp3aG5KYS1MN3BIZWlSSzVXTTFWMzg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MilanoToday",
+   "region": "IT",
+   "date": "2026-11-13T14:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "2711eaf47f",
    "title": "Diversi utenti hanno già restituito l’iPhone Duo: il pieghevole di Apple non convince tutti",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVp1OVZVc2JaS2VhWFBZT0p4Qk82MWJ3SEQxampTdnNJaG1kWHVZWkFJWFpuNFNoSktOX08yUlJqTGhXYmFmTlVLLWk1bWRCVlFMR2prdVRndlRxRWkySEo1THFzLUVzTkQ5blJ4OHRxUTBNaVVQamlpeXJybGNYSGstMGNqQi1CaU5ha0VScU1zREIxUGRxYW14aW14WVN6V0p5dEQ1a0syZVB3bElDYXNyZDZMMHhZbTUyWXpGYXBwV28?oc=5",
@@ -530,23 +526,6 @@
    "source": "Multiplayer",
    "region": "IT",
    "date": "2026-11-13T12:18:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "b7010124ba",
-   "title": "Compro o aspetto? La guida agli smartphone del 2027",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUtvMmVPSnJNWVVyVmVYS3lCMmI1NEhDSzVPWG16V3BxbUtmNXJId05KTG52MEU3YVhPRkV3TFdEbTE3aVQ5S19VVTQzNWFvcG9kZS1UVmxqV2tfdHRLWDFOQVhYUURRVzZDVzVZRW9yMm9xR0lIS0VPTGtILUxCQjdCZllDbGh4M0JsYjVEdHY4ZGx3Z1Y4bElxWnJQd2M0amFhak1DSkpwYnpGTHpVbEl5Y183bHlsSXh3cEY0akd3Z2pwdENqSW9Idw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Tom's Hardware",
-   "region": "IT",
-   "date": "2026-11-13T07:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",

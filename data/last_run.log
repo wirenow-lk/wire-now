@@ -1,105 +1,62 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 76/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 42 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 13 stories
-OK   Daily Mirror: 67 stories
-OK   Hiru News: 91 stories
-OK   Newsfirst: 14 stories
+OK   EconomyNext: 15 stories
+OK   Daily Mirror: 65 stories
+OK   Hiru News: 97 stories
+OK   Newsfirst: 13 stories
 OK   Daily News: 45 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 11 stories
+OK   Ceylon Today: 0 stories
+OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 28 stories
+OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 97 stories
+OK   AP News: 94 stories
 
-Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (7 outlets) | 'Miracle on Mississippi' - All passengers res (6 outlets) | US has floated Ukraine ceding Donbas for Nato (5 outlets) | 'We'll get home one day' - US travellers impa (5 outlets) | LAUGFS Gas CEO apologises for shortage, defen (4 outlets)
+Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (7 outlets) | US has floated Ukraine ceding Donbas for Nato (5 outlets) | 'Miracle on Mississippi' - All passengers res (5 outlets) | 'We'll get home one day' - US travellers impa (5 outlets) | Live Updates: 3 oil tankers hit mines in Stra (4 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: Rs. 85 of every Rs. 100 spent on development comes from borrowing
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Handunnetti accuses Laugfs of hiking gas prices to create political na
-    no AI summary: saving the rest of today for important news
-* Ada Derana [1 outlets]: LAUGFS Gas CEO explains reasons behind recent price increase
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Myanmar airstrike kills 12 at displacement camp in Rakhine state
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Italy fines Meta $880m over photo privacy
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+* Reuters [2 outlets]: Musk says Nvidia will lose 'critical' deals without Jensen Huang
+    no AI summary: daily limit reached
+* Hiru News [1 outlets]: Hiru News 09:55 PM
+    no AI summary: daily limit reached
+* Newswire [2 outlets]: Link Natural beats John Keells to win back-to-back Mercantile Rugby 7s
+    no AI summary: daily limit reached
+* Reuters [2 outlets]: ASEAN not easing Myanmar approach, bloc's special envoy says
+    no AI summary: daily limit reached
+* POLITICO.eu [2 outlets]: Nearly €20m in cash found buried, hidden in Hungary corruption case
+    no AI summary: daily limit reached
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 9 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 9 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
+    "code")
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 11 story pages for Google)
 
-Countries: IN 38, PK 35, BD 36, US 36, GB 36, IE 34, CA 38, AU 38, NZ 30, SG 32, MY 33, PH 35, AE 36, IL 33, NG 33, KE 31, ZA 34, GH 29, FR 32, DE 34, JP 10, IT 33, ES 33, BR 34
+Countries: IN 37, PK 36, BD 38, US 38, GB 35, IE 34, CA 38, AU 37, NZ 30, SG 33, MY 35, PH 36, AE 38, IL 35, NG 33, KE 31, ZA 35, GH 29, FR 33, DE 34, JP 11, IT 32, ES 34, BR 34
 
 World Pulse not made this run: no AI available for writers
