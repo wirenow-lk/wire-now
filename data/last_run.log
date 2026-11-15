@@ -1,94 +1,101 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 20/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 41 stories
+OK   Ada Derana: 40 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 21 stories
-OK   Daily Mirror: 69 stories
+OK   EconomyNext: 26 stories
+OK   Daily Mirror: 60 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 12 stories
-OK   Daily News: 11 stories
+OK   Newsfirst: 11 stories
+OK   Daily News: 16 stories
 OK   Sunday Times: 70 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 8 stories
-OK   Google Top Stories World: 65 stories
+OK   Google Top Stories World: 70 stories
 OK   BBC World: 23 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 87 stories
+OK   AP News: 88 stories
 
-Biggest stories right now: New Orleans port sues tanker owners over crui (5 outlets) | SpaceX’s Starship returns from orbit and is c (4 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | Philippines’ Carmelle wins first Eurovision c (4 outlets) | Italy fines Meta $887 million over Android us (4 outlets)
+Biggest stories right now: What to know about flights after the US natio (4 outlets) | Low-pressure area in the Bay of Bengal likely (4 outlets) | Israeli air strike kills senior Hamas command (4 outlets) | SpaceX’s Starship returns from orbit and is c (4 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets)
 
-7 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Sunday Times [1 outlets]: Budget 2027: From financial stabilisation to economic growth and pover
+* Daily Mirror [1 outlets]: Former TNA MP M.K. Sivajilingam dies at 69
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Sunday Times [1 outlets]: 2,381 killed in road accidents this year; latest victim well known cyc
-    important (serious news) - researching
+* NBC 5 Chicago [3 outlets]: Nationwide ground stop leads to impromptu midair shows from iconic 200
+    important (also on AP News, BBC World) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 rejected: the name/word 'States' is not in the article; the name/word 'United' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 rejected: details[1] claims 'After the issue was resolved, the FAA permitted US flights to resume' — the article never states the issue was resolved nor that the FAA permitted the resumption.; key_facts entry '
+    -> no cards; posting with the site's own summary
+* Daily News [2 outlets]: Govt. assures continued support and care for teenage girl and infant f
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* ESPN [2 outlets]: Grant Wilson delivers as Indiana boosts CFP, Big Ten hopes with win vs
+* Hiru News [2 outlets]: Tesla invites select customers to buy Cybercab for personal use
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: US judge again blocks Trump's makeover plan for DC golf course
     important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newsfirst [2 outlets]: Bay of Bengal Low-Pressure Area to Move Away from Sri Lanka, Bring Sho
-    important (also on Hiru News) - researching
+* Al Jazeera [2 outlets]: Saudi-led coalition intercepts two missiles, two drones in Riyadh
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Sunday Times [2 outlets]: Budget 2027 and the action deficit
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [3 outlets]: Israeli air strike kills senior Hamas commander in Gaza
-    important (also on AP News, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Al Jazeera [2 outlets]: Netanyahu sends plea to Eisenkot for unity government
-    important (also on The Times of Israel) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: blurb says Netanyahu 'begged' and calls Eisenkot a 'rival' and the response a 'one-word brush-off', none of which are in the article; spoken claims Eisenkot sees the plea as a 'political tactic rather
+    attempt 1 rejected: details[0] says Turki al-Maliki announced early Sunday that two drones were intercepted targeting Riyadh, but the article says the two drones were announced on Saturday in Riyadh and southern regions,
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -100,12 +107,12 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "message": "Request contains a)
     cards OK (attempt 2, written by openrouter)
 
-Top 10: 1 fully explained
+Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 3
-  photos: 7 too small to look sharp, using the clean cover
+  photos: looked up 24, found 1
+  photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 7 facts and 1 people saved
+  Fact Base: 9 facts and 0 people saved
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -117,6 +124,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
     "message": "Request contains a)
   meaning check: 4 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 12 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 13 story pages for Google)
 
-Countries: IN 37, PK 32, BD 37, US 37, GB 37, IE 33, CA 37, AU 37, NZ 32, SG 33, MY 34, PH 30, AE 37, IL 32, NG 34, KE 29, ZA 33, GH 27, FR 34, DE 33, JP 8, IT 33, ES 34, BR 34
+Countries: IN 38, PK 34, BD 37, US 37, GB 37, IE 32, CA 38, AU 36, NZ 32, SG 33, MY 33, PH 32, AE 37, IL 33, NG 32, KE 29, ZA 33, GH 26, FR 34, DE 34, JP 10, IT 33, ES 34, BR 34

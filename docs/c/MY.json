@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-15T02:23:56.156691+00:00",
+ "updated": "2026-11-15T03:17:53.950810+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
   {
-   "id": "d3357258af",
-   "title": "Live updates: SpaceX Starship soars in orbit, still aiming for ship catch in unprecedented test flight",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
+   "id": "39763b2c24",
+   "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bkk3TjN2T2x5Y3M0cURVNHdEZE9rd1QwT1JYUmpMN3FmRUUwZmtsN0V5ZHI5T0hHRGhucUo0OWRWdVNRT0NUa2FLcnR4V3pRbGctajh4MkQybWMyZXNBbjBRV0lDQ0dpSEQ0dGN3?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN",
+   "source": "Science Daily",
    "region": "MY",
-   "date": "2026-11-15T02:26:00+00:00",
+   "date": "2026-11-15T03:02:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cd57e805b0",
+   "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRWUpsOXEyUm40MGN4SE5aTFI3a3RyMlhYNV92STRUQ19CN0lyVHNvUVdKUmdGZ0szUDRKc25uLTZ3T1c5Ny1meG16Tk1YMTc4RHBveXBBTWh3b2RYMWwtTC0tMW5XOXBuczFqZGVn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Science Daily",
+   "region": "MY",
+   "date": "2026-11-15T02:19:49+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -29,23 +46,6 @@
    "source": "Science Daily",
    "region": "MY",
    "date": "2026-11-15T01:54:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7b6d6a6916",
-   "title": "24 hours just to say 'hello': Voyager 1 nears historic 1 light-day mark",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS2MzUldVQXloMXVlUXFHOTJTN0tNUENaTXlnc3pndG5qbWhXRjNyNTlWMFlZOHppQWo5NnljVXRpUk5DbTZqR0RjZ0JwSURWaWdVNFRtVmhYRDJYeF9FMi1zdm5wWnM4eDM5UG83ZzIzS2NrYlB5bEFVdG5XUjFLcExYUXZZX3l5azNuQXlvUUdwZEFhdEVuejMwdGNsdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "LiveNOW from FOX",
-   "region": "MY",
-   "date": "2026-11-15T00:21:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -106,6 +106,23 @@
    "topic": "Tech"
   },
   {
+   "id": "b6bc0e628a",
+   "title": "SpaceX’s Starship returns from orbit and is captured by launchpad arms in a dramatic first",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUy1hcVFMUVFOc0lrZWNVT3lvV1gzbVl1MHE0am1WaFBYRjlJWWtJNnEwZERmdGxLZHdLUFhhaUJoZ3BPeTZRZ0ZtNzBJcmFqTTVjcnBtb2pUblpLTm5nWXBnazdHZTBDNUM1cmJYTjlwNnk5TkllVEd4bnJQSGxJanU3OHBhMmpRRnN5b3F4Q1BQRV9ud001RHc3cEo0d1pJbWNZSnhMc0hZSV9RV3JmUW5KT2ZxY3JoRGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NBC News",
+   "region": "MY",
+   "date": "2026-11-14T23:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "072bc0a522",
    "title": "Portugal destroyed 4-1 by Denmark as Ronaldo fans declare love for Hojlund",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXZIc090YWJ0RjlCVlpXY1ZFREFLa1c1SHBwWi1tWmEtSEJVTV9STG96NXRLQ2oyWS1MVm9LdG81S3BQQUQxMXJOQXIwZFNlZ0J2MWNCOXBIUG9wSUlyZEtjM3VPTWV6TDhvUi1KSXFCa0VLbXAyRk5pakJPUUd5WjczbmtmZ01talNlRm1OZW9WUl96T2N1QUQ5UDNfVUE?oc=5",
@@ -143,6 +160,23 @@
    "topic": "Society"
   },
   {
+   "id": "55eb7ec0f0",
+   "title": "MCA strengthens hold on two seats",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeU1lbnVpWWdqRDFUdWNzVnZkcDIwWExsdTJSbjNYNC1sS3JoLWw3R1BrNmw4MHFjcjdPa1BrQTVuRktPSi1vUklDV1FGSHVlSEpGa0lmNWVKZnpLU2xIbnVLdkl0LTBveFB5ZFZ6Q1h4RWUyMDFrVldmajRyTlN1REhfWXQzaVdWMFlZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star",
+   "region": "MY",
+   "date": "2026-11-14T22:54:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "dd43d8af51",
    "title": "Philippines teen wins Eurovision’s first Asia contest",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMk9nNUhmNGFJVnNzRkRzNjc5TXlpUS1MR0piaWg0dXZacWNtNHMzUVY1LVBhaFVreTlGRzBkOTNPUHFoSkNBVkR0dE9pWm8xY0R2WUd4UlNEaHhJcld4SUhWUUxNZW9OMzZKYTc0YXhRMlBhazdKUU12dERIVjNndmMySm51MEd1T1BnV2lBREVpZXBsVlJHOUVUaWozc1BhaHpvZm5oQlFqVGZFZzVnV1Zlbk1ndw?oc=5",
@@ -160,21 +194,21 @@
    "topic": "Society"
   },
   {
-   "id": "9cb7018a31",
-   "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lMlJxdmFRZGV3NWxRcG5mR0NNcmtSMkplTkxMVk1Ud2dQQzFRSVRZak92WnZOVkhra3hLZDBtYnNhOFVZMmxINGMzRmZMemoxR2d2c09sZzVWWlZKdk1ra3llT2tPQ1NNRDBicWhkS3ppUU5k?oc=5",
+   "id": "333573a039",
+   "title": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100,000 signatures, including some big names",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmhIbjZFX1lSZWNsMG5pYVNUTHI5by0tdlV5Z3FRWmNmVWROaTVSTXRiZkFWdmNPdEZ5RUk5YUprX2wybWZzVkZnUUtubGh2Rm9vZ1plcXdSaVJtdEVJbDJPeWt3Sk55OXFYRFlZN1dSSmdVVEQyM2tLMUFXclJrOW5qRjhNZEhBODNuYkRoaVo?oc=5",
    "summary": "",
    "image": "",
-   "source": "Phys.org",
+   "source": "Yahoo Finance UK",
    "region": "MY",
-   "date": "2026-11-14T21:00:01+00:00",
+   "date": "2026-11-14T20:35:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "45b1af55d5",
@@ -192,23 +226,6 @@
     "flag": "🇲🇾"
    },
    "topic": "Society"
-  },
-  {
-   "id": "bda47b9e8a",
-   "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmN3bE9IZDZucWdoNjRhQTlPSjZsMHJZVVZ0YTVkVHYxbnpUVUlEWTd0UVRKYl9Ub3ZGcG9zS3pYcjMwTGxGY3FMekFQdXNOVVc3bG1hOG5Tb2I5dE15RTBTVzVnMDNaMzlUZDQzczkzZGl2OThna3E4Sy0zOVpoQjBzOGZOclBpbzhjZ2tGRktvblM4aVluSFQ3M0ZWR2dSQkpCd3ZJRHJvTGpubHhLdzdJU1BSZFQ0cllZNWh3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-14T15:05:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Tech"
   },
   {
    "id": "3f63614c1d",
@@ -367,6 +384,23 @@
    "topic": "Tech"
   },
   {
+   "id": "5d9cd61b7c",
+   "title": "Cambodia's Interior Ministry condemns harassment of women, calls for legal action",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2hteC1CQnZoU3RaQmZBSlo4RUEtTGNsSnBMcTlOU3dBZld0NmVFbVozd01keDF3bmdNMzRmempncWVJNm5fTFo5OVpsdGVMekp3U3VXR0t4aUtnaEhsenNRN2MxWTEwQmkyam1ZYVRkVHc1T3VDMFk0Vk91dnl6TkF3ZF9fWU5aQkx0OEZ4ZUM1bG1tQjJ3Z3BCcmJYYjNNNy1RZEltTEpNU1RMcUVJRmF2MGgwNUN2QUJSQ1ZPc1lDdy1qdFFXZURrbEdUSjhHYnNFVjlxTFQxaFdIbXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star",
+   "region": "MY",
+   "date": "2026-11-14T07:09:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Cambodia",
+    "place": "",
+    "flag": "🇰🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "8ea99f6bf9",
    "title": "Husband, wife found dead in separate rooms at Beranang home",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenNGZVk5ckhMczZEbWZzZ2hFTkN3MzZhZEhmY2dtS3ZMSTdVaWppSDZrMVlXTjJHRUN0Q3ItYlZOM0lQOWJTVFYybXpoQm9OemJZTmRvNWRybWloZGxta0RDVnNnMUJtOFVfTVpMQzBGYWxyUjl0X2F3V1FhNVZNM241a1BGUW1Jdl9Na1Q2VnQxdU1VN1lIV2l4bk5iQ2lyOVVhSUJR0gGrAUFVX3lxTE12OE50bXhpcVdtYjBVT19SZFpacGk0aHFyT2paSXgzak5Xakd6eGxicGFxRWJEOUpfQXdUXzV2R3FPcHdfQWhJT3JxdzJRLXFZQ3p5ZGdMVGcxMWh2V25TWUZvSG5aSGlwQzJQay1CLWVUWmZneGktX1J2U2tJVEI1elNYTW9vRFRGajR5TGRfZm5yMUU3M3R2UHVyZWthalFtQkZrLVhRbWxfcw?oc=5",
@@ -384,23 +418,6 @@
    "topic": "Society"
   },
   {
-   "id": "05b887bc96",
-   "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkZoaUVyNE9YWk5BckgwYTc5WWhiemY5TFdvXzljS2ZQcVdnN3ZUZ21KVVVEOWhfcWNTTlZ4MjJUdWhqSXI2ckN4ZXRhaDhZZUxDWjZobF9oTFE4bXM4dFFJX0NfS1lPYnNyeG5MYWdmN25kRzNTMmtJVFl6R0ZTdTVoYmV5ZmVSZll4TDdXRDliRjlLZUQ2bzEwTGtYelVlbUNQaGt6dlR4ZWhNcDhOcWhOV180cXlSYzE00gHAAUFVX3lxTFBYRkRsRXV4NXJtWjR4dkFJbi11eEZBOUlMUDJsc2lVZWk0akRRaWlxN1pwRnpLQnM5TmJGdkxvY3paVnRJM0xuSTNZMlFFd3g2ZGpwNHZWekEtZDlUbXlPMExSY2sxb3lfTVU2S1dXMkJ1NzA1WEdqYzVibEkwNEMtc1FyUHQ3M0E1ZWZnTm1WSXFGVVF1UEdlZm1GSlY5R212VU1pMDlhNkFVQXJDdVY3dzBoNHZiNmxkRUM3QjJjUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "MY",
-   "date": "2026-11-14T06:51:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4df9466e99",
    "title": "Indonesia hopes AirBorneo will expand routes to other Kalimantan cities (Video)",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3I2d1pUVDVHQW8xcFR3SWVjTXhtdGRDaHdFVWJBWkJLT0lFVHJSUmU5V3JkYlhyb2pVcmY3SUNEX25vZW4xOHR1bUdRcmhyQmhrQUVaT1ROTDN1bVM5amttaW03QW5pc0NNM0JlLUxmMmREUGpLQlNXb2pMeTlrSS1iOE15d192bkVqdFRkUGRXa1NKTXI4aEc1VFB4clFVaTdjWkpDNFRSZmpKWDRuWUZScW1mOTdRaFJ3?oc=5",
@@ -414,23 +431,6 @@
     "country": "Indonesia",
     "place": "",
     "flag": "🇮🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d44755999b",
-   "title": "Turkish-made missiles to be installed on Littoral Combat Ships, says Mohamed Khaled",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0xSWTVOamEtajlUb1U5N0ZrYVdaUUYyTjJfaUhXN3J1eW5BbzNmRG9lbklxZnp6STViOTZUbW1oZmRSZ1pOT1dKQ2xEWVVLeXRxelpjQVRsMHh3QllJc0EtRkdHV21sQ0gxdTlNcUQ0VUtZYkhuc3F2Tlg5Y2VfU2VyTnAyTWU1NFlPcnVfZFFsVkNwZVdZX3k5NFQ1WUIzXzhtQ296TGF5VnFSbk5McEhaQlRxRFNRNzVMMDdXZWtHSnNOODVpYkhkRDI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-14T05:14:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Turkey",
-    "place": "",
-    "flag": "🇹🇷"
    },
    "topic": "Society"
   },
@@ -465,23 +465,6 @@
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d409dcc393",
-   "title": "US flight chaos persists with thousands of cancellations, delays",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50U2xXbm5QcWd4Vk9QdFlpQzRwNkVHRjZoMHc5OFBIcWR3bVpuYXQ4b3AzUVdMdlhDRzIxVVFhazdPczRkV1ZuWlpOLWgxZUpK?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Edge Malaysia",
-   "region": "MY",
-   "date": "2026-11-14T01:37:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
