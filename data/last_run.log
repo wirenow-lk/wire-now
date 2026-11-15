@@ -1,79 +1,78 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 22/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 42 stories
+OK   Ada Derana: 41 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
-OK   Daily Mirror: 62 stories
+OK   EconomyNext: 23 stories
+OK   Daily Mirror: 61 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 10 stories
-OK   Daily News: 17 stories
-OK   Sunday Times: 70 stories
+OK   Newsfirst: 13 stories
+OK   Daily News: 15 stories
+OK   Sunday Times: 69 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 8 stories
+OK   Ceylon Today: 0 stories
+OK   Google Warnings LK: 7 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 23 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 90 stories
+OK   AP News: 91 stories
 
-Biggest stories right now: Low-pressure area in the Bay of Bengal likely (5 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | US floated idea of Ukraine swapping land for  (4 outlets) | Former TNA Parliamentarian M.K. Sivajilingam  (4 outlets) | US judge again blocks Trump's makeover plan f (4 outlets)
+Biggest stories right now: Low-pressure area in the Bay of Bengal likely (5 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | US floated idea of Ukraine swapping land for  (4 outlets) | Former TNA Parliamentarian M.K. Sivajilingam  (4 outlets) | Judge temporarily blocks Trump from closing W (4 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [2 outlets]: Budget: Gap between fiscal discipline and social justice
-    important (also on Sunday Times) - researching
+* Newswire [2 outlets]: “Australians are known for their honesty”: Wasim Akram’s surprising ta
+    important (also on Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    gemini failed (The read operation timed out)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: The card's what_happened says the budget cites 'debt relief'; the article says 'debt indicators' and later notes debt declined, not debt relief.
+    attempt 1 rejected: Autobiography title 'Sabr' not mentioned in article (appears in details, key_facts, spoken); Misattribution: Card says Cummins acknowledged possibility Australian players might not have known based on
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 2 rejected: spoken: says Budget 2027 'will move' Sri Lanka from stabilisation to transformation, but article says it 'seeks to move'; key_facts: says Budget 2027 'shifts' Sri Lanka from stabilisation to transform
+    gemini failed (The read operation timed out)
+    attempt 2 failed: AI did not reply with JSON: ''
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Bing Chun responds to Rs. 84,000 fine over ice cream standards violati
+* Hiru News [2 outlets]: Sotheby's auction of $180m Van Gogh challenged over claims it was 'sol
     no AI summary: saving the rest of today for important news
-* The Washington Post [3 outlets]: FAA was warned for years about repair risks leading to nationwide grou
+* Newsfirst [2 outlets]: LAUGFS GAS OFFICIALS SUMMONED BEFORE CONSUMER AFFAIRS AUTHORITY
     no AI summary: saving the rest of today for important news
-* Reuters [3 outlets]: US aviation shutdown blamed on L3 Harris installed router
+* AP News [2 outlets]: College Basketball News: Rankings, Scores, Stats & More
     no AI summary: saving the rest of today for important news
-* BBC World [2 outlets]: Pope Leo speaks of community 'suffering' on visit to remote Andes town
+* Reuters [2 outlets]: Bahrain's interior ministry issues alerts of potential threats
     no AI summary: saving the rest of today for important news
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 6 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: looked up 24, found 2
+  photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+  summary translation failed (no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code")
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 8 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 32, BD 37, US 37, GB 37, IE 32, CA 38, AU 37, NZ 32, SG 32, MY 34, PH 32, AE 37, IL 35, NG 31, KE 31, ZA 34, GH 26, FR 34, DE 34, JP 10, IT 32, ES 34, BR 34
+Countries: IN 38, PK 33, BD 37, US 37, GB 37, IE 31, CA 37, AU 37, NZ 33, SG 31, MY 34, PH 32, AE 37, IL 35, NG 33, KE 30, ZA 34, GH 25, FR 34, DE 34, JP 9, IT 32, ES 34, BR 34
