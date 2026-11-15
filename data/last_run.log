@@ -1,10 +1,10 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 79/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 74 stories
+OK   Ada Derana: 75 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 21 stories
+OK   EconomyNext: 20 stories
 OK   Daily Mirror: 40 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 11 stories
@@ -14,55 +14,36 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 6 stories
+OK   Google Warnings LK: 5 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 26 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 92 stories
+OK   AP News: 93 stories
 
-Biggest stories right now: South Korea’s top tax exam scorer admits usin (7 outlets) | Israel kills Hamas commander in Gaza strike (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Iran targets US military radar in Bahrain in  (5 outlets)
+Biggest stories right now: South Korea's top scorer in tax accountancy e (8 outlets) | Israel kills Hamas commander in Gaza strike (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Iran targets US military radar in Bahrain in  (5 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* ESPN [1 outlets]: Patriots' Drake Maye, Lions' Aidan Hutchinson both injured on same pla
-    no AI summary: saving the rest of today for important news
-* NBC News [2 outlets]: Transportation secretary says he doesn’t apologize for FAA’s nationwid
-    no AI summary: saving the rest of today for important news
-* Ada Derana [1 outlets]: 7,000 doctors to be recruited over next three years – Health Minister
-    no AI summary: saving the rest of today for important news
-* Ada Derana [2 outlets]: NASA’s Voyager 1 nears historic milestone of reaching one light-day fr
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Africa CDC says Ebola outbreak still out of control six months since i
-    no AI summary: saving the rest of today for important news
-* BBC World [4 outlets]: Czechs rally against plan to switch funding of public media
-    important (also on AP News, Al Jazeera, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: BBC World, Al Jazeera
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
+* Hiru News [1 outlets]: Shenzhen gears up for APEC meeting
+    no AI summary: daily limit reached
+* Ada Derana [1 outlets]: Sri Lanka, Andhra Pradesh explore new economic partnerships
+    no AI summary: daily limit reached
+* Pittsburgh Post-Gazette [1 outlets]: Gerry Dulac’s 2026 NFL predictions: Week 10
+    no AI summary: daily limit reached
+* Euronews.com [2 outlets]: Three commercial vessels struck by drones near Romania's black sea, PM
+    no AI summary: daily limit reached
+* BBC World [2 outlets]: Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed
+    no AI summary: daily limit reached
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
+  photos: looked up 24, found 1
+  photos: 4 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
@@ -75,6 +56,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 35, BD 36, US 36, GB 37, IE 36, CA 36, AU 35, NZ 31, SG 30, MY 33, PH 33, AE 36, IL 36, NG 34, KE 28, ZA 31, GH 28, FR 34, DE 33, JP 5, IT 32, ES 32, BR 34
+Countries: IN 38, PK 35, BD 35, US 35, GB 37, IE 36, CA 38, AU 35, NZ 31, SG 29, MY 32, PH 32, AE 35, IL 36, NG 33, KE 31, ZA 30, GH 28, FR 34, DE 33, JP 6, IT 32, ES 32, BR 34
 
 World Pulse not made this run: no AI available for writers

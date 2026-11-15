@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-15T16:53:19.772708+00:00",
+ "updated": "2026-11-15T17:29:39.115455+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
+  {
+   "id": "6a20da42de",
+   "title": "M62 traffic LIVE as motorway closed in both directions due to crash",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFU3WlZVV05NZmczWmdBb3lIYnpZR0NLRkE3bHI1NThVZ01rczEyb3FqLWo0SHQ5ak1wVE9CMWlsTmg0OGFiRzhjeGdZaW9jT3ljbElFTk9jUjBPRFVWWUg4YjB3WUMwYkU4QTB3bDlKSjUzUmY0ODA5eDNJUWZ1N0hhcnVrUklmVTZ1bkZSS1pwTVlEUWw0WTFTTzJHQmd4Rkp4LUZPLW9CUmk0c0pj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manchester Evening News",
+   "region": "GB",
+   "date": "2026-11-15T16:37:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
   {
    "id": "b034c05de7",
    "title": "Arsenal v London City Lionesses: Women’s Super League – live",
@@ -36,23 +53,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Health"
-  },
-  {
-   "id": "9fe230b378",
-   "title": "Estonia to close borders with Russia in weeks after sabotage attack plot",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQczd5bGRsV2lGejhoV0M2UGxkTEh2QnFiT0RZeHBpWi1WeUsyZFd4eVI4eW1feUhxZkIzcVRNT011aEx5Z0FYdzZkT0plSW1lYS1ILWVKbXdtaWUzdXlTZGh6MEctaTBhYy1LRWZSd0NzQVB0LWZmQ3ZUT0hscjRqTGpvTHRuQ2w2MWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-15T15:32:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺"
-   },
-   "topic": "Society"
   },
   {
    "id": "e5239d044f",
@@ -89,6 +89,23 @@
    "topic": "Society"
   },
   {
+   "id": "20392529bd",
+   "title": "Rory McIlroy emotional after matching Colin Montgomerie's Race to Dubai record and dedicates win to father in hospital",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcjYySlhKMnJiTnk3TXJnd2pUZ2RYNDBXd1huQi1pMTRtSTM0Qk9XZ0NIa2lUY1lHMzVMaUtsM0lUTjNtVWo2ZDFDeHpfY1E5VklkRGhoNVJQOVg1WXpXSU16QTlyX0IySXdYOE0zc1NHWWE4Yl9TNTJqaWh0c2l1MHNIOURoUml5X09KdnFPek5fLU5jcmVWWldDLVRBTG80Z3ZhSUFSck85TVl4TTdDQ1lwUmJ1R3pQOEFubmJRcW9YUFI4MloxQnJDMFBTLURzVDBpeHJic0l6dkhCbTBIeS1lVmlpbENqeHBfYlY4cWhwNXdG?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky Sports",
+   "region": "GB",
+   "date": "2026-11-15T14:47:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "b08282c8e3",
    "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
@@ -102,6 +119,23 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ac91e819e4",
+   "title": "Estonia prepares to close border with Russia after GRU-linked sabotage attacks",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2hUV0NzQ2diVFk2akVsWHJLa2dGenpKNHBjQkR6QS13eV9UNENTTWsySWR2WmZDNFlfSXJQZE10cjBSX1VVUXAtM2pVcnJUTDVVMGZVbjRnNTR2N3JaNGtNaTZGNDBHT0pqaDVjcFV0RnhJUmFhV250TG9sUGw2enhxdUpEQWpLX2hwTXNUcDdTOWFwcEZzR2NjcnJBTWdObjBFTlZXeUlvMXhCSEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ERR",
+   "region": "GB",
+   "date": "2026-11-15T14:08:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺"
    },
    "topic": "Society"
   },
@@ -123,19 +157,19 @@
    "topic": "Politics"
   },
   {
-   "id": "32de81db2f",
-   "title": "DP World Tour Championship: Rory McIlroy snatches Race to Dubai title as Tyrrell Hatton claims big win in season finale",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlpBc2x1SzlWMFhTQTFndDBMT01qTnBhMWtBLTg3TkprT2NRdVhyeHVEZW4yX0xPMnVaakdKbkQ3ZDRwaHlfMEpZZVphZEo4bUpOcmtMOFl1QVFEU1VzcHZIc05lbFowS2xXcHBReHVJTjE2U2lvSVFTVVZBZkt6aXQ5MW9kYUNiY2N5ZGhHTzBhR1NqbTFWeTJYOG82X1ptYnJPeEtrYWFSUEhqRkRraDB0YlN4YkFGLUNraUxEVF9PUkVMZ0tvc2VyYXpzVTF3eWt2MTUxNmN6ay1EZHpGbjdidWhiLXd1X3l0NU9UYUY5VlNjNXc?oc=5",
+   "id": "01651a6f3f",
+   "title": "Vanessa Feltz, 64, shows off incredible five stone weight loss in figure-hugging white gown at charity gala",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlVXSldLdGZ4OVFTdzJyeGs2ZWlkYXhLME00WjNmem52a2RxLTBPVm0tY1JrbjMzR3FqQWxvVU5UT1piQ1Q4b2M3TVA1d1FXbWk5c3l6cG00MUp0Vk9Ed3d2YmxWNndYd1NvaXAySzk3cVlOb1E4cThXOE03Y3BqT2VQOXVHQ0pIUjJmTGszYnFyaC1scnRtcHhGYTY1ZnVIZnN0NUhuRQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sports",
+   "source": "The Sun",
    "region": "GB",
-   "date": "2026-11-15T13:45:46+00:00",
+   "date": "2026-11-15T13:54:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "UAE",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇦🇪"
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -212,23 +246,19 @@
    "topic": "Politics"
   },
   {
-   "id": "454933811d",
-   "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
+   "id": "fc50e2698d",
+   "title": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTRuM1FXd3BIak1xLTZPSHJ1Y2p6MFBBVlVRQ0lhbXY2b1FYbWFYWFNZc1N5aEVvTlAyWVpxcUE3d19NdEhldW1Jc1A3aW1XbXBSM20zNUE0SmQ3U3VJNTVXSzZYWUNpVU84NzQwWHdvZTVqUGpuWUE2clA0NjR5NmRjdXRlem9vYmVkUDdxMkVzWVg5U19nS2g0TjlCRUw3SlY3alZlZ0xVMGJINy1QTHZjV0Vtdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Push Square",
    "region": "GB",
-   "date": "2026-11-15T12:55:59+00:00",
+   "date": "2026-11-15T13:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸 🇺🇦 🇷🇺",
-    "also": [
-     "Ukraine",
-     "Russia"
-    ]
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -301,6 +331,23 @@
    "topic": "Society"
   },
   {
+   "id": "373d0109fb",
+   "title": "No10 insists Burnham writes ‘most of his speeches’ after aide caught using ChatGPT",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3huTS02VktmWlJRMjlpLVRZNU8yZ0VoREY4QW5DdUROU1REU3IzSUg2c3JYeU96T0NmUWg1TjgySUVsVzZ2WXNaeGt1NDF0MHM5MXd4RWdXVFhYbWR0RWpwaEwtcnU3bEFyYkhJSkpwdTM3Umo0VkY4Rms0N0VoZHNIMS1oN2JkTEU2ZVFEcDdzOW5kelJDYkNQUm8xaVJkc0FzMC1HTnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-15T11:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "20191b278a",
    "title": "Minister backs legal right to job support for young people",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PVWc3UU5DOG5EdW9SUDdPdFMxaUR2NjNRS1d3SERxX2lSX0p5cEVfVTMxc0NDaG81bTc4eU1VZUtLOWxEU1M0cXpFVlZKOUc1bFRNeFVxcWEwNUdyMWc?oc=5",
@@ -316,6 +363,26 @@
     "flag": "🇬🇧"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "5d7a8ff131",
+   "title": "Dominant Australia defeat New Zealand in Men's World Cup final",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yc0EwQlFad2FTMXA5dHAyME9SVTVZZmtPRlFNNDllQW1abnotWFk4T1hiYUo1SzJxV3h1ejNBeXBHR2pBblMycjczNnJHeWkyT2ZDMkNFb3hMZ2NIQlhCdHZTWkR5TlFxRkR0UFBYeTc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-15T10:51:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺 🇳🇿",
+    "also": [
+     "New Zealand"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "25816411cc",
@@ -372,6 +439,26 @@
    "topic": "Society"
   },
   {
+   "id": "cadba7d775",
+   "title": "Israel kills Hamas commander in Gaza strike",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHFqU3F4OHlZV1UtN1pWT2NnU09ZRFoxUmItWTV6VHlIS2ZINzZXdVQxN3NaVUQwTERPUnRpb1JST3dMZzNZNFpFSWNXMjNhVktPekZJTV9iX21yQ21pZWQxZlV6ZzhfZ2ZaY3BxNFBDOW0xd2FLVW9uNjZXdVN3ZGVB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "POLITICO.eu",
+   "region": "GB",
+   "date": "2026-11-15T09:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱 🇵🇸",
+    "also": [
+     "Palestine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3229ecb349",
    "title": "SpaceX catches part of its Starship rocket in historic first",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVzFjNDJpSFRBeWI4VHdIdkR3Z09NcGtFZERmYVMzVHNZNG1NTjI3eUNON3djRnpJVmhoYzdnRWZVY0FpcldnNGY3RFlvRDNuQVU4TUJEZnZ5T0NTWnVoSXNabUhtb29mS0JOeUVEWDBJU3duR2xSZU1Rb29wVmNMV1U3NkJuN2VYd25WYkhPNldMT1NZLV9sZWhjYms?oc=5",
@@ -389,34 +476,14 @@
    "topic": "Society"
   },
   {
-   "id": "000cf1278c",
-   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WeU1ad2RhRnJnREl6cmU5c2ZlNEhYUld5Q0szWWJTdzc0T1hhSGxibXlUeG4wNU5Hdmw0dUFnX0ZHekIxcURGem5DRDZCakxHSEtNbDIzc1d2TjlnbHc?oc=5",
+   "id": "42f0db3b6b",
+   "title": "Harrison shocks Nunes on UFC return to retain title",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xSUw2cFlGSkVrQ3V0Qml0WHphQnR5UEhORVJHa2MzaVVTcDJVX0lRSHBURUhZbThvejBDWUJRX2dFLU0yOGI5Q2RWSDl3WHp0MXk2bjB4ZzVxZnNnRnJuYjNXenE5QWttVWw1aG1TNlhSR1VBV1pHcw?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-15T08:17:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱 🇵🇸",
-    "also": [
-     "Palestine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c1f52473cc",
-   "title": "TV tonight: a tough look inside Crowborough asylum camp",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2dXWHdfRk5lLWwwOEtuWER0bjI3WWpGQXNjcmN1Z2RZRU9KVElSdG1WZWNmcV9DWUNJRTJpU1ZxSmYzZTlmblZYa3ZQVnd1QkdRajFMSW9WTUpiRFNVMm9HSENpRTlMN1lXZjRiOE5nSTZPQVRPZVlwMDh6bVVhejUxRVgzMlloOEJoUGVBTUpJa0lhSExrM2tpeWUzWE9OZlNHWm5NWEw3UjA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-15T06:18:00+00:00",
+   "date": "2026-11-15T08:02:48+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -426,39 +493,19 @@
    "topic": "Society"
   },
   {
-   "id": "a32d1cb515",
-   "title": "Atkinson, Banton shine as England thrash Australia and level ODI series",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM3M5T0FrZ1RIR3dqbmt1aHNwaVBHSTgtQWNtUjZRcEozV0FuaW9YYk02RVJKaDdoai05S2EzWkVxSWx3WEQtOE51S3YtSUVVOHZtMEpJU2I0RjkzbVRfU3pmNE5WSGlWNEhLeEpEbVAwUExZS0RtNE5lVTRkYm51NHJvbjFiMlNqSE9wMzhEdHMtcDVERUJaMGJLelYzcUZuLWRyMkJPdG03NThUR29JT0FRRjhvTjhQVFdUdFFzMkVhal9DMkhyVVlGTjduVmRZQ3JUVm80VQ?oc=5",
+   "id": "e53cfcabb3",
+   "title": "One router overload brought US air travel to a standstill",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUxaazZEWDlnYnJQUGQ3ZjgwX0xSR3hWclVzd2ZFOUtvYXh5Nkl5WTdBSVE0S21Xb3hvazVIa2xYZklNZVBROG9OeUstY1U4N01hbERCc1o1TVdNZkotVU1PeGNPNnFyajZNbmVBaFR2WFZjaldlN3JPenRnZldjaFpzRkg?oc=5",
    "summary": "",
    "image": "",
-   "source": "TNT Sports",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-15T03:01:00+00:00",
+   "date": "2026-11-14T22:57:26+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "United States",
     "place": "",
-    "flag": "🇬🇧 🇦🇺",
-    "also": [
-     "Australia"
-    ]
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "40dfdbc299",
-   "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91Q19uTWZCdElwU1pOOVFrNl8tQzYyOVF6d3Q4bUIzX19ucHVRRV9MZk5tRFY1clZCV01RYktONXVrUHdxUnVIY1dveENoMS1ISXJUdUt2dzlHZ0V5dkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-15T00:09:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -476,23 +523,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "71cd45443f",
-   "title": "Copper wire upgrade grounded flights in US, transport secretary says",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZE5kNmt2MTBrSVFqemoyZnRDV3VCNUJmZ2NxYk1ONHpUZXdMTmRUMURfZjJzMkRDUF83dUZ2TWlKU3ZFeWFlTGpmYS1VcUpCeHZxM3NtQUcwWmVJVFFRQnM0VFhyLTlBWU9TUmt1Sm1fdjg0eW81aXZuQklsRkpUZElNQ29sSEFlc2lYTkNIVURpakxoWklBcVdhMkxXYzh1NkhVNHg1QkFSQnVCLUYwTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ITVX",
-   "region": "GB",
-   "date": "2026-11-14T21:50:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -531,23 +561,6 @@
    "topic": "Society"
   },
   {
-   "id": "4439ab7352",
-   "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWNicEx4T21sSVEzYjJXQmNFSzdCYjNXdGVFdkpXYXJBNi1vel9kSkNTMjJpTlVENHhVY3dsTHFRUkhmQi04WDFlRU5YeEhNOV9qVk1KRXNaYW1TdXBvbkZrclM0OXdtQndqQTFlM01FS1drYVZOYi00NDRmWEhObmRTR3ZRZEVvN1hmMFFiMXRHdkljb01zRmhJMU9WZzhvT0JKQURXVDYyN3VXUmpLQUE5cVJ4MkZVX1UzQndzcw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Forbes",
-   "region": "GB",
-   "date": "2026-11-14T20:28:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "db60fd6954",
    "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEZZVlhXS0dUN1dTWlJKUTBXVXJfdklCUExPbGdZTmxTcTV2R2lFNWY4d3B2VUpTaUlxaFN5OXJUWW8xdUJOY2JabGVmNTh5MGtHLUYwUXdMZXVzRzZYcGVPTTA5dGRHcWU2S2ZPejd2UVMxMGt2MnJybS03bHBzM1EydzJ2OUlTRVB4c000TjZoNjc5Y2lPZGYyUGNVOV9BQ2JHNTh3ZmxtZzZu?oc=5",
@@ -573,23 +586,6 @@
    "source": "The Independent",
    "region": "GB",
    "date": "2026-11-14T16:12:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d340535604",
-   "title": "Andy Burnham accuses Tories of ‘burning bridges’ with EU over Brexit",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjZKeGlZSkdxeXBIeTVyV0k2MG82ZXl1ck1BamM0dFkzTlhGT2hqYkxSZ0ZnWWJQSDFtUGhpeDAyOHB0OTRfNGdKZ21vVWRrVDZSODN5Tjk3Y3RBRXRYazhiRERNai16dk1BZXFTdV9MNEdGbkxqTzFYUG9TWXItZXBSN3E4M3otNnJncEtnRTZhc1pY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Independent",
-   "region": "GB",
-   "date": "2026-11-14T15:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
