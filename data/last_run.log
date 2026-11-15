@@ -4,11 +4,11 @@ OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 71 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
+OK   EconomyNext: 13 stories
 OK   Daily Mirror: 41 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 11 stories
-OK   Daily News: 15 stories
+OK   Daily News: 42 stories
 OK   Sunday Times: 88 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,56 +21,39 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 91 stories
+OK   AP News: 88 stories
 
-Biggest stories right now: South Korea's top scorer in tax accountancy e (8 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Jordan sentences three men to death by hangin (5 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Consumer Affairs Authority summons LAUGFS Gas (5 outlets)
+Biggest stories right now: South Korea's top scorer in tax accountancy e (8 outlets) | Israel kills a top Hamas commander as Jordan  (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Iran launches drone attacks against US milita (5 outlets) | Wife of former Speaker Chamal Rajapaksa passe (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Politico [1 outlets]: Van Hollen disputes Schumer’s claim that he has the votes to stay lead
+* Daily News [1 outlets]: The Temptations of Power and Judicial Safeguards
+    normal news - one-paragraph summary
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily News [1 outlets]: How to get hired after 40 in Sri Lanka
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Bloomberg.com [1 outlets]: Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out
+* Daily News [1 outlets]: Doctors not legally bound to report underage pregnancies to police
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [1 outlets]: Govt plans to approve 7,000 doctor positions over next 3 years
-    normal news - one-paragraph summary
+* The Guardian [3 outlets]: Estonia to close all border crossings with Russia after attack on dron
+    important (also on Al Jazeera, Reuters) - researching
     news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* The Guardian [4 outlets]: Estonia to close all border crossings with Russia after attack on dron
-    important (also on Al Jazeera, POLITICO.eu, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     read 2 articles: The Guardian, Al Jazeera
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: Card says 'assaults' instead of 'attacks' and omits 'defence capabilities'; Card says Latvia’s Interior Minister thanked Estonia; article says he thanked Estonia’s Internal Security Service; Card adds
+    attempt 1 rejected: the name/word 'GRU-ordered' is not in the article; the name/word 'Russian-ordered' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -79,3 +62,52 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    attempt 2 rejected: Detail 3 claims expected duration, sanctions enforcement, and protecting support for Ukraine – not stated in article; Spoken claims borders will stay shut for now (duration) – article says authorities
+    -> no cards; posting with the site's own summary
+* BBC World [2 outlets]: Zelensky urges US and Musk to lift Starlink restrictions and be on 'ri
+    important (also on BBC) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'Moscow-installed' is not in the article
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 2 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 5 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
+
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
+
+Countries: IN 38, PK 32, BD 37, US 37, GB 36, IE 36, CA 38, AU 34, NZ 33, SG 26, MY 32, PH 32, AE 37, IL 32, NG 34, KE 30, ZA 31, GH 27, FR 34, DE 33, JP 6, IT 32, ES 33, BR 34
