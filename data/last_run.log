@@ -1,11 +1,11 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 75/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 79/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 69 stories
+OK   Ada Derana: 74 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 21 stories
-OK   Daily Mirror: 44 stories
+OK   Daily Mirror: 40 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 11 stories
 OK   Daily News: 15 stories
@@ -14,73 +14,67 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 5 stories
+OK   Google Warnings LK: 6 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 25 stories
+OK   BBC World: 26 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 91 stories
+OK   AP News: 92 stories
 
-Biggest stories right now: South Korea’s top tax exam scorer admits usin (7 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Iran targets US military radar in Bahrain in  (5 outlets) | SpaceX Starship returns to landing pad from o (5 outlets)
+Biggest stories right now: South Korea’s top tax exam scorer admits usin (7 outlets) | Israel kills Hamas commander in Gaza strike (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Iran targets US military radar in Bahrain in  (5 outlets)
 
-4 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Euronews.com [2 outlets]: Two aircraft collide at Miami International Airport
+* ESPN [1 outlets]: Patriots' Drake Maye, Lions' Aidan Hutchinson both injured on same pla
     no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Selling fuel at landed cost would drive prices even higher than curren
+* NBC News [2 outlets]: Transportation secretary says he doesn’t apologize for FAA’s nationwid
     no AI summary: saving the rest of today for important news
-* Ada Derana [1 outlets]: Cadet movement vital to building disciplined youth – Defence Deputy Mi
+* Ada Derana [1 outlets]: 7,000 doctors to be recruited over next three years – Health Minister
     no AI summary: saving the rest of today for important news
-* New York Post [2 outlets]: Turkish husband, who pushed pregnant wife off cliff, released from pri
+* Ada Derana [2 outlets]: NASA’s Voyager 1 nears historic milestone of reaching one light-day fr
     no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: Africa CDC says Ebola outbreak still out of control six months since i
+    no AI summary: saving the rest of today for important news
+* BBC World [4 outlets]: Czechs rally against plan to switch funding of public media
+    important (also on AP News, Al Jazeera, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: BBC World, Al Jazeera
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 5 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 4 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
+    "code")
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 35, BD 37, US 37, GB 38, IE 36, CA 37, AU 35, NZ 31, SG 30, MY 33, PH 33, AE 37, IL 38, NG 36, KE 27, ZA 31, GH 27, FR 34, DE 33, JP 6, IT 33, ES 31, BR 33
+Countries: IN 38, PK 35, BD 36, US 36, GB 37, IE 36, CA 36, AU 35, NZ 31, SG 30, MY 33, PH 33, AE 36, IL 36, NG 34, KE 28, ZA 31, GH 28, FR 34, DE 33, JP 5, IT 32, ES 32, BR 34
 
 World Pulse not made this run: no AI available for writers
