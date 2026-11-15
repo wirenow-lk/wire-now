@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-15T11:13:13.255080+00:00",
+ "updated": "2026-11-15T11:56:55.548267+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
+  {
+   "id": "d9f52e815c",
+   "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFYxcmdhajAxTUdHY09xRy1BUWx6OFAya25OQVMyQlB2QnY0aE9KZ0oxTlhObEp4XzBOejlQNXVmaUhRRi1QNmljNGlFMnh0dFBWdVBFeWNMZ0pSdUhVSkRnY0RnMUdIZEFhZjNUMTJjWllyYldUWC1tU01IeXJFLWpFMkhMdFJubGFjemlfVkRON2F5WmNQNkJZMjlPbzBTN3lDaWExNlBnbzBkeXh5a1VwYThYYnpKdmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "KE",
+   "date": "2026-11-15T11:18:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Congo",
+    "place": "",
+    "flag": "🇨🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ea4d01f921",
+   "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeG54TUh4Wm5aVHNOSXVQYV85YUJuaHZ0V29nbWVDZ2JhVUs1a2R4aGhOZjZjS1hGX1JfSGtVcGtYczZDVTFhNEFIY2RRUHpsRWYxT3p6YmdGWlB4S0xIUGxGekdVaEZUd0NCZlFST0lwei1zbUNZa1VDSmZQOTZUQVhteFI0ODdoWXYxTWliNGYxRUZYamQwSkpEQzlta1F5eFVQZ2hVaUl1b0o0Y0NiVWFjcmpRUllQa0dqZmdjS2ltZ3NlM2dtSg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Space",
+   "region": "KE",
+   "date": "2026-11-15T11:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
   {
    "id": "4c300bf7c3",
    "title": "PACJA targets 3,000 young climate leaders by 2027",
@@ -12,6 +46,74 @@
    "source": "KBC Digital",
    "region": "KE",
    "date": "2026-11-15T10:44:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8a532a6d36",
+   "title": "Low-frequency noise reduction in laser-induced graphene devices by noble metal nanoparticles decoration",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UNG4yalo3b3dNeWlMc05BaWdlUjc2SVdHUExBU0FnYm8yN0xWRldKMWUxd2VxWHVLWlc2S0ZaWG1CRGtVWXVyUmMxaUNGRzVvWkRHNzQwZHJxU3FBaHZV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "KE",
+   "date": "2026-11-15T10:37:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dabddb627b",
+   "title": "Police hunt suspect after man killed in love triangle",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY05fOW5lWi1Bb2lJMDlDNUhRXzFlMGRHWllkRHJfbkRsc0JaaEVPc0lvR3dXcTg1SDRMc01nSURHTTZMS21PUno0Y0w1YkJ0bGlvLWd0aWxTZG1CanhmVTFJV1F1QzJRQWc5U1VEY3BVeWw2c1FFSlJJNzBSVkl3YXhRV2tZTzBUclBJaG5CTE15TlJvVHFSajdMejM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-15T10:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "256d9083b1",
+   "title": "\"Weigh your words before you speak\" - Ndindi Nyoro tells Ruto",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTVWUWYyd0ctYjNWN0U3akRwRklkMS1SeFk2cUtEdWNwVlVFZVVVVjR4VEdPM3V3aHdWVlFIbWdsbHdUcl9NU1l5MnRiZHNVby01M0FUNlZIMlhYOFhxTDJETkp1bnhUa1RWdDRvRy1qTU1uQjc5b1VfZ3BvRFZ6UlBaam9QUHphQzhsbms0T1pxQk5jSFdKQg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Citizen Digital",
+   "region": "KE",
+   "date": "2026-11-15T10:22:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "06a7d38443",
+   "title": "Antimicrobial activity of apramycin formulated with dextran-based single-chain polymeric nanoparticles against Acinetobacter baumannii",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yTjhpQ0ZZcHFtWlJES3VOdkhCOXprbmJnU1VPVnVMRy1hTzBWcmNqVk1ldmtVNDFsVjUxeEFSTkZyVEtLbmpPQWVwcjJndFd1VjJaa3AwWVd0RFhQa3VB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "KE",
+   "date": "2026-11-15T10:10:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -55,60 +157,6 @@
    "topic": "Society"
   },
   {
-   "id": "05bfb0c7d5",
-   "title": "Romario slams Ancelotti after Brazil defeat against Japan: ‘Take your things and go’",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2NJN3NYempjZTI0U2otdE8zUlZyUzRjLWg2TDRMVGcwLUxIdmxZYzhSVWZNcnAyTUR6X21oVElPdG9Sc1d1QXZqeExidWIybGk4SkxrMGV2UFhpekVlX25WdzlDZXZfZC1rZUJZNFBuSnpUVXZncmpEeklBbXJhTFI4ZXhfSVhMOTh2R1dyUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "KE",
-   "date": "2026-11-15T09:34:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷 🇯🇵",
-    "also": [
-     "Japan"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "168ada2146",
-   "title": "Ruto to Maa community: I have fulfilled my pledge to you",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeGJPZ0FiM0luS1ItRmxmX0VfZ0ZqTHZQMkZWQ3o1dnB5SWUxem5sV3NfemxUVHh1Rkc0ZFYyeTM1eTJLc2xEXzcyQ2ZSUGRHTTJuWmZFNkozejhiZ0VrX2FYT0xIRWFhY0xmN3hiSHZXUDdNdUlFUVRIZERHOE9kM0dHdXlFNWFidVZxUFdqcktucW9QbWpqN3o2NDlxSmpmN1h3R3VTQVhlZGVPRWxRUk40eXVyQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Standard",
-   "region": "KE",
-   "date": "2026-11-15T09:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f9001fe9e9",
-   "title": "The Sky Today on Sunday, November 15: Mars and Jupiter in conjunction",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tb0V2VGY4MFJ4RW1UQjU1cFN5LUNBUEZmUUxSU0k3bXEyU1ZnWlRENGZxQUgtU1R2c29jQzFuRWU3WDJKV05NT3RTY0N5QURnTUxfZ2dqRm1zZTk3ZHIydGw0WXhzTW0wSjgxWkZTZGNncENaTTFGUEJSeTdUVkk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Astronomy.com",
-   "region": "KE",
-   "date": "2026-11-15T09:00:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e9f56418a6",
    "title": "Kenya’s low-cost green technologies showcased in Turkiye",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHg2UGRDSk01MGhURUJrLVE1T051ME5BQWhLMjlYZWRMWklWVUM0TUR0SzI1RHROd1cwazRVZ3ROVXVFYmVaSWkwZUl4dDhlT2EyWGtWRjVkamlBbi1ZUlRtOVlXZElwOUJ5TlU5dUxVR3ZBZnNvWWFfZHFkVkVKSTJOV3UzZ1VtNHhkcC1qa2Y3d200SVllZlZOY3ZqQWc?oc=5",
@@ -126,31 +174,14 @@
    "topic": "Tech"
   },
   {
-   "id": "83dbfe91e2",
-   "title": "Gachagua likens 2027 Mt Kenya elections to Mau Mau freedom struggle",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHZQUFlFb2tDeGREZHpEcFhrSE5ERDVhcVJCWHh6aVgtckpva1BUb1A0eEJ6M0Z6NHR6ZnEtWmhwSnRydDNhS0Y0WkctcWpJMXpwX09nZUpRU25XclBDWjMxZWowLWlieHZ3dnlQX09idzRxcjRVd3o0MGE1Mk1ER21mSm82WW55bzdVM2RkV3JKd28?oc=5",
+   "id": "4443bf459e",
+   "title": "Young Nation Kids Fest blends fun, learning and career discovery",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbFRGUGpPVjFKb1RiZmdYb3hta0FYX3hMd0pyWm9KUlhEdS1mSk1YbFY2eWdfY3FpeWRJLWN1Ymcxd3dfUG1XSkxHLXJhZ25LR1lkcGFsbEU2UXB1d0FXYUdaUDlxdTd0eG5LNHA3Vko0RmdoM1JKOTNjQllzdll3LUtUYjBzM1ZZdVd2TWRjcVBfNzEzYlBWODc1d3czNjU0TlE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star, Kenya",
+   "source": "Daily Nation",
    "region": "KE",
-   "date": "2026-11-15T08:25:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "df3f45e397",
-   "title": "\"One of our own from Chiclayo\": At His Former Cathedral, Pope Leo XIV Urges Catholics to Walk Together",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHdINGl1MUlzeGlwOV9UXzVQTEc5ZElqazNyYXI3U0I0TjhiRVZrbDVUdGpYb1VsR0VYMjc3VXJKWjRsS3ZnbG93aTgwSmdRQ3dWUF95cnQ5cjd4M3I5RlF1WjVmLTVpYWlrQ3NWSVZIUmFHWnBaUEg5TlpRU1BuVW5PY0wxVTZXVEhRbl94b2tTNmN0TlY0Y19ZdlpmMXRuTTR3R1JDV0JhZ010enFmZnNyVGlZTDlhTnIyVE1DMUgwMzFsbENFaHFSSFg2c0pS?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ACI Africa",
-   "region": "KE",
-   "date": "2026-11-15T08:05:11+00:00",
+   "date": "2026-11-15T08:02:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -165,7 +196,7 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHc3ZV9tbnFxNEU0S1FTOE5oOU04R0E0YlZNRmJVYUJ4Skt0OUhPT21EN1FvaEdPY0JGSk5FZmV0cjY3QS15Znp6SGoxVDVRTlA2TU84UmpFeWxOWmxBc3Rvd2pHYVZRd1U3M3lHcTNZVUJncWdwdVZRMi1GdlNDZ1huNDJoMm9QbDdxWTR4RGJoNDRRamhtTF90X2FLRUdLaWUwU3NLU1VmazVhWXk0bFpBbnViV3ZMbWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Standard",
+   "source": "standardmedia.co.ke",
    "region": "KE",
    "date": "2026-11-15T08:00:00+00:00",
    "coverage": 1,
@@ -211,40 +242,6 @@
    "topic": "Society"
   },
   {
-   "id": "b4bf2aeeee",
-   "title": "I will not resign as DG, Prof Cheserek says amid bitter 'political divorce' with Rotich",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlVYMnBzLUFnUDY5b1huc1BqUllsZG9CUVFxRXJjUmZpRmQ2dnN5U1VqcWJtcGhJZjYwalp1QmpaMVo0eHEyTF82MUFOX0ExR2F2TVczNURodzhaR2NNSmMzU0o5YjFicFFnQVhJdEJ4Z0Q4bVAwV2YwZ3VEOUFRZjBYUjExMnBoMTRHUmZKbmdxbmdtaUZtQldJNVJzUmNCbkpVZmtFVU9vVzlWRVN6LWR4MG9lWGJobjJRSjF5MmQwejFmaG1jTl9jVGo2Tmx2TFhyYzRxY1hiV3hoeDhSag?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Standard",
-   "region": "KE",
-   "date": "2026-11-15T07:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "abd2a2077b",
-   "title": "Microbiological contamination in an anatomy laboratory: comparison of cadaveric materials and environmental surfaces",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80bGU0bWtUVTJvcHRXdmZ1bTFkMmoxTW5RRWNEQ3FyYURuWWN4N2tCWFEyMkdNRjI5RHZXWG9TTlBvRGFORFpMTHVmSF9RSk1LZTVLaVprNERxT3BJUUdJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nature",
-   "region": "KE",
-   "date": "2026-11-15T07:14:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7392607434",
    "title": "How to watch Spain vs England FOR FREE: TV channel and live stream for Nations League today",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZDc2Z1lfaEEyVWVta2RFcHFYYkdBN1ZnbHVyeGFsaFFsX29MZmpsNE83bzhDaUNueE1QNG5kazVJX0ZmUFBxOEFpY0Y5V2JHVmlJMnBqbVc5djJtZDRFemJqa2tTWjFNTkJwdDduQmQ1a3JBZFJCaTJyY2FnaVB2a2xn?oc=5",
@@ -261,23 +258,6 @@
     "also": [
      "United Kingdom"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cb6652206f",
-   "title": "Ebola outbreak remains out of control in Congo six months into response",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX3paVXpvZ1ptMXdwY0loRjBlQlBpcUdjc3BnN2NjSmtNblFxeGpyMWRKclFPM3ZGbndzc3pLSlVFNFQ4cEdVWUFuVXdOcnNMWFM2eVFrY3hPR2RjVS04R29IWUw4ZmZqRS14QzUyYkpUY1JHNUl0aFExbXd0SXlMNzBtN3ZDLTdWanhLNUtSNTQ0RDA3bnZGQzdGNXNLWWNWM0stQ0NEbEFYdEt5eThBeUg3NmZBMjhvWlMxQjU3MXlZUTQzbXh2V0Zwc29YZnVK0gHXAUFVX3lxTFA5NHV5czZOcUZNdXBYYUFKcWticUQtUzAtMW1YWng3R3BPaDJSM3FfTHVYcUw3Y0t3UHFVakNzaFFpT0cxX3I5LTJTY3VCRFlGYmdLaENKNDZfRVlIUHdLaTA5TlVnMDhZRGoyeWFVUkZRMDctNXRNbHBnNUYyRFFzWGtnQ0FDdXNVZ1B3Z3dGZWtoVmJRRlVoMG1ObVFic1ZiYk9mQjFZTU9IalY2cnpzVURQU0x0RUxqVTdjRW1HLVBfTWF6Z0RGS3RvQzJTM1k3M3Itb2Nn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "KE",
-   "date": "2026-11-15T06:34:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Congo",
-    "place": "",
-    "flag": "🇨🇩"
    },
    "topic": "Society"
   },
@@ -333,6 +313,23 @@
    "topic": "Society"
   },
   {
+   "id": "5563439f27",
+   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSVEtNVRFaG5hcno2YnlYR1lwRDJhSXV2OGJNVGY3cU1aVzNPaHNjdUIxcHp5RXJ2RWVGQV9DRmR1cUx6ZkptMi1KSWlVeXhwWkp5S2xLZ2tCYzQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "KE",
+   "date": "2026-11-15T02:49:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "034088e450",
    "title": "Study Finds Heated Asteroids Lost Chlorine; Pristine Meteorites May Overstate Halogen Supply",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMTlqelFCSHlRSXp0SlMxa2hhVW9JMmFkVWxDQzhiWWlVSGljXzhDNnhTOV84aENxdmpwZFp1dnNDZUNId21HOEVUcnM1TlBZMl9zUGs1Q2tXQmIwYXIxWGZXVFhrSExwTGh0dVRZN3M4Q0ZPaFptbUY2XzhDcTBRRmM4LU9KR0FYdDdjb2Z4clE1Z3dUUG9uTFpKQ3JXR3JNUnhoNWFkb0ZNVUliUHZaRndIVnVVTVJYWVFraTVzSUhvNU9xVEk1Q0tOSHhXb3pfYUhlWnF1SE5CYVY1Tjg0?oc=5",
@@ -350,22 +347,19 @@
    "topic": "Society"
   },
   {
-   "id": "5d9bfae0b0",
-   "title": "Ronaldo-less Portugal suffer Nations League hammering at hands of Denmark",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUpQSFpsVUlDb25oQXUxR2otWl9aRVFlalpIYmRNVHpCUGMzOHczckM3RDdqZnVBUWRjRHNPWl9BcW92VkNIRDdOYS05ZXZCekdJaDVWZVNTRnVJM1RvSEg1c1dXV2pUbFZORC02OXlCam1XdFJZYXBwOS02SVJOdGpIT3NMZXJHbkl1UnRSUmVuaWVWY0hjYXFNUU9OekJpd1U0dU1IWUo5YjhNVjNxa3Q5Y1F1Q2pjcXJZRg?oc=5",
+   "id": "8f95316562",
+   "title": "Portugal humbled in first game since Ronaldo retirement",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjZNMFJha0lYbF9iNVhNVzc0Tk4xT05EUnRDbk1jZ0tWM1dLMy1FRUxUWk5qR2lhQmp1QlphYkstYzlTZFNwX19KcUE3TWZ6U1VjcHd6aGNMck9CUDRoMV9XeTczTC1SUlpHeGRrVFRQcXczOG14MG9nSDhwTjdMR2dfMWhrT3M5bUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "France 24",
+   "source": "Yahoo Sports",
    "region": "KE",
-   "date": "2026-11-14T21:53:21+00:00",
+   "date": "2026-11-14T22:05:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Portugal",
     "place": "",
-    "flag": "🇵🇹 🇩🇰",
-    "also": [
-     "Denmark"
-    ]
+    "flag": "🇵🇹"
    },
    "topic": "Society"
   },
@@ -383,6 +377,27 @@
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6064bfee24",
+   "title": "Japan score in injury time to stun Brazil 3-2 in Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXpad2RqZEU4S0V3b1Q1SjBpM0ctWmRCcktNckZ1RjB2a2tTVEtKbFNoV3lpOVIxMWtHVFppOVVTWEJvNVFkaGlGa1o0WFhGclZsd2NMZURCSG8tWjJ6aDB4a19WaENmRE56cVFyUVJmWVNfZ2JCX2ROMjdWWDBrQzYxblFCdnZ2QnkzcEtCSzJyczFNYlZKb0NENUNVcUJ1c0tFNkRuRTM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "France 24",
+   "region": "KE",
+   "date": "2026-11-14T13:25:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵 🇧🇷 🇸🇬",
+    "also": [
+     "Brazil",
+     "Singapore"
+    ]
    },
    "topic": "Society"
   },
@@ -417,23 +432,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8448a9cf4b",
-   "title": "Setback for SpaceX Starship rocket's double-catch test",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHJDMjJsUDBralAtblZFanB2QkZ1Z3BRSnhvYUgtTGRySkd5TzhPbU1kd3piRDRja2tJV0trY0ZCY3FURHNzYlczUWxjcktTS0NsemRpYW9mRTBGaW4zTklQNnBKQmk3Q01abC1FaFBmNndnLUIxeW9TTEZVTFVkRGJnd2JuaHNrYVdZRTBXWlJVOVl0N3UyYWZhODdaZVloNEdqMQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star, Kenya",
-   "region": "KE",
-   "date": "2026-11-14T08:14:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
    },
    "topic": "Society"
   },
