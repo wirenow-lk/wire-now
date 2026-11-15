@@ -1,12 +1,12 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 8/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 9/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 71 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 13 stories
-OK   Daily Mirror: 37 stories
-OK   Hiru News: 100 stories
+OK   EconomyNext: 11 stories
+OK   Daily Mirror: 36 stories
+OK   Hiru News: 98 stories
 OK   Newsfirst: 12 stories
 OK   Daily News: 63 stories
 OK   Sunday Times: 88 stories
@@ -21,7 +21,7 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 86 stories
+OK   AP News: 90 stories
 
 Biggest stories right now: 160 questions, only one wrong: top scorer in  (7 outlets) | Consumer Affairs Authority summons LAUGFS Gas (6 outlets) | Jordan sentences three men to death over dead (5 outlets) | Cyclonic storm expected in Bay of Bengal toda (5 outlets) | Iran targets US military base in Bahrain with (5 outlets)
 
@@ -29,58 +29,40 @@ Biggest stories right now: 160 questions, only one wrong: top scorer in  (7 outl
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* New England Patriots [2 outlets]: Game Observations: 8 takeaways from the Patriots Week 10 loss to the L
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
+* Hiru News [2 outlets]: Guatemala Declares 30-Day State of Emergency in Two Regions After Dead
+    important (also on Reuters) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [1 outlets]: Nearly 1.5 Mn state employees set for major pay boost in January 2027
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [1 outlets]: Sri Lanka explores Kazakhstan’s AI data centre model to strengthen dig
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [2 outlets]: US rocket fails after launch, payload of Amazon internet satellites de
-    important (also on Space) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: Who can force Israel to implement Gaza ceasefire deal?
-    important (also on CNN) - researching
+* Newser [2 outlets]: Hundreds of Thousands Protest Cuts to Public Broadcasting
+    important (also on The Guardian) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    gemini failed (The read operation timed out)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: The article says the US president 'may have declared' the war over, but the cards state it as fact in details[0] ('has declared'), key_facts[1] ('US president declared Gaza war over'), and spoken ('ha
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 2 rejected: subject 'Gaza ceasefire deal' is not stated anywhere in the article; the article covers storms, aid restrictions and humanitarian crisis, with no mention of a ceasefire deal; blurb says 'despite calls
-    -> no cards; posting with the site's own summary
+    cards OK (attempt 1, written by openrouter)
+* Forbes [1 outlets]: Jensen Huang Is Already Considering Returning To Nvidia, Report Says
+    no AI summary: saving the rest of today for important news
+* The Guardian [2 outlets]: LSU star MiLaysia Fulwiley arrested after allegedly striking police of
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: Tanker in New Orleans ship collision suffered 'steering casualty,' NTS
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
+  photos: looked up 24, found 1
+  photos: 4 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  Fact Base: 9 facts and 1 people saved
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
