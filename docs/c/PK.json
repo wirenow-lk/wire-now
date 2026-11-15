@@ -1,17 +1,74 @@
 {
- "updated": "2026-11-15T06:20:32.132524+00:00",
+ "updated": "2026-11-15T07:38:28.049674+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
-   "id": "0a32b3ade9",
-   "title": "SpaceX launch tower catches Starship for first time",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XNDZCdzlUa1Z0OUE1ckU1dWpJd1lJNElEMmJvMTMwb3pkMG1XSmlaMTRHdmRVZlFvOHpsdGhpbXFHR0pVaXB0VDN0YWlhZmtQZV9CMGtsWjU?oc=5",
+   "id": "0f679c4cc0",
+   "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdVVlSnBZdEozSzJxR3NrX283ZzhzUXloWlhmOXRycGFhaTNfWEdLUjdFVEVxaE0xTEtVa0NrT1lqdl9idkVMOFpqU3lpcVF5VXVsaS1wMDJyY1A5Q29pMFlQZ294NGdaOVlvaWZxZjFkc1NuNG1zZjhmVGVUVWlmb2RzTTMxRDdHUENSbmRhQ2s1c0stVjZsaE9LYi1CZkpiMkNjTV80UFIwOXRhbHhPS0ZtX2RUMFVMd1JWSE5JQnFSTFJsOTViTk1rOEtNd0pNcFZfYUtxMGpOWmhLeThYTm13?oc=5",
    "summary": "",
    "image": "",
-   "source": "China Daily",
+   "source": "The Guardian",
    "region": "PK",
-   "date": "2026-11-15T05:09:23+00:00",
+   "date": "2026-11-15T06:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "99c23218c3",
+   "title": "Agreement among large language models does not track medical truth in health claim verification",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrenJZc0hMZVFhc2hoVzFXcVpjSVViN0Jtak10MWtYVG5QRGlzQXJQcHFyTTFiaUlsZTd0aVVwcVRrR0xpQS1TSFRjZlZrMXhFamhVSC1mMDBUWlFUYUdTbERsY0s?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "PK",
+   "date": "2026-11-15T05:12:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "c2c800b01f",
+   "title": "Iran Attacks Bahrain as Conflict Escalates",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WSJ",
+   "region": "PK",
+   "date": "2026-11-15T04:54:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Iran",
+    "place": "",
+    "flag": "🇮🇷 🇧🇭",
+    "also": [
+     "Bahrain"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "418524bdb7",
+   "title": "WHO Issues First-Ever Guidelines For Adults With Type 1 Diabetes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ1R2U1MwUUVWZzA3Wjd6VHV6VWFwWmtYYU1fZUVSVmY2RDNvT2kybTRhUlRjMVR2c09vWHV5VXZtYTB3eWhUekFRaFlrOGdNeUdXTU9EdXRyVlZ3elZXR3VSWXdMOVRaQ3Y5b3V1RElTNWxJS3c3R29yMF9YVGczREY0cmNKSjFTMmVxdzVZbS1fQklyMjlfazdqN3ZtNjBnT1VqZDZ5YjZJZ1FYS3BrZk9KUjQ1MERDNk40VkVFRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Health and Me",
+   "region": "PK",
+   "date": "2026-11-15T04:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -21,26 +78,9 @@
    "topic": "Society"
   },
   {
-   "id": "c648353fee",
-   "title": "Bahrain's interior ministry issues alerts of potential threats",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "PK",
-   "date": "2026-11-15T04:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bahrain",
-    "place": "",
-    "flag": "🇧🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7720ac1f3a",
+   "id": "dcd126c8ba",
    "title": "Parliament’s nod deemed a must for referendum",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXlYWmhJejdIMkptYU01Wkg5VzRRZ0QyQmJxWF9QVlBBUHZrU2VWRDlGUTQ3Yi1Nb2FiYXE5OW9DM2pCM3RaSmhDVTJmb1RoUG9EVzhTU2RiRVFHa1pXTTNTZXpQLXNtQmtwdDVFYnBRdjh0WThqNUItRE9lTWdiQmhENUU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4S0Y5M243Uk9yWkQwMThxWUJrbFpXMTNNVmtYdHRQY2NqMm0tZUZ3TWxyUlFyUGk4dU1PaEhHN3dRVEpxV0h0UQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Dawn",
@@ -89,23 +129,6 @@
    "topic": "Politics"
   },
   {
-   "id": "2f61bff80e",
-   "title": "Dinosaurs may have been eating seaweed 100 million years ago",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XZi03R3UtZlpLWnNNUGFudTZhUGRGR0Z5c2U0YlZaRGpqV0dEd0o2NmRJTmRia0g4MVZVWXIxa2RnRmtkTmxESHlGUG83aThHUms2cHpBVDJ0Wnl4TUgzODdMRzh5M3RaR1BIaEtlaw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Science Daily",
-   "region": "PK",
-   "date": "2026-11-15T03:02:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4a1ebdb249",
    "title": "ECO: Secretary Information inaugurates Media Facilitation Centre in Islamabad",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmJ1ck0tODl4ZGhudGlkbW9DV1VGaGlPR1JlTU9kbkUtWXhSUEZQRnB1cFY2X2xaNlJlTTlmUDdNMVZKUDYxWk1nYVRMRGw2V01adG9uVmZYcmpOcmE1Q2RMX0IyNl9jWnJSeEw2SExqZDUtcThTVHhTaDhJTzRaMjZPVmlxNmRDSlBFYk9TTjJyaGFsNG9CSmwxbWprZkYxd3lfUS1hX1pLYnZmTlZSejZB?oc=5",
@@ -140,6 +163,23 @@
    "topic": "Politics"
   },
   {
+   "id": "a2446470fa",
+   "title": "Creating new smaller provinces a ‘national necessity’: Kamal",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDJWTFhXdXI4elNUNDNNdjRrTUhSU25NR21ETG56N1I1ZTF6S0FyX3lRM1BjemFLZnl1RzlxcHJlZTA3WDlqWUpULTd3S01MeEhrYXd6ZmVIcDVTTFc2QTJWNUNGcXhuWVM4LUl6SkZuRUlXR0RvejFMMzMyVjlFT2FFU0p1Tm9pamhPbFRlbFJ5dkkyR1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-15T02:44:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a46f288175",
    "title": "US flights resume after nationwide ground stop: What travellers need to know",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVIxUmpLbVlnY1lNUjdBQmNOa3M2YkNPdk5ZM1JFNjMzVVVWTFVzbWhRN1FtRDdQWlNHNlpaMXo5SUtfU3hQN3ItckVheDFpUUVHcHp3c01icnJGRzVpNjV6VEN0UFY0UWl6bGttY205WGpWNmpkWGFMRzRWcEZkbDQxUnpUR29ES1JRRFBwLXZKSjBIMGhTaEJ2bWlYMVR0Q1R0al9waGNrajdqMnh3d1ZLOWV5clIyV2N6ZFlxYk3SAdMBQVVfeXFMTXM3UUxIRk9odGRrMzRma1pGSDU0RzhVMjl2QzhId01iNDFkbE5lT2VvSWNrTnpUZXZ6MERzRnpXaFR0U3NCXy1ocW9wZmlMYlRWVTNEMzVSMmhROUQ4ZXREY0NYOWxKRHRVWV9VMnZwNVRDSzdVbzJFclpQRzVxQ1k5dFZkXzBIT2ZicXBzdkRzQ3Z3a1NQclVmZHRaRy1HU2hDMG9JNllHSE1QUnVZdEdUeGI4UjR5aHhPR2s1dkFZX1N1SXRXOFVYbzZkMUpvR3hDRQ?oc=5",
@@ -153,6 +193,23 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "201ffe1bf4",
+   "title": "Zion Suzuki victorious with Japan",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelVjY1VJcFRDdUJfRGtBT2QwNllYQjFEdHZLeU8zUFM0MTBKMGgtdng5WWxaVXpma3NUWlZpVUQ5UHRkMk1OSnc0eGhhcGRyRFdvMTNDUHdQVTNMT3RTQVZRVllLMXlHYnBwSVEtaFpkOVdGLUwza21lblh2Z1RIeXVoR21aOGV0Q0hPUm9sY0VaUFU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Aston Villa",
+   "region": "PK",
+   "date": "2026-11-15T01:47:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
    },
    "topic": "Society"
   },
@@ -174,21 +231,21 @@
    "topic": "Society"
   },
   {
-   "id": "40830b1725",
-   "title": "Prince Harry and Meghan Reportedly Not Invited to King Charles’ Birthday or Christmas Despite U.K. Return",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUV4bmx5VTRaVGdzaGRpMjBBY2FEQVB4VmUzdlBCRkFMaU9pT2FQaHhQR3pjOXA1V25fakpCdGNmbnRqc3gzMEJ4QU9zNHlpd1B2aE93MXUza1FWYnRTa0NpTHJYMTlJMkNacGIySnAyM096TXZVcjI3Nm9fQ1RsZ2JkTWI2bFl6X05CS0o1TkNObjg4WnZ1eE9JdTBQam42MjhrZWpLcE1ORk9rT2t4TQ?oc=5",
+   "id": "f26458310f",
+   "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWNvcDREbHZiSXNEQkpxS1dFb3NzcldSd1BDdDY1aTdBSWtDaXZOSWc0WU01XzJwQU5EWU5iVGVfeGVXUW8zYm0zaVJSeHgxN0FUXzBJOWFLR2pmTElZdnJFbVdqZDktSk5ySmZzQzEtclhobmYwenUxanhjSU5vampR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "The Guardian",
    "region": "PK",
-   "date": "2026-11-15T01:00:00+00:00",
+   "date": "2026-11-15T00:27:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
    },
-   "topic": "Society"
+   "topic": "Business"
   },
   {
    "id": "a7a80c2691",
@@ -208,14 +265,14 @@
    "topic": "Society"
   },
   {
-   "id": "b9ed3ed9e1",
-   "title": "WHO issues first guideline on type 1 diabetes in adults",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWNGSU9JWmxNeF9tbGFHeEVrN2VkdjNCUnR0X3ZwYTRWaVlkLXhPaEJIUHFod25LdVZzMVA5NjhBcjhnMG1CUzU4SV9EdTloODEyYmZCVnFtRW5kRUFBSWZyZGg5V1BIV3BsckpuNzZWUmo1U05CQ3RKNndrLThvZC13?oc=5",
+   "id": "440acbafb7",
+   "title": "Russell Brand's Dad Calls Son 'The Victim' After Sentencing",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLW05YXpmaEUxTXhWUnZSME12NnY3enlFR1ZJekw4cEI4ck5zd0RVQ2dvbHRCZHhuamZQS1Z4VmFSOXljaWZROEt1dGFTd2JXaVVuLTVqLUZyVG4yOGNtaV9yLWZDRWdhZV9kdWFFcExUU2UyOXBwZDBxaXRBZnE3WVFIV0R5UDRfSHZ6LUxjQUNUWXVJMzhKRE8xa2NMSGNKczhGYUxfaF9FZC10WTR6U0RmZUF3cVU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Punch Newspapers",
+   "source": "Yahoo",
    "region": "PK",
-   "date": "2026-11-14T22:09:35+00:00",
+   "date": "2026-11-14T21:37:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -240,23 +297,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "1068860c29",
-   "title": "Copper wire upgrade caused nationwide flight chaos, US transport secretary says",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadHk4LURmeWRBc04wcVRoZXl4eWpxUWJFYl95MUdoaXVyZkxCaEhjQXFzcEdQQmZYZUx2N1NuaERuT2R2Q295M2hGSkxYYmQ0WnpnZXRxNFFRLVU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "PK",
-   "date": "2026-11-14T19:12:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "c553a6e177",
@@ -313,26 +353,6 @@
    "topic": "Society"
   },
   {
-   "id": "4c4d4cda3a",
-   "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "PK",
-   "date": "2026-11-14T15:27:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "71b877b0c0",
    "title": "NCCIA warns youth against joining illegal call centres for lucrative salaries",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWclZDUU1TSmxGWUhCUUhaaUFfYi1fNlp5Qi1nV3dYd1I1Q0xlUkpqLUxHNTZMLTRrbnV0VEdpSVVaZTBjaHZDcQ?oc=5",
@@ -358,6 +378,23 @@
    "source": "Reuters",
    "region": "PK",
    "date": "2026-11-14T12:51:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d8c90d1948",
+   "title": "Meghan Markle turns to mum Doria for support after father’s arrest as pair ‘speak a lot’",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrX014NEtvcDd4Znpocjk0cE1qbGJsOXhNbFN4eVZRWHdvZGxHRkV6YlZKUTBHQ3Q5b3hxM0JDUEl6MnE4OWx3UUFWTHVDWF9zOHlvNzlGeXhmRU5VbEtDN1NmZHhDVXRMYVZheDV5RFQ4SGlqX1dMX2xCVG5GcjTSAYQBQVVfeXFMT0JDVHJhTzZQal9tVXdWOURTN3BtSXdXaU01cHkwdjAxZExpcGN0eUcyT3N3SzNhZ2NwWXpLWnhCTnY5REVqM0h3VWpKLTVCeUwxQkhVNTk0N2xDQmZyd2tTYTVLQVNEeE02ME1QY2dlemtmRjAtckcxZlFWalFUOFNXZXB1?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Express",
+   "region": "PK",
+   "date": "2026-11-14T10:33:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -418,19 +455,19 @@
    "topic": "Society"
   },
   {
-   "id": "397325b257",
-   "title": "Snowfall strands passengers, cargo at Khunjerab",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OLU91SERXT2paVXcwSk1UbGJ3eDFYMkJ2RGRWdjRRVV9NblhjMWRZSGpIelFIdzE4MV9mNG5Sd3B0ZVB1YnBiUg?oc=5",
+   "id": "d8c67a43a4",
+   "title": "Germany officially secures spot in Pot 1 for EURO 2028 qualifiers",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzlEZURSaWQyV0NJbllDejFoM3F6OThWVXExOHMtNkxVTHptM3pSc1VoSFRqdmptM1lUZ0dVZkJzaTJBSGJKbWVkM2w0RUdFMGtsRl9SUFNnTGpHMjVSdE1PUzFKUGJ0N2xfZDhyYnpkNEVZS0p6U3NCNlVKbHVVZ0JlX2h5ZUtqbWliYw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Dawn",
+   "source": "Yahoo Sports",
    "region": "PK",
-   "date": "2026-11-14T00:26:13+00:00",
+   "date": "2026-11-14T03:45:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Pakistan",
+    "country": "Germany",
     "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇩🇪"
    },
    "topic": "Society"
   },
@@ -443,23 +480,6 @@
    "source": "Dawn",
    "region": "PK",
    "date": "2026-11-14T00:24:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e8a5b9fb99",
-   "title": "Gambit Gets Serious: Channing Tatum’s Superhero Is ‘Not All Laughs’ in ‘Avengers: Doomsday’ as Kevin Feige Promises Fans a ‘Fully-Rounded Character’",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkdMbHhzcDFPTnhKVWJRSndHTUR1c081T0dBNUE2TnZsQ0FKYkNJWkFnbUotU1VnY3JVZ2xUVGktYjJBdEkzbWlkQUZwX2NINWF4Sm5RSXQ0ZTM2bjRtYlFLLWQxNlU3MVAzRnVkVlpGZkVReUwzOC1MRlg1QmxLWmd3cW9yUUFBYlNsQVdiSjVjR1ZJc1JHY0dWbGRObXYtNXJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo",
-   "region": "PK",
-   "date": "2026-11-13T22:48:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -486,60 +506,36 @@
    "topic": "Society"
   },
   {
-   "id": "5f1e800105",
-   "title": "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWJZZVN4WlhtS0Uyb1RaSVhsS09ERkZfcnFHbUQ3MnZQMzA3aEZNZzZrOTNCY19ZQ3VWN0drcWp5dXhzOEJoNmxCZzdhcjIteW5TVGFNUTg3RnhIUjBOQ3RLeEpzMFlsbEhZVXc3em0xWHhGOTlVT1NWTEFzUlhPQTJqd05ibERrSVFaWXN5d1hSSjkyNnJNa1pGaTVzcl9lYmh4clMzM0hJcTMyem9fSzBiRm1BWENqcDFFNVVTS2FaaVprQmRYdk1NNlRqYnllU0E?oc=5",
+   "id": "e17bd599ef",
+   "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tNlRPMDE2aG5CazhrMllJN0kxNHhaN3kwVFdoNXdXTHFtcjM0a3ljS0Z3MGFCU29OS0FOSTgxSFdPR1RwazhVNWgyZlZjUm1XcG5HMC1oYw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Arab News",
+   "source": "UN News",
    "region": "PK",
-   "date": "2026-11-13T22:33:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c322426ccc",
-   "title": "Germany sink sorry Serbia to set up crunch Netherlands clash",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNFhocDNMSU5KZElqZkFPb3lyZEx5WF9CNEpCSlpWeWZDY1Byb3dfMzNFaVZVQ2xsQnFjWEEwRGdYSzdTaWpLVzhzX05FOUF6WGU3RFN0WTBvRW9TNk44SktieDVPRy1ueDBkYkZlQVBweDNxMmk1eWpvemlHUE5DTEppZk05bjM5ck9OR2tsUWZMemJmLVAtSHFYcUVqb2NwTHkxNXZWa3lVOTA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "France 24",
-   "region": "PK",
-   "date": "2026-11-13T22:09:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪 🇷🇸 🇳🇱",
-    "also": [
-     "Serbia",
-     "Netherlands"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1c554e2897",
-   "title": "Pakistan’s gritty Shakeel again misses out on a century in drawn test against Sri Lanka",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZnNXeEV0VDIyRjQxaU1lWmVGdlZtMkx2cFd2M1lVMEVqVkwyOS1WNjkzOUpLTlgtdGZWbkpSZFU4eWJ1SXdoUFk3OG5qTEJvOC1JZm53b0lIeVhiU1M0VUM2aVJ0R1lXbUVXRENla3ljSkhXZlN4TGhjZThXcFFTYXk0WmhsMmdCYlpUVVFhMFgzNGFReWF0SnRUSmt5aDVrU2RYMUVsQWVYdlpjZE0wai1IYXEycnJiSXdQYUVvckctekV3YWVsaWVDbzQ0SFRaRDAxYWh2c2Uxb3pYd2fSAeQBQVVfeXFMUGNUWk1CYlluYnJmbTNBWG5HRmlwUURWYlJ5QmF1MXhuUy04Y1dLNlh4UnJPOE1LSUFGbUgwSW5IdmR0VzJJbUY2aWpQQWJBdW8xWHNOSlBNSmFvZ19JejVIVVVjR1M1R0wtNjN5QnZzMlV4NURmbFRRcUVOYTM5UTVicGRVSVpvWVJrSzZWNk1TUzRxM3d4QjlCRndBeDVDYmloRExKWXYzRXAtaG53d0cwMmNUdGVVVWs2VEVFSEhERFNpZUtuZ2ZJU2o4STRyOU53NkZhYklpVFdhc3lCUXR6R3BH?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "PK",
-   "date": "2026-11-13T21:34:00+00:00",
+   "date": "2026-11-13T19:33:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
-    "flag": "🇵🇰 🇱🇰",
-    "also": [
-     "Sri Lanka"
-    ]
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9b063edfcb",
+   "title": "Dollar set for best week in two months, yen weakens toward 160",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PK",
+   "date": "2026-11-13T17:17:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -574,6 +570,26 @@
     "country": "China",
     "place": "",
     "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6d49989bbb",
+   "title": "Zinedine Zidane explains first France defeat after Italy collapse at San Siro as absent Kylian Mbappe leaves glaring void",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0Z3VEx5Qm9ScUVyWFB4aDVPTW5vRGNIdUkyQjdOaGxzY0RhMEhNTmZpSElwcUVGYVJIMzF1RnE2VjlrZG16SE9TVk9lUURFYjdhQ2N1ZWlMUXZDWkJtOVhuNWR5cFdwQWF4MDFyNkZKR0pJVFlPZEdlSlFJQkhIa3EtRVI0ZklIbEExTWJObE5zcmFXcXpaQ1lhRWRtaVBURFdpYTJ3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "PK",
+   "date": "2026-11-13T07:49:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷 🇮🇹",
+    "also": [
+     "Italy"
+    ]
    },
    "topic": "Society"
   }
