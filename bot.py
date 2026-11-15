@@ -788,7 +788,7 @@ def living_categories(site_list, now, settings):
     its own section with a "story so far"; a week without new stories sends it to the archive. Subjects are matched
     loosely (same words), so "2027 Budget" and "Budget 2027" are one subject. No extra AI: the summary names it."""
     data = load_json(SUBJECTS_FILE, {"subjects": {}})
-    subs = data["subjects"]
+    subs, blocked = data["subjects"], set(data.get("blocked", []))
     for st in site_list:
         name = ((st.get("cards") or {}).get("subject") or "").strip()
         key = _subject_key(name)
@@ -805,6 +805,8 @@ def living_categories(site_list, now, settings):
     for k, e in subs.items():
         recent = {i: d for i, d in e["stories"].items() if d >= week[:19]}
         days = {d[:10] for d in recent.values()}
+        if k in blocked:          # the owner undid this one: it never grows into a section again
+            continue
         if len(recent) >= settings.get("living_min_stories", 5) and len(days) >= 2:
             active.append({"name": e["name"], "key": k, "stories": sorted(recent, key=lambda i: recent[i]), "count": len(recent),
                            "since": min(recent.values())[:10]})
@@ -813,8 +815,29 @@ def living_categories(site_list, now, settings):
     # forget one-off subjects after a month; keep grown ones (their knowledge stays in the archive)
     month = (now - timedelta(days=30)).isoformat()[:19]
     data["subjects"] = {k: e for k, e in subs.items() if e.get("last", "") >= month or len(e["stories"]) >= 5}
-    save_json(SUBJECTS_FILE, data)
     active.sort(key=lambda a: -a["count"])
+    # 🧾 change journal + limit: every section Wire Now creates by itself is written down (so the owner can see it
+    # and undo it with /changes and /undo), and at most `living_max_new_per_day` new sections are born per day;
+    # the rest wait for the next day and are logged as held.
+    log = data.setdefault("log", [])
+    live_before = set(data["live"]) if "live" in data else {a["key"] for a in active}   # first run: today's sections count as existing
+    today = now.strftime("%Y-%m-%d")
+    born_today = sum(1 for x in log if x.get("what") == "born" and x.get("at", "")[:10] == today)
+    cap, live = settings.get("living_max_new_per_day", 3), []
+    for a in active:
+        if a["key"] in live_before:
+            live.append(a)
+        elif born_today < cap:
+            born_today += 1
+            live.append(a)
+            log.append({"n": data.get("next_n", 1), "at": now.isoformat()[:16], "what": "born", "key": a["key"], "name": a["name"]})
+            data["next_n"] = data.get("next_n", 1) + 1
+        elif not any(x.get("what") == "held" and x.get("key") == a["key"] and x.get("at", "")[:10] == today for x in log):
+            log.append({"at": now.isoformat()[:16], "what": "held", "key": a["key"], "name": a["name"]})
+    active = live
+    data["live"] = [a["key"] for a in active]
+    data["log"] = log[-200:]
+    save_json(SUBJECTS_FILE, data)
     if active:
         print(f"  living categories: {', '.join(a['name'] + ' (' + str(a['count']) + ')' for a in active[:8])}")
     return active[:8], archived[-20:]
@@ -856,6 +879,32 @@ def send_facts(site_list, state, now):
         print(f"  Fact Base: {got.get('facts', 0)} facts and {got.get('people', 0)} people saved")
     except Exception as e:
         print(f"  Fact Base not reachable yet ({str(e)[:60]})")
+
+
+def owner_changes(text):
+    """/changes: the last changes Wire Now made to itself (new sections it created). /undo N: reverse change N, so
+    that section disappears on the next run and never comes back. The undo is written down too."""
+    data = load_json(SUBJECTS_FILE, {"subjects": {}})
+    log = data.setdefault("log", [])
+    m = re.match(r"/undo\s+#?(\d+)", text)
+    if m:
+        n = int(m.group(1))
+        x = next((x for x in log if x.get("n") == n and x.get("what") == "born"), None)
+        if not x:
+            return f"❓ There's no change number {n}. Send /changes to see the list."
+        if x["key"] in data.get("blocked", []):
+            return f"↩️ Change {n} was already undone."
+        data.setdefault("blocked", []).append(x["key"])
+        log.append({"at": datetime.now(timezone.utc).isoformat()[:16], "what": "undone", "key": x["key"], "name": x["name"], "of": n})
+        data["log"] = log[-200:]
+        save_json(SUBJECTS_FILE, data)
+        return f"↩️ Undone: the section \"{x['name']}\" will disappear within 15 minutes and won't come back."
+    rows = [x for x in log if x.get("what") in ("born", "undone", "held")][-12:]
+    if not rows:
+        return "🧾 Wire Now hasn't changed itself yet."
+    words = {"born": "🌱 created section", "undone": "↩️ undid section", "held": "⏸️ held back (daily limit)"}
+    lines = [f"{('#' + str(x['n']) + ' ') if x.get('n') else ''}{x['at'][:10]} {words[x['what']]} \"{x['name']}\"" for x in reversed(rows)]
+    return "🧾 WIRE NOW'S OWN CHANGES (newest first)\n\n" + "\n".join(lines) + "\n\nTo reverse one, send /undo and its number, e.g. /undo 3"
 
 
 def reader_stats():
@@ -2043,6 +2092,9 @@ def handle_bot_messages(state, stories_by_id):
         if owner == cid and text.startswith("/stats"):         # owner only: anonymous reader numbers
             t = pulse.stats_text(reader_stats(), {k: v.get("title", "") for k, v in stories_by_id.items()})
             reply("📊 READERS\n\n" + (t or "No numbers yet (the counter starts once the community setup has run)."))
+            continue
+        if owner == cid and (text.startswith("/changes") or text.startswith("/undo")):   # owner only: Wire Now's own changes
+            reply(owner_changes(text))
             continue
         if owner == cid and text.startswith("/pulse"):         # owner only: make today's World Pulse at the end of this run
             state["pulse_force"] = True

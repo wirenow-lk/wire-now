@@ -148,5 +148,13 @@ check("no rate chart until there are 7 days", "vals.length < 7" in _html)
 check("prices stay on one line", ".rates .r b{margin-left:auto;font-size:16px;white-space:nowrap}" in _html)
 check("readers are never sent to the raw sitemap", 'href="sitemap.xml"' not in _html)
 
+# 15 Nov 2026 (EVOLVE check-up): Wire Now's own changes must be undoable, limited per day, and the database backed up
+# with a restore test
+check("the owner can list and undo Wire Now's own changes", "def owner_changes" in open(os.path.join(os.path.dirname(__file__), "..", "bot.py")).read())
+check("new sections are limited per day", "living_max_new_per_day" in open(os.path.join(os.path.dirname(__file__), "..", "bot.py")).read())
+_bk = open(os.path.join(os.path.dirname(__file__), "..", ".github", "workflows", "backup.yml")).read()
+check("the backup is encrypted before it is stored", "openssl enc -aes-256-cbc" in _bk and _bk.index("openssl enc") < _bk.index("upload-artifact"))
+check("every backup is restored into a test database and compared", "restore test passed" in _bk)
+
 print(f"\n{'ALL PASSED' if not failures else str(len(failures)) + ' FAILED'}: {len(failures)} of the never-again checks failed")
 sys.exit(1 if failures else 0)

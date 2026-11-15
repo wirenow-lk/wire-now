@@ -5,7 +5,7 @@ name: Never-again checks
 on:
   push:
     branches: [main]
-    paths: ["bot.py", "cards.py", "places.py", "site_extras.py", "social.py", "docs/index.html", "docs/community/index.html", "tests/**"]
+    paths: ["bot.py", "pulse.py", "cards.py", "places.py", "site_extras.py", "social.py", "docs/index.html", "docs/community/index.html", "tests/**"]
   workflow_dispatch:
 
 jobs:

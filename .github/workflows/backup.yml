@@ -1,0 +1,108 @@
+name: Daily backup
+
+# Every night: copy the community database (posts, profiles, Fact Base, reader numbers) and the robot's private notes,
+# lock them with a key only the owner's secrets can rebuild, and keep them for 30 days. Then PROVE the backup works:
+# restore it into an empty test database and check every table has the same number of rows as the real one.
+# Backups are encrypted, so even though the repository is public, nobody can read them without the key.
+
+on:
+  schedule:
+    - cron: "17 21 * * *"     # 02:47 Sri Lanka time
+  workflow_dispatch:           # "Run workflow" by hand
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    services:
+      restoretest:              # an empty database used only to prove the backup restores
+        image: postgres:17
+        env:
+          POSTGRES_PASSWORD: restoretest
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U postgres" --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+      TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check the secrets are there
+        run: |
+          [ -n "$DB_URL" ] || { echo "::error::SUPABASE_DB_URL secret is missing"; exit 1; }
+          [ -n "$TOKEN" ]  || { echo "::error::TELEGRAM_BOT_TOKEN secret is missing (it makes the backup key)"; exit 1; }
+
+      - name: Install the database tools (version 17)
+        run: |
+          sudo install -d /usr/share/postgresql-common/pgdg
+          sudo curl -fsSo /usr/share/postgresql-common/pgdg/apt.postgresql.org.asc https://www.postgresql.org/media/keys/ACCC4CF8.asc
+          echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" | sudo tee /etc/apt/sources.list.d/pgdg.list >/dev/null
+          sudo apt-get update -qq && sudo apt-get install -y -qq postgresql-client-17 >/dev/null
+          echo "/usr/lib/postgresql/17/bin" >> "$GITHUB_PATH"
+
+      - name: Copy the database
+        run: |
+          mkdir -p backup
+          pg_dump "$DB_URL" --schema=public --no-owner --no-privileges -f backup/public.sql
+          pg_dump "$DB_URL" --data-only --table=auth.users -f backup/auth_users.sql || echo "::warning::could not copy sign-in accounts"
+          # how many rows of each table are inside the copy (read from the copy itself, so live changes can't confuse it)
+          python3 - <<'PY'
+          import re
+          counts, cur, n = {}, None, 0
+          for line in open("backup/public.sql", encoding="utf-8", errors="replace"):
+              m = re.match(r'COPY public\.("?)([^ "(]+)\1 ', line)
+              if m: cur, n = m.group(2), 0; continue
+              if cur is not None:
+                  if line.startswith("\\."): counts[cur] = n; cur = None
+                  else: n += 1
+          open("backup/counts.txt", "w").write("".join(f"{t} {c}\n" for t, c in sorted(counts.items())))
+          print(f"Tables with rows in the copy: {len(counts)}")
+          PY
+
+      - name: Bring in the robot's private notes
+        uses: actions/cache/restore@v4
+        with:
+          path: data/private
+          key: private-backup-${{ github.run_id }}
+          restore-keys: private-
+
+      - name: Prove the backup restores (empty test database, same rows in every table)
+        env:
+          PGPASSWORD: restoretest
+        run: |
+          T="psql -h localhost -U postgres -d postgres -q"
+          # the Supabase parts the schema relies on
+          $T -c "create role anon nologin; create role authenticated nologin; create role service_role nologin bypassrls;"
+          $T -c "create schema auth; create table auth.users (id uuid primary key, email text);
+                 create function auth.uid() returns uuid language sql stable as \$\$ select null::uuid \$\$;
+                 create function auth.jwt() returns jsonb language sql stable as \$\$ select '{}'::jsonb \$\$;
+                 create table auth.mfa_factors (id uuid primary key default gen_random_uuid(), user_id uuid, status text);"
+          $T -f backup/public.sql > backup/restore.log 2>&1 || true
+          bad=0
+          while read -r t n; do
+            got=$($T -At -c "select count(*) from public.\"$t\"" 2>/dev/null || echo missing)
+            if [ "$got" != "$n" ]; then echo "::error::table $t: real $n rows, restored $got"; bad=1; fi
+          done < backup/counts.txt
+          [ "$bad" = 0 ] || { tail -30 backup/restore.log; exit 1; }
+          echo "✅ restore test passed: every table has the same number of rows"
+
+      - name: Lock the backup with the owner's key
+        run: |
+          mkdir -p data/private
+          KEY=$(printf 'wire-now-backup|%s' "$TOKEN" | sha256sum | cut -d' ' -f1)
+          tar czf - backup/public.sql backup/auth_users.sql backup/counts.txt data/private 2>/dev/null \
+            | openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -pass "pass:$KEY" -out "wire-now-backup-$(date -u +%F).tar.gz.enc"
+          rm -rf backup
+          ls -l wire-now-backup-*.enc
+
+      - name: Keep it for 30 days
+        uses: actions/upload-artifact@v4
+        with:
+          name: wire-now-backup-${{ github.run_id }}
+          path: wire-now-backup-*.enc
+          retention-days: 30
