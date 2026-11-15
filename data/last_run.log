@@ -1,20 +1,20 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 6/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 8/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 73 stories
+OK   Ada Derana: 71 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 13 stories
-OK   Daily Mirror: 36 stories
+OK   Daily Mirror: 37 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 11 stories
+OK   Newsfirst: 12 stories
 OK   Daily News: 63 stories
-OK   Sunday Times: 89 stories
+OK   Sunday Times: 88 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 5 stories
+OK   Google Warnings LK: 4 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 20 stories
 OK   The Guardian: 45 stories
@@ -23,33 +23,37 @@ OK   CNN: 29 stories
 OK   Reuters: 99 stories
 OK   AP News: 86 stories
 
-Biggest stories right now: South Korea's top scorer in tax accountancy e (8 outlets) | Depression in bay of Bengal may intensify int (6 outlets) | Consumer Affairs Authority summons LAUGFS Gas (6 outlets) | Israel kills a top Hamas commander as Jordan  (5 outlets) | Iran targets US military base in Bahrain with (5 outlets)
+Biggest stories right now: 160 questions, only one wrong: top scorer in  (7 outlets) | Consumer Affairs Authority summons LAUGFS Gas (6 outlets) | Jordan sentences three men to death over dead (5 outlets) | Cyclonic storm expected in Bay of Bengal toda (5 outlets) | Iran targets US military base in Bahrain with (5 outlets)
 
-8 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Yahoo Sports [1 outlets]: Week 10 NFL scores, live updates: Travis Kelce returns after injury sc
-    important (serious news) - researching
+* New England Patriots [2 outlets]: Game Observations: 8 takeaways from the Patriots Week 10 loss to the L
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily News [1 outlets]: Nearly 1.5 Mn state employees set for major pay boost in January 2027
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* WDSU [1 outlets]: Six individuals remain hospitalized as Mississippi river boat crash in
-    important (serious news) - researching
+* Daily News [1 outlets]: Sri Lanka explores Kazakhstan’s AI data centre model to strengthen dig
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* ESPN [1 outlets]: Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle
-    important (serious news) - researching
+* Reuters [2 outlets]: US rocket fails after launch, payload of Amazon internet satellites de
+    important (also on Space) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [5 outlets]: CAA summons LAUGFS Gas officials over price hike
-    important (also on Ada Derana, Daily Mirror, Hiru News, Newswire) - researching
+* Al Jazeera [2 outlets]: Who can force Israel to implement Gaza ceasefire deal?
+    important (also on CNN) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -63,7 +67,7 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: The 'spoken' field labels the CAA as 'Sri Lanka's gas regulator,' but the article never describes the Consumer Affairs Authority as a gas regulator; it only names it as the Consumer Affairs Authority 
+    attempt 1 rejected: The article says the US president 'may have declared' the war over, but the cards state it as fact in details[0] ('has declared'), key_facts[1] ('US president declared Gaza war over'), and spoken ('ha
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -72,40 +76,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 2, written by openrouter)
-* Daily News [3 outlets]: ‘Hasthi Sena’ operation takes off in Thirappane
-    important (also on Ada Derana, Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [1 outlets]: Sri Lanka finish fourth in Asian U-20 Rugby Sevens
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [3 outlets]: Pope Leo rides in helicopter cockpit during Peru trip
-    important (also on AP News, Politico) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: Cards repeatedly state the Pope was in a 'helicopter cockpit' (details[0], key_facts[0], blurb, spoken), but the article only says he 'shared a cockpit' and never mentions a helicopter.; Blurb/key_fac
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 2 failed: no AI available for checkers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 2 rejected: subject 'Gaza ceasefire deal' is not stated anywhere in the article; the article covers storms, aid restrictions and humanitarian crisis, with no mention of a ceasefire deal; blurb says 'despite calls
     -> no cards; posting with the site's own summary
-* Reuters [2 outlets]: Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports
-    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 6 too small to look sharp, using the clean cover
+  photos: 5 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  summary translation failed (no AI available for writers)
-  Fact Base: 8 facts and 0 people saved
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 14 story pages for Google)
-
-Countries: IN 37, PK 34, BD 37, US 37, GB 36, IE 36, CA 38, AU 36, NZ 34, SG 27, MY 32, PH 34, AE 37, IL 32, NG 33, KE 30, ZA 32, GH 25, FR 34, DE 33, JP 7, IT 32, ES 34, BR 34
