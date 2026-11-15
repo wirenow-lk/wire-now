@@ -1,43 +1,60 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 62/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 67/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 66 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 21 stories
-OK   Daily Mirror: 44 stories
+OK   EconomyNext: 23 stories
+OK   Daily Mirror: 43 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 11 stories
 OK   Daily News: 13 stories
-OK   Sunday Times: 88 stories
+OK   Sunday Times: 89 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 7 stories
+OK   Google Warnings LK: 6 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 23 stories
+OK   BBC World: 24 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 98 stories
-OK   AP News: 85 stories
+OK   AP News: 86 stories
 
-Biggest stories right now: Philippines’ Carmelle wins first Eurovision c (6 outlets) | South Korea's top scorer in tax accountancy e (5 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Jordan sentences three men to death over dead (5 outlets) | SpaceX Starship returns to landing pad from o (5 outlets)
+Biggest stories right now: Israel kills Hamas commander in Gaza strike (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | South Korea's top scorer in tax accountancy e (5 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | SpaceX Starship returns to landing pad from o (5 outlets)
 
-4 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: Aruna Panagoda Says Sri Lanka’s Economy Stabilised Within Two Years Un
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [2 outlets]: DASL and Union Assurance Light Up the Lotus Tower to Mark World Diabet
+* Hiru News [2 outlets]: Police Recover Revolver and Nine Rounds of Ammunition in Thambuttegama
     important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Drug kingpin Shiran Basik to be detained for further 90 days of questi
+    no AI summary: saving the rest of today for important news
+* Newswire [1 outlets]: ICC announces major tournament schedule until 2035, confirms Olympic c
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Starshield restrictions help Russia’s energy attacks on Ukraine: Zelen
+    important (also on The Independent) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* BBC World [3 outlets]: Iran targets US military base in Bahrain with drone attack
+    important (also on Ada Derana, Al Jazeera) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: BBC World, Al Jazeera
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -51,19 +68,15 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 429,
     "message": "You exceeded your )
     -> no cards; posting with the site's own summary
-* NBC News [2 outlets]: Southeast Asian leaders open annual summit with major conflicts and th
-    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [2 outlets]: Sajith urges government to turn budget promises into reality
-    important (also on The Island) - researching
-    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -74,18 +87,8 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
@@ -93,14 +96,15 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: 4 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 32, BD 38, US 38, GB 38, IE 34, CA 36, AU 36, NZ 29, SG 30, MY 34, PH 32, AE 38, IL 34, NG 34, KE 31, ZA 32, GH 26, FR 34, DE 33, JP 10, IT 34, ES 34, BR 34
+Countries: IN 38, PK 34, BD 38, US 38, GB 38, IE 34, CA 37, AU 35, NZ 29, SG 30, MY 34, PH 32, AE 38, IL 35, NG 34, KE 29, ZA 31, GH 27, FR 34, DE 33, JP 7, IT 34, ES 34, BR 34
+
+Posted today's Top 10 round-up
 
 World Pulse not made this run: no AI available for writers
