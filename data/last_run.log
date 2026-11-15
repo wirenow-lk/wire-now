@@ -1,11 +1,11 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 11/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 15/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 41 stories
 OK   Newswire: 20 stories
-OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
-OK   Daily Mirror: 69 stories
+OK   The Island: 9 stories
+OK   EconomyNext: 23 stories
+OK   Daily Mirror: 67 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
 OK   Daily News: 12 stories
@@ -21,33 +21,29 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 86 stories
+OK   AP News: 87 stories
 
-Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (6 outlets) | New Orleans port sues to get control of tanke (5 outlets) | What to know about flights after the US natio (5 outlets) | Italy fines Meta €805m over accessing users'  (5 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets)
+Biggest stories right now: 'Miracle on Mississippi' - All passengers res (6 outlets) | Trump-Xi-Putin trilateral meeting at APEC: Wh (6 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | What to know about flights after the US natio (4 outlets)
 
-4 new stories to post
+3 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Yahoo Sports [1 outlets]: After another blowout win, where does Wake Forest fit in College Footb
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* MMA Fighting [1 outlets]: LIVE! UFC 334 Results: Gane vs. Hokit
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Space [1 outlets]: 'Now everything changes': SpaceX catches Starship upper stage for 1st 
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [2 outlets]: SpaceX’s Starship returns to launch pad from orbit in victory for comp
+* CBS Sports [2 outlets]: Indiana vs. USC live updates: No. 9 Hoosiers host No 18 Trojans in bat
     important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [1 outlets]: Kassapa Thera to undergo psychiatric evaluation
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 rejected: the name/word 'Spokesman' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -56,38 +52,20 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 2 failed: AI did not reply with JSON: ''
     -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+* The Island [1 outlets]: Colombo hosts first BIMSTEC Health Ministers’ Meeting
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 10 too small to look sharp, using the clean cover
+  photos: looked up 24, found 8
+  photos: 8 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 11 story pages for Google)
 
-Countries: IN 35, PK 35, BD 38, US 38, GB 37, IE 35, CA 37, AU 36, NZ 32, SG 35, MY 35, PH 30, AE 38, IL 36, NG 34, KE 28, ZA 32, GH 27, FR 33, DE 33, JP 9, IT 33, ES 34, BR 34
+Countries: IN 38, PK 35, BD 38, US 38, GB 38, IE 34, CA 37, AU 36, NZ 31, SG 33, MY 35, PH 32, AE 38, IL 33, NG 33, KE 28, ZA 31, GH 28, FR 33, DE 34, JP 10, IT 33, ES 34, BR 33
