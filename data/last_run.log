@@ -1,11 +1,11 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 15/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 16/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 41 stories
+OK   Ada Derana: 44 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
-OK   EconomyNext: 23 stories
-OK   Daily Mirror: 67 stories
+OK   EconomyNext: 24 stories
+OK   Daily Mirror: 69 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
 OK   Daily News: 12 stories
@@ -13,37 +13,38 @@ OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 10 stories
-OK   Google Top Stories World: 70 stories
+OK   Ceylon Today: 1 stories
+OK   Google Warnings LK: 7 stories
+OK   Google Top Stories World: 66 stories
 OK   BBC World: 23 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
-OK   AP News: 87 stories
+OK   Reuters: 99 stories
+OK   AP News: 84 stories
 
-Biggest stories right now: 'Miracle on Mississippi' - All passengers res (6 outlets) | Trump-Xi-Putin trilateral meeting at APEC: Wh (6 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | What to know about flights after the US natio (4 outlets)
+Biggest stories right now: New Orleans port sues tanker owners over crui (5 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | SpaceX’s Starship returns from orbit and is c (4 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | What to know about flights after the US natio (4 outlets)
 
-3 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* CBS Sports [2 outlets]: Indiana vs. USC live updates: No. 9 Hoosiers host No 18 Trojans in bat
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Island [1 outlets]: Kassapa Thera to undergo psychiatric evaluation
-    normal news - one-paragraph summary
+* The Island [1 outlets]: Mayor Balthazaar warns of legal action over AI-generated Colombo flood
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 rejected: the name/word 'Spokesman' is not in the article
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Card spoken says 'In Colombo today' but article says 'on Friday'.; Card spoken adds unsupported claim that mayor's warning aims to protect public.; Card spoken adds unsupported closing 'Stay tuned for
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -52,20 +53,26 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: the name/word 'AI-manipulated' is not in the article
     -> no cards; posting with the site's own summary
-* The Island [1 outlets]: Colombo hosts first BIMSTEC Health Ministers’ Meeting
+* The Island [1 outlets]: Lanka plans more subsidized credit amid high inflation target
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    attempt 1 rejected: the number 67.7 is not in the article
+    attempt 2 rejected: Detail 4 says the Rs. 20,000 million paddy pledge loan facilities are 'on top of the Rs. 350 million already allocated'; the article says Rs. 20,000 million is expected in financial facilities, while 
+    -> no cards; posting with the site's own summary
+* Ars Technica [1 outlets]: With Starship catch, SpaceX still shows it can dazzle the world
+    no AI summary: saving the rest of today for important news
+* Ada Derana [1 outlets]: Former MP M.K. Sivajilingam passes away
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: SpaceX’s Starship captured by launchpad arms in dramatic first
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Hundreds of men march in Switzerland to protest violence against women
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 8
-  photos: 8 too small to look sharp, using the clean cover
+  photos: looked up 24, found 3
+  photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  summary translation failed (no AI available for writers)
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
-
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 11 story pages for Google)
-
-Countries: IN 38, PK 35, BD 38, US 38, GB 38, IE 34, CA 37, AU 36, NZ 31, SG 33, MY 35, PH 32, AE 38, IL 33, NG 33, KE 28, ZA 31, GH 28, FR 33, DE 34, JP 10, IT 33, ES 34, BR 33
