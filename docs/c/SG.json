@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-15T17:29:39.115455+00:00",
+ "updated": "2026-11-15T18:08:35.901170+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
-  {
-   "id": "af9bf641d8",
-   "title": "The tech products we enthusiastically recommend this holiday season",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWtOOENqN1hqUGJmYmt1T050dWJ3YUdNbW54dzhaNEZrZXhFdjA4T0NqZlZZc1ltTDZMc2NETmx0ZFFxbFlVTlhWdURxWVZoQ3JpWFJPb25MbUc1ZU5kS2ItTWFBT2FRX18zQ2ZOY2NabzVvVWdzMUlhcTVmRHNTd0Ftdng2c1NMRTNSYmZHQ2pmcVJjOVdYNGx0R2pWcTlPZEVMbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TechCrunch",
-   "region": "SG",
-   "date": "2026-11-15T16:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
-  },
   {
    "id": "bcc341bb28",
    "title": "Indonesia President Prabowo apologises to Singapore, Malaysia over transboundary haze",
@@ -40,26 +23,6 @@
     ]
    },
    "topic": "Politics"
-  },
-  {
-   "id": "6d3dfa4aa4",
-   "title": "ASEAN, China reach provisional agreement on 80% of South China Sea code, says Philippines",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFMtQ1lNSkJZX1ZReER2aEw0dnUyY01WZWIzemRXTUVISFZWVW92a2E2NTNNQmFKNW8waGQ3OFVSdjMyOU5LSnhXUVBjZFJjVmZiT3RqdWk1ZVlDZnNEVl9pWlh1NU5BbFE3cnFwa2dPMTRjejJDd1ZMMWVGMlludG9YQ1Y4VmRPd0NDVV9xN2h3NVZLU1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-15T14:41:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇵🇭",
-    "also": [
-     "Philippines"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "624e827f22",
@@ -107,6 +70,23 @@
    "source": "The Straits Times",
    "region": "SG",
    "date": "2026-11-15T12:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1a58ddea0d",
+   "title": "‘You unpack once’: despite reports of ‘poop cruises’ and murder, cruise ships are more popular than ever",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YTlFZNk8zWVp0NWRoV3M3QnRLYWJGekt4aHZmYnRHX09DcTRNVzhCMzRyaWlHMmRCNTAwZEdGTkdKSngwWW9SZEhvRzRpVFpxZEN5alJxamFTMmpFdWlVMVRURWJMT0owNF9zTndBSmFBTHRoc0RjYg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "SG",
+   "date": "2026-11-15T12:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -173,6 +153,23 @@
    "topic": "Society"
   },
   {
+   "id": "e4ed0ad56b",
+   "title": "‘Mummy, why so little?’: Single mum earning $300 monthly cuts back on daughter’s milk to make ends meet",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmZHMW1ub2tZUlJNOVNHRlVLQWFhUUFnZDN4ckgwV3EzNFQzTS1QemNJQjNmNWpNcGdIOXNqZ3pVUDRpeDE5MkZZZHNOZzFNTjcybFJCOTg0LTZxWjFTbF80THh4Z0FDWFVBRU4wRjFPcWRzcEY3bm11VFdpek4tRWdvVXcxT2U4UDVaOWY4ZWZSeVNUSXRZWXJMcDRYMFVVdERuaVhaU3Z2dmlyY3JjQUNqaHZaY3UzdlRaSF9kZGRPZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stomp Singapore",
+   "region": "SG",
+   "date": "2026-11-15T10:35:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "81cdf77b12",
    "title": "Megaspeed rejects claims over supply chain, says Alice Huang no longer with firm",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEFKZ2hjOTBhbXVBN2luVHZHdnVTNThGcUx1WnFJYVNhektVXzB2RzkzM0E5aDR6ajRKZzlLd25aS0ZjakZpdUwxU2ZhcVBfRmN0SWpRRngxN0ZBb3FBMnk3S1ZHTUNITWJTR2xlc3BaRHZzZHJBdGN5c0xsMlVvMDRlcnl4bE5fN3dBbm9iemV1SlBWay1TeUIxbGlmRnQ5VU1CSmJpU0YxR1lGcHJNYUZmNA?oc=5",
@@ -207,14 +204,14 @@
    "topic": "Economy"
   },
   {
-   "id": "bc70b01b8a",
-   "title": "What should ASEAN focus on amid global uncertainty? PM Wong suggests 3 areas",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmxNN2NqWC1UUVlTNnhnLV9LTmdETEh6ckFTZGVDc0VXeU5yLWxEMWZvMUJNMTExWEptNXhSV2NyWGVMUFRWOTdvTjJiTXpDVUxOY3hFNUxvLS1yMWUzMkpZSDVadGxNTkRBX2lmdWNsaGpuV3VXU1VpQk5Wci1MM21sb0V0LUJ6NE5R?oc=5",
+   "id": "739413318b",
+   "title": "ASEAN must deepen integration to navigate uncertain world: PM Wong",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2FTdG5IZUx3cjMwc2ZDbHNzX1FkMUQ4azFLT2JfOUhpd3UyRmF4V3lVbUZIU3lmMXFUdlNMWllxMDdjOFp2dVp1cUlNRGJsMldRMUVWb0VUSEN3YzVrZHE0eUQ1ZzZXSVUtcjZRS0ZIODAxTTZlajFTMHVmYXk2TzNQWExRdGtTVlBVeHE5cHBSdWVXV3I1a1NaRFFfZVFQMXNnUDNTaEF5b3I0SHdNSmhGZXdFVm5vUy1rd1BnQ1dNZUk?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNA",
+   "source": "The Straits Times",
    "region": "SG",
-   "date": "2026-11-15T07:18:00+00:00",
+   "date": "2026-11-15T08:12:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -249,23 +246,6 @@
    "source": "The Straits Times",
    "region": "SG",
    "date": "2026-11-15T05:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a5cedd514d",
-   "title": "Homecoming of sorts: Meeting the housing and care needs of Singaporeans as they age",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbnpaVWVNWE9SQXJaSVh2MWlMZ1FkNm9CRXVleWhtNmZ4eFp6RXFqR0NUYTloMVIydWZXcHpCR1JHVmU5OFpheEcyWllmSC1lUEF4M09CdVFvaXlHNEFRX2lPa2ppVVFXbnNzOFVhVE8xdzFFRHAtNFhXcUM3cFgxaDlUQ0JzWHZiNGU0Y2RLN2FpQjBKTmJuLUVlZm1zajFQczdKYnRVMUJia3VFX1RIZDVOd0xSR1RheGRsT09R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-15T04:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -377,19 +357,36 @@
    "topic": "Society"
   },
   {
-   "id": "0ede33113f",
-   "title": "'Waiting so long': Fans gather for Eurovision's first Asia show",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFJDd0RtYXIwdmZueFFDUThtd18yWWdtQkRYTW9ETzNNTmN6bTY3TDBxcHVNT1BkOFpBNEpPakdQRi1vUGNQSnIxc1JCc3A5cVRkVkg4NHI3Z0EzYlRqNnZRa09YSUgtcFBQWVo0cHJiWkJMQ1ZmdDZzVzBUZFN4N0NJdG5fSlJsSHdBQkdfbWhuY1Zyb3drenYtZEloek1aalE?oc=5",
+   "id": "376349d919",
+   "title": "Ukraine's Zelenskyy escalates criticism of SpaceX over speed caps",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUpWNGlXcTViOHh4ckhBZzc1dGtwd0ZqOUpUbTVzMnRYTzlGU2pUVVduUlBoSG9JYll4R1NKY1FVTWpCWF9kUXRNM0JNeTNPUzZqdFkzNkV6OUtFRzVqM2FZbklyRnBXUGFDVk83VlM4am8tb1VyeDZ6WUlPck5lT0NIdmIzUXFJRlI2QzhCbEJKNzhObmlFV0Q0VHlYSFZkc1ZZZm52N1lhMUU?oc=5",
    "summary": "",
    "image": "",
    "source": "CNA",
    "region": "SG",
-   "date": "2026-11-14T13:11:00+00:00",
+   "date": "2026-11-14T18:32:33+00:00",
    "coverage": 1,
    "location": {
-    "country": "Singapore",
+    "country": "Ukraine",
     "place": "",
-    "flag": "🇸🇬"
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6a77d2a917",
+   "title": "Philippine teen wins Eurovision’s first Asia contest",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmVadGd1SFJzV2xpelJXdkttakREczFWcmtCTU1Xb0FESWJtajFudHM2Q05CTktSTnQ3czdqbndqUHhYaWk0U0tQckRLMERfQ3BwYjZ0X2Z6UFJEaGpzWktpcnVMdy01RVZtMUVVSTZZbG5mN1BRVXR3aFFQczVubi02SlQycmxjNXFVMktrOFgzdDJodjI5WG1GM1pJNi1K?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T18:03:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
    },
    "topic": "Society"
   },
