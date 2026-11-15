@@ -1,78 +1,122 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 16/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 44 stories
+OK   Ada Derana: 41 stories
 OK   Newswire: 20 stories
-OK   The Island: 9 stories
-OK   EconomyNext: 24 stories
+OK   The Island: 10 stories
+OK   EconomyNext: 21 stories
 OK   Daily Mirror: 69 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
-OK   Daily News: 12 stories
-OK   Sunday Times: 2 stories
+OK   Daily News: 11 stories
+OK   Sunday Times: 70 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 7 stories
-OK   Google Top Stories World: 66 stories
+OK   Google Warnings LK: 8 stories
+OK   Google Top Stories World: 65 stories
 OK   BBC World: 23 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 84 stories
+OK   AP News: 87 stories
 
-Biggest stories right now: New Orleans port sues tanker owners over crui (5 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | SpaceX’s Starship returns from orbit and is c (4 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | What to know about flights after the US natio (4 outlets)
+Biggest stories right now: New Orleans port sues tanker owners over crui (5 outlets) | SpaceX’s Starship returns from orbit and is c (4 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | Philippines’ Carmelle wins first Eurovision c (4 outlets) | Italy fines Meta $887 million over Android us (4 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [1 outlets]: Mayor Balthazaar warns of legal action over AI-generated Colombo flood
+* Sunday Times [1 outlets]: Budget 2027: From financial stabilisation to economic growth and pover
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: Card spoken says 'In Colombo today' but article says 'on Friday'.; Card spoken adds unsupported claim that mayor's warning aims to protect public.; Card spoken adds unsupported closing 'Stay tuned for
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 2 rejected: the name/word 'AI-manipulated' is not in the article
-    -> no cards; posting with the site's own summary
-* The Island [1 outlets]: Lanka plans more subsidized credit amid high inflation target
-    normal news - one-paragraph summary
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Sunday Times [1 outlets]: 2,381 killed in road accidents this year; latest victim well known cyc
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    attempt 1 rejected: the number 67.7 is not in the article
-    attempt 2 rejected: Detail 4 says the Rs. 20,000 million paddy pledge loan facilities are 'on top of the Rs. 350 million already allocated'; the article says Rs. 20,000 million is expected in financial facilities, while 
-    -> no cards; posting with the site's own summary
-* Ars Technica [1 outlets]: With Starship catch, SpaceX still shows it can dazzle the world
-    no AI summary: saving the rest of today for important news
-* Ada Derana [1 outlets]: Former MP M.K. Sivajilingam passes away
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: SpaceX’s Starship captured by launchpad arms in dramatic first
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Hundreds of men march in Switzerland to protest violence against women
-    no AI summary: saving the rest of today for important news
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* ESPN [2 outlets]: Grant Wilson delivers as Indiana boosts CFP, Big Ten hopes with win vs
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newsfirst [2 outlets]: Bay of Bengal Low-Pressure Area to Move Away from Sri Lanka, Bring Sho
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Sunday Times [2 outlets]: Budget 2027 and the action deficit
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [3 outlets]: Israeli air strike kills senior Hamas commander in Gaza
+    important (also on AP News, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* Al Jazeera [2 outlets]: Netanyahu sends plea to Eisenkot for unity government
+    important (also on The Times of Israel) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (503)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: blurb says Netanyahu 'begged' and calls Eisenkot a 'rival' and the response a 'one-word brush-off', none of which are in the article; spoken claims Eisenkot sees the plea as a 'political tactic rather
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 2, written by openrouter)
 
-Top 10: 0 fully explained
+Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 3
   photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  Fact Base: 7 facts and 1 people saved
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
   meaning check: 15 stories judged by openrouter:openrouter/free
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check: 4 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 12 story pages for Google)
+
+Countries: IN 37, PK 32, BD 37, US 37, GB 37, IE 33, CA 37, AU 37, NZ 32, SG 33, MY 34, PH 30, AE 37, IL 32, NG 34, KE 29, ZA 33, GH 27, FR 34, DE 33, JP 8, IT 33, ES 34, BR 34
