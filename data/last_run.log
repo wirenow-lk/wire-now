@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 75 stories
+OK   Ada Derana: 71 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
-OK   Daily Mirror: 39 stories
+OK   EconomyNext: 16 stories
+OK   Daily Mirror: 41 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 11 stories
 OK   Daily News: 15 stories
-OK   Sunday Times: 89 stories
+OK   Sunday Times: 88 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -21,41 +21,61 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 92 stories
+OK   AP News: 91 stories
 
-Biggest stories right now: South Korea's top scorer in tax accountancy e (8 outlets) | Israel kills Hamas commander in Gaza strike (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Consumer Affairs Authority summons LAUGFS Gas (5 outlets)
+Biggest stories right now: South Korea's top scorer in tax accountancy e (8 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Jordan sentences three men to death by hangin (5 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Consumer Affairs Authority summons LAUGFS Gas (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* TMZ [1 outlets]: Gypsy Rose Says Leaked Prison Calls Were Turning Point Before Ken Urke
-    no AI summary: daily limit reached
-* Hiru News [1 outlets]: Hiru News 06:55 PM | 2026-11-15
-    no AI summary: daily limit reached
-* The New York Times [1 outlets]: In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park
-    no AI summary: daily limit reached
-* Newswire [1 outlets]: 24 Indian & Sri Lankan cadets begin 3,500 km cycling expedition from C
-    no AI summary: daily limit reached
-* AP News [2 outlets]: Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll 
-    no AI summary: daily limit reached
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 5 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
+* Politico [1 outlets]: Van Hollen disputes Schumer’s claim that he has the votes to stay lead
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Bloomberg.com [1 outlets]: Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: Govt plans to approve 7,000 doctor positions over next 3 years
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* The Guardian [4 outlets]: Estonia to close all border crossings with Russia after attack on dron
+    important (also on Al Jazeera, POLITICO.eu, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: The Guardian, Al Jazeera
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Card says 'assaults' instead of 'attacks' and omits 'defence capabilities'; Card says Latvia’s Interior Minister thanked Estonia; article says he thanked Estonia’s Internal Security Service; Card adds
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code")
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
-
-Countries: IN 38, PK 36, BD 36, US 36, GB 37, IE 36, CA 38, AU 36, NZ 32, SG 29, MY 32, PH 34, AE 36, IL 34, NG 33, KE 30, ZA 30, GH 27, FR 34, DE 33, JP 7, IT 32, ES 32, BR 33
-
-World Pulse not made this run: no AI available for writers
