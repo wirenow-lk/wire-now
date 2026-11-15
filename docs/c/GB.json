@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-15T07:38:28.049674+00:00",
+ "updated": "2026-11-15T08:30:41.537135+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
+  {
+   "id": "79428bf8fe",
+   "title": "Princess of Wales to make first long-haul trip since cancer diagnosis",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0IwMWE2eTZoQ1RweHR6czUwMC1KS2swUV9La19KbzRDSENYaFdxUzRiTEN5X0FpaE5TVW9GWG5YN2k3alZialZYcGZONmZ0MFZVSGNWbmphVENUQ0IzUHEwNHM2MEg2UnFRenU2RHNFVGJBQ2tqODBxSldRb1I3a2RQcTFnRnhEZUhTSC1xQVlEMnRWQXktdXpDRUJpNlVoYzRvVG1oTzJVaHMx?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-15T07:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
   {
    "id": "a9438faf18",
    "title": "Ex-Met Police inspector lied about wife's death in Barbados",
@@ -19,23 +36,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "85335cbece",
-   "title": "Tony Blair’s sister-in-law spoke at Iran ‘spy recruitment’ event",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3pZTFdsRkZxX3JxZXQ0enF1X25lX2NteDdQVS1oYWUwSlBrTnJqb0FLZThid1lGb3pQSU1pN0pMSEVPcW5HM3FROEoyQmNwUnBvUlVTN25QeVBCVzkyVzA5Z0JsVTVuNW01b0xaUkp4emoxT2VTSHlQV0llUXpPVVMwdFpkbGdPdndqaXNqckFMcUdxYi1zbQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-15T06:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷"
-   },
-   "topic": "Society"
   },
   {
    "id": "6da70ea569",
@@ -89,6 +89,43 @@
    "topic": "Society"
   },
   {
+   "id": "55508a8b20",
+   "title": "Australia v England: second men’s cricket one-day international – live",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEJreldTWkZuS3Rvem9PZUI3Y2dLV1Y1aEZxbkt4clc3TkNEdFUxNjhXQU9fUTBLMkJVVk1KTi11M1Y4UW5KOXk0M0xVVmUyak14eU56RjgzUVItOF9uYnl0OEpYNmhwU3dRWGRtdGVpVnlXTHZLcURldzFINVlfTlpCQWhfTkJ6ODNodWszX25ITlBxNzdNR1BNQVU1ZkJrUHNYb2UtZTY3UDA3RVk5Wlp2SkpubE43UTBBN1NLemY5MXhmR0NkOWxzaXpTS0RuR0dUcURSZmlwc0xkZ1dF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-15T04:15:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Sports"
+  },
+  {
+   "id": "cc3dc564c0",
+   "title": "Chaos on busy airport runway as planes collide and pilot says 'somebody hit us'",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeElMbHNOSjJYR0hwNDhHMHA0Q181RGlTTTg4a3FSWkJ6QjZldmV3el94WjZIc0RlbG05Rk5zNk11ajJlN3FObnEzem1lcWdob21hczlDbVFVNGhJU3FLTGFJZV9QQW9MSGthTUZuVkR0Nzh4b3dlNzN4LWdES3A1WkVIc9IBiAFBVV95cUxOc2ZLUml5WW1EQ19mMUpkZzJxT3l2b0l5LWdFRGJwYVBBRkRLNTNxcXEtUU5IRkNkYk9hc3pIS2QzbmdINFh1LWN0YnBEX1ZCS0ZONHRCaG5XZTBJdDNjLTVFcEktZ3Rkc2tWYmNhUGFibUdHdkJMbktfbmY5Y0N6T2ZCTDFTZnhy?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Express",
+   "region": "GB",
+   "date": "2026-11-15T03:54:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "fdf7f4cc47",
    "title": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
@@ -110,19 +147,19 @@
    "topic": "Society"
   },
   {
-   "id": "c37d665383",
-   "title": "Pochettino: Man Utd job will be ‘very intense’",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTZrOUs0OXUxTE1sRjB0TW5SSzkyMERJcnJ4VFIxVUYwbE5ybS1zdlV3S1lHRTJlamxaNW5DbE5hUXo3QjNaUFJWRnR5bk1vYnY3Zk9qd0VzV2RrbzVHb0FiTGhRNlo2dm9EWnRnY3I0aEd0YWI5cnBMOUY5RXlqMFlOeXNXMmQxWWJiMEtCTkxTNFhfVnJZ?oc=5",
+   "id": "6c09a35751",
+   "title": "The world according to China",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjFJU0l0RDAwQ2FiRlJ5TWI4UnFSYzJPT2tTXzhydHU5ZEt1LVRseXY2aHByQ2FSdmpVWC00ZlpSc0IwX05rYkhpQkZrejd5dlREeDVHaHV6eXdaUllhSktGa3Q2YUk3aFBxQWR3R29zakdzVy1oZjlpSF9PZWo0d0h2aFc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-15T03:08:00+00:00",
+   "date": "2026-11-15T03:00:02+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "China",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇨🇳"
    },
    "topic": "Society"
   },
@@ -140,26 +177,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b623300f91",
-   "title": "England leave Jones sucking lemons but demolition of Japan shows widening gulf | Gerard Meagher",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR3VoWGFzeWNrY1FWTXlmLTVIUXZybkJsN0tRWjctRHREQkFJdVBLd1A3cDNFU3Z5Z1piS3lCUFp2aUZOcXNQMThwT0g3QjJ5ZXZBQnVhbEFKQXB1Z2N5SEItUXJ0c0wwNGdleTlxUlhkSVp5eEZMVmRnekhpWC1IdVlwakd4YmZUN25uREhXaTMtWXRYVG1jNlpfWE16RlBWdnhIUDEzc2hxdURHcEhEZlp6NmNxM1VBM3hfek81blJaUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-15T00:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧 🇯🇵",
-    "also": [
-     "Japan"
-    ]
    },
    "topic": "Society"
   },
@@ -232,25 +249,8 @@
    "topic": "Society"
   },
   {
-   "id": "0f04b95cbe",
-   "title": "Wills & Kate going on first joint foreign work trip in 4yrs in ‘special’ moment",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlJsbU43d0l4eDR5ZFBVNGtaSVlKazZoSU1KeTk3UmNBZFZtQ2tDRFY1Rm55UEFMUjRmLW1NQVg1OEF2Yjh0ZURFbEFrYXR5RUNuMzZ2WEZiQ29NZEZuM3BJWk01WVYyQWFBZ3c2a2tzQ3hKSjhORGplcVZSWHQ1VWIyZGUtb084VTZCazlReW0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-15T00:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b9a897ca03",
-   "title": "Grand Slam of Darts results: Luke Littler beats Beau Greaves to begin title defence",
+   "title": "Grand Slam of Darts: Luke Littler beats Beau Greaves to begin title defence",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jV0IyZ29QWnFKUmoyYUdsMzBXSktrNmVweHVlN3hoNUQ2Qzlmanc0VDhPczNuWDFBUWZGMHlMZzBjY0Yzc201Tkc4SGdkaVdZSFRWTUhjY0xhcWRDVm5JVFVnSGVncHc?oc=5",
    "summary": "",
    "image": "",
@@ -266,14 +266,14 @@
    "topic": "Society"
   },
   {
-   "id": "af284bbfe8",
-   "title": "Copper wire upgrade blamed for US flights chaos",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjVIX3U2UDFwRTN5Y2lBSkZXSVhIaWZhSEswOVBmcWdNS3llRUdwU3FVcFYxYjdoR2VMUVhPRGNWeUdMYW1vbk9PelZxNk83WmZUNkVteWRDR0FYOGdnSUVYRUN4MUtua21zVjJjNHpXTDd2NEdOTjEzb3MycDQ0Yk5rdUlPck1yakZIZlhaUFhaMW16VWZrbkpWZm9rNTRu?oc=5",
+   "id": "e53cfcabb3",
+   "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUxaazZEWDlnYnJQUGQ3ZjgwX0xSR3hWclVzd2ZFOUtvYXh5Nkl5WTdBSVE0S21Xb3hvazVIa2xYZklNZVBROG9OeUstY1U4N01hbERCc1o1TVdNZkotVU1PeGNPNnFyajZNbmVBaFR2WFZjaldlN3JPenRnZldjaFpzRkg?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-14T19:42:00+00:00",
+   "date": "2026-11-14T22:57:26+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -283,14 +283,14 @@
    "topic": "Society"
   },
   {
-   "id": "dab7b5785f",
-   "title": "Nations Championship - Wales 35-28 New Zealand: Steve Tandy hails 'phenomenal' players after historic win over All Blacks",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUXAwbWprNUVCZ2pKS0tDS3lTcUtSa3l3YlBsczg1Q0VBeG1lM0t1TDJjSFlMT25MQktQcW1kSHRZWTU5QVpoZHFMYUhvOFBUYk9PcU9yMEs1elF2UEpwOUlJODhDREdjMy05eTh6MkJZQmtlMzlzd1FRblZSSHlJLVFXWUhyVW5qUVZrZTNIQ3ZHcDNTSHNfNUZPd3lIaUR1Vm1QZFU1aTFiNG9WMWk1bzNERnFiQ2ktclMwbnZWUnRYVWgya0ZINTkwdUFyOVJqaUZHbzlxNEVUWnh1RmJ5blk0YlVaRWR5aGdWSzRYMGRjQVFfdTRTUTlwbUM?oc=5",
+   "id": "dc3e98e5c2",
+   "title": "Wales bury 73-year All Blacks hoodoo with seismic victory over New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzNkUGFlcXRWWHV2VktCRDlCSVhtcVhOVTRqYjlxZlItZXhoeVhRSVJMWkJDeFZObEhwU00wTnVOWW1ibGdEc1dQdWRocXd5ZXJMWmNHWS15Tkc5VGVnbG4tamJHMDc3SDVMVXJ1Y0VhRFlLZDFrU1lqLUstVGJyUU81S1dkRmROYUdMQ2xEWXNUVFZUWXltMU5QTDdoQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sports",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-14T19:32:19+00:00",
+   "date": "2026-11-14T22:40:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -303,21 +303,24 @@
    "topic": "Society"
   },
   {
-   "id": "da9d97f873",
-   "title": "Two children among eight dead in horror bus crash after ‘driver falls asleep at the wheel’ with 20 rushed to hospital",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORUswQjhPajVCVV9TSDRfSWpmMXRjOFZPVWpaQkFtcGpnVmswVFBHY0hpSjk0bWF4UmNYejB3SEJodXAtNTVDLVA1a3EtMVZkbXVIR1hoZ0JNcG9YaklpdXhOcUJGTi15WUV6T3dzdXhWaTZweUNXZk1ZQ3Znak9WQ1Jubw?oc=5",
+   "id": "fcaa7266c5",
+   "title": "Nations Championship: England player ratings after Japan thrashing at Twickenham",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1BpVHJ3MzN2c245eDBja00zcjBDdnExQmhDZXdSUVVXeWpjUXBtVGp4SWU1Y2NpWHNDU3hfZkdpWmZUSlNIajE5czdPVzZkUEF3dGFjeC1XdDdtWTFKNzAyWjNZLUl6dF9RampiQk5NY2NZcnBhSU9uVEJNRGZpRVYxR0c4YW53VUFVbk1rTmhLZWtIZmVUamtGQUxsRTg?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Sun",
+   "source": "ESPN",
    "region": "GB",
-   "date": "2026-11-14T19:32:00+00:00",
+   "date": "2026-11-14T21:36:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇬🇧 🇯🇵",
+    "also": [
+     "Japan"
+    ]
    },
-   "topic": "Health"
+   "topic": "Society"
   },
   {
    "id": "a2afc88c69",
@@ -328,6 +331,23 @@
    "source": "The Times",
    "region": "GB",
    "date": "2026-11-14T19:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "403b5cc09e",
+   "title": "I've tested four different versions of the LG C6, and it highlights a mistake that many TV buyers make",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTHFmbXU2aXBLLTVFYnhmM05oQ3o3VHNQYkNFZ2hOVjZyUXU5QUVqRGUwYTduM3NfOFpJcXozYklNbnJjMkhabGxKZ2JpWHlKQ1Rya013TjQ1ZUd5dlItM2RYc0d6SGdnWnRNUC1nVzJ3c1ZkRVZocW9zRkkxd2dZaXlrMkxhRnZSOHNFM2dMZVNweWhpRXJqZ09mUVpDNkthZUxjSXcwUlpaV1dIb1ZjU0lINlZFbnk2VEZwbm42RGVYZUxidFNaZHBvQnFIdkJBY2pESU5nZkhtSDJ4RW1ObTQzUUwwbG8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "What Hi-Fi?",
+   "region": "GB",
+   "date": "2026-11-14T18:28:02+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -371,25 +391,8 @@
    "topic": "Health"
   },
   {
-   "id": "3782fab4a3",
-   "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHpOelhJaHVyV3hfZ1Qwa1FJM0w2aE45emVoZFZnOFdVb0xuMTdCN2VXSkYtRTV2VlN3QWhXQUpwaHh2YUs3ZUxWazd6eXJOV0p1QUhPSVJMdlBuTWNlalZKQllwazZiTDhOOTZhVDBLeFMzcmlTTmxDM29fbUstSHpUSWxyNkVzVXhmcTNyVUM0aVVWa05QazZCUFJ5ZUdxcHBR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-14T16:58:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7d1dc63cd2",
-   "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+   "title": "A rapid interest rate rise seems inevitable – and UK households are expected to pick up the tab",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWg2eXA2U2I2QTRzRWFjcVV2X1hQaURhamh1aGJId3lGUWRRUkZySEdHWm5TOUdxOW5lZ3VISVZGTmxBTERqNjlxLTVqVXlaRkdxNzJSYTBoNlJWeFNzeFI4Sld4d2R5NkZuWmhHdUR2MWF1RGN6UG1sbkR6VC11NFViWUxpbHg0X1R0aHp3eVJ4WnpRdVlKUG5NMEVERmNL?oc=5",
    "summary": "",
    "image": "",
@@ -439,6 +442,23 @@
    "topic": "Society"
   },
   {
+   "id": "9b55ee43cd",
+   "title": "Jonathan Kreiss-Tomkins: Alaska elects its first Democrat governor in nearly 30 years in major blow to Trump",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWFzRlRDeTJYcnYtV3pKRFNGTm9aR1pGUDBjenNiamxsaFA3ak41ZUFFck5TbmItTEwzR0VXZUZLeThoWkUzNGlkOXB3cUxYeE1iS2RRRFVaMnRSN0VuZ2pqOHFLZ3I4YjZzdEZfWmdsZFZ3MmtSa2RpcDVoMDkxVk5MZzR2S3BKeTFEX1hkN3NMc2ZSQUFIako1UlQ2aVl0UW5TZEUyYWY0c3JfMDRuVTdn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "GB",
+   "date": "2026-11-14T16:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e533ca409b",
    "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjJVeVVUUTMxUjhqRXBIUzRwMW5pSTFleld2QWM2NERxQ0JYSkR3YllRd09oQWVtYUI2UVFQMWZGY21GcFdFNXNackNXcXhiZldCdHRhd25BVFdPaWUycW01MXZ3NWRtT0l4eXM4NjZXcDBoRG1XSVh1TmVTY2dpRjl1UzBfaW1lQ0k4ckFwQjNVakRmVFZDYTdiaFdKUkx0cnFfUURzY2dwUlHSAbABQVVfeXFMTUp2dm9kYV9UeTdPdkVzOE5SWTUxQXVZeXdqZ242UnRPRmlGZFBoUE1lenVwUG5uLW00VTh2Z2J2V1pjWGtELU1VNk5xazBvNDFaVVQyUVRjUUZyOU1DLUt1ZFJtaW9SbEl1US1vdlVxVVMzaGRDSnUwWnZRMWh5NjJzcWpfZFVsLXI0MnlfTWRsbmxZcWFyT0NnTVc0VS1kNUVMd0pkNUkwXzBzTHRvblE?oc=5",
@@ -447,6 +467,23 @@
    "source": "Al Jazeera",
    "region": "GB",
    "date": "2026-11-14T15:17:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "119069eec0",
+   "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41ak1JTU5pQWU2RmhsYkJYUkpfU2I1QnJSXzRmYy16TWpTaFg5MG5nTDB1Tl9mellDVWN0TmRsUEZpQko1U2ZZTF9kNHZOUGNhVzZlRFRpdC0wR3ZJZXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T14:46:26+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -490,23 +527,6 @@
    "topic": "Society"
   },
   {
-   "id": "01d270baf2",
-   "title": "Noel Fielding ‘horrified and disturbed’ by Russell Brand’s crimes",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd21MSm5NZ24yNTFOeWV1dURuMWRGOVZjbDFSeDZEanBRREctOEF3UDBweExCMU9IeDBjZnZSeDJXYV9MQXpmNUtENm5xcWk5WHp0N2hBd1NyV0IyRkRQdUhCRDhNM3JpQ2xuZ1hibklPYUZPeGxreFJxUkRGaDZCdGVIRTRSVklvMmZmQzlMNmR0cnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "GB",
-   "date": "2026-11-14T11:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b2e9d7648a",
    "title": "How to spot November's planetary parade in the pre-dawn sky",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBdVVOQmc5Z0pRS1ZXZ1ZERTAwUE1nTVp0bzdpUzFiWTRpX0JEc1RCc0N5RUl5T2liSXo0OW9zbS1LcHM5WXFBa1g0SEN2UzNMczdtTVlsX0dYOFg4emVIR2hR?oc=5",
@@ -524,14 +544,14 @@
    "topic": "Society"
   },
   {
-   "id": "1cc420f414",
-   "title": "‘The social contract is broken’: young people on feeling shut out of careers",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmJDako0WUFGU3o4NklLZ2hrZ1B4R3QxdGlIZGJNWHZHb0QyQ0RubTlGVXI5Znh4UDFrVnN4WkNad19jOGVDVldFaTZId2ExaDdDVjBKOTJmbGZZc3hXRHAyLUtabG5QdDdqZnhYM2tCNGJkNmpGdUtLdURmSkpDaG9MZllXaS1v?oc=5",
+   "id": "6e75b50078",
+   "title": "Russell Brand to spend rape sentence locked up in Yorkshire high-security prison",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSE91X2czbnRfS01LLVdkY0VhWG1SMUVjazJEVTdLWndteHRqSmxkU0t4R2VmbUt4YzdDaEpkX0ZOaHE4ZTRveElnR3hDQThQSlMxeDkxX1lFcFdnQ29KUVlOTzM2cnZMZEJZOFV6NkhHV1hyOXRsdEYwdGVCeEktYmQxRzY2ZGlkazZLQkFJVzI2X0ZhTXB3VHB4S1VQZk12VmVCVnlkLWczZjA4bXFkdEtRVndzRXlGeVFvZWZLb1NxMXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "The Star",
    "region": "GB",
-   "date": "2026-11-14T10:02:00+00:00",
+   "date": "2026-11-14T09:42:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -558,21 +578,21 @@
    "topic": "Society"
   },
   {
-   "id": "e1e52dd2d7",
-   "title": "Rocket engineer aims to inspire women to reach for the stars",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ySklQdnhtcWJMMTN5R2g1X21fT1dGT25BZDJlY1poLTRvcUtvaERHcU1hQVFnVGJWdkZZcWVjZjJFNmowcU5pLThDampUSVdINVliektzajdtUVdjb0E?oc=5",
+   "id": "a285c1208d",
+   "title": "'Microsoft outage put patients in a bad situation'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBscEs1eC1TMmppc0k4d0xiemRFaFJzUVBLV0lVQ1Fyc0xqSU1RNXhPSUpUNU1DdG50c2JVekl0TVl4MDZKcGVMRm5KQVRrMFFQTmx1aTllZ01ldlJJc0E?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T07:18:28+00:00",
+   "date": "2026-11-14T06:41:02+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Health"
   },
   {
    "id": "f7b0aad2ff",
@@ -590,23 +610,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
-  },
-  {
-   "id": "522859f72d",
-   "title": "Microsoft says services fully restored after day-long global outage",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mazNMZ0pHN3U3VmRUU3R4UWxmMFU2MDh3SmhwYnlhdGdzVlRncWNaN093WGtYY25fYWFvZi1kNHVRRFlKd0dwb3RHR1ptLUJEQ1RkRllEQ0FwWUp0TFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-13T20:49:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
   },
   {
    "id": "ed2503a2fb",
