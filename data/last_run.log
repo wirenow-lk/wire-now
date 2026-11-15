@@ -1,77 +1,46 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 34/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 40/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 49 stories
+OK   Ada Derana: 54 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
-OK   Daily Mirror: 42 stories
+OK   EconomyNext: 20 stories
+OK   Daily Mirror: 51 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 9 stories
-OK   Daily News: 13 stories
+OK   Daily News: 12 stories
 OK   Sunday Times: 88 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 8 stories
+OK   Google Warnings LK: 9 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 20 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 90 stories
+OK   AP News: 89 stories
 
-Biggest stories right now: SpaceX’s Starship returns from orbit and is c (6 outlets) | Israeli air strike kills senior Hamas command (6 outlets) | Italy fines Meta $887 million over Android us (6 outlets) | Consumer Affairs Authority summons LAUGFS Gas (5 outlets) | Low-pressure area in the Bay of Bengal likely (5 outlets)
+Biggest stories right now: SpaceX’s Starship returns from orbit and is c (7 outlets) | Israeli air strike kills senior Hamas command (6 outlets) | Italy fines Meta $887 million over Android us (6 outlets) | Consumer Affairs Authority summons LAUGFS Gas (5 outlets) | Low-pressure area in the Bay of Bengal likely (5 outlets)
 
-8 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Fire breaks out at coconut husk factory in Divulapitiya
+* www.nationpathindia.com [2 outlets]: Bay of Bengal Depression: IMD Issues Pre-Cyclone Watch for Andhra, Odi
+    important (also on Sambad English) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [1 outlets]: Youth arrested with missing minor and infant in Knuckles cave released
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [1 outlets]: Several trade unions announce island-wide strikes over 2027 Budget pro
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC [1 outlets]: Russell Brand: Alleged rape victim wants age of consent law changed
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [2 outlets]: Minister expresses concern over 15-year-old girl and newborn found in 
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* Newswire [2 outlets]: Sri Lanka’s Lakdhanavi secures USD 75 million contract for 57 MW power
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* Ada Derana [1 outlets]: Government’s non-tax revenue rises 39.1% to Rs. 314.8 billion
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: ASEAN summit: Who’s attending and what’s at stake?
+* Newswire [2 outlets]: Colombo restaurant fined Rs. 100,000 over expired cooking oil bottle
     important (also on Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
@@ -82,9 +51,15 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     gemini failed (The read operation timed out)
     attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off
-    important (also on Hiru News) - researching
+* EconomyNext [1 outlets]: Sri Lanka’s new active credit card up 1-pct in September
+    no AI summary: saving the rest of today for important news
+* Ada Derana [1 outlets]: Thundershowers expected across several provinces tomorrow due to influ
+    no AI summary: saving the rest of today for important news
+* AP News [4 outlets]: Israel says it killed a top Hamas commander, and other Mideast news
+    important (also on Ada Derana, BBC World, Reuters) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -93,7 +68,26 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     gemini failed (The read operation timed out)
     attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     -> no cards; posting with the site's own summary
+* Al Jazeera [2 outlets]: Thousands in Portugal protest against surging rental prices
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -120,13 +114,36 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "message": "Request contains a)
     gemini failed (The read operation timed out)
     attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 7 too small to look sharp, using the clean cover
+  photos: looked up 24, found 0
+  photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (The read operation timed out)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
     gemini:gemini-2.5-flash not available (AI error 404: {
   "error": {
     "code": 404,
@@ -144,4 +161,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 33, BD 38, US 38, GB 36, IE 32, CA 36, AU 37, NZ 32, SG 33, MY 34, PH 31, AE 38, IL 34, NG 33, KE 29, ZA 31, GH 25, FR 32, DE 33, JP 13, IT 32, ES 34, BR 34
+Countries: IN 38, PK 32, BD 38, US 38, GB 37, IE 33, CA 36, AU 37, NZ 30, SG 32, MY 34, PH 31, AE 38, IL 36, NG 33, KE 28, ZA 30, GH 24, FR 34, DE 33, JP 9, IT 33, ES 34, BR 34
