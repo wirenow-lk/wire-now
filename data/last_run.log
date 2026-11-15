@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 24/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 41 stories
+OK   Ada Derana: 44 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 23 stories
-OK   Daily Mirror: 61 stories
+OK   EconomyNext: 25 stories
+OK   Daily Mirror: 70 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 13 stories
-OK   Daily News: 15 stories
+OK   Newsfirst: 15 stories
+OK   Daily News: 14 stories
 OK   Sunday Times: 69 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,58 +21,81 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 91 stories
+OK   AP News: 92 stories
 
-Biggest stories right now: Low-pressure area in the Bay of Bengal likely (5 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | US floated idea of Ukraine swapping land for  (4 outlets) | Former TNA Parliamentarian M.K. Sivajilingam  (4 outlets) | Judge temporarily blocks Trump from closing W (4 outlets)
+Biggest stories right now: Low-pressure area in the Bay of Bengal likely (5 outlets) | SpaceX’s Starship returns from orbit and is c (5 outlets) | Italy fines Meta $887 million over Android us (5 outlets) | CAA summons LAUGFS Gas officials over recent  (4 outlets) | NASA’s Voyager 1 to hit new space distance re (4 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [2 outlets]: “Australians are known for their honesty”: Wasim Akram’s surprising ta
-    important (also on Hiru News) - researching
+* Hiru News [1 outlets]: Police Raid Underground Illegal Liquor Factory in Matale, Two Arrested
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: One in five Sri Lankan living with diabetes - deputy health minister
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Public sector salaries cost government nearly Rs. 900 billion annually
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [3 outlets]: Illegal firearms, trap guns seized in operation in area where elephant
+    important (also on Ada Derana, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: key_facts item 1 states the operation "seized illegal firearms" – the article only says it discovered unauthorised firearms and does not state that they were seized, and uses "illegal" instead of "una
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 2 failed: Expecting property name enclosed in double quotes: line 1 column 46 (char 45)
+    -> no cards; posting with the site's own summary
+* BBC World [2 outlets]: Judo champion shakes up French presidential race with surprise candida
+    important (also on BBC) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: Autobiography title 'Sabr' not mentioned in article (appears in details, key_facts, spoken); Misattribution: Card says Cummins acknowledged possibility Australian players might not have known based on
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 2 failed: AI did not reply with JSON: ''
-    -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: Sotheby's auction of $180m Van Gogh challenged over claims it was 'sol
-    no AI summary: saving the rest of today for important news
-* Newsfirst [2 outlets]: LAUGFS GAS OFFICIALS SUMMONED BEFORE CONSUMER AFFAIRS AUTHORITY
-    no AI summary: saving the rest of today for important news
-* AP News [2 outlets]: College Basketball News: Rankings, Scores, Stats & More
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Bahrain's interior ministry issues alerts of potential threats
-    no AI summary: saving the rest of today for important news
-
-Top 10: 1 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 7 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  summary translation failed (no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code")
-  meaning check: 15 stories judged by openrouter:openrouter/free
+    attempt 1 failed: AI did not reply with JSON: '{"topic":"Politics","country":"France","place":"Seine-Saint-Denis, Paris","what_happened":"Judo champion Teddy Riner entered the French presidential race, launching a surprise candidacy with a \'France'
+    attempt 2 failed: no AI available for checkers
+    -> no cards; posting with the site's own summary
+* BBC World [2 outlets]: My mother told me I would die if I sought treatment for Ebola - I am p
+    no AI summary: saving the rest of today for important news
+
+Top 10: 1 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 7 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 33, BD 37, US 37, GB 37, IE 31, CA 37, AU 37, NZ 33, SG 31, MY 34, PH 32, AE 37, IL 35, NG 33, KE 30, ZA 34, GH 25, FR 34, DE 34, JP 9, IT 32, ES 34, BR 34
+Countries: IN 38, PK 33, BD 38, US 38, GB 37, IE 33, CA 37, AU 36, NZ 33, SG 32, MY 32, PH 31, AE 38, IL 35, NG 33, KE 30, ZA 31, GH 24, FR 34, DE 33, JP 11, IT 32, ES 34, BR 34
