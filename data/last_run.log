@@ -1,60 +1,71 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 67/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 73/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 66 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 23 stories
-OK   Daily Mirror: 43 stories
+OK   EconomyNext: 20 stories
+OK   Daily Mirror: 37 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 11 stories
-OK   Daily News: 13 stories
+OK   Daily News: 15 stories
 OK   Sunday Times: 89 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 6 stories
+OK   Google Warnings LK: 5 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 24 stories
+OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 98 stories
-OK   AP News: 86 stories
+OK   Reuters: 99 stories
+OK   AP News: 91 stories
 
-Biggest stories right now: Israel kills Hamas commander in Gaza strike (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | South Korea's top scorer in tax accountancy e (5 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | SpaceX Starship returns to landing pad from o (5 outlets)
+Biggest stories right now: South Korea's top scorer in tax accountancy e (6 outlets) | Iran targets US military radar in Bahrain in  (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | SpaceX Starship returns to landing pad from o (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [2 outlets]: Police Recover Revolver and Nine Rounds of Ammunition in Thambuttegama
-    important (also on Ada Derana) - researching
+* Billboard [2 outlets]: Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & R
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [1 outlets]: Drug kingpin Shiran Basik to be detained for further 90 days of questi
+* Ada Derana [1 outlets]: Sri Lanka reach Asia Rugby U20 Sevens semi-finals but Hong Kong China 
     no AI summary: saving the rest of today for important news
-* Newswire [1 outlets]: ICC announces major tournament schedule until 2035, confirms Olympic c
+* Hiru News [1 outlets]: Development projects promised in the budget must be delivered in pract
     no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Starshield restrictions help Russia’s energy attacks on Ukraine: Zelen
-    important (also on The Independent) - researching
+* Reuters [2 outlets]: Sayers says he believes entire Australia team knew about Sandpapergate
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     -> no cards; posting with the site's own summary
-* BBC World [3 outlets]: Iran targets US military base in Bahrain with drone attack
-    important (also on Ada Derana, Al Jazeera) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: BBC World, Al Jazeera
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -67,31 +78,6 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
@@ -103,8 +89,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 34, BD 38, US 38, GB 38, IE 34, CA 37, AU 35, NZ 29, SG 30, MY 34, PH 32, AE 38, IL 35, NG 34, KE 29, ZA 31, GH 27, FR 34, DE 33, JP 7, IT 34, ES 34, BR 34
-
-Posted today's Top 10 round-up
+Countries: IN 38, PK 33, BD 38, US 38, GB 38, IE 35, CA 37, AU 35, NZ 30, SG 29, MY 34, PH 32, AE 38, IL 37, NG 37, KE 29, ZA 31, GH 27, FR 34, DE 33, JP 7, IT 34, ES 33, BR 34
 
 World Pulse not made this run: no AI available for writers
