@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 73/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 75/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 66 stories
+OK   Ada Derana: 69 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
-OK   Daily Mirror: 37 stories
+OK   EconomyNext: 21 stories
+OK   Daily Mirror: 44 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 11 stories
 OK   Daily News: 15 stories
-OK   Sunday Times: 89 stories
+OK   Sunday Times: 88 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -23,46 +23,22 @@ OK   CNN: 29 stories
 OK   Reuters: 99 stories
 OK   AP News: 91 stories
 
-Biggest stories right now: South Korea's top scorer in tax accountancy e (6 outlets) | Iran targets US military radar in Bahrain in  (6 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | SpaceX Starship returns to landing pad from o (5 outlets)
+Biggest stories right now: South Korea’s top tax exam scorer admits usin (7 outlets) | Philippines’ Carmelle wins first Eurovision c (6 outlets) | Former MP M.K. Sivajilingam passes away (5 outlets) | Iran targets US military radar in Bahrain in  (5 outlets) | SpaceX Starship returns to landing pad from o (5 outlets)
 
-5 new stories to post
+4 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Billboard [2 outlets]: Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & R
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [1 outlets]: Sri Lanka reach Asia Rugby U20 Sevens semi-finals but Hong Kong China 
+* Euronews.com [2 outlets]: Two aircraft collide at Miami International Airport
     no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Development projects promised in the budget must be delivered in pract
+* Hiru News [1 outlets]: Selling fuel at landed cost would drive prices even higher than curren
     no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Sayers says he believes entire Australia team knew about Sandpapergate
-    important (also on Hiru News) - researching
+* Ada Derana [1 outlets]: Cadet movement vital to building disciplined youth – Defence Deputy Mi
+    no AI summary: saving the rest of today for important news
+* New York Post [2 outlets]: Turkish husband, who pushed pregnant wife off cliff, released from pri
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -78,10 +54,26 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
+  photos: looked up 24, found 2
   photos: 4 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
@@ -89,6 +81,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 33, BD 38, US 38, GB 38, IE 35, CA 37, AU 35, NZ 30, SG 29, MY 34, PH 32, AE 38, IL 37, NG 37, KE 29, ZA 31, GH 27, FR 34, DE 33, JP 7, IT 34, ES 33, BR 34
+Countries: IN 38, PK 35, BD 37, US 37, GB 38, IE 36, CA 37, AU 35, NZ 31, SG 30, MY 33, PH 33, AE 37, IL 38, NG 36, KE 27, ZA 31, GH 27, FR 34, DE 33, JP 6, IT 33, ES 31, BR 33
 
 World Pulse not made this run: no AI available for writers
