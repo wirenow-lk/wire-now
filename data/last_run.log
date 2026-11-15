@@ -1,116 +1,83 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 47/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 51/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 55 stories
+OK   Ada Derana: 48 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
-OK   Daily Mirror: 49 stories
+OK   EconomyNext: 25 stories
+OK   Daily Mirror: 45 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 7 stories
+OK   Newsfirst: 8 stories
 OK   Daily News: 12 stories
-OK   Sunday Times: 89 stories
+OK   Sunday Times: 88 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 10 stories
+OK   Google Warnings LK: 11 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 89 stories
+OK   AP News: 87 stories
 
-Biggest stories right now: SpaceX’s Starship returns from orbit and is c (6 outlets) | Israeli air strike kills senior Hamas command (6 outlets) | Italy fines Meta $887 million over Android us (6 outlets) | Consumer Affairs Authority summons LAUGFS Gas (5 outlets) | Low-pressure area in the Bay of Bengal likely (5 outlets)
+Biggest stories right now: Israeli air strike kills senior Hamas command (6 outlets) | Italy fines Meta $880m over photo privacy (5 outlets) | SpaceX Starship returns to landing pad from o (5 outlets) | Consumer Affairs Authority summons LAUGFS Gas (5 outlets) | Low-pressure area in the Bay of Bengal likely (5 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* OdishaBytes [1 outlets]: Possible Cyclone Akvan May Become Very Severe With 145 Kmph Gusts On N
+* Newsfirst [2 outlets]: Cyclonic Storm Expected to Develop in Bay of Bengal by Tomorrow (16th)
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Business Today [1 outlets]: Cyclone alert: Bay of Bengal storm keeps Chennai and Andhra coast on e
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [1 outlets]: Hiru News 11:55 AM | 2026-11-15
+* Ada Derana [1 outlets]: 23-year-old alleged father of baby born in cave released on bail
     no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Opposition leader calls for rapid deployment force to protect tusker p
+* Hiru News [1 outlets]: Sri Lanka’s Foreign Affairs ministry spends Rs. 87.2 million on overse
     no AI summary: saving the rest of today for important news
-* Ada Derana [1 outlets]: No technology can directly locate fish stocks across the ocean – INORA
+* Ada Derana [1 outlets]: Clean Sri Lanka programme reviews progress, outlines major projects fo
     no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Yemen government forces withdraw from area near Bab el-Mandeb Strait, 
-    important (also on Ada Derana) - researching
+* Reuters [2 outlets]: Cape Verde votes for president with emigration in focus
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* BBC World [3 outlets]: Fifth Canadian soldier dies from injuries caused by large fire at mili
-    important (also on AP News, NBC News) - researching
+* The Guardian [2 outlets]: Iran targets Bahrain airbase as strikes resume in Gulf - Middle East c
+    important (also on Al Jazeera) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: The Guardian, Al Jazeera
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
     -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 7 too small to look sharp, using the clean cover
+  photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
-  "error": {
-    "code")
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code)
+  headline translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 13 story pages for Google)
 
-Countries: IN 38, PK 33, BD 38, US 38, GB 37, IE 33, CA 35, AU 37, NZ 31, SG 33, MY 33, PH 31, AE 38, IL 35, NG 32, KE 29, ZA 31, GH 24, FR 34, DE 33, JP 8, IT 33, ES 34, BR 34
+Countries: IN 38, PK 33, BD 38, US 38, GB 37, IE 32, CA 35, AU 37, NZ 30, SG 33, MY 34, PH 31, AE 38, IL 36, NG 32, KE 28, ZA 28, GH 25, FR 34, DE 33, JP 9, IT 33, ES 34, BR 34

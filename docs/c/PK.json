@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-15T09:44:40.331986+00:00",
+ "updated": "2026-11-15T10:18:19.802156+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
+  {
+   "id": "cf7066c0c2",
+   "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHkwYVRvV1VxeS1ic2F0eUJyRWEzTjg1OXQ0LUcyM080UXNNZEwzelZxbzl3eFdMUl9kVk1uMmFuYlBWWHJwclVWOUt6aXo4Ry1LMTFDWDhiNDdIQ3g0TV9rYTJtQmNKdHNkRlg3dktwUHBPM0x4cy1kMFdTMlhsWm15MXNGNTVfZm1vRWRKZktEaWh6OUsxTUdSQ2VuNURJUF9jRWtB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WIRED",
+   "region": "PK",
+   "date": "2026-11-15T10:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
   {
    "id": "f9001fe9e9",
    "title": "The Sky Today on Sunday, November 15: Mars and Jupiter in conjunction",
@@ -29,6 +46,23 @@
    "source": "The Guardian",
    "region": "PK",
    "date": "2026-11-15T08:54:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fc157194e2",
+   "title": "National Assembly session likely to be convened next week",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanNTNWlNY01DOUFZeC1CMUZ5UlJIQWhtRXQ5RmhjNF80UXNXMXZxX2doM3dLMWptcTZvaHVhNENpa1FpNFA0bm5BVTItQjNRNkc0SFROUzFGU1JXa3BYNE1fRXlncUdTSjZ0aElPRlJDalRRdExXbDdJVEF5OEl0OXhMeWZDekNsdVFVQ3BMZU9vQ0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Nation (Pakistan )",
+   "region": "PK",
+   "date": "2026-11-15T08:07:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -164,6 +198,26 @@
    "topic": "Society"
   },
   {
+   "id": "1362c3c968",
+   "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "PK",
+   "date": "2026-11-15T06:18:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Saudi Arabia",
+    "place": "",
+    "flag": "🇸🇦 🇾🇪",
+    "also": [
+     "Yemen"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "5e32c53ddd",
    "title": "Global Oil Prices Plunge for Second Straight Week; Vietnam Retail Prices Fall for Fourth Time",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1QUIxekNHQVFGR1JTYkRSZFNHbmJKd2xDLVBDTFZGdktPRHZSMTRqbWpLcDhMeHdyVFZEQkgyTXJNZjh4WTVhdV9fUHp5RFY0dExfZ1VrNTlwZ1NxY2Y2X2haQ3hkWDAzSEZudlpRa1RLN0ZBM1E?oc=5",
@@ -249,23 +303,6 @@
    "topic": "Society"
   },
   {
-   "id": "7a90de7264",
-   "title": "Kundi revokes all gold-mining leases in KP",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNFozMzB6dHpVSngyTzJuUGVZbC1CakR0elV3cHpjTW9EQVFtbWNuZHZwY1FENjgzaUtHcno5OW93WWJEdFhaa1pTeW9HQmpqOTAtMUVWZVdGbkZyMl9lc3pwTmo5TmM0bnQ0LWZrTzR0cnZ0OEI2N3R1SmltdFhyZ3lR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-15T03:03:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "67f5c4f35d",
    "title": "Blue Area’s digital parking plaza finally becomes operational",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzBLWlF5cjFWV3NGNjVFUHJ1RFBxb0F5WFN4MXZvY2QzU0pkQnFOSGY2R3kxclAyQWZWOUctQTRsZXBOQ3VIRXBEX0pRaEVGR2lTM292VWlZSzd5dm9Ha01XRENIMVhfWlVSQ2s3UUxvQ1VBUkZLNTEwVU0tTkM4WjMtUzlKUUVweHM3eV9Ddkk4MjFTMTZIWlh3?oc=5",
@@ -315,23 +352,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "f26458310f",
-   "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWNvcDREbHZiSXNEQkpxS1dFb3NzcldSd1BDdDY1aTdBSWtDaXZOSWc0WU01XzJwQU5EWU5iVGVfeGVXUW8zYm0zaVJSeHgxN0FUXzBJOWFLR2pmTElZdnJFbVdqZDktSk5ySmZzQzEtclhobmYwenUxanhjSU5vampR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "PK",
-   "date": "2026-11-15T00:27:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Business"
   },
   {
    "id": "3bd8243683",
@@ -462,40 +482,6 @@
    "topic": "Society"
   },
   {
-   "id": "71b877b0c0",
-   "title": "NCCIA warns youth against joining illegal call centres for lucrative salaries",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWclZDUU1TSmxGWUhCUUhaaUFfYi1fNlp5Qi1nV3dYd1I1Q0xlUkpqLUxHNTZMLTRrbnV0VEdpSVVaZTBjaHZDcQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-14T13:53:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6c75ac6bdc",
-   "title": "Samsung's cheap Galaxy A18 5G could be coming to the US sooner than you think",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHphdkM5aDlZUXFMai1NN1VXRUU0RzlfLTVDdHRtWnBTNWFMb0ZjUG5qLUJYOXltZzltN0VmT2d5MDhjUHV5Vm9uenVDM1FrTG9fRzFsRjRCTU8xbExSM3k4UksxT2J0LVhtQkVTUUYtNzVwMEh4MkJmaGhUNXJvODJkU1JYWmdtLUREM243YjZ5a0xTMHVsZG9kSnVzc0htNVBsVVFYUHRfV1NNUVdSakJwWDJ1bkNS?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PhoneArena",
-   "region": "PK",
-   "date": "2026-11-14T12:39:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "397325b257",
    "title": "Snowfall strands passengers, cargo at Khunjerab",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OLU91SERXT2paVXcwSk1UbGJ3eDFYMkJ2RGRWdjRRVV9NblhjMWRZSGpIelFIdzE4MV9mNG5Sd3B0ZVB1YnBiUg?oc=5",
@@ -562,6 +548,23 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
+  },
+  {
+   "id": "c8f4e7680d",
+   "title": "Samsung’s Budget Galaxy A18 5G Appears Headed for a US Launch Soon",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHZEZWRxSlgyOTZwQi1MMkdjR3NxUTRld2xrVEVRUVllZGZEMDhLS3dVeDZEY0FBTkJMM0k5a0p6ZXE0Mm1PUVpiM3ZJMTU2SWRGSkhZNzNiUDhIUHlTOGI0eWFvNGN0LVFIOVZiM0N1TGdDYjBxazhGWUdxWHIxTy1iVGhKOTRaYktQcGVtZWw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Android Headlines",
+   "region": "PK",
+   "date": "2026-11-13T17:52:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "b570f6c973",
