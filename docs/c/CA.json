@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:18:19.802156+00:00",
+ "updated": "2026-11-15T11:13:13.255080+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "SwiftCurrentOnline",
    "region": "CA",
    "date": "2026-11-15T10:05:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9ece4a63d7",
+   "title": "A dementia diagnosis is devastating. What happens when you’re only 48?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkxzWFlyYzFfUHRxRDVWVURRXzdDUTJJSEJrV284N016WFk1S2UxNmtvQ1l4WHpOYlM4QkJXbVFFTkZSaTFJUGtIaHVrSklzMzNwa3BnR0hUbm54dExaT3IzazFCYXViTUxlQUpaZ3ptSXAtV2lEQll0YzNlRUx0b1AzVWN6ZERqWFA2NF9yQU92REhLdDVrMDU3X3Jobl9mUUpsNEZsV0xaLUk0cUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Lethbridge News Now",
+   "region": "CA",
+   "date": "2026-11-15T09:16:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -38,40 +55,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "b2675912cb",
-   "title": "After injury vs. Guatemala, Alphonso Davies headed back to Germany",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFRfSHlVZGlRb0VtcXRUaWY1MU1ZWGU2dmFEdlNndllMYkx5bWxzOTFpeHJpVkhMUzlCVWMzV3VIYU9WSVdneThlU1pfTWZlTHh3N1dKNlRqdF81SWlucm1HcUtTMlA4ek9NejQ0WHBoVEYyVTY0eGk2MFlGTlVLVVFlak15OFhXZ2U4dktFOWVlOGtvMVNmamRUSE9ERzhReXZYamZvenFoTHhLX2ZObzFIUE8zd0h4ajJCczd6RmRoQnVHWXhKaEtUNVZZb0tjeVpLVw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bavarian Football Works",
-   "region": "CA",
-   "date": "2026-11-15T07:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a434cf280a",
-   "title": "Jets complete second four-goal comeback of season vs. Blackhawks",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDBQOWJIQm83Yk1CNzQzbmFSdXRKYWZKTjBkS0VVb3d4R1dKVlN5MmptczRVbHRRMVRPTzNvVjJzWnkyNDA5c29UODA2dDh2YTJwQ1pVV3NXNUlYXzRkcW1aVjB1cUgzQzg0NTltbjd2VElfa1pITW9hNjJqcE93MjJYM0cwdnVXVllnMWl1eGJDWm83cDNVUkpjdWNKU0tLeWNz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sportsnet.ca",
-   "region": "CA",
-   "date": "2026-11-15T06:42:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2ef1d61101",
    "title": "McDavid’s season-opening point streak hits 21, Oilers blank Maple Leafs",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcjZmbEtmT05XN3BjYUdhRTNNZDYzS0lwLXV6aHVuaW5qNmFJWUdBdHczemNueDExV3hsZHdRM2tydVUwX0JWRUd6TG5XTVVYMUNhclR2bTIzOU8xQXo4SWtMaTIyd2VZOTZUeDdDOHZUVU8tamFfcTg0OGpNT1dpcFpPM0k0WTBNRHptTXhvdEhEUQ?oc=5",
@@ -89,19 +72,36 @@
    "topic": "Society"
   },
   {
-   "id": "a25c2e8e94",
-   "title": "Ebola outbreak remains out of control in Congo 6 months into response",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWHR6cXE3MzhjV2J1MjhuNzE4VmRUWjVndVFjMHEyUTdKZ0NuRktwcC1qRWtrdWVESWFYRDRIN1pQXzBGYnRnN0tsNXJyWFpjNlJPQmc5RFR3WXh0VEVkblhzU0p2TVU3SFBsR2VNcUdOZml4S2x0S0hrV3FvSGFTdHhocTR4MHRXQTdLR3RoMDhsMFp1ZEFpVjZDRks4ZEt4NFJOYV9OQ0NDWjhBRGxLUzNORExVZHdOck5fdjFycE1SMi1TMWFCeFVkM200dHBhRW9TTUt5VU96VnVOd3ZEdjdTNV9kamV0SjJKQzBmRjNwUzZR?oc=5",
+   "id": "7b200ee351",
+   "title": "Canadiens fall undeservedly to Avalanche days after unearned win",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU5jelF4TGVnX1JyeWQxTkE5THM0cDY4YzdYd21ubXFhVzM4TzlsSnVFSFpmZjFELTRYRDNwMS1mX3hMbWJDMklKeGxIbnBlNy1UTGNlT05QTm0xVXZlZVFMVnV6US1xOHhFRUZBeGFvbDVvTzFfcmZTODVDYTdfZUFmUmRkRm9Ka1VlTUZFUk83U3RncTlNaEJvek4?oc=5",
    "summary": "",
    "image": "",
-   "source": "thecanadianpressnews.ca",
+   "source": "Sportsnet.ca",
    "region": "CA",
-   "date": "2026-11-15T05:03:23+00:00",
+   "date": "2026-11-15T05:03:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Congo",
+    "country": "Canada",
     "place": "",
-    "flag": "🇨🇩"
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d2bb81d285",
+   "title": "Member of the celebrated country and gospel group dies at 83",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNkJYTXNzZGpLMlVSaEhLUVZmZU5hbmpmUHdmZXZyOXR1ZFBQUEF1MzNDdldhaUdkWkR1aHlJUS1uQ3lBaWtiRGExYjFuZDJKN0NWdi04aTVES00zbVkwRDJDTFNOWDZZTVloQU9ubWNLMUNrU0FLZXBDRWR3TmtsdDNCTGFpdThTRWV2TDVveDJiYjZDNmRBc0dobEd4cUE1R2h2Rm85azQ2WDN3eld3Z0ppWnRfWV84ZlJVc3p6ZDZTMk02OFlaSldrZkRVSnFHbmFTYmhFUUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-15T03:09:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -140,6 +140,23 @@
    "topic": "Society"
   },
   {
+   "id": "17d968c3cb",
+   "title": "Video game community rallying to save Mass Effect",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVEhmaHlURUlqbXJvZ3YwQ0hWR3RtaUwtWThEa1AzRkZNUHg4MWY0d1FHdTRydXVXNTdrUkpUQmFieHRSMU0tb0NkZl80eXIyZkE2SzdOaWRPTWJhTjZ0YTB4MUJMZENuS3M1UVZienlBZTBUeUN4SjNPUnBUcHhmdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo News Canada",
+   "region": "CA",
+   "date": "2026-11-15T00:33:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "94b2ee191c",
    "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
@@ -156,6 +173,23 @@
     "also": [
      "Canada"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3203950ad0",
+   "title": "Scheifele sets Jets points record as team rallies from 4-0 deficit to beat Blackhawks in shootout",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWIxYTU5MnpLQVJNcGQ1WXkxb052NVd0RmRJMHp4SUNoYktZd1Y4WWFNeEJpTUhrdlN1N2NIdDByeGh3NjF6ZmkyT2lBc2NYZFBDcUV4WVQxY21xT0QwZDNkbzAyMGEyQ1dVV0p5X2EySFdxei1QQnB5eUplQmxyRUxncFhCTTllTFRjX2hFSGdqYlFOekVfX1FfdWw0b1RQY1FkZWJMck9odm9yS3B5bThoa05JVnVLekRpcTY5QmZvM3dyRUtySw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TSN",
+   "region": "CA",
+   "date": "2026-11-15T00:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -194,23 +228,6 @@
    "topic": "Politics"
   },
   {
-   "id": "c506bab24d",
-   "title": "Minimum wage hasn't kept pace with the cost of living across Canada, new reports show",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSUFRfYjhJdkpmNkpUQ0MtRUxfOHlCOTFXMTFoWWZ5VzBJRUpNWUp5TUlvQXpvbGpXNEFmMndRVTZtbHdqck45dE9Uc0pmcTBSWE5wZWx1cnY5SnJSUkJCU1hibldYVWYyZlBtdE5oYnZoNlk4MU4xOUNUSl8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-14T22:36:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "12a4cae1e5",
    "title": "Premier says Quebec ready to vote independently from Canada for Francophonie leadership",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenAzeEFGcjVKS1BfOFk5SlBac1hVaUM1c3RaSEZiTWQtemlYR2pRSTJVVXRxTlVmNEhFbnZ3c2dTRFpyczJSOWNoTEJLcDFnWVkwSVdOMzhkOVdRVms2N29GMHowbXdyeHA0QWo1YmNrNE1ENEZjNWMtUWJXbG9XSHBLZmpxdXVrb3hBMjVaa3k5azhydFFVWlNmUlVlVHhj?oc=5",
@@ -226,6 +243,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e61fcae106",
+   "title": "Government faces calls to stagger age of consent after Russell Brand allegations",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXdsRWU5dzF1UHRVQ0R0c2pGdUFoeWZCRFpFeEdUUHJlMWpQX1NvWDZCNzdFMURJM1hzalRSdXQ2VDMxcThyTnhLSnp5NUNLRDhzUkV0ZUVfRV94aXJPZW5ndURVTUU4a0dqWmEwcFozdzMxOXhqWmd5NWN1QjFGWXJqby1IM1hLV0ltZk5FM2lrdnE5OFNRdl96MlM5NEdCeGJObXp4TkhERlFuel9jQ05mdXpiLVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ITVX",
+   "region": "CA",
+   "date": "2026-11-14T22:31:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
   },
   {
    "id": "7b45bc9c44",
@@ -296,6 +330,23 @@
    "topic": "Society"
   },
   {
+   "id": "0dabf457ca",
+   "title": "New Orleans port sues to get control of tanker that crashed into cruise ship",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HRkhKUHNFamNSRkloWE44dDVjbk93SHp1NXdtaXpNWVd6bm0wTWhPRVZXNVZZY3dBV2RsM1NqSkdZWHRXYmJmampRZU9Mek95a3pZUVpTV2t5WW5INTlGRUNCS1JZWmVEcVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-14T20:35:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4bf884cd98",
    "title": "The Chinese spy allegation that toppled Nvidia's CEO is starting to look shaky",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTNUMDdhTjZBOXhTMUpjTVZsdm9oM1hDRkdhblZHTTlEbzFlbVgxN0VtUVdXMlVNSDNaSldFTS1VdkhpUzBvZ0x4SUxRbWV5SHVMc0RUNmt3dUxUTHJEVGF3RHdxbER1V1dxVU9hY0g1dEpZdE1WVGVQNlFCRlY4S1VqaVN2aG9zazBGUDJwZWt1WHcwai14X0ZhNkhoeXNUcG83Zw?oc=5",
@@ -313,23 +364,6 @@
    "topic": "Tech"
   },
   {
-   "id": "e1ee31decf",
-   "title": "Woman who alleges she was raped by Russell Brand waives her anonymity",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1J1bGw2Mkg0WnVxLTdvcVVfb1RESm9jcUhkNHRIbDlLRGNCLXU3aHdnQzdEU3VVNW91TjViU2xpN25Sd3pwMERCenVPWGtLMG1hQlFkakNuMU1BbGs4QkpLTENpc29SRTItNEdlVGRhdHdkY1FXaUdrTm9fX0dZd3hxY1hiWmNWUGtKT2JqTWdITDhoT3I4clR1T3dadzNyVEZKZVVOVFc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ITVX",
-   "region": "CA",
-   "date": "2026-11-14T19:55:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4404e56b3f",
    "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
@@ -343,6 +377,23 @@
     "country": "Peru",
     "place": "",
     "flag": "🇵🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "334fabfb84",
+   "title": "SpaceX Starship successfully re-docks at Texas launch pad after orbiting Earth",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPME0zbnBYeHJya1lVdm84eTYzb0s1ODUwYUpERHY2aGd0Zy1kZTFPLXFJQW5QSDlILTBwOUotMG1RLXNxNHlvcUMyUkVKWWtTU1NsZGNJNGNtbEpuSlkwYnZDaUV4SDY4RzV5NktjQ2xNSlhONXNjXzJNSnhaLUMxZ2ZR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-14T18:29:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -381,40 +432,6 @@
    "topic": "Politics"
   },
   {
-   "id": "3831c6d1f9",
-   "title": "SpaceX Attempts Upper Stage Starship Catch After Booster Explodes",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRmJwUG9maVo0RlJSNy1SNTZJM0NWbXZPWVhjbnpKSFIzTUUyQ24zRWlvVmxiWWFySDU3eXR4bnY5UGs5LTdTWTQ0R3FYQXNwRGc0NlU3U1dlaHZEMHB5ZXM5OGdQZGZYeUNSWXhZTmRtQmpHbWl2UWRERGtzZVQ5emVKT2ZWd0dVelJ5akt2SVdzUkJj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Gizmodo",
-   "region": "CA",
-   "date": "2026-11-14T17:22:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "25ea0ae42f",
-   "title": "Kings earn point, look aheadto rematch",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXdZdFFmU01Ybnh0eVNxTGZyV053dzRJejlxTzFkcDI3eXE4eGg5MmJySkNMWFBkZ25oNkl1VzZhak8zcFFvYjJyaWJkdTRGSDVWWTJNSTRQbDg1Tmxjd2JLb0pSNU0wN1Vod2hVSjRSQUlFZXFqc3NzQjJuRHkzMFppVG43QkZCWnp3R2xLS3ZfT0F0NFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Penticton Herald",
-   "region": "CA",
-   "date": "2026-11-14T16:00:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e533ca409b",
    "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjJVeVVUUTMxUjhqRXBIUzRwMW5pSTFleld2QWM2NERxQ0JYSkR3YllRd09oQWVtYUI2UVFQMWZGY21GcFdFNXNackNXcXhiZldCdHRhd25BVFdPaWUycW01MXZ3NWRtT0l4eXM4NjZXcDBoRG1XSVh1TmVTY2dpRjl1UzBfaW1lQ0k4ckFwQjNVakRmVFZDYTdiaFdKUkx0cnFfUURzY2dwUlHSAbABQVVfeXFMTUp2dm9kYV9UeTdPdkVzOE5SWTUxQXVZeXdqZ242UnRPRmlGZFBoUE1lenVwUG5uLW00VTh2Z2J2V1pjWGtELU1VNk5xazBvNDFaVVQyUVRjUUZyOU1DLUt1ZFJtaW9SbEl1US1vdlVxVVMzaGRDSnUwWnZRMWh5NjJzcWpfZFVsLXI0MnlfTWRsbmxZcWFyT0NnTVc0VS1kNUVMd0pkNUkwXzBzTHRvblE?oc=5",
@@ -432,6 +449,23 @@
    "topic": "Society"
   },
   {
+   "id": "69bbafa7e2",
+   "title": "Canada’s Stelco to recall 175 workers after government pressure",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMF9sNDNRbEpETmJIdkFWejNCdno1SHhubUdYbXItNHNZN09MMWZBSnZTRTJsMlpweFVUY2FwSHNWT09EckEwc2ppRDBiSU9TcnB5TnBSZ3dBMkRxRDhmc2hYWjU2MTJ6XzgwRUh5SlhhZVlaY3JuUURFUUxIQW1nYURhRHRIem5qdExkQjV5TDVQaDNoNUlMWFJEZlFiWm9zTVMtNG9LekVUVjDSAbABQVVfeXFMTWczakwyNnhMUjJpUGRpSU1IVkNGd2duSzR6cGtVLXZ5Vng4Q0FvdkhWaDQ0b1FYeFRNRGM1SW1xTDBkWkhUZmc0akZYQXZZLV9HcWtzbE0zdjRicmlsa1RsSTdwLWM5WE14bmsxS0lKQUdVQzR3c1dVZlFwVlNNYXhlUVN2Wlp5QzEySlhrT1FYeEZOU1R0cVFlZlVTVnVSMlFzc0V4RVhLM3RuWmNfaEI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "CA",
+   "date": "2026-11-14T15:16:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "579d7005f0",
    "title": "Former environment ministers say Canada’s commitment to climate targets ‘factually untrue’",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRDdYQ0JZQ3FLbVpXZDUwRENWcUV1Vk51bnhwLTY2M29meFhuMDU5Y0MtVE80SmNSdUtWN3JEZG1KOHI1NkliVkhtclhvODEzLVBtTTZJMkZZN1BiajRRUXlJSHpuazEz?oc=5",
@@ -447,23 +481,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "93be1f9152",
-   "title": "AEW Full Gear 2026 Full & Final Card",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTFvX1NjOUtuVktXZTFab3p6Y0o2dTh0c25JWEtTOC1XMjMxSjd0R1V4Zl9yOGJOX1IwbURBSDczekxOX0pKYXZGeXBkLTZ3ZFR2bEU2Y3ZzVTVVSjN3ZW40N1ZObWMxUmE2TUNLMGY4X3MwV3NnamNJM1dwQ0ZHcjBOeXpBWGs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Wrestling Inc.",
-   "region": "CA",
-   "date": "2026-11-14T14:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "f53f774c6e",
