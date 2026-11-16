@@ -1,11 +1,11 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 61/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 79 stories
+OK   Ada Derana: 77 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 26 stories
-OK   Daily Mirror: 85 stories
+OK   EconomyNext: 27 stories
+OK   Daily Mirror: 80 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 17 stories
 OK   Daily News: 72 stories
@@ -14,64 +14,31 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 14 stories
-OK   Google Top Stories World: 53 stories
+OK   Google Warnings LK: 17 stories
+OK   Google Top Stories World: 51 stories
 OK   BBC World: 23 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 94 stories
+OK   AP News: 97 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (12 outlets) | 17 killed in two mass shootings in South Afri (6 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (6 outlets) | James Bond live updates: Robert Pattinson nam (5 outlets) | UK's Prince William, Princess Kate begin Indi (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (14 outlets) | Trump backs return of ex-Nvidia boss after 'B (6 outlets) | 17 killed in two mass shootings in South Afri (6 outlets) | Tanker Steering Failure Led to Cruise Ship Co (6 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (6 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [3 outlets]: Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidi
-    important (also on Ada Derana, BBC World) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: Rare Titanic ticket expected to fetch £50,000
+* Daily Mirror [2 outlets]: FBI team to visit Sri Lanka to assist probe into online scam centers
     important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The New York Times [2 outlets]: Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field
-    important (also on AP News) - researching
+* Newswire [2 outlets]: Parliament committee advances tech and community measures to mitigate 
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* AP News [3 outlets]: Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with X
-    important (also on Ada Derana, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [4 outlets]: Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
-    important (also on BBC World, CNBC, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: The Guardian, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -80,54 +47,43 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
+    attempt 1 rejected: The spoken card says the committee did not say what comes next, but the article does not state this.
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* Newswire [2 outlets]: Ansell opens global service centre at Port City Colombo
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Cargo ship capsizes off Bulgaria’s Black Sea coast
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
-  photos: 12 too small to look sharp, using the clean cover
+  photos: 13 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 16 story pages for Google)
-
-Countries: IN 38, PK 30, BD 37, US 37, GB 35, IE 35, CA 37, AU 37, NZ 27, SG 32, MY 38, PH 31, AE 37, IL 33, NG 36, KE 32, ZA 34, GH 32, FR 34, DE 34, JP 7, IT 33, ES 34, BR 33
-
-World Pulse not made this run: no AI available for writers
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check: 15 stories judged by openrouter:openrouter/free
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
