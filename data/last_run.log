@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 24/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 75 stories
+OK   Ada Derana: 78 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 8 stories
-OK   Daily Mirror: 37 stories
-OK   Hiru News: 95 stories
-OK   Newsfirst: 12 stories
-OK   Daily News: 60 stories
+OK   Daily Mirror: 38 stories
+OK   Hiru News: 100 stories
+OK   Newsfirst: 13 stories
+OK   Daily News: 64 stories
 OK   Sunday Times: 58 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,57 +21,26 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 98 stories
-OK   AP News: 82 stories
+OK   AP News: 79 stories
 
-Biggest stories right now: 160 questions, only one wrong: top scorer in  (7 outlets) | Prince Harry Says 'You're Going To Win' On Uk (6 outlets) | Jordan sentences three men to death over dead (6 outlets) | Former Speaker Chamal Rajapaksa’s wife passes (6 outlets) | Hundreds of thousands of Czechs rally against (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | 160 questions, only one wrong: top scorer in  (7 outlets) | Steering problem on tanker caused collision i (6 outlets) | Hundreds of thousands of Czechs rally against (5 outlets) | Britain's Prince Harry visits war-wounded in  (5 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newsfirst [1 outlets]: Three Arrested with Over 12Kg of Kush at BIA
+* Newswire [1 outlets]: Four-year-old girl dies following three-bus collision in Rambewa
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [1 outlets]: Three suspects including 17-year-old girl arrested over murder in Horo
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [1 outlets]: Two Sri Lankan passengers arrested with over 8kg of ‘Kush’ at BIA
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Anthropic is about to become the world’s most important AI stock
-    important (also on Bloomberg) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily Mirror [1 outlets]: Is the ADB loan allocated for health being used as a weapon?
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily Mirror [1 outlets]: Sri Lanka Latest Breaking News and Headlines - Print Edition
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [3 outlets]: Yemen's Houthis say they launched ballistic missiles towards Riyadh ai
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [3 outlets]: Prince Harry in Ukraine meeting Invictus 2027 hopefuls
-    important (also on Barron's, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -81,32 +50,63 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Detail 1 says Harry met 'the Superhumans clinic'; the article only states he met wounded veterans and medics (Superhumans organised the event), not that he met the clinic.; Detail 2 claims the Nationa
+    attempt 2 rejected: Blurb says 'three buses crashed head-on'; the article says two buses collided head-on and a third bus crashed into the rear of one of them.; Spoken says police are 'looking into what caused the crash'
+    -> no cards; posting with the site's own summary
+* Newswire [1 outlets]: Cyclonic storm developing near Sri Lanka, but moving away : What to ex
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Article says depression is 'likely to intensify' into cyclonic storm and 'develop into' severe cyclonic storm, but cards use weaker 'may become', 'may turn into', 'could become' in what_happened, deta
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     cards OK (attempt 2, written by openrouter)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: Details claim Harry 'supported by giving prosthetic limbs to those who lost them in battle' — the article says the Superhumans Center provides prosthetic limbs, and Harry supported the group; it does 
-    attempt 2 rejected: The cards state Harry visited Kyiv in 'April and September 2025' (in both key_facts and spoken), but the article says he visited Kyiv in 'September 2025 and in April this year.' Since the article refe
+* Bloomberg [1 outlets]: Nvidia’s CEO Search Draws Fire With Bessent’s ‘Shakeup’ Call
+    no AI summary: saving the rest of today for important news
+* Ada Derana [2 outlets]: Oil prices fall on expectations of coming supply surplus
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Sri Lanka police to introduce new uniform in June 2027, inspired by Ca
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Bessent says Nvidia must 'go outside the company' to find new CEO
+    no AI summary: saving the rest of today for important news
+* Reuters [3 outlets]: Toronto Tempo win 2027 WNBA Draft Lottery, earn No. 1 pick
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: Australian lawmaker leaves hospital after losing both legs in car atta
+    no AI summary: saving the rest of today for important news
 
-Top 10: 1 fully explained
+Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
-  photos: 5 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: 2 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  Fact Base: 9 facts and 0 people saved
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
 
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 15 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 16 story pages for Google)
 
-Countries: IN 38, PK 35, BD 36, US 36, GB 35, IE 32, CA 37, AU 38, NZ 30, SG 29, MY 35, PH 33, AE 36, IL 34, NG 31, KE 27, ZA 33, GH 26, FR 34, DE 33, JP 10, IT 33, ES 33, BR 32
+Countries: IN 37, PK 32, BD 36, US 36, GB 36, IE 31, CA 37, AU 38, NZ 31, SG 30, MY 33, PH 34, AE 36, IL 32, NG 31, KE 29, ZA 32, GH 29, FR 34, DE 33, JP 13, IT 33, ES 32, BR 31

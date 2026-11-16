@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-16T02:50:54.176800+00:00",
+ "updated": "2026-11-16T04:00:35.764272+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
   {
-   "id": "f770f440f9",
-   "title": "所得の落ち込み、生産より深刻 7〜9月の実質国内総所得",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mNGVUZzJ3UW1vUU92WGV5YXZOa3NjUkpOS1BPUDJSTU1aTXNWMjl5el9fbjVvT3ZhNXdfWGZjR2lrNUhHd1ptZ3JpSFF3X1FVcmN5VFV3MmxmNVFRaXFmOUpyUVljemtqU3VVTA?oc=5",
+   "id": "cb585ff386",
+   "title": "Apple Vision Proが魔法の筆に!? バルセロナを熱狂させた、せきぐちあいみのVRライブペイント",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fZWE0MkZuTEc1TzFWeEJydC1EeW1veFhSY1JlbF9iWVVZUlpqNGZ3amZoV1pENVJPQmVDenRkY2dHanc0ZUVKTlJBa2wyVi12TEpQSw?oc=5",
    "summary": "",
    "image": "",
-   "source": "日本経済新聞",
+   "source": "ASCII.jp",
    "region": "JP",
-   "date": "2026-11-16T02:18:38+00:00",
+   "date": "2026-11-16T03:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "da68abcc8e",
+   "title": "「iPhone Duo」耐久テスト、45万回超の開閉でヒンジに異変 完全に開かず",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBZnczMTNHQWJObGYxdmpoNWM0N1B2VEZuVXFOU2tPWHg5eUhfd3FKVjA4S0lKU2NCZEs3Vl9CamFGRi16UzZ1YUdRU25XaGVWYXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNET Japan",
+   "region": "JP",
+   "date": "2026-11-16T02:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -21,14 +38,31 @@
    "topic": "Society"
   },
   {
-   "id": "d2b165a31d",
-   "title": "NTTドコモ 全国で通信障害 今月3度目",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsa0pvd3F1MzlnbWp3WVE5Ykk3UnZLVS1DSDRFNTJRSzhkc1lQSXpYT3RuM0U5TnFRV1R1TVhKWVAweVJISnVMcnpXNV9rVFlJeGJhN091eEFBY2VkbUlv?oc=5",
+   "id": "0d45e43908",
+   "title": "7～9月GDP 年率換算で-0.1％ 4期ぶりマイナス 個人消費減少",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKV2g5ajZRWnRoY3M4ZjllYi1SN1B4V2dDV29vbG1TUE93Mnh3bDUtcnVRNWJFRWp6V1h4WWtZMTRMeGQyRTAwdmFPZ3k1dlczMFh6VVc2VUFvVnhPQzVJ?oc=5",
    "summary": "",
    "image": "",
    "source": "NHKニュース",
    "region": "JP",
-   "date": "2026-11-16T01:53:00+00:00",
+   "date": "2026-11-16T02:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5d13153d6a",
+   "title": "日経平均午前959円安、尾を引くAI不安 ニトリHDなど消費関連に強さ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wRElibmtXQ2hmUVExbExSMU4wa1dkbV81MWgtS1QtTF9RbVNlWFFmX1VIVXBSZDV5QnNRcnpVNXE1Z0k4dzBsbkxKdEtmZmQzWm92eW1TNnJSakg5ZW1aUEF6UGNXaGtOd0dtNw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "日本経済新聞",
+   "region": "JP",
+   "date": "2026-11-16T02:42:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -55,6 +89,23 @@
    "topic": "Society"
   },
   {
+   "id": "6346104ba1",
+   "title": "福岡市長選なぜ再選挙…後継指名なく13人乱立、5党自主投票 〝高島市政〟継承訴え多く",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1lMYTZ1cS1wSnpCMVliS1htYTVwOVhSTHdacnV5Y3htbkxTc3JsNFVVNi1qSUJXNXZkTEtyR25nVGJkNzl4VTkwd0xwclNTaVZoMGFTNV9iTm9UWWk4WmRVWFRXb2dReHY0cmhndDduTjVyV3FwQ2k4bHlRVDB4d3JSOW5LT0JjX19FUw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "産経ニュース",
+   "region": "JP",
+   "date": "2026-11-16T01:01:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f087c30418",
    "title": "中国・河北省に隕石落下、重さ30キロの破片も 現地に「隕石ハンター」殺到 ネットでは90グラム約11万円の値",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiMFloNkctdDN5aHRMbmgwbWx2a1lSVU13N21zdHlPYm9DR2pNOEh6SHpKYXVIcUlUZ0N4bVJpaTlXZ1pya1RQTHBaOXpBUQ?oc=5",
@@ -72,6 +123,23 @@
    "topic": "Society"
   },
   {
+   "id": "c0d9c1aa3e",
+   "title": "【米女子ゴルフ】渋野日向子、最終ホールで痛恨ダボも…来季ツアー準シード獲得「伸びしろはたくさん」苦闘の1年「これが今の実力」（THE ANSWER）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcGVoWERBSkdJY2lUVHdiTmJWVENOS1l1S0VHZ1p2TEU1LXVieWRQUjA5b2RmU0FZempST0Jya0JLdHp6QS1lakVHQTFCMHAxbExoTlJYYWhqUXA3YnBxaEJSSXZ4d1ZXUExoYTZHby1Xa1Zza3plSVRfSHdzZUU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo!ニュース",
+   "region": "JP",
+   "date": "2026-11-15T23:57:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "8b3250533b",
    "title": "色にこだわるシャープが選んだ“スーパー量子ドット”。麻倉怜士「アクオスX9Aには揺るぎない色の安定感がある」[Sponsored]",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQSUFScjlIODVnbnZ2eDVwNVduWG9DM2NKU1ZZZDI0X2JiZ1ZicG5JcUc2eVpXN1Nwak1fNXZ0RkpQM3A0RE9oRkIyaWJBcEpsLWd4WUZwX3hnblZQYURHRndIc2ZsYzJyOWlRYk1jSQ?oc=5",
@@ -80,40 +148,6 @@
    "source": "AV Watch",
    "region": "JP",
    "date": "2026-11-15T23:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "12de1154b1",
-   "title": "【ヤフコメで話題】「正木選手のMVP選出見送りに賛否」「オーバーエイジ枠の影響を指摘」 - 侍ジャパン代表戦でのMVP選考を巡る議論",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQRzZuV2p5WlRnb3JzSFQzWHhsS0w2NW5oXy11WFZsd093aTcwYXRnYWZTQ3JkTFFyU3NPbVloelVrZWRDb3J5ZFBwa3JjM1Q4MnlaMTlwRXYyeGhld3luZkUwVUpleXRpVGxoeF9QdkNXS0JMLTRMc0JwTTVnYzg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo!ニュース",
-   "region": "JP",
-   "date": "2026-11-15T22:25:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8d68a20b76",
-   "title": "Access Accepted第879回：「GTA6」をプレイする前に知っておきたい10のこと。犯罪者カップルの歴史から，進化したゲームシステムまで",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5MHlFNnZ2bFhBU1RYLWxJVXpRUWxKYkJqSzFqVXE1Mm1KRWhHYzM1QVFZMFZvbUphVkIwdlV1NEVLT2ZKNjVEV3plSVZGdzdELUtzRURyS1ZtbVdfZ0ZXNnByQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "4Gamer.net",
-   "region": "JP",
-   "date": "2026-11-15T22:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -157,14 +191,31 @@
    "topic": "Society"
   },
   {
-   "id": "e9014891bc",
-   "title": "尼崎市長選 現職の松本氏が再選 新人の福永氏破る 投票率28.28％|社会",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yUHJEY1BUQ3hFR2EwaFZ1YW9NR05DczVLTURDZ0YzY0Niakw0UXExWXI5ZC1NZEI3MklkSm1mb2FWb3c1OTBmMUFfekxxa0s3RVhvWkJxQUUybFc1amhHeExqUzZwZ0hHSkdpTzFJZw?oc=5",
+   "id": "7a1f45b90d",
+   "title": "熊本市長に大西氏4選 投票率39・40% 前回から11・14ポイント上昇",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjM1RESTUzN0FGcmpNVmE2VHRUOG43Smx5UmxxUXo5WmdrSmV4YjRLQlNqNlBwNFlETVcxZHZ4dE9XUURfd3ZOV0RUUFlOems?oc=5",
    "summary": "",
    "image": "",
-   "source": "神戸新聞",
+   "source": "熊本日日新聞社",
    "region": "JP",
-   "date": "2026-11-15T14:54:34+00:00",
+   "date": "2026-11-15T14:31:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c15dfe5ec3",
+   "title": "大阪3歳女児虐待死 全身のあざは50カ所以上 暴行後は別室で1人寝かせたか",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WbmFTTFJzQV8zMTZkbzNwTmFiU3Nmb0QtMGw4b1ZBbkt2Ynk1VlRLc180WG9nT08tbHZ6UDVUR2dzNFFkb0t5eHMwX2pYMV9rUDRvMDJoZ3hxOHJvRnlnaFNBbmdDeTZROVA2RXRBV0FnTFl6YXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "産経ニュース",
+   "region": "JP",
+   "date": "2026-11-15T07:42:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

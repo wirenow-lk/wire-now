@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-16T02:50:54.176800+00:00",
+ "updated": "2026-11-16T04:00:35.764272+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
+  {
+   "id": "6db08cc55e",
+   "title": "The secret to building Moon bases may be hiding in emergency blankets",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KaUVsRFpqZzJWWUNnRjRXMV9vUkROVWk4Z0E3ZkJYTmR0anRmYS1ma3AwdC0teGpoUWd4bnB0ZEtObzcxTVZNSmpfN3VET0NqQy0xLTJzb0ZnOG5HQmN0WDVzXzBqdjI4S2dzTkdB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Science Daily",
+   "region": "GH",
+   "date": "2026-11-16T03:52:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
   {
    "id": "bf03e4345d",
    "title": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "Bloomberg",
    "region": "GH",
-   "date": "2026-11-16T03:01:02+00:00",
+   "date": "2026-11-16T03:46:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -21,8 +38,42 @@
    "topic": "Tech"
   },
   {
+   "id": "09e3f3fda2",
+   "title": "Estimation of individual-tree DBH and allometry-derived biomass of Korean red pine using mask-based multimodal deep learning from UAV imagery",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzeTNaV1JzcmxlVUJHcDVNZ0lYaFpFbnkyUHdoZU9NMzZMZnk5RmhVSTVEeWk3alpDcElmalFBa1JJSnE5Mi1kd0R2eW5ReXhWRVgxeEItM1R4VENrUnVR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "GH",
+   "date": "2026-11-16T03:23:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "69f881eda8",
+   "title": "Stretching magic-angle bilayer graphene produces giant swings in electrical resistance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2J3LW9TcG45M0x3TEE1LXMxTG5IT1ZjZkM4XzBpSUpEaTlRWTFJcUF1S0hkWWJuekJvdVREc1ZjUGFKSDhtVGs5eXlzdmZ2RDNVWnlYQWhHRzZyODJOSEk2WFRiVy1GZ0NxYUx1YjNmOUVGQkRVWHZKb0M5TVZTVEVlZU9jZ1JSdTN5dFJrcmRsci1xaGVmT2dGUm94TlBBWnFRUw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphene-Info",
+   "region": "GH",
+   "date": "2026-11-16T03:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c901538426",
-   "title": "Apple launches an AI health chatbot as part of a research study - ABC News",
+   "title": "Apple launches an AI health tool as part of a research study - ABC News",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRENhOV9sbFBJdS1ZM1ZCRU1HOXAwcVhZdEkwOXphREo4dU1IdnBmeHVnaTIzQW1KYjMwN1VRV3RfUXh5SzBoT19xVV9RdnFVWk9fTnd1WFhyVjVWMkNzN1ZBa2xNVFYzbm9Kc0VzallGVFYybnNodjAzRTRWSmQ5RjVnc3ppRzJEaWpZdmQtTkVnY3RMUWswUDVR0gGfAUFVX3lxTE1ySlpWclhiWV9zQnc2dUxfcG9xeHZQMGZWRnhsSTc2dG1qMXJnSjNPeDg4TE9WaVk2aGoxVEFWX2ttamhyRnYxMlZrS0xyRkthSjRDdzRVRG1RZTRVOXp1Y1FVbEJEQ0xHQzV3SkhXX0d3SF9VQUxKNGxFNzNCLXNmUng2TkUzRjhVLUVJYXpNTWNPbVlVeVRQOThnQ2dWVQ?oc=5",
    "summary": "",
    "image": "",
@@ -38,90 +89,79 @@
    "topic": "Health"
   },
   {
-   "id": "fff470581f",
-   "title": "ESA releases first major Euclid dataset for 3D mapping of the Universe",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUJ4eFY1ZTVkUVVkeEdnLW5wMlMtazJ0cmxyT3NBQXVfZWZ3MnBUbnJYVHZjZ3p0VDBuWHZaTmFJOUtKMXpBLVRsdTZkNGZKZkptOWhTREZHejJQUmhwNzJjYzRjUFV2X3hUV2tBOHFrV2FNVDNiS0VBcVBJbjFPMmVobUtVSjRsRXdLcnFIdG9XdVJ4TVgtQVYzTDdxUlE?oc=5",
+   "id": "005f9a1b7a",
+   "title": "Ghana, Denmark deepen heritage ties",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdnluUXc4WkNybnlxYU40SzRkbDhzd0c2cWhtNF9LV2g2WHFCcnZYNnU4RFItWDRFWmxBdGV0Yl9VN0pMMnc4OXlwVmNiTlQxSjB5b1VBOGI5ZDdWUzRaQlAtTWY4dDg2Skt2dHBQcm9ONXJ2aTZMOEFjY2VKUl85U2FnTjdMR2VNdFZHZ2h5RE11MVk?oc=5",
    "summary": "",
    "image": "",
-   "source": "space & defense",
+   "source": "BusinessGhana",
    "region": "GH",
-   "date": "2026-11-16T00:14:56+00:00",
+   "date": "2026-11-16T01:02:05+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
-    "flag": "🇬🇭"
+    "flag": "🇬🇭 🇩🇰",
+    "also": [
+     "Denmark"
+    ]
    },
    "topic": "Society"
   },
   {
-   "id": "af63e3567a",
-   "title": "Skip the Microsoft 365 subscription with Office 2024 for $103.99",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12S0VQMTUxLThVd01ZcDhiaDQ2eEVqNU9yR2hhUHRkN09ybVNNUVVERjNkYmVlSm16WUNWRjMwaXFxOEtMWWtzZk16V05ra1BQZG5VQVFsN19SWW1FcEk3RHhTaG1STlBEMS1temhWR01Uem51SDFic1RNX0ktQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "GH",
-   "date": "2026-11-15T23:24:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "393fccfde5",
-   "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2lydjlXbXNvd1o4aTk5aDk1VWo2c1BIQkRjazB5MjQ3dVdaMy1QRnNEcXB0ZGRBX0ZKM0lJcnpydnpHZVdQS3BoYVJZbzRiNFNLRENaNGlkLWxQYkJPR1IwMDBVMDYyR2ktQkJxRnF6QVhaSmlaR2dfQjFSdFpyMmprMUlzdVZKWXdpWHBFZDNzck45OW9idDVLSEc5bVFNSDR6aWp2MEdnbGRPQnAxWTVDRmNlUkRwZnN2V2tmZm84MDN2REhtM2Zqcng4bFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NPR",
-   "region": "GH",
-   "date": "2026-11-15T22:41:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e49bf95c37",
-   "title": "Why Emirates' Airbus A380 Premium Economy Has Quietly Become The Sweet Spot On Europe-Dubai Routes",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWtIU0Yxb0ZxeWpUekE2Zk9UVFN3YkNURkpyTkctNFJfNzlhQVByUWV5UWVWSUJZRk83cy0zcWFjNnltVmZFVDgxemhTbElYeFZkakJabHUzcXptNXpJUWlJOXU0RDBEc2FpQWljZUpMd1UzRnVnT1lHQ0ZUdHUxTVRpbHpNTDZMenNHb1VLVWFtTndsT1VsRFE4T1pRZ291cEgxdUZlUGtmZWpBNGVFVmpYdTc0Wnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Simple Flying",
-   "region": "GH",
-   "date": "2026-11-15T22:30:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Economy"
-  },
-  {
-   "id": "8477822723",
-   "title": "Barella: ‘Italy have more regret on first Belgium game, must keep tempo up’",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVZkeGMzTFJoLUR0TGdMYkg2LUJwNWJXRWFZTng5aUpISnJDSV9Ib0p1NGhwU2VldGVkdDBOSkFsd3RabVJrMGN6NExoSkwzYlhiSWhla291dzNoNkxydTBzUmRvN0F1Zy1NbnlIRmsyQ19NV3k2OVVfT1ZWb0RvTDJqVUdrdDA?oc=5",
+   "id": "d16ab44b23",
+   "title": "England beat Spain in Nations League to end record unbeaten run",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVW5yejBMZGxwYlAwNzZ5cWdBbXhsSGtyMHp3WXNQRklyeHRSUjVZeTJkc3VZbmpjU2RmSmpTT0FEdDVZeWQ5VnBKc2tRN2RaTTFJdHVoNVZwUVMzOTFBVFdYWXZOWm5NYU1KZW5MRUJfR0dFUTN5QXdvRlR3dUFZbmJpOXNMNUdIa1E?oc=5",
    "summary": "",
    "image": "",
    "source": "Yahoo Sports",
    "region": "GH",
-   "date": "2026-11-15T22:16:00+00:00",
+   "date": "2026-11-15T22:22:35+00:00",
    "coverage": 1,
    "location": {
-    "country": "Italy",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇮🇹 🇧🇪",
+    "flag": "🇬🇧 🇪🇸",
     "also": [
-     "Belgium"
+     "Spain"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2471ca4e8d",
+   "title": "Belgium vs Italy: The tactics board - Mark van Bommel’s high-frequency transitions overwhelm the Azzurri",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmZIcjV1TVRMQXZpUUpxSzNJNXkwOUZLVjFPdmVlN1ZIemNQdU9XRkRRWnF5MldOU1lub09Ma1htMUFKOTRhUE5FY25nbktSUmJiOXFFdTVMdmcxeWI4RUc3OFd5OEdxajU2ZmF6cDJ2SEZzcEFvbmtXazhhRXhpbTI4R1ZMQnRCazNGUHc2ZDNSaWtEeDN0bmc5RmEteDA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "GH",
+   "date": "2026-11-15T22:19:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Belgium",
+    "place": "",
+    "flag": "🇧🇪 🇮🇹",
+    "also": [
+     "Italy"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a5c7245f5e",
+   "title": "Ofori-Atta vs Ato Forson: Who performed better in their first two years?",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUlFfemtJd3hVU1JZNzQ5dVI0TFFyeHEwalNPZDNTTTc3SGxkUklEcTM5aFFiWWF4ZkFXNnJuUkl4cE1OUXQ2WHpxWk9sY0gxZVBZazItdDdWUnoxY3ZHTHdLZU1jYVhweW1aWGpybFlsRC11bzNXZXBqNlkxVGRxVXVqYnczc3c5UW9mWFU1VjNuOHlDR0g0MzlkUkx4cTA3amdmeW5IYndoamFGM1BXSW1oRGFZSWloNmJsSTlXYTN0LTZDNmwxMw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GhanaWeb",
+   "region": "GH",
+   "date": "2026-11-15T19:00:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
    },
    "topic": "Society"
   },
@@ -143,19 +183,19 @@
    "topic": "Society"
   },
   {
-   "id": "ba0757e4d8",
-   "title": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHc2Umd3dWo3UUQyTHo3amFEVTdobVJQTzlMNV9PZFlGQUdjS1RtazVlNFdRMG5DYW5ocEV0TVp2Qk5fVFFCZnEwZjFaTXNhY0NINWdwVUxyS00wUmFZbGFMeEZFU0NIQk9YOFFtWHV5a2pIZGI5NFppZTQ0WWU3aU5mc2g1ZXZyQmNIckJCVnNtSXBpbVJaZUdmZjVKTGFf?oc=5",
+   "id": "439695b461",
+   "title": "Ghana targets more visa-free travel agreements by end of 2027 - Ablakwa",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlZsbXl0a1E3Q1RFeGtsRlppdnRnS3FFR01xZE9keVBnT2lTQ1lDMDd0V3ZFTHZMb2YyRWZ5dnNYREc5SF8wUDZoVzFIUlpHYl9Db0ptVWlhdURWSUFyRFRjNjFCckx2b3RnRUE0UzlBSkZ4cEtHUGdKNm0tTmJKc0ZzTWtCQllsZF9Ia0hFVS1wczBXaHNmaG1PbFM2ZU1ZUkZNQkV3SVBhZG9ZMmM4cFlJdmVKNGlGMEs4QUVVVVZfZms?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Finance",
+   "source": "GhanaWeb",
    "region": "GH",
-   "date": "2026-11-15T18:05:00+00:00",
+   "date": "2026-11-15T15:13:16+00:00",
    "coverage": 1,
    "location": {
-    "country": "Mexico",
+    "country": "Ghana",
     "place": "",
-    "flag": "🇲🇽"
+    "flag": "🇬🇭"
    },
    "topic": "Society"
   },
@@ -168,6 +208,23 @@
    "source": "Ghana News Agency",
    "region": "GH",
    "date": "2026-11-15T14:19:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "29589fa04e",
+   "title": "GHS, Boehringer Ingelheim launch programme to tackle kidney disease in Ghana",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUxYUWdxeFZNREx6Wl9OSkpRS3dCeGFFV0ljTXJxMWlud2pJazBNcVNDMzBOdGluUG1GM3cwbWFyMFFGVTJTSWZoUEwxQk1MNlViWW9HNUE4Z1h5VUYwZTZ1OEZwT2ZrekhteW9hZncyM2dxQTJnQ09xNVZNNTBNa2hVUVc1cHhUYzdCQzNvSkc4U3VsalJoRTlfZS03VVAwUlhGVzRn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ghana News Agency",
+   "region": "GH",
+   "date": "2026-11-15T14:14:05+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -245,21 +302,21 @@
    "topic": "Weather"
   },
   {
-   "id": "69543b5484",
-   "title": "Adams Randy elected NDC Upper West Regional Chairman",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR05sYUZKdnJVTGVaSmdub2NCb0NONXVSYWQ0LWFhVER0blJEX25Yem9JQ3hjNzVfZWJ2N2pKbEVVUE5DbmpBaElEOW1QaW1kSEVjOXVVQTBNMk9KWFhfUkNteHNMMFZiMDNFdGlPYl9QSG1sT0tlWkNWbTlaQ0tScm1MMXNqcEZtR3B4czdDOS0yVXpYUkNxX3BMelg0Tnc?oc=5",
+   "id": "f6b5445fa0",
+   "title": "President Mahama holds talks with AU Chairperson",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGhTNk1GTUUwSzh4b3dlcjZNbzBUc3ZXdy1Mb0ZzUWVXOUFKdUQxUXZ5UnM1MHNRZDA2aTVDV1BvS2JnVXBRUmJXdmpVenBUSndhc2R4cWdGbmxMTWNyb2pacTNjX0RZTWM2TjZZazBNTXVLc3ljLUs1WW4xQnFUZExSQjgyUmZZU010OUdodzBiaUZuNXpkaVQ3dDlIdURWdm1uRDV1UGtxRDg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Graphic Online",
+   "source": "GhanaWeb",
    "region": "GH",
-   "date": "2026-11-15T12:43:34+00:00",
+   "date": "2026-11-15T12:55:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "9ad94a458a",
@@ -279,14 +336,14 @@
    "topic": "Society"
   },
   {
-   "id": "958c8cee16",
-   "title": "Science is getting closer to beating malaria, so what’s still in the way? Three areas where action can make an impact",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQS1CZnoxYW01RjNGNlVxa0JpaG0xUU0xOEkzOGF2cUxfdzVfeVNnQnlqZzY2dTFxQ1VvazA3dVY5elg1RVlHOEhaRWZ2QTAtaTVlYnhvcFF3c2Q1ZXdUcDJlVTZIZ0tjLV9DRXFkUFJ6bVNpTl80cXBnVVhibGFUNXVWZjJsVnRaeGQ5STNtc0VaSllHM0F4eWV0VzNkLThPR2ZVbUQ2OWFFUjg2MDlEZkY2VERPUC1RaFZuM21nVjAxQmg1S0k2Tzlja2dDX2ZyRVhRYzdobk55SmNnWW5vc0E3X2tCZ2hYVVRMQ09yMW8?oc=5",
+   "id": "bea65d6421",
+   "title": "SpaceX's Starship set for return to Earth after failed booster catch",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFNrRG5nNFJzeUhZZ25IcGVFQUNCNXdOU2YzMXdiLXA4N01yWkFWM1lPVGFvbkVTVUcwdFRRQnZlalprR19udEpfdzBIa2FhN2VtUzVHajgxUk04aThoVDFzcTQ3WG1PWVdYZzRRaWVzRnRzWkxHMlR3empjVGpFTG1LTHc5MWh5WmduMjZXOHI2cWNfQV9Z0gGWAUFVX3lxTFBoN1RhaHpvUUdReHM5OE1aY1E0UVpwOG9XN1FyODgtUmJnYk9OUmJ1X2JMNkhlanpaOEZ0cWpXcE16Sm1lSkEzT21ZU2dMM0hwUGRyS3c4aTRpaklwczdtelgycGh1R1pHTnFKMlpBZThsZ1JESWhETzA5NVoxRkJ3TWNYb09hLWRkTjAxRGVMZmVFa2Fydw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Nation",
+   "source": "Modern Ghana",
    "region": "GH",
-   "date": "2026-11-15T10:00:00+00:00",
+   "date": "2026-11-15T10:37:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -347,23 +404,6 @@
    "topic": "Politics"
   },
   {
-   "id": "8f95316562",
-   "title": "Portugal humbled in first game since Ronaldo retirement",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjZNMFJha0lYbF9iNVhNVzc0Tk4xT05EUnRDbk1jZ0tWM1dLMy1FRUxUWk5qR2lhQmp1QlphYkstYzlTZFNwX19KcUE3TWZ6U1VjcHd6aGNMck9CUDRoMV9XeTczTC1SUlpHeGRrVFRQcXczOG14MG9nSDhwTjdMR2dfMWhrT3M5bUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "GH",
-   "date": "2026-11-14T22:05:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Portugal",
-    "place": "",
-    "flag": "🇵🇹"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "35cf425c46",
    "title": "November 14: Cedi sells at GHS12.35 on forex market, GHS11.70 on BoG interbank",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0prV3ZEVS02aUZXdURjcGdyd3lyUDhkMVZpTGFWUnBieHU2eWFyYnBRNlF0cDRSVUwzV0JDbHlSVEs4Mk1pMldaYlF3cVY1M3U5OWpEU3BRT05vYXZLOGxKdGxYUGRESHkwNWo3SWhuMXRHZDN2OHJJenlCbEZoWTd0WDNDbmJuUVMzcEtkZkd2YnJrZlFSaUtn0gGYAUFVX3lxTFAyZ2xhb2F2SkVqU2dINEZjSmRodzVZZ3hOd3UzMGxZcWpFLVQ3eUZvYnlfNlJobHhLQ0NCOEUwam9ZNGxXU2tlNHpHa2VCZ19TRXQwaFlaeUJoSkxDck03LUh0aGxNdHRkRUo2WTAyNTlYQnpQNVVXZ2Jham9qZFdfNjZVY2Y3eWFMbWJPbHBsOWxueldXMERT?oc=5",
@@ -381,31 +421,48 @@
    "topic": "Society"
   },
   {
-   "id": "5bf46e2eb9",
-   "title": "Government pledges 66-seater bus, GH¢250m GETFund support as Mfantsipim marks 150 years",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ1M5MjhWemJOTWpoTHVlNWtlMXJ4bWd4YjN5YnVYWjVidDRUSjJqbGpaeTBQVXdydGRSQnNNQm9jMnVabDUzWkF5WHA3QXc3VldwZElHbnRCa3M1ajVNVTZuRk1tMUtiYlQzU1prbTNVaDYzajk1WjdXOV81T2FPVWlqazJTWnRYWVNGWDlObmtSTGVVNnZOS2dOY216enVNNnVJc1ppS0lNRENBbkpzanRTSFR1SjlVN0NYX3pBNVd2RHhWNThodUQ4TVZGMklENHc?oc=5",
+   "id": "9b3255d6ca",
+   "title": "Nikki Samonas speaks on AI’s impact on Ghana’s movie industry",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3hxbnQzUklFVjdQOVh6VkY4dDZaOVV6R3BIU0tyM0pmY3I3WEJaN3NFNU4wZlNXODJNMUU5ZFNGbkt5d0M1ZlZYUWRRcnc3a3Z6QmVPb09Gb1dicWJyR21KM0V0M2dwM3p1aXJ3OGduWFg3UkdzaWZTSVk2VTl0NWhvNUlyb1laYXVfa2dLdkNraTB6bnNYZmxobFZIS00wbE1hM0pIWkdHU2pXeVduaFZoYVVHcm0wZWlqdG9uaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Graphic Online",
+   "source": "GhanaWeb",
    "region": "GH",
-   "date": "2026-11-14T15:48:12+00:00",
+   "date": "2026-11-14T11:51:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Politics"
+   "topic": "Entertainment"
   },
   {
-   "id": "7ace39a941",
-   "title": "Ghana considers more contributions to AU - Ablakwa",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWtmMEZSa2htTFVlV0Yyal90eGhhVEVfVVdIRWprS3JJRS1SeUtHTUJwQTJ0ZXZPUXBXSkFGa0ZQUE1hN2N5SlAzV1llN0tiUUJtTDhPVXhINmNxZGNTdWFsWHMtMHBXMWs2WU1udjNNZmhwWUJxX3pxZE9KWWVBaTlDd2Y2UElnc0pWVFNJZ254N2ZMY0VpQl80WW9CMVhKUUhIREpfb0x0QXJFQlE?oc=5",
+   "id": "f729f73b6a",
+   "title": "Minority demands Bank of Ghana Governor appear before Parliament over new cedi notes",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWG1UT25iTzBDZXdvRl9lZ0VoTFpxQUZxS2U3UFRzdUJRYlZwMUNEMGFCa0NmVWt6UG1FeVFYYkRqbGQ0NzRnS1pGRjQzb253WDVzWHNSZUE1a25VQ3ZXTmphT19qQVNvVDZPbzF1WjdHcW92a3Z3Q3IyejloVllPcERTcndnU3V3aFZtUWNyX21tQlUwN0tZ0gGWAUFVX3lxTE5jc3FUWGZKLVBlUmpkUDBwTmtYTzdSNkoxcTRZWXBfcWRySm9lOFNIUWJrRm5DV25YMzJtTnhuNng1TzZDQkNXbDFLRG9IVVFXYVJVVF9CQmJlNXR3djN4ZGxDQ3U2ZzROT21TdGFkdl8xS2VaUDVpOXdjSkV5Q2Ffa0x2U0Y0Tzd1VWFwVGtnRmcxSFplUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Modern Ghana",
+   "region": "GH",
+   "date": "2026-11-14T11:25:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "6c0008478a",
+   "title": "'You didn't even tell your best friend'. The complications from childbirth that never go away",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTk0OGplMjVfc2xzdzJGS1duMmE2ZVpMTmtfOW55Z19CWjJJaVNyM29iSF9uRHpKMVZueHpQeHd0T25ybFc4akVfZEZzUEVjdGZLRlhIREI0eE83TDZxZnVRNXVLV0RjUTdkYnJJenhrMGVrNDlQLTIxZ0puV3NnRi13UGZPaWRVRkdVTDRhVVYtbnJvV2hNcVBoZ3kxWjl2NE5GbjdpRjZ2aURzOEJLRVN4YS01U0ZBWk9mNWw4cGZNT3dzUmpIa2ZWT21yZw?oc=5",
    "summary": "",
    "image": "",
    "source": "Graphic Online",
    "region": "GH",
-   "date": "2026-11-14T10:13:15+00:00",
+   "date": "2026-11-14T11:09:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -432,21 +489,21 @@
    "topic": "Health"
   },
   {
-   "id": "7ec9147ecd",
-   "title": "GHS partners global firm to tackle chronic kidney disease",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcFlBUnNqQVlybkRWS0ppZlpWS01jX1lod25tb05WSTlpbUZyZkFNam5xVWt3WHdWMVJYRGMwek1mNXdRbWRXMnVGOHM2cnUzN09FZGhwNm1tWVJDYXJIVUtRSGlUUWJBekhQdGZUR1RYOVVJa1dsdGFxVWRmdkN5ZG5GMlBvYkI1WTJlREcxamx2RXhOdkZ6dU5mVDdMLVVjRmdxZjA0NFlGN3lHN3dxTnIwanRVd0RDWnc?oc=5",
+   "id": "643daac217",
+   "title": "Ghana’s Singing Prophet Joseph Atarah Releases Inspiring Gospel Single Formula",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUlXQjlpT0JhOGtLUUxKMDR3dGxTN2pWZUg2RGtSUVgzX1U2QnFldkllNVNUSkZOY2pNTVNxbkJIQ3dHd2U0RktsT05RNnlxN2RfMFBjelNkYmZicjNsOS1kV0xhVnhpMXFHb0xlS09uSm5rTFluQlY4cHpDa0d2MXBOQzY5RlFHbXlwUlc3RnFjeGZNR3l1Qkk3ODFtRVnSAZ4BQVVfeXFMTUNBVFpVRUxseFg5eFEya0R3d21xSlkwdi1zTWR6WVQ4TVcxWTFuaVJ0QVNSM2JQdFVwVEl5ZERIbjFILTVIZXdYTFhUYVlGZW5WeUR6MThHd25NSWdqRWdDRXJaQWw2WFFwYU1mNDFKTUV3Z05BblFOazVDaUtJY2pRWVN1c3czc1F0ckxJTTA4bzVYY0dvUzBBZ1BOdVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Graphic Online",
+   "source": "Modern Ghana",
    "region": "GH",
-   "date": "2026-11-14T09:58:15+00:00",
+   "date": "2026-11-14T10:11:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Health"
+   "topic": "Society"
   }
  ]
 }
