@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 20/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 22/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 74 stories
+OK   Ada Derana: 76 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 9 stories
-OK   Daily Mirror: 36 stories
+OK   Daily Mirror: 35 stories
 OK   Hiru News: 97 stories
-OK   Newsfirst: 12 stories
+OK   Newsfirst: 11 stories
 OK   Daily News: 62 stories
-OK   Sunday Times: 89 stories
+OK   Sunday Times: 21 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -20,24 +20,53 @@ OK   BBC World: 20 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
-OK   AP News: 81 stories
+OK   Reuters: 99 stories
+OK   AP News: 83 stories
 
 Biggest stories right now: 160 questions, only one wrong: top scorer in  (7 outlets) | Jordan sentences three men to death over dead (6 outlets) | Former Speaker Chamal Rajapaksa’s wife passes (6 outlets) | Consumer Affairs Authority summons LAUGFS Gas (6 outlets) | Hundreds of thousands of Czechs rally against (5 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* CBS Sports [2 outlets]: Kansas City Chiefs vs. Atlanta Falcons Live Score and Stats - November
-    important (also on AP News) - researching
+* Ada Derana [1 outlets]: Sri Lankan passenger arrested with ‘Kush’ worth over Rs. 43 million at
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The Island [1 outlets]: MP Perera names four ministers over alleged corruption
+* The Island [1 outlets]: Several spells of showers will occur in the Western, Sabaragamuwa, Nor
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: AI did not reply with JSON: ''
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 2 rejected: the name/word 'CEO' is not in the article; the name/word 'Facebook’' is not in the article; the number 15 is not in the article
+    -> no cards; posting with the site's own summary
+* Hiru News [2 outlets]: PM urges parents to ensure O/L and A/L students attend school
+    no AI summary: saving the rest of today for important news
+* Pittsburgh Post-Gazette [1 outlets]: Steelers-Bengals scouting report: Stopping Cincinnati’s supermen on of
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: Clothing factories shut in Bangladesh as workers strike over pay
+    no AI summary: saving the rest of today for important news
+* The Guardian [2 outlets]: ‘The blood of these brothers cries out’: Pope Leo demands justice for 
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -46,23 +75,19 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: the name/word 'House' is not in the article
-    attempt 2 rejected: the name/word 'Sri' is not in the article; the number 1900 is not in the article
-    -> no cards; posting with the site's own summary
-* The Island [1 outlets]: CEJ takes forest destruction, elephant corridor battle to Court of App
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    attempt 1 rejected: the name/word 'Ordinances' is not in the article
-    attempt 2 rejected: The card says 'illegal' but the article says 'alleged illegal'.; The card says 'up to 900 elephants' but the article says 'estimated 800 to 900 elephants annually'.; The card says three individuals ar
-    -> no cards; posting with the site's own summary
-* BBC World [2 outlets]: Mexican drug lord Miguel Angel Felix Gallardo dies age 80
-    no AI summary: saving the rest of today for important news
-* BBC World [3 outlets]: Thousands of US flights still cancelled or delayed two days after grou
-    no AI summary: saving the rest of today for important news
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: the name/word 'AI-glasses' is not in the article
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 6
-  photos: 5 too small to look sharp, using the clean cover
+  photos: looked up 24, found 2
+  photos: 3 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  meaning check: 15 stories judged by openrouter:openrouter/free
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check failed (AI did not reply with JSON: '')
+
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 15 story pages for Google)
+
+Countries: IN 37, PK 34, BD 38, US 38, GB 36, IE 31, CA 37, AU 38, NZ 33, SG 28, MY 34, PH 33, AE 38, IL 32, NG 31, KE 28, ZA 32, GH 27, FR 34, DE 33, JP 10, IT 32, ES 31, BR 33
