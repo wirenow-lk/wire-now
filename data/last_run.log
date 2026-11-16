@@ -1,44 +1,55 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 1/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 77 stories
+FAIL Ada Derana: HTTP Error 429: Too Many Requests
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 27 stories
-OK   Daily Mirror: 80 stories
-OK   Hiru News: 100 stories
+FAIL Daily Mirror: HTTP Error 429: Too Many Requests
+FAIL Hiru News: HTTP Error 429: Too Many Requests
 OK   Newsfirst: 17 stories
-OK   Daily News: 72 stories
+FAIL Daily News: HTTP Error 429: Too Many Requests
 OK   Sunday Times: 1 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 17 stories
-OK   Google Top Stories World: 51 stories
-OK   BBC World: 23 stories
+FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
+OK   Google Top Stories World: 48 stories
+OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 97 stories
+FAIL AP News: HTTP Error 429: Too Many Requests
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (14 outlets) | Trump backs return of ex-Nvidia boss after 'B (6 outlets) | 17 killed in two mass shootings in South Afri (6 outlets) | Tanker Steering Failure Led to Cruise Ship Co (6 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (6 outlets)
+Biggest stories right now: New James Bond announced ... and the name’s P (4 outlets) | Trump backs return of ex-Nvidia boss after 'B (4 outlets) | 17 killed in two mass shootings in South Afri (4 outlets) | Five EU countries unveil plans for Rwanda dep (4 outlets) | Lindsay Clancy to face retrial next year for  (3 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily Mirror [2 outlets]: FBI team to visit Sri Lanka to assist probe into online scam centers
-    important (also on Ada Derana) - researching
+* The New York Times [2 outlets]: Five European Countries Plan to Deport Migrants to Rwanda
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [2 outlets]: Parliament committee advances tech and community measures to mitigate 
-    important (also on Ada Derana) - researching
+* The New York Times [1 outlets]: Grammy Nominations 2027: See the Full List
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* CNBC [1 outlets]: Dow falls 700 points, Nasdaq loses 2% as Nvidia leads AI stocks lower:
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [3 outlets]: Gérard Depardieu drops appeal against sexual assault conviction
+    important (also on Reuters, The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: BBC World, The Guardian
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -47,43 +58,3 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The spoken card says the committee did not say what comes next, but the article does not state this.
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 2 failed: AI did not reply with JSON: ''
-    -> no cards; posting with the site's own summary
-* Newswire [2 outlets]: Ansell opens global service centre at Port City Colombo
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Cargo ship capsizes off Bulgaria’s Black Sea coast
-    no AI summary: saving the rest of today for important news
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 13 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
