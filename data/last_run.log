@@ -1,115 +1,65 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 9/80 used today
+getMe failed: Telegram error: Bad Gateway
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 17/80 used today
 
-OK   Google Top Stories LK: 38 stories
+FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
 OK   Ada Derana: 80 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 31 stories
-OK   Daily Mirror: 82 stories
-FAIL Hiru News: HTTP Error 429: Too Many Requests
-OK   Newsfirst: 17 stories
+FAIL EconomyNext: HTTP Error 429: Too Many Requests
+OK   Daily Mirror: 81 stories
+OK   Hiru News: 100 stories
+FAIL Newsfirst: HTTP Error 429: Too Many Requests
 OK   Daily News: 82 stories
-OK   Sunday Times: 2 stories
+FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 0 stories
+FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 2 stories
+FAIL Ceylon Today: HTTP Error 429: Too Many Requests
 OK   Google Warnings LK: 19 stories
 OK   Google Top Stories World: 66 stories
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-FAIL Reuters: HTTP Error 429: Too Many Requests
-FAIL AP News: HTTP Error 404: Not Found
+OK   Reuters: 100 stories
+FAIL AP News: HTTP Error 429: Too Many Requests
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (14 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (5 outlets) | Cyclone Akvan to Make Landfall Between Nellor (4 outlets) | Robert Pattinson named as new James Bond acto (4 outlets) | Five EU countries announce plan to send rejec (4 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (12 outlets) | Five EU countries unveil plans for Rwanda dep (6 outlets) | British actor Robert Pattinson named as new J (5 outlets) | 17 killed in two mass shootings in South Afri (5 outlets) | UK's Prince William, Princess Kate begin Indi (5 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* BBC [2 outlets]: Forensic expert says his analysis of autopsy photos suggests Epstein w
-    important (also on BBC World) - researching
+* Daily News [1 outlets]: Govt moves to enact sweeping Cyber Security Law in early 2027
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+    could not post: Telegram error: Bad Gateway
+* Ada Derana [1 outlets]: Govt. to appoint new Wage Board to address estate workers’ salary cris
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+    could not post: The read operation timed out
+* Ada Derana [1 outlets]: CSE records Rs. 10.47 billion turnover as ASPI drops 1.32%
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+    could not post: The read operation timed out
+    stopping: too many errors (check the bot token, and that the bot is a channel admin)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for checkers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* The New York Times [2 outlets]: Five European Countries Plan to Deport Migrants to Rwanda
-    important (also on Al Jazeera) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* ABC7 New York [2 outlets]: NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit
-    important (also on Al Jazeera) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Daily News [3 outlets]: President orders social impact forecast on extreme weather threats
-    important (also on Ada Derana, Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: Nationwide ground stop could cost US airlines hundreds of millions
-    important (also on Axios) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: UEFA backs Diallo to challenge Infantino for FIFA presidency
-    important (also on The New York Times) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 10 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Factcheck.lk failed (HTTP Error 429: Too Many Requests)
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 18 story pages for Google)
-
-Countries: IN 38, PK 35, BD 0 (FAIL), US 38, GB 35, IE 34, CA 36, AU 0 (FAIL), NZ 31, SG 0 (FAIL), MY 34, PH 34, AE 38, IL 35, NG 35, KE 0 (FAIL), ZA 33, GH 30, FR 0 (FAIL), DE 33, JP 9, IT 34, ES 0 (FAIL), BR 34
+    "code": 400,
+    "message": "Request contains a)
