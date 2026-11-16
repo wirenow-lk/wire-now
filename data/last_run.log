@@ -1,37 +1,58 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 1/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 4/80 used today
 
-FAIL Google Top Stories LK: HTTP Error 503: Service Unavailable
-FAIL Ada Derana: HTTP Error 503: Service Unavailable
+OK   Google Top Stories LK: 38 stories
+OK   Ada Derana: 78 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-FAIL EconomyNext: HTTP Error 429: Too Many Requests
-FAIL Daily Mirror: HTTP Error 429: Too Many Requests
-FAIL Hiru News: HTTP Error 503: Service Unavailable
+OK   EconomyNext: 30 stories
+OK   Daily Mirror: 78 stories
+OK   Hiru News: 100 stories
 FAIL Newsfirst: HTTP Error 429: Too Many Requests
-FAIL Daily News: HTTP Error 503: Service Unavailable
-FAIL Sunday Times: HTTP Error 503: Service Unavailable
+FAIL Daily News: HTTP Error 429: Too Many Requests
+FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 503: Service Unavailable
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-FAIL Ceylon Today: HTTP Error 503: Service Unavailable
-FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
-FAIL Google Top Stories World: HTTP Error 503: Service Unavailable
+OK   Ceylon Today: 2 stories
+OK   Google Warnings LK: 19 stories
+FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 FAIL Reuters: HTTP Error 429: Too Many Requests
-FAIL AP News: HTTP Error 503: Service Unavailable
+OK   AP News: 100 stories
 
-Biggest stories right now: 17 killed in two mass shootings in South Afri (3 outlets) | Customers report difficulty accessing online  (2 outlets) | Five EU countries announce plan to send rejec (2 outlets) | British actor Robert Pattinson named as new J (2 outlets) | Gérard Depardieu drops appeal against sexual  (2 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (13 outlets) | Robert Pattinson is named the seventh James B (6 outlets) | Five EU countries announce plan to send rejec (5 outlets) | UK's Prince William, Princess Kate begin Indi (5 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: ‘I may not return alive’: Imran Khan’s emotional letter to judges made
-    normal news - one-paragraph summary
+* Newswire [2 outlets]: Five javelins imported from Sweden have been presented to Sri Lanka’s 
+    important (also on Hiru News) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (The read operation timed out)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: 10 teams to contest 2027 Cricket World Cup Qualifier for 4 remaining p
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily Mirror [2 outlets]: Parliamentary Committee mulls GPS, satellite collar to curb human-elep
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Sudanese army air attack kills 13 in western Sudan: Rights group
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -40,7 +61,16 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 rejected: the name/word 'PIMS' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* The Guardian [2 outlets]: Third US aircraft carrier brings thousands more troops to Middle East
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -49,35 +79,58 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 rejected: key_facts states blood pressure as '192/193'; the article says readings of 192 and 193, not a 192/193 reading.; spoken says 'heart attack'; the article says doctors warned of cardiac arrest, which is 
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Rs. 451 billion, zero loans: Cabinet approves two new expressways
-    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    attempt 1 rejected: the name/word 'Lanka' is not in the article
-    cards OK (attempt 2, written by openrouter)
-* Newswire [1 outlets]: More orders, higher production: Positive signals from Sri Lanka’s econ
-    no AI summary: saving the rest of today for important news
-* BBC World [2 outlets]: Gérard Depardieu drops appeal against sexual assault conviction
-    no AI summary: saving the rest of today for important news
-* The Guardian [2 outlets]: Customers report difficulty accessing online services at major US bank
-    no AI summary: saving the rest of today for important news
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     news search: 0 results, 0 about this story
-    attempt 1 rejected: Card states the security alert was issued on November 16, but the article only says it was published by the US Embassy in Bulgaria on that date, not that it was issued on November 16.
-    attempt 2 rejected: Empty place field not specified in article
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
-Top 10: 1 fully explained
+Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 20, found 20
-  photos: 17 too small to look sharp, using the clean cover
+  photos: looked up 24, found 0
+  photos: 18 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Factcheck.lk failed (HTTP Error 503: Service Unavailable)
-  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 503: Service Unavailable)
-  fact check feed Watchdog failed (HTTP Error 503: Service Unavailable)
-  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
-  Fact Base: 7 facts and 1 people saved
-  meaning check: 5 stories judged by openrouter:openrouter/free
+  fact check feed Factcheck.lk failed (HTTP Error 429: Too Many Requests)
+  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 9 facts and 0 people saved
+  meaning check failed (no AI available for checkers)
 
-Website updated: 30 Sri Lanka + 75 world stories (1 with cards, 17 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 18 story pages for Google)
 
-Countries: IN 0 (FAIL), PK 0 (FAIL), BD 0 (FAIL), US 0 (FAIL), GB 0 (FAIL), IE 0 (FAIL), CA 0 (FAIL), AU 0 (FAIL), NZ 0 (FAIL), SG 0 (FAIL), MY 0 (FAIL), PH 0 (FAIL), AE 0 (FAIL), IL 0 (FAIL), NG 0 (FAIL), KE 0 (FAIL), ZA 0 (FAIL), GH 0 (FAIL), FR 0 (FAIL), DE 0 (FAIL), JP 0 (FAIL), IT 0 (FAIL), ES 0 (FAIL), BR 0 (FAIL)
+Countries: IN 38, PK 35, BD 38, US 38, GB 35, IE 33, CA 36, AU 38, NZ 0 (FAIL), SG 0 (FAIL), MY 36, PH 0 (FAIL), AE 38, IL 0 (FAIL), NG 35, KE 0 (FAIL), ZA 32, GH 31, FR 34, DE 0 (FAIL), JP 0 (FAIL), IT 32, ES 34, BR 0 (FAIL)
