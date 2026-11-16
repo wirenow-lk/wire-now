@@ -1,72 +1,87 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 22/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 24/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 76 stories
+OK   Ada Derana: 75 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 9 stories
-OK   Daily Mirror: 35 stories
-OK   Hiru News: 97 stories
-OK   Newsfirst: 11 stories
-OK   Daily News: 62 stories
-OK   Sunday Times: 21 stories
+OK   EconomyNext: 8 stories
+OK   Daily Mirror: 37 stories
+OK   Hiru News: 95 stories
+OK   Newsfirst: 12 stories
+OK   Daily News: 60 stories
+OK   Sunday Times: 58 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 4 stories
+OK   Google Warnings LK: 5 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 20 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 99 stories
-OK   AP News: 83 stories
+OK   Reuters: 98 stories
+OK   AP News: 82 stories
 
-Biggest stories right now: 160 questions, only one wrong: top scorer in  (7 outlets) | Jordan sentences three men to death over dead (6 outlets) | Former Speaker Chamal Rajapaksa’s wife passes (6 outlets) | Consumer Affairs Authority summons LAUGFS Gas (6 outlets) | Hundreds of thousands of Czechs rally against (5 outlets)
+Biggest stories right now: 160 questions, only one wrong: top scorer in  (7 outlets) | Prince Harry Says 'You're Going To Win' On Uk (6 outlets) | Jordan sentences three men to death over dead (6 outlets) | Former Speaker Chamal Rajapaksa’s wife passes (6 outlets) | Hundreds of thousands of Czechs rally against (5 outlets)
 
-6 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Sri Lankan passenger arrested with ‘Kush’ worth over Rs. 43 million at
+* Newsfirst [1 outlets]: Three Arrested with Over 12Kg of Kush at BIA
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The Island [1 outlets]: Several spells of showers will occur in the Western, Sabaragamuwa, Nor
+* Ada Derana [1 outlets]: Three suspects including 17-year-old girl arrested over murder in Horo
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Two Sri Lankan passengers arrested with over 8kg of ‘Kush’ at BIA
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Anthropic is about to become the world’s most important AI stock
+    important (also on Bloomberg) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily Mirror [1 outlets]: Is the ADB loan allocated for health being used as a weapon?
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily Mirror [1 outlets]: Sri Lanka Latest Breaking News and Headlines - Print Edition
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [3 outlets]: Yemen's Houthis say they launched ballistic missiles towards Riyadh ai
+    important (also on Ada Derana, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [3 outlets]: Prince Harry in Ukraine meeting Invictus 2027 hopefuls
+    important (also on Barron's, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
     gemini failed (The read operation timed out)
-    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 2 rejected: the name/word 'CEO' is not in the article; the name/word 'Facebook’' is not in the article; the number 15 is not in the article
-    -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: PM urges parents to ensure O/L and A/L students attend school
-    no AI summary: saving the rest of today for important news
-* Pittsburgh Post-Gazette [1 outlets]: Steelers-Bengals scouting report: Stopping Cincinnati’s supermen on of
-    no AI summary: saving the rest of today for important news
-* BBC World [2 outlets]: Clothing factories shut in Bangladesh as workers strike over pay
-    no AI summary: saving the rest of today for important news
-* The Guardian [2 outlets]: ‘The blood of these brothers cries out’: Pope Leo demands justice for 
-    no AI summary: saving the rest of today for important news
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: Detail 1 says Harry met 'the Superhumans clinic'; the article only states he met wounded veterans and medics (Superhumans organised the event), not that he met the clinic.; Detail 2 claims the Nationa
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -75,19 +90,23 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 rejected: the name/word 'AI-glasses' is not in the article
+    cards OK (attempt 2, written by openrouter)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: Details claim Harry 'supported by giving prosthetic limbs to those who lost them in battle' — the article says the Superhumans Center provides prosthetic limbs, and Harry supported the group; it does 
+    attempt 2 rejected: The cards state Harry visited Kyiv in 'April and September 2025' (in both key_facts and spoken), but the article says he visited Kyiv in 'September 2025 and in April this year.' Since the article refe
 
-Top 10: 0 fully explained
+Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 3 too small to look sharp, using the clean cover
+  photos: looked up 24, found 1
+  photos: 5 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  meaning check failed (AI did not reply with JSON: '')
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 15 story pages for Google)
 
-Countries: IN 37, PK 34, BD 38, US 38, GB 36, IE 31, CA 37, AU 38, NZ 33, SG 28, MY 34, PH 33, AE 38, IL 32, NG 31, KE 28, ZA 32, GH 27, FR 34, DE 33, JP 10, IT 32, ES 31, BR 33
+Countries: IN 38, PK 35, BD 36, US 36, GB 35, IE 32, CA 37, AU 38, NZ 30, SG 29, MY 35, PH 33, AE 36, IL 34, NG 31, KE 27, ZA 33, GH 26, FR 34, DE 33, JP 10, IT 33, ES 33, BR 32
