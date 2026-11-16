@@ -1,46 +1,57 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 38/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 45/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 70 stories
+OK   Ada Derana: 81 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 15 stories
-OK   Daily Mirror: 87 stories
+OK   EconomyNext: 18 stories
+OK   Daily Mirror: 64 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 18 stories
-OK   Daily News: 71 stories
+OK   Newsfirst: 19 stories
+OK   Daily News: 72 stories
 OK   Sunday Times: 0 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 7 stories
+OK   Ceylon Today: 1 stories
+OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 23 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 99 stories
-OK   AP News: 81 stories
+OK   Reuters: 100 stories
+OK   AP News: 86 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Tanker Steering Failure Led to Cruise Ship Co (8 outlets) | Jay Shah reappointed as ICC chairman for Seco (6 outlets) | UK’s Prince William, Princess Kate begin Indi (6 outlets) | South Korea's top scorer in tax accountancy e (6 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (10 outlets) | Tanker Steering Failure Led to Cruise Ship Co (8 outlets) | UK’s Prince William, Princess Kate begin Indi (6 outlets) | Balangoda Kassapa thera remanded until tomorr (5 outlets) | Hollywood salutes Glenn Close and Ridley Scot (5 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: Premadasa asks Speaker to address delay in probe into elephant Kavanti
+* Ada Derana [1 outlets]: Trade union activist Ananda Palitha arrested over alleged CPC overtime
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newsfirst [1 outlets]: Five Killed in Rambewa Collision Involving Three Buses
+* Newswire [2 outlets]: Flood warnings lifted for four river basins
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* Pragativadi [1 outlets]: Cyclone Akvan Landfall Between Nellore and Tuni: Odisha on High Alert
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [3 outlets]: Ven. Balangoda Kassapa remanded until tomorrow over failure to appear 
-    important (also on Ada Derana, Daily Mirror) - researching
+* Newswire [3 outlets]: Election Commission recognizes 3 new political parties in Sri Lanka
+    important (also on Ada Derana, Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -48,43 +59,29 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     -> no cards; posting with the site's own summary
-* Hiru News [4 outlets]: Hollywood salutes Glenn Close and Ridley Scott with honorary Oscars
-    important (also on AP News, Ada Derana, The Hollywood Reporter) - researching
+* Newswire [3 outlets]: Court reissues notice to Wimal Weerawansa over contempt of court compl
+    important (also on Ada Derana, Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Bloomberg.com [2 outlets]: Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses
-    important (also on Hiru News) - researching
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* Ada Derana [2 outlets]: Global banks set to enter 2027 on strong footing, Moody's report says
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [3 outlets]: Russia out of IIHF World Junior Ice Hockey as Canada refuses entry
-    important (also on BBC World, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, BBC World
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* Al Jazeera [3 outlets]: Over 2,000 people cross over from Senegal into Spain’s Canary Islands
-    important (also on AP News, Ada Derana) - researching
+* Al Jazeera [3 outlets]: At least 11 killed in blaze on Thailand’s Phuket island
+    important (also on Daily Mirror, Daily News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -95,50 +92,9 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     gemini failed (The read operation timed out)
     attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     -> no cards; posting with the site's own summary
+* Bloomberg.com [3 outlets]: Ukraine Hits Crimean Bridge in Record Drone Strike on Russia
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -153,9 +109,13 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
-  photos: 6 too small to look sharp, using the clean cover
+  photos: 3 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (The read operation timed out)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
     gemini:gemini-2.5-flash not available (AI error 404: {
   "error": {
     "code": 404,
@@ -163,8 +123,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers (last error: AI error 404: {
   "error": {
     "code")
-    gemini failed (The read operation timed out)
-  summary translation failed (no AI available for writers (last error: The read operation timed out))
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -173,6 +131,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
   "error": {
     "code)
 
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 16 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 16 story pages for Google)
 
-Countries: IN 37, PK 33, BD 37, US 37, GB 36, IE 35, CA 37, AU 37, NZ 30, SG 32, MY 38, PH 36, AE 37, IL 31, NG 35, KE 29, ZA 35, GH 26, FR 34, DE 32, JP 9, IT 33, ES 34, BR 33
+Countries: IN 37, PK 34, BD 38, US 38, GB 36, IE 33, CA 37, AU 38, NZ 32, SG 32, MY 38, PH 36, AE 38, IL 32, NG 35, KE 29, ZA 35, GH 25, FR 33, DE 33, JP 4, IT 34, ES 34, BR 33

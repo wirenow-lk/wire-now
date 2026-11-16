@@ -1,8 +1,62 @@
 {
- "updated": "2026-11-16T10:01:50.989095+00:00",
+ "updated": "2026-11-16T11:34:20.683291+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "55c3ede614",
+   "title": "Military Museum Welcomes Loan Of Chris Hadfield’s RCAF Uniform",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQU9ZeFh1b19aaVZMazBRNlVqNm9sWTYzdzdxd3hNdTQycTZWVk9zRlQ2a1dnVVVDZ21rczlfel9SVWJrTzlVenN1YTJZWDRpdjhpTUhkeDBncXJRR2tpclFuUjVNUXpPbmtrNG1qMXVUb2RYUE5laUVoeHM5akxhcHFkaFNMRGRXZ1VKZllhY2tqUDZtLXljV0dsTHZWdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Kingsville Times",
+   "region": "CA",
+   "date": "2026-11-16T11:08:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c41e911bc2",
+   "title": "‘This is Chinese territory’ : Toronto Police investigate alleged assault outside Chinese Consulate",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNkVrQ29HQmNxYWRTRXNVOWh6dFRGYmpxWk4yWjhCRmpseXB4MEdRUk9EVDh1VXVCaW9nQUpBdkxOelVaSG1sZlVEZ2J1cTJ1TS1aVV9mMnd1TTF5SnlZQVNLZ1NhaVhvNERRdkdRLWpyT3htLUdYaFhsNThkQWw3cmowWW8zM3A4TGhWUHpDWjM1WTZCQnptdTVQYVpPc3VwNGF0c1dmV1lORURIQVhYalgwV3lkaVBKV0Jxclo0X3VXdWNPWHIwNg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-16T10:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳 🇨🇦",
+    "also": [
+     "Canada"
+    ]
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "a83a2174ee",
+   "title": "Night sky, space debris protections for orbital data centres need international conversation, says senator",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVc0NklEMUFSWWNLZjRHR2tFWDdjSkVMNTRxS2NRVEotZkpoblBxMVhWNlQtOGxRc3ZISDJKYXE4SGtsSmdsNXJhUDRuZlVIdkRZUk5ZS3lYM2t0MlNicHBXRTB0NFBtS3I1ZVpGeG1fMUNrR05FT3FaWW1zSDVBcy1TWExuNXhvZmwwNGVFVHh3UTRaRWpsRDJPZEFrWDYyWlgwRW5JTjRnNEtsdnU3c1UxbDFQel9OTFdTWm15cEQ0NFlYOHprdmdaMGltSFB1OHU3ZnNuQUdOUG8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-16T10:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
   {
    "id": "01b2b13e00",
    "title": "Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw",
@@ -12,6 +66,23 @@
    "source": "infoq.com",
    "region": "CA",
    "date": "2026-11-16T09:00:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7b2804a2e3",
+   "title": "CBSA demoting border officers who permanently lost ability to use sidearm",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWWRGNVotOWlwTVVheFJURHA0V0phdmhnMXhnZzJMRmhfNEE2VTd4dHJ0UzFNTlV3ZHJXMmFVRFgxTXFWdU4tRFVFNEFCeVhTNFk4cllPM2xPNU5NQXJiSGpGWmItTlNuLUdXWGhSdE5jR2JrX1FueTI0RHVBVUNfMVo2dEZTZ1huX25Z?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-16T09:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -38,14 +109,31 @@
    "topic": "Society"
   },
   {
-   "id": "81b0b9e407",
-   "title": "Draisaitl, McDavid record three points in Oilers' win over Flyers",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9NYWlLdjBTdWNMbXh2bXJyNzZNNGFTVHhCbW9IdTFRend1SFVub3NUX202VExyX2I0ZE1GNk93SktjWl80V09TMDJEQ0tkeWxyYjkwbWYtVV9Rd1F4TmY3Ym1CeW9BVThxOEo4Y3BfbGhhSWwydlQ4bkJkaDJlWFNIZTdLQmliZExDYmw3M2h6VVFMVHdBZ0FwX2ZBTkZ3WHBqQk9Jb0hDZw?oc=5",
+   "id": "fa8c60f9f2",
+   "title": "Canucks Takeaways: Simple, direct play fuels fourth win of season",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODhaMnFFbF82SlBGb3NtSVJVSmRjelYxWlNma3pZNkYyUFV6M0F1eVBUR2FjNGpuMG1GbmFKVy1oYk95NlgyeUZTaFVyRmtSbkZKZEF3d19pVFJuNlNwZ3dDVHczRF9sdlBIVGNCZmI3RnQwdzFJR000WGpYQ3VfaFl3cXVoSmUycjdrMHg1SEltaXp0NFkwaFBManNUM1BGTEkw?oc=5",
    "summary": "",
    "image": "",
    "source": "Sportsnet.ca",
    "region": "CA",
-   "date": "2026-11-16T07:03:00+00:00",
+   "date": "2026-11-16T07:19:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1e7904ead1",
+   "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1FSWDl4MGtpQnVIR1B2OTlra05XN0FsZ2hiYnNSQUVHX0ZSQnpOTkc1NGRoc1QyZDIwdzZ4cEt2SHNScEJyRVpFdU1wOGI4emZmT1lrcVVKT0NIajk2eFNTVDhhb0hJdlA4SUxwY2ZDc2Njbzl4eUNJb2hXN19KYmREVDNGZVI2U3N0TFMwTUc3SS12UksyVy16WlVicDlWRnlRWUo2MXdkN1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "CA",
+   "date": "2026-11-16T06:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -90,13 +178,47 @@
   },
   {
    "id": "9af8bbe110",
-   "title": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak",
+   "title": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak | Science",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdkJXUmtEUm5McmpFOXFpQ3NabWYybTFZMEVSMmhaSXROLWlJeVdrUTRjbGxWQmI0Znc5b3JHUzdfOTg5SDJJOGZTczhDS1AtYTFRR0pLX0tkN0VPWUhVS1ZkdmVjNVdqTmZQX09qd0N5S3VxTnRJd3VORkk2aXYyX1VJQUZYTEt0U3J5dzJGT2VTNHZlWHBWTk9Xa09iQzBtQVN6aHpKTFl4WHZpc0piZ2s5SQ?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "CA",
    "date": "2026-11-16T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1ba0cf0c19",
+   "title": "Oilers' Connor McDavid ties Wayne Gretzky's mark for fastest to 40 assists",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSTZnVTFOOWk0Nl9SamVLZDd0TUJSbV9GVjQ5Sm9QTlAyWnViM3RUR3htTkRQM2FnVmRuT3ZfeTNvZnFkMmM5bkNBQmxKSnBOUldSa2hXaEQ5OGlHWlVJdFdsYWJRSzdUeGRsSjFDb0hpTWpmd3h3OVpnZ21tQVJXbXpEeWdDbkozdGx1SkZjaXpXNjFCYUxMRGxrMjJQakxzTFpWbnhXNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "CA",
+   "date": "2026-11-16T04:12:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f2fb0c2431",
+   "title": "Cutter Gauthier extends goal streak to nine games, leading Ducks past Flames",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODRENVV0MUNQMDdmR0U0REpaWWJnS1I1TTVXMW90RDZ3b3owazZqOTdiX0Ryay1qdWZ1NGVkWDBBU1VBUm9TME5weTByX3lGT3lGcHNNbGEycGZFVkFERWFtbzNhUmtwb0MtQ3B5ZUhNX3E2SzZkS0dlLTJKb01TTUp0cFhlbkZ1RzNqN0RaXzVTdGNZZ3YzQmpqUm52VV92ekVfZk1UZEs1ZFVLdkdObmwtNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-16T04:12:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -178,12 +300,12 @@
    "topic": "Society"
   },
   {
-   "id": "7e2283c8ab",
+   "id": "e6a04048b7",
    "title": "Canada plans up to 200,000 extra permanent residence spaces. Here’s who could benefit",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlV2NEtaQTIwS1dVZVZJbUJxZ1A5VENBVThpNXFnLXBhTjFGMkFCYmtidTVSVTFSTmdmT0JGel9NWG1HeFl2YXVoTklfVFg4dzQ1aWJJTzBENkYtYmxQS3V6MWxESkhOZDZ0S1dnM3duckVzRXBZZWd5LUFBU1NLSW93dmhuX093MzJoRGpkcF93Q3JRbWZETGlIZ2EycVcyZWtvNzFieHJzX1NUc3VwbDZzVE1WeGdhajZvSjZR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHpsbzVIZFIzbjZXVG9KUE9tek5ZNHVvaWJXMUZLTi1BYzBUeTh5Z0lQNnBuNHJIQlpvOWhaZHlpOWRmS3QxMVpQY2dqblNrX2IyaW5yc29QeFlBQmlJQi02SmQ0cUVaam8tM2h5OVRBS1E2R3UxOFJQeGh6RmptUXZ2SV9Tbm1EUkxLaHRHVkx5eUxNemVqdHNzQ1B4V1E1TmFZa0p1OUhrcEZNWC1CTDhlY2hDTzVvZHhiZnFkb2g5T0xaaGc?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "CP24",
    "region": "CA",
    "date": "2026-11-16T01:59:00+00:00",
    "coverage": 1,
@@ -191,23 +313,6 @@
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3d34a778fa",
-   "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlZOUmNHQm5lNGMwcGlPYTFteWNMVDc3Zm9welEzU3FuUElFSzNEMS00NHJkTGdUX0RiZV9sZUdmekpXUzRDTUxPeTRRYnJxOEEyV3dyNlR5R1hIUkFFdV96dVc1NExaRDBGRXFadEVBa2dWbnVLcUhSNDlVZ1NZREJQSzc3NS1SVWRJVDYwM2E1WFREZGtoeUF2Sjg3ZkQ3N1BIa25hbGU1dFZtSzQxVUtVRXhqd9IBuwFBVV95cUxOTGZwOGl5WGcxdFBNelNDaWowdVViV1RPbmg0M1pEa1ZhSmRxZXV5SmJGVEVNR0VZa2t5Vy0zenptZDZ6bjkyTUhaYjhiNElZMGU3QndIamJoNVhsQjFsa1ZWWktjWXJhWU5BRmloZ3VMQ1FiejBRV2xzX0RsWVJKOHhuZEg0c0FEUDVhU1p0bUdhX19nZnlGbVFPZjVtcUVnVnlnejEyeVRYVkhVbVdpNmxCNy1mUjBfcmNz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "CA",
-   "date": "2026-11-16T01:55:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Peru",
-    "place": "",
-    "flag": "🇵🇪"
    },
    "topic": "Society"
   },
@@ -229,65 +334,14 @@
    "topic": "Society"
   },
   {
-   "id": "165893d5e5",
-   "title": "Why aging stars suffer a sudden luminosity dip",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1OExSUTYxUHEzNEMzRXNjR3FmTFNUcEVCWmc4RHgyRFVYYTlCNWhOYjdYeE9mamdGN0FURW9UNm5UWXd2Z0NkRWE3RjAxbGdvZUxnV0FxV0Yzd3BUS3dwZmhEaUhKMzVsMjNnU2VITjVjTm5HQjln?oc=5",
+   "id": "48bb8b91c1",
+   "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFFsZWNIaXRqdzZIS3I1S2RYRWIzb1VXV0xiYjdUbkJDZWRucWEzcVl1b2p1YkVXSzRSUmowVS1FUWtSMF96a3gxTkEzdWZxUW5kd2s1T0FXeUFJZklicHhtVTRveVhCc1hmdGIwcDZjc2YtdkpoSzZBVHhONFcteURjT0JYRjU4XzZSYWdEbmJCODBlUjF3NTNjbFdXblAwbmthaUFfZ2Vtc2E1MHh2THkwRnd4UdIBuwFBVV95cUxPZVkxTDJIdl8xWG9Yalp5TzNIbVRtQXV0Y0hUbDR3RTdnZ0lQQldfMmtCd0plWHB3Z1BCQ1ljNnVOV2pneHhXS3ZkOFpNaEdRclRtQWxnZmxQRHJpR3FjbUloNkZiZktRR2dpUlJSWnpWWnBXYkVmbElNNWxNdWpLb2lMY3JlS0t6X0F1X1VZZ2M0SW40SElaQm1zX1hGclRmRWVoRzhibzZpYXZXZ2lmVUZVRmdqQ3dNMEl3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Phys.org",
+   "source": "Al Jazeera",
    "region": "CA",
-   "date": "2026-11-16T01:30:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "aea62fc261",
-   "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94RGVSa2stX2hqNXk0N291eC1jOVU5T3Z4QjRsd2I4bDlTSHFJdFVZWFAxTnByeU9YWFlEdkpDLXlRSTluS3VzdW1aU1hXcVRMalA2RkZ2NnptbUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "CA",
-   "date": "2026-11-16T01:22:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "432d6e712f",
-   "title": "Toronto Tempo earn No. 1 pick after winning 2027 WNBA draft lottery",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zY0VvX0tWSjRYZ1dwR2xGS3VyRkRUZkllZEdJQ0w4eWJyLWZTTWpkZk43VnhqVXozYlJ4XzNtcnF5ZVY5M1l2S2lzeHZKOVRIQmk2T3E0T0VJZy0xSmtQRmlva05kYjZvTVVaODJRMVVVRkdDMUROQnNUbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-16T00:57:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5deb87c12b",
-   "title": "Trump breaks silence on FAA's nationwide ground stop, demands more money for air traffic control",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EcklfYjZNVmJldUdGQnRKV2k1QTBVckRfakREeDJWUUYyQVdkWkZtRnhIWXp3ZUp0VWdkaUE4TU1BTGswSzZQb1ZXT0o2empYUjZpdUhmS1U0U24tMWcwNEQxZlNydFk1U2tDLVFn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-15T23:38:11+00:00",
+   "date": "2026-11-16T00:52:46+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -365,14 +419,14 @@
    "topic": "Society"
   },
   {
-   "id": "43d3c3defd",
-   "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVWVfdkxKSC1jVTFnQ2k1bGJUeEpzVDdOVnNmLTdKWko1Mmp0d0loQkdiVUMxOXllWElhNGFYZ1ljV1RiMjF6RDg1NmFKeGpTNjlOdjBhQmNPZTQ?oc=5",
+   "id": "592fa8816e",
+   "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWTNpNFhvZ3RQbTNTMlZPa2Q4RWRfRnp1Mk1oUFpCRkFDSDhid2JYUDR6S2kwTzFMbUZjekdUTk5PV29wQUd2eS14azdtQU9iY0lKeC1yU1RrTmwxVElSUmZxeEVVQW1Kb2o3ejNyY1FFRDJ2aEprbDc2MFpNcW5rY3VHWUMxRFlTaDEyMXZ5WlJQMjlYZGt2dUpTTULSAaIBQVVfeXFMTzBjOEZrcFFDVng0V0pyQU1uMXd1Z2pHaUhIcDNQRndzZ19nOHhLbEpiU3pKMDJWaWtlV0RPMXpkMFIxT0FfNnlSWEVUcnd4cDNwVEJudjZlR09Zc2w5NlR5MG5McWlZU1djYlJDZC0tVFBMMUdVZC1pNTU5T3p0OXJKNVBPNktKb1RBM3R6ZzRpcEtJdGRBWnl1WlFGZ0FlOUpR?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Al Jazeera",
    "region": "CA",
-   "date": "2026-11-15T22:00:13+00:00",
+   "date": "2026-11-15T18:42:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Ukraine",
@@ -382,73 +436,19 @@
    "topic": "Society"
   },
   {
-   "id": "1172e44ebd",
-   "title": "Quebec premier says meeting with Mark Carney was ‘pleasant’",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHBGM1B3OHEtbVpmeHkxclFxUFloOWNJbWZFU0sxcElXUktRVXpONmdrdUx2ZnB2bDdVYVQ2VzhNSlhFaEJZbEFsVmNGdlpmN0dVcGpUUGt2dlI4U2pMNHd6ckdZbldOaGpWQlVmbS1kQmxQYlpWWERvRkdaaGpjZkxZaXE4RC1xRXo3NUg1T1BSNm1DWU56OWktUzdUM00?oc=5",
+   "id": "fcabe20035",
+   "title": "PSPP and Carney have ‘very pleasant meeting’ following weeks of tensions",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVBTNFIzQlNKdTh6YmV0WDVta1dtLWkzcFh2UGtSTVE1YWVwa2F3V0tYZEl4aVlsMVZkOExTa1BuZURFQVFPcHBVS0RfREQ5TFcxYWo1NXBFbXJjLUoyVW9LSmtvbFBsSGNFRmREQmJXTXhObC1yVlJPaEZCZVNyREJVNEdJMldPMzNHaC1yLThkd2FOWVNFMU94VDNKX2pJRENkOHJQU3VVRDVCOHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "Montreal Gazette",
    "region": "CA",
-   "date": "2026-11-15T19:31:03+00:00",
+   "date": "2026-11-15T17:22:49+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2235179c92",
-   "title": "IIHF confirms Russia out of 2027 World Juniors, Canada to remain host",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeE5nLWJJcVc2amdtbnNwWGRlY281azBqTXlBTlNreWdMY1ZBQWxhQ3VWV01nTTNGS0hvdG5XeFdfZ3hwZExManRSNUxIN0ZoSjQ1cm8wVWQ4cWRULThpb2V0Mi1GS3AyNmdCOUJnbFgtMDhzbkZtV0NWSGVnTTBfeXZQOHg2YWRaMEo3WlhQNkhSai1PNmdyMDhQdjRyQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Kyiv Independent",
-   "region": "CA",
-   "date": "2026-11-15T19:10:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇨🇦",
-    "also": [
-     "Canada"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "48b8ce215b",
-   "title": "Space data centers could leave more satellites than stars in the night sky, a Columbia-led report warns",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MLQ.ai",
-   "region": "CA",
-   "date": "2026-11-15T14:54:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "555368765e",
-   "title": "Trump administration asks for billions to overhaul FAA. Democrats question how money was spent",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQ1h0Ym9OcXNMZDl6VXN6WWVQZzZYdnJyYlRMdUxVb0lFUkZHZmliLTVjLTd5eldlcnZVTmxPV1hsT0FxUTEydWJoREZBNnZTeWJ5UXUzTkhLcjdSc19wVXpsQlpzWUJfVklzckxXOWJCNEd5UUtmSWZNWnRyeW1SY21Tek14ekd2d1lLT1lqcHd2TGFJZUROZkRfY0k3a1F0UjFHUXBuMzZvbDRvdTdjaWtidGRDTV9ZdnNrcFZGb29XWVZ5ZGFiNnpwRjA5aDM3OWpnUWV1UnQ1SlRmOVBBRU83QTlacVdNanlobUpXbjNXUlRnS1k4aTVWbExWaDhsV0tITG43eDNmcDZIV1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Toronto Star",
-   "region": "CA",
-   "date": "2026-11-15T14:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -524,23 +524,6 @@
    "topic": "Health"
   },
   {
-   "id": "56637fe863",
-   "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hbm5ZRXRBajhqRjhtMXJfZkIyX0gtWV8tTEFHYjVqVTJKMVJmS3VOcGJhN1FiR0pqUjhYajZJcDU5Z0NyM3ptZWQzN2R0U0ltUEEzYmllTkRUeTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "CA",
-   "date": "2026-11-15T09:26:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e59ea67241",
    "title": "Philippines wins inaugural Eurovision Asia as 19-year-old makes history",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHdhd2FPbVdaSDZjV0VWbTYzdUNac19wSGl0aUFqTFVZbXY0RW9pU1JUaTU3ajhPeUVzSmpGWk0wYVlCVjNwYk1vUmtvWXBEX3FsN0tfdWx5UFh2YlB0bDdJNnB1MHI3ZWxWZmRTTlhBMU1MQVJqU3dfWWJIbDh0V2JGQzFvMC11ck1OR3l3TExvcFlQQlNzU1JjRWF4WXoxUFdTSUY5azlvbXQ2eC04QXJ6NW0tZFZ0eXpVTnJxcXhlOU0?oc=5",
@@ -554,6 +537,23 @@
     "country": "Philippines",
     "place": "",
     "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "12adda63a0",
+   "title": "Prince William to be joined by wife Kate for visit to India",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU01qVTBJWG1rQ0puOC1rLTY3TGhnSTY4RUFKMWdQX2FvMlo1aXZwMkRBdkdJVFFkVHFicmZiQzVERVh2amh6cl9GZ1pGS3pNdzZJOXlfRXVOYzBEWWdIbEk1WTFTbGR2UHl0VmxqSUdjaVQwa00wTk0xT3N0NVk3aHQ3UG9XWlBRZEN6bTZvbTlXZHhmQVhXOHdKX3FfQUgzYnR2MjlNVDBGZGszRHNEbQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-15T02:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
