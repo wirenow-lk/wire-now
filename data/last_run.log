@@ -1,55 +1,37 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 1/80 used today
 
-OK   Google Top Stories LK: 38 stories
-FAIL Ada Derana: HTTP Error 429: Too Many Requests
+FAIL Google Top Stories LK: HTTP Error 503: Service Unavailable
+FAIL Ada Derana: HTTP Error 503: Service Unavailable
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 27 stories
+FAIL EconomyNext: HTTP Error 429: Too Many Requests
 FAIL Daily Mirror: HTTP Error 429: Too Many Requests
-FAIL Hiru News: HTTP Error 429: Too Many Requests
-OK   Newsfirst: 17 stories
-FAIL Daily News: HTTP Error 429: Too Many Requests
-OK   Sunday Times: 1 stories
+FAIL Hiru News: HTTP Error 503: Service Unavailable
+FAIL Newsfirst: HTTP Error 429: Too Many Requests
+FAIL Daily News: HTTP Error 503: Service Unavailable
+FAIL Sunday Times: HTTP Error 503: Service Unavailable
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 0 stories
+FAIL Lanka Puvath: HTTP Error 503: Service Unavailable
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 2 stories
+FAIL Ceylon Today: HTTP Error 503: Service Unavailable
 FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
-OK   Google Top Stories World: 48 stories
+FAIL Google Top Stories World: HTTP Error 503: Service Unavailable
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
-FAIL AP News: HTTP Error 429: Too Many Requests
+FAIL Reuters: HTTP Error 429: Too Many Requests
+FAIL AP News: HTTP Error 503: Service Unavailable
 
-Biggest stories right now: New James Bond announced ... and the name’s P (4 outlets) | Trump backs return of ex-Nvidia boss after 'B (4 outlets) | 17 killed in two mass shootings in South Afri (4 outlets) | Five EU countries unveil plans for Rwanda dep (4 outlets) | Lindsay Clancy to face retrial next year for  (3 outlets)
+Biggest stories right now: 17 killed in two mass shootings in South Afri (3 outlets) | Customers report difficulty accessing online  (2 outlets) | Five EU countries announce plan to send rejec (2 outlets) | British actor Robert Pattinson named as new J (2 outlets) | Gérard Depardieu drops appeal against sexual  (2 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The New York Times [2 outlets]: Five European Countries Plan to Deport Migrants to Rwanda
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The New York Times [1 outlets]: Grammy Nominations 2027: See the Full List
+* Newswire [1 outlets]: ‘I may not return alive’: Imran Khan’s emotional letter to judges made
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* CNBC [1 outlets]: Dow falls 700 points, Nasdaq loses 2% as Nvidia leads AI stocks lower:
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [3 outlets]: Gérard Depardieu drops appeal against sexual assault conviction
-    important (also on Reuters, The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: BBC World, The Guardian
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -58,3 +40,44 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
+    attempt 1 rejected: the name/word 'PIMS' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    attempt 2 rejected: key_facts states blood pressure as '192/193'; the article says readings of 192 and 193, not a 192/193 reading.; spoken says 'heart attack'; the article says doctors warned of cardiac arrest, which is 
+    -> no cards; posting with the site's own summary
+* Newswire [1 outlets]: Rs. 451 billion, zero loans: Cabinet approves two new expressways
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    attempt 1 rejected: the name/word 'Lanka' is not in the article
+    cards OK (attempt 2, written by openrouter)
+* Newswire [1 outlets]: More orders, higher production: Positive signals from Sri Lanka’s econ
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: Gérard Depardieu drops appeal against sexual assault conviction
+    no AI summary: saving the rest of today for important news
+* The Guardian [2 outlets]: Customers report difficulty accessing online services at major US bank
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    attempt 1 rejected: Card states the security alert was issued on November 16, but the article only says it was published by the US Embassy in Bulgaria on that date, not that it was issued on November 16.
+    attempt 2 rejected: Empty place field not specified in article
+
+Top 10: 1 fully explained
+  reader summaries from the website: 0
+  photos: looked up 20, found 20
+  photos: 17 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  fact check feed Factcheck.lk failed (HTTP Error 503: Service Unavailable)
+  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 503: Service Unavailable)
+  fact check feed Watchdog failed (HTTP Error 503: Service Unavailable)
+  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
+  Fact Base: 7 facts and 1 people saved
+  meaning check: 5 stories judged by openrouter:openrouter/free
+
+Website updated: 30 Sri Lanka + 75 world stories (1 with cards, 17 story pages for Google)
+
+Countries: IN 0 (FAIL), PK 0 (FAIL), BD 0 (FAIL), US 0 (FAIL), GB 0 (FAIL), IE 0 (FAIL), CA 0 (FAIL), AU 0 (FAIL), NZ 0 (FAIL), SG 0 (FAIL), MY 0 (FAIL), PH 0 (FAIL), AE 0 (FAIL), IL 0 (FAIL), NG 0 (FAIL), KE 0 (FAIL), ZA 0 (FAIL), GH 0 (FAIL), FR 0 (FAIL), DE 0 (FAIL), JP 0 (FAIL), IT 0 (FAIL), ES 0 (FAIL), BR 0 (FAIL)
