@@ -1,11 +1,11 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 56/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 61/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 81 stories
+OK   Ada Derana: 79 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
-OK   Daily Mirror: 83 stories
+OK   EconomyNext: 26 stories
+OK   Daily Mirror: 85 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 17 stories
 OK   Daily News: 72 stories
@@ -14,39 +14,23 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 15 stories
-OK   Google Top Stories World: 67 stories
+OK   Google Warnings LK: 14 stories
+OK   Google Top Stories World: 53 stories
 OK   BBC World: 23 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 92 stories
+OK   AP News: 94 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (13 outlets) | Tanker Steering Failure Led to Cruise Ship Co (6 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (6 outlets) | British actor Robert Pattinson named new Jame (5 outlets) | UK's Prince William, Princess Kate begin Indi (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (12 outlets) | 17 killed in two mass shootings in South Afri (6 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (6 outlets) | James Bond live updates: Robert Pattinson nam (5 outlets) | UK's Prince William, Princess Kate begin Indi (5 outlets)
 
-8 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Reuters [1 outlets]: Lindsay Clancy to face retrial in March over killing of her children i
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Forbes [2 outlets]: Jensen Huang Scandal: Timeline That Led To His Resignation—And Potenti
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: SJB General secretary claims Ananda Palitha’s arrest Is an act of poli
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [3 outlets]: Weather: Deep Depression moves away from Sri Lanka
-    important (also on Ada Derana, Hiru News) - researching
+* Hiru News [3 outlets]: Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidi
+    important (also on Ada Derana, BBC World) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -63,11 +47,31 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 503,
     "message": "This model is curr)
     -> no cards; posting with the site's own summary
-* Newswire [3 outlets]: NCPA Act and policy to be made available in Braille for the first time
-    important (also on Ada Derana, Hiru News) - researching
+* Hiru News [2 outlets]: Rare Titanic ticket expected to fetch £50,000
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The New York Times [2 outlets]: Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* AP News [3 outlets]: Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with X
+    important (also on Ada Derana, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Guardian [4 outlets]: Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
+    important (also on BBC World, CNBC, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: The Guardian, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -81,29 +85,10 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 503,
     "message": "This model is curr)
     -> no cards; posting with the site's own summary
-* Hiru News [5 outlets]: Robert Pattinson named as new James Bond actor
-    important (also on AP News, Ada Derana, Reuters, Variety) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [4 outlets]: Iran’s proxy in Iraq rakes in hundreds of millions through oil smuggli
-    important (also on Ada Derana, Daily Mirror, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [4 outlets]: At least 17 killed in two South Africa mass shootings
-    important (also on AP News, BBC World, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -116,22 +101,18 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -139,7 +120,7 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
+  photos: looked up 24, found 1
   photos: 12 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
@@ -147,8 +128,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 16 story pages for Google)
 
-Countries: IN 38, PK 33, BD 38, US 38, GB 37, IE 35, CA 35, AU 37, NZ 29, SG 32, MY 38, PH 33, AE 38, IL 33, NG 34, KE 33, ZA 35, GH 30, FR 34, DE 34, JP 7, IT 32, ES 33, BR 33
-
-Posted today's Top 10 round-up
+Countries: IN 38, PK 30, BD 37, US 37, GB 35, IE 35, CA 37, AU 37, NZ 27, SG 32, MY 38, PH 31, AE 37, IL 33, NG 36, KE 32, ZA 34, GH 32, FR 34, DE 34, JP 7, IT 33, ES 34, BR 33
 
 World Pulse not made this run: no AI available for writers
