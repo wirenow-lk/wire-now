@@ -1,63 +1,66 @@
 {
- "updated": "2026-11-16T05:39:49.454512+00:00",
+ "updated": "2026-11-16T07:20:29.138395+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "e71e2c2d66",
-   "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGVtNVJwRV8wTl9BUEQ4ZXBIT0V6aHVHdEt2NHk3ZWhHVzZkek5RX0pZN1lnSmN4cVNvOEtvVmttTXpLbkVGU0JmNXRVd3N1T1B4dlg4YWNEbjE4UjAwckdqREthS3BrQy1rSFdydzlNMlB0cTk5Z2NuZnhTZ0IzV2EzOTRObkJUQUdwcnViZ2dUTk5QaVVlbDFYQXVySVp4cWNTVlNGN1BXXzBQOVIzVjhiMWc?oc=5",
+   "id": "496ae43dbc",
+   "title": "Putin has landed his dream meeting. But it won’t be the triumph he craves",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHdHbEYtMF85SWpoN1J0bVZFM0Y3V2dlRHZQV2hLSTRCVGFSdWhiTjREMGhIRDFocXM5MWQ5SUtubkFsOG5COVRRR2VOWGNsSmFROVdtelZqOGFGU0V6WmJzOEI3WDdTSC1IaFh0dHhTUm1LVEtiSXlDRHRqdFRxNGdvb3lOT1k?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-16T04:29:00+00:00",
+   "date": "2026-11-16T06:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Russia",
     "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "9e38c4b128",
-   "title": "Hidden tongue movement found in 'strong R' study",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85cDA1RFc0M1JERGNIY3FDNlVjNHg2WWZNVER0dlRObF8tVVlzeHh3S053T2ZQVnpaQ0VJUFNTUmY2VFRFR2hYT3FEVDd4UW0zdVhTTjgyMTdRcVBhT1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-16T04:19:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇷🇺"
    },
    "topic": "Society"
   },
   {
-   "id": "8d8ca2f54d",
-   "title": "Consent law change 'on cards' and ex-PM Johnson says 'Britain would back Brexit again'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Hd1JIaXJ5dmswTG5keWF4UTI0dUwyNmtPS0dnZHpHR0lIYm04V0RmQnZQUkI2ajh5emtDenVtQ3NpMG5Ec1lOUmN2TW9PZnFvMFZ5R1dhNE9RLUZoYlE?oc=5",
+   "id": "52ea84a049",
+   "title": "Government accused of 'complacency' over 'catastrophic' security risks to UK",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0hjRnJ2QXc2bXJqMXc0aUNqYmV0Y0Rac2R4MFVFeDk5V0gtZzk5R1ZNWWJPaWw5cmJrSXk0RkF0SUxwaDRXaE45VlBPSGxoNkFVRGI3cTJXck5zTDl1RVdONWJlTmRUWEt0ZkE1ZnZfbkxWWVc5em1fZUVrNW5RWFgteV8yc2hqRE9VMzBnbWpjWm5WUk83LUF3dFdwbk1qOWRvQmFGQ0lXbFZF?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-16T03:09:24+00:00",
+   "date": "2026-11-16T03:26:04+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
+   "topic": "Politics"
+  },
+  {
+   "id": "58fb284776",
+   "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BbmIzVWJTdVlDeHpxaTdzZWZhbHBQQ093X3BLaEZqeFpvM0RtQ0ZlbE9FNlJwM3JKLXZwOHFob0Q5N3A3LVV2MWVsdGxtSmd6WEpXLWM2TW9kUkZHcHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-16T02:53:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧 🇮🇳",
+    "also": [
+     "India"
+    ]
+   },
    "topic": "Society"
   },
   {
-   "id": "2dd0beba1d",
-   "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnpvNXJzaHE4UjFSUFIyNm5qRnlPY1cwaDF6Rkt0Q2RpWklVblc0ajRNd3FTX294b1B0bUhoQmtzc1czM1dDcFVUYmdvTjBla3d3d1VXOXlCQVBOOU9nUFRwWndKZWE5aXNLVGVJX0NtRFNfMFo0em5hZERKemFGQ2VOblVpTUk?oc=5",
+   "id": "2e988f2c36",
+   "title": "Ronaldinho makes debut for Italian side Ravenna after 11-year hiatus in playing career",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENZWVdabTNCZnNGZXhNWGg3aFJ2ZmdCQzVDV1dYZXlIeDE1RnhMYWpMb1pQbkZGNjJmX0F0Q3h2dW1aUU5qSFhNWlNoTW5qbzdBU3l6OGRaNHIyZ3ZOcUVkVkNNN2dibG9BRDFYcmlqWldFdmZxUEw0UFlpMzN3MGkzcE9XLWxSWlpiVzQxdlJfcGxjUGZxOFBTWFFxNVNuVzhiNzM0eHhLUENGR2IxcTZTQ0ZnVl9TX3hkenQ4SQ?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
@@ -65,26 +68,9 @@
    "date": "2026-11-16T02:30:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Italy",
     "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4a93a35c97",
-   "title": "Lucy Beaumont thought she’d never work in TV again after speaking up on David Walliams. Something different happened",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWdmekV5THpHZ29SWER0ZlUzSjc2RGZGelRoV3RuOVE2THRERG5mTEN1V1MzVXhobk83RVlfYkZJUkVQYkhUWHJFVWVQY3VxeU5rUnp0Tkt2VTc4RWFiT1RwWTRubUZDbF9YTFRSZXI3N05ScTYwdFFqVkNCLWpfMzZWRGJqODZmaWYxdUswRW44bTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-16T02:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇮🇹"
    },
    "topic": "Society"
   },
@@ -106,21 +92,21 @@
    "topic": "Society"
   },
   {
-   "id": "2623b2bc01",
-   "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0dXUzFMRlk1TkFVVGFBblNEWDh3RnVKODNCMkpSZDBTU2liMUIxdnI0Y3A0X05UYU5NUzlUbEw4ZWVxUVluVzFqdk5QQmQ2MzhNWmYtT21vTnBCOHR3bWtuaW5oU0VEeVJXdTFHRVNiNTNIdUxpUlVBeVRvQWpuMkJ2Y3h0dXFRTUx6WEJYdWswcWFRQkhhSmg0OGJkbndxb2daSFBmNEtEZi1qVmZuZzJIcTd2dw?oc=5",
+   "id": "e5b2024533",
+   "title": "Russell Brand moved from HMP Wandsworth to category C jail ‘for his safety’",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmQ0c0xOU0hhc1BpZmoyaWs0OTNWSFVlZWc5MUpjbFR1LU8zY21yUnNjQXk1bXVuVzRLMnUyZ3gtQllwOHJic1JlX19waVkzcUwwaV9RZFNvR3pkTl9CaUJkSjVsdEdoU0tfVFlaZlA5TUtNS1VuWlozOV9uWWVseW1pNUNVQkpDc3I1MjZhbkxxVlRucjN4NUUxcTVnN28?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "London Evening Standard",
    "region": "GB",
-   "date": "2026-11-16T01:17:00+00:00",
+   "date": "2026-11-16T02:25:39+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "0c9edfb9a2",
@@ -131,6 +117,23 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-16T00:47:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dacf9828d2",
+   "title": "Terminally ill dying in fuel poverty too scared to turn on heating or lights",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmtNdG95TEY4c1NLakItZDlYeE1GUFdfMGNKeTFUNjBFS2xjT2VKaTg2OUcwSUJDeGdIYl83bUFFdWJRVE1UdlkzNnIxSHJsMUl4Y3ZjbWJuWDNfYnF6c1hwdG1OUWJQZFRHRGVpc3hjM1VLSXdKT01lWVJhTHR2T3lwSEIzd9IBiwFBVV95cUxPVm5qNDgwNGx4bEp3Yk5vQjctUzZla2RmVGFWOXAyWUhxcXJjcG51R0p4eW9uTlJDSlowTDhHY2w5N1BfSkN5TUpneEp6eTFDdGg0a2hJaV9GNUZkbWJCZF9Obk9aZ0JKX2x6VmVIei03b0VTQkNwcXRoaUw2bkJ6S0R3WmZDN2tlN1Q4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Mirror",
+   "region": "GB",
+   "date": "2026-11-16T00:14:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -174,23 +177,6 @@
     "country": "Russia",
     "place": "",
     "flag": "🇷🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "845837f31e",
-   "title": "Chippy's epic 'Codzilla' meal challenge features 3ft piece of fish weighing 5lbs and a HUGE cash prize if you finish it",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDVyc2JpdW54YXcxLWhQbldzeHVWc29TbzVaOGR1WDY0OEgyNTcxQlZZRXZRMjlGanpXdDlqd3Vxb0FTZEhETmpRZzFUcW9TNWE2cW5iZ1pyZVNuS1VCVWN5RUszMWI4bGF6QjBmVVNjZHJJLUdzY01pUWU1ZVIxeg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-15T23:26:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -263,36 +249,36 @@
    "topic": "Society"
   },
   {
-   "id": "9c13dab337",
-   "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NV2VaTXZYWUJpSUVzM3otTDNFM2JXc05XUnNIT2NwYnlEX1FpckllQW01N0I2YVdrS2lya1o0cXdDNk5ZMEYybUllbk4tQmZSaW5wa3lDWTItN3JYY0E?oc=5",
+   "id": "0391940b79",
+   "title": "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3JnTVhjc3hod2dzTHF4UTlmNHZFTTJDOUJOM0NWRnhiZk9URldUOHAxZ3ZZLWxtQ0lGU2xuSFBqM3ZtQkxIWnJqVzBSU1dsUTdibGdsQTl3SVhjZ3hwOHlxQktxREIycHI5UjFSMEVVU3JuQWRydXdMUHRnNkFqbFZGLWI?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-15T22:00:24+00:00",
+   "date": "2026-11-15T21:53:53+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
-   "id": "a86662f0ce",
-   "title": "Estonia to close border with Russia after second alleged sabotage attempt",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTFwN2k4ekxGTk9VbVNuZFhwZUs0cGlHbmdxY0tNQWZzcmdPZUREUVliQXU4dy1ueGg4RlZTM2xsN2tiTk5DbnlYb0dkZlFMMUprNk1LUUk5M3R5dHRpLTkwU1J0Q2ppNHl4UVVBQnYtYnFwaGpBRG82bkpZTkNKa01SbjU?oc=5",
+   "id": "5e7b87e2c1",
+   "title": "Nepo baby or not, Jaime Winstone is hanging on by a thread",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVTFZOW1YXzVrQ09PbV9CcTEwZXF0aTFFRnRFNkl1VkttSDhEaEJaTzNKOG5PeF91SXFyT1ZlVzZ4WTFLcnZDU0J4SnlLY2p2LXJWTkUwOWtZdnh6RDBUMjlwUW93SlBuTUlSU2U5QmtCNllMbVNublBFaV8zVFFfZk5sMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-15T20:58:12+00:00",
+   "date": "2026-11-15T21:47:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Russia",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇷🇺"
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -348,6 +334,23 @@
    "topic": "Society"
   },
   {
+   "id": "e1b02855d5",
+   "title": "Government to consider staggered age of consent after Russell Brand allegations | ITV News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWp2VHlEQ19iU2tKSE11YXdOODFGS2VsOVU5SXVibHQ2LWhUUGxmbmo1ekVIalFkOVNYYUVpUlZMQ1ZYd1Q0MjJhRTV5TUJoZDNBcXpFS0ZBcks1RU9MZkxRVWo3N0lwOVdaa25zTVFxT1E5RHc1RElQNG0xeTE0cmwxWml5WWh2UXc4dUVwWXIybWpEbjVFZ2UzTlpUTnp2cEN6WEtKZWF6aU9OSTlNTW03MW9MZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ITVX",
+   "region": "GB",
+   "date": "2026-11-15T19:44:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "29bced6a83",
    "title": "SpaceX ‘chopsticks’ catch Starship in world first",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFgyUjZFRkE5MWNVT19UVlFSaVpERFlsZEdkUHE4d1ZZRUhNQ01UNjVRTl9HTGlqY3A3Q3VJVnVNN3U0ekdQbHAwRTZKaXJFTVZTNmwwMnNUU3FBZEw2QjhtMVozejRRNUVTWmdsVXJVSXJreVUzTjd3c2Q1YmpjN3BwZWdNYS1ZRllhVVlFSEdURDE3VE1JR2x2MA?oc=5",
@@ -365,21 +368,21 @@
    "topic": "Society"
   },
   {
-   "id": "88e724977d",
-   "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CV3ZLTzdBWS1wM1V0cHRCVFdEM2g5QlVYeVE1RXRxSmVLZHJqc05RNUFlc190d2FvUzJLcHByaDhlZ3c4TnVaVEdvbU50RXVGT1lRaFg1a2RFNVEzM0E?oc=5",
+   "id": "b0d8f45cea",
+   "title": "A 14-year-old girl has gone missing in Bolton and police need your help",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1lfUjFmSk5NbkFPQW9vRjUwTEkwUjZpQlIxV1pDRkFjbDFBem1wazYwTnFpYTlRemNpZGM2ZzZ1UzBKQ1VsQXhtSUM2cnl6YzUtYnlZNmdzUUcwdGNieXJwSndfSWpGMTJET1dnTHBkQXRVTllSWFcxdnlaVkNhUm5KNXRMd1JTdHpPNmNNdUwwOFJpYXRkdG1VY25jUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Bolton News",
    "region": "GB",
-   "date": "2026-11-15T19:20:53+00:00",
+   "date": "2026-11-15T19:27:55+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "190bdbba85",
@@ -390,23 +393,6 @@
    "source": "Metro.co.uk",
    "region": "GB",
    "date": "2026-11-15T18:24:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e8ba48656f",
-   "title": "Ronaldinho makes comeback in Ravenna win",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12aWZUaDRaZndPWlZGSGhPUUNtVkRtbUNDZmNoeGpQb1htMVVYM09OVEtnbGo0ZHJMZkw0bzVCcDZzOUFXblR5ZlZGMG9MLVlicElyTEg4VjJxTXJ2VmVuV2lQOWxJdnVfQ0tF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-15T18:01:25+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -470,14 +456,14 @@
    "topic": "Society"
   },
   {
-   "id": "224c1006ff",
-   "title": "Trump blames Biden for nationwide travel stoppage",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGxOd0h5ZnJmY2xRTFRCOV9HZ3J3dWtLdDZ4dmV6ck4xNDZmU3dNUnhnUFBBSHM0eURFSnV0dkNrNjBjX0dBVDZMQ28yMFJBRUJ2ZzVqeVRZaFRqMENUVGtyX2JjOGVZOFpSX0VQZXdCbHlZNFFlT0NHbkM2dl93dG85bkhxV1BqSXNhZ3hpc1N3ZWhIZ25Ea05SZHRuTkZhOXZtbTNLQVpROFVjZjl5cjFrOFdsdG1sNXhj?oc=5",
+   "id": "0b2ae43d8d",
+   "title": "Wire-repair risks were flagged before US flight shutdown",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmQ1NnJlaVdfakRNdWhDSjk5cFd0THM5Z3NkLXpDd3ktMlkyUW16d2twOUFLeXpmQXcwM3RBSkR3aXFVY19ndThvY2NZR1EtMXRzRFZMVThTM3JPRHEtMlFhdzdJbkRCMXpDeVpXTzcyMF9DZHhJVmVlS2ZfQVhSVHZSSHZBTUpaeGZWdDB4UkZzcmlpczN6NjhNX3NzdEdPWFVralJ0bVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Independent",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-15T16:30:00+00:00",
+   "date": "2026-11-15T16:32:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -487,14 +473,31 @@
    "topic": "Society"
   },
   {
-   "id": "e3cd7aa261",
-   "title": "Exclusive: Sunrise on the Reaping director explains necessary book changes",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQkVWRm5lN1F3b1hkd3p6ODdXOHlrSTVUZnJ5Zm5tcmw5dkZ6ZlFZRXhvVC1yM2o1UlY5MXAyc0ZDQjZDcDhvUUgzOEFOc0EwRTlzYzdJLWhyRmdfRXRnNUc0WE02UmFsRFc2MzFyQUFjN2d3NUJIc0tGbVZNRFVkeWo1aDZ3N0pSQWpxT0M5TklWNmM?oc=5",
+   "id": "63b86de4e0",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92eWpwdjBvWG9Zbnd0XzRDN25Oc1M0Q1hGdVRzSHhqdmpjRFNpektZT0Vfb3hPYl82WXp6dHBtSWR1VGZRdDVIMWVETWdZUlJaWGRzbms5ZHFKRFpoeUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Digital Spy",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-15T16:14:34+00:00",
+   "date": "2026-11-15T14:56:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "7a9e1f5c0f",
+   "title": "Mum woke to missed calls from son's fiancée after holiday took devastating turn",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VSGRIbThZTVR6VUJYNGRMWVhfQnVsYmd4ekhVUjJFVDZNTmRQVHI3RXV5WDRYa2lsd2hCWWpGN3ZEYmhlLUpud242S09PaTJyRzN2QVhDcFNvaGl3c0dwa3RDQ1NiM2pTdWo1d0tlbkVpalQ0ejlET1lFNGswUdIBgwFBVV95cUxNSTlkbVJ5MW1EZXpVVnRFVmJsbEd2SHRtX3dNVmVDT3J1ckJkOVVfbzBWSjBmbXg4MzRHcGFxMXhRYVhIT2lSWTNSSUJsaGwyU0VQN20xalA4VEpIZTROZlRoQnEzdUZEZUNKd3NIbnFoTGFqZGNjV0FSYzVUZjR5Y3Z3RQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Mirror",
+   "region": "GB",
+   "date": "2026-11-15T12:09:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -504,31 +507,14 @@
    "topic": "Society"
   },
   {
-   "id": "cc54183b76",
-   "title": "Strictly Come Dancing pair criticised by judge over ‘illegal lifts’",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkpJQWJrNHpxMHo2WHFialNlTG9YTEdkcnE4cG9RQW9pVG1ueFkzTTMzWElfUDdLSmhUNV92dHd6cUVHSXVYeVBXalBQWVREU1lzV1dCT3ZLS2FSX3ZRbDM3ajMyOXFUekhmMWJzbkUzUmhwVElNc1MwRHpqM0lKb3Z5LUM1RjRzX3REejVlOGE2a25wNGNTR0wwNTE2Z3BDTWhKbTJGSWxJTEpnY1IyRGdza290MjdHUzh0ajVVOA?oc=5",
+   "id": "fd9f0476c1",
+   "title": "Pat McFadden Says There Should Be a Legal Duty for Young People to Have Job Support",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSU1wZTFEQXYxS2FPUzE2QWRrVUJfWUswU0xRMFN3V3dWQWx6aXdEU213WFNkMEl6Q2dQUFlyN1ZDT3ZIeFcyaVV5bVNzLU9WNVE4NlZja2RNSHVDMEVMMFg1aVNrdHBlZjBqTjdGcFd6M1F4a2s2TkQ1bFkzSzl4RXBBa3k1YkIwaExoMnZoR2RTR0tjTDVBcm04TXF0RFdBdzM4ZmpIangtUHpTTFlseXA1Um5FNk1oYzJV?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Independent",
+   "source": "Guido Fawkes",
    "region": "GB",
-   "date": "2026-11-15T12:46:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f03d7bccee",
-   "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYXVJLW5XZGo4SldNMWE5ZVdUcllWVzRSRGdqSVQ0emp5SUtrWXl1VFdvbFhHa2lMaERaQ3hYU2V3bEdlTldQZE9KMkhKdWtxZnNaVEdHZFB4amFPa2FQeDNKcXJ1Z2ZUd3UzejZ3MXk1RjNKaGR3WW4yRndNRy1nZTJyRHlNSWVxUWlJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-15T11:52:00+00:00",
+   "date": "2026-11-15T11:14:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -570,23 +556,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Health"
-  },
-  {
-   "id": "4c7712f4a1",
-   "title": "Some GTA 6 physical copies may expose download codes without opening the box, fans discover flashlight trick",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX244QTVVYVc2SFdrWmJoc3JINHhYRmItNFVCR2w1NVdYYmV0aXFPR1ZpQlpxYURpdWtBLWFZX3hpUkVEUmFIWlBCb3pCelFva0V3M2hTa3FLdDlWa1M4RW5ubjByejlHLW1RZ0FnTll3c2luVXBTNTJsam1HbnpJaGN2Y1dDcmdtUGQ3Z3VtSDVrdWpHYjRzcC1yQnpyYjc4YmdVRy1PcHBHSUFnZWNCZ3BxVHhmZjVfYlJ2c3hFbG16ODNJX25uUHJIUlNOOEow?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "VideoCardz.com",
-   "region": "GB",
-   "date": "2026-11-14T09:10:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
   },
   {
    "id": "89a627e1c2",

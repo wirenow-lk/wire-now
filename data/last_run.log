@@ -1,118 +1,130 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 31/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 78 stories
+OK   Ada Derana: 77 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 10 stories
-OK   Daily Mirror: 41 stories
+OK   EconomyNext: 13 stories
+OK   Daily Mirror: 63 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 14 stories
-OK   Daily News: 68 stories
-OK   Sunday Times: 58 stories
+OK   Newsfirst: 13 stories
+OK   Daily News: 69 stories
+OK   Sunday Times: 0 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 5 stories
+OK   Google Warnings LK: 6 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 76 stories
+OK   AP News: 79 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Suspected China spy linked to Nvidia's ex-bos (6 outlets) | Steering problem on tanker caused collision i (6 outlets) | Hundreds of thousands of Czechs rally against (6 outlets) | Mexican drug lord Miguel Angel Felix Gallardo (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Suspected China spy linked to Nvidia's ex-bos (6 outlets) | Steering problem on tanker caused collision i (6 outlets) | Mexican drug lord Miguel Angel Felix Gallardo (5 outlets) | Oil prices fall on expectations of coming sup (5 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [3 outlets]: Fire in Phuket shophouse kills 11 injures 16, police say
-    important (also on Al Jazeera, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (The read operation timed out)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    -> no cards; posting with the site's own summary
-* Daily Mirror [1 outlets]: Heart attack rumours? Keerthi Pasqual responds
+* Hiru News [1 outlets]: 29-Year old motorcyclist killed in collision with reversing tipper tru
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [1 outlets]: 29-year-old motorcyclist dies in collision with lorry on Giriulla–Nego
+* Hiru News [1 outlets]: Police arrest 456 suspects in islandwide crime and drug prevention ope
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [4 outlets]: Safe fruit-ripening facility opens in Anuradhapura
-    important (also on Ada Derana, Daily News, Hiru News) - researching
+* Daily Mirror [1 outlets]: Bombuwala Consultants leads management excellence programme for Wayamb
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* Hiru News [3 outlets]: Intel sued by shareholders following 29% stock plunge
-    important (also on BBC, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [2 outlets]: Namal Rajapaksa’s Rs. 70 million ‘Krrish’ case takes new turn
-    important (also on Ada Derana) - researching
+* Newswire [4 outlets]: Jay Shah reappointed ICC Chairman for second term
+    important (also on Ada Derana, Hiru News, Reuters) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* The Guardian [3 outlets]: Canada could work with Chinese automakers if US trade talks fail, says
-    no AI summary: saving the rest of today for important news
-* The Guardian [3 outlets]: MP Helen Haines’s first words since leaving hospital after alleged att
-    no AI summary: saving the rest of today for important news
-
-Top 10: 1 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 4 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code")
-  summary translation failed (no AI available for writers)
+    "code": 429,
+    "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* Daily Mirror [2 outlets]: Hemas Consumer Brands earns recognition
+    important (also on Daily News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: Harsha questions Budget’s measures to address protein affordability
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* The Guardian [2 outlets]: Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal 
+    important (also on Financial Times) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* BBC World [2 outlets]: Yemeni forces' retreat leaves Houthis in control of key Red Sea waterw
+    important (also on BBC) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 5 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 16 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 16 story pages for Google)
 
-Countries: IN 37, PK 34, BD 37, US 37, GB 36, IE 29, CA 36, AU 38, NZ 31, SG 28, MY 35, PH 35, AE 37, IL 32, NG 32, KE 29, ZA 32, GH 27, FR 33, DE 34, JP 11, IT 31, ES 33, BR 31
+Countries: IN 38, PK 35, BD 37, US 37, GB 34, IE 30, CA 36, AU 38, NZ 31, SG 28, MY 37, PH 37, AE 37, IL 32, NG 33, KE 29, ZA 34, GH 29, FR 34, DE 33, JP 10, IT 32, ES 33, BR 31
