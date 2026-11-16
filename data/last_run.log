@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 78 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 8 stories
-OK   Daily Mirror: 38 stories
+OK   EconomyNext: 10 stories
+OK   Daily Mirror: 41 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 13 stories
-OK   Daily News: 64 stories
+OK   Newsfirst: 14 stories
+OK   Daily News: 68 stories
 OK   Sunday Times: 58 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -16,31 +16,26 @@ FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
 OK   Google Warnings LK: 5 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 20 stories
+OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 98 stories
-OK   AP News: 79 stories
+OK   Reuters: 99 stories
+OK   AP News: 76 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | 160 questions, only one wrong: top scorer in  (7 outlets) | Steering problem on tanker caused collision i (6 outlets) | Hundreds of thousands of Czechs rally against (5 outlets) | Britain's Prince Harry visits war-wounded in  (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Suspected China spy linked to Nvidia's ex-bos (6 outlets) | Steering problem on tanker caused collision i (6 outlets) | Hundreds of thousands of Czechs rally against (6 outlets) | Mexican drug lord Miguel Angel Felix Gallardo (5 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Four-year-old girl dies following three-bus collision in Rambewa
-    important (serious news) - researching
+* Ada Derana [3 outlets]: Fire in Phuket shophouse kills 11 injures 16, police say
+    important (also on Al Jazeera, Reuters) - researching
     news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: AI did not reply with JSON: ''
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (The read operation timed out)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -50,63 +45,74 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 2 rejected: Blurb says 'three buses crashed head-on'; the article says two buses collided head-on and a third bus crashed into the rear of one of them.; Spoken says police are 'looking into what caused the crash'
+    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Cyclonic storm developing near Sri Lanka, but moving away : What to ex
+* Daily Mirror [1 outlets]: Heart attack rumours? Keerthi Pasqual responds
     important (serious news) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: 29-year-old motorcyclist dies in collision with lorry on Giriulla–Nego
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [4 outlets]: Safe fruit-ripening facility opens in Anuradhapura
+    important (also on Ada Derana, Daily News, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
     gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: Article says depression is 'likely to intensify' into cyclonic storm and 'develop into' severe cyclonic storm, but cards use weaker 'may become', 'may turn into', 'could become' in what_happened, deta
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* Hiru News [3 outlets]: Intel sued by shareholders following 29% stock plunge
+    important (also on BBC, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Namal Rajapaksa’s Rs. 70 million ‘Krrish’ case takes new turn
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
     gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* Bloomberg [1 outlets]: Nvidia’s CEO Search Draws Fire With Bessent’s ‘Shakeup’ Call
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* The Guardian [3 outlets]: Canada could work with Chinese automakers if US trade talks fail, says
     no AI summary: saving the rest of today for important news
-* Ada Derana [2 outlets]: Oil prices fall on expectations of coming supply surplus
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Sri Lanka police to introduce new uniform in June 2027, inspired by Ca
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Bessent says Nvidia must 'go outside the company' to find new CEO
-    no AI summary: saving the rest of today for important news
-* Reuters [3 outlets]: Toronto Tempo win 2027 WNBA Draft Lottery, earn No. 1 pick
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Australian lawmaker leaves hospital after losing both legs in car atta
+* The Guardian [3 outlets]: MP Helen Haines’s first words since leaving hospital after alleged att
     no AI summary: saving the rest of today for important news
 
-Top 10: 0 fully explained
+Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 2 too small to look sharp, using the clean cover
+  photos: looked up 24, found 0
+  photos: 4 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 9 facts and 0 people saved
-    gemini failed (AI error 400: {
+    gemini unavailable this run (AI error 429: {
   "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-    gemini failed (AI error 400: {
+    "code": 429,
+    "message": "You exceeded your )
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code)
+    "code")
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 16 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 16 story pages for Google)
 
-Countries: IN 37, PK 32, BD 36, US 36, GB 36, IE 31, CA 37, AU 38, NZ 31, SG 30, MY 33, PH 34, AE 36, IL 32, NG 31, KE 29, ZA 32, GH 29, FR 34, DE 33, JP 13, IT 33, ES 32, BR 31
+Countries: IN 37, PK 34, BD 37, US 37, GB 36, IE 29, CA 36, AU 38, NZ 31, SG 28, MY 35, PH 35, AE 37, IL 32, NG 32, KE 29, ZA 32, GH 27, FR 33, DE 34, JP 11, IT 31, ES 33, BR 31
