@@ -1,129 +1,78 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 73/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 92 stories
+OK   Ada Derana: 91 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 23 stories
-OK   Daily Mirror: 97 stories
+OK   EconomyNext: 22 stories
+OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 18 stories
-OK   Daily News: 84 stories
+OK   Newsfirst: 19 stories
+OK   Daily News: 86 stories
 OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 18 stories
-OK   Google Top Stories World: 70 stories
+FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-FAIL AP News: HTTP Error 429: Too Many Requests
+OK   AP News: 100 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (10 outlets) | ‘Unprecedented’ Ukraine attack on Crimean bri (6 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Cyclone Akvan to make landfall between Nellor (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (10 outlets) | Grade 6 admission cut-off marks for 2027 rele (6 outlets) | Cyclone Akvan to make landfall between Nellor (6 outlets) | UK sanctions firms over Israeli West Bank set (5 outlets) | Inland Revenue Department exceeds 2026 revenu (5 outlets)
 
-7 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Relatives of missing persons protest demanding international probe int
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Ada Derana [2 outlets]: Gunmen kill Costa Rican journalist who reported on drugs trade
-    important (also on BBC World) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Daily Mirror [3 outlets]: Cabinet clears 11 contracts for Kahathuduwa-Ingiriya expressway sectio
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Island [3 outlets]: First Phase of the Ruwanpura Expressway (from Kahatuduwa to Ingiriya) 
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
-* The Island [3 outlets]: First Stage of the Fourth Section of the Central Expressway Project (f
-    no AI summary: saving the rest of today for important news
-* Reuters [3 outlets]: Iran attacks US military radar system in Bahrain despite talks with me
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Trump warns Iran over reported ‘dirty bomb’ threat plans against Washi
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+* Newswire [1 outlets]: Why was Saddharathana Thera not arrested? Anuradhapura court seeks exp
+    no AI summary: daily limit reached
+* Hiru News [2 outlets]: Galadari Hotel to be renamed Radisson Blu Hotel Galadari Colombo from 
+    no AI summary: daily limit reached
+* Ada Derana [2 outlets]: Manufacturing and services sectors gain momentum in October
+    no AI summary: daily limit reached
+* WSJ [3 outlets]: Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia C
+    no AI summary: daily limit reached
+* Al Jazeera [3 outlets]: Election-winning student movement enters Serbia’s new parliament
+    no AI summary: daily limit reached
+* BBC World [3 outlets]: US loses measles elimination status after 26 years amid record case nu
+    no AI summary: daily limit reached
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 8 too small to look sharp, using the clean cover
+  photos: looked up 24, found 3
+  photos: 14 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
 
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 21 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 21 story pages for Google)
 
-Countries: IN 38, PK 33, BD 36, US 36, GB 38, IE 35, CA 37, AU 38, NZ 29, SG 35, MY 35, PH 35, AE 36, IL 34, NG 37, KE 38, ZA 35, GH 34, FR 33, DE 34, JP 9, IT 34, ES 34, BR 34
+Countries: IN 37, PK 33, BD 36, US 36, GB 38, IE 36, CA 37, AU 38, NZ 29, SG 34, MY 34, PH 36, AE 36, IL 33, NG 37, KE 37, ZA 34, GH 34, FR 33, DE 34, JP 8, IT 34, ES 34, BR 34
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
 
-World Pulse not made this run: no AI available for writers
+World Pulse not made this run: no AI available for writers (last error: The read operation timed out)

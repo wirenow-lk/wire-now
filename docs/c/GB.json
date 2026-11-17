@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-17T15:50:05.440753+00:00",
+ "updated": "2026-11-17T16:56:00.560452+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
-  {
-   "id": "44c1833dd6",
-   "title": "I’m a Celebrity 2026 live: First star eliminated from the jungle in shock launch show twist",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONkpGN3N4dDBDeHZJRWVmeURPYjNvVEs3eFJFUEd6aU9zYWtSNjBBQVNYS2otR3Y0S1RUTlpPT1Q3aDM3cWRiYlJhY2t2VGp1RDJIaGNQemJqY2djR2hvWVRGc3Zfc09CVlc5d2p5ZFNub0VmWVZZZ3piTWwxR0huOVRNakxMNU43aGszRWEzLWVJMHpqM1paSERCRGpfbkU2X3prWGVnNWxWbjZRSXZLeA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Independent",
-   "region": "GB",
-   "date": "2026-11-17T15:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Entertainment"
-  },
   {
    "id": "da9621a87f",
    "title": "Neets report live: PM wants report to be watershed moment, No 10 says",
@@ -28,12 +11,49 @@
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-17T15:44:25+00:00",
+   "date": "2026-11-17T16:50:27+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7318aeb5db",
+   "title": "Running battles erupt in London between rival Bangladeshi groups leaving six injured",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0hsY205M19PSWs5NlBTcnhhWVBlS1llRU9pUWZteFZ6M2djclFjYmZIZnBnLVVMT3lwRUU2YVpXZ2ZKWVExRUs1clZBLWpaUXIzaHhKaUtFVl9VX0lrOU14OFVFRmlMeUEwTV9QNFVqLWx6SlZYUHoxTnUxcXZNMUdiWTMyQ0lwNk5UcXRXdGQ4VGhWcnRuUzB5Rks?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "London Evening Standard",
+   "region": "GB",
+   "date": "2026-11-17T15:51:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧 🇧🇩",
+    "also": [
+     "Bangladesh"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9b7bde7ac8",
+   "title": "Rassie Erasmus faces investigation over ‘match-fixing’ diatribe after France defeat",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhqQ3YxbU5yTUo1dDlTeDFBN0FRa2FRdjlBT0FpaVFXRFVSS3p4S0kxRUh6X1c0Ui1rUlJRdXhzd000c2k5UkwxT2NDaS1aaVdtcVlTd3RndmY3Z21COWdZb3M5WThUZWNmdy04YnZPNXp2N1B0Y3E4czU5N0owQkZMbFp5S1JWeS1DaFZHSzZkSXh6SVJQU0p3eEkwLUpYbWNV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-17T15:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -46,6 +66,40 @@
    "source": "The Guardian",
    "region": "GB",
    "date": "2026-11-17T15:14:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c48eef4314",
+   "title": "Henry Nowak killer applies to appeal conviction",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wc0xBblVDY2Q0c3lYN3B0X2oyQVZJTlVYQldCVnhkRWZwMFROR2dNS3ROclduMUJwN0p1QVBHQ1hzN0xDbFFQV2xLMDVpVG8yRTBxcGFZN2hBWUtjTHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-17T14:50:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e7b948cfed",
+   "title": "Wayne Rooney: Ex-Manchester United captain considered taking own life during playing career",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XNVR5Y0JRQ0J0WG1DRDNjbGdwTHR4TmFCTjR3cFZ5LTk0XzFwdGNTVkQ0OWk1Y3puNWVzZE9scXhfeGUtRmZEUGxDc0xILWllVVUzTnJVb2ZHZlRwby1UY3gtNHIyVDFrZ0Zr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-17T14:09:19+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -72,6 +126,23 @@
    "topic": "Society"
   },
   {
+   "id": "6cb6706179",
+   "title": "The Hunger Games: Sunrise On The Reaping Review — 'Enjoyable enough'",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTUpnRzZtVzFjc3RIYm9PTFlCUkRzSEdGWXphdUNSSWNQdjRTTFBqUlR3dmw3Zm9tWnhPdWU4YzlNWkdyRmVGbFR6QVUtZXA0cGlSOThCTGFYNUlON1FBOHl1Q0V2NGRPTjg2eXd3YmNFTVdEdHlMZmlzRUJuWUNMUHNtVTNRbXZ4YTdVTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Empire",
+   "region": "GB",
+   "date": "2026-11-17T14:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0e2b2faf7a",
    "title": "Mother pays tribute to 'beautiful' four-year-old killed in crash",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sdk1VS3hhOVRYVVN4MlZZNUFVdXNWLTlYSUZlUFhDUF9HU00xX2o5emlvWDBkOVp5QW1XeWVWYlpyZ2g1OWtGYjh6aVprMDhPNFFabWRDbWhabm5jZ3c?oc=5",
@@ -89,40 +160,19 @@
    "topic": "Society"
   },
   {
-   "id": "f4ec77b2c6",
-   "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGZCQzBNWXlsNkJNTHdKVzdUSG5PdWR4eFkwZ0VGQ2pGN3BYUVE1Qm55YWg2ZTVMRTZvWjFqRUluUzB6NGUtTWZDX2R4bThna3RQTVN4OUJPSW93WHhlZDRVcVhnenJLd0s0clp2aEh6NEtkQmJ3bG9JcWVHT3picVZzN0dYaWZrSlZwUi1USmttQm5RTHp4MkZydzl6RU04NUl1bzdEd0p1X084eFpJ0gG0AUFVX3lxTFBtSmI2V1R4aXp4WUx2TTNSU3BsXzQ5VnI0M2NiZnVleUNQOEdidnFXOEJ1emxyZ0pGWDVmYS1mX3htRF9kRElQOWZZMTRqdEk5WHBhUkNRN3BGV2F2U3Frd3l5LVFqY19vbmFXNkExb2JPYnNQTjF6Ry00cE5MTjQxYkY1YXM1WUF5UGtHN1hLNVhYUjRkSlFuajlGcFNQelItbDdoV3dyOWptQ09XOGx6Mm9FUg?oc=5",
+   "id": "4fcc074426",
+   "title": "Trump says US is taking alleged ‘dirty bomb’ threat seriously as Washington DC residents wonder if they are safe",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR3lVSUQwdWMxSXdqaVZfblp0SHNYUkdDMUUtZlpQNEJxbDhiNldJNnRKeGp3UGpzUlU4eExZNTdXSFcwdFNJb29kQ1hxd1FqNjdsLWV5QmliY3hrY0NUNlRqQjVnc3pRTEhXUGJIeXBZb2ozVGNqTElGUnhRbFMxWC1LSkp2WW9Pc0lOQnRnbFVmR2RGR2NVM1RsWTBnS0Z2d0xwS0o0R2VHbmdBSHVmR2hZMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "The Independent",
    "region": "GB",
-   "date": "2026-11-17T13:41:32+00:00",
+   "date": "2026-11-17T13:23:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Bahrain",
+    "country": "United States",
     "place": "",
-    "flag": "🇧🇭 🇮🇷 🇺🇸",
-    "also": [
-     "Iran",
-     "United States"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "680f249437",
-   "title": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFJIUGZKZnAwMmVLbVI2d1BabV93UENxRmtwdmFxVGZKNDY1X3ktaHFaNG4tOVRqWTJBVzN4ejd4ODF2MUZBN3QwWG1nb1RsZXRySERJRXlJRzlfOGdBZnpSMkhLODFHUlBrM3U1eEQ4LXotTEEzT3Z0akE4SmVRY1VHQnctM0NnX1pkM0I0dGdUdW1Yb2lZaA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-17T13:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -144,14 +194,31 @@
    "topic": "Society"
   },
   {
-   "id": "28ad9031d8",
-   "title": "Bryson DeChambeau: Former major champion takes DP World Tour membership for 2027 season after LIV Golf's collapse",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVHByb3pTdzVHRWUyRjQ2UWluUjN6SVR2TG8xTkN3NFNOWllKSk1JdnhrUTlQWHZWdnJDT0NWTkZ2U3huT2N5TlhMcUtqSTc3aEw2NHV6bDB5ZE1xbXhodEY3LThkUTJ0aEZ0dWlzY1dld3VwQ2gxZklXSFBtTUs4NUNnX2FPZzJBbVhlckh6WnYxemJZOHJpY2g3TGxUeF9ZVGtybkNlZk1JTko4aFZ6MDlMbnRkNUVLem5rcDJsUTVVMFlfS09wS09OZGN0b08waC1rc2dISkdrNlNNNlVxR2g0b2g0U1RpTXpoVw?oc=5",
+   "id": "44c1833dd6",
+   "title": "I’m a Celebrity 2026 live: First star eliminated from the jungle in shock launch show twist",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONkpGN3N4dDBDeHZJRWVmeURPYjNvVEs3eFJFUEd6aU9zYWtSNjBBQVNYS2otR3Y0S1RUTlpPT1Q3aDM3cWRiYlJhY2t2VGp1RDJIaGNQemJqY2djR2hvWVRGc3Zfc09CVlc5d2p5ZFNub0VmWVZZZ3piTWwxR0huOVRNakxMNU43aGszRWEzLWVJMHpqM1paSERCRGpfbkU2X3prWGVnNWxWbjZRSXZLeA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sports",
+   "source": "The Independent",
    "region": "GB",
-   "date": "2026-11-17T13:06:59+00:00",
+   "date": "2026-11-17T13:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "1ed0d04489",
+   "title": "TG Jones put up for sale by private equity firm after less than 18 months",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVc2TWg4WThmYXRYbk5yYlJxclJfRUMtbFVUUnh4b2xyRTY4aXpHVkJuMDU4XzZrcXQ4bmhobXRFWS02bF90Y1djc3dfTV9RSklPMnZfT3ZNYlRQd0g3Zm5sZXlXVWhyZjJ6UWljdE5hVENSTE5YQVpiZHI2cFRlMzdMSkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-17T12:28:38+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -161,126 +228,42 @@
    "topic": "Society"
   },
   {
-   "id": "be5b7a075b",
-   "title": "1 woman dead and another fighting for her life as police launch murder probe",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdExMTjgzcE1VYWN4RTlRVFFENUdHaV9ZdTNva3BLa1U2akJma1pCYUxIWDNTeUF5XzE1S1dCZDdkM19Ea0Q1OUhpSk9MU2JuYzZVTE5rbkxoMGU0ZERDTU9mZkNjdS1feEJHLWozcEx5N05xekNCRmRFUTYyUlN4WngxOWIyRFRPb1ptYXFwZFotS01WTFFQUjkyVmJkR0Y4S1NELWV3Yw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Telegraph and Argus",
-   "region": "GB",
-   "date": "2026-11-17T13:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "fd586e2094",
-   "title": "TV pundit groped woman in loo before smiling & saying ‘wahey’, court hears",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaEdjVDFSX0l6LWY4VURDM01sT1ZBRTFyZTI0MFRKQmJkVHZjc0NLVzk2MHJmaXN6M1AwZmdxYVFXLW5uMXA0QzBETmIwNW9BN3FleUtLb2U1VlZGZlAya2FvSXJESW1WbmpMUlhySG8zYU1LMTAyWmMycHRtZHJsSmlNRjdqbHdOTjZr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-17T12:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "fd0f14175a",
-   "title": "Bosses ‘increasingly reluctant’ to hire as employment costs soar",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGVocDJtcnU0alROYlNSRTRNY1l4OFlJZnFkSW9XeEdMd2FoVktCNDlHdUFCWlkxQWpzUC1NTEd5OWZNQ2NZMjF0QXotVkMwRWpPOE9mV0gtTWZlbjZ6MWEyMXF3YkR5RVJxaW94XzVBWEhYUnExOUE1NEgxbFVhc0MzQjdYdmxnS1NHTWJ5QXpLRi00WldPMWpvMlNGODVuYldjejBxckM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-17T11:49:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9e10ccf129",
-   "title": "Dozens injured after trains collide head-on in Prague",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tS0xZc0hzdmhEbUNUZDF6ZXQ3ZTJTQ0FGdmx4bWNyNmhsMUd3c2lPd01vcldDTGp4ZnFBMlc5TXE1TGdGOTAxS3Z5SXJyOXMyVWJYQjN4Yk9hb1lNZHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-17T11:48:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b852da3593",
-   "title": "Crash shuts Flintshire town road with 'avoid area' alert",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZHpGa2tndkN1RUJiTG13NGM1VU9vR1N2c042bjB4VGZuLXEyRnhrOWFoNmR5MUc2STY1UGk2SnZpbTlqTWhic3Y0Q1ZMTF9Iak9IRGU1Ymx5WlAtNmJQakhkNzJSRnVnSzRIX09NS2dqT1NoMUFpR0NHZndUN0lEZ18xWURFbkRaUFIzcmRLUXZNNUxvVjhr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "North Wales Live",
-   "region": "GB",
-   "date": "2026-11-17T11:25:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "51e8f32cec",
-   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2FkNFlGMDFCbjkyaFNnSlc4OC03TVdLTWY4NzFMN08tRWZpcFRHcS1oZWRRSlhnR3lhRXlKcGxCYWNpQTJvcUJmN2xvczBpRWg1eVQxRGpRYlB6UGpfaUM3UlBzejdQN1FLZWR1anFEZ2Z6YVdPNE1tS0NQRUNkVW90TTBnOWN1RDVmbHpaU2hSeERsbkh4RDUxSGs?oc=5",
+   "id": "dcb6987d9b",
+   "title": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk1KNjNrZkNDZWpCVml2N3F2RzVwNFpuUkVZRnB0UlI2ZS1QZkVXZm1BUUQwc2JxU3E0WUQyc3ZFdk9XbnA5c0tyQVgxSE9MYk1iTlVKV3FpNmtzZjAxX1pKZ1dNeDdza1NkVUpxZVM3ellia29VcnI4c0x1cUFhcUxqR044ZWl3cUJXTEVUUUJxVDRZYUdkY09TaVN0SmVKWmlXVTI2bHBZU2hLN3J3eVNiZllyZXJDY3lzMg?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-17T10:47:00+00:00",
+   "date": "2026-11-17T12:20:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Israel",
+    "country": "United States",
     "place": "",
-    "flag": "🇮🇱 🇵🇸",
-    "also": [
-     "Palestine"
-    ]
+    "flag": "🇺🇸"
    },
-   "topic": "Business"
+   "topic": "Society"
   },
   {
-   "id": "3cbc352c4c",
-   "title": "James Blunt ‘legally changes name to Ryan Air’",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDM2Z21HZEdTUWREMlltSDVhcjdSQVp5Q0NQcHlyaUROS29DZkVnU3hITWhfTXZLcVFEajBxWmFOVm1XbzNUWWM4ZGxxQ2dRZmdMYXFYbFRJQXNZbWNiVWZfd1Ntakw1Mld1dC1aYm9DZ2FMMnJCNU5Ja0Z4aHZJS0FmNk1kLUx3TUl4d0pGRkotcl94Vm1hR0tIbw?oc=5",
+   "id": "c1a100793b",
+   "title": "UK sanctions eight firms building Israeli settlements in the West Bank",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnphN0h3Sy1tZ0g0WFhOanhHeW5rd1JSTnZpT2RGUnJDcG9vTEpmZFM3RkhZZ3JjOGl0MGVabnBjMk1jaWJfMm9vd05WbzZOM2FLQkFnRmplS0tyNk9PcUJQYWZTN3gxMHg1Z3AwUUw3NE1LWExrTmdCOFdQQ0FzWTNZc0pEdHVOcUZXanQ5clNUVk54X29pRUJYV0xXSDFNTnViQ3RuaG02QQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-17T10:37:00+00:00",
+   "date": "2026-11-17T11:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇬🇧 🇮🇱 🇵🇸",
+    "also": [
+     "Israel",
+     "Palestine"
+    ]
    },
-   "topic": "Society"
+   "topic": "Business"
   },
   {
    "id": "50629ec140",
@@ -291,6 +274,23 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-17T10:36:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "66dd0b8749",
+   "title": "Horror as Oldham girl, 18, dies after contraceptive pill caused hidden fatal side effect",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFFSVDVtaFhyLWtKTl9wYXQ4YndCV2Q5XzNMUktWWmVOaG0yT21GWGtVeUY1aVQwUjZMUWMxZWppQ0J6YmItT2JKak45U2lZS1lydC11Ui1HZjBoUlA0SHh0eWhJMURjYlpQOUpNdEY4bHoxMGRCNkYwangtODNKbFg2S1QwV2RBTGtYOGdNOEtMcGk3RUVQejhsaWN2VWk5TFZPS0M0em85WHVQVFFqQlgxX28xbmNX0gG-AUFVX3lxTE52TDMxbks4UmstbWhSa0JUeTllblhmMUFQLWEtOGlNV3Z2cE1vRFhuUWt4UVdPSll2LUVxcnJYVEl6VmJXZVVFTVBwZmYxdlRFZU4tWm80d1ZQMzVfMXZzWHlsMlJSLWRVNTlvbEotYW5pUFg2N2dBZG5NdGtGdUp4MlRVaHBpYnBsRy11RFlFX1NpZk5MdmhFdFB3ZGp4d3ZyV25TX2pwTm5WbE1OUy0wZ01uNVBZN1U4ZXl6TFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manchester Evening News",
+   "region": "GB",
+   "date": "2026-11-17T10:32:56+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -371,25 +371,25 @@
    "topic": "Society"
   },
   {
-   "id": "8ba80a768d",
-   "title": "Bitter ten year battle over fence in Kent village leaves 95-year-old widow with £1m court bill",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckJGM3F4dnhJR2M2TFkxNzE0bE05OUpBbTFLQWFrS2VfYjFXNmRER1NSMVh1UklidTBWbERab3dwUGV5Q3BzWG5RVXMwQ29BOTRWaFF1R0dZeV9JQjFMelp4R1d4NHJtWF9Tc18xd3ZVdWt6bHZpQV9hZFZtcWRpTzh1X1R0d3Y0eExieTY4Ti1WTkhYZkQ4dTh2OWFsZmtENzFyaA?oc=5",
+   "id": "a096e18f40",
+   "title": "'Distressing and completely unacceptable' - remains of Melbourne Cup runner So You Are found dumped in Sydney waste skip",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLUIxZFZtNDRnRmxHNjF0YVl5c05rM19lSHZRMmFfV1JCckt4UmZEMWZ2Z0dpNTFVZUdqcW9OX2NjR0xTQXFJLWV0RHdtUEI5R0JPVDF6U1NNbEJkbjRYTWI3T3JPQk9DTllCOGFoaUkweFVFZmU5NTRqckhocTQyQmkzaUxUeHlCSGxidmJ4NDc2dlQwcU9VUGpObUliN2pFaHcwMk5paDFHLVZsUDZhUUV6SmdPMlNQRnVib09JLThNX2R4cG9NMEpWWk1DaE9hTVJzWjhRZ0NIT0RDdmlaNUhpbGZ5cTV2bTYtZVk3dnN4NkozVGVEOUxyTEpqc2Z2WFh4M1Fndw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Independent",
+   "source": "Racing Post",
    "region": "GB",
-   "date": "2026-11-17T08:44:00+00:00",
+   "date": "2026-11-17T08:41:40+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Australia",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇦🇺"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "ccdc4926a6",
-   "title": "'Christmas in Antarctica will be coolest yet'",
+   "title": "'Antarctic Christmas will be incredible'",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmX2xKdldrT0VOSnBabC1YWHdLSDd4OXRBbTJrX1VwNGl5V1loWWNZOHNUbGtia1BfLWJZSnpGVTNHcXpYVWFEX0JSZGN1TzlNUHlqeUNIdlN6NEFRU3c?oc=5",
    "summary": "",
    "image": "",
@@ -422,41 +422,21 @@
    "topic": "Society"
   },
   {
-   "id": "0a097262af",
-   "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUMmVKYTBKc0E4TXhNc19vQXNpMG5RcW1ld08xVWxodWs5dVctTE11ZWY0VlNpaFF3V2t6emxKUDdyazJJOENsenJqR2xTV2YwX0pzZWJ3VEdfcjFVdHc?oc=5",
+   "id": "c4c583b115",
+   "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTHBMdHRzdnBWRFF5cHE3RXJtVllqd1Ezbl82UzdUT2syd1BLOEt2NHNaQm90SkVGMDZlSGVfWnZmakwzRWVOVGU5SG9Bd0RjZ0pndFRrc0VHMUN3WnkwWE9UMTc5ZHpKNkN1MWxGZnVncVBsNzhQSUpNQ1BkVUUweEhGam9QUlpmWmJScHBmUEZLY1NPQ3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-17T07:44:17+00:00",
+   "date": "2026-11-17T07:16:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Japan",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇯🇵 🇷🇺",
-    "also": [
-     "Russia"
-    ]
+    "flag": "🇬🇧"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "6f8517675f",
-   "title": "So You Are: Body of Melbourne Cup horse found dumped in Sydney skip",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VN3YtQVVwNTdBYXhhTmwtNTFvT25kUnJLM21SUmx6X2tkVFFHZkV4THViWGxhdHZ2T2Y1ZWRWeVlzbjh0eVlYQnR4VWdnV0NSQXdVV1h5YzFsQjVMcXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-17T07:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "1436cb2ca7",
@@ -544,6 +524,23 @@
    "topic": "Society"
   },
   {
+   "id": "aa1f1cffb9",
+   "title": "EU considers banning Chinese companies found in breach of subsidy rules",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnBidFF6U3I4dFlZM2hLNmNQQXRzeXVCRGNtRWI2SGNYenRKSTgwd3ZyNDYwRGxIby1ORVE1YTVNSzNYQVhaT3FOTWozRUNhQ2Itdk5PUldNR2lrSGxiNmVCNkRxSWZYV3ppT0d3aEpDcU05VWJyUTZjMWxEY1oxbGZvMmE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-17T05:00:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b4e4ee7d38",
    "title": "Best books of 2026: Environment, Science and Technology",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1CelBsQjdtRVZBc0ozNGJRQm8wd09ISUtZR2hSYW1zV05NVXNDYnBDaHF5RDJtZUp2WVlJOFpDOUZYbVZQZGpoSEJaMUIyMFpMRjZCaGtfWkJnRnZfQTFiVjlfZkJRaUcwbmlWalNjUnAzSi1vZDRweFk5RXVLbXRGUkc?oc=5",
@@ -569,23 +566,6 @@
    "source": "ScienceAlert",
    "region": "GB",
    "date": "2026-11-17T02:02:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7ee85f34e5",
-   "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnNFTktlQVVmVnFrWHVoQkJoY29YdVNmOUZiMFpHdlppNjc3YVFjTGVnQ3NobC1ESTJWbGJkZG15SjZfYTlRTmZLN1hNd21RQzJ3aURPVk5uZW5VczU0TU14WkUxSFhuY1hRZEZXSjNwY2ZIS2hjQ0pVZy1XbUUyRWstc045YXkyeEFpWnpSQVJlNmJV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Verge",
-   "region": "GB",
-   "date": "2026-11-16T23:35:58+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -637,6 +617,23 @@
    "source": "The Telegraph",
    "region": "GB",
    "date": "2026-11-16T18:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b83932229f",
+   "title": "PS Plus Subscriptions on Sale Now, But There's a Big Catch",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk1pR19kZWw3bXpQMm1MRXJJTlVfOXg1bkFFb05maC15WDVZaWdtdzJrbVhiSTBrUE9ubEMzak1RSGFqNE9yQ2thVFZUMmJWUmx4Y1lGc1VNMkxZQVBPbjVVZVB0T0xpNVRyTXh4WDRFa3FYN01CZmtuZnBjeVZQbHFpcjV0MnZ1VnpWTkRuMU9aelpudGI0Tm1nTi0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Push Square",
+   "region": "GB",
+   "date": "2026-11-16T10:15:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
