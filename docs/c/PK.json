@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-17T14:54:10.613097+00:00",
+ "updated": "2026-11-17T15:50:05.440753+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
-  {
-   "id": "e9c6b92fba",
-   "title": "Glasses and shirt buttons will be examined to stop cheating in South Korea's college entrance exams",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUl3LTl5S1U2MlppbEJhdXRwSV9FV192RDBvOXpsUVluYTcxSjE0RmFKdmxtVU9LanMwM0JXeVRhQThRWHAzYTY4ZDdBd1ltRlR2ejRWTDFTLXFvRjlmelJMVUVveFljSENKeHEwaG5aaTg0bWNXOXJIQlY2SHFVSEFvSk1DV3prLVhFLVd5ZGJRUWx6M2tDNllpVDhBZkZCLUY5aEktQktMUC14S3dCcDN3eU5xQTFsQXRSaldxYzZTVWI4ZUdxeFNVUUg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "PK",
-   "date": "2026-11-17T14:34:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Korea",
-    "place": "",
-    "flag": "🇰🇷"
-   },
-   "topic": "Society"
-  },
   {
    "id": "a7f8e6e352",
    "title": "Stellar pulsations reveal hidden 1.8-solar-mass companion",
@@ -36,6 +19,23 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
+  },
+  {
+   "id": "688e742a73",
+   "title": "South Korea to check students after exam candidate used AI to cheat",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGE1NWg5RXYzeVZBS3VzUGptS2I4ODBKd1FaUjF1R0hpVHpXeEpkcFF2U1lpWU42QmZGYzZYZ2NZV05QRVVfXy04T1dpeGpKM0lXNmVnMHhOc05abFZ6NEZUYjIxTTFybk5zcFRUVWdmeHM4TGp5QV83OVZVVjE0cmtjY1RYbHJERVJLeDV2ZXdhTWR2SkRGYVVHQjFxLXkwalJMNGk0YnVwd1RIcnI3VDJwSDg1Q1VQRmM0RA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PK",
+   "date": "2026-11-17T14:07:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Korea",
+    "place": "",
+    "flag": "🇰🇷"
+   },
+   "topic": "Tech"
   },
   {
    "id": "ac3967d898",
@@ -56,7 +56,7 @@
   },
   {
    "id": "be7b2c9e2b",
-   "title": "Apec and Asean summits live: protests greet Trump’s arrival in Manila as he meets leaders of Japan, Australia and India",
+   "title": "Apec and Asean summit, as it happened: Trump signs Thai trade deal as protests greet his arrival in Manila",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQM0tqSEZJVjhWbFhXZVpoWmZaWHpYQWRValFUVms4LUZsZkxCX1l2Z0gwYmZqUTZ1dTNFWUFZMi1YMEpzUGN5ZmNmSHNxaTFYc09uOEJRdU9kYml5bTV6eXVrTXNZT0VocDM0QTZwbkVTZkVMcGJNWXVldUNRUnVkREtaU0tGa0J6aDVVdVlrNGtLeUNjWmhMVVhNLWIwQW1xa2dVZVU5ajYtd0xtNHBHMjdEdnFFNnlPM2VxaXljWWxFeTRkRnc2YjZ3YU9HVm56Z3E2d2Fzb0s1a1BHT1JfaDE3bnV4NUhXejF3UUxZNnRZQzM4RXdmcU5OOTkyb2VN?oc=5",
    "summary": "",
    "image": "",
@@ -67,10 +67,50 @@
    "location": {
     "country": "United States",
     "place": "",
-    "flag": "🇺🇸 🇵🇭 🇯🇵",
+    "flag": "🇺🇸 🇹🇭 🇵🇭",
     "also": [
-     "Philippines",
-     "Japan"
+     "Thailand",
+     "Philippines"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "77670963a0",
+   "title": "Pakistan, Türkiye agree to enhance defence cooperation",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWdpZ1ItRlFOaWZxQ2RNWC1GQ0lMNlY3T3piOXExUEg3MHFWVVAwTldiQ3c0TnI0aGN6RkxEakhnU2RCMHVHeHF3SzFyUVNNVXV1Mml3WXdHbkJXdEpQY3Q1a1l1czVUU2R3aFZNTEtYbWpvZ3RqZW5fcEk0N294aWdzaXZTNG9HWW5vMjRn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RADIO PAKISTAN",
+   "region": "PK",
+   "date": "2026-11-17T13:54:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰 🇹🇷",
+    "also": [
+     "Turkey"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6424990b7e",
+   "title": "Vinicius Scores First-Ever Brazil Hat-Trick in Dominant 0-7 Rout of Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjB5Q3EyYzdDT0FIaE9FRnBNRE80R0xkX1RnRUZtTnhRbmduUDloUEQ5YWQ5cXc0ZHlBRUFlUFU5VzlXNGJIR2ZINk9nWXdfWUhucTJnQTlkLTgxZTdmWlBmdnYxQkIxZUFxVnhjeXJwYU9pRWY2WkxwWUprbVpqd0pLa216cVFBSmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "PK",
+   "date": "2026-11-17T13:43:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷 🇸🇬",
+    "also": [
+     "Singapore"
     ]
    },
    "topic": "Society"
@@ -115,7 +155,7 @@
   },
   {
    "id": "276a609922",
-   "title": "Oil Prices Continue to Fall as Global Supply Surplus Weighs",
+   "title": "Oil Prices Rebound as Middle East Shipping Risks Persist",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGtrNWkxVGpxdjJGWnVJbzFDQXlabGJVV2I5bFhMYmJFOXAtQjR4cERNMnZabG90ZUo3cm80Zm0xdUpYallfU1kyV2FaMVFwUG5UUWR3UWNFMXU0RDJPcndiS0RuejcxWkJDU1kxbnQ2NnJPWXNBNGtGelpVd0FsbVF0emUyTVdpaEVFYlFnNmZSVTlhRUo5bzhYTkRicFpoa0loRGw0OUJQM215T0lkZUpUNDhFSHM?oc=5",
    "summary": "",
    "image": "",
@@ -151,14 +191,14 @@
    "topic": "Society"
   },
   {
-   "id": "91644d991e",
-   "title": "Korean gov’t to probe K-pop industry’s protection of minors",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQk84RHZkb2xGQjVWamVSUnJnOE8yUFBiVjNxNHJLWUpZSWhIcXdYZWVoaXJ1MmlTcWx3R29aLVNONzhoN0dFWWRYVnZpRkRGcGJ6OUtfX0lKajQ5MVZRV1AweWVQdUUxVWlFcGJKQXl4aVlnTVFCYWNtNVdzei1QSmRTMDU4bHNWc3h5ckZWNXBZZGxldDUzSQ?oc=5",
+   "id": "1680cfb994",
+   "title": "Oppo Reno 17, Reno 17 Pro and Watch 5 launched: Check price, specs and features",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbmpRbVRvTjdGWnFmQjJNRjJxMmVTVm9wYjF4NGp0NGlnTWxCMGlSLU43MGFzS1A0Vzl6NzFCejlpUjJMSG84YkdnWDJVNUYtRThNUGU3QnZ5ZVgwRm03cG53cVhNZHllbUZqV21VODdHaVFIMi1RelkzRzBwdjJRUDFQaW5DYlVMaGZSRzhMT05xUlVrYmpfSG0tSDBpM1J2UF95eUliRW5HbXh3eTdtX3NWMHpMSXFIaXBUbmJNMEo2NFd0anMyQzBDOHl5akVmeXBiWVlMT1BnUW_SAeABQVVfeXFMTXk5S2d2OUxlbUtsRDNnekZjTWl5TkpGc2t5LUV6NzEtZHRoODA5VXJrZkpHYUJvV3dLUUVRczcxRDRTM1FqcEFtWktJYlpvWEpmelJKeUtxMDNFcXRlT0Rfc01nQ0lkZWtJNG45YUZscXFJdjZkYm9pdUEzUDZPOS03emFCNXZFdkowbFh2QzN1R0NPcENpZlQweGZwY042dUZfU0dObmRfcm5zQ01qbDV1czE3MW05YnZPTVpBVWUzc001a3FMSzZYcFBxVnpCZi1BWWVOcjZuUzVoXzMyaVY?oc=5",
    "summary": "",
    "image": "",
-   "source": "IQ Magazine",
+   "source": "India Today",
    "region": "PK",
-   "date": "2026-11-17T12:25:26+00:00",
+   "date": "2026-11-17T12:54:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -166,6 +206,23 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
+  },
+  {
+   "id": "cb95b526fa",
+   "title": "Copper’s Unravelling AI Trade Collides With a Historic Squeeze",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWRTRFQzb3ZxM08zWkJ2ZW5jN2ZKNHJKQkdzd2V2eE0tMUxJejg0cGNvRkt0MGRoS09zb3dOUm5HSk1YQTZ0ZVhlSUZ0Vlc3bVFKdXNoRWVjZzZLanhwb1V1bVE1akZQSXJ6TDJYR2UzWWE2MnhaNzRFd2ROTDVjZFU4eW5TTHVZMnpqVXBjejNDdko5eVpuSTJQaVVrWVBhTUl4d1o0aVZUeXIwR2YweDR2eEZVNEk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg.com",
+   "region": "PK",
+   "date": "2026-11-17T12:51:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Tech"
   },
   {
    "id": "9714d6aba9",
@@ -202,19 +259,22 @@
    "topic": "Society"
   },
   {
-   "id": "3cc9d0f92a",
-   "title": "What do you want to know about the Cop31 climate talks? Ask Fiona Harvey and Ajit Niranjan",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3NTTWdsbXFHV1hPLTVxd0hNRGRMd183NGFUdTRVZ0IxNkkxMmxWdVN0RktmdWdiLWhKemItZFNZeFowNmtKMUxQQ0czYTJhYXYxUTh6UlNBVWlmbUxWN0xyOWtXb3hjR1pjLWV5THh4S25iVHlhMHhhem10bGJmQ25XUUkxSEV3bGdEN1JUVmhGRHlHNEpGQ2pES0NTSVlSZ1Ztck4zWDlNSHU5dmQxRE1nSHozVndNOWJ4Q3hiSDBOQWh6R1pJZ3hTTUh4eTBLTVZCUTdnYVhBLXNfSUpn?oc=5",
+   "id": "774687da28",
+   "title": "Pakistan, Iran stress sustained engagement, coordination for regional stability",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPME5nWlZUTmt1UkQ3LVM0eGFucnJhMUI2aGpBV25kbGZVQTdxUG41b0lrenJkai0zM1dZSFRpRzZSMUQ0YmNlUUItNlpoZFctRkFMYnZJVDdJU1hPeUtuUUptZmNhVTdIUVlzMFpBZDd3c21LNElUZ0tyS3RxVzEzbjZ3eUdjN1Y2OGs4T2x0RVdKdmxrajloNVZWekc3SUYtYllsME14ZW9uekN6Um4tMVVMekNpMWx6MkJjeUdJNDZwT3hjWXJmaVFFZ3RFMll0MlFTUkZPUnc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "The Hindu",
    "region": "PK",
-   "date": "2026-11-17T10:59:00+00:00",
+   "date": "2026-11-17T10:20:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇵🇰 🇮🇷",
+    "also": [
+     "Iran"
+    ]
    },
    "topic": "Society"
   },
@@ -256,40 +316,6 @@
    "topic": "Society"
   },
   {
-   "id": "5edf8d8dbf",
-   "title": "UNEP-WHO Report: Hormone Disruptors Reach Babies Before Birth",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGlsWjhMeGxiV043dGNBa2xGYWNwYU0wdGJFc1ptb2hvWFFZWG5SVzNUVV96RDFSTzNXZGxhSnJtMGh1Ni0yRmpDMVFsclNqUE5rdUxuQUJmeHktaGl3QjRUblpDbE1FYWJ2SzlOSzQ5U3FMX0lBbFlmZEJUZkNTajZaVl8zbGVhQUJB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mirage News",
-   "region": "PK",
-   "date": "2026-11-17T09:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "69a78e8ef6",
-   "title": "Five surprising ways to boost your iron - that have nothing to do with meat",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGdkbHhpcmt4cnZnNlRMR3dvY0xjc3k5MHFMbW1CeXZuLXZ6T1RJeHVHMEdpQU5BcnpfVTBPRFZ1bmZDbDV4VjhPSE5RSWQwb05QaGJoaDdOb0ZjNDREWklYY2NId2xhRi1SNi1GaEdvd2hwWDYzVUtVc2RsTUVpZVhOSUFmOVZrYjdET01qdU9JSFRPemNUTEhLWVhxejV1d05pRWRUZ0pMWVp5ejZjTF9rdXpjdm8wYVVTZjBn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "PK",
-   "date": "2026-11-17T09:37:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "3592ee6367",
    "title": "Pakistan, UK move to unlock mineral wealth",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNEVlOF9iSzRjaWk0NEU5LXJoc1Y5dEl1NHZPMVE1aG1TWGt2dTVTcmVudW0wbE9wWlRRNk1Rbk9NSUJrbEhDcHBVWEFrOTkwUHZ0YXc0V0xvQ19USHExbFVualBkZUk1MjZsakc2dTNIdDl1SnU3blJTS3Z6SjMzMXdMYw?oc=5",
@@ -310,28 +336,8 @@
    "topic": "Society"
   },
   {
-   "id": "28f3fc3ae9",
-   "title": "Pakistan army chief and Iran FM discuss regional peace, security",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1I2eDY1UUdXRGJwMllUUmM1MWxXdEpiMjZwejBIbExJYzNWa1RBZHozS19lWmdmMVRXYWxINkx2aFVPcGMxRk81dkpmNUF3TDZyRm1zUGE0eE9ZNG5VN1FONURIVkJMbHJGVENMZXJHbXdPaDhkN2R5NHEyRF91WkpvdnVVMF9wa0NwQ2xhNGxMbDhzcGdXM0o3RmNwSXcxYkhmbDRTWFY4VzRR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Arab News",
-   "region": "PK",
-   "date": "2026-11-17T08:32:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰 🇮🇷",
-    "also": [
-     "Iran"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4ad7982b4c",
-   "title": "Selena Gomez's Wondermind Fraud Lawsuit Dropped By Investors",
+   "title": "Selena Gomez's Wondermind Investor Fraud Lawsuit Dismissed With Prejudice",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnZuR3NtZXhRYkVjWDNQbC01OVJpRGFwMzkySlRSN1FrS3g0UXNhalVlYmxpaEJOeUNkZHI5X3VhLXhwSDVuLU8tX0dIZ1A3MXhnMDEwVmZ1MTdzZjFualNpTUpMVjJkaTZibHpQU3NLaW4yZVd2MS1XWVJUOW5LWjBhNDdZMDZrRVRtMzJKQkJnUERGYnA4Rng5VmF5YTA5TGEtY0dkU1JiMGFlUDdGS3Y4MA?oc=5",
    "summary": "",
    "image": "",
@@ -385,7 +391,7 @@
   },
   {
    "id": "a168c9d867",
-   "title": "Sri Lanka 85-6 in second Test as Pakistan quicks rip out top order",
+   "title": "Sri Lanka bundled out for 98 as fast bowlers put Pakistan in charge",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2VyVUlWUVF4MGxkdWRFQTRfcFhySk5ldXJpLVdSNnhtTWR1cGozUHFLMzc3Ym1wc3ZMWlJfZzdGcVBzR09FMkRIWDJMeWNtN0NqdDkzT3c1UU11UjhLNUpMQTJNa0ZGd0JQQkFnRmFoNmZFc01BNjNGV3ZKREFjQ3lwVThfUWh2aHZoek1pbTBITzBDSjBCdnJtallRdUE2b2JCSVNfai1qZjhSdW5mUTEzZw?oc=5",
    "summary": "",
    "image": "",
@@ -404,22 +410,19 @@
    "topic": "Society"
   },
   {
-   "id": "fe251194e5",
-   "title": "How to Watch Singapore vs. Brazil on TV, Live Stream",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3pyTGJfNFJhY2hXMEV1NEI3MzhOcjJzOExlbEd2TkRLbGVWRG5LeXVqTUxPRElFd002ZU5PR3JCcUc1dHl2N3hKQlJwZGRaUjFKRVVCcFZqRXFhU05CSmVyWVVKbGE5b3NxQVpBTnZjSFZWV05JeHdPd1NtMUo3bkxrZ0R5cnZ1VlE?oc=5",
+   "id": "5a86f9bafb",
+   "title": "Researchers in Australia develop bioengineered cornea to address donor shortage",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5US0NlVXNrVVI3TWxTcnBYaFg2Q1FCekg1bWY4SktKenpmanBZdjEwd2tfcVp3MExXa0VMX3JXLUVocjRtOERPT3Z3V0xHWmsyUEdPYTBFTEFWRkk5RkJDWmR3MG1hakh2cmZhOG1pSGdYSzllOWJHb3dtSDU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sports Illustrated",
+   "source": "Xinhua",
    "region": "PK",
-   "date": "2026-11-17T06:00:00+00:00",
+   "date": "2026-11-17T06:54:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Singapore",
+    "country": "Australia",
     "place": "",
-    "flag": "🇸🇬 🇧🇷",
-    "also": [
-     "Brazil"
-    ]
+    "flag": "🇦🇺"
    },
    "topic": "Society"
   },
@@ -462,31 +465,14 @@
    "topic": "Society"
   },
   {
-   "id": "300dfd8471",
-   "title": "Robust inflows, pullback in shorts lift rupee to seven-month peak",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHBJMGZCZ09KMjBxNjl6NEZHS25KSmZKelZGX0M2TTl4MHMzdWRfNXlsRGo3Q1p4TWdVc0VGLWFKQ3RHOTFLaHhFWU5TVzhQVHlOM0REV0hEUUd1QXhaLURROUU0NlJBWDJEY2xNbnh2VzlsOC1IRUZpWExqOG95cVRTQU5FY1A4a0loZ1IwYTJjNFZqSHFIYUdxTlNuSHAyMFozeWpMWWxLSnl6cTlfcHp3?oc=5",
+   "id": "c04135baf1",
+   "title": "Raised temperatures",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPNE5pZThvRjhiWmZKSU5JTjBNa1lJZW9yWFlHV0hXSDMwcThHX0tiTWVEVGl1VmR0QTRlLXpTQTR1MTFvbXBjaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-17T02:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Economy"
-  },
-  {
-   "id": "8f4950b0af",
-   "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tenlzb0M3c2YxUDhORFdPN0I0bi13Q01jLUlydjVvbm9xblB0eFFSY21UTWxEOHNnLUtFVGNpMDZwM2U0WXFKSnRQVHNpZnNTREtqTTlJOGYzM0k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "PK",
-   "date": "2026-11-17T01:26:01+00:00",
+   "date": "2026-11-17T02:04:06+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -584,51 +570,31 @@
    "topic": "Society"
   },
   {
-   "id": "ad030c047a",
-   "title": "Oppo Reno17 launched with 8,000 mAh battery, Snapdragon chipset, and four 50 MP cameras",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXhPUWdMZG8zRElKTHVWbTFzNkJYZGZJeFk2cHlUNFhMYTdpZW1VX1F2cjh2ckNlMnNvUmNFX1puZmVseFBjQkhUTzlnZGE3MWlQS0JsdmdzQVl0bjF5NkVWeExpb25Idms0dXRnTURxNVZWQXNmZWsxaURaNkV2VHAyQWdzNHg3LXdtMXpRZ3lVZEdKTS1oYkd3THpaSG96SjFCTHY4R05SYnRfRzlQV1lQckxPaFp1dGdKb3BDYmtyemhJUDJsb2dB?oc=5",
+   "id": "b47b933632",
+   "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjNqT2RnUmJkN0dsNGZHOUhfSTFkYkg0bzFYVEk3TUxGX2dJX3Y0TnJ0a2xZUkhXMThScVlsV1YxSW1TWXZ2LV85OTAtYmtXbjBVeDBfSHFENVNvb3VFX1VWdWM1SUhtSkVKaGs4VVZvdTNQSjlUWWs1c0NGRUljWU9PSi1FOXhvU2hiLW1wamliSlF2R2QybGw3NGY5a1IzYm03NkhMQlNlMnRNbnZDWktobXcyT2_SAbwBQVVfeXFMUFh3S25oeEg0dTRXZ0xaa3lOcUFjczVpNzUzdGcyYkp3cTZHZnNJWmxFNm5seUh6T3JpNVZoTkJxNDhMVDV4RGdaSjFKQmJybl9aZC1YUWg4QTJMU2dmWndOc2lxcDB4cHl3UzY0Q05qeFk0WmZVNDZkM0gwUWFldTlIRDFiUEtVazRBYmFWQ25DbE9XZ1Vfd2ZmNWxDTjdWN2Rhc1NDTFBCeTB0ZERoWm9Tbl9mU2QwcU0wd0Q?oc=5",
    "summary": "",
    "image": "",
-   "source": "Notebookcheck",
+   "source": "Al Jazeera",
    "region": "PK",
-   "date": "2026-11-16T17:32:00+00:00",
+   "date": "2026-11-16T13:49:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
    },
-   "topic": "Politics"
-  },
-  {
-   "id": "bdc2888251",
-   "title": "Be like Sachin Tendulkar and Saeed Anwar: Mohammad Yousuf's message after India's aggressive celebrations against Pakistan",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaTN1RUhMaDlMZXMxdmwyNFNaTkZTLWYxR2JWN3VZcERrX1hOZkJ6b2N2N0RweUNCUV8xZkVVNWgzdEtFeFZxaGhHMlVLY2Y4QzZfRC1yVkwxazN6REJHWmtCcDBEQWVFMy10VG5MdEMyeE9tN1MwbTc3MGYxTXA0eXRMWmRRTGc3aHJuakptNzBsR2Jhd3ExamlIRXIwaV9Jc255RllTZXRTeF91NVF6VXdPWFp5aE14aTBRMncwa3dzM3BvR1Nycno3NlcxUzlHcEFLamVSOGdPNlo5Q18wcUppYjVPMmlrZmJHSGhrLXEwWTczejNpRU9R0gGMAkFVX3lxTE82VjZPd0JlbmNXR3N6RlliYU5SRm5QN3laWTdHeHdGTDBaN1NZOEJTWWdmR3EtaG1NTnhvbWhEM1FKY00xeEFZVDBHSG5taV9nYTF6THZDOVk3VVVDZW03WXBMYkFaZWt2b3lXUmZUQWhwRkwteW83alhIck1HQ0FiZlhudkdrNVROSnpHNGYzZDY4b2c0cU5pYk5RQ05RWVNmTGhXVHdnNloydmRtMXZOVHpoRFVLeTdWVVhoT0xIeWVkSks4TmhGSktpZHZQQk5xV25mU3JQeVJlYjFXS2dZNTNhanRwa2E2UHYxX2pIemFyV2NFMkFVbEhNRjVqV3V0MGV5SkF1MHl2T2M?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Gulf News",
-   "region": "PK",
-   "date": "2026-11-16T11:24:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳 🇵🇰",
-    "also": [
-     "Pakistan"
-    ]
-   },
    "topic": "Society"
   },
   {
-   "id": "8459de50b9",
-   "title": "Bilawal slams political revenge against JUI-F",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFYXh0VWtEWmRrem94ZmNnQ2ZWVFFDMmJEQVp3RE0yWFZUbDlGUUVDendRTENxY21MQ0NIWEhaSEM4SmJfdGFISA?oc=5",
+   "id": "342432f0d1",
+   "title": "A 19-year study reveals a troubling link between napping and death",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwNTlWNW9vZzNVRExOQXBCanpxeHZ4bVFuVmxuUkRpMG9aUF9rWG54dXRkZlNsV3RxdmdBZS1LelZqcWdqdXJmUjlXWUJ5M1EtdWJWVGJESlQ4cTI0VXV5MG0wTHBGM094Q0QycjJkWQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Dawn",
+   "source": "Science Daily",
    "region": "PK",
-   "date": "2026-11-16T02:02:56+00:00",
+   "date": "2026-11-16T10:50:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",

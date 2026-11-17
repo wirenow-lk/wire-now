@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 65/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 73/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 91 stories
+OK   Ada Derana: 92 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 21 stories
+OK   EconomyNext: 23 stories
 OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 18 stories
-OK   Daily News: 83 stories
+OK   Daily News: 84 stories
 OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,17 +21,59 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 100 stories
+FAIL AP News: HTTP Error 429: Too Many Requests
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | ‘Unprecedented’ Ukraine attack on Crimean bri (6 outlets) | Batman to James Bond: The clues about what to (6 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Balangoda Kassapa Thera granted bail after ap (6 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (10 outlets) | ‘Unprecedented’ Ukraine attack on Crimean bri (6 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Cyclone Akvan to make landfall between Nellor (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (5 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [2 outlets]: ‘Lara’s’ Rs. 50 million house frozen in Tangalle
-    important (also on Hiru News) - researching
+* Newswire [1 outlets]: Relatives of missing persons protest demanding international probe int
+    important (serious news) - researching
     news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+* Ada Derana [2 outlets]: Gunmen kill Costa Rican journalist who reported on drugs trade
+    important (also on BBC World) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+* Daily Mirror [3 outlets]: Cabinet clears 11 contracts for Kahathuduwa-Ingiriya expressway sectio
+    important (also on Ada Derana, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [3 outlets]: First Phase of the Ruwanpura Expressway (from Kahatuduwa to Ingiriya) 
+    important (also on Ada Derana, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -46,49 +88,20 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 429,
     "message": "You exceeded your )
     -> no cards; posting with the site's own summary
-* Newswire [2 outlets]: Cabinet approves establishment of National Nuclear Security Coordinati
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Newswire [3 outlets]: Sri Lankan universities to expand international academic partnerships
-    important (also on Ada Derana, Daily News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* BBC World [2 outlets]: Palestinian woman, 72, shot dead by Israeli settlers in West Bank, hea
-    important (also on BBC) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Al Jazeera [4 outlets]: UK sanctions eight Israeli construction firms over West Bank settlemen
-    important (also on Ada Derana, BBC, The Guardian) - researching
+* The Island [3 outlets]: First Stage of the Fourth Section of the Central Expressway Project (f
+    no AI summary: saving the rest of today for important news
+* Reuters [3 outlets]: Iran attacks US military radar system in Bahrain despite talks with me
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Trump warns Iran over reported ‘dirty bomb’ threat plans against Washi
+    important (also on Ada Derana, Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, The Guardian
     attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
@@ -96,18 +109,14 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 9 too small to look sharp, using the clean cover
+  photos: looked up 24, found 1
+  photos: 8 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
@@ -115,8 +124,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 21 story pages for Google)
 
-Countries: IN 38, PK 35, BD 36, US 36, GB 38, IE 36, CA 37, AU 38, NZ 30, SG 34, MY 36, PH 33, AE 36, IL 34, NG 35, KE 37, ZA 35, GH 31, FR 33, DE 34, JP 7, IT 34, ES 34, BR 34
-
-Posted today's Top 10 round-up
+Countries: IN 38, PK 33, BD 36, US 36, GB 38, IE 35, CA 37, AU 38, NZ 29, SG 35, MY 35, PH 35, AE 36, IL 34, NG 37, KE 38, ZA 35, GH 34, FR 33, DE 34, JP 9, IT 34, ES 34, BR 34
 
 World Pulse not made this run: no AI available for writers
