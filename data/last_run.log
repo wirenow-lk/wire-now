@@ -1,100 +1,52 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
 
-OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 78 stories
+FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
+FAIL Ada Derana: HTTP Error 429: Too Many Requests
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 28 stories
+OK   EconomyNext: 24 stories
 FAIL Daily Mirror: HTTP Error 429: Too Many Requests
 OK   Hiru News: 100 stories
-OK   Newsfirst: 17 stories
-OK   Daily News: 79 stories
+OK   Newsfirst: 16 stories
+FAIL Daily News: HTTP Error 429: Too Many Requests
 FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 0 stories
+FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 2 stories
-FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
-OK   Google Top Stories World: 70 stories
+FAIL Ceylon Today: HTTP Error 429: Too Many Requests
+OK   Google Warnings LK: 20 stories
+FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
+FAIL Reuters: HTTP Error 429: Too Many Requests
 FAIL AP News: HTTP Error 429: Too Many Requests
 
-Biggest stories right now: New 007 announced; Robert Pattinson is the ne (5 outlets) | Trump says he might meet with North Korea’s K (5 outlets) | ‘Akvan’ likely to intensify into very severe  (4 outlets) | Nvidia dismisses 'Bring Jensen Back' campaign (4 outlets) | EU countries announce migrant deportation cen (4 outlets)
+Biggest stories right now: Bay of Bengal Alert: Cyclone Akvan Set to Hit (9 outlets) | No tsunami threat to Sri Lanka following eart (5 outlets) | Cyclone Akvan to Make Landfall Between Nellor (4 outlets) | Cyclonic Storm Akvan: Warning issued to Naval (3 outlets) | Ven. Kassapa Thera remanded over failure to a (3 outlets)
 
-7 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newsfirst [1 outlets]: Three Deaths Under Investigation in Minuwangoda, Matara and Walapane
+* Newswire [1 outlets]: Man arrested after viral video shows sword-wielding incident in Kurune
     important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [3 outlets]: Fire breaks out at Kahawatta Base Hospital
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    search failed: not well-formed (invalid token): line 1, column 41
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
     gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The 'spoken' section says 'Police say the fire is now completely out,' but the article states the fire was 'completely brought under control,' which is not the same as being completely out.; The 'spok
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 2 failed: no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     -> no cards; posting with the site's own summary
-* Newswire [2 outlets]: Dollar Rate today: Sri Lankan Rupee depreciates further against US Dol
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Religious programme held in memory of tusker Kawanthissa with Sajith’s
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Oil slips on supply surplus outlook despite Gulf tensions
-    no AI summary: saving the rest of today for important news
-* BBC World [3 outlets]: California sues OpenAI over Hugging Face attack
-    no AI summary: saving the rest of today for important news
-* BBC World [3 outlets]: Two major Kyiv bridges hit in Russian attack, mayor says
-    no AI summary: saving the rest of today for important news
+* Hiru News [1 outlets]: Homagama local council opposition members protest carrying gas cylinde
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Robert Pattinson: How the Twilight star became 007
+    important (also on BBC World) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -108,20 +60,65 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* Pragativadi [7 outlets]: Cyclone Akvan intensifies threat: Very severe storm likely to hit Andh
+    important (also on Free Press Journal, Lokmat Times, NDTV Profit, Newsfirst, Republic World, The Hindu) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Trinco statue case : Ven. Kassapa Thera granted bail after apologising
+    important (also on The Island) - researching
+    news search: 0 results, 0 about this story
+    read 2 articles: Newswire, The Island
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
-Top 10: 0 fully explained
+Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: 17 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 21 story pages for Google)
+Website updated: 111 Sri Lanka + 75 world stories (3 with cards, 21 story pages for Google)
 
-Countries: IN 37, PK 0 (FAIL), BD 38, US 0 (FAIL), GB 0 (FAIL), IE 0 (FAIL), CA 38, AU 38, NZ 0 (FAIL), SG 33, MY 0 (FAIL), PH 35, AE 38, IL 35, NG 35, KE 35, ZA 0 (FAIL), GH 31, FR 34, DE 33, JP 9, IT 31, ES 34, BR 34
+Countries: IN 37, PK 0 (FAIL), BD 0 (FAIL), US 38, GB 0 (FAIL), IE 32, CA 0 (FAIL), AU 38, NZ 0 (FAIL), SG 35, MY 38, PH 37, AE 0 (FAIL), IL 0 (FAIL), NG 35, KE 0 (FAIL), ZA 35, GH 29, FR 0 (FAIL), DE 33, JP 8, IT 0 (FAIL), ES 34, BR 33
