@@ -1,20 +1,20 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 17/80 used today
 
 FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
-FAIL Ada Derana: HTTP Error 429: Too Many Requests
+OK   Ada Derana: 76 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 31 stories
-FAIL Daily Mirror: HTTP Error 429: Too Many Requests
+OK   EconomyNext: 32 stories
+OK   Daily Mirror: 75 stories
 OK   Hiru News: 100 stories
 FAIL Newsfirst: HTTP Error 429: Too Many Requests
-OK   Daily News: 82 stories
-OK   Sunday Times: 3 stories
+OK   Daily News: 80 stories
+FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 19 stories
+OK   Google Warnings LK: 20 stories
 FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
@@ -23,37 +23,22 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 FAIL AP News: HTTP Error 429: Too Many Requests
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Cyclone Akvan to Make Landfall Between Nellor (4 outlets) | British actor Robert Pattinson named as new J (4 outlets) | Five EU countries unveil plans for Rwanda dep (4 outlets) | Nvidia dismisses 'Bring Jensen Back' campaign (3 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (11 outlets) | British actor Robert Pattinson named as new J (5 outlets) | UK's Prince William, Princess Kate begin Indi (5 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (5 outlets) | Five EU countries unveil plans for Rwanda dep (5 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [1 outlets]: Budget 2027: Unions step up protests demanding relief
+* Ada Derana [1 outlets]: No tsunami threat to Sri Lanka following earthquake near Indonesia
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: AI did not reply with JSON: ''
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* The Island [1 outlets]: Sri Lanka eye series triumph as Rawalpindi hosts decider
-    normal news - one-paragraph summary
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [2 outlets]: Budget 2027: Unions step up protests demanding relief
+    important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -62,10 +47,33 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: the number 446 is not in the article
-    attempt 2 rejected: the name/word 'WTC' is not in the article
+    attempt 1 rejected: Blurb says 'stepping up strikes' but the article says unions have 'intensified protests'; only the engineers launched a token strike, while pre-school teachers 'staged a protest' and other unions warn
+    attempt 2 rejected: what_happened, key_facts and spoken attribute the warning of further industrial action to 'Unions', but the article says 'Several organisations' warned.; key_facts, blurb and spoken say 'university st
     -> no cards; posting with the site's own summary
 * The Island [1 outlets]: Mano tells AKD not to mislead Malaiyaha Tamils with false claims
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    attempt 1 rejected: the name/word 'AKD' is not in the article; the name/word 'Tamils' is not in the article
+    no AI summary: saving the rest of today for important news
+* The Island [1 outlets]: Acting Atamasthanadhipathi requests Buddhists not to oppose A’pura pro
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Nvidia rules out Huang comeback as campaign for his return grows
+    no AI summary: saving the rest of today for important news
+* Reuters [3 outlets]: EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter,
+    no AI summary: saving the rest of today for important news
+* The Guardian [2 outlets]: Five EU states announce plans for immigration ‘return hubs’ in Rwanda
+    no AI summary: saving the rest of today for important news
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 4
+  photos: 16 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  fact check feed Factcheck.lk failed (HTTP Error 429: Too Many Requests)
+  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
+  fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
+  summary translation failed (no AI available for writers)
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 18 story pages for Google)
+
+Countries: IN 0 (FAIL), PK 36, BD 0 (FAIL), US 37, GB 36, IE 34, CA 0 (FAIL), AU 38, NZ 0 (FAIL), SG 32, MY 0 (FAIL), PH 35, AE 37, IL 35, NG 0 (FAIL), KE 32, ZA 0 (FAIL), GH 32, FR 34, DE 33, JP 0 (FAIL), IT 33, ES 34, BR 33
