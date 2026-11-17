@@ -1,10 +1,10 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 88 stories
+OK   Ada Derana: 87 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
+OK   EconomyNext: 20 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
@@ -14,8 +14,8 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 19 stories
-OK   Google Top Stories World: 65 stories
+OK   Google Warnings LK: 18 stories
+OK   Google Top Stories World: 64 stories
 OK   BBC World: 24 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,41 +23,85 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone Akvan Intensifies Over Bay Of Bengal, (10 outlets) | Jensen Huang says he would be ‘honored’ to re (7 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Grade 6 admission cut-off marks for 2027 rele (6 outlets) | Trump to kick off Asia trip with Quad talks i (6 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Jensen Huang says he would be ‘honored’ to re (6 outlets) | Grade 6 admission cut-off marks for 2027 rele (6 outlets) | Seven new envoys present credentials to Sri L (5 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Times of India [2 outlets]: Cyclone Akvan may leave lakhs without power in Andhra Pradesh; 145kmph
-    no AI summary: daily limit reached
-* The Island [2 outlets]: Intellectual Property Regulations No. 01 of 2026 for concurrence of Pa
-    no AI summary: daily limit reached
-* Newswire [2 outlets]: Welikada Prison opens first dedicated kitchen for female inmates and c
-    no AI summary: daily limit reached
-* ESPN [2 outlets]: Tiger Woods to return for next month's Hero World Challenge
-    no AI summary: daily limit reached
-* The Guardian [3 outlets]: ‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack 
-    no AI summary: daily limit reached
-* BBC World [3 outlets]: Trump says US taking 'very seriously' any Iranian plot against Washing
-    no AI summary: daily limit reached
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 9 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
+* Daily Mirror [2 outlets]: Sri Lanka to establish permanent Nuclear Security watchdog
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily Mirror [2 outlets]: Cabinet approves aviation fuel supply contracts at four foreign airpor
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* EconomyNext [3 outlets]: EXPLAINER – What does NVIDIA’s Huang scandal mean for Sri Lanka?
+    important (also on AP News, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [3 outlets]: How the attack on Crimean Bridge unfolded
+    important (also on Ada Derana, BBC) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 rejected: the name/word 'Vladimir' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code")
-  meaning check failed (no AI available for checkers)
+    attempt 2 rejected: key_facts[0] claims the entire 12-mile-long Crimean Bridge was brought down, but the article says only a key section collapsed while the railway arch remains standing.; details[0] states Kyiv called i
+    -> no cards; posting with the site's own summary
+* Reuters [3 outlets]: Britain sanctions Israeli settlement firms in push to protect two-stat
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: The 'spoken' field contains a detailed script about a conversation that is not found in the article.
+    attempt 2 rejected: the name/word 'Lanka' is not in the article
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 10 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 21 story pages for Google)
 
-Countries: IN 38, PK 35, BD 37, US 37, GB 38, IE 36, CA 37, AU 38, NZ 29, SG 36, MY 35, PH 36, AE 37, IL 35, NG 36, KE 37, ZA 34, GH 35, FR 32, DE 33, JP 8, IT 34, ES 34, BR 34
-
-World Pulse not made this run: no AI available for writers
+Countries: IN 38, PK 36, BD 37, US 37, GB 38, IE 35, CA 36, AU 38, NZ 31, SG 36, MY 35, PH 36, AE 37, IL 35, NG 35, KE 38, ZA 33, GH 36, FR 33, DE 34, JP 8, IT 34, ES 34, BR 34
