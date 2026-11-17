@@ -1,48 +1,77 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 19/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
 
-FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
-OK   Ada Derana: 78 stories
+OK   Google Top Stories LK: 38 stories
+FAIL Ada Derana: HTTP Error 429: Too Many Requests
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 33 stories
-FAIL Daily Mirror: HTTP Error 429: Too Many Requests
+FAIL EconomyNext: HTTP Error 429: Too Many Requests
+OK   Daily Mirror: 77 stories
 FAIL Hiru News: HTTP Error 429: Too Many Requests
-OK   Newsfirst: 19 stories
+FAIL Newsfirst: HTTP Error 429: Too Many Requests
 OK   Daily News: 79 stories
-OK   Sunday Times: 2 stories
+FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
-FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
+OK   Google Top Stories World: 68 stories
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-FAIL Reuters: HTTP Error 429: Too Many Requests
+OK   Reuters: 100 stories
 OK   AP News: 100 stories
 
-Biggest stories right now: At least 17 people killed in 2 mass shootings (4 outlets) | Five EU countries announce plan to send rejec (4 outlets) | Cyclonic Storm Akvan: Rain expected in parts  (3 outlets) | Nvidia dismisses 'Bring Jensen Back' campaign (3 outlets) | USS Roosevelt arrives in Middle East: Is the  (3 outlets)
+Biggest stories right now: Robert Pattinson to replace Daniel Craig as J (5 outlets) | 17 killed in two mass shootings in South Afri (5 outlets) | Five EU countries unveil plans for Rwanda dep (5 outlets) | Trump says he might meet with North Korea’s K (4 outlets) | Imran Khan seeks urgent medical care fearing  (4 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Army officer killed by brother in sword attack in Matara
+* Newswire [1 outlets]: Police probe death of beggar found with head injuries in Minuwangoda
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [2 outlets]: Cyclonic Storm Akvan: Warning issued to Naval and fishing communities
-    important (also on Newsfirst) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Cards say communities are urged to 'stay ashore'; the article only advises them not to venture into several specified sea areas.; The spoken card says 'officials are advising everyone' to avoid waters
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* Newswire [1 outlets]: 24 yr old STF officer killed in motorcycle accident in Matale
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* Daily Mirror [1 outlets]: Fire brigade rescues dog trapped in drain for over a day in Kandy
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: Over 4,200 narcotic pills seized in Kochchikade raid
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 rejected: the number 4,200 is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -55,64 +84,45 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* Newsfirst [1 outlets]: LAUGFS Gas Officials to Meet Trade Minister Today
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newsfirst [1 outlets]: Fourth Day of 2027 Budget Second Reading Debate Today (17)
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [1 outlets]: 2027 Budget proposals fails to ease burden on middle-income families -
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: US moves to block China’s remote access to AI chips amid Nvidia scanda
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
+    attempt 2 rejected: The 'spoken' card includes 'We will provide updates as more information becomes available,' which is not stated in the article.
+    -> no cards; posting with the site's own summary
+* Daily Mirror [4 outlets]: Imran Khan seeks urgent medical care fearing he ’may not return alive’
+    no AI summary: saving the rest of today for important news
+* Newswire [1 outlets]: Harsha explains why Sajith opened Opposition’s Budget debate this year
+    no AI summary: saving the rest of today for important news
+* Breaking News, Latest News and Videos [4 outlets]: Trump says he may meet with North Korea's Kim Jong Un during China tri
+    no AI summary: saving the rest of today for important news
+* The Guardian [2 outlets]: Fiona the hippo under veterinary care after eating hat at Cincinnati z
+    no AI summary: saving the rest of today for important news
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 6 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
+    gemini failed (The read operation timed out)
+    gemini:gemini-2.5-flash not available (AI error 404: {
   "error": {
-    "code": 400,
-    "message": "Request contains a)
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 rejected: the name/word 'China-based' is not in the article
-    -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: United Airlines says ‘widespread’ system outage resolved
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: the number 90 is not in the article
-    attempt 2 rejected: the name/word 'Thursday-Friday' is not in the article; the number 90 is not in the article
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: the name/word 'Sunday-night' is not in the article
-    attempt 2 rejected: the name/word 'April-June' is not in the article
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 20 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
-  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code")
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
-  Fact Base: 8 facts and 0 people saved
+  summary translation failed (no AI available for writers)
+  Fact Base: 16 facts and 0 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
   meaning check: 15 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 19 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 21 story pages for Google)
 
-Countries: IN 38, PK 34, BD 38, US 38, GB 35, IE 34, CA 0 (FAIL), AU 0 (FAIL), NZ 0 (FAIL), SG 34, MY 0 (FAIL), PH 35, AE 38, IL 0 (FAIL), NG 34, KE 33, ZA 0 (FAIL), GH 0 (FAIL), FR 34, DE 33, JP 8, IT 32, ES 0 (FAIL), BR 33
+Countries: IN 38, PK 37, BD 0 (FAIL), US 0 (FAIL), GB 0 (FAIL), IE 33, CA 38, AU 36, NZ 31, SG 32, MY 0 (FAIL), PH 35, AE 38, IL 35, NG 35, KE 34, ZA 0 (FAIL), GH 0 (FAIL), FR 34, DE 0 (FAIL), JP 7, IT 31, ES 0 (FAIL), BR 33
