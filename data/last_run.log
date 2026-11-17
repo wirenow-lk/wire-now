@@ -1,67 +1,48 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 2/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 87 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
+OK   EconomyNext: 19 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
-OK   Daily News: 86 stories
-OK   Sunday Times: 3 stories
+OK   Daily News: 72 stories
+OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 18 stories
-OK   Google Top Stories World: 64 stories
-OK   BBC World: 24 stories
+OK   Google Warnings LK: 19 stories
+OK   Google Top Stories World: 63 stories
+OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Jensen Huang says he would be ‘honored’ to re (6 outlets) | Grade 6 admission cut-off marks for 2027 rele (6 outlets) | Seven new envoys present credentials to Sri L (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Jensen Huang says he would be ‘honored’ to re (6 outlets) | Grade 6 admission cut-off marks for 2027 rele (6 outlets) | Trump to kick off Asia trip with Quad talks i (6 outlets) | Govt. to establish National Nuclear Security  (6 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily Mirror [2 outlets]: Sri Lanka to establish permanent Nuclear Security watchdog
-    important (also on Ada Derana) - researching
+* Daily News [1 outlets]: Navy arrests 61 for poaching
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily Mirror [2 outlets]: Cabinet approves aviation fuel supply contracts at four foreign airpor
-    important (also on Hiru News) - researching
+* NBC News [1 outlets]: Gavin Newsom sued by prosecutors and victim rights group to stop mass 
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* EconomyNext [3 outlets]: EXPLAINER – What does NVIDIA’s Huang scandal mean for Sri Lanka?
-    important (also on AP News, Reuters) - researching
+* Newswire [2 outlets]: LAUGFS Gas gets cheaper after Trade Ministry intervention : New price 
+    important (also on Daily News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [3 outlets]: How the attack on Crimean Bridge unfolded
-    important (also on Ada Derana, BBC) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 rejected: the name/word 'Vladimir' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -70,9 +51,47 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 rejected: key_facts[0] claims the entire 12-mile-long Crimean Bridge was brought down, but the article says only a key section collapsed while the railway arch remains standing.; details[0] states Kyiv called i
+    cards OK (attempt 1, written by openrouter)
+* Daily News [2 outlets]: SriLankan Aviation College and WAISL inspires next generation of women
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily News [2 outlets]: JXG reports LKR 13Bn in revenue for 1H FY27 despite market volatility
+    important (also on Lanka Business Online) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for checkers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Reuters [3 outlets]: Britain sanctions Israeli settlement firms in push to protect two-stat
+* AP News [3 outlets]: Tokyo protests after two suspected Russian aircraft violate Japanese a
+    important (also on Euronews.com, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [3 outlets]: Trump lands in Asia ahead of talks with Russian and Chinese presidents
+    important (also on Ada Derana, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -80,28 +99,24 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: The 'spoken' field contains a detailed script about a conversation that is not found in the article.
-    attempt 2 rejected: the name/word 'Lanka' is not in the article
+    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
   photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+  fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 6 facts and 1 people saved
+  meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 21 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 22 story pages for Google)
 
-Countries: IN 38, PK 36, BD 37, US 37, GB 38, IE 35, CA 36, AU 38, NZ 31, SG 36, MY 35, PH 36, AE 37, IL 35, NG 35, KE 38, ZA 33, GH 36, FR 33, DE 34, JP 8, IT 34, ES 34, BR 34
+Countries: IN 38, PK 34, BD 0 (FAIL), US 37, GB 37, IE 34, CA 37, AU 38, NZ 0 (FAIL), SG 36, MY 34, PH 34, AE 0 (FAIL), IL 0 (FAIL), NG 36, KE 36, ZA 0 (FAIL), GH 35, FR 33, DE 33, JP 8, IT 34, ES 34, BR 34
