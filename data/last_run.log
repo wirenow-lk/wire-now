@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 24/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 79 stories
+OK   Ada Derana: 78 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 16 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
-OK   Daily News: 86 stories
+OK   Daily News: 84 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -16,91 +16,115 @@ FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 18 stories
 OK   Google Top Stories World: 64 stories
-OK   BBC World: 27 stories
+OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Nvidia doubles revenue as board says it does  (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Govt. to establish National Nuclear Security  (6 outlets) | Russian military plane crash in Siberia kills (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Jensen Huang Says He Would Return as Nvidia C (7 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Govt. to establish National Nuclear Security  (6 outlets) | Nvidia chair says the board will not rehire H (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Guardian [2 outlets]: NSA claims temporary internal network outage caused by ‘scheduled rout
-    important (also on Al Jazeera) - researching
+* Daily News [1 outlets]: Central and Ruwanpura Expressways move forward
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily News [1 outlets]: Rethinking devolution
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* WDSU [1 outlets]: City of New Orleans closes assistance center for capsized cruise ship 
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [3 outlets]: William and Kate celebrate Earthshot Prize winners in Mumbai
+    important (also on AP News, Harper's BAZAAR) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    gemini failed (The read operation timed out)
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Politico [1 outlets]: Mike Johnson backs crackdown on House GOP holdouts
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Washington Post [1 outlets]: Should you take GLP-1s during pregnancy? What some doctors say.
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newsweek [4 outlets]: Canada and China Strike New Trade Deal Ahead of Trump Summit
-    important (also on Ada Derana, CBS News, Reuters) - researching
+* Reuters [5 outlets]: Nvidia chair says the board will not rehire Huang as CEO
+    important (also on AP News, Ada Derana, The Guardian, Yahoo Finance) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [3 outlets]: UK hands NATO-assigned US soldier accused of Russia spying to US milit
-    important (also on CBS News, The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, The Guardian
-    attempt 1 failed: no AI available for writers
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
     -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
   photos: 11 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
+    gemini failed (The read operation timed out)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+  summary translation failed (no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code")
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 22 story pages for Google)
 
-Countries: IN 38, PK 33, BD 37, US 37, GB 37, IE 35, CA 37, AU 38, NZ 32, SG 36, MY 33, PH 34, AE 37, IL 34, NG 36, KE 35, ZA 35, GH 35, FR 34, DE 33, JP 7, IT 34, ES 33, BR 34
+Countries: IN 38, PK 33, BD 36, US 36, GB 37, IE 35, CA 36, AU 38, NZ 32, SG 37, MY 33, PH 35, AE 36, IL 35, NG 35, KE 35, ZA 35, GH 35, FR 34, DE 33, JP 9, IT 34, ES 34, BR 34
