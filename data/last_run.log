@@ -1,44 +1,50 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 17/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
 
 FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
-OK   Ada Derana: 76 stories
+FAIL Ada Derana: HTTP Error 429: Too Many Requests
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 32 stories
-OK   Daily Mirror: 75 stories
-OK   Hiru News: 100 stories
+OK   EconomyNext: 34 stories
+OK   Daily Mirror: 73 stories
+FAIL Hiru News: HTTP Error 429: Too Many Requests
 FAIL Newsfirst: HTTP Error 429: Too Many Requests
-OK   Daily News: 80 stories
+FAIL Daily News: HTTP Error 429: Too Many Requests
 FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 0 stories
+FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 20 stories
-FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
+OK   Google Top Stories World: 64 stories
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-FAIL AP News: HTTP Error 429: Too Many Requests
+OK   AP News: 100 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (11 outlets) | British actor Robert Pattinson named as new J (5 outlets) | UK's Prince William, Princess Kate begin Indi (5 outlets) | Jay Shah Unanimously Re-Elected as ICC Chairm (5 outlets) | Five EU countries unveil plans for Rwanda dep (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | 17 killed in two mass shootings in South Afri (5 outlets) | Five EU countries announce plan to send rejec (4 outlets) | Nvidia dismisses 'Bring Jensen Back' campaign (3 outlets) | UK seeks closer ties with EU after Brexit fai (3 outlets)
 
-7 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: No tsunami threat to Sri Lanka following earthquake near Indonesia
-    important (serious news) - researching
+* The Island [1 outlets]: Sri Lanka eye series triumph as Rawalpindi hosts decider
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Island [2 outlets]: Budget 2027: Unions step up protests demanding relief
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: The card says Sri Lanka need a win to take the series, which is implied but not explicitly stated in the article.; The card says the tourists need a more collective effort to take 20 wickets to win, w
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -47,33 +53,20 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: Blurb says 'stepping up strikes' but the article says unions have 'intensified protests'; only the engineers launched a token strike, while pre-school teachers 'staged a protest' and other unions warn
-    attempt 2 rejected: what_happened, key_facts and spoken attribute the warning of further industrial action to 'Unions', but the article says 'Several organisations' warned.; key_facts, blurb and spoken say 'university st
+    attempt 2 rejected: key_facts must have 4 to 8 points covering every main point of the article
     -> no cards; posting with the site's own summary
-* The Island [1 outlets]: Mano tells AKD not to mislead Malaiyaha Tamils with false claims
+* The Island [1 outlets]: Which cricket teams can qualify for the LA 2028 Olympics and how?
     no AI summary: saving the rest of today for important news
-* The Island [1 outlets]: Acting Atamasthanadhipathi requests Buddhists not to oppose A’pura pro
+* Daily Mirror [1 outlets]: Egg prices rise as festive season demand increases
     no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Nvidia rules out Huang comeback as campaign for his return grows
+* Al Jazeera [3 outlets]: Paraguay ex-president moved to military jail amid special treatment re
     no AI summary: saving the rest of today for important news
-* Reuters [3 outlets]: EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter,
-    no AI summary: saving the rest of today for important news
-* The Guardian [2 outlets]: Five EU states announce plans for immigration ‘return hubs’ in Rwanda
+* Al Jazeera [3 outlets]: UK seeks closer ties with EU after Brexit fail
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 4
-  photos: 16 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: 12 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Factcheck.lk failed (HTTP Error 429: Too Many Requests)
-  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
   fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
-  summary translation failed (no AI available for writers)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
-
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 18 story pages for Google)
-
-Countries: IN 0 (FAIL), PK 36, BD 0 (FAIL), US 37, GB 36, IE 34, CA 0 (FAIL), AU 38, NZ 0 (FAIL), SG 32, MY 0 (FAIL), PH 35, AE 37, IL 35, NG 0 (FAIL), KE 32, ZA 0 (FAIL), GH 32, FR 34, DE 33, JP 0 (FAIL), IT 33, ES 34, BR 33
