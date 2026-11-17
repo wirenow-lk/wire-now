@@ -1,13 +1,13 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
 
 OK   Google Top Stories LK: 38 stories
-FAIL Ada Derana: HTTP Error 429: Too Many Requests
+OK   Ada Derana: 78 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-FAIL EconomyNext: HTTP Error 429: Too Many Requests
-OK   Daily Mirror: 77 stories
-FAIL Hiru News: HTTP Error 429: Too Many Requests
-FAIL Newsfirst: HTTP Error 429: Too Many Requests
+OK   EconomyNext: 28 stories
+FAIL Daily Mirror: HTTP Error 429: Too Many Requests
+OK   Hiru News: 100 stories
+OK   Newsfirst: 17 stories
 OK   Daily News: 79 stories
 FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
@@ -15,114 +15,113 @@ OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
-OK   Google Top Stories World: 68 stories
+OK   Google Top Stories World: 70 stories
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 100 stories
+FAIL AP News: HTTP Error 429: Too Many Requests
 
-Biggest stories right now: Robert Pattinson to replace Daniel Craig as J (5 outlets) | 17 killed in two mass shootings in South Afri (5 outlets) | Five EU countries unveil plans for Rwanda dep (5 outlets) | Trump says he might meet with North Korea’s K (4 outlets) | Imran Khan seeks urgent medical care fearing  (4 outlets)
+Biggest stories right now: New 007 announced; Robert Pattinson is the ne (5 outlets) | Trump says he might meet with North Korea’s K (5 outlets) | ‘Akvan’ likely to intensify into very severe  (4 outlets) | Nvidia dismisses 'Bring Jensen Back' campaign (4 outlets) | EU countries announce migrant deportation cen (4 outlets)
 
-8 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Police probe death of beggar found with head injuries in Minuwangoda
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Newswire [1 outlets]: 24 yr old STF officer killed in motorcycle accident in Matale
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Daily Mirror [1 outlets]: Fire brigade rescues dog trapped in drain for over a day in Kandy
+* Newsfirst [1 outlets]: Three Deaths Under Investigation in Minuwangoda, Matara and Walapane
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [1 outlets]: Over 4,200 narcotic pills seized in Kochchikade raid
-    normal news - one-paragraph summary
+* Newswire [3 outlets]: Fire breaks out at Kahawatta Base Hospital
+    important (also on Ada Derana, Hiru News) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 rejected: the number 4,200 is not in the article
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 2 rejected: The 'spoken' card includes 'We will provide updates as more information becomes available,' which is not stated in the article.
-    -> no cards; posting with the site's own summary
-* Daily Mirror [4 outlets]: Imran Khan seeks urgent medical care fearing he ’may not return alive’
-    no AI summary: saving the rest of today for important news
-* Newswire [1 outlets]: Harsha explains why Sajith opened Opposition’s Budget debate this year
-    no AI summary: saving the rest of today for important news
-* Breaking News, Latest News and Videos [4 outlets]: Trump says he may meet with North Korea's Kim Jong Un during China tri
-    no AI summary: saving the rest of today for important news
-* The Guardian [2 outlets]: Fiona the hippo under veterinary care after eating hat at Cincinnati z
-    no AI summary: saving the rest of today for important news
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 6 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
     gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
+    gemini failed (AI error 400: {
   "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: The 'spoken' section says 'Police say the fire is now completely out,' but the article states the fire was 'completely brought under control,' which is not the same as being completely out.; The 'spok
+    gemini failed (AI error 400: {
   "error": {
-    "code")
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 failed: no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    -> no cards; posting with the site's own summary
+* Newswire [2 outlets]: Dollar Rate today: Sri Lankan Rupee depreciates further against US Dol
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Religious programme held in memory of tusker Kawanthissa with Sajith’s
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Oil slips on supply surplus outlook despite Gulf tensions
+    no AI summary: saving the rest of today for important news
+* BBC World [3 outlets]: California sues OpenAI over Hugging Face attack
+    no AI summary: saving the rest of today for important news
+* BBC World [3 outlets]: Two major Kyiv bridges hit in Russian attack, mayor says
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  summary translation failed (no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code")
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  Fact Base: 16 facts and 0 people saved
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+    "code": 429,
+    "message": "You exceeded your )
 
-Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 21 story pages for Google)
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 5 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
-Countries: IN 38, PK 37, BD 0 (FAIL), US 0 (FAIL), GB 0 (FAIL), IE 33, CA 38, AU 36, NZ 31, SG 32, MY 0 (FAIL), PH 35, AE 38, IL 35, NG 35, KE 34, ZA 0 (FAIL), GH 0 (FAIL), FR 34, DE 0 (FAIL), JP 7, IT 31, ES 0 (FAIL), BR 33
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 21 story pages for Google)
+
+Countries: IN 37, PK 0 (FAIL), BD 38, US 0 (FAIL), GB 0 (FAIL), IE 0 (FAIL), CA 38, AU 38, NZ 0 (FAIL), SG 33, MY 0 (FAIL), PH 35, AE 38, IL 35, NG 35, KE 35, ZA 0 (FAIL), GH 31, FR 34, DE 33, JP 9, IT 31, ES 34, BR 34
