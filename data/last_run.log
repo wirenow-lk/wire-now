@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 8/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 12/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 84 stories
+OK   Ada Derana: 81 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 17 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
-OK   Daily News: 86 stories
+OK   Daily News: 85 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 19 stories
-OK   Google Top Stories World: 69 stories
+OK   Google Warnings LK: 18 stories
+OK   Google Top Stories World: 63 stories
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,44 +23,20 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Govt. to establish National Nuclear Security  (6 outlets) | Cyclone Akvan to make landfall between Nellor (6 outlets) | UK sanctions firms over Israeli West Bank set (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Trump to kick off Asia trip with Quad talks i (6 outlets) | Govt. to establish National Nuclear Security  (6 outlets) | Seven new envoys present credentials to Sri L (5 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [2 outlets]: Teejay Group records strong recovery in Q2 FY 2026/27
-    important (also on Daily Mirror) - researching
+* The Washington Post [1 outlets]: FEMA will test its Emergency Alert System today. Here’s what to expect
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [3 outlets]: IRD surpasses 2026 annual tax target ahead of schedule
-    important (also on Ada Derana, Newsfirst) - researching
+* Newswire [2 outlets]: Sports Ministry pledges support for Youth Olympic silver medallist Lah
+    important (also on Daily News) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [3 outlets]: 2026 Grade 5 Scholarship Examination: School-wise cut-off marks
-    important (also on Ceylon Today, Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (The read operation timed out)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* AP News [3 outlets]: Ukrainian drones and missiles strike Kerch Bridge that links Russia wi
-    important (also on Daily Mirror, The New York Times) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [3 outlets]: National Security Agency network for internal communications goes down
-    important (also on AP News, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -70,18 +46,36 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
+* Fox News [1 outlets]: Tech outages live updates: Microsoft, banks and FAA
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (The read operation timed out)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* AP News [1 outlets]: FAA temporarily stops router installations connected to air travel sto
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [2 outlets]: American soldier arrested by UK police on suspicion of spying taken in
+    important (also on The Guardian) - researching
+    news search: 0 results, 0 about this story
+    read 2 articles: BBC World, The Guardian
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+* BBC World [3 outlets]: Russian military plane crashes killing all 19 on board
+    important (also on BBC, Reuters) - researching
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -96,8 +90,13 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -110,8 +109,9 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 10 too small to look sharp, using the clean cover
+  photos: looked up 24, found 1
+  photos: 12 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
@@ -119,4 +119,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 22 story pages for Google)
 
-Countries: IN 38, PK 35, BD 37, US 37, GB 38, IE 35, CA 36, AU 38, NZ 29, SG 36, MY 33, PH 34, AE 37, IL 35, NG 37, KE 36, ZA 34, GH 34, FR 33, DE 33, JP 7, IT 34, ES 34, BR 34
+Countries: IN 0 (FAIL), PK 34, BD 0 (FAIL), US 37, GB 38, IE 35, CA 37, AU 38, NZ 31, SG 36, MY 34, PH 34, AE 37, IL 34, NG 36, KE 34, ZA 34, GH 32, FR 34, DE 33, JP 7, IT 33, ES 0 (FAIL), BR 34
