@@ -1,51 +1,157 @@
 {
- "updated": "2026-11-16T21:32:00.003066+00:00",
+ "updated": "2026-11-17T03:33:59.832455+00:00",
  "code": "BD",
  "name": "Bangladesh",
  "stories": [
   {
-   "id": "d25ea98b1d",
-   "title": "Nationwide outage impacts Chase banking online and at some branches",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2ZFaDJ5aHZleEgtcUx0MG00LWlha2hRUVZlUUQtMXFSSmhMM2FCSEVTaW5tUG14M0l4VkVWblFTSVNXX05QVkhOdHpjVVpscHlrRmpMcFdqaGlWc2hSS25JdTdXMEQtNEx1SkxldjNkOTVmTWI4NkRlWlZmdVdJRFotLThHUmRZNnV6bXEtdmxONGdm?oc=5",
+   "id": "abacb70de0",
+   "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkM0VjZ6TVBKcGwzLURQWG4zNlFkMEJxeDhmTzdMdi1EZUFpbWhhMkM5eVNrdDkyNjUtVUNjc1VPanp5b0pJVjR3d0ZiTnUybm5GUXBnMjk5ZjBlaUJGX2JnLXJVSnZfODJwWGJrY0d6N1VSSDdsSkRfcHI4TjVxY2NQOV84Zzk3dUNjbVFvdnpLSThOUV9QNGZIODRMQTRTSE05dWF0VG0tNmRBdFFHdVlBdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "BD",
+   "date": "2026-11-17T03:39:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dafc7bec16",
+   "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "BD",
+   "date": "2026-11-17T02:44:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇵🇭 🇷🇺",
+    "also": [
+     "Philippines",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "86430613f6",
+   "title": "Scientists Are Stumped by This Strange Object in Space",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BZzAxQTdBUmY2R3dfR0k4dXV5V1cyODlNeHVrbHl0TExuWFVUR25LRFJhVXltbURhMHV4T1cya2tWbXc4MXlFcDBmdGZZRDAydjdHNDVRODVLbHhmVUlUQTNkTWpzT2pVVkhUMDVBYzM3VFBzX2M5RmRYc0o?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "BD",
+   "date": "2026-11-17T01:37:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "04f7173523",
+   "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdqaGdfdmtLRUZBLTBjVURHLWU1LUJHcHQxbkdadERwcGRLWXU3c0VNOXpydFc2OF9vTDN2a2stb2owYVJiWGh1aGsxM0cyd004ZGRuSFRTZlMybmxOU1prdHEzS2RDaEVHdWU3OTRUdGVaNVV3YXdJMjlFLTZDZHBTcFcySjI5ajF6UVBEUDZtRkowNlNCT3lR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Variety",
+   "region": "BD",
+   "date": "2026-11-17T01:27:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "e2b7ddc51c",
+   "title": "JPMorgan Chase systems recovering following hourslong nationwide technical outage",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVZfSXNOWnJZcEdKbVhSSTZkcGJUT1BfMUhKQW9pQ1hSSGJHNjgtTTJTNGxnYk9NLU81T3hLOFVlWk9hdjM5a0hxRUlqVHhib2NRYTN2Wm5NZDJoTThLSm9pVnVlN2xWRlFhV0Myc043czN4dDZ5WnhGY1JQREZGbmUyYUZxZUlOZ2ptSHJMQ25ydms1Nk1vRkN2RkU4NTJodTJSSFJnVXpQWTlfSVRKeXJpSklDQdIBuwFBVV95cUxOSDd0dE0yYzJBQmNiTzNpc2lNUHV6VHltSmVHVHZDUkw0ZElfY3ZrVko3T0s1UUlOOGptTXRGdi16RkZCWEVfZTg2RHd6VW1kWTZvS2tqQkViMHJoRFBJd0lwVHJVSkV2ejQweTNZa0NqMUp5X0tKbjNncW9HRjJZMDdDbW5Ua0dPcG5rNnVFbERSWkdKbllfa2UtazByMXkwY01rM3d0a3c0MmtpbjFTOGYtbUFMMnBieWpJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Fox Business",
+   "region": "BD",
+   "date": "2026-11-17T01:25:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "54bdfa7b95",
+   "title": "1.5-hour-long system outage forces United Airlines to delay departing flights",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "BD",
+   "date": "2026-11-17T00:53:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "ae2ee5958b",
+   "title": "U.S. loses measles-elimination status, erasing decades of progress",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3EtY1JzbmcwVS1OQWZ3dlAzWUNxSmNOOG9WNXRxMzY2R3l6WU1IcWFYQ0VPeXZqVnUzVnF6YUM0WWJYNkFOTU1iSWVZUGRMcnEtSUJETGxoOU9pZnBoMlBzMFBlVjdrRmFyZU8yRWJjU1oxdVFnXzNWQlkxMUsxeFlwSkVKRTR0Y2h5VTFB?oc=5",
    "summary": "",
    "image": "",
    "source": "NBC News",
    "region": "BD",
-   "date": "2026-11-16T20:25:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "1316f484a4",
-   "title": "Doctors are raising concerns about US babies born with measles",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFM1anhXXzhKZlJuOU9wdWtZcGt5ZVVNclJ4am01NXJrTGJPeTRkZGlZZ252Zk9RWjVmTlRlQzZBVTJ5cmhKUG00TF9lWXp3N0xiNzVNUWZIRFVGRUtmNzNXZ0lfYVo5ZDM3OS00d1BuR3I4a1I5YlJEeGZVSTA0YUVSWXZ4WFFES0hQeFNYTGpmUGZuQk1rRXZjLWVhZmhCNzdDVDNn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "BD",
-   "date": "2026-11-16T20:19:29+00:00",
+   "date": "2026-11-17T00:41:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Health"
+   "topic": "Society"
   },
   {
-   "id": "727f5668e8",
-   "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
+   "id": "02facc42c8",
+   "title": "Trump Backs Huang Comeback While Nvidia Board Seeks New CEO",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZFZHJxQ1ZMaW5Ba1V4bm8taHd4bFBvYUZHWFY4SFpydml5YUVhLTRCaEFsNG9TbjY1dl9ac2tDek1DemJ0M3FwQTNtQm5aNV83RjFsZEZTNmJ2WHRJRWtHUVRDVEdnTUJtSzlaMWZfSEU2anpRSmVGcG9SUEgxN3c1WG5UcVBkdG02bmsyQkxvNlVqeEV2SDFORlA3VGNHZnpha2EyQ3V5aDVIS1E?oc=5",
    "summary": "",
    "image": "",
    "source": "Bloomberg.com",
    "region": "BD",
-   "date": "2026-11-16T20:03:49+00:00",
+   "date": "2026-11-17T00:36:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "d0a46835bd",
+   "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZX1A1ZUpLQzUwdUhDWHJmSktxM0JhR1RsZU43OTR1TndFamZ4LXBqcjJKakZyWWFHeHVzdHhLM0JRYnJnemNXVHpsT0dXYm9WWWRUdXUxXzc0VV9yUkF5QlBGLTA4WkVOTFpvb0NDQ0p4d0lpbzVj0gF8QVVfeXFMUGFfWnJDSW5odWJYOGZPaks3ZUtHZUxHSkVrdDVmeVY3UnhPX0ExTVFXVmQ2Qjd6eVNXbHowQnBzNmJobUNvOTRSRW5IZVFWVk5xOVNwV3ViT3haX1R1S0J1YW8wMU1pdmVZMFNacFg2YnlvdlFnanVBM0RJTA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNBC",
+   "region": "BD",
+   "date": "2026-11-16T23:57:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -55,14 +161,85 @@
    "topic": "Tech"
   },
   {
-   "id": "bee886260a",
-   "title": "Third American aircraft carrier arrives in the Middle East, and other Mideast news",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5hSUlUV1Faal92TE5Na3NzVENGU181SVRwMnN1VzgzMm0xUERkZDdFZG9DLUl6SVhLbnFTSXktZEcwU0RSMTBFaUlPYUZ3TjljdkU3NzdBcGVvQTMwd0Rxa0g1bVFfZnp6eWVkMDg2OGQ0aUczYlc2Q3NtaWRaWU9VSkNJeUZMZ1EyWDNoNXhha1YwQXRfUUpQYm1RbmZEV25QZTRuN3ZFMjRocWNwZ2dBZno?oc=5",
+   "id": "7242ea3f4e",
+   "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "AP News",
+   "source": "The Hollywood Reporter",
    "region": "BD",
-   "date": "2026-11-16T19:56:00+00:00",
+   "date": "2026-11-16T23:49:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0cf65b1377",
+   "title": "Lions' Aidan Hutchinson reportedly confirmed to have torn ACL, ending his 2026 season",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnRBM1dheE5NZVc4SmJyRTNsdWRtMWs5c1BURUFSN3V2VVFVRjg0elQ3WkFhamhsUzUwMU9CNTc1enI3amV3N1lITV9QUUpleUhVNWRXZTNCdFdKM3V2bVZOYjBST2FSenhHWGJaY3RaSHpNTzF2bXNhX1l6OUM1MF9NVGFlcFNITVEwZ0F0VGpwbFZRNmM4Mm1VVEo0VFZvODdPVExPa1NOWFN0eVc1cWVXbVg5ZFV4d18ybkUyNVMyTE9iN2JkLXAwdkFBeVp4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "BD",
+   "date": "2026-11-16T23:20:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0a3b76b546",
+   "title": "Cause of death released for partner of Gypsy Rose Blanchard",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTRtckowWnhMVEV6YzNpRzBXOEs1c0NnQ1Qtelo5QUZwdzE3bU4zZ1VwTDFMdnQ0N0pzV1Zwc2M1MGthdXV3cERKQWktMllwaXJjdEhKNjQtdERJQXFHYW9pQmczenBvVERVcnhZcWctYkxIZXQ0ckFJc3VIVnZ4dUZHNVFkNVNXZDhFelV6WndDa21DaVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "BD",
+   "date": "2026-11-16T23:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1b39604304",
+   "title": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "BD",
+   "date": "2026-11-16T22:59:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇮🇷",
+    "also": [
+     "Iran"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8dcef0d3cc",
+   "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjNVcUhFb0FnR0xEdkR6TWNoMWtqcXRQM3pqazFnUWNqYVpGelR5UE5STnotdW5INnNDVVN6TU94SVdyRnNLLXA3Wm9faWU5clg1YTBnVkhFZEJLTVNXS3puUFp1MFduSTJqNUJ0djE5QXhDa0RzRmNIbTJpTmVkaklnaldyamNQVkptRUo1X3ZEX3UwWjI0NzlkNTBfZzJTc042OTRBYnNZMlFLTkZ4UlZ0QTJyMEhSZ3lJVlk4QjRueVp5bTJLbG81bjBaYlJs?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "BD",
+   "date": "2026-11-16T22:51:43+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -72,14 +249,14 @@
    "topic": "Society"
   },
   {
-   "id": "34708c3fcb",
-   "title": "Robert Pattinson says being cast as new James Bond is 'honour of a lifetime'",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVzhPVmQtS1dYd0txaGRUR2hkazl1dXVwVGVUN3ktSmdOdnNLd1Q4WmdFWW9iOE9BdlN6NEhRb0FxOENFdWdsQm9YYVJkcWpvR0QwR0l3?oc=5",
+   "id": "a9dcd245e3",
+   "title": "Brexit diminished us, Burnham says as he tees up closer EU ties",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDk0RllKODNYcWtIaDhfZlltaVYwd2toNEtDaC1sY1FrMHBaOUJaWE0wdU1xSVA3NEhTTF9zWjZ2SkYzY0xGWUJRUUwxU1psY3lWQm1XN28zR2lNOU1GcWUtZXRmNjJlUVZoNDYwbW1QSlhRTEJoczBXR0szc2lUd0RpSUdLcVlkdm5oWHkzMmZ3LTRyRU1IdURaSmx0ZlcyUjQ1MnJfZnlLNWt5TFEtai1R?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "POLITICO.eu",
    "region": "BD",
-   "date": "2026-11-16T19:41:15+00:00",
+   "date": "2026-11-16T22:48:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -89,14 +266,31 @@
    "topic": "Society"
   },
   {
-   "id": "f64be335ac",
-   "title": "Lindsay Clancy to face retrial for deaths of her three children in March 2027",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBweWFpbm9kbmUtMGF4VnhNX1BUZ1FMaFFrSGRWZTNlV0wwTWRnREFkUzhmZm0tQ0ZFUEJWQWZRU0otRnZKQ1pFaDdMaS1EcnFQZjJQTGNZSUc1TW8?oc=5",
+   "id": "5f24980b9b",
+   "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The New York Times",
    "region": "BD",
-   "date": "2026-11-16T19:30:30+00:00",
+   "date": "2026-11-16T22:25:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "22d8a4f912",
+   "title": "What we know about what caused the FAA's nationwide ground stop",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaW8xRjJ5aVF4T09CZHdOUjd1eGpPZDY4NHFsLW9FVHc3NXl4M0hLV1dWMGlpeTlseFZzZ2dUUEZWRXF0dUhmaTZwTnVLWjFST3pqdUtmdlduTjZpNGpTLWVSUFR6ZnRFV1REQmF5dTdPMXlUOVBrWE1rNnNEblNFSlhXWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Axios",
+   "region": "BD",
+   "date": "2026-11-16T22:24:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -106,19 +300,104 @@
    "topic": "Society"
   },
   {
-   "id": "35af1a2eaa",
-   "title": "Cause of death released for Gypsy Rose Blanchard's partner, Ken Urker",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb2t2Zm4tZXh0anJiNjI3OXpsRENINk14b0FQQ19EVC1KeGZrMGxpNjVsbnhrQ0dkLWczaEZzUkpiNS1NM01RZlVsTk1PMzVFb2wzUVRJa2lfQzZwS3B0azJ2Y1hmQ3dtMFZ0RklwMkFjZlVUNUFnekVqMzFRRXp3QlpmajY0RDhnQUE?oc=5",
+   "id": "617d43df65",
+   "title": "Sen. Dan Sullivan campaign says it won’t concede Alaska Senate race until it’s certified",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdFB1Q2V2UXp6YkZfXzJYWWpmaG5TeUhPcF9LUmNfQ3NkNEFlMi1KT0ppYWJhTXAzZDltRFVIVFJfZnBTcml5dXVxVEozNjBaODdxZTY0M3lMbmtHVFBjYjl5ZFZwMGdwbFZRZkNkbDdxUS0yTU9fX1QwWUlYOElDamk1Q0ZTNHhVTm5HX3k2czVUaTgzd2U5LUN0azdRbEVKNTFZVklxcTk0N0habld1QXFVY0txbGdiejM0ekNFa1lyTzBDcW5Ca1pn?oc=5",
    "summary": "",
    "image": "",
-   "source": "WDSU",
+   "source": "Democracy Docket",
    "region": "BD",
-   "date": "2026-11-16T19:14:00+00:00",
+   "date": "2026-11-16T22:19:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5b390ed49d",
+   "title": "Lindsay Clancy to face second trial in deaths of her 3 children",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnpSYUFFMlMtazUxeXVzYTFseEV2UWJFYUlacnI0Z19YNnN2NFZxTlNlYzJYeUFVOXd0SG55RkhvTXlxMlI5WVlZOS1UTC1HUHRqZlE1cUFHWDBxX2ktS0tDREVIODI3Uzl6YTNvZmJMTVRPb3NEVzU4QUlMdlVvOXlNWGZtbjdVc2hRcEt1V24wZ3lfd1llcXJsVUI2Zw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WCVB",
+   "region": "BD",
+   "date": "2026-11-16T22:10:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
     "place": "",
     "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "abd619bc14",
+   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanNCYkxYaVNLekhaVjJHVHZOOWVELWd6OTIwdk42bTg2YVVWTjRJb2IyUzhfbnJaYlB1UVljVlNucmlWYkRXX0tYNDdFOUxVRUdRV3BKZFpGcHQtMzJlNHdXY2FOcmlqZWpicDhsWWxsdEVsZkF1RXRlUmtxczNNbTRqVlZFdlFtRFgw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "BD",
+   "date": "2026-11-16T21:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8383982ded",
+   "title": "Rivers says NC State only college job he would have taken",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3ZZT01TVVNvSGVCNlVwX3hqQVN4ZFlsZU93a0JwOXJWeEJKd2tKMEpXclhQa2NtMEw0Yk8xUVZqWVNBV0ctbU9VLW1uWGdYWEoxQTJqQ2dLYTU0TXI0SDJhTHQxVVZVV2dJdkVxNDJYdXlFWjZiSWxobnBucVQ5OGZMVUxQamdORnU5eXphMTdzb1ptOHhBb1dpbWhDVUczVDIw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "BD",
+   "date": "2026-11-16T21:06:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bc3177d91d",
+   "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWl4cmQyY0JfOGNsZEVKNmw1a2R6cGtQM1MxMmZIODBKSzFLZHRQcjA3RTFqZGxYR3FPQ1BhZldKaTRfNzBpMm1haFhoUWxrb0JmT1lqX0MwZ1hvYWdud0lEcW8za002ckRrazlXZ19SRnlnUUVtSkl0YU51WXJiNld3cnViVGdKTHRlUHlrdlEtcHpHbGY1S3RWUDd2SDVXYzB0elN3NmxoOGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TechCrunch",
+   "region": "BD",
+   "date": "2026-11-16T21:01:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "808a5c4aab",
+   "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjJvYS1xZnR2SHVwMWtsbzRCNHZQbTF1WWNsczNVaXBGNFA1TjRiUzNESW8waVpfaENtOFBPQzVlckFKeExUWTE3MjhnMTROMDNSNkx1TGdMcDVzWGtyV2k1TmRGVlo1bWRlb1MxT25VX0lYTjk2STlBSGU5Wm1HUFRkYnQyNndBWUkwM3dBODlpcWMtazV3a3FEN1dfUkQxa1I4VlNfVUNZVG1rZFZUMEtvTWdfczJpTVHSAb8BQVVfeXFMTS12Slk0M1R2eXZfTWYtODh0bXdyY1h1UXhUT09fdjhXSXpDZE92ZkR5NTFVU2lNMlZSaENFU0N1UHIwd0g2bi0yWUgwbzc5RVpaMDR0UGlVRnB0RGltV21jcHpHWm43QUhhR1Y2c3VsaUw5NGZPUjZoUVRWZWMtLTQ0MlI5UEZuNzF4RDFtcjBMZTQ2VXVOOUpHREZ5V3czRUxBVllqTEtpYmc4ZDVLVGpBRlJmb2tJRXZjaDBqRk0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "BD",
+   "date": "2026-11-16T20:46:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -140,14 +419,31 @@
    "topic": "Society"
   },
   {
-   "id": "a66c452359",
-   "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0xWaG5qajZNNHpjdm43dlFFUnBxV01DdHhQV1VYSWZ6ZExYN1lITEpiZTJBU1BPenphWktPbHJPUDd1amdGZDFtT3FWVTVpMGxQRU1YV3E2NU5DTllfU0Q0T0xRSGV4SHZCMVBoUFJNajk4d1NDaXBFb28yZ3hTck1JVVhhdjA?oc=5",
+   "id": "955544e9a8",
+   "title": "Joe Burrow isn't just chasing MVP, he's chasing the greatest passing season ever",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPay1wcXdIMEJEUGwwWnVSMHhLdE9ZaFhscmViZ2R4VUZxbDYyNHNxQ2U3U1h0Tmo4d1FLcnJLT3hVXzZ3Z3pLYnB0UHZpVzIyUjJhWkU3elotdElPUDg3VkY0SU5RcGd5b3N2V01LTVZYbVRtazU5TzFkRzM?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Verge",
+   "source": "CBS Sports",
    "region": "BD",
-   "date": "2026-11-16T18:44:16+00:00",
+   "date": "2026-11-16T18:53:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d73e46370b",
+   "title": "iOS 27.3 gives Apple’s Calendar app new design updates",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXZOV0hoY1VrdUtJQUNQUGdiQzYyZ0h0RFEwajJrYTVzOWNIQWJyRkdfQ1BNTEI0dlJTenMtb01jRXFRek1ZczRYb2xLNHFESlpOLWN6N0dvT1Z4WnYwektxeE1lbDl2MXY3NmlTbWFsWnl5VHZwRUpuRVZ5dEJMVzJ3X2Y0WDlNN1RjWTNR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "9to5Mac",
+   "region": "BD",
+   "date": "2026-11-16T18:52:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -157,14 +453,14 @@
    "topic": "Tech"
   },
   {
-   "id": "b740314926",
-   "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXl5VHowc1JsY0ZqMjZWS1JHZGdoTlQ3LURGUEZNUEVaLTVwQkhiQzR4ZVhfVkFRRU1xbDNycWt1M1kyLUdZbi1fTWNlVHlKN0tBVDA3aHYtWGQ1b2dLam11bm5FUGFXSEQyLUMtLU1qRXg2RkRuRERMY3AxZ0V5LXd1X0M4enhSQVBkTE1HMnY0QW1LbVp3LVZVSjJTc2ZGRjBYWF91Q25icDN3UVhJdlRCdmc?oc=5",
+   "id": "6fcd7d22fa",
+   "title": "B/R Experts Week 11 NFL Power Rankings",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzBPYmxMa2JQRGc2cXUtWWZJY3dCUGI4dXM3eTk2YmZpckJUMXdtZDRhU3NPZ09Kem5qVEp6WjVDaVdRdDBMU2ZhS0l6Wk1Ja0h5YVcteVNsMjdMeW85MzBoa3Z1emNZN0ZDRGtsMjVFY3FwV05hamVBT0VFeTItNU11eERKME54VEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "NFL.com",
+   "source": "Bleacher Report",
    "region": "BD",
-   "date": "2026-11-16T18:42:05+00:00",
+   "date": "2026-11-16T18:40:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -174,21 +470,21 @@
    "topic": "Society"
   },
   {
-   "id": "1972cca605",
-   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNjZSeXBveGFTaEJEM1lROVBGeWI3TEpuWWcyblp2RGZxeXAtVVZhdWRyUlZISHNFNTgtUEZNUWt0TWVIY3B1T3pZR0hjQmNDUXV0NFdlUHUzMEU?oc=5",
+   "id": "27e9b22eab",
+   "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaS1qX2lXTFNMeFRLM2NNV2tNalNwc3diMTdaUGcwbTE4WENOTGFzM3dTdF9fWmxrVHZPRUNZSS10aTlreTdrckVfQW1qT2stdXNha3ZPVmVmTzZBYV9pMXFPY25zUk9Ham1IbE9UbGU5Nmlpa0lYMjBBTE5HTnNJM0duN0pRR0pDV2xvU3NnMnpUUTR2R3N2OGFlaWlxdV9MMGpYdnVLMVk5YVBVdUd4Ujc3MmFyWE0?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Bloomberg.com",
    "region": "BD",
-   "date": "2026-11-16T18:06:26+00:00",
+   "date": "2026-11-16T18:34:06+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Bangladesh",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇧🇩"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "c5f10d2362",
@@ -208,31 +504,14 @@
    "topic": "Tech"
   },
   {
-   "id": "d4b2a4c30f",
-   "title": "Five EU countries unveil plans for Rwanda deportation hub",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1MUEtbnFPb2Z2azVZUzVNWkQ3RGdoNm9mRHI3Wnlsa19sOHJ4azJNa3dOUTlUemduWkFaLTR5LXNHZUpDd0diQmpCWE9nY2JmcTUwQXNsTEVuaWNCY01HY0dEUDUxMnpnRVNMVEZ4Y0tUZWZ2d3Z0VDF3?oc=5",
+   "id": "7d9e66bf75",
+   "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjlaZkpPNkEtbkFFT0ViblR2UkVybVVoNDd4bk1YZWttWFB3X01vZ1B1dGdqYjRXMGdyQ2VPdEh6bnpXWUthUlMtaUMtZWNyVTZic3l0ZDJSa1Y5WWp5V1VFUVlDSVFoMDZObVI2UHNPeEZnTG5fdHo5ak5TdDBtNHp1cWh4RXR0T21N?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN",
+   "source": "The New York Times",
    "region": "BD",
-   "date": "2026-11-16T18:04:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "582034b2f5",
-   "title": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWsta3NJMEZJLTlRcHl5TGVlU0oyODVkT2xJV3NmWWR2dXhOSTZCeTBRSFlQV180eTNHbW9hM0ZwaTZaejNQMUU4SHZpQm5aRnFodkNrQVFrNUFTV2I5bHBJUk5URDFmTm1UQnRQcXpVbDgyb3hreGowR0otMDZweHVMbFhuT1A4MWpyNnNPc2VJNUZOckhaQWR2cWxGZEHSAaQBQVVfeXFMT2ZTeDRvb2NxdVZfVUNtelBYSGVjY1NodS1UVXJxb21CV05PYkVLOEN4VGpUa0Y0bXRVaHdJQlN5dzY4U1pRakxpMjVod05TSnU5UmVJel9pRkhReDlNd1ZuOWNDSGxRU0RjaGdDdUsxTVduRGdXU0RPQmlBTFdpRjdnT3h3LVJ5WEk2c3cxUFozeGVGZEhWSFdkRnNoVHdPOFptLWw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNBC",
-   "region": "BD",
-   "date": "2026-11-16T17:50:09+00:00",
+   "date": "2026-11-16T17:36:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -259,31 +538,48 @@
    "topic": "Society"
   },
   {
-   "id": "5e4463ee81",
-   "title": "Gemini rolling out 66 new regional voices on Android and iOS, including 10+ UK dialects",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamZiYmNhVV9veFBZSG5aQzZNVEVBaFYyakNzTWNWZ3pyUE8wcFVXbGlSVDBoWVFwOWhSUWZqZU9oakphakl2RTNEM01TRjNIc0JnQ0FvUzZNUjd3Z19XRWJlNXc5Y2gxdGtiOXY0UG1OYkVRYWlmMXhySHFFVjVfWUtRVlNNRTBmZFpvbHBUTW9pRFEtaWdHQkRIZWgxOVNoUWs4TEItOU1DLVRTUlZ1SWhUTnBLX29JZnJkYw?oc=5",
+   "id": "3448071110",
+   "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
    "summary": "",
    "image": "",
-   "source": "9to5Google",
+   "source": "The New York Times",
    "region": "BD",
-   "date": "2026-11-16T17:00:00+00:00",
+   "date": "2026-11-16T17:24:04+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Iran",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇮🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "25df6e62c3",
+   "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3dXZ19OWEdSOVg1MGpaVTExaktQc3Joc3NLcGdWeUliY0xuS19WREpFMkpjcC10Y3FFc0lpRjVQdUxpNk54YXl6c2ZYQzhLZE1pMXZuLVJ2ZHplRXFYNVVNVTlpX1Q2MUhSQ3ZQRjBIZ0JMYWZ3QmtiZEVaUHNub1VRdUlNbVJoV05XeWNZQVF0aWRlZFVqN3E3YmFtZzVRSDYxVzdrcmZXSi1vNWFr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "POLITICO.eu",
+   "region": "BD",
+   "date": "2026-11-16T15:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺"
    },
    "topic": "Tech"
   },
   {
-   "id": "258ff9568b",
-   "title": "After one last Sunday, a beloved D.C. golf course is closed. For now.",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGVDYzFGODVkMDRHVC13UDNJUU56LTNVcERac3gxN3VKNzF5WU50YldOd0NrVlFXV0ZuZkZLR1Jwb01HVUFaV0x4UXI2N1FoZmdkN2R2c1NJV3ViaUJGREt1ZXZ3emRsQkZYYmFiZ0xRaDJnbGNkbTVsenprUklGOHBIbnRma1AxT0VkV1dDY0ZQenFkWmZJWDlvc2FmSzE0anZEQzN0dm1MT0hIVkcyYXM4NA?oc=5",
+   "id": "4eac646936",
+   "title": "Leonids meteor shower peaks on both Tuesday and Wednesday night - How to best view the celestial show",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uN3BUUWx1ZUMycDVOemZCcWx0a2ZERHdWeTc4Z3h6V19aNWlsa2hkcGZEQ3RYYjlYaDNRRUtMc1RpRkR5bWw3MTh3Yk16cFVYdDFma0U1bGEyaEVSU3dZUDRDLTNqRkVtTDlzY2pKam83VFJvd3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "LiveNOW from FOX",
    "region": "BD",
-   "date": "2026-11-16T16:49:15+00:00",
+   "date": "2026-11-16T14:44:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -293,327 +589,14 @@
    "topic": "Society"
   },
   {
-   "id": "8545cfeb5a",
-   "title": "Trump says he is not firing Lutnick",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHJyQjNtQTZBdjk5UmRYVi1Fd1dFWmVDTTlNcXRuTEluS3M3VF9LU3BTbEx1WGNjN0xCT0xyZUZ5d0hNMmlyaTd5MF9hdDMzRDNEdHZ6UGNsVmRrMnZKWktBaXZYS1QzUTVPbFpGSm1kU3NxVi1nNkdtZ2Raa080aGduTzVuakxqZUhRdjhDaw?oc=5",
+   "id": "03b90d9725",
+   "title": "SpaceX catches Starship on the first try",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzlMUnhmd2VpSXlrWkF0SlBjVlZCS2dOcnJMOFVNMTZ0ZkVGeDNqMk1hLTZiRkdLTGwwYUcyekI0amdqblp5WTc1MFdjeWZaX1llRVZaT0wtMjlfSG96R1RoU3N0cVFjdjFoZlRiQzlhalV0TVd1OUpJX0JTQ1c0Uzc3SWJFcHdkLTlGVFlyM3R0cEV1VzFpMWNqUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Politico",
+   "source": "The Register",
    "region": "BD",
-   "date": "2026-11-16T16:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5f24980b9b",
-   "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "BD",
-   "date": "2026-11-16T16:16:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "72ce90016d",
-   "title": "Musician tour bus involved in deadly crash in Marion County",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaThjSlN5NnpNSWstWEdRWXM2T2ZmTDRMeEE1VEFJWjdfdjlHbXhLQjBfM19najVDSW52ZEE0QkQza2VyYXJDb0FKdzZIVDRWOHNwWmVSNkRMVEdLVVM2dEY2YUJvLUs4SnFEOGpMNDdZVlk3RXpGMnRibUQxWFFaSm9ENnA1YUZsd2tPUWFzRdIBowFBVV95cUxNb1djVFV0RXczU3RoNEtFa280R2Yxd1pTbE5TZTY4XzR2R1dncEU3VExXSl83Y01SVElIV3NUTndDMEY0NnZ2TFYzQVZVR0JXUU1Pa0N5Q0gxMHp1Z0xDWlJrVk5FZ3dzcXVlQUFXeU93TVlkSTBFUWkzazAzWUhsVkZjT1J2aEdmc2ZNYWNtTmVhUmV0R0tIM19zNVhtLVFGVVA4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WCJB",
-   "region": "BD",
-   "date": "2026-11-16T15:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "1002577f47",
-   "title": "Elon Musk’s Historic SpaceX Mission Was Only Half Successful. Its Payoff Could Still Slash Launch Costs by 77%",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdElENzIwb3lTTTR2UUZaZUFzS3VsWkZIbGlPZFR6aXpUeHVHUmhTZmlfTGNIdDc5LUhwSVdoZW82RFhRbl95d2Z0MVJDX19OZVJIU1F1VnVNczdENXg0eXhMMjgzOWhjWk9nVXRkYW9UOF8wSGlnOHVZZUYwZk1JYTNVQjVKWWlEWmlHc3pHWmxtaS1aSDk1S3Z3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Finance",
-   "region": "BD",
-   "date": "2026-11-16T15:48:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "38c05200a3",
-   "title": "France chief Philippe Diallo to rival Gianni Infantino for FIFA presidency - The Athletic",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXpYYXB3N2NBUm9sRXpUQ0tWQ1VmMG5XRzZ1SjlTZDNmQU81N3JDSF9SeUpQWndEbkYwbzRaSldIUUZ0SG9TdV82LXR3dHdVcFBiLVJDbmZpRHdjR2YtZ2sxRWhBYzBBb2d1MGVHMDQyLVF6Nmlpc3pCQnhFSXBKb3lWVlg5eUtqN0RTUEVuZzA5cTFPd3ZOMzlOem9YU0NPbXVTTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "BD",
-   "date": "2026-11-16T15:48:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "4dc3063491",
-   "title": "Los Angeles Chargers vs Baltimore Ravens Prediction, Pick Odds -- NFL Monday Night Football 11/16",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGlNWnhBTUUwczhSOTJsTWxoUXVqQk9PWkIyaDdyc0ZBUDE3OFB5eDJhT2g2cm9zbE1RcXFPOWt6aUp6QXgxNGdjRTQ2N3J1Y0ZaWDVGX3BRMUZ0Ujg3SzV1Y1luV2F0SHVNdm5FZEhJNHdiRk1YZ0NtZ2p3eU5XZzZIV3NmQzVNNEJ6b1JPVnpLUUJxaDQyRk5PaEN5bmM1ZEZmcnBtdERKc2o3ZUM2R3IxMTZXR3VHbjlxUi1PRk10Vm5ZU19JSzZGR2Ytdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Action Network",
-   "region": "BD",
-   "date": "2026-11-16T15:41:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "a9d0f6d927",
-   "title": "Northern Lights Alert: 12 States May See Aurora On Monday Night",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2swdWc5YWVVWXhmUlpRRDRZWEFfS1BGbVJkZlVmQndrbUlidFMzcXUwZEh4azY0eHh2YVQxSVVFV25nYXV3VHdWblVEUlVyOTJVZTJ5Q1VpU2hvaVVJRTBHRDZWa0xvOGJ0M1FfeWpxeWxqdC15bGQ1c0pNUlJBOTg3akkzWFVmcXZxZXZKX2NIS3EwSmdhaHR0UktWZVBzdnhaaFpMc2FYNW5FSUEyYnpXXzVRRUVJVUhablpn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Forbes",
-   "region": "BD",
-   "date": "2026-11-16T15:29:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "001be83384",
-   "title": "Trump bristles at criticism over grounding of planes, blaming old tech and Biden for the problems",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEt5Qmw1b2g3dmlvTmZ4ME9CeWt4RlBadWs3UTdNYkNJTExyX2JPRXJYZy04SndvUjFSUi1wZFdBM0IxdFpTbHI3Y1R6aU9yeExuRmJSU0lyT2d1TGlDWnFZYVI1ZlFnWE5ZM1Jxb1U3VURrVkhEaW1yeWxWNkVxVGlSb3VUY05CbkhabUc1ZGZWNkRWa2ZjTE5RTGI0T1Q4UWdBMjNn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "BD",
-   "date": "2026-11-16T15:04:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "c75d4980dd",
-   "title": "This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "BD",
-   "date": "2026-11-16T15:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5c8844b5a1",
-   "title": "International Students Are Turning Away From U.S. Universities",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFp1aDc2RXdjb1UxcDlSX1J3WTUwWk4zY3YwaTh2Z0FiU1pDcTFzQjJsblNpbVBCdXUyMHpJVkhfSHYxbk12dFN0SzZmLW9IOFVyeGtEYndaS0ZydHpHWmZJTHFoQ0hOdUV6OUpvRDVQUWhVb2h4Nk5lc2Q2NHphVk5qYUUtWUZ5OFhTLTRkdlppZjZVWTNR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "BD",
-   "date": "2026-11-16T14:10:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3f704e7adb",
-   "title": "New Apple study will test how people use AI for health",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3Q3Mm5vbTl2QVRvMlZ2TFhfM3h3b00yZWFSRTJTWlU3LWxIYzF5LThzUGFBbkNibHgzbVlTdnhEZm1WRnYtc3RaZmpXYTF6dmFERW03ZVFLMUhBSUxQR3l0ajE3STNjX2JSbDlsd3NWb2drdHZTWFdLYnVmODJldXlNVTVrX3YwbWhqQk45VWpzUWowR0I3eHJ5cw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Tech",
-   "region": "BD",
-   "date": "2026-11-16T14:00:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "772bca171c",
-   "title": "Sources: Lions' Aidan Hutchinson out for season with knee injury",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkcwNVNHR3luRkVHek03X1ZFcXlucER1QWZ0d1FybzJsNzRGRjBzMXk3RGN3emVSSHRNVGpvYi1TajZYYnVQUzJ1MFdfQzRfbGVvSlZyWkJkbXotckgtZUVWeHRpU0F3cEpsRzdFRFBnU2dHZ2JEWExMbTF3TTA0NEtVRjBkOTBVdGltbDJ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN",
-   "region": "BD",
-   "date": "2026-11-16T13:54:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c01a033cf0",
-   "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "BD",
-   "date": "2026-11-16T13:53:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2cdb6512ae",
-   "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0gzblIyenMzSGVXY25JN0FOaVRMQUdRel8zODdzRWFHR0RkanFwSUxFM0huQ290WFVGTGlzci1xY2QwRk9Da09PbFhXQjJ3ZmNDdFI4ZFlEM21lU0ZtVU93aGd3Ri00ZFF6bkNQc09TUkRFVkU5Nmh1dnNDeG1vWkdFRk9jcTFmaTNmdk9MT2xGbjRUMzB5Ui00N3FqUGpSVDdZd2ppU2ZiS3hYdzNWLVVUbmUyWlVlQkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "BD",
-   "date": "2026-11-16T13:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "78e3b10575",
-   "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU5vbHV5R1U0VG1fWDRwNGxwbXpQSTNZNlk1MUNFWTZKcVZFT0JWWTcybTdKUlZOem5sdDI1WWtHQVl5bXJLUTNTTTNtc2RIMTNtU2NsOFRLNmZPWE9ybG1kbDQ4aDJtWXBTRTBKRTEzWnRHcEE1LXF0RTFSWjZNYUdVLUNZTUhmMUp4Q0hlTUllWHhLS3FydDBxdDQtSnZmcjZkQTFjNFFlRWpBWHhLSG1B0gG3AUFVX3lxTFA0SWVlTXdZU29PRVN1U2VyaEpzMVhHRkpSakVZdTZPUE1rR25hdFBDUTlYZFFKSHhxbHpxVTFlSGx6OU1STFdxeXVXS2JGZURTZ2tZODhjNVgybHNiSnpQLVRPSEhDWjlMZkVUWmxtR18tbHNUdFdwUk5obWdYeEFZN0poWWZ2ZXNPWi01Ni1mdC1SVnd0a2lqbVBfQ1pydHBVS2Q2NExxMmVTY2hyX2ZWOXJMbFdyOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "BD",
-   "date": "2026-11-16T13:49:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Yemen",
-    "place": "",
-    "flag": "🇾🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "411f26b47d",
-   "title": "Sony 27-Inch Gaming Monitor With DualSense Charging Hook Review: A Piece Of PC History",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUmtQVXVnUEM3cEhsVkdTQXM2dk5MaTk5R3U5ODcyeGdOeU5OS01qUE90N2FIcFBoYjV4VWVvSWpvampNRjd6LTJiOVVQb1FlWUpDb0N0VWVSVWVfUTVUTm1aVUZsYmNLYS0zNnNUNE5zWkFWR0tyWkdTejlSUUNlNUZXWll4ZjdXcXVsRnFuWGdDcDF3ZXJsOEs4UnA0dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Engadget",
-   "region": "BD",
-   "date": "2026-11-16T13:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "59b4c57361",
-   "title": "What to know about measles outbreaks as the US faces losing its elimination status",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeGwxUUpvRzdaTDUxa3Bkcm96OVhEc2JNcjgwYjI4UUtKMjcxX1hScVFBTTF1VUhyWXhWdXVfTno0Z1ozY2dEWUtreDI2ZEhQTWc2d1lYemxyS0dJZHZrWXYtelVvai1XM3VxZ1J4a1B5YTlLZklRcTE0WGh0SEZ3YlY5RXBjQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "wvtm",
-   "region": "BD",
-   "date": "2026-11-16T12:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a793bf583e",
-   "title": "Duffy plays damage control after FAA outage",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUFtV3lNdG12UWN4dHJENnNWWjROQ2t0RXBRaXM4c215cVR4VXc0cTNFZm8zbXE1SUQzNWtvZGo3YWhXU3ZjTlVIc2F5WkRRbl8xUXU5ZWpwNzFjMzBXSHM0M0x2ZkNKb2FGd2c3S1BxUW16VGJZSkltQ1A1WGQyMTFoLVFRTzJjZTFlQ0ZTbXhNNDJhMXNZSjlIWkNkX0lyTEViRzJIVmhiZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hill",
-   "region": "BD",
-   "date": "2026-11-16T12:08:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "479b176497",
-   "title": "See the Leonid meteors this week — ‘the shower that started it all’",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0aUdGcnBMR2w5ZlZIT2oyNWFuU1RYdnN3NHdpZnJyNkdLenR4VS00TmlPSGhEVVBxaTl6eS1WMVdsZk84Tm9lQlkxWHVuczNRVjJ0VzB2Y3RhOEVKU28xdFBLeHAwTGFJVnNldWNiYlVidw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "BD",
-   "date": "2026-11-16T11:00:15+00:00",
+   "date": "2026-11-16T12:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -653,6 +636,23 @@
     "country": "Congo",
     "place": "",
     "flag": "🇨🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7774103488",
+   "title": "Prostate cancer testing now urged for men in their 50s and 60s – a lead author of the new screening guidelines explains why",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYUpSMXZXTnNrZ0Zmb19QYUMxblFRM2YtZnRHaFJpdHhVWS1Kbll2RVQzNlRpTU5QWEdtWkZqeW5GREVzME5ZQlRIOF9DWVV5TlNScDYzSDV5c0o4UTlrR3pFNU5uSzg0R25FVzZMVm1HWks1SVgxbFdfREVndTJtUDg1SUNoeDRneGltWjQ1ZDNweTBBUU1abzg4cUFGYndMbFhBRUpHczN1dU1EZVlFQXJMY002OWFZc1liUTJWNzI3V3kxM2RLMDhTdGJuQ2l6UGVMN2xXam1fcTIycHlhVG5iQlo5bFNWTW1lWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Conversation",
+   "region": "BD",
+   "date": "2026-11-15T14:00:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
    },
    "topic": "Society"
   }

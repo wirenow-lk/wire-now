@@ -1,37 +1,48 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 19/80 used today
 
 FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
-FAIL Ada Derana: HTTP Error 429: Too Many Requests
+OK   Ada Derana: 78 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 34 stories
-OK   Daily Mirror: 73 stories
+OK   EconomyNext: 33 stories
+FAIL Daily Mirror: HTTP Error 429: Too Many Requests
 FAIL Hiru News: HTTP Error 429: Too Many Requests
-FAIL Newsfirst: HTTP Error 429: Too Many Requests
-FAIL Daily News: HTTP Error 429: Too Many Requests
-FAIL Sunday Times: HTTP Error 429: Too Many Requests
+OK   Newsfirst: 19 stories
+OK   Daily News: 79 stories
+OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 20 stories
-OK   Google Top Stories World: 64 stories
+FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
+FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
+FAIL Reuters: HTTP Error 429: Too Many Requests
 OK   AP News: 100 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | 17 killed in two mass shootings in South Afri (5 outlets) | Five EU countries announce plan to send rejec (4 outlets) | Nvidia dismisses 'Bring Jensen Back' campaign (3 outlets) | UK seeks closer ties with EU after Brexit fai (3 outlets)
+Biggest stories right now: At least 17 people killed in 2 mass shootings (4 outlets) | Five EU countries announce plan to send rejec (4 outlets) | Cyclonic Storm Akvan: Rain expected in parts  (3 outlets) | Nvidia dismisses 'Bring Jensen Back' campaign (3 outlets) | USS Roosevelt arrives in Middle East: Is the  (3 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [1 outlets]: Sri Lanka eye series triumph as Rawalpindi hosts decider
-    normal news - one-paragraph summary
+* Ada Derana [1 outlets]: Army officer killed by brother in sword attack in Matara
+    important (serious news) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Cyclonic Storm Akvan: Warning issued to Naval and fishing communities
+    important (also on Newsfirst) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Cards say communities are urged to 'stay ashore'; the article only advises them not to venture into several specified sea areas.; The spoken card says 'officials are advising everyone' to avoid waters
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -44,7 +55,26 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: The card says Sri Lanka need a win to take the series, which is implied but not explicitly stated in the article.; The card says the tourists need a more collective effort to take 20 wickets to win, w
+    cards OK (attempt 2, written by openrouter)
+* Newsfirst [1 outlets]: LAUGFS Gas Officials to Meet Trade Minister Today
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newsfirst [1 outlets]: Fourth Day of 2027 Budget Second Reading Debate Today (17)
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: 2027 Budget proposals fails to ease burden on middle-income families -
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: US moves to block China’s remote access to AI chips amid Nvidia scanda
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -53,20 +83,36 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 rejected: key_facts must have 4 to 8 points covering every main point of the article
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: the name/word 'China-based' is not in the article
     -> no cards; posting with the site's own summary
-* The Island [1 outlets]: Which cricket teams can qualify for the LA 2028 Olympics and how?
-    no AI summary: saving the rest of today for important news
-* Daily Mirror [1 outlets]: Egg prices rise as festive season demand increases
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Paraguay ex-president moved to military jail amid special treatment re
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: UK seeks closer ties with EU after Brexit fail
-    no AI summary: saving the rest of today for important news
+* The Guardian [2 outlets]: United Airlines says ‘widespread’ system outage resolved
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the number 90 is not in the article
+    attempt 2 rejected: the name/word 'Thursday-Friday' is not in the article; the number 90 is not in the article
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'Sunday-night' is not in the article
+    attempt 2 rejected: the name/word 'April-June' is not in the article
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 4
-  photos: 12 too small to look sharp, using the clean cover
+  photos: looked up 24, found 1
+  photos: 20 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
+  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 8 facts and 0 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 19 story pages for Google)
+
+Countries: IN 38, PK 34, BD 38, US 38, GB 35, IE 34, CA 0 (FAIL), AU 0 (FAIL), NZ 0 (FAIL), SG 34, MY 0 (FAIL), PH 35, AE 38, IL 0 (FAIL), NG 34, KE 33, ZA 0 (FAIL), GH 0 (FAIL), FR 34, DE 33, JP 8, IT 32, ES 0 (FAIL), BR 33
