@@ -1,7 +1,7 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 91 stories
+OK   Ada Derana: 88 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 22 stories
@@ -14,65 +14,50 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 18 stories
-FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
-OK   BBC World: 21 stories
+OK   Google Warnings LK: 19 stories
+OK   Google Top Stories World: 65 stories
+OK   BBC World: 24 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 100 stories
+OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (10 outlets) | Grade 6 admission cut-off marks for 2027 rele (6 outlets) | Cyclone Akvan to make landfall between Nellor (6 outlets) | UK sanctions firms over Israeli West Bank set (5 outlets) | Inland Revenue Department exceeds 2026 revenu (5 outlets)
+Biggest stories right now: Cyclone Akvan Intensifies Over Bay Of Bengal, (10 outlets) | Jensen Huang says he would be ‘honored’ to re (7 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Grade 6 admission cut-off marks for 2027 rele (6 outlets) | Trump to kick off Asia trip with Quad talks i (6 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Why was Saddharathana Thera not arrested? Anuradhapura court seeks exp
+* The Times of India [2 outlets]: Cyclone Akvan may leave lakhs without power in Andhra Pradesh; 145kmph
     no AI summary: daily limit reached
-* Hiru News [2 outlets]: Galadari Hotel to be renamed Radisson Blu Hotel Galadari Colombo from 
+* The Island [2 outlets]: Intellectual Property Regulations No. 01 of 2026 for concurrence of Pa
     no AI summary: daily limit reached
-* Ada Derana [2 outlets]: Manufacturing and services sectors gain momentum in October
+* Newswire [2 outlets]: Welikada Prison opens first dedicated kitchen for female inmates and c
     no AI summary: daily limit reached
-* WSJ [3 outlets]: Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia C
+* ESPN [2 outlets]: Tiger Woods to return for next month's Hero World Challenge
     no AI summary: daily limit reached
-* Al Jazeera [3 outlets]: Election-winning student movement enters Serbia’s new parliament
+* The Guardian [3 outlets]: ‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack 
     no AI summary: daily limit reached
-* BBC World [3 outlets]: US loses measles elimination status after 26 years amid record case nu
+* BBC World [3 outlets]: Trump says US taking 'very seriously' any Iranian plot against Washing
     no AI summary: daily limit reached
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 3
-  photos: 14 too small to look sharp, using the clean cover
+  photos: looked up 24, found 2
+  photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 503: {
+    gemini unavailable this run (AI error 429: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
+    "code": 429,
+    "message": "You exceeded your )
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
     "code")
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code)
+  meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 21 story pages for Google)
 
-Countries: IN 37, PK 33, BD 36, US 36, GB 38, IE 36, CA 37, AU 38, NZ 29, SG 34, MY 34, PH 36, AE 36, IL 33, NG 37, KE 37, ZA 34, GH 34, FR 33, DE 34, JP 8, IT 34, ES 34, BR 34
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
+Countries: IN 38, PK 35, BD 37, US 37, GB 38, IE 36, CA 37, AU 38, NZ 29, SG 36, MY 35, PH 36, AE 37, IL 35, NG 36, KE 37, ZA 34, GH 35, FR 32, DE 33, JP 8, IT 34, ES 34, BR 34
 
-World Pulse not made this run: no AI available for writers (last error: The read operation timed out)
+World Pulse not made this run: no AI available for writers
