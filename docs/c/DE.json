@@ -1,17 +1,68 @@
 {
- "updated": "2026-11-17T10:41:48.384918+00:00",
+ "updated": "2026-11-17T11:32:26.773624+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
   {
-   "id": "1c92c5e3fa",
-   "title": "Abschlussmesse: Papst nimmt Rosenkranz-Treffer mit Humor",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNFUtLUVpX3VoSUg0bVlqcEFKNG5NNlhoLWFjZmdhZWU2Mlp6T0tiM0hDM0RtM2dacjU3TS1EWkxhM3pzNkVMbDJ6QzJEVHhsOVJ3WmlVRGllRUpoSjVxZE9hXzZGNjZ1bllBbGZVY3BPS2dSdmg2bDhQcXk2Y1FhNC15RmlrMWM4dzlWdUtzMEI0TDdEQS0xb0ZiZ040Z2ZRVndXNEx3bm5iSnpRNmN4bnpiMWZWZ0dr?oc=5",
+   "id": "749be207b6",
+   "title": "12:18 Biathlon-Drama: Deutsches Toptalent verpasst Sprung in Weltcup-Kader",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWHNTQS10T2Z1R1JPZE1OaUh0WERTdkVtNElsckJhMGZiNE02WTktZWpvQzFsdE1GQndxZHp1elpqcm85YU9lNkhpMWU2U2NHcDRSTmdCRWNIbDZiRTJsOTd4UTZRZlQydEJ1TlZLNnlBTWJuQjRTREFKN21LMUVxSlVaX013a0x4b21XWHVmTzl2ejZoZTBDekhIcjYzaUdDcVJwQjFGakFDUWFQRmNTODNsMVNhVFpSQkxCZFNjc1BqN0N5NVIyLWZyQWlRRks3N2E5YmVBWVpCQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-17T11:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c1ad7fee29",
+   "title": "Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGN2OXdOal82aHNZVUhXWG5oRlQ4azJmSEQxdkhqRnlzMXJ4dTZMczRlczhzbFJtdmd6U0s0ZkFNOWxIOTZGMlA2aFRXMHd2NHU5T0dUc01DOS16U1F3c0RRN09NS3h1ZTdFWFRNYm9KLVNsQnJ2RUtUaXhwMEJfU2UtNDVRZ0gtRk80SHBheHpTWnBXOWR6WUxuU1pJejJSUkY3Yg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Golem.de",
+   "region": "DE",
+   "date": "2026-11-17T11:06:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "60bfc2e4a9",
+   "title": "Das hätte ins Auge gehen können Unbekannter wirft Papst Leo bei Peru-Besuch einen Rosenkranz ins Gesicht",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOVZXRmg4MGJJLTFTd21zRFhOeTdSX2NYSndST3NrNGZiVzY5R3huWnpFVldPbnpvUDBmSlYtX092Y0hMYkFxMDV3SGg2SUk0MDB3RlJjazU5V2I5RzAwT2xFV0ZDT0Y1eVRkWTBUbTMtVXp0VHU5UFlKeXk1NTZwRE52OHFiZHAtOGlTRDgyR0FRTk4wakNoRGJXYTlZN2dQc3FNaG9nUWVjdmJuOTdDTTh3VDNkVEFhRG0zYmdpVnNqbk1JLXh3bjBCMXotXzNGSkdCRWNaVk1Id3VqLWotdDBHYy1xeVZfWUlXUEJ2Y1lEc1BiWk1TaVNR?oc=5",
    "summary": "",
    "image": "",
    "source": "Tagesspiegel",
    "region": "DE",
-   "date": "2026-11-17T10:16:34+00:00",
+   "date": "2026-11-17T11:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Peru",
+    "place": "",
+    "flag": "🇵🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f50417bc73",
+   "title": "Verkehrslärm: Gefahr fürs Herz auch bei gutem Schlaf?",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVldzVG9DbUhQcDJIY2Q0aXRNSGVsWmRkelMtaTItcEdKLURKdm9tbmpqQUVYUkNwLW1MS29hUTNDeTlrNkI4V1l0bzEyaTlqbldiaUlJaE5Wa3g2SE91RjgxN2hyTUliUGxUMkdoWlo5WEZLV2pRTzFmYWhwMEdiNXQ3MGlQS2JrSER0eVdvWUt4T3R5V0RCNnBobDVvSTJ6ZGVNbmZuLUFva0ZQb2k1QU1iblY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Medscape",
+   "region": "DE",
+   "date": "2026-11-17T10:57:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -21,14 +72,31 @@
    "topic": "Society"
   },
   {
-   "id": "19f723e593",
-   "title": "Deutschland: Friedrich Merz lobt ausländische Medien für ein »deutlich positiveres« Deutschlandbild",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNLTJGMGFxeEdZRERHNEFFbkZ3U2tocE14MjJkcE8yQ1VzR2hIYWo0VkZyR0N4NDR6a2ZKUllaMUVGazBmRkNyRW9ld3psMjd1YVdvaUpxVXZnSW1nc19zUVh2SjNnUW9FR2JKYXhoNlJ5cEZPVktNdHVDZ3pBX1k5OVYwcl9QNU9PTk43VFJTRlloZ0lkZEgyR044bVExWWp3QjNibWl3LWRodnZkUGhreDA0bzJyTjh6OWZ5azZjXzY4N0ZSbE9KZDFNOThnN1ljOXZXSi12blM5SEs4SkZsWVozVWdIemhPN2ZPU3gtZVU4UDFZTmVXdm1PUDlEU29iS3BIbnBoZVRYMjB5?oc=5",
+   "id": "117e7d6f0c",
+   "title": "Smartphone Samsung Galaxy A57 5G zum günstigen Black Friday Preis",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeldtS1pkTEtlRGJvNVR0bGJPbFpicF80ei10WFZ5ZWdRa0FYejEzQ0NjZHQ0SGVuSDVHSVBQYm5ub3h5aElwRUdoWEh3ZnVEdTlXQWcyRkZTYVJFLTlsQjd6WXFGQnBhdGhRSEVTUnJlUDFWZXZXVS1tQnU5UHpqY2M4QjduUGZsOGRhcG9yZ3J1UmJLM0k4bTRmSC1BZUVwbXNCQU5YYVN5RHE0eGFqMXJLTm1TX19u?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Golem.de",
+   "region": "DE",
+   "date": "2026-11-17T10:54:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "20830eb171",
+   "title": "Konjunktur: EU-Kommission verdoppelt Wachstumsprognose für Deutschland",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEdRemRNbFZyN1dPWGVFMmRHRGUzN0k0OXgwUnN4cnlsZUgzMGl1OGhfeXZsZ0MwaUJvQVBhTlByWjJrWmdzQnZLVkNFeTVvd3ZEaHlqOVpBcWJOTHo1MnpzbFg5THNJVnZHWjNWSG1YMFJfSzVLSmoxYUxlYnQyUFZydzlnMXVnRTZBTDVjc1N3eTVILXlqd1NNZVdzUWVPTWlZR0c5STJvSUZocU5YZFdaZTY5ZkczTE5VNzd3bmszT0RtSmhrUmd4YjF3S2ZDQVk2SFpYWWxRRnM?oc=5",
    "summary": "",
    "image": "",
    "source": "Spiegel",
    "region": "DE",
-   "date": "2026-11-17T09:26:00+00:00",
+   "date": "2026-11-17T10:46:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -38,14 +106,99 @@
    "topic": "Society"
   },
   {
-   "id": "fa93d8f988",
-   "title": "\"Das Wichtigste im Leben\": Bayern-Legende mit Appell an Kompany",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZG1vdTVrOWtmcFljbjlzb3p2SXNHbnUyZDFzWDRMVUhqZ0lwZEI3RF82aDZMWEt1X0hrb0JYMGdxYTU2RldGVW9uZDZaVnJ5T0s4V0lnVXVZNFpmMndmTGI5Vy1tUXRGcWJuWS1Sa1ljc2ktYTVqdkxTVkVTRGNPOWFIV3ZBS3d4emNPTVBLUW5BTG95WUE?oc=5",
+   "id": "edba1ff1a5",
+   "title": "Nach langer Funkstille: Lena Meyer-Landrut meldet sich mit knapper Nachricht",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnRVNDBaYmVJVWFDSVZ5ZmxLQlRnaXNoeEdFMHd0Qm1lU2N6bEdFcHNGeHZtR0t4RkVYcFpYdUhHdF9DalBLQWhyeTlHNUthSy1YTkE4Yk5xUEZ1X21VLWp6NUQ3SFU4LUJVeTJsOVpMMnhJeVU0V25pejdUMjhSdGNCS1Z0S2wyanFwR3d0elBkdEVGOFF2QTgyUXFISTVJZjdKeV9xQ2FpRFdCVUxQMkxIeDE2N3ZscE5nd1R5a1lYb0Z1X2hZSEY1U1pMWWNZYkt3eVhHU0s3c2xoOHBlZEZWOA?oc=5",
    "summary": "",
    "image": "",
-   "source": "SPORT1",
+   "source": "BILD",
    "region": "DE",
-   "date": "2026-11-17T09:01:00+00:00",
+   "date": "2026-11-17T10:26:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d82b5949c5",
+   "title": "Mega-Bahnstörung hält an Zugausfälle und massive Verspätungen zwischen Berlin und Hannover",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSTlqQlpLVXJwLXpMNmtGenFmSDhvLWVzM0JXQkJER3hGSkNwVFU0enBMWTl6Z2lXVVJzVElTeGtTTjctMzJlb0VvZHZERktrVzJEd2VfMFNXYjFTUmZ4S1FJZDhQR241ZUhBQlFadW9zLW5aUC1pdmJic3NHN0UyZ2xLNWpNeVo4Qkx1U1U2eHhvN2RtS3JvUjdiY2g5RHFhX1ZvYlRyVXQ3OUVsYTREVHkxbjlvQVZFc295MkRhSGgzOGR5bFYzN0lVUHp3U25mZGtrdVgydw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-17T10:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5f056a50e2",
+   "title": "Van der Vaart von Niederlage gegen \"mittelmäßiges Deutschland\" geschockt",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNODJIVUd0d2NuVnRHZHBMU3cwY0lYWEJTVWN6bjFNRkthVnc2WVBhel9FTDRGQmVrZlM3SVB4enNJXzIzSDhBcUtyc3Y3OGRpUW5raV9pbGphY2VPUjhWaHgycHFnd0xfYUNXZU9VR2E3NjF0cUJxdUNmUWF0S0JxWmwtVmxUZ0ZzOVRNeDk2N3lYMDNmaldyWDJvdFlIVXM2VzlXNTRLSlRRMGtXa21ENzBLVzlyazJvSWJLT1V1YzBGYTJTbDB6cFJxSURhNkNHaE9zcGotU1RQSXQ2SWctMUF5X2ZYd1o3NGlNOVk0eUtXbEhPczJ5R0pkdDdjOG1RRXVmaXhENG9ycHoxbWdsQmh0b0luYTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Eurosport",
+   "region": "DE",
+   "date": "2026-11-17T09:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5093ded2ce",
+   "title": "Gaming-Start: GTA VI erscheint am 19. November: Was Sie für lange Spielsessions brauchen",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3FGMDJ5RVdPaGRjdm9QZzBQYk94QW5uY2pQWUtMODVtekdpSC1aVVlpeDd6dTlWSjkwWjB2UEJpU3RxbDBBZUxRUWFpS3J0RUk2UU9IY1ZZU3I5VHdsSlF0dDRRMHhyM2VWMUpMd0hRSmJuZlNua3FlMjhZXzEyVlg1VEZBaGl0TzZLY2hTZjFTMmkwelJHY1p0ZXNPMkFM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Kölner Stadt-Anzeiger",
+   "region": "DE",
+   "date": "2026-11-17T09:36:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ba744e0700",
+   "title": "\"Sehr ernstes Ereignis\": Dutzende Menschen bei Zugkollision in Prag verletzt",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVko4RjhjbkU4MFJ3V1QwWWdzWVBIcmxtWnVoaDg0YmYySF9yc3FDS3NnNzdtNlVCcm1VMjdPNXlFY2hZcnJEbXcwS1hyUWpGSVUyaVhoZEwtX2ZXcUJGUlRadnVuVFZIbnRaVHhTOV9qX3A5OWFWU05DcmZTSUppcDU5RC1IQXNFVWJoMDRTS2lDZmpMdTJxWlhGc0Q?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-17T09:17:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c775333aeb",
+   "title": "Russland: Regierung beruft offenbar nach Angriff auf Krimbrücke Krisensitzung ein",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWFpfMmdsdE5qbFdWVVRUY1VpdHpjaTc2Q2tJcThSQXgyNFFQSTQyd1hIUzlrcGhtUTBhaUFkNDVKd0IwaHRwUlh3RGRJQ2lEQVBQSXhXQ29zQms3S2xXRWNteGVYZU8waV92WF9wSkVQcVZIcEs0cE1oZ0RIa19vUHg4akF0cVBneUE4QTZQNkZXR2NkWXhKTVBuZERDaFdIZHBHRkVxc0lCYUE5TWlONEE1UjhJWW9KcEJTa0RIeERWelUxemI4RlUwUEQ5WWhaaVc1a19YclBIeS1xOWM3anlJeDdLdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-17T09:02:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -123,14 +276,14 @@
    "topic": "Society"
   },
   {
-   "id": "ce1722edbd",
-   "title": "Blut am Toilettenpapier: Wann mehr als Hämorrhoiden dahinterstecken könnte",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWJ3V2N0TThNcXJST283TU96cDA0VE5yZTZIWE0xcEo3Q3dNdWozTWZvcXNxR2lNVXZzdnp1bjBiNmVPVE5GVEwwNGRCcW1yenNnckxBeTA0VnNoWlA2QzJEbWFjR1hMVWM0MGpORkxOZWwwakxfZ0UzVzhVc1diT3BnN2JtMHBkVGJONnNWT19jMVhXVEVNRTNQNXhsalFwS3o2bU5HbFNxQ3RZMmViaw?oc=5",
+   "id": "d0bf24267d",
+   "title": "SKL-Glücksatlas: Bayern ist das glücklichste deutsche Bundesland",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcWVvYjhsRnZya3Jkcld5c2VWcEx5WTBOSEJNdllDbE53UEFkMDJVVG8xLS1veV9jaWlWaUdzNVBLZnV0b2t3UEdoeVB0S2dMc29xc29yY183cEdVNFdqTEgtekx5QVVsb2pyaS0zU1VLU2I0UlRlOWVwd0hEVmctNy1fd0llQ2tsS0g2VTJpOUxzMTdKWjlVdDQ4TU5vYmhfNGpNNWc3MEdFS18zNU5HQUFVZGtZVHQwdTNYanJ1NjZhX1ByUUJmdGx4V1E3aVdWUE1zaTd3?oc=5",
    "summary": "",
    "image": "",
-   "source": "aponet.de",
+   "source": "DIE ZEIT",
    "region": "DE",
-   "date": "2026-11-17T08:38:25+00:00",
+   "date": "2026-11-17T08:31:52+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -140,14 +293,14 @@
    "topic": "Society"
   },
   {
-   "id": "d0bf24267d",
-   "title": "SKL-Glücksatlas: Bayern ist das glücklichste deutsche Bundesland",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcWVvYjhsRnZya3Jkcld5c2VWcEx5WTBOSEJNdllDbE53UEFkMDJVVG8xLS1veV9jaWlWaUdzNVBLZnV0b2t3UEdoeVB0S2dMc29xc29yY183cEdVNFdqTEgtekx5QVVsb2pyaS0zU1VLU2I0UlRlOWVwd0hEVmctNy1fd0llQ2tsS0g2VTJpOUxzMTdKWjlVdDQ4TU5vYmhfNGpNNWc3MEdFS18zNU5HQUFVZGtZVHQwdTNYanJ1NjZhX1ByUUJmdGx4V1E3aVdWUE1zaTd3?oc=5",
+   "id": "31cb5e93d6",
+   "title": "Hisbollah-naher Moscheeverein verboten - Razzia in Berlin",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXlnYTBBRUlhbVMwUkFlWkpaMElfeExBOGxOY2JaSnZvLWxTa1NNNlpYaFlqWFEzSUZsTG9GM2x2cmoyV2FrcGZUcDBzYWRFaXg5dUozcHplVkdTbjlmSmlOekdUTWdYbHEtWno1dHh1UFJKU3dUR0wwcGlDaVpMaWlweng2N09jY0VhMDN0cnNqUHN3dXlqRTJDRzF4dmtjUlZsMg?oc=5",
    "summary": "",
    "image": "",
-   "source": "DIE ZEIT",
+   "source": "rbb24.de",
    "region": "DE",
-   "date": "2026-11-17T08:31:52+00:00",
+   "date": "2026-11-17T08:28:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -174,48 +327,14 @@
    "topic": "Society"
   },
   {
-   "id": "7b09d805d8",
-   "title": "Take-Two-Aktie zieht an: Spiele-Starts rund um GTA 6 verschoben, für die Branche geht es um Millionen",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXBPU2F5QUVjWFVCcHEtNW12UGh4bVVzczlMMjE3OWpaNXFqcWt1ZDlGcWZLMkNadmd6bTZWV1pncC04RUxaWVEzNGFVOUdSZ014b2ZabjNQbFM1ZU9NUXVEdmpoazVZQTVBaEVVRlFiUi1SRExJQkV2S3ZVN21HeUMweFJVMEluRXg0X1BOT1pUM2RHbWJvZ1RKb2VnTVNNbzF1OFBnX2kxZ05LU1Vz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Finanzen.net",
-   "region": "DE",
-   "date": "2026-11-17T07:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "efb819c053",
-   "title": "„Staatsverträge sind zu kündigen“ – Jetzt kommt in Sachsen-Anhalt ein Rundfunk-Ausstieg ins Spiel",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNYXBIQnotMEtSVGFwRkFZU1FNU2lnOUxBanN2cmxRSHg2bm9MaVNXS0JQaVFpSzI4Y3VPOVd5aVBIWU45NUppTXpXWkI4S0U1emlTcV9ia2c4d1RoZmhNY2MyM3ZsdDdWV292Y0RmbFpWSzR3bU5IYWw3S1h5dTFPUTl2WmE3NE0zOHBRV3c1dEZGZXFEUkN0NEt0dEdvTnFJdjZ1am5GVFZybVhRRkljZzhYSm9qcEhZdC10V0lnaExPVktXeWY3c05zTkJLMFFOV3JCU2dyc3VmcFBfMXYyZ1Rzdk8wWTdjSHBqMDFJenQwbmY1TmxlVThmYUJwam51ekY0UGllaEpKbnlzSVRVbXJpU1dzWUhwNUtPZXk1cklydE9lUzlpXzlR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WELT",
-   "region": "DE",
-   "date": "2026-11-17T07:54:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "639dba79fb",
-   "title": "Pressestimmen zu Deutschland - Niederlande: Klopp bringt den \"Rock 'n' Roll\" zurückl\"",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1pGTGtpMl9qWlhqRFJ3MXA1cF9wWURGeFNtNUItVmMtSGREbkx0TXF5ZTl5ZFdka2FtNlVhcHhKOFV3WUhTWlJQbEsxYnkzTUl5Z2VXbVExLUpTR1BURS13R1dRTTRtWVFuZkUxMVhvVzd5RUJvV1BZSXJTM3NzQmdQT2NxaE42WTVnSlBHY193djhxTHVQblZKakZZM3VqQ256blU5OGR6NkJJbEpXOFlIVjdQVlR1RnIzMURHN01RVlk4YUdWSVRfamxpc1Vi?oc=5",
+   "id": "2b0ae886da",
+   "title": "Gala gegen die Niederlande: Nach Traumtor - Derry Scherhant rechnet ab",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFJvTHFhX0liTUo4R0lOZnFSQkEzX0NXcFl3SGxpUWxwSUlMYVhDb1ljdVRudEg4UURHbXpSNUFJVGoyS0FOWFIteXRCUWxGOGNSSzB6cnB3Y0F1M21zc0tQajBFMVpDb29LS0NsQmRnT2xCQUV1ZDNhV0dpczJDcGlGdFJwb0JmcGdwT2kwRXQ0TjN1LUlEZzdreXNzNXFZQUhrZ21LX19ZWHdiT2JfT2wtWQ?oc=5",
    "summary": "",
    "image": "",
    "source": "sportschau.de",
    "region": "DE",
-   "date": "2026-11-17T07:39:00+00:00",
+   "date": "2026-11-17T07:24:52+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -225,14 +344,14 @@
    "topic": "Society"
   },
   {
-   "id": "0cde58ab8b",
-   "title": "Roborock F25 Steam: Schon vor dem Black Friday stark reduziert",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHRmTWVBUjB1Zl8xaTlNWjlHQmFFOGRaUkFkUDBHa1Bqbkt2bUpFelJSVVFpTjFhc2VsaEdjeVExRDUwMWREYnp2eFZVMDE5WE1TcmxMSlM1X3ZTdVl3blplNnNOTG1XOHQ5NHV5cFQtUWF3czJGakxpVU1xWFFfQnZEblBkNVEwX2poSWkxN0tKRDFuSG9NS2h0bktrVmN1aW9qN3hpZnh0U1RPWE1Td3lGUzFyTHhiX3c?oc=5",
+   "id": "c8097022c5",
+   "title": "Belgrad nach der Wahl: Studenten räumen auf, Ex-Präsident plant Rückkehr",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ19CdDBReWwwNi01S255ZGR6ekRVUFdsMU5zWWNpRjREZHpQc0RXb1VUMVQwZnZIWTFyWHV6dGF4UmthOG5DVERkTm5ydG8tT2hEQkUzeExrb3A5VHgxbTJVc2hhYksxZUU4eFdKNU1vclNCOWlzM3V0bDJtb0F2aHdWUk1BZTVLOEh1QlBpQmxnT0NyR19XVHJSWVJIMjBtWDhkMkI5bXN0alhJTjZCOUZVNU1UR3phMUNrMzllV1BfUFhWQVdsR29mZndoM2lfUzhN?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTL.de",
+   "source": "FAZ",
    "region": "DE",
-   "date": "2026-11-17T07:22:59+00:00",
+   "date": "2026-11-17T07:21:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -240,6 +359,23 @@
     "flag": "🇩🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "4d8abad347",
+   "title": "Türkei: Polizei stürmt Sitz von oppositionsnahem Sender Sözcü TV",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN0JIUFdaUWxWT1lqZng3aW1aNnF3Z2RicF93QkFleDhUT2JqSHlRcnpsNFRXQklTVlluQzZlWVFfLVlaRUl1d2tBS3RxbDB3Y0phX0xhbUVubTkxVExLZ1dnckxja0tSR2ZOTzlEYmE5RzFFa21hTkg4SzZzWTN5dlN2dXJXS2c2S1NyeDVDMExhcl9JaDV0U2YwUEkybVN4SlBFVHotTzJycllUOWNGOXB0b2pLa3R6UlVEYVdBTHY5UHJvX3pXR0M3elg3eGY3ZkJZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-17T07:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Politics"
   },
   {
    "id": "d8262eea3c",
@@ -255,74 +391,6 @@
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "434b88b5eb",
-   "title": "Miley Cyrus und Dolly Parton für Grammy nominiert",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmtLdzRRRWswMUhtbVoyQ0F0b0RiNGZYS3Q1U2I5YnF3RDd3b0ZxMmZDVDg1RElBT1JrRmhBLXd5czVoTEp1YmtpbkxMWVZUNVhFS24zbGFmbFRIWUZUY2pVRmNrMHp4aEZHSzAydE1ObERNOHg1YnFXeGJzN2E2bHB1QmNuQVlrQnJLRGRqU0EtUEdOYWd2QWU5NURpdXVkTHJSUjRaVXYxWFNPaWdlXzVob2dxWWliZGJtaVA5MW9SdVplMFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Spiegel",
-   "region": "DE",
-   "date": "2026-11-17T07:07:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "d550d6bd0f",
-   "title": "Lichtinstallation „Membranpotential“ kommt in den PLK-Kubus",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlh3cG1pcGdoMHNLYzFmRmphNFd3NXA0RG5rdFdFN3I0U1BqTVF2bTB5NlVGRFRvcnZXZVE5N0lXbUlBTnNUM0d3eVFtRUJpVFJBZjQtRmpXeHdyRUlNc1pKcVd4cWVVZ3h2eUVwaXozb1JsWVRINWRFTFdmNDZXdkRneDNTVnozYlRIRjFVMzFyemhJVWVYcEJlTmY2LXh6Y1A4Qlk4UEtpVmNsXzBMU1NBV0tZMHFZRDdNQWdn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Regensburger Nachrichten",
-   "region": "DE",
-   "date": "2026-11-17T07:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "55e7130e83",
-   "title": "Tennis: Hier läuft Zverev gegen Shelton heute live im TV und Stream",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZmFyUlBqWkJJbE1pSlViVDlhbFRvTzN5TlhVRDNROXpNN2xMOWFZY2lsSlFkVm1YVHEyWjlxN25fOHNudzVCS1hMRU0wdW9PNlBIVU5HbEdMbmpiWFNBYW51VHZZNC1qLVB0d1BfZEtBUFNWVm5oVGhmVFFVTGlkZkJWczJnYkhsdy15ZnhGeGVnT05fS2REaWlGaFBLemdlQVJoXzdKU24?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "sport.de",
-   "region": "DE",
-   "date": "2026-11-17T07:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "120edfb7ef",
-   "title": "Ukraine-Krieg: Berichte: Krim-Brücke nach Angriff teilweise eingestürzt",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc2M0QWVLQjQyWnM0VUlLOXhIWm92Ym9QWGN4cmFPSFREemI4cmFTYkxMaVhkSFc3RV9WN0ZETG16al9xdmZnQXk4UmZKejRUXzduTTZNc2dxTG1wLWQtb2R4eXU2UDJzSWt0SjAwb3ZZRGRMREd2OEE1eElTT3BPZmQ4bTFUV2VJOGF0cTBPSEVJNHk0a1NqWHNWYk9RSlhrMWl1cUxjRXJvbUFXbmVKRmdsZ29zOWhuNmllSXdlS3dFWEhVbTFDVVdTbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Tagesspiegel",
-   "region": "DE",
-   "date": "2026-11-17T06:53:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
    },
    "topic": "Society"
   },
@@ -378,23 +446,6 @@
    "topic": "Society"
   },
   {
-   "id": "5a907a8ea1",
-   "title": "Serbisches Parlament konstituiert sich nach Sieg der Studentenliste",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzhYaUNoOFhhQkVscHVqbGxFeG5tbHJ6YUpGMUJWdS13R2ZWbl9ORG5aemxmblVuc1M1OVVsNWxPZ1FXeU5zc1hvRFdvQkh1WFpja2VVZkdGeGI0cHJMSVdwdWRTMktQZjFHOHd0eFEzQnhNTkVHZFNhZ01DNW5CdWp2U0l1OEdtTGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "tagesschau.de",
-   "region": "DE",
-   "date": "2026-11-17T06:07:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "028ff464eb",
    "title": "Neandertaler-Gen beeinflusst unser Hirnvolumen",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFlvYlp5QmpQNzl0MF9uRld2aXVoX29BUXRscnB6bFlKd0lIU0lRd3I4R2dxWVRYaU52bzdlaENScTBLa05MU3lHZDRVVDVEUHFQa0p4cFo3NzRqOTg1MkZzUmFETzRYSEtaenJfMjVTYkNxeWFlVk84eWJZdURmRFlZZUs?oc=5",
@@ -403,40 +454,6 @@
    "source": "Bild der Wissenschaft",
    "region": "DE",
    "date": "2026-11-17T06:00:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f24f899e61",
-   "title": "DFB-Team - Unvergessliches Heimspiel für Derry Scherhant: \"Das ist echt surreal\"",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2xvb0I2WS1XenpnWkVEYjdvN2N5eHdWX1RkMGo5QUdRbFhHY0JmUnNtZVRyTEdUMlI3MzRGOUFweTJZb2Z0NFdMY2M3MVo4UHZodGdQLVZITnA0VWd5bHpCS1c3NXc1MzVXbkhxc0JNNUVmVjJiM1I1SENnamdvblA1MEFYZ011eGNNV25SWnZQN1NEZ3IxdkY0UlJ1aHdZbkVMSUVmMlA2QmhaclRiNl9lQ3d4YktTanRPZDVVaUNQbWRTUzlxUU5SeF9IbzlCeHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Joyn",
-   "region": "DE",
-   "date": "2026-11-17T05:46:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c836391ac1",
-   "title": "Bahnverkehr zwischen Magdeburg und Hannover steht still: Mähdrescher durchtrennt Signalkabel",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN1h5MWExaFB5U0FfdWROaFZGVnRidnRpT3pNQmRJbDY2M0VvbWNjVF9BdFpWUjhuMFZlTlFEY0Y5bzZLMlR6X3ZvUVlVWlJZanlQalNvQ0kwMkhhSTZycjE2RVczQXpTSUt0MlhhNnVRVkJwb09sTkFEenpPODJwMGE2SWRnbWVBdmFsMjZlcmZGU3VRZUtlVnl3SURjYnlJemp4QTNPa2ZVX2ZWRnpPbER0cmVoSS1aTjkzclp3Zm8wbG9tXzJUZjU1Tmh1aXJnSmkwczJha2xNbFd1emtVSEI5cG42SFBVamNIcQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MDR.de",
-   "region": "DE",
-   "date": "2026-11-17T05:35:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -463,26 +480,6 @@
    "topic": "Society"
   },
   {
-   "id": "52b776ac57",
-   "title": "Terror-Bedrohung in Washington: Iran soll Anschlag mit radioaktiver Bombe planen",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObldnQjRvUDFrLUpPWTdnM240UUE3RkJPN2dFYnZOTjlCMFJBLW5NUkFWSHowR1ExbktOcy1JSmlFTlRQUWFQUHp1dmRrMzM3eFNwTHJkNFVhWXZSdEh4RmU2R3lORzRTQkJFTDhMdjNqS1J2dm9iTU4tMFU0VktneFhRQU1PRmZzdmRSa2xjWlB0V1FRZ2NaUlBuMHc1aElMQkU1a1Uzb1l0elFGZVVDekRTTmItOE1FUFRMY3oxcWhLSUFscUVsOFhZazh4YWhB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Berliner Morgenpost",
-   "region": "DE",
-   "date": "2026-11-17T04:13:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇮🇷",
-    "also": [
-     "Iran"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1afe6567ca",
    "title": "Nach dem spektakulären Einbruch: Gutachter prüft Sicherheit der Sparkasse Gelsenkirchen",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbFVVbHQ0U09NSXNqbUtfTzkyWW9LdG1YVU9MbWN6dUZOV2xNWlJkYUY0aFktRjZ3VXpRc3dMTDVQQUNBMkhKdnZuX1BieFVXQ3BxYjJkcUlCdUR4b0U4R3pOc1g1STR5cWprVnRSb1BLMkxFNHV4U0pwWnZXb3R0MTZEZnpuQURtSHFDdVZDLWJrQlJNTnd1aUhMcTZVQQ?oc=5",
@@ -496,27 +493,6 @@
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1bce681d56",
-   "title": "+++ 23:05 Trump: Will bei Treffen mit Xi und Putin auch über Ukraine reden +++",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWZFMDdicEtZVm45cXRCTlVXZDc4a3JleWJBRFNrNkY0TFhpMEFoQkQ1VVowdnJzSFVCVHVMMmgwMUVrVnpxdUZnYmlpVFBsVTFpWjg3dGt1VzQ2cEVNRnMxNjBVc2lsZjVRcml4TFRQc0J1NkU1SzMtb0RXaHpxT2hfZnA4QWpMR3NWTTR3Ul9fWFl6dzlUdEdrQVlwLVZsR1VmaTY4SVgwanlTRENpZDVRMVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "n-tv.de",
-   "region": "DE",
-   "date": "2026-11-16T19:17:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇺🇦",
-    "also": [
-     "Russia",
-     "Ukraine"
-    ]
    },
    "topic": "Society"
   },
@@ -555,6 +531,23 @@
    "topic": "Society"
   },
   {
+   "id": "5dddf4bb35",
+   "title": "UEFA schickt Diallo gegen Infantino ins Rennen",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDQ2bkQ3NzhpZ2ozLTZtX3U0UXFxdTRodXVTN0RDSlUwWWo2U2tmbnE4cFhxdENGVldPOFF6T0EzN2lZTGIycmtGN1ZFS0IyNW5jNXdnTlBYS3VqWTEtSjBvSVY5MmFwMWhUb3g0RnhELTBDWERPZzFod0tLa3hJbVc1azcxTkwyQ3U3OGFWNXk1NXpV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SPORT1",
+   "region": "DE",
+   "date": "2026-11-16T15:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d397a07dc1",
    "title": "25 Milliarden Kilometer entfernt: Wie die Nasa mit Voyager 1 kommuniziert",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DVmdpMkotdnRxMmJ0RG82OWNxZGx2Y1VIV25HZ1FhaFdCMHJqMlhuUHQzUVNqRW4tcXlTM1RQaVA0N1lELW13S183Sm45bVlUU2txQXVLV21adW1rNzVjTElVcjRyeUlRbHhfZmNLODVxVnJJ?oc=5",
@@ -572,19 +565,19 @@
    "topic": "Society"
   },
   {
-   "id": "7f2e56ffd7",
-   "title": "Tesla kündigt Milliarden-Investition in Werk in Grünheide an",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQW9RT3dralY2dHljU1RWRGg4TzVyRlFsaUwzaVlFTzBGWWpGLXp6N2dJSUxXa2pWLVhVSkp6SXlYLUtSaUxmQUV0ZTd0Qy1YSm5iRkp5RDlFMFdGbGtNM0diTE5aWlpQSjRIeXVpdHNBcjh2YWFvNEVkVWswQUFXNnpfdGFmRk9GVThDTlVhVzB6OFVtQzZ2b0JjNmgzTzhmZm44eWR2Um1IY1puSXBBNHhGeTEwUmc?oc=5",
+   "id": "0e6772a6d5",
+   "title": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSEhjU1VqZDZobF9sUmVoZjJWLS15MVliX2tPbzFhT1hYLU1hNXdPSUx5ZEljQzl3a01USVU4N19VdUZVYzNienF4VEJiUkl4N1BXc0llOEJrSFk5dWV2amhfNVg0R1FxQzkyMVRHMVhsTk1tTTFsMlpBOE9ZNjk0VldVWQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "rbb24.de",
+   "source": "tagesschau.de",
    "region": "DE",
-   "date": "2026-11-16T13:54:49+00:00",
+   "date": "2026-11-16T07:11:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Germany",
+    "country": "United States",
     "place": "",
-    "flag": "🇩🇪"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   }

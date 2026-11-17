@@ -1,44 +1,24 @@
 {
- "updated": "2026-11-17T10:41:48.384918+00:00",
+ "updated": "2026-11-17T11:32:26.773624+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "5f336f2541",
-   "title": "Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT2RNWmRCdkl4Z3YzQUduTWxkV3F0ZU9TN2NyeEhaZy1EZ2swMG00Y0pfOUVUeWMxZk5zTzZuTkR4RmZrMkdObEJuWHJ0ZDc5RXhzdmpGY1JIM21fZlJ4Q05QckVQTVBTWk9mSklUSXlmUnFuaDB0cVBjYzF5V2RSc05saGJkZUYtMDU3bzhtU25PZjNhTm1IYjdDYS04eW9FbVFReEdWc0hELXlPVGRrX1YyN2F6TEJ4ZjBSSllueU5LUEVmeEFScjR3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-17T10:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇵🇭",
-    "also": [
-     "Philippines"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2fe21d6d78",
-   "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWmc5akRoLXg0Tmg2Vm0yck9BcDJnNlR5WUF6eXZnYjhNV1RwLTVpeHgyTHlnMnU1dDM1UHJSQUl0ZlZFSUZBdlJuSk11QVBFZTJKQ3ZYQnM5MXFSREE?oc=5",
+   "id": "da9621a87f",
+   "title": "Milburn report proposes welfare changes, tax cuts, and apprenticeships to help young people into work",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53UzhXRmZJQWl2bm9reWxhRE5uMXhncEszN2JCcmc5V0dkWk1TWmFQaXNpMVdBWnNaTnlmSWFxMnlveW5lSW44aDgtTE9KUDZMcTQ2bi1JdFE?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-17T10:11:00+00:00",
+   "date": "2026-11-17T11:31:34+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Economy"
   },
   {
    "id": "5c09d5c16c",
@@ -48,7 +28,7 @@
    "image": "",
    "source": "Sky Sports",
    "region": "GB",
-   "date": "2026-11-17T10:00:18+00:00",
+   "date": "2026-11-17T11:30:18+00:00",
    "coverage": 1,
    "location": {
     "country": "Switzerland",
@@ -61,14 +41,56 @@
    "topic": "Society"
   },
   {
+   "id": "50fc0dcdfe",
+   "title": "Trump in Manila for meeting with India, Japan and Australia leaders - live updates",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vU1Z0VWdOSGh1WmhaaTFuOTduNXRPLXpURjNEbGN6d0gtN25TaS1QeTlJMjdYSV8taVp3VmRjYjIyVkpZcGVxOFJ5NW5Kekt4WU9XYnZpWjQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-17T10:38:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇵🇭 🇮🇳",
+    "also": [
+     "Philippines",
+     "India"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c1a100793b",
+   "title": "UK sanctions eight firms building Israeli settlements in the West Bank",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnphN0h3Sy1tZ0g0WFhOanhHeW5rd1JSTnZpT2RGUnJDcG9vTEpmZFM3RkhZZ3JjOGl0MGVabnBjMk1jaWJfMm9vd05WbzZOM2FLQkFnRmplS0tyNk9PcUJQYWZTN3gxMHg1Z3AwUUw3NE1LWExrTmdCOFdQQ0FzWTNZc0pEdHVOcUZXanQ5clNUVk54X29pRUJYV0xXSDFNTnViQ3RuaG02QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-17T10:24:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧 🇮🇱 🇵🇸",
+    "also": [
+     "Israel",
+     "Palestine"
+    ]
+   },
+   "topic": "Business"
+  },
+  {
    "id": "a32abb6dd3",
-   "title": "Expert behind major NHS children’s gender review says she cannot back conversion practices ban",
+   "title": "Expert behind NHS children’s gender services review says she cannot back conversion practices ban",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGlTd0l4QV9Wc2Z6TkJGaTV1MmFDTFNxQldBRkF0SHJoRTdpbDBRSmNweFhrOUgyRVpTcmVyWVhsNHhHMmYtOUR2X1B5MkFlbk5XLWVJLWhKM2JhNDVkYldsS0NKdk1ZT09ZNWxOcThLUV80SFMwb0NUTjZ0QmsyWFh1Szg0b1JzaXQwYkdQNy1sWHVkNF9XWUVhNXhlRGEzSEsxMzBpQW1DWjhYZnk0?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-17T09:56:00+00:00",
+   "date": "2026-11-17T10:08:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -95,25 +117,8 @@
    "topic": "Society"
   },
   {
-   "id": "c16b502d52",
-   "title": "Youth unemployment plan could cut welfare bill before election, says Milburn, but overall savings will take years – UK politics live",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbEtRQldUS2hKNUNwd3JteVhDaG5xN1Nka2VDcG1NVDVOT1A5QU9ZQVJiS1lpaERORzNvMGZCZ2FnMmJfZTlCcWFYQ3o4T3YxSU1TcTFEUlpjTlFBeW1iTEhhb2lKRGE1UzU1ekdDcmRKRXhCTXo4RmdwZEpxdUgtZGxidElwNWx6aXRHeHUtekljWGgzanA2TWlkVGNGYkdRQnNGUFBwWTVZckFKRERnNjBoYnptQnVkWk12MG83RU5ZNkpmR2Y4ZHRqRm8xaUk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-17T09:04:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "561a2a6fa0",
-   "title": "Ukraine damages bridge to Crimea in fierce exchange of strikes",
+   "title": "Ukraine destroys part of bridge to Crimea in fierce exchange of strikes",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkJHWmtoMTR5aWxjaXFLNUdKQjNSX0ZqM0VuS2dZNWJ5b0YtOW1IU1A0bmQ0RERLOW9PeWNSLWtnLXpFY0hrd2FjUVRnRFlYcXhJU0JTMHp6QUM3VUNsT2xUZU1tX0FaelJtYXpxSmo5UlRVOWkzUUVveFp5YXJHVmhnTlo?oc=5",
    "summary": "",
    "image": "",
@@ -163,23 +168,6 @@
    "topic": "Society"
   },
   {
-   "id": "c16ca81ff3",
-   "title": "Watch: Luke Littler hits sensational triple-bullseye finish",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3ZmT21qQ2Q3bDRJSEpBc2dNeEdBNnBLNmtIOUYwNnptUkNmZmZBSkxDUUc3dFQ2ZFVuMFB6YmxPTGJQb21tcmNEOGhFWTFoal9rVkpmVDBJZjM3bl9rMEFqdTFSRUtsUVBHZzRKUDVGQWV2YmhQVU96Q1prV292dUFJR0RFV0hObmlrRk5MTzQ1V2tqTjF5a2FWLXFUelhfcmdPWlI3OA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-17T08:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "75c649507e",
    "title": "Leonid meteor shower 2026: How and when to see the peak",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFbEowRXlmYzAxaVk0dzJZR0tPLXVrVExPTUJFYzQtaG5sQ0VHdDJnUzZ6X2NBQ1lUTUNpOF9FdTgzVmRLVU1Vc0NzUWVsT1ViN1BsZHVpaUZjMzBPMkRhbUF3?oc=5",
@@ -197,71 +185,14 @@
    "topic": "Society"
   },
   {
-   "id": "0a097262af",
-   "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUMmVKYTBKc0E4TXhNc19vQXNpMG5RcW1ld08xVWxodWs5dVctTE11ZWY0VlNpaFF3V2t6emxKUDdyazJJOENsenJqR2xTV2YwX0pzZWJ3VEdfcjFVdHc?oc=5",
+   "id": "e7fdd5c831",
+   "title": "Weather mapped: Where 15cm of snow could fall on UK today under yellow warning",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTFBMmg1VkVENmwxV0lxOVlLRDZqUWZvVUlfaUhSR0IzVnRleDFNWnZSMklfbkQxcG10NlctaHJTdklGVUJYQmJCVnY3WS00aTRfc2FjQlFGLWFaMkp6NWk4N0o0Z0tmallRNVFRTEpqS1V2YkRLYWFYaTZFTTlHREVRdTk0LWpjOW5CdXBEU0o0QTJJRHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Independent",
    "region": "GB",
-   "date": "2026-11-17T07:44:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c2d263d4cf",
-   "title": "Major UK tobacco company to cut 2,500 jobs by 2030 in cost-saving drive",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZ01COUtUWm4xMlVZM3BZclB3UUw2ZXViRE9HNkR6YnNhUFNYOTZ3WEZyZG9GYWhodXpwTHBtUkhYUmRQSktURDRBTWlrTEZPR19Uc0lRSUpUcjBnRWpNcW93S1daYWdfUUxpVUln?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-17T07:41:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "ced75b82a8",
-   "title": "China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT21wTnh1YVRsdExJNWJRNVRwUHA5WVZHV1BaQ3N0b1YzTkd1c1MtUWU3VTdmTTN1U0VLMzlCRjRwSmZVbl93cFpTVWpCMFdmaGtJUDFkamVXekJ3MHkxbGRTaW5WTGI2ck1WeVVBR1J5RFFNem9heUloVktXeXFPQ2c1M0l5WGc5SWQ2WjhzNjRlNWxlR3BjTDZZR3R3NnhjY1RaU0FWR3dEZ3M3MU5naDl0ZE9LRkhjaDZmWkZ3OEhIM2FZZVowXzNlRzZxSVNsZVBleGdJZEJ4RDdXSWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-17T07:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "5fbdae775b",
-   "title": "Hundreds of Greater Manchester homes hit by power cuts amid weather warning - full list of areas affected",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1VpZTFWZUtEazZFU2Y4YVNrblFySHdhU09aMy1ENUduYmJva3pyNFZ2SEZjb3FaeVlHeVhKeG5xdWNuMXpxdTE3WkdZOWVOQTFJUFBzSkRlYnluRTNxZ1A1TE41Y2JBU3JYeVRMdkhtX0VWdW9JalExTUl1bldwRUtYYUo3aUVnRG9uNTNXLWdkVXRJRkZOR3F3VVNWaThZdkp6dUFvNjJtWERETlg4UjhxZmVjd9IBuwFBVV95cUxPQXZDbVlGZEtSOWloeF9Lc0l1azJ3TjJGWmhOQVI1NzF6MzJ2enNwMWpRaXFlOTBib3JuZ2V3TFVpZjB6cUFFWlg0Q2UzcEZUXzkwQUhGb0FvZEV4YzZNS0NZVnFBLTNrLWczZ3FkWkhZSUpJZjN0VENzUXh0aUd1MjNiX2hieVNTaU42VnpwbGNmd3NHbUVDSU11dmNhT2plR29FNUhCU3VFN3NpeWE0VURyT2tkSkVuenVN?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Manchester Evening News",
-   "region": "GB",
-   "date": "2026-11-17T07:05:23+00:00",
+   "date": "2026-11-17T07:52:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -271,8 +202,25 @@
    "topic": "Weather"
   },
   {
+   "id": "c4c583b115",
+   "title": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTHBMdHRzdnBWRFF5cHE3RXJtVllqd1Ezbl82UzdUT2syd1BLOEt2NHNaQm90SkVGMDZlSGVfWnZmakwzRWVOVGU5SG9Bd0RjZ0pndFRrc0VHMUN3WnkwWE9UMTc5ZHpKNkN1MWxGZnVncVBsNzhQSUpNQ1BkVUUweEhGam9QUlpmWmJScHBmUEZLY1NPQ3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-17T07:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "330af4e9e5",
-   "title": "So You Are: Body of Melbourne Cup horse found dumped in Sydney skip bin",
+   "title": "So You Are: Body of Melbourne Cup horse found dumped in Sydney skip",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HZnZzQVhoLVpqN1FPbUZrb1JqMlVpV21QNlMtZjZOQWR2R3ZtVko3NEVQekNMQWU2b19BN1lXbDFrZEc5Z1d5YjBYYllzaE91aUpwSFZURW1ZNEE?oc=5",
    "summary": "",
    "image": "",
@@ -339,6 +287,23 @@
    "topic": "Society"
   },
   {
+   "id": "93aaf55ca1",
+   "title": "Reward of £10,000 offered in hunt for sex attacker",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hRDB2am5uRzNMeFEtQWVsNXprZUFmcWUxdUQyZk9LSEFqU1hGX0xUdFR3aWJFWlVPbV9Gdm42dllSNmpPTWJyMGg5aDYyRWxoclIyX3VXZ0pZU3Q2Y2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-17T06:10:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f3cad7d3a9",
    "title": "How Met failed to stop rape-unit detective who abused women",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6ODI1M2JhRkkxcWJJaGNyUDdyNUdMaTItNjhxTzZuZEdYbm9nblR3YnNRRkN3YTJPZGhKOTJfRENlY0Etdm1DR2luZy1qNnRzd2hvSzM5Y3pfckk?oc=5",
@@ -356,19 +321,19 @@
    "topic": "Society"
   },
   {
-   "id": "4dbf37efb4",
-   "title": "Oligarch’s ex-wife to claim £600mn for ‘reasonable needs’ in London divorce case",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVDNEZmE4UE9xSGVBQ3pGM01Tci1fZC1BcGU5NHFvOTFvNFQ1Q0JkVThIb285MjI0eWhVZUt1eWtQRUxjRE5vU3QxQVE4MmZOUUFWSjZIU296TFl2WnNsZ3VocTVyZmpRRlAyUlpaRFhwaWFhcWtJWDZ5c0RpX2NaRlJuV1A?oc=5",
+   "id": "aa1f1cffb9",
+   "title": "EU considers banning Chinese companies found in breach of subsidy rules",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnBidFF6U3I4dFlZM2hLNmNQQXRzeXVCRGNtRWI2SGNYenRKSTgwd3ZyNDYwRGxIby1ORVE1YTVNSzNYQVhaT3FOTWozRUNhQ2Itdk5PUldNR2lrSGxiNmVCNkRxSWZYV3ppT0d3aEpDcU05VWJyUTZjMWxEY1oxbGZvMmE?oc=5",
    "summary": "",
    "image": "",
    "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-17T05:00:38+00:00",
+   "date": "2026-11-17T05:00:46+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "China",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇨🇳"
    },
    "topic": "Society"
   },
@@ -380,7 +345,7 @@
    "image": "",
    "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-17T05:00:36+00:00",
+   "date": "2026-11-17T05:00:07+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -390,31 +355,14 @@
    "topic": "Tech"
   },
   {
-   "id": "aa1f1cffb9",
-   "title": "EU considers banning Chinese companies found in breach of subsidy rules",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnBidFF6U3I4dFlZM2hLNmNQQXRzeXVCRGNtRWI2SGNYenRKSTgwd3ZyNDYwRGxIby1ORVE1YTVNSzNYQVhaT3FOTWozRUNhQ2Itdk5PUldNR2lrSGxiNmVCNkRxSWZYV3ppT0d3aEpDcU05VWJyUTZjMWxEY1oxbGZvMmE?oc=5",
+   "id": "2691f743b4",
+   "title": "Voyager 1 Has Traveled Through Space at 38,000 Mph Since 1977. This Wednesday, It Will Finally Reach 1 Light-Day From Earth.",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1FXWjhiSEVEaFRZdnkzOTZ2ZkZIbndFd1F0M1poVmpkUnZJVmtzZVN2NW41ei00c1FlYUloU3BzLXpIVDRiU0JqSjIzUnRYTFN0TnVBSmNIZ0xYaFBwNVBjWVBlbmQ4c3VTTlF5QTVXX2pPTkFGMnYzc0FmWUZ4eDJJb0dndkJESkxlRm50bXVJRVd4T0tVdC0yekl5YXBMYlhEdzhEaGd1aXJjWDdIOVN0V0ppOEdraGkwY1pQNk43TW5QcVRpaDdGNWlmeGphd0FQLUtR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "ScienceAlert",
    "region": "GB",
-   "date": "2026-11-17T05:00:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f9cd459e36",
-   "title": "Xbox sale round-up November 17, 2026",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Y1MwYThrU2I0NlB4UTdTMGJ6amtNVmRpbmVXcE5DNWdqbnczZWF4eUFTeFRqT2FZcFZ0U3N2S3lsLUxJazdhWlZMS0stWGplUUVuOUZSNWN4Ry1OZDlraW1YZkVQQXV4Rmt6emlfQmx5aWZNdzEzMWtQTWZXWTg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TrueAchievements",
-   "region": "GB",
-   "date": "2026-11-17T00:18:18+00:00",
+   "date": "2026-11-17T02:02:41+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -424,19 +372,19 @@
    "topic": "Society"
   },
   {
-   "id": "0c1ff629d3",
-   "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZdkpHWE9SX05semdBZ2JGdEhfSU55MVZhQzNMVTZ6VlVZdEdpSnY5WDQxR2hSc1ItNFgxZDgxT0RkNGdUQ3Y2Rk5KUFVndkxMQUE3dTM5N2xRTWZxcXpSRnpR?oc=5",
+   "id": "bede503237",
+   "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55bmZkZExNLW8taGRiblhBLUJScG1Wc0hnQXpKZVlzamZJU2ttNEM0Q2stazZzUWIxSW4zaXVhQmJNdGZNQ21VM21ZLVg2QkdPYmtyaU1CR2VrUFRJVEE?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-17T00:09:54+00:00",
+   "date": "2026-11-17T01:04:45+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "New Zealand",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇳🇿"
    },
    "topic": "Society"
   },
@@ -466,6 +414,60 @@
    "source": "The Guardian",
    "region": "GB",
    "date": "2026-11-16T23:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bdbe058db0",
+   "title": "Customers report outages at Chase, Bank of America and Wells Fargo",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vcTZMYnFPSjNFNmFZM2ZqNHEtc2EzVVdneTc3dWcwUkt4ekVweFl5OWlMbnd4NGhxUUpmT05NazI3NU5QT0R4UW9UQy1tMTdUWE9qNzVTTFhVLUdnZFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-16T23:15:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "0ff1274abe",
+   "title": "Max Dowman, 16, becomes youngest England U21 goalscorer with winner against France",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sWjZzSWhYdElLRGNCWTlkQ0ZreFh6ZWtobnlzcldycnNpS2lRMEdURWZWSFNXaTJZdnFyUkhTcjV6dS1sVGdmMkZJbTFJdWplQks1a1BPZzZ6b0FLNkJoTkxTTlBpbkNXbkw5eHpETThCTnp3UmRid1pMQ2ljdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "GB",
+   "date": "2026-11-16T21:58:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧 🇫🇷",
+    "also": [
+     "France"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9d13ae6fc9",
+   "title": "I'm A Celeb fans 'confirm' this year's winner minutes into first episode",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkloVWpYREJpUk1EWHMweDNGaHJtZkRxOFpBa1dUQ3RNaU1SalJTS3Q0N3FIZFdCZ1RGdklWZWZSaEVIem51cXNwb29QbFdpMERjTUZfR0Y4d1pXMUxvVERpMkhodWZIaFRMSWh4UWV4ZUlRUXl2c0JCbWZFZUtHeENB0gGHAUFVX3lxTE9fSXhISFgwS1ExTDhmdzVfUHY5eVpFeE5PTmZWNS1zUTVoNjUzTGtIdWRWVHgzUWZobnVDaUp0NEZtdFhWaUxoVFRxMDg5RkZuWU1na203VkUtRnY4ZzkyWnUwT0dVNmF0RjZWSzVkVnA0LW5sYUlsUEg2YjlHemhOcmY3NnZZRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Liverpool Echo",
+   "region": "GB",
+   "date": "2026-11-16T21:25:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -509,23 +511,6 @@
    "topic": "Society"
   },
   {
-   "id": "074b91e143",
-   "title": "David Walliams accuser: ‘Consent law could have saved me’",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa19venBJakZmYnBMLVA0R2pJMVd0dmZrZi1udkg2YTh2VTBGQkNNTzR4UTdiYVo3RmxQdHYzU0lRRG1xOXd1THZrU2RaVWFDWHNIcmhnaEgzbDhicTE5NVlWcXJ6bzAtRDYzNGNCQXdKZk9MVWliT1FQdllDRHhVaTEySEI2MWpPVzVsX21XWkFqNmc3ajE1aWpRSVlZcnM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "GB",
-   "date": "2026-11-16T20:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7580c45293",
    "title": "David Cameron: Britain must spend billions on Alzheimer’s drugs",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlJ1TEZtUUx5dGk3MVE1Wi1GbDNORUxuOFAwZGJITUowWGUzVTViemx1NUlaM0VoUEZ6QWN3bjIzU1NCVS1HTjcwNXJRM0I3ZW9VWUk0dksyZHZsTWlBdDg0c3VUUGRGY2VGQk9nUHhIcmZsbHZZX2FQWV9xSmUyd0dJVHZxNUZ3Wk4tODc4blozXzVJT1dJaUtOVEpEbWtSZF9aSm03U21MWUp2clE?oc=5",
@@ -560,14 +545,31 @@
    "topic": "Tech"
   },
   {
-   "id": "8eb053fd44",
-   "title": "GTA 6 already has two day one patches and it's not even out yet",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0luLXh2ZzI0R3JXVjhxYXhtNjgxSWJKazhaSnFXYThRX21uUlRGajJEWENtT0xBcXJfMjdFWjlJM3RDMklOeENDejdJTlZ1QTJZQWtHdFZpeUZ5ZzhyT1hIb3I1NU1BVkVZRUN5RXhTQ0Mwb19RSHM4ZGJGbHNIRkRma2RsT1ozV29wNnE4cmc?oc=5",
+   "id": "1ea9393c7e",
+   "title": "Pochettino’s key lieutenants already in Manchester and planning for Liverpool clash",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUV9OU3RMYk9RTUVwaEJGclZUeUxfQ1BNWnJWVnJEUzZWcHhTYXY1T3JSbDN6eXBDSkZBS1ZLV3NVOENnNXUzRS1FYTdkYk9uNWoxVkluaTFVZkxmRkhLOWNJUGpMTDhZZ19aNWZXZnpRZHNIRTlteF90Q3FCY3djYU5RQlh5eGZXV2lMSXZRUWxaTkU5OVRNQnl2NktHdUxLRlpPOEpiZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Metro.co.uk",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-16T16:06:00+00:00",
+   "date": "2026-11-16T18:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "64e58f5f77",
+   "title": "British Authorities Investigating Possibly Illegal Russell Brand Statement From Prison",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWExTjVkbS1iLTgyRVVDNi04cjB3MUlla2FpdG9ZQ0ctdV9QYjBwVC1MNkJOMGxTVnQxN0RWS1ZwMjdQYnNqUTh1U1FzQVBWQktjbWxtNmluSUVUQWtrczhpc3p0RmdvU0R3ZEJzc1JtNG9Zclg5aVdZdE9LYTk2VEI3dkJpSzdfZG1JNm9MSm8teVdnc09EaUY0U2ZDck1ZRk5oRUFKTjhHN3FTWVdLeWV0TWJpODZHdWlGSw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Rolling Stone",
+   "region": "GB",
+   "date": "2026-11-16T15:09:05+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -585,6 +587,23 @@
    "source": "Forbes",
    "region": "GB",
    "date": "2026-11-16T14:40:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d78076e143",
+   "title": "GTA 6 gets crucial PS5 update you need to play the game",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HQTU5T3pTNFNKMmVUUFRCS2dKczdQNHJvSk96T01fUmhjQmVNWld1UzZpQjE0eUxUNE9iTWNKTlFiNFMtWDdYVEF1cDgzdDJVUGpYQTJsVFFZTGllcjJaeXp2Mzc0ZmlYVVRIbWIwRXJoUHFNajkxTWVITE1mUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GAMINGbible",
+   "region": "GB",
+   "date": "2026-11-16T14:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -619,23 +638,6 @@
    "source": "The Telegraph",
    "region": "GB",
    "date": "2026-11-16T07:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c02df207ab",
-   "title": "NASA's Voyager 1 probe poised to achieve mega-distance milestone",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNV9FeG1nem5ZOEIwQ2NfcTFxVGNwQmp2c0o1akk0SUE1YkdGR2dBaWRwbGhiMjhqWmFsdldrdTFZSjRwek9RNHB0SkVleHlaeXd6RHhRSi1RNUVKcDFvSjRGb2tYME5ZcDg2RDRZV0xFem9YQ2pfcjg3cXp0MURNbHE3S1hSR0loQkdZb1c2UmQtUHJpNzNvMGZrYWNWOUJrVi1heVYxQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "GB",
-   "date": "2026-11-15T13:13:54+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
