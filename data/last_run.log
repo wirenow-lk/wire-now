@@ -1,22 +1,21 @@
-getMe failed: Telegram error: Bad Gateway
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 17/80 used today
 
 FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
-OK   Ada Derana: 80 stories
+FAIL Ada Derana: HTTP Error 429: Too Many Requests
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-FAIL EconomyNext: HTTP Error 429: Too Many Requests
-OK   Daily Mirror: 81 stories
+OK   EconomyNext: 31 stories
+FAIL Daily Mirror: HTTP Error 429: Too Many Requests
 OK   Hiru News: 100 stories
 FAIL Newsfirst: HTTP Error 429: Too Many Requests
 OK   Daily News: 82 stories
-FAIL Sunday Times: HTTP Error 429: Too Many Requests
+OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-FAIL Ceylon Today: HTTP Error 429: Too Many Requests
+OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 19 stories
-OK   Google Top Stories World: 66 stories
+FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -24,36 +23,24 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 FAIL AP News: HTTP Error 429: Too Many Requests
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (12 outlets) | Five EU countries unveil plans for Rwanda dep (6 outlets) | British actor Robert Pattinson named as new J (5 outlets) | 17 killed in two mass shootings in South Afri (5 outlets) | UK's Prince William, Princess Kate begin Indi (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | Cyclone Akvan to Make Landfall Between Nellor (4 outlets) | British actor Robert Pattinson named as new J (4 outlets) | Five EU countries unveil plans for Rwanda dep (4 outlets) | Nvidia dismisses 'Bring Jensen Back' campaign (3 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: Govt moves to enact sweeping Cyber Security Law in early 2027
-    normal news - one-paragraph summary
+* The Island [1 outlets]: Budget 2027: Unions step up protests demanding relief
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    could not post: Telegram error: Bad Gateway
-* Ada Derana [1 outlets]: Govt. to appoint new Wage Board to address estate workers’ salary cris
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    could not post: The read operation timed out
-* Ada Derana [1 outlets]: CSE records Rs. 10.47 billion turnover as ASPI drops 1.32%
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    could not post: The read operation timed out
-    stopping: too many errors (check the bot token, and that the bot is a channel admin)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -63,3 +50,22 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
+    cards OK (attempt 2, written by openrouter)
+* The Island [1 outlets]: Sri Lanka eye series triumph as Rawalpindi hosts decider
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    attempt 1 rejected: the number 446 is not in the article
+    attempt 2 rejected: the name/word 'WTC' is not in the article
+    -> no cards; posting with the site's own summary
+* The Island [1 outlets]: Mano tells AKD not to mislead Malaiyaha Tamils with false claims
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    attempt 1 rejected: the name/word 'AKD' is not in the article; the name/word 'Tamils' is not in the article
