@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-17T19:58:17.422216+00:00",
+ "updated": "2026-11-17T20:53:07.239918+00:00",
  "code": "IN",
  "name": "India",
  "stories": [
+  {
+   "id": "730920f073",
+   "title": "From ER to orbit: How space is shaping the future of medicine | Newswise",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW9pcUQzWnZSdXlVdmRuWmIwOVVZSmZrd041Z1h1M1ROYmU1ZXdwYTB3c0pqUHhBeFZCQmhsOU1BTWVPU1lZVDBCU2JxbHNUZFVBN0JjWHFvQ2N0amVETG9JazhxaTJybk9ieThrSDBncEVzN3djTmhhRWpaNWdDek5PUDBRWm45c3BhZmZROUtBWWFTanhLR3JB0gGaAUFVX3lxTE0tb2lxRDNadlJ1eVV2ZG5aYjA5VVlKZmt3TjVnWHUzVE5iZTVld3BhMHdzSmpQeEF4VkJCaGw5TUFNZU9TWVlUMEJTYnFsc1RkVUE3QmNYcW9DY3RqZURMb0lrOHFpMnJuT2J5OGtIMGdwRXM3d2NOaGFFalo1Z0N6Tk9QMFFabjlzcGFmZlE5S0FZYVNqeEtHckE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Newswise",
+   "region": "IN",
+   "date": "2026-11-17T19:50:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Health"
+  },
   {
    "id": "14f61cd6c5",
    "title": "Cyclone 'Akvan' LIVE updates: Akvan stationary, likely to move slowly north-northwestwards",
@@ -21,21 +38,21 @@
    "topic": "Weather"
   },
   {
-   "id": "315e97c4e0",
-   "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1hZRnZtQ2Z2ZTQ5SmpDWnVlZmhieU94Uy1TY2U4aUdFa0gzQkRJTVRIWmlYU2dnZlRuaE4wclF3Zy0ydjdxeVl4eXFacHZ5N21JLUpxeHBZa09NanFVejRHa2JTTEVnZ3dkMDNfNVkybUFuNHRKQ3g0ZVRSSTBoM0tYTEJKQ1NDendZcWNDZGcwcTNWR1dMcHRPNUZ6bmtrcUc1ci14SC11SDk1a25GcHNUUdIBuAFBVV95cUxNWGtCckJsSk85VnRCMlY5R1dJWVhNLXV5UGNkT2hyT0Vrck45eHVRckMyRHFheFpGMWZ5aFF3eU4xNXFuR3BQTXZBTDd6eGJWanBFcGU3eUtEMlVDT1dzMnNtODdORG1LbGpwQVNuOUlVQ0Z5aEUzVERTdWtHNTNvNzlnTml5Vzh5X19YWmRXUktFTzdqTC1nN1U5U2FIZENtUFBlY2J5YmRic3ZRSkZ6S19aVm00XzU3?oc=5",
+   "id": "c56cac76f3",
+   "title": "Apple, Google outage: App Store, Gmail, Search and other services down",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWVQbDloZU9HQlRfNmg3S19FdG54N3Rma2E5TnZiUXZOSDhPMXh2dXFRSU5pdVlvTVFtUXFqZUZNcmxucVBERVdncWNYbFBCM1ROSWlUVWtGbFl0R01vTGV3cTZIN2tGU282U2c5UFFha2VzYkgyc2NXVlB5cm45R3RUa3hNSnpKOUNBR00yTHFrVzB1ak9XbmVwdkJ5OXB2OXhOc2MzWmJFRG1IWncwbVBGUGZJeDVYcmxZNHVXSlZGUDRhdDNKTllfbUlwajBfYXdZNllYSkNHdWJrbE1VVDV2Yw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-17T17:50:08+00:00",
+   "date": "2026-11-17T18:18:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Yemen",
+    "country": "India",
     "place": "",
-    "flag": "🇾🇪"
+    "flag": "🇮🇳"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "6e0f28edeb",
@@ -58,41 +75,61 @@
    "topic": "Society"
   },
   {
-   "id": "7611bba9b5",
-   "title": "Kangaroo care reduces newborn mortality and serious hospital infections",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmg4ZTV0Qk1YdGdWOEVReHZSNTZBakRZcmRZTlp3cFV1dFdBak1qY3ZXZlJfVEhQb1BhS0dPb2RuOW42LW4xTmdVbW1BSktPMXhQcHdweC1odFYtS0owSTZ5VVl6eTg4bGNoVlFJeTltcTRqQlVxVUpTdVAxUFNyMnZTMUtudUNPS2hILWpBcWtxU0ZxUnNfWi1RS1NUOTJob3lxbHd5NFphMkRlNkhjTFBtUm9GX2dNUno0?oc=5",
+   "id": "47abb491af",
+   "title": "Jensen Huang speaks for the first time after his resignation, says willing to return as Nvidia CEO if…",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUlBRbkFvZDRxNGxCSHgwemM4WjJBY3hUdlZvd0ZISnl1MDhYSWtoejN1ZWFfU0lVT3JST0R2dW9OSE9uLUMtd0I0WXJPakpTcDc1NmlmcC1RaThyY3Z1eUVJTXpwUjJOU3ZDaUg1SHFyM2ljX0lGejVQYUd5TmRBSlM3dDZ4ckVGdFZTdG9McEMtZkc4bWhEQmR1dG9rNlpwSTRKUzZpZDU0Nk1rc2lFM19pZ2M0aGFtWlJWX1VTejBUNEkwaXhJaVVsZFVlODFWYkZHTWlsS1g3UDBiNE00MlJiRE1uVnhHOXdXelE4YV9pNFZWTjVOSDFaNUt5d0RaTEhaZkRyOHpjSUt6WFc1Vg?oc=5",
    "summary": "",
    "image": "",
-   "source": "News-Medical",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-17T16:34:00+00:00",
+   "date": "2026-11-17T16:24:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
    },
-   "topic": "Health"
+   "topic": "Tech"
   },
   {
-   "id": "180b21454c",
-   "title": "India vs Pakistan Highlights, SAFF Championship 2026 final: IND 2-1 PAK; Blue Tigers win 10th title",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZF9VUjg0SmlrckxiX0UtcjVreU5QZ1UzLVVTRjdnUGdHTS1pdUo4TnQ3UVJ3YnVwa2t3MEc2c181SUx5bDdZZ1FXMFZCOWlDb2xtNDZNM3VENi1Pd1ZfWmhRVEU5bzRnSDU5TWV6aVBGS3UzN1hYNGd5VE80VVVYcU1oR3RJOEZTc1VBTGprYlVhZjBoSDV2NlJ3b1V6Qjl2Yk1KTmNKNnVoS3RGczI5RHo3bGNFVm5ILVNpWTlCZ0hvc1pUS1pPQXdiTUpfakdra2YzcWpfV0JzQWFn0gHjAUFVX3lxTFBDeUM0MzVRRHExTm02ZGgwRzJGOWZfclNyRXNhRTVMMXFNUU9qeEJlWXpOTVdoeW1JMUlpNFFqZGg3dW9IS2ZqTkJvMW4yRmd3T0IxOGt6clNtdDNZeFc4eVBIa1pCZ3dSdlY0RzhkcjJzMkt2b1ptNUMyMlRybGVsV3ZwaWtIeUZYTG5YeVVaYUkwSUo1QzNzODl1SklWc2QwMlA4YXhaNXVCV044emc1bktxRU5pbkFUNVItbm5CQnI2T0J2cDFINUxaMXlfbXNXTktUM3JWMVBIbkh5Z3llNnFr?oc=5",
+   "id": "44ca45aeed",
+   "title": "US Attacks Iran's Qeshm Island In Strait Of Hormuz",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDIweHpwN1U0SExIeEpwUEJHNXA3S3BiOElSWkU5bmY5a0draUo4M0liMEF4SW5RZXR6S0hJWUQ3OTRTeVh6aGNVYXB0UV9hZEhxV2E2dElWVUNKcXZqUXp5b1VQT2k0MEkycjZGVVlCcXJEUnhYdmp4U2lqMjRuREJXVDc4RWo1MzZNZ1hQaVdOVllZSl9ubmljTXFoQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sportstar",
+   "source": "NDTV",
    "region": "IN",
-   "date": "2026-11-17T16:25:13+00:00",
+   "date": "2026-11-17T16:01:13+00:00",
    "coverage": 1,
    "location": {
-    "country": "India",
+    "country": "United States",
     "place": "",
-    "flag": "🇮🇳 🇵🇰",
+    "flag": "🇺🇸 🇮🇷",
     "also": [
-     "Pakistan"
+     "Iran"
     ]
    },
    "topic": "Society"
+  },
+  {
+   "id": "e41cd9082f",
+   "title": "Trump Makes AI Push With Quad Leaders as China Rivalry Grows",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFFHejB3YkRxWldBOG4zM1hLdW5kTklaSFV4N3BsYmlKM180OXVOdTRsSy1FelFWa21lanZLdmNPQ2ZKdlVIVUk5Y2g0SDg5bnhVcExmQUJFbHV2alh1ZXZ0QTNtTzJEN2xVYmFVQlBwUEVmNi1WQWxoS3R2VS1SR3hFZmpCeTRqUXVKLVFXSlRvY19neHkyLWk2SkgtYm1jUVhGcTU0ZFB0M254WnZNbU5TekhNNEtKNndLd3UwMXd5S2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg.com",
+   "region": "IN",
+   "date": "2026-11-17T15:47:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇳",
+    "also": [
+     "China"
+    ]
+   },
+   "topic": "Tech"
   },
   {
    "id": "07c88dc760",
@@ -112,23 +149,6 @@
      "Russia",
      "United States"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "24be273269",
-   "title": "After Madhuri, Monica’s injuries bring focus on captive elephants in Kolhapur",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONHh5Q2RGandsQ0hUTi1UUnYwYllhNnoyeFh5WlZzMUtRcUZDeVIwTnZ0NDA2WTdQY052eWdfRzZlVXpxZUxWLURqcVZHNzVza1ZDUzQyYXFWWGJKSjJLR0ZkTHJReHl5QUtxWnBscGZwQl95WFNDZ0tqcXZDS19kVVNRaWVCRVZTUGNjNTFWQ3cxUnBmeU9ibUt6d3dxWVBGVEtycVFOLTA0RnNKZWZoV1JEaVhGd0d4S1E1dkM5MWJ3NFBrYlkyZERockpxMDJu0gHXAUFVX3lxTE5xdDNubHpQb2YzR0JWZ1FvODNDMlVNQW5NRV9acUFmQlRJUUNZZVBwd1N2VnVWUldBd3VGUUNGLWpBV1hFWnV2NFF3M2ZHS21WNmFMX2NTUFhJNkFKT3I2YzVlTW5Bd01HdXlTYnd1MHNBWEk1QnI3cHFrM1BYYXI2TUJRZ3hHZ2hPOFlKeGdBUmtjNjEzQ3U4LXVaRkpIbl9CZWVLZUdXUEgwQUROYkZUYW90Wm10QmtCQ0J1alFBMDN2c09wTS1SSDVGM2x1ZE0xOExDMjlN?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Indian Express",
-   "region": "IN",
-   "date": "2026-11-17T15:04:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
@@ -157,7 +177,7 @@
    "image": "",
    "source": "Cricbuzz",
    "region": "IN",
-   "date": "2026-11-17T14:48:45+00:00",
+   "date": "2026-11-17T14:52:30+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -239,6 +259,23 @@
    "topic": "Society"
   },
   {
+   "id": "5df8360b92",
+   "title": "New leak offers a first look at the iPhone 20 Pro's front glass - GSMArena.com news",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTdySWhTVVF2MXRkOTJ3c1pLcWMwQlVNdDNPeVNEanNfbFVwbFRRSGRyaHlLamwyXy1IUmY4Z0FSOFZoOUhnbmdmVkN5aWpiQkc4a3hZZTladTJaZ3B4NFZXaGtsWDZPaG9vQ1ZvakhQTEJWMHBBZ29VNmx6VzBHZlc0SVdEbmhETEw0VUdpTjNsaUFOQWxQUVBqTUMwcGRuV0FmRNIBoAFBVV95cUxObzFOWHIzMTBVem05Q0VLMndkQURpNWsyTzYwWk9LTXo4akEtTTRRUzVYeS1Fc2J1YWZvNHVLYXptYmlpMHI5OHJHYWY3SUpPUzlrd0RHR2QzczNuNVRpNHl0cE5rRDE2d1A0XzdBZS10MlMzMWdsV0tmdE50UnJuV2JZMmtvM2EwYWJZNktjLTlKc290Smg3a0FJMzV5OHcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GSMArena.com",
+   "region": "IN",
+   "date": "2026-11-17T13:26:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "f2a68498e5",
    "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR0FJbHZvdFBoTndtbkdRTEhNLVFkU0hUSHB2alpacEkwVTBXdm5HNll6TERuMmlJeGFUZU1kYjFkNlBsU2Vfa0owZ3QtT1R3cW9VS0JhRl83eWF4QkloTEFOS3NXNkZnQmk2b0g3ZGE0aVh0TmljOGdpOXgzcTJNdzJMaEMwQnZXM3YtakNZbUZkRU9YRUE0aTdIMGk3X1A1VXl0VGZZRjJuZE9SSDFEMDR0LXlNRUhQWnoxdVduLTRZOTJiOFJXMWFNR252U0J4WE53OWJRLV8tc3Rp0gHjAUFVX3lxTE8wOEJZRXhfZ0tTaVpucUNPZG9XMjRlOVFlWTc1U2lRalJjbWl0Q2ppZElma2NaTTJJcDdTWUpGdTA0RTdva0VmSC1ocWU5NzNjai1tVnNTRThPVGJyNXloSG9vQ3pyZzBIY3NEWThoazBiVnMxclVNTkg4OUNVTU1NQmVxd3VMSGZXWFhsYmNJWFFjQ1E0alNNNTRyTVVkN0loU3hLaUFjVHpKQTU1ZmZST3JsWmJDR3FiMmoweXMxM05uRlk4dHl6Y2RDV29GRXZJdTBCODVjTnFIVFNIZkxuSGZV?oc=5",
@@ -257,26 +294,6 @@
     ]
    },
    "topic": "Tech"
-  },
-  {
-   "id": "0421e5e377",
-   "title": "Watch: PM Modi picks up Tricolour from floor at Quad photo op; Trump reacts",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGFFMzF5eW1XelZWc2RkYmVQZlQ4VnJmQktPeS11azNaTndqRTlPaEtLSWM3UjAzbXNjQW9lMXVIQWFCVG5LTk1XdzlyQk1NQzlLTHdEUjdVbWNIZTc2Qkt6M21VYWI3b1FQOVBCcEE5MEJpdjI2aDdONG9tSlUweldoWE1DbXg4UjNLUjY5UXU1d1JHenF5TXBYUFV2aEJ5OWtfZzg2Q19wZHVjRkRFXzdQeFhvbjN3MmVJTlNzV0RVNTd1RlRjcnF1OVVLSHAtdTQzNHk2eUM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-17T12:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "790764132a",
@@ -313,6 +330,26 @@
    "topic": "Society"
   },
   {
+   "id": "0c64999a3e",
+   "title": "Palestine v India match descends into chaos: racism, kicking out and a temporary suspension",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbEZvdXgzOHJTMWNrclFFZlkyTUJWYW9SSWpRUXFkLXh5SG9XY1J4ODh2em5fVGlQeHVwVlN2eEpscGM1bjBLUHZFVGMzaWt0c0paMlZpYU1wUS1tZENKV1hJR2R0NnpjQzB0T081U25qY3hZRjlZU1NVVW9KWEhndndzNHgtMVhsV18wYUVaTVFHQ296Rkh6MzY1Qm8wYTMyODN4b1NsMDlGdFFSdGJBN29welFsODZ1c2E5ODlWMGRodS1idUFBNG16QW5oZWdaRnJsNW9oako?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "IN",
+   "date": "2026-11-17T11:27:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Palestine",
+    "place": "",
+    "flag": "🇵🇸 🇮🇳",
+    "also": [
+     "India"
+    ]
+   },
+   "topic": "Sports"
+  },
+  {
    "id": "3375d16998",
    "title": "Bangladesh police clash with garment workers amid protests over wages",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0V2TktyaVNPSks5MUpVX1lkRW1haU0zMWQwUWt2d1Z4X2JxQTVaeHNZYUVCdWdDUDV5TUh1WnM0UTRhUHZLYzdTQllRcmFiMmRPQkVRVEgwYmhKT0dpamwweGd4RVdhVDRma1o5OU1aLXJHVDNJanFLVWtnZTMyZElheVdrRFhDbnNfeFpraGxuT19LdUVfZWIzZmJiYmxYME90RFFYanNqWXlqaEZVYjBJVWxJZ9IBuwFBVV95cUxQWUtlVEEyZk5YeGtzaTY1YnRGdERaQ0VUclY1NGwxVjVTS3ltbVZJaWg1MG00OEdtRWUzcFFPVDJuVk5MQnhRandSVUxxVUxXVDVKSXBPeS03dlJjeFRXWlhMY1pZYndZZHBwN2FSOUxKYTRPbHVzU3FWZnJTUXA2dzB3dHNmNlBzTmx6aUZqZTgyc3RNNW5DVkRVeVV5Y0FxUkhDLVJxTFN5SzM3d3ZBYTJEcHpheC1ENDEw?oc=5",
@@ -347,21 +384,21 @@
    "topic": "Society"
   },
   {
-   "id": "1a85788b47",
-   "title": "ECI Says It Has Objections To INDIA Bloc Plea In Supreme Court To Serve Interrogatories Over SIR Decisions",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdFNaeFk2Yi1KMlhKZHFlN096VHF3MHNuNFFNNW1Kc0c3cUlRdlhBSkV3aVhpYTYyM3BjU0d3bXFVbl9lcXAtZEFFLTN4aEhyenV0WmM2c3ptWk16bFRCNDFoZnZhRkU5YjdaOERhaUNUc3VtRXY2VmJZNU9Tb3VmRWJxVHYzQl9mOE9qc2plX1ZUdVFQVnp5eUx6azNyUHJ0LXpFNkxtOVI2blBvOGxIUERaZXpGMWNiOElWZEQwOXljMnBTd3FCU1M3RnFkeVlfd01xZFcwTQ?oc=5",
+   "id": "11f3692690",
+   "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
    "summary": "",
    "image": "",
-   "source": "Live Law",
+   "source": "BusinessLine",
    "region": "IN",
-   "date": "2026-11-17T09:47:02+00:00",
+   "date": "2026-11-17T11:01:29+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "dd605d9c44",
@@ -379,6 +416,23 @@
     "flag": "🇮🇳"
    },
    "topic": "Society"
+  },
+  {
+   "id": "ae766b469f",
+   "title": "'Idiots who don't know science': Union minister Suresh Gopi slams critics of ethanol blending",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWFlvdWZaRnJ1Y3JORV94aHczZ3pmcmNNQmd5eUdUUzBnWDFGNmFOZ1ZJbUs4VUxQUDJoMXBpM3E1cjNFa2xESTFYWVdDVmFvNGxzckNheE55V0tOZkhFMDFCX0x4Z2JoNU5wZTF5MzJQeVZfRlJCNVhFTGpvQWtsZGhsdnNsUUtUSmQ2RmEza0NxQ2NkTW5wX01IdkctYUYxaFlqLTVtSUsxNm9OYlhTVURzaTZ0Z0tUTlVGcnRkYXRVZEF5S1dudVFGY18?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Deccan Herald",
+   "region": "IN",
+   "date": "2026-11-17T09:20:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Politics"
   },
   {
    "id": "324f1b0182",
@@ -466,23 +520,6 @@
    "topic": "Society"
   },
   {
-   "id": "79053a2bcb",
-   "title": "Anthropic’s big week",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFRkVE1YOE9DRHJYZWdrbUthRFdhVjAzYVVOTFNTVE5kQTdNdWJuWHJlMTdJTTUyNUhtZ1I1RHF6ODZwMFZrRzU2SGxudnh1SGJkSjA2Y1VDdHRBS09hRDJYRVFTS2lvclFhTlY5NjlteUl0X0VacU9nX2lrVHFVQXV6SnBfOXBBLVdBMWoyMWVhRjNrZWg0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Economist",
-   "region": "IN",
-   "date": "2026-11-17T04:11:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "fee684ccb3",
    "title": "Rahul Gandhi's \"She's A Friend Now\" Reply On Question About Girlfriend",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFZ4aXJsVGVLcVRWaUpJZ3RTZ2VFTnBnN3FnUWdsT212UzlnY3NIejM3S1o3ekt2SUc1Y2Z6UDg1NHYwbTlPTnBOVzlRNFBsT1V3WHR3MFpBbjNBUGhNUGRidWZzU0VCU1hpSDFlSFpSNExNRnV1SDVIMTVqN1NTekQwVENrekw4NERrMkZPaGJraHZ6ay16OUF0WDZFZkJOdlZqMFZhZjE3cDhnYUxaS2VCS2FzWVZmS3c5Ui1ZVnZMcjE5THNCVFd5ejR6MjNiSVY3SldUekdVdjE4aWI3RmJCcWxHenZ1?oc=5",
@@ -534,40 +571,6 @@
    "topic": "Society"
   },
   {
-   "id": "300dfd8471",
-   "title": "Robust inflows, pullback in shorts lift rupee to seven-month peak",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHBJMGZCZ09KMjBxNjl6NEZHS25KSmZKelZGX0M2TTl4MHMzdWRfNXlsRGo3Q1p4TWdVc0VGLWFKQ3RHOTFLaHhFWU5TVzhQVHlOM0REV0hEUUd1QXhaLURROUU0NlJBWDJEY2xNbnh2VzlsOC1IRUZpWExqOG95cVRTQU5FY1A4a0loZ1IwYTJjNFZqSHFIYUdxTlNuSHAyMFozeWpMWWxLSnl6cTlfcHp3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "IN",
-   "date": "2026-11-17T02:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Economy"
-  },
-  {
-   "id": "549ef6733a",
-   "title": "Trump says ‘would not mind’ Huang being reinstated at Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSG5wQlhweXg0aDZyX3htdEc4bUxYVGE3aVhuMi1Ha2JpUUIyV0ZQUEZUeEdabnhlV1BNYkt5eUZ0YlBoemFLdmpKM000czUzZ292NTVtZGU2Umg5VUZfTlpsenJxVVR6RUJSSnpwQzhib3B0dTNFY055cHdhdEhVQ2VFaWJ5YUQ2emRueXFadVN3YS1ieVBLNzV5akd6d0xvMmN0WmJtUjNSbTBqU0l5RjBXVDU2SHU0Y2p5Tk5VONIBxgFBVV95cUxNOHRPY3BWQWs5OTZ0MEVZYnRaSVJIT3hLWXd4OFZ4UmlYUWt1T1djYUZRTmtzRGhaaXJLajJvRHhoZlk2U3laMW9Ea3hkaXEta2haYmw0NEN2cnNWQ1I2akpJNElGeDJxbmozRzhXZ29hUGJDSk82RHN6WU9sYWtVekVnMmtnbmZPWjdxb081SWh1NWpsaEVvNmp3bnN5MWRORk50VTh0RjBmU2hld2ZweVVON3NTeEctX0VVUGZiOGR5aHlWQUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "IN",
-   "date": "2026-11-16T17:16:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "014d2b024c",
    "title": "Robert Pattinson is named the 7th James Bond, taking over the role from Daniel Craig",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbjdWS19oc0hOV25PcTdjVXN1SDdyd0hCcGh5VXhwYUNKS2kteUd1ekszSXpzZ0ZvbHNkWnhDVFZMaUl2WHFiVjhBM1hNWVVzS1pvUEkzVmhPeTVrRU0ydHRVeTQxX24yS2gyeEtKLVhMYjhvZHQ1dGJEWmh3LWhJVUg4eUJna1pXZ1ZiSnQ0aHo3SmZLRG9aYjVwV0dDNkItLS1jd3RKS3NzVXdlYWJrZjlNQnpDSlQybkoyb3hrVVU3OEwwLXBZYzRRY2E0ejRnd3JlYTU3REFmak42cUFON1Zzb9IB6gFBVV95cUxQbUhpZ05jVzNTU1BOWVRtbHdtbGxqVFllcUhGbkRsYldxWUdmT1UyejRUSWVsaUo0UjBWa0tWWG1zWXpCWUNTUXZ6S2lXT05KSDdid3lQMFhLMlV6VHNTOWx1b0JSRUM2M2o3NGdFeHdVUFNUdG1RMldXZWoybUtuYjJ2ZDRnWEo0WlgtT2hWa0wxWU9HendTS3JXR08zc2lYY0ZwVHp0bHRpWEVaLXBTOUJnRFF1THI3Tnh0MEhhWFh1Ri1ta3RWRFA5QWdEVEpYWGZwUTRMeDRQX1IxaHJERWhsS0VjaFlrRFE?oc=5",
@@ -602,23 +605,6 @@
    "topic": "Business"
   },
   {
-   "id": "eada15cd58",
-   "title": "iPhone 17 Pro gets cheaper on Amazon",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbURVTWJHZDFaQ1BVWFdNSUNINDhvSHhBakMwQTQ0RXpnd2FTRnhvMXJzLXVPamNpeS1PU0V6cEVoN1c0ekNFeEtZMkRHOWozVktKa2l2aldoWk5LZWpqVUdPRlduZWRVUnV6WlhKUGplRDFpWG9PckdQeGUyeUdWZTB6SWJyRVc2TFVfaDl2akVTT1dvYmxGUTdxcXlDdTZhOFFTVGxaNzHSAagBQVVfeXFMTW1EVU1iR2QxWkNQVVhXTUlDSDQ4b0h4QWpDMEE0NEV6Z3dhU0Z4bzFycy11T2pjaXktT1NFenBFaDdXNHpDRXhLWTJERzlqM1ZLSmtpdmpXaFpOS2VqalVHT0ZXbmVkVVJ1elpYSlBqZUQxaVhvT3JHUHhlMnlHVmUweklickVXNkxVX2g5dmpFU09Xb2JsRlE3cXF5Q3U2YThRU1RsWjcx?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "India Today",
-   "region": "IN",
-   "date": "2026-11-16T14:37:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "eca965ace1",
    "title": "Priyanka Gandhi To Lead Seat Talks With Akhilesh Yadav's Party For UP Polls: Sources",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjJpYktYN21kV1FKSkZoQzB4RmVKZ3JFZVBNeHBvUUtDcDZMNWsydTFIcEN2VmpaUTN0YjdkRUVLaFZYTTlmMGYwMk9QN3dCOTlYSmRMYkFOU2ZpbG5tNndBN3EtcnRsaXFiNEZTZVBxS09MUEdGOGYzTGVvNDRhMDlyTUZyNlhtSVItNC1NN1MyV3FjQ1E4TFBkS1NVVzNKOHBNWWhGazN4V2hXYk1sRHo2TENVWUJzVS1Eak1mLXI?oc=5",
@@ -634,6 +620,23 @@
     "flag": "🇮🇳"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "6ac12b717d",
+   "title": "Alopecia Areata White Hair Growth Occurs Without Follicular Cycling",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhc0FpODd1eVpYMEExX1VsTkp1blV5T0NiX2dXM05KSlVwVmxaV0h5UzBKU1I3YmJOV2VYR25pcXZGUzY0WVZwMGdDRGF4MmdFU3dRbTI3cmNnQzN6R0pubjJod1k5c0FSUjhRcmVpTlphVk8tdnhMQkE0T0RmVW1QTU9ULXNFb2N0RWJDTlp0LW83endXeGZzX0liWGZtbnREdElZdE9mOWc5akt5cUJ3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EMJ",
+   "region": "IN",
+   "date": "2026-11-16T12:04:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
   },
   {
    "id": "3f79239f9a",
