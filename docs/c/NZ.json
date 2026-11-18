@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-18T09:03:25.005529+00:00",
+ "updated": "2026-11-18T10:18:13.169153+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
+  {
+   "id": "42fa4a2afc",
+   "title": "'Thunderstorms sparking up' in upper North Island",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdzV1R1EwQktUeHRLcUdwZ3JDUWVLTWFHd2JOVnExTjB2VEJOZk9kVUVHRVA4cXFRUHE5UXBkcGt2YUdiYWdwQmMxNlpScTRGQVA5WWIwaXRaRXhiVFpBSGs1UU9Rd0ZuUEc3OG5QUkJ0ZWtOclI5amEwU2cxempzYTYzTVdfeXpSZmV3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-18T09:43:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
   {
    "id": "fc57ac6f56",
    "title": "Cyclone Xavier at category 5 as it batters northern Cook Islands",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "1News",
    "region": "NZ",
-   "date": "2026-11-18T09:04:01+00:00",
+   "date": "2026-11-18T09:27:01+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -21,21 +38,21 @@
    "topic": "Weather"
   },
   {
-   "id": "8f75c5c524",
-   "title": "Labour calls for ‘cross-party consensus’ on RNZ crisis, citing caretaker convention",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUTd1UmNXQkpkY2RSWHAxMnpyU0tMS2M3dWFWRnU4UlVUV3pXaE9ZbHBFUzNSdXJ6dG1wVlZuS3VybVRldmJJdVRJOTF3ZC1GbWI1MnBXNmw0eElEMndrQXBwSFQzQmFCaDE0ZUZJLW5FTHR6ZmJfVC1qOVl5bDVmRndnRXo5bW5LT19sajUyY0ZHc0tqZ2RCSVFRNHBFS0NqSEVmUUo0X0tqSnk1bWZ4OFRuX05YTWVWSHh3aXdvdVA5aW1sdzNpRnhwYVYybldDVTlfX1I1azZpa3lWd1dHTA?oc=5",
+   "id": "0acf37a7c5",
+   "title": "Inter BEE 2026 Opens in Japan: AI Conference Cameras Showcase the Frontline of \"Labor-Saving Filming\"",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtaVJuMHlqaXIwOFI2RC03Rkw4WmJtQzkxSnNXbHhRd1RvVUxqYUM4TWFEOVh5LXh4dTA4NWhrSWZ0SUlEVlozMEVYTW1PNUhxNWFhTHBfWGdndXZ6Q2J6LWxHb2FoaWE1NzRzN2wyTDE4RWJIZmc?oc=5",
    "summary": "",
    "image": "",
-   "source": "NZ Herald",
+   "source": "BigGo Finance",
    "region": "NZ",
-   "date": "2026-11-18T08:27:12+00:00",
+   "date": "2026-11-18T08:06:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "New Zealand",
+    "country": "Japan",
     "place": "",
-    "flag": "🇳🇿"
+    "flag": "🇯🇵"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "f7a5de8b25",
@@ -55,40 +72,6 @@
    "topic": "Society"
   },
   {
-   "id": "d1c8ec3620",
-   "title": "'Appalling': Albanese panned for Russian minister photo",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUY0R0lhVldqeThyV01LcExhcGZrZmNmWlp0Q0hjNWRsLTQ1b2dHeVR3OFl1UUVNRmkzNE5QaVFDeFk3QWxZamROaUVGbGFMR1lxSksycm5oeHdNcGp3YUhwN0pXVzNYdVZoLTFSbkZodUJfeUx1elItZWFCSTJCRVNpbzFjN1ZZUHJEWm1rTzBadw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-18T07:27:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "446e9857be",
-   "title": "Power restored after outage leaves 5000 in Dargaville without electricity",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFFLcmNQc2p2NENlYWxFb1B3X3N3aC1pUXh1VWlxZ0NVTW5HUGlLSThzdW9xMVY1SElxM3NzUHdWV3NBdm9wdkg2aXNPdWtIRzh6ZXFSeHFwZVNFQzJvWnMzOW4zOHlxdnRNSVplR1psUTFXYkg5YTZuVDkwMHMtdVZwd2NXN2ljQ0dOR0RWN2hLNkNpdER1NzV6TWJSc0VXYW05by05Q2oyNk5fakdEX3NyLU80eFpRVWRNcW9DUnJDaVNIZGNqTVBDc3JQeTBqanVOLXBPTDVNOHJYQ0M4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-18T07:18:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "89e660e3ac",
    "title": "'You mustn't tell anyone': Russell Brand's childhood abuse account",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZmRaQlo5TnplS0dEWXRNTUtxdnBodlExWXpQdnFtRGhkRDV0VUk4ck0tY3JUdkJQcXJzNjlMVXJkV0QtMllGZzhJQjI2OThaRlFUaEFzNTU4X0pjcmR4NkVsUkpROWozSGNfMHBBOHNkV094X1JraW9wY0ZGSVVMUVQyYncwM0x6X1I5bmFfQVZxbUpmM0lqeExjaXd3c1ZiS2ZzRS1ObktOVW1tcmhTeHhhUFAtQ1NybUZuWFprU2lLRzFDTlRFUWNlVDVZWWczS2ZwNVhKVFFBWnFp?oc=5",
@@ -106,21 +89,21 @@
    "topic": "Society"
   },
   {
-   "id": "630f8801ed",
-   "title": "GTA 6: How to beat the download rush – and why gamers abroad envy Kiwis",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2dPV25hZWNoVklFNEJYcWhlczJSVF8tTlFPLXhmblpZLVpmV1VSVW56NkQ5eGd1X1dBcFF6WkdSVURxY1Z0em1NWmJycjZ2SHRabjE2dk1iN0g5Y3E2SmpZQkQ4Q2FyR1hfYl9VbzBIcGhBZEtKVzg3SVhVbTJBOFMyTWJ6VDV4TU9OaFNuRDBEcHZVeE1Xd25UVkZNaU5QLTA4NXpocw?oc=5",
+   "id": "d1c8ec3620",
+   "title": "'Appalling': Albanese panned for Russian minister photo",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUY0R0lhVldqeThyV01LcExhcGZrZmNmWlp0Q0hjNWRsLTQ1b2dHeVR3OFl1UUVNRmkzNE5QaVFDeFk3QWxZamROaUVGbGFMR1lxSksycm5oeHdNcGp3YUhwN0pXVzNYdVZoLTFSbkZodUJfeUx1elItZWFCSTJCRVNpbzFjN1ZZUHJEWm1rTzBadw?oc=5",
    "summary": "",
    "image": "",
    "source": "1News",
    "region": "NZ",
-   "date": "2026-11-18T06:32:47+00:00",
+   "date": "2026-11-18T06:49:37+00:00",
    "coverage": 1,
    "location": {
-    "country": "New Zealand",
+    "country": "Russia",
     "place": "",
-    "flag": "🇳🇿"
+    "flag": "🇷🇺"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "697bd7a6d0",
@@ -160,14 +143,14 @@
    "topic": "Society"
   },
   {
-   "id": "aff84ba659",
-   "title": "New Zealand 'trying to be a little bit fluid' with fast bowlers' workloads",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ1ZGMHdzeF9Uakx4SzRqeWRDNWZyTko0V29yTGR6YTBESWE0Qy16b3pJU0s3bEJiaENpaEZpdFlLWUlXakl4Y1VhN3ZwR2JCTy1aZ2M4TWlhZ1NrTkhvOFhoSkVQWjJuMXFQZkFrYzhWcG9yUlh2YXIyS2hocHhfMDVTTi14OWVEd3YyQTdEblZDcUFvOURvaFF2cExLZ05FLUV1UUs5SERtaUhWeVl2bFd0WDVFUVVlajIxbVFZNVhhR0VtN0xiVW5fOTdHSHFsTGtudmJtMkdyRVFmU2ExN090MNIB9AFBVV95cUxNUHhnNHpMZE1NOTVTWUVwLVNud2kxSmZ1M0pfUzV6MjZEWFdaemxfQVc2YnB0cHJiNkZRUDRfbDNqVjJzUGc0dkxiWGg3R3phWkJBaDdkSkFzWk9QNmhWNEZDR0J5WTM2T21pQ2FNNzFvVTVMZjc1UFVEalZ6ajdJaU8yaERBSG9jMUNONFV5V3Bxak90M0NOTmFITDc5b3MzZndIdnBFVFM2MU4ybC0wVXRyRnd2T3F3MVljQmloMzFQaUZPb2NaSzY2SzlILTdnZ0N6RGk2ZHlBNmtiNHd3dkQ5RUZ0OGhpT3NacHVkY3o4TXhP?oc=5",
+   "id": "b4deab43dc",
+   "title": "Autism expert condemns school over boy allegedly forced to empty clogged toilet bare-handed",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdWZMcTZwbHVEM2UxenYxVUFYbFozVi15d19SUUdvMDl5RVJ4S2swOGg2dXVVNDF6bUhFM2R1YVhrd2JBV3pBMG1rc0VncmFzWENyR194VTNiMFAtblQza1ZwUEVFeUtUUmpGbnFtMlU3ZWdPUkV5Q0Yxc3NhR2dEN1AzanJXR1UwQ25iaU9Vb3puelVzN0N1QjUwY2VmS3FMZkJNSkpwRy01UXB1RWpwSU8tZkw2eEVoUXNJdDVuOXJzY29Hd3JWWTVoc1Y0Y3FVWFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Cricinfo",
+   "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-18T06:15:00+00:00",
+   "date": "2026-11-18T06:18:16+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -177,14 +160,14 @@
    "topic": "Society"
   },
   {
-   "id": "e2848e5e73",
-   "title": "Tsunami threat passes for North Island’s East Coast but source of activity still unknown",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVg1QnRKOUMxck5nNmRubjZxelVsY3hxcVRFWUtJcjRvNUNGRlR0Y1oxQ0JEaVBmZWNYYmhHSFdzcFZvekx2QXA4ZkpJekptM09nSlNkNUg4OE1na3JRSE0yVGJ0MW9VU3NmMm9SLWJBaGE2cDhpN3hTdS1WdmxQRFcxNEJQNTY1aW5BS0NUVEF0anpWQXYzazVSZ01zZ2Q4YXVmTThnRkpkbFlXZjc4eg?oc=5",
+   "id": "aff84ba659",
+   "title": "New Zealand 'trying to be a little bit fluid' with fast bowlers' workloads",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ1ZGMHdzeF9Uakx4SzRqeWRDNWZyTko0V29yTGR6YTBESWE0Qy16b3pJU0s3bEJiaENpaEZpdFlLWUlXakl4Y1VhN3ZwR2JCTy1aZ2M4TWlhZ1NrTkhvOFhoSkVQWjJuMXFQZkFrYzhWcG9yUlh2YXIyS2hocHhfMDVTTi14OWVEd3YyQTdEblZDcUFvOURvaFF2cExLZ05FLUV1UUs5SERtaUhWeVl2bFd0WDVFUVVlajIxbVFZNVhhR0VtN0xiVW5fOTdHSHFsTGtudmJtMkdyRVFmU2ExN090MNIB9AFBVV95cUxNUHhnNHpMZE1NOTVTWUVwLVNud2kxSmZ1M0pfUzV6MjZEWFdaemxfQVc2YnB0cHJiNkZRUDRfbDNqVjJzUGc0dkxiWGg3R3phWkJBaDdkSkFzWk9QNmhWNEZDR0J5WTM2T21pQ2FNNzFvVTVMZjc1UFVEalZ6ajdJaU8yaERBSG9jMUNONFV5V3Bxak90M0NOTmFITDc5b3MzZndIdnBFVFM2MU4ybC0wVXRyRnd2T3F3MVljQmloMzFQaUZPb2NaSzY2SzlILTdnZ0N6RGk2ZHlBNmtiNHd3dkQ5RUZ0OGhpT3NacHVkY3o4TXhP?oc=5",
    "summary": "",
    "image": "",
-   "source": "NZ Herald",
+   "source": "Cricinfo",
    "region": "NZ",
-   "date": "2026-11-18T05:50:44+00:00",
+   "date": "2026-11-18T06:15:00+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -211,6 +194,23 @@
    "topic": "Society"
   },
   {
+   "id": "cdca18d46c",
+   "title": "NZ designer creates fine jewellery for pets, with pieces up to $2200",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbTlwUWtlQ3llWkVCV3FsNlJaZHhKVUFoN1VmNkx6bVVmVWF3NzJYT2VvRmw3WDl0dGhpcWdncC0teWQyN1o3QlRCM3NDdVJnWnNFUUk4b2Y5NGYtTDJzOWZhbzVxUE1xYjAwV2RjdzhLU01ta0FuWFh0TjFseTU2Q2ZaVjhlMWxOcVhPSzE5YzdhdFRsNEJOVnVCZHhPVEk0aWhmNUpfX0pNTjB6VnBQdFB4SUpiM1hsZEdRY0JVUnJGalZtb2hGaUZrV0NtV0hBWmE4a2MtRmx0Z1FWeEVKLUtaWG4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-18T05:06:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "6465d9ce98",
    "title": "Three teens caught after allegedly stolen car crashes on busy city street",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHZUVDlVTTd4aTR5aEhvVklpeGFCWno2Vjh2c0h0engwekJ2azF2d21mSWFoX3kzNWRwUDVfaHV2TG52U2FXLWUwVC1VLXRCN1Q4UWwwLUx0RllDZ1p2bjJkRFF2UW1YSDJneHNKVUJTb0xYci1mejZzVVRHZTZjM0pkOEFfQU9wTU8wbEx4dHNJVlZ3Qlg0dFBDeUtmZHpqTW5OZGU2V2pTUE1ZVHFVcXhVNWdncGJyYlNseG1ObnVtTXh2QVo0UWhGcw?oc=5",
@@ -228,55 +228,21 @@
    "topic": "Society"
   },
   {
-   "id": "994ca69d01",
-   "title": "Election: How the official vote count is tracking",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0F3YTZxdHFidkJTUjdoMkVSd0hHZWx0NnZpcVRQR3NKNzNhOFpSbFp2dDFhVHY3SUZrRFJpMW9oUXlpODNpVy1YMzBwQ0lDN19JV1VrZjRUVjFUdHlUTE9yRFhYb0NmcEFPQ2lLY1Z5MXVvSTlsVGtlTFJyb2ZZaFk0VzZFRUtFTXF3M1E5UFIzRFhmWTZN?oc=5",
+   "id": "882a708bf4",
+   "title": "One NZ earnings: Telco delivers $324m for Infratil",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVVhYUERyY2YxUWRvdm0tWWdlTHVvS0t6cXc1NTFVeDBSUlhtMEJheUJUTm12bW1VUGw0eU5SVElBNTVYR3NQOXNKaWhfODNyMXRHOU5TZFNoUjRTenY0dW5MTFZuZ09ualJ3TUpSRnVYMURrNTBCbC1PUHJuREstbVVlYkdYdDdoejVNaGp6Y2dwMjJ2NndMbHdDdXNYaEMyU0pmaFJjTE8xWWd2dTVkT1FMYVdmNDRVTFRubkZnNXN1Yk1KNmhMUTlEeDVBMzJqYm5aUnpsM2l4dVN1VERmV2JoZHREUVAteXhBdmRSOWtvUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "RNZ",
+   "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-18T03:44:18+00:00",
+   "date": "2026-11-18T04:25:59+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Politics"
-  },
-  {
-   "id": "e4786642ee",
-   "title": "The true story of the time a whole continent quit the Olympics – because NZ was there",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVNFSDdyclE5d1h2S2s4cHBORHlQY195dnBDNTBHbE5VWVhLVGdSYlV5cEtqNFlSVzYxbW9Gc0xzRXZ0S3p1THZqcGlPa2xtTmFRUzB1WUNTS2w3OGxoU0lxR2wzQUpuM3BLaGFnMjRoM0FxTkRCN2RJRS1Pb2NXR1NnUXZrdkM3T3VjUGdlM0R5TDVmaTVrSHFqVEtreDZUdTRBM3JuWDhLVzNMZ3ptbW1WRVZ3SGpOTk0xMFJ5dXo3eTNkbVRn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Spinoff",
-   "region": "NZ",
-   "date": "2026-11-18T03:14:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "a37248ebbd",
-   "title": "Cricket Australia to establish ‘sandpaper forum’ as Khawaja book fall out continues",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSm93UzhPMnN5LWR0bC1va0EzVTZ3N1pXaENNcmpvZ181LU03RlpLbHJLX0hVQ3pULWVsTUFVR2R4S2F3RWYzS0g5aGhKemJyQUc4ZkYzY2ZkMGJENVZUbVhNYzFBUGd6cl81dFRMMnRfTnZjNy1mTGw4X09DZktMNnFzaGc4Rmc3b3dkRU4tcUxpNlRNdTJkOF9wcDZOMDFJLTg3QXRFXzMxT0F0TnJmQzhvQWJrQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-18T02:58:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Sports"
+   "topic": "Society"
   },
   {
    "id": "2eca34203a",
@@ -311,6 +277,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Sports"
+  },
+  {
+   "id": "22b1a30a06",
+   "title": "Big four banks join forces to combat scams and fraud",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTZRVk1OQTAyZDRsSlhhOXdpaTctM1VNVHlLMG1ycUJzWHQ3eHIteEZkMzRHekx2cWVrSV9pWWVXLTJ6NVlqNU1GS3JUb0xGbk15Wjk3djBnSFR1VGRUUkN5UGM2a2JGOWltQWtYUXE4S2pHQm9sSUNmRGpLZUd0eFBpemJ4MGgxTV9vby03eWxjVkJSdE9XYzBRQ3M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-18T02:01:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
   },
   {
    "id": "704139b0f9",
@@ -364,14 +347,31 @@
    "topic": "Society"
   },
   {
-   "id": "e7e2f037f1",
-   "title": "Code of conduct complaints laid against Nelson mayor Nick Smith | The Press",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTZybGdfdlMwZk9DbDd1RWFQemxORkt6WkVhWUxaeUUtTDNjdmhQWnBnNldGc2JmT2RBalBXOHB0TXd5cHhhNzlCd3RlMmxBM0ZlZHppcVlvbjB6cWw0NnA3SzkwQ05fRU0yTkJTc00za1Ntdi1RdHpnQW1DdHpJR1laLTVwaC1xdjVQbkYwcGZRYkk1SzBOcnE1S0xyamVmNjFwYXJMRHY?oc=5",
+   "id": "630f8801ed",
+   "title": "GTA 6: How to beat the download rush – and why gamers abroad envy Kiwis",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2dPV25hZWNoVklFNEJYcWhlczJSVF8tTlFPLXhmblpZLVpmV1VSVW56NkQ5eGd1X1dBcFF6WkdSVURxY1Z0em1NWmJycjZ2SHRabjE2dk1iN0g5Y3E2SmpZQkQ4Q2FyR1hfYl9VbzBIcGhBZEtKVzg3SVhVbTJBOFMyTWJ6VDV4TU9OaFNuRDBEcHZVeE1Xd25UVkZNaU5QLTA4NXpocw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Press",
+   "source": "1News",
    "region": "NZ",
-   "date": "2026-11-17T23:59:01+00:00",
+   "date": "2026-11-18T00:21:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5e5b9b2001",
+   "title": "RNZ's job cuts to cost $2.5m, staff face news of cuts within days",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2JVOVVYUnlEbzhwVHM5RlVCdzZXUnBCQ0dEWVMtMGlRcHhabVlZeWpfX3B3c1VRX1llb0JaTjlSalJ1cm93azBqRURJSlg3ZVpPd195NTZvajlYREMwRTZaT3owamlaQkVEdW1ydW8yOXJCRFpmR1ZnVTBhY3RwcTJiZUdCTnJJSlhPNmNhRmpTZmlEby1NTTJONXV1QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-17T23:45:59+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -457,6 +457,23 @@
    "source": "NZ Herald",
    "region": "NZ",
    "date": "2026-11-17T19:54:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f34ab556ac",
+   "title": "'Gaming the system' risk: Electoral experts, former PM suggest MMP changes",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMzFUSHk4NVVWNTVvSlZtTnZETnZmLWhucWZ4T19IVGFlN0RKa21BYkFMWEp5ZlBuQXlXTGFuV0w4RFB5VV9uTGotWkJLT21IUkdNak5SWEs3dUJBTWZkb0puREJBQXF4blR3TF8wUWRMWTlYNDJDMmdKc2FvVWZFVy01LV9aLTdDSEx2SzN1SEtwaU5DRnlKaXozRno0WVRfV042Y2RTeXgyc0pkV2I4OGl5MU1tTzlwcmRHeGRtb2tiMDFkcWtvaXE5ekVZcDdSVkt3SDZYZFhJVmJhRDNxNnpNdEhuVDdfRWdlMWtHd1U3ZXZ2M0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-17T18:09:48+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -568,21 +585,21 @@
    "topic": "Society"
   },
   {
-   "id": "adf90242c8",
-   "title": "Should there be AI in our healthcare? Stuff spoke with the experts",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZklaTGg2VXE2MXRfV0twSUk3SldyTjZEZkhuSE1fNXZCZC1sem1VYnY5cEpFbVBQTjNNQjlUdDVIVGZPR2JwSW1mYUV5UmpZdTAyV1N3V1Foa3lBemtlaDZ2dFVxaXBMcUNQT3N0ZjVYSTR3Zk1mdDlFS2lpbVZ5X2lnemtQeXI3SFA1VE9pMldHZXM5ZkhaMlhR?oc=5",
+   "id": "da90fe0f55",
+   "title": "Hay fever is bad right now, but is it worse than usual?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUNqTUFqVV8wQ2szV2ZyME01NG5lRml6ODhFUGFNdktBU2h2NkhHZnRERlJWYXZieVNCRDRmY3B4enVTREhTaWRLeTV4OVRBNnlET0E0RzR4d0g4X3ZhUFliWGFYdWhUd2FldUFQYXFwa1N0bGVtWF9ZdkVCenJEVXNSeEtYR2ZGanFFRVlfVkV4OVBfdi1IRzg2dTl1UQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Stuff",
+   "source": "The Spinoff",
    "region": "NZ",
-   "date": "2026-11-16T15:00:00+00:00",
+   "date": "2026-11-16T23:06:27+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Health"
+   "topic": "Society"
   }
  ]
 }
