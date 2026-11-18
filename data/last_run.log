@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 35/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 36/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 91 stories
+OK   Ada Derana: 85 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
+OK   EconomyNext: 21 stories
 OK   Daily Mirror: 100 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 26 stories
 OK   Daily News: 85 stories
-OK   Sunday Times: 2 stories
+OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 20 stories
-OK   Google Top Stories World: 61 stories
+OK   Google Top Stories World: 62 stories
 OK   BBC World: 26 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,54 +23,92 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone Akvan update: Andhra Pradesh landfall (8 outlets) | ‘Zero’ evidence that recent cascade of tech o (7 outlets) | Russian military plane crashes, killing all 1 (7 outlets) | Cyclone Akvan: Andhra On High Alert, Odisha T (7 outlets) | Live Updates: Xi and Putin Meet Ahead of Trum (6 outlets)
+Biggest stories right now: Cyclone Akvan Likely to Become Very Severe Cy (10 outlets) | ‘Zero’ evidence that recent cascade of tech o (7 outlets) | Nvidia board says it does not intend to reins (7 outlets) | Cyclone Akvan: Heavy to very heavy rainfall l (7 outlets) | Russian military transport aircraft crashes i (6 outlets)
 
-8 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [2 outlets]: Ven. Rajangane Saddharathana arrested
-    important (also on Ada Derana) - researching
+* Hiru News [3 outlets]: 15-year-old Knuckles incident victim to receive monthly financial aid 
+    important (also on Ada Derana, Daily Mirror) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Sunday Times [1 outlets]: Met Department warns fishermen not to venture to deep-sea areas
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [3 outlets]: Navy seizes over 4kg of gold in two separate sea operations
+    important (also on Hiru News, Newswire) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 failed: AI did not reply with JSON: ''
+    gemini failed (The read operation timed out)
+    attempt 1 rejected: the number 25,28 is not in the article; the number 40,50 is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 2 failed: AI did not reply with JSON: '{"all_supported": false, "problems": ["\\"place\\" field in CARDS is \\"Anuradhapura\\", but the ARTICLE only mentions \\"Anuradhapura\\" (without the \\"c\\" after \\"r\\")? Actually the article says \\"Anuradh'
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 rejected: The 'spoken' section includes the claim 'This action helps prevent illegal smuggling activities across the sea,' which is not stated in the article.
     -> no cards; posting with the site's own summary
-* Hiru News [1 outlets]: “Kawanthissa and Other Elephants Killed by Firearms,” President’s Coun
+* Newswire [4 outlets]: Shashi Weerawansa faces two years in prison as Supreme Court dismisses
+    important (also on Daily Mirror, Daily News, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Spoken includes 'in Sri Lanka', which is not in the article.; Spoken uses 'rejected' instead of 'dismissed'.
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 rejected: Card states the Supreme Court dismissed the appeal on May 18, but the article only says 'today (18)' and does not specify May 18.
+    -> no cards; posting with the site's own summary
+* Newswire [4 outlets]: Court of Appeal upholds four-year prison sentence against Ven. Gnanasa
     no AI summary: saving the rest of today for important news
-* The Economic Times [2 outlets]: Akvan cyclone update: Check latest position, movement, intensity and l
+* BBC World [3 outlets]: Philippines police ask prosecutors to charge Thomas Markle over child 
     no AI summary: saving the rest of today for important news
-* The Guardian [3 outlets]: Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picki
-    no AI summary: saving the rest of today for important news
-* Ada Derana [3 outlets]: Cambridge Dictionary chooses 'human' as word of the year in response t
-    no AI summary: saving the rest of today for important news
-* Newsfirst [3 outlets]: Fort Magistrate Orders The Release of Sugeeshwara Bandara on Bail
-    no AI summary: saving the rest of today for important news
-* The Guardian [5 outlets]: Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats
-    no AI summary: saving the rest of today for important news
-* The New York Times [6 outlets]: Live Updates: Xi and Putin Meet Ahead of Trump’s Arrival in China
+* Al Jazeera [3 outlets]: Photos: India defeat Pakistan to win SAFF Championship in Bangladesh
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 9 too small to look sharp, using the clean cover
+  photos: looked up 24, found 0
+  photos: 8 too small to look sharp, using the clean cover
 numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+  meaning check failed (no AI available for checkers (last error: AI error 429: {"error":{"message":"Rat)
+
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 25 story pages for Google)
+
+Countries: IN 38, PK 33, BD 35, US 35, GB 36, IE 32, CA 37, AU 38, NZ 34, SG 37, MY 35, PH 36, AE 35, IL 33, NG 33, KE 30, ZA 37, GH 33, FR 34, DE 34, JP 8, IT 33, ES 34, BR 33
