@@ -1,8 +1,29 @@
 {
- "updated": "2026-11-18T02:16:41.526829+00:00",
+ "updated": "2026-11-18T03:23:55.386198+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
+  {
+   "id": "8d15cb1307",
+   "title": "Putin arrives in China ahead of highly anticipated meeting with Trump and Xi",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rQWtyMlFDaUE4QlFvdTFzUDBPU1ZQdm0zbjM2MTZVSGlEM0pyTkRjb2J2QWhMVnh3dUNLV3MwUGQyRXRZb2lpNXNSaUk1REt1M2xyM05n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-18T03:16:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇨🇳 🇺🇸",
+    "also": [
+     "China",
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "f70e9ed871",
    "title": "Wales 2-3 Portugal: Craig Bellamy's side lose final Nations League Group A4 match as Pedro Neto sent off",
@@ -11,7 +32,7 @@
    "image": "",
    "source": "Sky Sports",
    "region": "GB",
-   "date": "2026-11-18T02:18:06+00:00",
+   "date": "2026-11-18T02:30:22+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -22,6 +43,77 @@
     ]
    },
    "topic": "Sports"
+  },
+  {
+   "id": "bdc13284ae",
+   "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmwweVVNNGxibWplYWRqN3FyS1A0MWM5OFRhTTlOR2F0MnM5aDNOOUFOeGhJSGpqc0t0TzBjcF9BaWxfZnpMQkhHeWxMeXJ1S3cxMkZVZGFyS21FXzRHVjhBaDZjZTd0R2NxaTY1aW5JOUVJTlJjalRGTmIzNGdnZ2xzc1EyZU5WNm5McF80Y2tPWkI3SlFQTVpWeE1MMVpVRFRsUTl0MA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-18T02:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a0fbf0260f",
+   "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWtsV3FST2w5b01sY1VVbEtYZGF1MGZlUFpSYnpkY28tQ2tvMnBJX0VweDdYdl90dEdhRlVtVXdpb2U4Q3V1LU1QSXFpVEd0MkNyLUJPelJTQXAycmhhUGpSN2JXOGdKTXVwM0d0ZFUwTVpkeXRPVndIeE9JT2pjWkpfMnJnUjVEamtxRUotdzBPR19RSFFiUXdCRFdVLUltRVdLTU5zZl9nSndkRjU2WWZtMzk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-18T02:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4e1eee4c68",
+   "title": "Nvidia releases first results since Jensen Huang's resignation",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3VWRlpJTUJnSVplSmp1QmQyQmRBWmFSZElyeGI0dnJ1T0RtLVJjdGFhZmpURXROS1pBQTVqcWQ1OTRoaGx3QTJOMFhGVzVpTVRSUXdRc2hqR3pXSlV5RWdJQzhWV0x2b0F2dFk3M2luZi1CanBpRFNxZm1wVFllVElBZEhNYjM1cEpSNVVKV29weElHX283OGtjMVVPWDFPYW9jZm0yY29aN3MzRDhNX19lYWpHVkl5UVB6Rjh5M1kxX3RIT3JXdUtpRlg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-18T02:18:19+00:00",
+   "coverage": 2,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "d8b7d5c977",
+   "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemhQejJUdmR0c0daNndYVWJKQ09COVVPaC1ERW9TeFlXUHhOa3hQbDVnMkdSei02NEI1TW9Dc0JuN0hLbUVRTnlpY0tSWmRxSENDVUVyQjZrMU4wMk54YWpPSEI4T2lpU3ZHZUw1akNRczFUREVpUUtKX2pfa2dwdy0tSWpNUUpCYUhTWmUtalZ4QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-18T02:13:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "4d8a2cf914",
@@ -41,6 +133,40 @@
    "topic": "Health"
   },
   {
+   "id": "e6d82962c2",
+   "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZGs3MllxdGpKUVg4alRGZEZSMzdKWmJ4LXdaUHhveE1GNDA2XzFjaVR2RU5WZXFBaWtibXJGdDlxbkpzVlVGTHhtR0txU21FQ19fdWFmRmo1ZXp5ZHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-18T00:39:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8d7c1a0fda",
+   "title": "David & Victoria Beckham proudly join son Romeo at debut movie premiere",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUlTS09iY1dBandFckVwTEJrZVZCVVh6dG5RTHpXNi1UU1NEb2xSaGQ2dkQ5VGNEZkM1MWFPd0Q1Nno0eUlpSDlPbHItZURfQmJCLXRkZWtHV19rQ0ZqTmI1cm9EdDl3OHVtZkxiMEw4UlNjT1lHVlJXUU1WSW1rMFBkMXNQclpRVEJpVU9Bbzh6TjRjSlNSXzl6OFZhMnNU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Sun",
+   "region": "GB",
+   "date": "2026-11-18T00:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Entertainment"
+  },
+  {
    "id": "d475ac5a88",
    "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns | Youth unemployment",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelF6bGhGN0VZQURPVWJjOUUtT0dBVHR4czUxYzh6cHRnUHN6SWR5MzlmUzdHM3BrdGZiZ3M3U1RqaHBaNWRWSU9TbmNReTQ2Q1NGSl96UW5va2ozY3hiQTdMbGRXSmFRYi00MkpEWmpfTzFaQWw2V2Rud2llZzl2Mjg1VHdxTUhVOU9DOU13ZzljQ0hoTFA1NTEyQlBadkEtbEMybEs2Y3NjcFlwNktmQTlB?oc=5",
@@ -56,40 +182,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Economy"
-  },
-  {
-   "id": "4e1eee4c68",
-   "title": "Nvidia confirms Jensen Huang won't be returning as CEO after he said he'd be 'honoured' to come back",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3VWRlpJTUJnSVplSmp1QmQyQmRBWmFSZElyeGI0dnJ1T0RtLVJjdGFhZmpURXROS1pBQTVqcWQ1OTRoaGx3QTJOMFhGVzVpTVRSUXdRc2hqR3pXSlV5RWdJQzhWV0x2b0F2dFk3M2luZi1CanBpRFNxZm1wVFllVElBZEhNYjM1cEpSNVVKV29weElHX283OGtjMVVPWDFPYW9jZm0yY29aN3MzRDhNX19lYWpHVkl5UVB6Rjh5M1kxX3RIT3JXdUtpRlg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-17T23:24:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "a0fbf0260f",
-   "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWtsV3FST2w5b01sY1VVbEtYZGF1MGZlUFpSYnpkY28tQ2tvMnBJX0VweDdYdl90dEdhRlVtVXdpb2U4Q3V1LU1QSXFpVEd0MkNyLUJPelJTQXAycmhhUGpSN2JXOGdKTXVwM0d0ZFUwTVpkeXRPVndIeE9JT2pjWkpfMnJnUjVEamtxRUotdzBPR19RSFFiUXdCRFdVLUltRVdLTU5zZl9nSndkRjU2WWZtMzk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-17T23:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
   },
   {
    "id": "c18a3341cd",
@@ -143,26 +235,6 @@
    "topic": "Society"
   },
   {
-   "id": "a36b752f88",
-   "title": "Irish stars dazzle at the 2026 British GQ Men of the Year Awards",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGJxb2FQM0pKd3g0S3FSY3JVWGhTekFTTUdSUGwtYUg1Q3lXSWxJeDZPSzRKYjZpX0xITTl6ZTlEdFMtY0o0enpMU2d2Y3RDNFc1NnBDMDlpaFEwX2hIalRnZlFVdUdVWngxVFJ0SmxOOU0xQ254WjU5cmltVHFiUmZabmthS0VFMmNvN2Q5cjJzUWxrNG1nZndrODdXZ0xFVXd3cHV0Z3lHbVF4bzFnTzU5LVNDZ2k1Z0pPLQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "GB",
-   "date": "2026-11-17T22:35:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "48e5fececd",
    "title": "Home secretary plans to tackle 'perception of two-tier policing'",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GRUdacmRacU40SnYwa0pEWkVsSkpUNTBaMld6SmVhZnEweHlOd0Itc3Y4bG9IaXM4QkhGM0oyb1ZuZ3F6OGxhR19mcW5tZ0gyR0NiTURWdERRSkRyLWc?oc=5",
@@ -197,69 +269,14 @@
    "topic": "Society"
   },
   {
-   "id": "a23ba95fad",
-   "title": "Homes rocked by 'massive' explosion as emergency services scrambled to 'hot tub' blast",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUdxa2VJZkxkSjl3N3JVYmhrRE5RNjlkV0pDbjRZVjlJOTlyaE1VY1k4NEdUeUpTUzgtN3VITlhsNTlIWjZ5ME81ekEyTEhqejFaME1Ra1BMUlJCOWVDWVdHU2ZCdl9RSWR5akpLQm52d2xPMTgycmVXTFZUMFA2X0NKRmlMNGV6eFM2aWJmRmtYLWh3c190Xzg1R0dVcjJyQzlMRWpUWk5UZVc3aEFXSi1TUGlpMkZ5WnfSAb8BQVVfeXFMTWhXdXNYeW5SSnoxUHpDSmFZeGI5WGNpSUdTVk5tV2E4SktQX2dMZWVycTBNenVjdEtJZ3VQRHlYd19KZG1ZUXUwVWV3c3MzS1plQnM1b3VnQzB1Zy1ONnFuY3pCZTd1eElIWDFLUG5qTVJKQzdMeUNKejUteUIwTUtEdzFWV3JSQ1NRMEU3THRjaS1oNUNxWi14elRfdGY3TUYyTjRoTEdGTWRpLWo4eXVQenVpdkcteU9aVUx0bHM?oc=5",
+   "id": "279dc18a92",
+   "title": "Rochdale explosion RECAP as emergency services scrambled to 'massive' hot tub blast heard five miles away",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWpySG1wdTNDWV9hLWtQRzVBTERQWmNMQUxlQUNxVTFzRGZQMmp2X2g1Q3JUWkxIV1lvLXFobHhhZkRWZlB2Nm1od3J1NjhCNk16RTBVYzRVRzY0ZHVwQ0pxS1l3aU5KS2hQbllRWE1tdjhvSFJ5U1RTTVkxQlNvTEFWOGdHbTl5ZDVkOTZUaVlYUy1vOEZUUE5INXNrNlU4b05jU0dyeVg0ZkxTRzBYc1A4TjdnSnlPcmI0dA?oc=5",
    "summary": "",
    "image": "",
    "source": "Manchester Evening News",
    "region": "GB",
-   "date": "2026-11-17T22:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b1f25da0c6",
-   "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1ZmQzBMQnA0bzM2X3I5bXA4Ri1vdk9vLUdHQ3VxeEU5X3NaTHVoU2dvOFpLSGJ5ZFpNVXBWclJILWZMZlM5ekFoc05uS1pfQXZMaTZ6M1dveGtWd2I4RFp6ZGFVRlMxSHhhbURMTXhYcDNja0RQRTNQQXpRVUxxRWxQTFJpQURGUDNFcjlHeEk5OGFYZDRr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-17T21:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "10256376b0",
-   "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeG1nTVJCSWdrQ3ZnTVhwRTVwSnM4QmRpQkg3bnpLMC11ODR1c0hvQXl2c010MWlvekoxMWdkWGhyeDVNZTNteHJpalE1a1Qxdk1BTF9jeHMyNFNhRWJ1cm02RzFWSTV5Y1RtcEVncWFDTVJfRHJhTnJLYzNPaEk3ZElCZkZRbkF4YXE2dnNrak9WdzZha1BCRFlyaWVJYWIxMEg4YkM3eVdydFJkNzFCUl9UbXVJd9IBuwFBVV95cUxOM2c1Y3h6ckFMeEdkQm5Xd2J2X19lQ1VEWTZNVk1kX3E4QjVpV2VwMVloSnhtWjBnc3JTMlVFaGV3dFRJRU5WM2F0dER4bW9acFhSM3EtRjdpeVktRjA4T09LQjJLTjF1VTlVeGZ2RUdOcFVBOEZZMjUyRHZwQUZJVW5iaUFFOWVybVh5WG1lYzdTazZTS25BNkdLUV9TR2dMZWJnM2p6M0I3YVpSMl80eUN4QnNEWkwtY2NR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "GB",
-   "date": "2026-11-17T21:41:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧 🇺🇸 🇷🇺",
-    "also": [
-     "United States",
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d5267d9cbe",
-   "title": "Pocognoli’s aspiration for how Scotland must play is in danger of becoming unworkable",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2ZyOUZfbHYwSjZudHJwSVlKN0NWZ01QbVg3djI0N29NYUYxSC1mRnNNOHMyMzFtelBXNXhJeFJ3cEluYjNIRHRnWEN5amR6RHNKemtVTmJ5b3lldFNYMmlSTGFLb1YwcVhLb0ppVmMtbS0wVkxOc3hlRTdCRkgxbm9JQm5abmtFM01NQi11cnVaUVJmc3otekVDWXdJVXhESUJVLTZtdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-17T20:58:00+00:00",
+   "date": "2026-11-17T22:17:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -289,34 +306,14 @@
    "topic": "Society"
   },
   {
-   "id": "bdc13284ae",
-   "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmwweVVNNGxibWplYWRqN3FyS1A0MWM5OFRhTTlOR2F0MnM5aDNOOUFOeGhJSGpqc0t0TzBjcF9BaWxfZnpMQkhHeWxMeXJ1S3cxMkZVZGFyS21FXzRHVjhBaDZjZTd0R2NxaTY1aW5JOUVJTlJjalRGTmIzNGdnZ2xzc1EyZU5WNm5McF80Y2tPWkI3SlFQTVpWeE1MMVpVRFRsUTl0MA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-17T20:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5c175c0c58",
-   "title": "Burnham to set out options next month for long-term EU relationship",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UZEhrMFhCUkZYNFVYNDdHdERrbXlnYTZ5WmR2a1RCNEUyUlAtME9wUHh4V01LQjI0ejlfdVVXNzN1VGhkX2Iyb1ljd21OS2lvOUIwVmVMQVd5cFpyRlE?oc=5",
+   "id": "373421736b",
+   "title": "Church of England should protect 'every belief', King says",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mSlprMENIVTB0Nk9QNlFRdVVaaC13VUFQLTFhajZrSnVTLVRUZ04wRnFOblVuYVFKcnl0LVd5MzN3Vk9PYXdaNDVaeHh4TEdtbUk4M2VxT3Npb3VBQUE?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-17T20:00:00+00:00",
+   "date": "2026-11-17T19:29:44+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -341,6 +338,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "d9adebf1c2",
+   "title": "GTA 6 is the most-nominated game at The Game Awards, and it isn't even out yet",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jLWhqZ1B4eHNlQUpzZkpkSzB2M20xY2tLNkFLTjd1X3JZMkpFVXlDdjNyUVNrWXNaX2JBb1EwUE1DSUVWb3l2blVGQVRfYlN3dEMtYkUzR0Q4NUd1RG04UklUcmlPa0h3NjdPUFZwSi05ZHNtRXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Eurogamer.net",
+   "region": "GB",
+   "date": "2026-11-17T19:01:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "582038b7e5",
@@ -388,23 +402,6 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-17T17:57:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "55334848a3",
-   "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lb29GUHJfN1VYODFKQUhOLU44SndhYkRaR1k1SExDRnRaNzkyOU1qTkM1Ynk3aUFqbFdHQWFjTGVSM0RDRExWUWFac2NfY1pneHFQeGJDSVBRVXdnNEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-17T16:42:49+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -550,6 +547,23 @@
    "topic": "Society"
   },
   {
+   "id": "37d3528859",
+   "title": "Ally McCoist asked whether he would take Scotland job and names perfect alternative",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWwzZEVzV2drRUFZT2I5Q0xVZGQzc2F3LUFMMUNNQ1hhRm92bGE4VHc0ZDVXcEMzMTJ4YXNrbkZsRU82Tzdnc3c3NTVEQ1NRdFJ4SGZoLTEwY1B4QW5BNi1ySHEtNGJ5ZGtxMnVPNDBuWnQzZnpxRVJJclNnSEduOENfak12LXhjTnFNUVhtbDYzdFJSYllFM201V2RrNERwYzB0bktTQWZHZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "talkSPORT",
+   "region": "GB",
+   "date": "2026-11-17T09:26:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "75c649507e",
    "title": "Leonid meteor shower 2026: How and when to see the peak",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFbEowRXlmYzAxaVk0dzJZR0tPLXVrVExPTUJFYzQtaG5sQ0VHdDJnUzZ6X2NBQ1lUTUNpOF9FdTgzVmRLVU1Vc0NzUWVsT1ViN1BsZHVpaUZjMzBPMkRhbUF3?oc=5",
@@ -601,27 +615,6 @@
    "topic": "Tech"
   },
   {
-   "id": "3f958c54f1",
-   "title": "Putin arrives in China ahead of trilateral Trump-Xi summit",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHlRdnF4QVpyYmgxWW9naDNrRURRbE8xVDRRUVRnNHhYSWxnV08tWlBKMUFLTWtiMHpETnFwd1FhT284aWpqVzV6am9ZWGNfOHJUT01Ccm1vSVI0Ynp6NGx2VWNVRWZyLW1iOHZsbG1hSUZVMGJ3X2JGeFpsOW9oVGRYdGxxNHJaUURqcHJzZ0VWamtyUzF5bFR0QVJkbjI4b0RGMmFTMjROamhNdTR1aGEzclFpemV1ajduWGVVRVpJUllV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "France 24",
-   "region": "GB",
-   "date": "2026-11-17T01:38:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇨🇳 🇺🇸",
-    "also": [
-     "China",
-     "United States"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "bede503237",
    "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55bmZkZExNLW8taGRiblhBLUJScG1Wc0hnQXpKZVlzamZJU2ttNEM0Q2stazZzUWIxSW4zaXVhQmJNdGZNQ21VM21ZLVg2QkdPYmtyaU1CR2VrUFRJVEE?oc=5",
@@ -637,40 +630,6 @@
     "flag": "🇳🇿"
    },
    "topic": "Society"
-  },
-  {
-   "id": "6a1b006371",
-   "title": "Winter virus causing diarrhoea is on the rise in UK — and hand sanitiser won’t help",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWwwQXFRZGpYdVR6TFpRNkh4QkZUM0ltbDZiRmRYWTBLNVBEY1FaWmMyLXBGelpDVnZaQ1NJUjVxTFRRam9nWFE5N1QxY252UExXaFlGMDVHbmxFODV1S1FFSFo0WnVMNklEM09OQXpZbnFzM2hsSllkdUFyWm5GbWNXUlU0dzZuR0VWUW44REd6d3k3TTdnYVF6djg1NW5QTXdrUWN5dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Metro.co.uk",
-   "region": "GB",
-   "date": "2026-11-16T16:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9488e9cff9",
-   "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1hWbFBFWVhJWjdUMlRhU2p1S2k5N18zb25HTzI0Sng0ODJTd01OZkZLYTBQMFl0ZFRYbFg1WDNfTUtMd2dJZnJ6QTJQMU5qT1NQX25sVW1lWGtQOTloN2lzSHVCNkdWNXJadjJPbklZUlY0eXk0aDFoWTdfUVllN3U4MA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MacRumors",
-   "region": "GB",
-   "date": "2026-11-16T13:40:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
   }
  ]
 }

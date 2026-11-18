@@ -1,48 +1,42 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 31/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 86 stories
+OK   Ada Derana: 87 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 15 stories
+OK   EconomyNext: 16 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
-OK   Daily News: 82 stories
+OK   Daily News: 85 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 19 stories
+OK   Google Warnings LK: 17 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 99 stories
+OK   AP News: 98 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | UK sanctions firms over Israeli West Bank set (7 outlets) | Russian military plane crashes, killing all 1 (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Seven new envoys present credentials to Sri L (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | Nvidia Reports Faster Growth, Says Jensen Hua (6 outlets) | Russian military plane crashes, killing all 1 (6 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets)
 
-6 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: University non-academic staff to stage one-day strike over 2027 Budget
+* Hiru News [1 outlets]: Government executive officers to stage token strike on Friday over unr
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [2 outlets]: Apple works to restore services after outage caused by internal update
-    important (also on Reuters) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Island [2 outlets]: Dry weather except for showers in the Uva and Southern provinces and i
+* Newswire [2 outlets]: Nearly 200 major websites hit by supply-chain cyber attack: report
     important (also on Ada Derana) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -52,7 +46,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 rejected: the name/word 'Indian' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: The cards describe a 'supply-chain attack' (in what_happened and blurb), but the article only calls it a 'malicious cyber attack' and does not use the term 'supply-chain'.; The blurb states the attack
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -61,41 +59,32 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 rejected: The cards say dry weather or mostly dry skies for most of the island on 18 November, but the article only says dry weather over other areas and does not state that most of the island would be dry.; Th
-    -> no cards; posting with the site's own summary
-* Ada Derana [2 outlets]: Air quality reaches unhealthy levels in several areas, Jaffna records 
-    important (also on Hiru News) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [3 outlets]: White House withdraws nomination of Heidi Overton to lead FDA
-    important (also on AP News, NBC News) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    cards OK (attempt 1, written by openrouter)
-* Al Jazeera [2 outlets]: What is Trump hoping to achieve at APEC meeting in China?
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    cards OK (attempt 1, written by openrouter)
+    cards OK (attempt 2, written by openrouter)
+* Newswire [1 outlets]: Cyclone Akvan: Fishermen warned against venturing into eastern seas
+    no AI summary: saving the rest of today for important news
+* Ada Derana [3 outlets]: Nvidia says it won't reinstate Huang as firm reports bumper results
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Pathirana, Hasaranga among six Sri Lankan players reportedly released 
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Western Province suspends vehicle revenue licence services until Novem
+    no AI summary: saving the rest of today for important news
+* BBC World [3 outlets]: As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speake
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
-  photos: 11 too small to look sharp, using the clean cover
+  photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  Fact Base: 17 facts and 2 people saved
+  Fact Base: 9 facts and 1 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
   meaning check: 15 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 24 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 25 story pages for Google)
 
-Countries: IN 38, PK 34, BD 36, US 36, GB 38, IE 33, CA 36, AU 38, NZ 32, SG 37, MY 34, PH 33, AE 36, IL 34, NG 36, KE 32, ZA 35, GH 35, FR 34, DE 33, JP 6, IT 34, ES 34, BR 32
+Countries: IN 38, PK 34, BD 35, US 35, GB 36, IE 34, CA 37, AU 38, NZ 31, SG 37, MY 33, PH 33, AE 35, IL 31, NG 33, KE 33, ZA 33, GH 35, FR 34, DE 33, JP 5, IT 32, ES 33, BR 32
