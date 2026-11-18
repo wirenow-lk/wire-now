@@ -1,56 +1,49 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 31/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 32/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 87 stories
+OK   Ada Derana: 85 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 16 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 19 stories
-OK   Daily News: 85 stories
+OK   Newsfirst: 20 stories
+OK   Daily News: 83 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 17 stories
-OK   Google Top Stories World: 70 stories
+OK   Google Warnings LK: 18 stories
+OK   Google Top Stories World: 69 stories
 OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 98 stories
+OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | Nvidia Reports Faster Growth, Says Jensen Hua (6 outlets) | Russian military plane crashes, killing all 1 (6 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets)
+Biggest stories right now: Cyclone Akvan May Intensify and Cross Andhra  (9 outlets) | Nvidia Reports Faster Growth, Says Jensen Hua (6 outlets) | Russian military plane crashes, killing all 1 (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Trump says he may meet with North Korea's Kim (6 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: Government executive officers to stage token strike on Friday over unr
+* Newsfirst [1 outlets]: Navy Arrests Two Suspects with Over 1kg of Gold
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [2 outlets]: Nearly 200 major websites hit by supply-chain cyber attack: report
+* Hiru News [2 outlets]: Former world boxing champion Jorge Linares faces deportation after ICE
     important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The cards describe a 'supply-chain attack' (in what_happened and blurb), but the article only calls it a 'malicious cyber attack' and does not use the term 'supply-chain'.; The blurb states the attack
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Two arrested over motorcycle thefts in Avissawella; six stolen bikes r
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -59,32 +52,29 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 2, written by openrouter)
-* Newswire [1 outlets]: Cyclone Akvan: Fishermen warned against venturing into eastern seas
-    no AI summary: saving the rest of today for important news
-* Ada Derana [3 outlets]: Nvidia says it won't reinstate Huang as firm reports bumper results
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Pathirana, Hasaranga among six Sri Lankan players reportedly released 
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Western Province suspends vehicle revenue licence services until Novem
-    no AI summary: saving the rest of today for important news
-* BBC World [3 outlets]: As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speake
-    no AI summary: saving the rest of today for important news
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 10 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  Fact Base: 9 facts and 1 people saved
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
-
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 25 story pages for Google)
-
-Countries: IN 38, PK 34, BD 35, US 35, GB 36, IE 34, CA 37, AU 38, NZ 31, SG 37, MY 33, PH 33, AE 35, IL 31, NG 33, KE 33, ZA 33, GH 35, FR 34, DE 33, JP 5, IT 32, ES 33, BR 32
+    cards OK (attempt 1, written by openrouter)
+* Daily Mirror [2 outlets]: BBC and Ikea among nearly 200 websites hit by hackers
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: NSA closes campus to most staff as classified network outage continues
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Litro Orders 45,000 Metric Tonnes of LPG for December
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Guardian [4 outlets]: Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats
+    important (also on AP News, Al Jazeera, NBC News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: The Guardian, Al Jazeera
