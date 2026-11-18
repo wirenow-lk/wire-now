@@ -1,34 +1,88 @@
 {
- "updated": "2026-11-18T18:48:38.744314+00:00",
+ "updated": "2026-11-18T19:53:16.210359+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
   {
    "id": "0edd5bc4c9",
-   "title": "Israele, Idf lancia attacco nel centro di Gaza: avviso di sfollare. LIVE",
+   "title": "Attacco Idf nel centro di Gaza. Media: Israele valuta raid all'Iran",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3Umx1OFpHVFdPRk5kOUlMLUFiLU03a3ZYV3ZvNGR2bmZDM2xYSlg3N0NIdEg4M1JjSUZ3b3E4TTNJOC1IZi14OTlKMENWSEU4ekVYV09jLWIyeTNEUjBseWFscW81akNsWGxNODFVN2dnX2xnUlVJZWhXbw?oc=5",
    "summary": "",
    "image": "",
    "source": "Sky TG24",
    "region": "IT",
-   "date": "2026-11-18T18:38:39+00:00",
+   "date": "2026-11-18T19:48:17+00:00",
    "coverage": 1,
    "location": {
     "country": "Palestine",
     "place": "",
-    "flag": "🇵🇸"
+    "flag": "🇵🇸 🇮🇷",
+    "also": [
+     "Iran"
+    ]
    },
    "topic": "Society"
   },
   {
-   "id": "cc7c3b32ca",
-   "title": "Guerra Ucraina Russia, Putin e Trump si stringono la mano a Shenzhen. LIVE",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaThtZjhMNzFpSW5QMHRVWWtrcmtMSUQ2QUlHbnJiSEVVLUJNcVdsTWxOWHk3TGdTZWZuN1d6TFhUYkxZNVhzbldVdTBoN0hCQkpUS3U0cXBTMXh3YzRkQXhDUy1US3BFUTctVTlLSjJfVG5JTy03Szg1bk1CSF9veDJFclFXbVly?oc=5",
+   "id": "6752c57d26",
+   "title": "Conte: \"Prima o poi il cerchio con la Juventus si chiuderà\"",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxON3pVYzlLdFh3dm5walZHdldvRnYxeTRxV3YxWWtyMEs1TVRGYS12dGxJWFBzNHV4VEF1SWxpR1lneXk4cTRoSDdGb0NtdHJOZFNtVF9yZVRONm5RcDFMWE90dTUwYlJ0TDRqTFAtc2JCUkQ0Nm5aVkZMblYxU0g3RkJYT25GelM3aGlFNW1hUUk3TUlDZ25Ib3k0cVM5Vkp4VjlkMENHaGhIRG84WlpJZ1JSUHhvVlNQMHpnMFhCaWY0QjBRMHBOVWt2LXYxVnhnU0VYZkpFRVJGV0luQ182T0NGVTF2M1RJSXAyOUQ5MndiQ3BrNk50LV9rS0tCLVJkWHhubEFYTEV6ekR6QnExTUNtVDd1MDBrYm1JakwyZ3QyamR1RnAxUGlITQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky TG24",
+   "source": "Eurosport.it",
    "region": "IT",
-   "date": "2026-11-18T18:38:19+00:00",
+   "date": "2026-11-18T19:04:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "acd7665f44",
+   "title": "Borse oggi | Wall Street | Nasdaq su con Nvidia, Dow giù: Waller agita la Fed",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTQtNmQzd1oyWjhheUFlTWF6Z29JVWlMazFaVWprZUxDck1Hd2E1V1R4VU0zajhGMG5uTkIwSHAwVEpCcXFJY0NPY0VUQ0FYaGxIclBzNlJpcHRFUFVEb0NFcm9JZVpMc2ZfOW1CWXZVZnZSU3FOdE44bTBkeVZZcm16QnROc0hXQXQ3RGxqTFctZGlkNnBma0lGR3BKZk1HYjZnZm1yN3NXQm9oQ1V2d3lLQVN2eGxhSTVsNXRITGVhUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Investing.com",
+   "region": "IT",
+   "date": "2026-11-18T18:09:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "3ce3c3c232",
+   "title": "Cobolli per avanzare deve vincere contro Tiafoe, tutte le combinazioni per le semifinali delle Nitto Atp Finals",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXB2am90TkpWR0czWGNMRzlHT0FOemdyZ2w0cDhBelRzODhCdW5HRzlaZm02Z0pHcFdzQ1RteDhwS2l4cmVEbG4yc3RGeWtVZ1A4VUt3OV9yQTdkanEyajZwOW9RU2U5dXJhU0pVZFByVkdNcDNIa01SRXJWa3dKWlUxa1AtN0hYUVFXeVVtdWJxM29Z0gGbAUFVX3lxTE9Fa2lJMjF6STNFRV9ZNmdkUXBxTnpidGM3ejlTUWFRWmkwS1dFN3hwRXpmc2pucjM1WDFxM0o4TmlzbGFLLVExYTJDM3d6MS1zQlRUNkFCSTJHOEYycGh6OHpPd3N4WmQyZjFRdjZnTnU1eUl5X3JYSi03RGtNRnc4MDZVQmZhbkc3aWY1dGpQaTVlLWZ5aXU4QU1J?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Virgilio",
+   "region": "IT",
+   "date": "2026-11-18T17:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fb3c0f199b",
+   "title": "Xi, Putin e Trump al gran gala di Shenzen. Cina: \"Domani parleranno della pace mondiale\" - La Russia bombarda infrastrutture energetiche in oblast Odessa",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcFd6T3N1cUFBSHVUcXJ0OVl6djMzYlVadmRGamZrQ3JUVzFpRDNmQ1FQbVJoME1YZDFrYzlQTWxhaG93SGFoQ3RGRHFOQlR1Q2lPUm94T3Yzem85MGFvUUxBTDNacnp1TG5xU3duVkRLWU12c21qNTdBOUxtcWQyN0xsaTJ2TVVGUm8zRHJSZXBsMWM5V3YwM3pxNFg4YU14dE1zQVI2Q0VFRlhhZERHOWdRS3NwQnhjVVdQNVp2WDlBeWI0eHRqTmZYbFBzQkZJSzRaVWRtS3dwVTVmOXd6ZnFuMERjMWJtOEp5SEs5M3htemk0Ukx0WjBCWDVDcGxoX2NOeWVjcHM5RWhhSm1PYVFjVEhSbXZsa0M0dlVKczFkdktad1pWWdIBrgJBVV95cUxPbUNBU3Y1Z0RFNlBsaV9sUkZqYmVONldiUElXY05ycVdfdzJIbTYxUkloXzktNDZReEtZM0xRdWNYTUdOa3dKQXBOU25zZWVBN1hENTY4T3FQZnd4eGc4ZFVNaWI1SE9vbDRCNEpFbTVjcDUwRjI0blRRcEZpY0J6Tk5VTG5JcEFzNHVGeDdkV1B6TG5RZTFaUGtWMF9SMERXc0NUU2Zzcy1PY2U5T0VWWTlUZTdzeWRLLU13Mm9VbF94ajQ1RkVLVkxnT2gyVXlvOGxIaHBGY2d0a2R5WG16aGdnejlUYW5LSzJ0a2tRQ1VRWEppMVlnU3NvMUhjUUFpNnEzQ2dVYzRpS2s1NkJnWFB2NTJvSHBiXzkyZDVOU01jTGVPcVo4TmpkaWZpdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RaiNews",
+   "region": "IT",
+   "date": "2026-11-18T16:23:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Russia",
@@ -37,57 +91,6 @@
     "also": [
      "United States"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ef39337a22",
-   "title": "Conte: \"Juve? Prima o poi quel cerchio verrà chiuso. Due volte ero libero, ma fecero altre scelte\"",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2tNOW1QMlM4UkRpRlJmeXJ5ellkRDMwUkpWeXpiOU9CZFJ2Qm9DTEtNcktzVTEtTnhGZG9kZFN1UUo0c1BGaVN1WnNZQl8tZU8telQtY2JYNHVoUmkxUm0tUlRNbG4zZ0EyVW9pdkRJLV9mOWY5MVlLTU1lY3VHTlpZSExab3RLVTl5WDZWYTVXMklEQUg5VTZoS1NYR3BYMWJ6RHRVRWlRZ0Z3Ukt3RWNidk0tOS1j0gG-AUFVX3lxTE9NVWpUaGoyTDZraDY0Y2Y3bndLa3NHR2JOVkpZWTY2T2IwR0d0dTg0bWtNc0lVdzJYWm1QOG9wa2s2NmpWTjNYbXZVU3lqWnh2bDgyMkt0aDFyVW5iQUx3QzZXV2ozaWE5TFBnenZFYkRYZHFkenQ0TFVSR2JQYnU2OS1vajhXT1VoSUVGU2RFVUkzUUVpcjlDdjBfR1JFZk5yLUFMSTM5UTBzbUFicm56X3NpWlVwdWxwMXppMnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "La Gazzetta dello Sport",
-   "region": "IT",
-   "date": "2026-11-18T17:49:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e6bc514062",
-   "title": "Valigetta nucleare di Putin al vertice di Shenzhen. L'ufficiale della Marina in tv conferma: «Sì, è proprio lei»",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXlzWUNWdDBLWlRZeXpwTnI4d0E2M211MFphRE5LMEp2SEdfR0JvSFhQWmhSR0RkdUU5dU9Yekp5YlJfR3BuR0szYzNTSklqdmpoVGpWaGJEOVFBWHdHcG05ZEFjRy1HcFdyVThSSWM1Q1ItWERJOVhxVFNIaXYzN3hLV2xxZ2Q5YUYwWjNBTWlHMmlERXIzaWo1R3FuSGhublVvVVFFLXRBQnV6MlNGaXdEUDnSAboBQVVfeXFMUFI3UzQ5aDBvd1R6d0pDVUwzWHlyNnpGOUY0c3VYY1h2OW5MOElZc2c1Yk11Zi1Cdkl5SlVXZGI1U1VCMEFIbmd6WXNOWldkME51bV9tUzdZWVhMQ3NENG1CTVA2ZUdYaHRPWHBNYVM5YkllczFIVTJRUnJ2V3RER084US1adlZBcmZWMzVnNjItT3N4RjlyYWRJQTJfSnFaQjhubnpuNng1MTIwNHRFbXJybFZnVzhRTkdB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Il Messaggero",
-   "region": "IT",
-   "date": "2026-11-18T17:41:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f31b626239",
-   "title": "Avio, Crosetto: c’è Golden Power, ce ne occupiamo in prossimi giorni",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGtWOEM1QzNFTVo0SGpQT1hOd3ZZVjV5WVBZZi01LWduNFZ2UlF6RkFrOXFrWWpBby0tZ3VneGozUGZrRkFlbnBxanZBRE53enhKZnc0MFBPbl9Icm5QOTBEMDhDclVkbXNVcXdobncxMk1zZE1WWHN4TGRoLV81M1ZTQUtPUlROaXhaR1QxbTlxX3NGZ0FyZElLQXBVYzNSVFluTzhB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Il Sole 24 ORE",
-   "region": "IT",
-   "date": "2026-11-18T15:56:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
    },
    "topic": "Society"
   },
@@ -109,14 +112,14 @@
    "topic": "Society"
   },
   {
-   "id": "5bc5f4355f",
-   "title": "Didymos si mostra, Dimorphos si affaccia",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ211ZUU3VEhPLXI3OWFUbHBfMU9IOHFBQWFkQTNHTzExU0xWYkNrWEFyQi1oWDlvZEJycWUwOGZHR0ljRlJRM2V3YUZnRTNDM191V21zc0V0anpRRXAwZkY4YVdRVTFBcGdRZ2lKZXlaaUc3Rjc4dklKeTh2eVRUUWtDSQ?oc=5",
+   "id": "63e888309d",
+   "title": "I dem della Camera rieleggono Jeffries leader, sarà il primo speaker afroamericano",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQVZpRlMwUmw4R05ndlVvTEdfSlp5bFBMaDBld2s1aHYwZXdQQUw4NXZkRG9Yei14dVJyWUpnWnkzbjkzY00wQ19kNWUtREpEaGNOTWxkN2FWcUc0UXFDb1d5Y1JVMjUzUGtBcnkzZmZXQzltX0YtRExJVVhWcjdEVlo5Z1YxTEIyUkRlSjkybm94RTZ0VFh3MEx1blJiWmV0UDN2RkVkb3A5UDdjdndtYmJwbVBoMWlaazFSalpwMFZNR2xPMWtmRGRnTTM5ODVGNTZSaU1EN3VmR0xkcUZmZHJfTFdHR3g3YnBwMHlSTWFZUDU0VGVQUDRldDNtTEHSAYQCQVVfeXFMTnM3bVphUkdTeUp6WjhjZVpJWUpocDJOWS00bXVpTUpUVTBVWTAtQW9OeXlmMU5TRFVYbHU3MGp1bDFZd1hoSU9rT0JRUXlHM3hpYVFVT3VIdkdTNVU0T0x1dEdnZUJRZkJqTndHbFZWUXU4NGltVk1fOXVncklzbXU0S0dKdU1TMGdPZndlR3J1VXlET0l2eHQ3TG9FMHBIWVRiWF9jZEh5R3l0ekxDMFpuNXM0azlvNHJERGFZcFdrU2I5bDVtTHlyYTFtSmJVci1fOGZsSHdnWTVvWVRRWE5hcjRENTZCWWVVN2Vtb3V6ZklPZVladkRpZENwT2twZEEtV1g?oc=5",
    "summary": "",
    "image": "",
-   "source": "Media INAF",
+   "source": "ANSA",
    "region": "IT",
-   "date": "2026-11-18T15:53:29+00:00",
+   "date": "2026-11-18T15:35:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -126,14 +129,14 @@
    "topic": "Society"
   },
   {
-   "id": "ff53efafa4",
-   "title": "Usa, i dem della Camera rieleggono Jeffries come leader: sarà il primo speaker afroamericano",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWQ3WG1kbG5fZjhPSGJtT2d0eVI2cXNEMTVfZTdBQ1JjTzdfcVhqNGQ2blFHekZsdkRxUnR1SEFzQmRYOE5DbldoajZpQlliZ093Mk0wU01HdXoxaWJ6QzZlUUVyUUJRVG91THM5dVFIS0pwdzByYmxhRVFRa3g0X01Cb1BNOGFXeWpwRzg5elMzcTllS21qbXk2QVY2U1JDLVQ2eFREUXF4NHVESEFLbzBWOEl4ZTDSAWhBVV95cUxNYWhHaERfZmprY05oRk5VSUFoUmV1RHZROVNRdWc5b1JiSzRCZlFEdFNjOU5kOGdzMlRxTWx0NzIwSWJycW5KLTZOQ3JSNnlFNlVVYmpZTTN2b2ZfZW8ySVhGZGN5MFFBNQ?oc=5",
+   "id": "69030185d9",
+   "title": "Anthropic, ecco chi sono i sette co-fondatori destinati a essere multimiliardari con l’Ipo",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQkEwU2JIQnRUUU5hNERUem9kcjhZV2pjWUZfWE1ObzZnNnBZdm9nSVhNdGN3SmZwMERKc2duOFpvNUU4WHV1bndDZTYxTnlPVWZVTjgtYktFM0ItVFRPT0N6YWk2aEFKaTVoSGNEcnFLb0JXX1BxenExMDhRMWc4SDNOY0x1UEtEX1JpM2t1eVFlUzZxYUt1YlZnMUdDdVdNQmU5c3NjeGRGZURUNVZCRzZaX2thaDRNSkJnampITQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Tgcom24",
+   "source": "Il Sole 24 ORE",
    "region": "IT",
-   "date": "2026-11-18T15:48:11+00:00",
+   "date": "2026-11-18T15:34:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -143,14 +146,14 @@
    "topic": "Society"
   },
   {
-   "id": "de396f4368",
-   "title": "Cobolli può arrivare in semifinale a Torino? Ecco tutte le combinazioni",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTlnT0tQenh3V0R3S1hVa1pXSHJGUTdqbFJCbjVtSHVlU2N3ZHE2dGFzSXdGa0Z6bjRNXzlnMFNwbHdySWNwX19neGNscFk4eXpySE9PR0lHNTVUOUR2SEpBemQ2U1piWU05dlE3R0tFdzdzM3BObUEzUGN1c2liWndaUi1hNnlXdmhqSnJBNmZSMDFzdFgtN2tn?oc=5",
+   "id": "98f04bdbe4",
+   "title": "Accordo tra Parigi e Berlino per blindare la BCE prima del voto francese",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnBDZXVENU1VaXNoUnVLMUNhTDF1LVRRQWxQUzU5Tm5NanVGWVNxRng4d1VhdWxPTzE4SnBYVmRxQnlidGF3Um4tejR6Q25OekZuZ1JSOFZfak95T3lrTVJkWW1yU055MVdSc0MwbEE1SERWeXM2RXdSUkVORjhDTGlvbmU3UUNJRkJ3Wi1UN0J2ZG9GVHluQWcyT2VxRGRCWTZmLXRKZXdQRnAzdDJ5VG82MGpCWHVzZFNuUWwxenJ3Tldx0gHKAUFVX3lxTFB3U2tGRU1kb1Q0bDRKbkR5Y29tWHp4V2Z4OWtNemJhcHAzUmh2cHRXUzJZMWpKdXR3VEFITDhHRGE0R1Zsd0hRZXNhSHhfejh3bDN6S3JCdEVzS01NVWJoY3ROSUdRcWZ1cVVpblVNN2t3cmJwR2hFZDNQOWFrY2wySzZKM21BVlliVDc3NnVjbHpBMV9PeGJUUzVWZDAwNkMwd2NkWTR0STFMbUFqbFpSREg0X2R1TkNHWnI4N1JpS2h5aERpNG9PS2c?oc=5",
    "summary": "",
    "image": "",
-   "source": "SuperTennis",
+   "source": "RaiNews",
    "region": "IT",
-   "date": "2026-11-18T15:45:58+00:00",
+   "date": "2026-11-18T15:28:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -160,14 +163,48 @@
    "topic": "Society"
   },
   {
-   "id": "fbb8249cea",
-   "title": "Ballando con le Stelle, Ravagnani svela la reazione dei concorrenti al Profumo Gate di Mariotto: \"Noi eravamo allibiti\"",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlBCMDBiUm11Rl9Wa3hFcEp5eW1GOHUtNVlOZXpSRDhmSkYxSkxUeFk0Q3FQMEZ2anlRVE5XNmM3bHlJOHpYdl96dE55SU15Wkk1UklFWmJlQUJVakprVGp0VmpqQ2ZpYmoxeElnSDZXMW9SSUxLRDh6Tm9oQ3JEUmdJeDNMdXVabm1PVkplRllTRTFwdWU0SVVuVkw4dlBSanhxOWNPZ25jRmRHQ2hpSEJUQlpQLVnSAbwBQVVfeXFMTldCV2FvamJSNkRLOGI0RzFMLVJpQU5YblRCTjFIYW43T0FUNHZwckZnOWFOTVFjOFdIWmhOcHhlRzRDWXNPcl9ITEtoQ1BNUXRJblZjUE9qS0NmVkFoMGZ6Q05ZQ2JzaVdaQ3ZnYUtydENPSHE0dll2MnRsQWEwZmN6UnBybzJCNHlQTWxSLTU4OXU1LThoUjMtNmRvNE5yOF9NNFJzdnBva2E5WlBuOHlXUWswaWpsZEFnaXQ?oc=5",
+   "id": "5c7b080d0d",
+   "title": "Sciopero generale 20 novembre: chi si ferma e quali servizi sono garantiti a Bologna",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObE9FX2xuQlZJVWFfMUU1UWo3dzJBdVY0RlNoMF9xX25YTVBPMFludlp4eVJUN0t4cDJPZGZVVm9vcnJQMGtVci1raWtFRklEcm90ZlV2cW1BeDJwM2lCVktCcEpNNUVPRS1PM1phV0NIWWRXejFyTEFsR0UwZjBoR0pUWkVuUDZKdkZlTVVvSDRYdk1tX184UjN3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Libero",
+   "source": "BolognaToday",
    "region": "IT",
-   "date": "2026-11-18T15:36:00+00:00",
+   "date": "2026-11-18T15:19:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5b9b1e173d",
+   "title": "Capire di cosa parla chi parla di Grand Theft Auto VI",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUHZJd1dPdXl0ZUF3b3Jaa01heVd2aGZNWi1RYnZOVl9oRDRYUUN5ckVqNEpaY1l0ZVdrMldXUnJsQmc1VkZVVjhXdlBUM2ZOdWhydW0xTGN3dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Il Post",
+   "region": "IT",
+   "date": "2026-11-18T15:15:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "34aad18f70",
+   "title": "Costa un ventesimo di Claude Opus 5.5 e funziona praticamente uguale: cos'è MAI Code 2",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnMzYndyY0ZLVWp5NEVEZ1BnSUZwZDdLVW40bDNhUUtNaDlnSUN6UE5mQ2hRc2g0bVdic3ZsLVN4QnpzMlR5VC1BQ0I2SzZmUlNNbEo1bWN5LXpta3gyQWtGZHpyam1GS19rNkM4Z1JOT0luNkNOOTVYeHlONDlkSHVRX2tQR0pMbmdoUzhsVzFuRkJad2QxMUNMWklYRTljZlpjRFgtY2pRMW50Y0YzUDBOTGJmZEVKaXF2bUsySy1xWVIwY1ZZMmNR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Hardware Upgrade",
+   "region": "IT",
+   "date": "2026-11-18T15:11:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -178,7 +215,7 @@
   },
   {
    "id": "3cade52f55",
-   "title": "Futuro Nazionale, la procura indaga sul partito di Vannacci e la violazione della legge Scelba",
+   "title": "Futuro Nazionale, la procura indaga sul partito di Vannacci. La denuncia: “Violata la legge Scelba”",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUJXVDhtQTVUUE85b21ieXlPTHNHbkhjeEZIc2JnYW9USGVlM05BdS1xdldxbHFmamFqUEV0Y0F2NklfX2JlTUtGNFFlVURVWl9oaEs1S3pmeEFoYjJhakhvbk10dGtIMzhiTFlobF9fVEQ1azZmTDhJODlpeTYxUVVIemRWaEZTamgxQlc0SUVtYmVuVlZYRHRxTDZKTlVlSHE3RDJ4OE5BbGczRmNBYzdmV1lNVHoyN3FxaDR5OF9nMzY5dFY2LUVBQllrYzFxb2oxOVBMSVJHeWUtQXFUdG9Fei0taEE?oc=5",
    "summary": "",
    "image": "",
@@ -262,6 +299,23 @@
    "topic": "Society"
   },
   {
+   "id": "71f6d9fa13",
+   "title": "Robert Pattinson nuovo 007, le reazioni dalla Royal Family a Gordon Ramsey",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmVCU2lzVjB1SEMxUTFCcGU3azFOb3FOZHUwX2xKcVlQMnM1Z0Rza2ZGbUhsN0QtSnMwYno4cWxTczJURHBMSzlFaHVlMTA0c1JRMFNNcVFiRkNMRTUxQmg1QU5aMVRvaTFvRkdEaV9pTThhclIxdjZTbnBrY3JwS0pjbnBMVlI3S2xOeVJ6bW0tVEk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky TG24",
+   "region": "IT",
+   "date": "2026-11-18T14:39:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f4206219a3",
    "title": "L'Europa vara il nuovo prestito da 45 miliardi per l'Ucraina. Von der Leyen: «Kiev forte al tavolo dei negoziati. I 4 Paesi che vogliono sfilarsi? Bilancio condiviso, responsabilità condivisa»",
    "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcDVfbWd3RW94eC0yS2FSdkVHWURYU0d0aFVfRVZJSE03NURDemxTdEhkekcxaENSSlZ6Y2thVURZYjhOUXBNQ3FHcmJsbE5FWDRkU1lLdkhxSFFmLWo0UFZSa0hsY3pGSWxLRWhGYXFISnQ3WGlyLVgwVndETFkyOVJaV1hIZ3dhdFZ3TUFSQm1xZ3c2QTN2ZEEybGhILVcyYktsWFdETFlhNzRhTzkyQlp6dE1WSFlDaFVPeXhpQ3ZYZUs2UnF6NTBjUUxGTnlrNXJycHVTUlpieThmeXNxRkg3ZkpsZTBpZ3JVRDBlcnE5QWplTWxTdzZDdmtuVWFRcEw1V1ZfcHJnMW9OcFIwTlpySGs4NEdXNTVYUWpjZlpnd09fejVFSlF2LXd2djllZlHSAbcCQVVfeXFMTU93TmlUNll5NWJldlhaTHZyQUZrUTRmZkRiVGRuLVN1ZzhPQ3FMRWVrQ20wOUhCdkZ5cmU5MEhMVVo1bnR3dHhQUEJKbkNxa2I5Zi1WMVhtc2xNLWRld1pxU3VpOHNoLUMtUlg0eC1PX2U3aDQ0SWwzRmpLVWdfTVdmT2ViOGRGM1ZHeUVNaHlJT3hVUExCRjZNRkpVQ0tmbFdMNkhYaXV1RjRsWlJGaXVSeTV5aXFadEhfaG5qczU4SGNhT0h0MW5RTVFtTzdEOHJJNUFNeDZobE0zNU55YUFFS3lnZ0J4MHNNTDJ1Nk5nNTg3Nnliam9mYTYySFZSdWxkV2E2c2FGUENwYzVNRlhIdG04OERUWHN6SUY5NmxwUzdCVlI2djF6ZFRENm95cDA1R3MtWVE?oc=5",
@@ -296,14 +350,14 @@
    "topic": "Society"
   },
   {
-   "id": "af62534f88",
-   "title": "Morì a 14 anni dopo le cure con il metodo Hamer: i genitori condannati a due anni di reclusione per omicidio colposo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYklsMnBmSVhpREdwdTQxSW14YUVjbUVRR2JPMnJHTkhLOVlfYlRyRzcwN0ZoVnduUC1DcVg3Wk1POGN6N1ZHbTBHYVRMQXN5WmpHX0FnbFFmc0ZjRllVVzI1MTJIdWdRWVV5VHQ1Y3JycC0xcFd5Z0Z0cmlHWUJ1cldhb09leGo5ZmRIVEFEakpKUWdSQW16WURFLWVMbDRIQ21rZTFHRG1NZjJFdjlEYg?oc=5",
+   "id": "7bdae06d53",
+   "title": "Francesco Gianello morto di tumore a 14 anni, i genitori condannati a 2 anni per omicidio colposo",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxON29UeHg1VkZxY29yOV8xZDZ4QlZZU25hSy16ZVNSZkVKR2NNWjFDckowT05KZVZ5Mmx4QnFBd21Ob2d4bk9TbXl0NHlsR0ZreHVsa0NwSFRaSVgwUnl1NnBLZ2ZSMW9IT1pZY09ldy1tY3hydlNmXzdKOG1WU2N6eS1IWnNuUXF1OHJpXzhQS1Y0YU9Jei1YalQtSnFMWkN2MVVvYktHYXdWVzJfSzY2N1lpUEdvaUNTR19ja0hJMjQtV3ZsVVJUWDlLNzFYVzFZY2hKdEUzck8xSmhQWDdOYllkeDktWmZNUUdqVEEtRE91SkdhTG9UbDExNmZpUVN2TUNNTjJsc29leG1hMXd3Y1F5Sm9DVjFnWlgyNVFla2xRdmd3WTRXbjV4c09FWXMzb1VCdXdMb3FYRzgx?oc=5",
    "summary": "",
    "image": "",
-   "source": "Il Fatto Quotidiano",
+   "source": "Corriere del Veneto",
    "region": "IT",
-   "date": "2026-11-18T13:41:23+00:00",
+   "date": "2026-11-18T14:08:49+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -313,14 +367,14 @@
    "topic": "Society"
   },
   {
-   "id": "112514801e",
-   "title": "Ci aspettavamo tutto, ma non un James Bond con il Botox: Robert Pattinson ci scherza su",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXZPc1dIclBXa1l6NWFCNi03al9Ca3JGTDBVTGtRVjV2anBqSURvOWMtWlNJNlU3bGNZakhXU1JXYzFxTVFFbXg1WEZFOFdUWlJUVlJEbGttNkRkQ2plNEtTOTlNMGNpZ1c2NFdLZnB4dnNrZlZyQXRyWW1LbnQ4TzRFcV93UHFVV1V4SHdhUU9qZEotNXNCOA?oc=5",
+   "id": "cca066b4f8",
+   "title": "Bolelli/Vavassori battuti da Skupski/Harrison: ora è durissima",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVYxSzJEeTFtb3FnNjU2NEMxSHZQLXk4VzVpd2dxbVEyd2o0STB1TlBfTER2eERhOG40aDBNUVh5ZlBWUDR1Z1UxSlc2VDg3dTFXYjF0UEIwVWE0OF9BNmdMU1F0TmpJODluZ1VOVXEwdHQ1VXNET1lkZTF5T3FMOF92SFpyLXFSLWxscHBWWmtvUUw2b2lNdUN1eTg0M2M3TnVZQ2hR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Amica",
+   "source": "SuperTennis",
    "region": "IT",
-   "date": "2026-11-18T12:41:37+00:00",
+   "date": "2026-11-18T12:55:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -330,65 +384,14 @@
    "topic": "Society"
   },
   {
-   "id": "a4fe919d63",
-   "title": "Julio Iglesias indagato per molestie sessuali: la magistratura di Madrid apre un'inchiesta",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWG9zX2lqVlRFU3FIQWowcWJsTFNxZ3FCQ2dxeno5Y0lfd0VIT0s4TTMwTkxaM2ljZ3VvTG94amdrd3U1Q3AxRDhmeElkV1JoNFZpdVhpWFY0czRtZHJRbUFsSm5JTnpmR3ZzWDNBb2ppMHlxVE5KdFFhOXlfMUFFcTVuS2dDRElKNHVmTGtUUGRXZ2J3Y0RkMnVvSktGSXZkWWNjLWtvQW82MUZYektocWtVMzdLUFM1c0NuaHZxVjRfaWFoRVRrdUt1TkRNTXhUWVNaUVY0UzJzV25TSnNJemxCTXlHMXExeDBkNDNScVVfX0FkRGttczZ1WVlWZWN4WFHSAYcCQVVfeXFMTTZ4Nk1NeTFULWIxSXRja0FNNEZlZzdmQUZGWEU3VGpIUWplempQbk14Y2xRblAtaWhpOEhjUDNXY2ozZDR5c3RWT3ZLcGxfZ244aElBSE83ZFVCa2hmd3MyUldIZ2RKQkFDYVY5TEdPdTRLWWRpamFOZGVxUDBodGRWRzFXUjZxVnI3WU0zSEg2anBwRTMySFBHZVFhaFJXS0FGUGRBY2VpV3pUbW5ocUttRVJmTGR5NGN5V0htOTNNZk92b2JvTnh5LWlVLTJmZmhOdi1ZUlhCR2ZMUk56ZnRlb1dCaGUwaDg3cDdIWU9OWVhsUmpiX3BHZXpyWUdTZG1ha2ZUQkE?oc=5",
+   "id": "962514dad9",
+   "title": "Spagna, il tribunale apre una inchiesta su Julio Iglesias per violenza sessuale",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZWhKenhkVnJPaDFOeDdzQS1HWldOaWh3bFNEMmxRR2NCaFFYeDVvSkY4RW5PMTRtRlNBM2xGQmVXX1lHWk94bjRaWjVSVktwYzFKMThIRkpoVFZxdTZreno1ek9IeE9BblNlSmUwX3pLUnNlY3pSUFlmTlVra3NLUkxBUXFud1BGLTVaVzhuNk14b3BjWmp6NEVHTUxrVXlvTkxlQVpqa0tON3hGcndJaEI0UXJFanFrbkxzSnFnaXBtcEhWY3ZtYUFDcTNBRFpLRTlKNFBwRWJsOWc1T0NacDhIRnJGZnczYXpFckMxVXRWbFZESkJqSFhlaDRkNkHSAYQCQVVfeXFMUEJ4ai1nczIxdjJTSGYza29PUWVoZG9Sc3VTYl92dUhGQURkN1pvZUtTdmxHZXFWcjZtWHpxbFNiSjRpMno4QUNYaUdfajR4VzZMa0JUVE1pTUZzblI0ZWstVHJjdWdUbUhwQXRLYjFPZzJlQUZBUUNFS2s2NEZHMjZoVXJZVi1QSmQ3NUhtaFM5MTBtMVpueDZxUzlZaFdkR0owUmdxeU9mS3JfNGs5b0htWUtOSFc3S2g0QS1mcVkzZlMxeFUyaG9ESEx5TDdGTC0tZmhKVEp0dk52b2tZRUh1Ung1RjJEVTZpUWFkMHh0bnp3SFc5MU5aVTVpYTNOX2VmSmk?oc=5",
    "summary": "",
    "image": "",
-   "source": "RaiNews",
+   "source": "ANSA",
    "region": "IT",
-   "date": "2026-11-18T12:27:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c343295c95",
-   "title": "Performance cauta per le Borse europee, si attendono i verbali FED",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3BXbjdUNW40RW4wOUdabWowMmhaNXp6Vl9mcU9yeTVKeG1rZHY2eTQ5bkxlMzJBeENtcE5FUU5GQnR6ZkxqdmhJOXRNOHQzSk1WUjE2NjY0ZG01eWhIY0JrMWJxbUVqaTVvOVZLNjBIaWRoQTRhQ0lIRnZBQmN3Qk9PV0o1YnhTRjBYemlJVFhLSnA2aUtRQlBiZjFTSUdHYUx6ZldxVkhnYmdsQi10aXl3Q0xXRGFyR0p1cmNVWWVrdEYtMVpINjZmZXVIbHg0Tlg4S1JtUHgyNVlLSG9LUkdXTG13bkltc2wwR19ONk4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Borsa Italiana",
-   "region": "IT",
-   "date": "2026-11-18T12:18:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d6a67fe3bf",
-   "title": "Allarmi bomba a scuola, identificato Andropov: mail non mandate da lui",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmR0YjNrVkZYTUxHTlU1SG1JQklMc19qQ3h2MjAtcWw4bWpsckdra2VVVXJYQ3NKMk5fMnpjX05YRVNuVVdwYzNOTGJoNEdoaEM5Q0RYTXBQenBjQXk2R3ZjNy1PV2hQTy15aXFUZ0hEbTJ0ekpLQkJsOHZnU2lya1c2cHAtU3hZZFI5RUdWeTM0X1FnLWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky TG24",
-   "region": "IT",
-   "date": "2026-11-18T12:10:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "67c34cfe01",
-   "title": "GTA VI scrive la storia e raggiunge Zelda Ocarina of Time su Metacritic: eguagliato un record che durava da 28 anni",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTWnYzNEh6RjE2bmRtRTJnZkxKazdRTmdQZUFVUU1QZXdPMjJtc3F3dUsySTNHNmpIS2xJVkNyYS1MbmN4aUVYZldIUnVtR2hBd0tBUm1LOHdDeDZ2ZjFZanJsdFR1S3RWY2NFZtIBckFVX3lxTFA3cUNNNzRJSHROb29yZjBPMUQ3UEJTX3ZPQjdTb01TOUtaOWYzREJqak5BWG9Tbjdra1Z3Q0U2Mkl3QURONjNoMnVrVGZKMUZ3NHZIODBYdzdEakllZ2JGdE5tVFRtNjNrSWRMSmhNbnh0UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Libero",
-   "region": "IT",
-   "date": "2026-11-18T11:50:00+00:00",
+   "date": "2026-11-18T12:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -406,6 +409,23 @@
    "source": "La Stampa",
    "region": "IT",
    "date": "2026-11-18T11:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f45a6e363c",
+   "title": "Allarmi bomba, individuato l’utente Mikhail Andropov: “Non c’entra niente con gli attacchi\"",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1pWYlVWV04tSDZDTEE3LVpkaVVVeEhvWTJQampVWUc3LTFMdXJCSEs5VTVGU3FyMk5lSkpjX1BTTF8xaGQwc1BHT3lWREI4aHJCcGs1Qk9hZ2Rnbm5PanpSWm51dEFEV0NFZEVKa1p1UUZ2ZUdKTjlnZWZUODFPMGV1Z1RCN3A1QkFmQUY5bGZsb2lrSm9ZaXQyeXRib2dJX2l3YXJHb0cwQzZxckNrSUxWcFROSHFZa0IxSA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "la Repubblica",
+   "region": "IT",
+   "date": "2026-11-18T11:33:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -449,14 +469,14 @@
    "topic": "Society"
   },
   {
-   "id": "51c9492a7a",
-   "title": "Revolut, spunta il nome di Antonio Bellocco: \"Assunto per fare volantinaggio\" da una delle società citate dalla procura",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ09IckowUU1fSWx5MkUxNVBwOVVfU3JCM0RQaVN5cjQzajhPVkhXYkdQR0RNV1JDcHdzOVpnSC1YOHpXNGJtY0tkeUYtMTRITVNKMkNUQ3Rqal9haUFtUGNfQmIxNTVHaUVFNXhPZVZ2T2Q5WUJIXzA4OERHV2tVUDlBNkJObXR1Z0d3QWlUMmFfQXRaMW45QdIBmAFBVV95cUxOV0REbmZyYXFLc3JLeUNjdVg1bFZFNTJ1QXo2d2kwQVJIVmllSFFaam5vZHRkVXozQkIzY2lnaWE0LUNiSGJNR2xqdWRrdWR3V0VGWHZISVUyVW1oTkMwOXJOc282bXZVSnM5TUdlYjZOVXVYNGZ3WFNHS3d5WnhtRi1QbHdLa2g1b2tubzd3aGtLZWpvS3ZOTw?oc=5",
+   "id": "d66be20d35",
+   "title": "Dopo Milly Carlucci, il Tg1 ospita anche Barbara D'Urso: \"Mariotto ha spruzzato il profumo in faccia a me. Mi sono sentita umiliata, bastava avere il coraggio di chiedere scusa. Ma sabato ci sarò\"",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQUGVDa2Z2d3ZST2lOU1lYQThqWi1DZzVPRUtxX0E0dlBmVzFUMXBXUXkwcXZkMl9fVTNQZnVMX2lNY2Vsd0prZU1iS0NOS1J6cXpnRWtISUR2WExkNTNuWXVGaHhWZGh5VlV5RnctNEZYOVFnTlBxVEFLVnIwTUxZOHdIWXhVV3FmaEVraU1OczIyUkRjdWU2WFhaek1ybm9KcGdfUk5uaWlMeGxPNVlOLWFuRXRTV0VjMnAxSmRuZWlzM3FrTEdoaHY3TzRJVmROdWx5MnpnN0Y1VnJHUm5tVnFaTWZUaDR2MFU4Mmg2ejRHR1NOR2xSLTFrTEV2Z0wxWEt5YmFWN2oxLU01TGdKWVZvTHktOXowaDNWWFNJcFZTaUFlR0laOXAxb2xGRlFPb1lsb3BPYmxzZ2pIZk04aTFwS0ZNbVlubGp5Q293d21seklBN2ZUV0tXSG53dw?oc=5",
    "summary": "",
    "image": "",
-   "source": "MilanoToday",
+   "source": "Il Fatto Quotidiano",
    "region": "IT",
-   "date": "2026-11-18T09:35:47+00:00",
+   "date": "2026-11-18T10:14:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -466,14 +486,31 @@
    "topic": "Society"
   },
   {
-   "id": "63d448de1b",
-   "title": "Bce: 'Rischi elevati dalla Ia, bilanci pubblici e tensioni geoeconomiche'",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb1N4MlFOOUpnWVFDNmdQelotRzVHQnU4Y3p1RFdlSnZNSExadUxiZFVFLUlwejhjMGM4YU5DZW5rRFNMcXNVcU02Tk1lbENZV3JtanhhcGpZbHV6TndEYXRrZDY5VFExZFZOc2Z3SnhWVmJQX3NqZzJoWVFxdWxZNUNvaWhPRVpFeXBFQVd4T2VrTlNGT25Zb3dRQjdKWVpwRHJ3M2NsYzRYNVhLTmxiaDZOYWZ0VXBCQjFZN2xBU1h6QWxrY3JsZklPTU55U01DVXNLZU9uS0RIQUo1dFBBUGoxZTFUZmxLRFV2UXBtaVlDdUXSAfgBQVVfeXFMT0R1SGJuczdXTnlkQ0E4ZnlEbzFGaWRNUXp2a2E1emJGVG5ZaWpUUDFBOHE4U3BzZWNwT01tUy1mYUJmenkzT1I1ZUhLU2JaT1A1RVNHdFROSUtxT0Q2bzV0WTFweGFBbnAwcHQ4bWdzWXZFZzR0RzV6ZVJJWTVQNTBXS1Vja0M1TnNSamRYS3dXTnVJbW9jNEVoaDBZMTlsMjl5c3JGUGRaQ2pTY3RXdUlud2Y2RHdjWHFvYlh5SldmbWtJTGRyekR6cFZZVmxnQ3pRak1rUkNUVDl4NElsQy1MV1ptYng4UktZVnJLb1hyd2FOWkVoazE?oc=5",
+   "id": "c701cbd792",
+   "title": "Borsa: +1% Avio, analisti spiazzati da Opa finlandese tra aperture e golden power",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNckJuYnAtNVRrMjlkMjRuVlhJaUpxZTZPeF90WFRPczRUU0t1YmQySHpfTnFIRndua1JlcEMwZTBaY21TRVVwZFZONW53d2JEaS1PbDAtQkhLZ2FPV3JmbzUwQ2JSb2NzWTNGeW5qUjFFM25qOHMxTVZ1N25HbzVCQXRxSVd2Q19rTE9WQzNMblgzcGE4M0NsV3VLOTN1T291cGFFZVYtVkNaNGxNTG82Q1VJWHNYandtZlNCTlhiV09nNEhCdU8waWl5elZDQXc5MHBmY3VNdGpKNTNLTTh4QlR5T3NRTHVySG42RGdqRkdMbzB6OUFZTDFHVTI2LUpDNnJSaHp6SlNpZmhlVEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "ANSA",
+   "source": "Borsa Italiana",
    "region": "IT",
-   "date": "2026-11-18T09:01:00+00:00",
+   "date": "2026-11-18T10:05:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "70bb695956",
+   "title": "Mercoledì 18 novembre",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1RTZ2M01OVnFYLXd3bWRxNEhQUm9qeGVpbUVsMDNNSlVfN2JQSXpHakh4LUphRmpUZ1NQaTIySTdJWU1XM1Zqc0RETW54RzJwSFJ3X09KZll3Z3R3R0NPZFZFLUJZVnU4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Il Post",
+   "region": "IT",
+   "date": "2026-11-18T07:11:18+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -542,40 +579,6 @@
    "source": "la Repubblica",
    "region": "IT",
    "date": "2026-11-18T00:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bf77ba5d4f",
-   "title": "Sciopero generale Cgil del 20 novembre: chi si ferma e chi no, fasce garantite e cortei in tutta Italia",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUFROeHFGRndieXNiUzhwNzd0cDNIcWFYLUp1U1UzVkVPbWo4RWhXaGRCUl9nNzdlQmhHNmpDU1E0ODhfUXhWSl9Rd3dYc1c1NW1LRnFWeE1hT2tiU3lEX29NcllaU2Y4Q1pFV1NlbzY4cUk0Xzl4YTA4a3diY0dDdkNQZWpRa09HczhfX2V0bGxBSGtzUWJxMUI5NW9nWHRWaXVCWTM0SjdKalJRWEp4aHFCbE5QQldkQXEzTlJlOFE3N2R4OV9CanN4Q180bjJ6?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Il Sole 24 ORE",
-   "region": "IT",
-   "date": "2026-11-17T18:35:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "391fe93713",
-   "title": "Di Giannantonio-VR46, ultime due gare prima dell’addio: l’obiettivo è la top-5 nel Mondiale",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUFVidGpUdXVxVmx6czZ1ekEyWVRRWTh3LUxKZzhsVjg3TEZyZGNuY0tINmhmeElCdFB2d2didlkzWFpSM1JEdThNdFNZeFJMRGdZUThMMXZ0NTdfMlFYV1NRVVBiNFA5QzRSeGRMcm05TVd1OXdiLUxRLWtnSUNKaW9OYml6SXNJdmVfLVZaQV9iaV9jMlpTWGRhM3loT1drWFRmckR6UVZwTFZQQnlGUWtjRHZtUlF4NDVPYk1IcTdSMjdKV0VOYnhGbnZUZlU3T3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "FormulaPassion",
-   "region": "IT",
-   "date": "2026-11-17T13:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
