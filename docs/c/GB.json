@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-18T11:26:19.050260+00:00",
+ "updated": "2026-11-18T12:25:31.984038+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
    "id": "c81b3939d9",
-   "title": "GTA 6 about to launch in UK after 13-year wait and two delays",
+   "title": "GTA 6 launches after 13-year wait and two delays",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52eWRacVFwVkp5S3NhZ2ExWFBId3FKTGxSbjJqT2JaZGwzWWExamUxMF9XUzJSOFlzV2NWQ2pzTUFNVGRVUzhTNjFOcUExNEhjMXpYSjJVRlA?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-18T11:14:44+00:00",
+   "date": "2026-11-18T12:14:32+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -28,7 +28,7 @@
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-18T11:14:01+00:00",
+   "date": "2026-11-18T11:45:32+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -38,25 +38,58 @@
    "topic": "Economy"
   },
   {
-   "id": "10a4ee259b",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOGlCUHJNQVF3R3BkMURkZ1E4TDNXWXhSYWZDc0lNUmlQUmpqSlBCTWNLaUp5V3BpVGJoSjMyalV5MlM5XzJ5YnZvai1iS0xVai1UNmlBUDkwX3NHVUgtZ3BJQ2FKOHNEZlpyUERMT3JrdHZJZXEtaHJfMmxybVJ3N0dOeExSZ0hTOFprZUxlVnFZdkxPa2hsNlNWMVluc1VrVEJhaUpDeWtncTRqVE5HWkYyUTRqQW1ZU2FwUQ?oc=5",
+   "id": "4d4e959d23",
+   "title": "I'm a Celeb: Joanna Page reveals 'awful' comments from male actor",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zeVlFaHNtSUtMVlM0Y0pTU2xrMmRDeElPMUJnRXh6TmJ4cm14N3N0WTdYMEJSbXdMcU1KM2hsdU51ZEhhSHRXR3RGWGlwa0dPU1dlLVBHVXVvVmZ6TkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-18T11:00:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "c93549d7fb",
+   "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3RqMFJBV29zRWdMOWZhLWpzZmo4YlpWMnhZd2k5VXBpWU1xZTM2VUNEOFkwV1J4STFoZFhiSElEYnVYTU5RUUFzZ1E3RHlFYUYwSk5VbFJKdExOSUM4TUZYMEk5cVFXenA0V2JMVWNaVE11ZG9kaVdUQ2pDSnV1OUxpcHZaMkpJRGR6ZVlMRjZHWXFYcE9ORjdkaHJ1NmtfM214NTZDN1A4SjdLVGM1SU1qWdIBuAFBVV95cUxPajRldTBMVFFRSnZjdENVdnhHd0dXTXJSMTdQaUJ6V2QtR0p3VDAzVmlDN29Iemw0dE1PNUY4QmRIdm9CVjJ6LXUxMkZpWjQ3MFY5dGFIa3NyVFlJUTZnTUl2UVFxVHNDTVo3d0RreTc0RTF3NHAwcGpFVGhUeFVXRkt1UnNGTnVRb2R2RENCakVkVVoyRVlLZWVjU0hLUFRvWGFFVUlqeHB4dzYwdW5ieG1oc1Q1TnlH?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "GB",
+   "date": "2026-11-18T10:42:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇨🇳",
+    "also": [
+     "China"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c4edff571b",
+   "title": "Get vaccinated, don’t vape – and moisturise liberally! 10 doctors on how to avoid and treat winter ailments",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcHRnc0xMOXZUUDJ0Ujk4T2JOZTVKLWhuSHJlZGNFUDY1NTFzQjY2RTFGOE83MDRMRndwQ3B5ZjR2V21TYS1uWUlxekozSXNmMkdqbmFLUXlsTktoZmZ2QUN1RHNGSU1rem15dUdhS0p6dWxXWmtnZTdEZFpqYnV4R0l1SVNTYTREZnRWc1ZsTk55RlRuWFRCNVdXQU4xZXRkQW1LenVoN3hRM2FYbFA1Z0xSeEl0R0JPSTJZYWNVZUFUcEJ4VFhzQ1BDb3VINkcyY3FLS1YyNUdRQm9wdm9JSXFCZmRIQmlJazRj?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-18T11:08:00+00:00",
+   "date": "2026-11-18T10:25:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸 🇨🇳 🇷🇺",
-    "also": [
-     "China",
-     "Russia"
-    ]
+    "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Health"
   },
   {
    "id": "45f56518cb",
@@ -76,21 +109,38 @@
    "topic": "Society"
   },
   {
-   "id": "c4edff571b",
-   "title": "Get vaccinated, don’t vape – and moisturise liberally! 10 doctors on how to avoid and treat winter ailments",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcHRnc0xMOXZUUDJ0Ujk4T2JOZTVKLWhuSHJlZGNFUDY1NTFzQjY2RTFGOE83MDRMRndwQ3B5ZjR2V21TYS1uWUlxekozSXNmMkdqbmFLUXlsTktoZmZ2QUN1RHNGSU1rem15dUdhS0p6dWxXWmtnZTdEZFpqYnV4R0l1SVNTYTREZnRWc1ZsTk55RlRuWFRCNVdXQU4xZXRkQW1LenVoN3hRM2FYbFA1Z0xSeEl0R0JPSTJZYWNVZUFUcEJ4VFhzQ1BDb3VINkcyY3FLS1YyNUdRQm9wdm9JSXFCZmRIQmlJazRj?oc=5",
+   "id": "598aa651e4",
+   "title": "NASA Voyager 1 probe believed to have reached 'light-day' milestone",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZElsVDJXZEEtTmRRNDZYN1hiZUt0SndSYXpKSlNLWlhZWjFOT1l3N2hLMU4ydWh4U2lsbjBSazB0ak9pcV9fUVZVS3dkaVVEUUxUM0o0bHNGSmFGbXJLZExkczk0WWMtMjF1Ti1mWFFJaWF0dWk1UmtBVVZqdHdoMDRUNnBhRmJsX3hMYTdqa1RuMl9mVEo1ZTZUWFNKX2hPandoa255bW1OUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Reuters",
    "region": "GB",
-   "date": "2026-11-18T10:00:00+00:00",
+   "date": "2026-11-18T10:21:49+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Health"
+   "topic": "Society"
+  },
+  {
+   "id": "9ba6839071",
+   "title": "Boy, 16, charged with attempted murder after Chavasse Park stabbing",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHNlTVRZNnoyVWVPakZlb0p0WXpqdXAtanVfSkI0UVJ2MWw0T0xLajM2U1N0QXROQlBOVHZtdExxNWV3bUJRMTZ1QjhvOHZscGMxLXNuVnZ2b0xvNkRXNms5cFZwbDFKVk53QXhIemxveXFGb0dUa3UweXRMazhiM3d6Z3ZWb2FhWk15VGtrSFJURXJQN3Fr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Liverpool Echo",
+   "region": "GB",
+   "date": "2026-11-18T09:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "978fb72f9b",
@@ -101,6 +151,23 @@
    "source": "Sky News",
    "region": "GB",
    "date": "2026-11-18T09:45:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7cd1e40f5d",
+   "title": "UK oil producer quits ‘high-tax’ North Sea to focus on Asia",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXNCeVNuUU1aVWJETUcwbDBjcm1oZFBWclhvVURwaUc3NERGY2xBTHUxQ3FKQlA2NFNja3E0NGt4ZW1XQTU5UW12ODFYVkc4Vk1PdGZZeVFtYTNpWk9wR1NFOWtxT09BYXFoYjloenAxaVRnNi1EZWdybUFodlhuU1JOUHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-18T09:35:17+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -130,75 +197,92 @@
    "topic": "Society"
   },
   {
-   "id": "50f00548f7",
-   "title": "Lammy urges Burnham to take UK back into the EU",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4Y3VpbGc2R21NSEdpa2tlaWVYSjExM1UzQmxLTE1PeGRZSERlM0RuZ0pVZkwzdEppc1BtaWo0aGYzU0FVS1pLNHJZUXFjZUh3N3JYRkc4VU1jZ2FhdHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-18T09:03:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3011e23b94",
-   "title": "Australia vs England LIVE: Ninja Stadium, Hobart - cricket score, commentary & updates",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBULWdvbnBqdkdDMzg3S1lqMkItX0tXcnN1WXBjMk9FZmE2YWIwbmRaTlVfN1ktV3p4SUhqZUNGVE90MXdRS3ZxWTgxS01xTkpoNXN2ZGJ3aGtvcXc3N3pLZHVvaw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-18T08:20:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "3819a1026f",
-   "title": "19 Killed in Military Transport Plane Crash in Siberia",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDNLSlFmZ3RMMXB3NGcyaHlpbFhqS0c4X21VS0tCbjZYa0lSNVVxRHdpZU8tSERHdjFYUnFjTzFscjBSdUZ1WGJuLU15SXVHSW1obm85RU04d2t0REpkdk9qWWV2VlNUeVUwemtGT0hEWjQ4YkhpWHhhWWd1LXFNQTdXUTZaNVR1WDVxR3hoTW0xa2xsSG1HdkxQZ1VhWU9RQXN2dGRseDVxZVo3M3pxWWRHWXBnTFBHWFdDSDVGZ0E2MDlfbkpF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Moscow Times",
-   "region": "GB",
-   "date": "2026-11-18T07:12:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2f69b2f584",
-   "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamlMSFR1VS1LcjJjd253VGlsM1lUa0ZjZXJjclZ3ajdqZTdaMnc3dUdhcDd6RV9XWnNSYm1EM1BGTDZvTUkxTHgzeWw2TldJYm1JQlN1UHlhRkZJalpGZEFqT0lWNFR4N0pfSWVxZTg2LUJYRUhCMFhYTW5RVnh0dXlXcHcyRDctMWxZSGlaT3Bhc2x6SXR2REV3?oc=5",
+   "id": "240ce33a22",
+   "title": "Burnham faces Badenoch at PMQs as Lammy urges PM to commit to rejoining EU – UK politics live",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNDk4QnRoRllZLTF0RG9BU25OcTU5bWNPVElYTS1xZFhtVm5aRHEzeHp5cm5CVmZCYzhSVEptak93WnRRR3B5VW9Tb0d3emF0ZkpXTnVQemU4UTBMUVdIQWtJYnpJaDR3Wk1KZ2NjZV9yQkk3THpPbEdvZHlxMHd6MFE0bEpvd1I3aE9SR1RlSktJOW5GNzRlLS1CaGhGRlZ2eXBEdkdRNzJBOXpJcnNmaExLYV9YQzhwZld0bEV3?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-18T07:01:00+00:00",
+   "date": "2026-11-18T09:04:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Economy"
+   "topic": "Society"
+  },
+  {
+   "id": "9c7f5e9856",
+   "title": "Xi Jinping greets Donald Trump with hug ahead of historic trilateral summit",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDBFWUtRcU9fdVhpZS13SDZ0aGR1QnpBM00xVXlHeFQ5ZUQyNWhoV1BMcF82V0taOUhiYWZEWkVndlk0Z0tZU2IwMnh0UlI0aERSUU1OX3k1ODRneG1ib3l4aVBKXzY3ckdHS0N5MVpaX2tQV1k4bFpIWVMxcm14VUZkcmk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-18T09:01:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1c8c58393f",
+   "title": "Democrats win Alaska Senate seat to complete midterms victory",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmFSS25TUk9lWFQzSnJDUzFOc0ZOMkNrc09kejA4R0I1VDduMjJqX0pZUnlRQmd6V1FuQXozR05nZFJpUzZiOURjODBUeWZqb1BEODZBTDVuZFFhSVEyMmhUYUgzcG1MSEthRjhfb2JrMW5MN1NCVHNoQ1BmTmowWFctR1M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-18T08:30:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "04eb708f29",
+   "title": "Being unhappily married increases dementia risk by a third",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0tvQTJDU09XX0dNRy0wb3NpdEZySFUyX3FCa0s4aUtFZ2xGOUVmVnE0OEt5Y1hFc1U2UXg0LWNEYmJhdzN1bG1zbHNGYkdURkNWMWUxOWVHSXMybGVXd1NzWmFWWjBaLUZNZ3NzTExOSnhkTTE1OFNsVnZ1WEdXczd1VTQ3OVdsdXBFdzg5MWVBU3VhQlN2cEdhbDN3Ri1kdS1j?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-18T07:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8fa881191b",
+   "title": "WATCH: Dramatic moment hot tub explodes and bursts into flames in Rochdale back garden",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEJqOHcwSzJPRTkyUFBIcUh3Z0JrUEhxTGYwdGdoUUg2THBBT19mUFFVVU5xekRtY2ozV3ZNYXdTeDV0VTZtSm1ObXZ4bTUydC1nUXBJVEpnZm1KT09SSWc5c21zeFB3cEItc2JFZUJKM1p3OU4zaktzRFNHY080ZUlqN0lFdjNQdjNaUnJRQUlnNkxqUk5oV0FaemlxM25Pd1ZRUHFHZWlzVHdLdFHSAbMBQVVfeXFMTy1QR1l6eHJOTF81QlhWUDZFWGRhN05waVh2WXpaRGtKSmJ6MU1rbUJJbmNqUVd4aEs4SmNXRUQ1V3VTZXJyOTNJdFY4dWFUUXM4TXB5Nm9fY1B3NG0xcGZPV2VWSVFyWmpKRndFQzJhbEJzU1JWbGNWVk01a0pYWXhKOFlWWkp0c2Q3clpoYnRWbTFhYmxFNlNTdFc1VW1Laks0Q1NzaENJajU5Rm5Lbkx3U3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manchester Evening News",
+   "region": "GB",
+   "date": "2026-11-18T06:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "9622eb989b",
@@ -252,40 +336,6 @@
    "topic": "Society"
   },
   {
-   "id": "f1557e165e",
-   "title": "Britains worst bathing site: is treated sewage to blame?",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MRzBBZUpza21oU2ZEelNEZ1ZUSGlhSm0wWFNZMk5abHlqYVMzSnBkdW1YWHVpd0czd2NMeDNWb2E0Y3J5SkgwbDB4bzNJeFhyS1UzdDU3djNSbW5fTHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-18T06:12:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3acb7ca735",
-   "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85T0JhbFJ2LVM0RWxjLVpHeWpkSkljcVNJMnpQMHo1RjlCZXNMeUV1a3BwWDc4alFRc3Zhem82YkhJWjRvcHNfRk1IdWJ3bDN2V3h0LVJ2Wk1ubExpLXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-18T06:00:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a7831a7f92",
    "title": "Andy Burnham promises to 'move quickly' on Neets report",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tdnRhM0FVYzhlTy1COUtoX3lqZXFjSVFXMzE5Nk1idkI0d3BfaWRWUjgtelkzSWUzQ0pEMVF3cnA4eC1SNEJnSVRjVFpsZG9NcGR4ZGRNQks4Z3RIVUE?oc=5",
@@ -303,25 +353,28 @@
    "topic": "Society"
   },
   {
-   "id": "01d5f78697",
-   "title": "Deutsche Bank hired a Qatari royal. Why?",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWNPWC1QTWZGZmM2SGU5WGZUOXVVZ3NGY1ZPU1I1bXQzQXJHck05SWlBblpoX3dkTXpQRVlMYkJUdDBnX0Fib3dWbVRFUkhQV2JGWFlRbVdJMUFPbmwzQ1RRV3JWRExyVGpaZTRDYXJ1MWNQWTZxU21KQ0pUakxDU0t0dHk?oc=5",
+   "id": "cc1e6b02dc",
+   "title": "The Russian oligarch, his British ex-wife and their £600m divorce battle",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFFDa3QyOFlTWUVudm5VdTZ0V3R1ckZ2cUx1UjRrbFhOeXJvNFBZY1lnOXJWYTQ1ajZ5R1FlUVRzdHZYWWRuUG9VUXdqak90c196TmZDM3ZvNUpmYndhMmRlSVJ5RHRjOUFsdEFzNkc2ZnRBMDNRUFhpcUhjUDVKVVpPajBJckM0ZmNlclpNSW9PbWhFNzhyQXlRd2xDdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-18T06:00:08+00:00",
+   "date": "2026-11-18T06:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Qatar",
+    "country": "Russia",
     "place": "",
-    "flag": "🇶🇦"
+    "flag": "🇷🇺 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
    },
-   "topic": "Business"
+   "topic": "Society"
   },
   {
    "id": "5a5940fa08",
-   "title": "Saudi Arabia steps up orchestrated disruption of UN climate talks",
+   "title": "Saudi Arabia steps up disruption of UN climate talks",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjk1b3RnYjBhM2w4OE9aUXpHUnh2QUxDdzVHbWJIN3lrWG1Pclotb3NGZ0N3cWs3dUtKSkdOdk1RRk1CS3VoRjZHNWhHTzlzVDdCU0NnX1BsRDU2ZDJOSnZnbzNqa2p3RVhFdjRENUhyWG1tUjRkdkpMWm9NN2czSFJYLUQ?oc=5",
    "summary": "",
    "image": "",
@@ -333,23 +386,6 @@
     "country": "Saudi Arabia",
     "place": "",
     "flag": "🇸🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "eb76be25a8",
-   "title": "Drinking beer and spirits raises risk of acute kidney damage, study suggests",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmNZVlpKX2xjdkxKcnAtRENSZ2pheC1nN1pBOGhFYmFwZzJadFNYd3RqTXhQUDVKanZCNEtUU1pPZmxlaGxqSlQ0Z0VJT2pjcDh2VW9wTXVhTVdyYmdtdEZodWV4a2VtSWU1QVc1Q3UtaVk1b0hjVEpfQ1JaV1IxbmhCVkp4dUFQSjFLdE9fRVNSay04U3M0QzZVZjRjeW5xeUpHbExENWZSVHdoeV95M1lfemFuSk8takstbmZB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-18T05:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -425,6 +461,23 @@
    "topic": "Tech"
   },
   {
+   "id": "9c905430fc",
+   "title": "Nvidia shares rise after posting record third-quarter revenue",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNODFqNmVXTFNYWlAyNHhhd0hUeXY3WmhfMUsyMFFjYWs5TUdRZ0NJQzdIVEJxRWhUTlhDdUFtRy03eGRSTllJdGUxU2FjMkN4c3QxcUtObzluTHlWdVd2U0RKV2dxV2RmdjdZVkxrQVhHQ0E3VUJUVS14WGZTRWxweFgwZUxQQTh4YXhpZHBYT191bmNjcFl2V0xsOFpkMjg4emVpMm5NSzRad2p5UWI3OQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times",
+   "region": "GB",
+   "date": "2026-11-17T22:35:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "98fe2f04e8",
    "title": "Wales 2-3 Portugal – UEFA Nations League result and reaction after Carlos Forbs hits winner as visitors hang on despite red card",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYm5tX2Z5ZU5pSl9aRlNya2tRWjA3a2lxaHZTWENqWkYteXRmWDJ0VWplMnhaQ3MxZlFlTWJOSjk5S2J4MGcxQ1pkTkx3dnA3OGhuelFmUFdhT25Ed25ndjVXc1U2RWRhV3dCZHFFZl81M29qUUJ0VERoZGppR1Y1Q3lITGJqWkpHZ09TcFhhaXhEbzBUNFc0SnF1UEZucURycnVFYjZMVWJXWVJCVm1xczNnNDBQdw?oc=5",
@@ -462,6 +515,40 @@
    "topic": "Society"
   },
   {
+   "id": "582038b7e5",
+   "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0dkbGRqZ25oSWQzQ2sxWDBtOGxmZEtnUTlrMjRaYnAwSFRaMERuSm00Zi1PSkhieXhFb0dqUGlqdVNMb1ZFdnBma2dqWm5mUHRzYnZxVUxhWjFSblpwTWhMTVJjT3Y2cC1MZW1sMU5EWElnQm5ZMFdpcHpfTXAwVVVCMWdGR0l6V0gxWW9B?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "GB",
+   "date": "2026-11-17T18:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ea44631902",
+   "title": "An old-school mission to Mercury",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjMzZGlrcTZPS3UyREQ2QWo5ZmdrRy1zdkVtanNSWDFWVjlKV3cyQlVCNmdUOHljWWYzWmdJV2xHTDJyUUdsLVZJVWZNVGV2eGRtbVRadV9UOWI2QU01ZkR1cnJmcUM5YlNQS2JDTFhST1l3MXRiejY5UGllZlNyVXZrTVA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-17T18:34:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3161eda571",
    "title": "GTA Lucia actor finally revealed and yes, it's who we thought it was",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YNWR5c1BLZ2otVjRPVTJGQmFnbUFuOG0tRFhYdTYyMjhKdTJtdi16UnhqOUFVMGdPRF8zZGZtcEFhUG9FQ3RmNUpoUzFNTERwZmtjaDdjWVNrelY3UG9iRHZDVHhReXRrbWhPMGFsVlF2TV9mS3Jjcg?oc=5",
@@ -479,21 +566,21 @@
    "topic": "Entertainment"
   },
   {
-   "id": "ab6d06b205",
-   "title": "Cyberattack targets BBC, Zoom and Ikea as 178 websites hacked",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3dPM0J0V0JPV2NEVmNGaVZPa0VVM2FyTjN2Q0VZejdQcnIzTjB4eW5NTFNRVW8wMFdLcXhaQjVmUE1BN1hKODBkSEstdnpsb1FTTndWLVZuVzhpVVVaWHN1dll1OEFDZGo2SVBHcjQxcm5TaFN1M2tJbGpNaUh1UkUzQnM2N1hmZkVqU09jdjJDYnNXSTU2eW40RF9qa3doZWVj?oc=5",
+   "id": "3d38bbb9b3",
+   "title": "Rockstar Games sacked workers to prevent union gaining 'leverage or power', tribunal told",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3dPbkhvbG9tRjJ2MnhZemJpUGVWbkxMM3Y3VkgtTE5pLWxpczVIa2paZVVyVGZVakZNS0xBcmNUUmg3azJPd1Bsclh5YTcyRUxKSzVPR3Y4cFFNclpsYWxGUVR4T1p3Rml4bnk3RkU4bVdKTkN3MnZFdnM0QVg0Nk1waWF5RXJYbWNIQ0hxcWhVdU5pUVAwQVJmSUZ3SWJCSmw2TkNfSlpodjQ5aFhici1JejJORldvQXBPdzB4aw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-17T17:18:39+00:00",
+   "date": "2026-11-17T16:20:03+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "ff93d1966b",
@@ -530,74 +617,6 @@
    "topic": "Society"
   },
   {
-   "id": "0b5fde4875",
-   "title": "BBC Deletes Russell Brand Prison Clip After Playing It “In Error” On ‘Today’ Show",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSE50N1BWWjR4OTlOTTdnRVRtQjk0dU5hNGNjQmtvMEpzTUkweF9qVmdmOEZodFNiX2JvTEJpdE50SWdBUENXalZDa1ZxcHJLYlFsWFVJMjhXcjVvVlhxdkpHWmVRa0VLVDlIelA4SG9ROVp6eFJCLWpLTjdPZzhKa3p1VU1SUlhPRmwtcThHdndlWWlsU1JReUp3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Deadline",
-   "region": "GB",
-   "date": "2026-11-17T14:32:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "48865625cf",
-   "title": "Japan space probe changes target over engine trouble",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDdFNQdm1reUYxS1FKVFdXX1BsZHJhRDRCTWRzN1lDUDhMRzcyQ1NJZVR1QWRPUlRIWjBuUGVwdTJGS01hWmZjMlp3aVZHcEMzZkdPUGxLWlBoem5PYks4SnVB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Phys.org",
-   "region": "GB",
-   "date": "2026-11-17T10:38:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2bcf0185c9",
-   "title": "Voyager 1 is one light-day from Earth this week. Here's the full story of humanity's first tour of the Solar System",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjdMOUVORnNDekJkVXNuTDI0dmRDaC1CUk5EUGJCUkN6a3pQZm9WYUZpMjJBOFJFTFdZbTdqcFVaWWtzNnFKQ0JWcmZfU25Fc01SOUJKU0VDOUh6NFNzMWx0MnE1UVZXX2tzT3lrWHV5TG9qUmRESzJ2ZXQ2MXpicEFFYm9sb00w?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC Sky at Night Magazine",
-   "region": "GB",
-   "date": "2026-11-17T10:17:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c2e97fc96f",
-   "title": "Sleepless nights at the top of Deutsche Bank and over-hiring control staff",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nVXg4eFhRNU0wV01MelB3VXZ6dW5uanpVN2J6S2J2Um80b09NVGpIWXpxLUpwaDJtcmVHWUdSdDI2Rk85dVFsZUJFRWxZOWhIWUJ2TTlPanJDV3ZXNzFqbDAzcm5NVHNB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "eFinancialCareers",
-   "region": "GB",
-   "date": "2026-11-17T09:33:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Business"
-  },
-  {
    "id": "75c649507e",
    "title": "Leonid meteor shower 2026: How and when to see the peak",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFbEowRXlmYzAxaVk0dzJZR0tPLXVrVExPTUJFYzQtaG5sQ0VHdDJnUzZ6X2NBQ1lUTUNpOF9FdTgzVmRLVU1Vc0NzUWVsT1ViN1BsZHVpaUZjMzBPMkRhbUF3?oc=5",
@@ -613,23 +632,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
-  },
-  {
-   "id": "e7fdd5c831",
-   "title": "Weather mapped: Where 15cm of snow could fall on UK today under yellow warning",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTFBMmg1VkVENmwxV0lxOVlLRDZqUWZvVUlfaUhSR0IzVnRleDFNWnZSMklfbkQxcG10NlctaHJTdklGVUJYQmJCVnY3WS00aTRfc2FjQlFGLWFaMkp6NWk4N0o0Z0tmallRNVFRTEpqS1V2YkRLYWFYaTZFTTlHREVRdTk0LWpjOW5CdXBEU0o0QTJJRHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Independent",
-   "region": "GB",
-   "date": "2026-11-17T07:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Weather"
   },
   {
    "id": "b4e4ee7d38",
