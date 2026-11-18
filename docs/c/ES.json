@@ -1,17 +1,68 @@
 {
- "updated": "2026-11-17T23:45:28.651191+00:00",
+ "updated": "2026-11-18T02:16:41.526829+00:00",
  "code": "ES",
  "name": "Spain",
  "stories": [
   {
-   "id": "84d51cccf3",
-   "title": "La Brújula de la Ciencia: La sonda Voyager 1 supera la distancia de 1 día luz de la Tierra",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeWZmMDlTdUVjZHNjc3EyZG5CQndlUTRrRnJfTVRQTFgzNVZqRUVPTW9jQllPYVJ4c0hOSk5pY1FBckhZc2txdzZsN3R4Qy1fOXJmeWZLRmpObEhIUDlLMWIwckFHMm9sbjdrTEcteGxGbVdKTEJ3ektlZ2JHQ1hRbXQ4NFJlQkJIMy1xOXNRTUd1Qi1DRXpxWEZiRWdqS19RMzllZWpaZmtmRTVKLW0xLWFlSkl1bFNlUlBocXlIWkFhQWVQbTNxTGZWcUZaeGFiV3FWRmpTVmZJTUdOQVlMY2lUWWRWcnpCdnVtM2ZXS0lPdkFhdC02MWU0dXlhYXYxRnc?oc=5",
+   "id": "fd20204d32",
+   "title": "Nations League 2026/27: clasificación para cuartos de final, ascensos, play-offs y descensos",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOczNiRTlsaEJGUDdVdS1jcXV0OUNXLUdFSVhsbXBLbHdjMC1kOExvMW85U3ByRFFwajNuc0NTYk9BVUp0NzAtRUhwNU5VZXp2UE1CNUM4SVBQcGJ3a2UyTFREWE9melJNakkzVTVIcGxqN1V5ZkNaaUZid0FGSkVkNGFlR0VMMU9DcXpoejgzQjJGY1BtRlpscXJxTG1iVUNCT1NvNG9KdDJNNmgwZTRuWThIOUNlOERySzhGeEh0NTZEWEFWemR5ZGlucWEyM01LY2p5VGxCcw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Onda Cero",
+   "source": "UEFA.com",
    "region": "ES",
-   "date": "2026-11-17T23:24:24+00:00",
+   "date": "2026-11-18T01:43:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "27a4e21ef4",
+   "title": "Nvidia duplica sus ingresos, pero descarta regreso de Jensen Huang",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzFLQjNRNjB2RFgzSTc1VGM5eTUyT2hUU0JlMkxwUEotSXQzeEtjckw0YWlFd3VsRzl3bWxDcktXTzRmOGt4aTVTX216bnhkUW9FRGxDcVlwSE1pMTByLWt1TWRKTmY5MF9XOXVvMlJweUg1aElhZXlrQVJuTkVYWmdKZWdsTmh2X041TkRxMm52eF90UW5nUFpvNXlhQlJvSU1RZXZ5MzRqVm9OVzBSSl8zMldVQUVhVFNtWG53OVJReXFHRTRV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sistema Mexiquense",
+   "region": "ES",
+   "date": "2026-11-18T01:09:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "725789566d",
+   "title": "La soledad crónica aumenta el riesgo de demencia en un 38 %",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFlvcXo4Vk55Z2pGcjVDbDhzOG5QUWNlTWgxd0N6elFFcE5kOGFwWjVnNTNiclRvWndyMXFOM1pJWHMxbmpRdmNMVkVhSVZaWFRIWVFvRHB0aGxzREZsdDF1ZWQ2QUk0LVh5OWN2enhNTVZua3h2RW9wc182Vi1iZFFONmhBSWdDUmlPZEJhY2VYbjN4akR1Sw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SINC",
+   "region": "ES",
+   "date": "2026-11-18T00:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5ccdc06e00",
+   "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2SHV5UF81UF83d1NaQk44WmFkcVJrdVdXT2tHS0dhcU9QVVI3OFBYVWJ6dTdPRXdiaW9FX3ZQWjdwdy1lSk45SkRWMjJkaEt4eFd3bmg3LUtPNFNa0gFiQVVfeXFMTnlic2NsSkRGRFJab1BURGozSnhZaFVrX3JReUYyNEx5bko3Wmp0RVB1Z1ZlSWFzQWNXSzFqQTlmdm91bXY4VkJ0RTJrOTktekc3WS1ncDBBcVhxdTFSSnhFOEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "ES",
+   "date": "2026-11-17T23:50:54+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -38,38 +89,38 @@
    "topic": "Society"
   },
   {
-   "id": "60f40dc0d9",
-   "title": "España se medirá a un 'hueso' en cuartos de la Nations League: Alemania, Francia o Portugal, posibles rivales",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ3p3OWMtZDZ5UDB5OWY3ZzNURlJmLV92LUlvRHAzZHk2SlNkemJ6UmNtS3ltX0huVy1WeGUyWlNJRERWY3RsMURHSkFleUtrU3hibkc5ajBxQ2JIbVpYdUJuRnRjYktQcFBBVjdHS0tnWEhzeGZRV2ROekRoOUx4SGQzQ0pVbTBsOVRnOTVjRHUtVW45OU9DVUhNTzR3c0xpSnBlU1QtQzk5RWE3MXV6WHNSOUhRenRFQllfc2pUM29ZTFpVWWJsSjB1eDFkVDZFYjgxWkVHOFFEMkJUcEZFdDZFTQ?oc=5",
+   "id": "cbe3cbdb6d",
+   "title": "Ashrae y Stulz analizarán cómo la IA cambia la refrigeración de los data centers",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTJSSnpfeTR2T0VMdmZTeWZVTkNFZ0dEVllvamU2NFlkeWJ3a3RmYTFBOGNDUDJWZktUeS05S0tCejBDdHlzUVNwTW0ySDZRTDdkN3J4dGs1a3hhLWJ2MXpZai1BX2FlYm83YmxzX3QycElJTUZDeVNRazZrU0tvRnZkRjh6WVJkc0ZhaFdtTnRwUElNU3phWmFucnYtOEg1TUszRlg3MERsajVhZ1RwbTZfNXZQU1FzY1ZxUWxlWlhlWnBLTDkyWG9jMl9lakoyTkE?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTVE.es",
+   "source": "Interempresas Media",
    "region": "ES",
-   "date": "2026-11-17T22:08:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Portugal",
-    "place": "",
-    "flag": "🇵🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ddb56726f2",
-   "title": "Los primeros resultados de Nvidia presentados sin Huang sorprenden al alza: gana un 105% más",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUdHVUdqYXFuUHFtZl83cFdybjZoVlhTSXVUU25OdDN4Ym9DVHIyNVVpQWM0amhCbW4ybEVQaF9aOVVURGNtTV8tZnQ0MVN2akI0VjNkODlISDJBcjJHZVhKQ0Z2UGU5dDZRR3JuY1E0R3lSS21OazlzNkF1VHhBa0ZnNlZBdU9mSUtvaExkZHMxVnJQOVc1UEp3RFFrZHlNYWhoWDZBbWpYdUN60gGsAUFVX3lxTE15OUNQak1GNEpKcnAwdy1DeHNCZ3NxTjl0MVNKUWRIZ1Rab2N6Qlpzc3Q3U2JYcnhKbHZlQ3NIeHhheTlEQXRlVVdZU1FwUWpQdEhUUkQ1c0phcGlNWmlZSWVUUkFXaTZfcXlkZ3BkZk1NTmUwTjRBcTl0eUNuejhvbFRrbVdnanBjUkJIMW1yRHJ2WFFQTXNEYUhjSHNGaHVLZHRDbGJUSDgxZ08?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Expansión",
-   "region": "ES",
-   "date": "2026-11-17T21:37:43+00:00",
+   "date": "2026-11-17T23:01:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
+  },
+  {
+   "id": "0a3a838d25",
+   "title": "El Valencia baja al barro para someter al Partizan y mantener el liderato",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDhmb25zTy13VTYwQWRwRnFNM1FIejJxQTZ6dGdvSGFkMDZmSUdGWlgxWU1YZkFRX016aW5NbEZWcndYcjNYdGdhUklscF93Z21NRHR2MzJLd1Fnc0hGdmg1ZUVpWmJJS0tOUXZqOF9sSXluWTRRMnlVclgweXo4Qk1PZkhJRmRpcU1DTVJ1bWw1dUY4T0VPQVVLZGlaR3RzMUJPeGdsUFp0TTBwVFdheUxn0gGyAUFVX3lxTE1DQk1fMVBTMDFYUmg5SnU1Nkx3OFFOVnVtTXVqeVlBLVVxWm1yajFsSHJZTS1jZHh0RHZLSnV2cUdKcjlRVmxsQlI4cG5EbW5CcktVT0dCcGE3UHFVTm4xVFNJUHJ2UnF4dTQxZVdwUGZlcmJ3ZDBlRVVMWF91UkdPMU1oZmhsU3RSUHpmREdvR1VKYkltMS13cVBBMDVpcTZWNXlDdHlWNTN2YzRJSk5OSFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MARCA",
+   "region": "ES",
+   "date": "2026-11-17T22:25:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "155650df63",
@@ -89,23 +140,6 @@
    "topic": "Society"
   },
   {
-   "id": "b863ee938c",
-   "title": "Sánchez carga contra Abascal por beneficiarse del bono térmico: \"No es que sea facha, es pura fachada\"",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQmMzTV9WWTNWU21nS2VKUWVHS3REenpuT1ZiejlXSnM3WC1yQ0czdDVwM1M1WkNXSzJTVk1NUWw5Mm9GT0EyU2tkeHpBMlRvVHBpQXM1aGRtWmZiY2RIdGpJdFFuZ1Fwejl5WHVLcDFMWkcwQVY0dmw5MzdhMEhNVFh4U2d3eUJaRjZ2dGZEdlBwa3EtUWE4STNNQmh0b3Y4MlUxRDNuUEdUZ01FclFFYk95enBzaWlzeHVJYkxMNDI1NHlFQU1DVlpwY1lTdXFZaWFBQzFmOV8zWTBo?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Europa Press",
-   "region": "ES",
-   "date": "2026-11-17T20:45:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c78c2cdb00",
    "title": "'Hen', Premio Universidad de Málaga al mejor largometraje de Fancine",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZU9jU1BwTVhfTUtKTFNkTVNCUWFXM3p6d215Z2xwQXdEQnFnb2JPWW93X2xtZFZvVzJqSEY1b3FScDhKSWM4Tmd1dDVDekVFdThhbTQ1SUVsVWJEU1YySE95SGVxaGkwVU9uNS15S0pETUtRRk12SExCNWxSTlgyQU9EVWFtRENZcGpycmFlUkxqbTFmcFZNNkFTUndENW9aRmFmWDhISEZnalZNMHBEMDhFc1pPS0Q1LThET3BWTi1GUWp1TzhVVlh6bDBGMGM?oc=5",
@@ -114,23 +148,6 @@
    "source": "Europa Press",
    "region": "ES",
    "date": "2026-11-17T20:10:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f763b3631d",
-   "title": "Los 30 FPS de 'GTA VI' en todas las consolas es un fastidio. También el compromiso para que se vea como se ve",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHBlNzkwZHZNZ3cwQ1ItUE91MVh3a1BhUkdCT2tXc21jRWJacEppS21IUUg2eFZSSWZCa0ZoMWszN0QwZEcwWXRObEdXbjRWeXY5bnVHM2lhSllDaWVkRHBKbVlFR0J3RmlSU2dOdXh4bDhwQktiLUxscGRhX3Zsd2tybVFmVkxhMlh2MXV4UVM3Y3RiOUc3aEtLQkVjQlBfcEh0OXBWYTBVek5WZEHSAbMBQVVfeXFMTndKY2VGVTNCWVA0TUk2Nm5KUDVZLXpIQkpQNnh3Y1hhZkNlSWtRVktFRzQzMF85MkRXelBOb1NIZTNuU0FHWmZES1BGUnVGcm83clNIeFIyaVVKcG5meGdCMTBaOHg2NURZb2tRWUJPbkdpaHZtT29maG1kd3c5OTVEMEljc0l5enQySDBLc1JxNFB4Mjk2X3VqeFVLXzRxMHFLUkZjQ2w2My1XVk9TR2hJVTg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Xataka",
-   "region": "ES",
-   "date": "2026-11-17T20:01:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -174,23 +191,6 @@
    "topic": "Society"
   },
   {
-   "id": "b7c2a5b545",
-   "title": "Gales - Portugal, en directo: sigue los partidos de la Nations League de hoy, en vivo",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXp0emJaaFBMRkgyMDg4elRiaGs0R3Y2VVhpUXBIckZKd3M4dmFnZEhmY1Ywblh3MHBzeFoyRHpjOFZEcGlZRUdzWXR0Y1lfTlhublpZdVI2bTY4Qk01NkFJV1cycTV3MmJFWXZ6RnhpdlZRbUhrQUJTZEZXQlBSN1BDSTVuVzY4d29yRlhiV25XMXU4X3pFbWdCZWU2dzIxRGln0gGjAUFVX3lxTE4yQ1lTQmlRSWQxTXZRMTRtQjEwMTMyZ3B6MnA2T1VVcTlqekJtV2pQSkY0UE16cUtTWWI3eFlsRFNTbTA2T3NTenRET0J0R2tqZ2pRN2xqc0RaUlRMbXBEblJ6R1ROeWdMaVhZV0xxcV9lbmVzOEJDUmdIS3VHNTVMeDFjcnhCcno3d3dPaUFJVllmNlZuZ1VCVnhIbHpVU3R3Tkk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SPORT",
-   "region": "ES",
-   "date": "2026-11-17T19:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Portugal",
-    "place": "",
-    "flag": "🇵🇹"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9456f91531",
    "title": "Cae la red de comunicaciones de seguridad nacional de Estados Unidos, con información altamente clasificada",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2JsUmRxa0NzdVFNdlZmMVhBcU5VNDFCYmx2T1ozc2MyQUJ5Q1g1RHI1VFJqZmtNUG16TXBSM19YR3l3Zk5udG1YdUNHMzE1WW9jQTRRZ1JXclBObEh6aVlZZldxeVZrY2N4ZThTamVsaVBvZEZBcTYyX3J1SklmMy1IOFNILV9ObEZTSV9JTWdDMEtNeGd6a1VNZDNEaXFpYWR6X01UemRtZw?oc=5",
@@ -208,14 +208,14 @@
    "topic": "Society"
   },
   {
-   "id": "f8ba7abf4b",
-   "title": "La huelga ferroviaria vuelve a tumbar Cercanías y Rodalies con un 60% menos de trenes",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR3paTlFaN0hnUVRkM2RXVHB2bVByY2hBelptREktX3hKTFBCM1RiSmlQWkE0Qm55ajA0UEZ0SnltWDdNbzRwaXFvQmRFaVM4YmZmYUlKTHZwbVJsVGJZSjVJWGdRdHliQ1FOOGotb2ZEY1JXTERKSWVzMHhZRUZjWlV1TmRjTFdFRHlkTWdQQTJIN1pqM3BrSVd6RVhCb25HN3NDLThmM3k5OG00Q000bTZLaVhkcjJ1VHo5Z1E5RXZhTzY1d1lqTWtsNVF1aWMycDFjaDVsbUxHYTJWV3hIV096dzA2OEU2cG5wZHNqSnFhSUXSAd4BQVVfeXFMUDFPN0U0cl8wSkVGd3dFekpPRTZMNFdwRkt4VE9rVlBTNnlXUi11UWo0LXBoMHFfS3VDaWFGcWJwTWpCNFBjcmJkVmJyekR4SkFYVC0zc29uVWFKSnQzT18wc1hwcEtpZnNPQllrT0lTZnRMRklPYVh4Rm1yaXh6Z09oSV85Q0NaTE5kYW5oSzN4cHRrdVlxR0FUTlZGNHpUN1l4X1RKN2k5bWJzd180bjhMNFJqUFVCOEJHQVJMMkpUaERLdnRYRTh1TFJUdHY0WWJGTThOTVJhUWRDODJ3?oc=5",
+   "id": "1828681066",
+   "title": "Sorteo ONCE | Resultado del Cupón Diario del martes 17 de noviembre de 2026",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQlo0VlJZcW50Ni1YSVNGc2ZieG0zX2czMHZ5cExQelg2dE1SYzZTNmtRVDFpU2k3Tm41ODNXQmdSM0FNY1d6bEZKTk9wTXRIcHM0Y0RweG4wZkVOX0xnOVBXYzRROXZ2OEhhbHZxcDFJdks2a1dkOEtLNzdFV055UjAtVXJKbVFsNkxFT3VfVHdLcDhJRTltODBWZVFLMUhXZHM5UndrZGFPWlZsTlRnckVPRHhJUnA0NUQxcV9hQ2JwRUlLSlZ2TzFfMEdFb203THFFMGp3QTNCU3UwcFNBLdIB4AFBVV95cUxQZ3VBb20yVUFNNk9JZ3NqWlBQckJLVnVXS1NmRDUwUlhqQnF2UHJJenhnQTVwYUVXeUNxeVhXZXJtZklkRmM4QnRQekJFVm0wVmFETXN3YVdaSFdISENMc25MdWtjQzBiLUJGY1E3QlpUbGtjbml3Vnp0YmQwajNjb3JVbVlkSTFGQWZmVkdLbnpyTnhKQ2hXaFFoUktPSTFpZzV6SnVKdE1Qbl8zamdzWHVkVkY4Ql9NMDljS01vSEQyYTJ1a0JvWnVaTnRSektXWFdoS1lpY0VxbE5VN2lhbg?oc=5",
    "summary": "",
    "image": "",
-   "source": "El Economista",
+   "source": "LaSexta",
    "region": "ES",
-   "date": "2026-11-17T18:44:13+00:00",
+   "date": "2026-11-17T18:10:13+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -225,65 +225,14 @@
    "topic": "Society"
   },
   {
-   "id": "8636ead07c",
-   "title": "Esta rara oferta deja el Samsung Galaxy Z Fold8 635 euros por debajo de su precio oficial",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWw1ZjlLMlB5Tm9vMzE0dDJoZV9oeV90TTBWQ3lKcWZ3VFhRRy1TQ194N0ZTUWQzUFFtQldxbHdBZ3U4VzhCVHFCOC1VbTFEQmZWVk83eGp3S1BDMV9qc2RGdDlzbmdseGdhbzZLUjA2eUdWWGN5am9wX1MzVTR4RkRsMVlhM0ZJSXl4MHlvWkduekNvckw4ZUY3RTk3OEJ0LW1xMDNMUERNSlFERjNNamQ1b1ZCeV9hQmRzcjJwLTV2WldwUU1SZTJUZXJQTnI5eVF3UTNB?oc=5",
+   "id": "e2b822c263",
+   "title": "La Policía detecta 97 vínculos entre los servicios de seguridad de Marruecos y los grupos que organizaron las entradas masivas en Ceuta",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMm5pVDRvS0dVcUZuaVBIWlFkeXdTcnVXX2wxSTctVGxPdjVka0l0WWRHRkZVOExOUHpvYWJNWExFZEIwZ1g1LXZwcm85azVUaXVwRUQ4dTRRcHVZS20wSHcyWFV4RTliZGZtUlktVDlUaWRnX0lQYlNnQ09YLTVvUmRkWFBaS095VU5tQW9xTnkwN2VlTXhrbV8wVlFzU3lsRDh3czI5MzFRVjFqOEUxSExBMUxqdUNUaGtEODllUnc3VUw3TEs3a2hKQ21aZ1JqNHhOUHdVYmNCSzJxUW9GMklBMXVabEhfeU9Edk9QMXh2YkpnOFhDaldKb3M5UWZYUU1QUWFrcXBkVEZGVGdEOdIBkAJBVV95cUxOVmFQXzBKcEE4M1RMcVF3SkxMUjBRQ2c0V2pYemY5ZFRJNkJhR2pMMENUbzZ0RVpoRmI1OHAybzREbUIyci1JWmV4U0N6YlliNlR2ZEVRWURDczRRaG9jd2d6THVSTVJ1SWR4cnRpeW5CdkRPbXZyUDhVTmxiN2txYThjZTFtNUJuMHJEdjZid0ZVNXlTOG00cWxPWEZ6WFg2eGNpUmtRdXluUjk2YTkxV2tYdkEyUk4taHFoNHItNjI2NHJfU1NJZFdMSkI1YnFYc3d5ajhhUXhKcTl1Z3NpdndrOElXNjN1YUptSEhIWF9PSHUxUVdjVFg2SHhOM3g3YTJSRHRyalFnamQ0V1Q2Vg?oc=5",
    "summary": "",
    "image": "",
-   "source": "El Nacional.cat",
+   "source": "Onda Cero",
    "region": "ES",
-   "date": "2026-11-17T18:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dbb0e8388b",
-   "title": "Javier Bardem apela al \"voto útil\" para proteger los derechos sociales y públicos: \"Espero que gane un gobierno progresista\"",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOalhiSm5wUHctVFFEMERxb0pIZWRDbkdYa3RuVkJ3UFctTTYyYVZSMEFzUWpDX2JXdGhlOThOQ3Q4Szk5d2JBLUllTDg3SXJFS0g3cmcwdkZHLVRfU0hneEctNjZWWVVUX2tveC1nNFVfY1lsTXF2UmZhVlJ5SW9rUkUyVC1GQWRFTXZGdFA1REtoTXVEaUNQeS1aUWkxNFdmQVFfazVUV3drQzlSNFQ5REJZMjg2aU1oNU1PUjZPV0ROQk1mZmtERnlZenhyeWdXaW1haVJrVTFLWWQ0emJBZTN1MTA3RDZ4Qy1UMVI0N1lCYU4wVlp2M2prOWFyeWdyZXVr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cadena SER",
-   "region": "ES",
-   "date": "2026-11-17T18:27:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1f265299a8",
-   "title": "México, EE.UU. y Bolivia pierden su estatus de países libres de sarampión tras registrar miles de casos y decenas de muertes",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02VTZ1dkhldHVXVUVPeXp6WGN0eUJCWk5pVFZodnQ0U003aDRuSjd5Tkdrb3ZqZVNWMDBFbkNneGJkakRDUHNZVF81RUJtR05lSTlFOUhxZzd6ZWhT0gFiQVVfeXFMTUhFc1F6VUZGSHVTTjFhUkxucU9MeFB2VGlFTnRZck5BUTl0Rnk0cnFHWE9aejJsU25CVzdwMHVlcktNTEZWaFZmeEpqU0hWakUtRENQVl9acG1nTUNiUG15YVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "ES",
-   "date": "2026-11-17T18:10:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "248db8eed3",
-   "title": "La Policía pide investigar conexiones entre agentes marroquíes y grupos en redes por la entrada masiva en Ceuta",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWJEUWJLVGpZLXlaaVpBdENXdjRCX3B0c2JlM1JsWnZYbGtLOVotUUoxbXEzNmRPOEoyX0c5RWFsaW5senhIQk1ERlJfRXRrcmtwTFRJYmtuS1Vsb0V1QnRHemYtLVJZaTFMajBELXowMDBGRFdYbm9VMXpEVkE1LUdMTWZQU01WS2tYanJ0cS00YkZ3WlpfcmFWbU5icFFnVER6SEN0YjQ1LUc2dnRUWVYxU3BhZUVyc29pYXhsRUFkdXd6UGUwM3BYdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTVE.es",
-   "region": "ES",
-   "date": "2026-11-17T18:01:27+00:00",
+   "date": "2026-11-17T17:59:10+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -310,14 +259,31 @@
    "topic": "Society"
   },
   {
-   "id": "79fd3efb88",
-   "title": "Feijóo desmonta en Euskadi el \"muro\" electoral de Sánchez",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeG9jaVJyb1lBY0hjQ2VFT2VIQUloSVlhVFVnZzJLYzFUZVFPU3RCalRIVjBoSmhMZHZ0OFV2ZWVHMDNtMFR1WTBRVjJNNnBodmpIZnlnTkZkUldGTEZVSXVaTXAteHNaakl6UjNMdGY3aTB1X0xJV21MZTBnZk5YMGVuUHlIeVBCb3BvTmxWdC1hbldXMFowamZPaGFNWkJUQUVzZUUtdjY4T3EtcEdyY2g0dTjSAcgBQVVfeXFMT3hwWkRQa21SSTNOV2pVNlNfYlJiVUotWDAyTXdVbFA2VnVWMm42TFFtQXFYdEZWRy1IYTg4VWw4U0ZZM2g0djVJNDZ4a1M3OEFBQXJVTWlyNF84SGlZSmhpNlRZbElWUXlycUdtMktnY3lCYVhNenpiYlpSbExDaTBwUFFYeG11Umh4dFB0UWhiMFJ5X1JYTkl0UHhUdFlENHg5bHNKOTV3TWZnQzVhYTdJbjg2alZ2MVhZMkVoM1hPQXF2N0Q5eVA?oc=5",
+   "id": "08c10c11a7",
+   "title": "Bardem pide un Gobierno progresista que respete a las mujeres, acceso a vivienda y \"vida digna\"",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZE53dkJXbDFtQ0prbDBITy1fRjA3alBsZkpiTU5FaWI0NjFmcWtjeVAyd2RpXzdGaFV2RkdxOXliR2RFWFh0empmMXVKdC0yZVNVRWdCblRDNGJ3V3l2VUJLVzNHal9FZU9IT2plV1JQdUN1WGZVTEtMMkZabE43a0NKVXJnZHBDVTRYMEpFOEZRLThlYTN2VDYzQk9XamJYSUo4WkxfdXPSAa4BQVVfeXFMT2FjN3llVDhDcmhTQzgtN0N5d2NyYTZLMTNDYUJOZ1lkUmh6TWx3a2FlZ1ExZHpLYWUzQndwNmJZQzZMQ0FHNDRmdDNXSGx4dzhhaEstOGhnUm0wS2tvY2pkQkI4QmdqenZOcTBrR1M4aFloSWgxdi0wNUlQX2ZmWDRvMW02NlBUb1l5TnNOQzZSN3JzS2JJUWh0VzNyVzc5bmRZVXMyMWZnenNfNTln?oc=5",
    "summary": "",
    "image": "",
-   "source": "La Razón",
+   "source": "ABC",
    "region": "ES",
-   "date": "2026-11-17T17:42:35+00:00",
+   "date": "2026-11-17T17:27:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b88f095b06",
+   "title": "Todo sobre el estreno de GTA 6: precios y ediciones en México",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFF6dWFIUFZiQ2hnSnBUQVNLTjF5aDBfZnVubDE1TDZSeUwySWJoeFU1ZlJLSlV2WDRQZ0RKUzA4dmVLQS1NX1FRMklPLUdwRmJkY3ozSmIwUFFmcC1vRWVyenFmU2MzTWdyUTdKdHNZdXZjbWFNa013QWFSampxZW4wbllMSjB4eG5rY2wyZlVVam02SWJqLVN0aUFKRXJMS0x4dk02dVVlemk1VHNCZWFKbXpyQU5zSVNIN0VWNjI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sistema Mexiquense",
+   "region": "ES",
+   "date": "2026-11-17T17:21:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -361,48 +327,14 @@
    "topic": "Society"
   },
   {
-   "id": "1f9fb30398",
-   "title": "Amancio Ortega compra una torre residencial de lujo en Chicago por 180 millones de euros",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXROUlZwTEZOY2h2LV9WMjVKTks1ek14b182WHhkVzVfeXhCa3oyQzJId1hpOUNMVWJzX2VTN0JVR2NfYXpaQ2JsMk85R1BuMFpjWUVyellZazRfdXVuQnRmYnhFRTBLWE1oRXJMTndmYWcyTnRpV1NZZFZOUGJlVjBrR2h6WHRvWHZaMGUyMTZ1M2s5NEV0b2VfRGMyQkXSAaQBQVVfeXFMT0hERU53X2ptUGo4OXVOcHZFX1ExdGRlcHh3T2ozMjdjaUFDdDVfRmpOcGVNQmswTnNlQjZKRDRlOXBjdnc0RVlManQyZTZmaXAyeTRyRTd0bC1aSDZyNDdMR1BXTWxxU1oyZWt5NGhVLW4tY2NwRkRJNXJRRUlvb2QwRXJPMmF0MzFLOFJCTnk5RzIwcjZBR3Y1bFVKM2hyenlVNmI?oc=5",
+   "id": "f3e28f5592",
+   "title": "Amancio Ortega compra una torre de pisos de lujo en Chicago por 180 millones",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZl9VRnlfZ2xIQmdKNENCZTdTRFRuNm0xVUNvWk8wNHBkNTZ2b1BzWEctTlRDcGc2MXNwQzl0bTdsS0dMMTVWODAzVG5PSjlPWFNmTnQySEVVSzJHRDNVblNhZUxFNlZmeDRpcjJpZ0lhMGM3eXVYM2ctVUM0RHNKWTBjcEh5blhZc2ZQdnVfN01DVVlGUVNnR3gxX1N2d9IBowFBVV95cUxQZlJWTklhQTdPMFlHM3U1dEw0SVlrUnVoc1cxU05ndlVhT1FCQW5zTWJxUkZOY0xQdmdTQWZ0NUliY1ZmWmRDdGRtZmJ4TWZhS05RLUFpcGZTYzU0NGhOeHJYOEprc212c1l4Z2tMSTdvOEIySl92cmNENzJSUm84TXFkdFBqUEI3UzdaSkVNQ2RYclUxQmhLc0tNN1M0XzJYTEhN?oc=5",
    "summary": "",
    "image": "",
-   "source": "Telemadrid",
+   "source": "ABC",
    "region": "ES",
-   "date": "2026-11-17T16:42:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bae06e42fa",
-   "title": "Pintura de Velázquez se exhibe en Colecciones Reales Madrid",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa0pGcm44R1Nja0l2WlFIU3JRZ1REblBpVVduaDJ1dTZ4MG1MS1kwTkxzRk1fMmQ1TDhZM0hrRFYwYVB4WG1pV0psTmYydkpwZW1SWlVJWXphS2gyQnk3Y1RqeGRGVlVsZ2xUbHM3Zl9rSVRjYnBBZ0JFclA5QkdrVzVzb0JQLW1BZlNYdnR5MEZrWmNSNDZfWWczZlpDdmx3YXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Prensa Latina",
-   "region": "ES",
-   "date": "2026-11-17T16:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "47889787cc",
-   "title": "La catedral de la Almudena se une a la RedWeek de Ayuda a la Iglesia Necesitada con una Eucaristía por los cristianos perseguidos",
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNXzFzVFozMXVZNE1sWEZ6ZmFpZ2dibG9XdEdURW03X0R5NHVrT2tzQ2NvcEZESk9KWm5yM0xqU0RIaWFfaEltOGpLTjZLalI2LXcwcS1JT3IxLW1QYnNXQXJxcnZ0a1JxR3E2TW5WNGJSd21sOFY2RUdsVUkyb3Z1UzdYeHRWTzRsRVl4VWt5UDNzemtERlBEeTRZblFyOTZZMVM1alkwa0ZIOENDaXJMUUQ4aWV3LXJmcjBmR2kzNk1tNF92VGhXVUNtVUoyS09EV3R4OEt1d2VmWUxnbmt5U0ZvTmJuZHBmZFlnUE4xUGlmWktKeVRlRjBEUGJZMzhoWmFSak04UGlHcmhqRlpfNkM3TWxLQjZsSS1RRGt4bGZmT1JFbW4tUklDLTdIWTg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Archidiocesis de Madrid",
-   "region": "ES",
-   "date": "2026-11-17T16:25:32+00:00",
+   "date": "2026-11-17T16:26:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -429,14 +361,14 @@
    "topic": "Society"
   },
   {
-   "id": "20510ab896",
-   "title": "La vacunación contra la gripe se abre a toda la población en una campaña que ya supera los 295.000 inmunizados",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTTBWQXEzWENEUThVRlhmMU1KaVA1NHJnWUFicmhTclZMZDZhYTF4d3k4VEJsOUtpU3FhbHZ2M1ZPeTBabVRFVDNZc3RPUkJwV21ST1BZdTJWN3hiZEZsbDNLaGxWblZQTkM0ekRXeFpMVENXcThXdzZHODE3MXhCcWcxenVfRThsMmpPMi1tRGltSzkwaDVRUHVoc25Mam0xR1UtRzJWN25NbWFUb1FVUVNGNzRRblEydlhsQ056QzUtbkJlTkt1QlJoOUFjYVBCNmhrOXNLTVRwN242ZFZOVV94WGRNV3ZrZmowS3VmZ040d2NsaEE?oc=5",
+   "id": "bf52de9d42",
+   "title": "Este jueves, especial ‘Al Rojo Vivo’: amplia cobertura de laSexta para el cara a cara entre Sánchez y Feijóo",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYzgydGVQRUtZdE9Vdm1rOGFNUnpqelo2RFBNTkZfUE1CTExvdjR1cURnSUh3QzQ0bnhKM2phUC1hR1JSX05VYVMzbHg1b3E5aU5qa2pVblBmZV9nUENzdU0ya2Nldm4yZ2lEZ25yUFp1aDdkczJNclppcEZBeGE2WE5wQ3otcFJoOWVrTzlQbUpVS3BZQmRzbk5mdGVtR2FmTWhlWjB1UWplZGRVV2NPUXFzTHZaSjhJVkY4Tmh0b3lrS2hBX1duaGhYT042eUtQREJNbFc0T2pFZVFLa1NIV2JQWGRBWm5VNS11SUlwbm5lTkFwOW1mS3kxaGd1YmVYTUJ5NXFn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Cadena SER",
+   "source": "Atresmedia",
    "region": "ES",
-   "date": "2026-11-17T14:25:20+00:00",
+   "date": "2026-11-17T16:08:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -446,14 +378,99 @@
    "topic": "Society"
   },
   {
-   "id": "f4724c7113",
-   "title": "Real Madrid: condenan a un simpatizante rival por insultos racistas a Mbappé",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUTFQYUR0M19jNWNjOEhRbjAyRGltbjNBeXhiZnNXYWp3X2J3RVFHVnZhb29ScE1OdHRLc0c1eVBWcWJFWk5MUnlrek93ckg4Q0FtdVVJOUxvVFFYMGgwVnc2RW8xZEVLdXdyNm9qWC0ya1hreTVTVndTejJaYlRSQVVMaE1fUENPWU11SlhzR1JFQnVZbDgtUnB0MmtMVTJ4cWlKU3FTX0hQY29KVl9BWXYyMTNjZDU1Qmc?oc=5",
+   "id": "a71bfd50cd",
+   "title": "Felipe IV llega lujosamente vestido desde Londres a la Galería de las Colecciones Reales de Madrid",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQUtsWWRyUkR0X0Z5a1I2YU90MkdMN2ZBaDlRUmxpQUtmTkU5VXlpbElzVjdQb003d0Q4OHFLZi1QNWpEN2l2bUstRkRERV84N1pZc2tRMXlyZzVaSWRQVG5NWGgyb0R5SWdSTG9vb3BsTXNHa1duNUFoRTlYR1BXOEkwaWc2V3hQc0w0WE9YNXpYQmU5d2NfY1pVU1c4R3BScUVMMHJnRjhNalRFZ0w0V09ocS1ZUU1FSVZadjJsZE5UcS12WlZMa2sxeXRzV2VDNm9jOHE0enLSAewBQVVfeXFMTzhsSi05U2oxQ0J6Yk1yTFYwWHVRUHlkS2xvVnJoY1A3SlQtMDJ2ZTRoS1NlZU1XZXpIbUVjdlUtWkFLUEhxTWUtSVRQRjk3bUtYOW9kRS0xYnVEb3FDV1ZDRW1YLVlaTjBaV2hSaUNmcjhlX3ViYXRDLVVuUENJOGZTcExORHBrYURyaWVRRE43UGJYc0ZUaGNteUtBS0YwUUUtQUowckJQU1pYQ01HWXRzOGVqdUpqZG51Q3RfUDRTVmxvQmlabWlFU3B6YTZ6TWd2MUVfUDJjdHVZUFozU1NpZFRjQld5Q0pTNHE?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN Deportes",
+   "source": "EL PAÍS",
    "region": "ES",
-   "date": "2026-11-17T12:58:00+00:00",
+   "date": "2026-11-17T15:31:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "67c34efb64",
+   "title": "Argentina vs Costa Rica en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdVFBc0twQnVOeHAxY1hoZXpfUDlKamxqb0NfSldzMUZjM1N2aXNSYWlEVWx5ODNocjNBRzhGYWFrV3pubmZwR09BR0habmNsNVdoVG5UQzVRcWNKTDNHdXAyemd3SVFMaWRvZm5ZNC00MHJvWDRTREZWaHFDQ3EzOHgwaExQb3ExNUs5QUdDWTF2ZHplWXMzLWNLQUdWWGxTSTlqZkkyd01sOFE0cGwya0UzcnNBX2FtYk1YMVNhS1huQ3RBbTF0aW1NTGozVnJvVzdaUnU2dGZYcTV1YWtLdW80UWtJSDA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DAZN",
+   "region": "ES",
+   "date": "2026-11-17T15:14:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Argentina",
+    "place": "",
+    "flag": "🇦🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a497041d54",
+   "title": "Ayuso critica el apoyo de Lula a Pedro Sánchez en la campaña: “Cada vez hay más fuerzas externas”",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTjFFYVJ0ckgwNkJpTjd6OTlCR2Y2M0VBWjljOG44cG5BM2RfZ0RZNUpOeUtuZUhXc0ozQnBsUll4Y2dRcXhmbUxWb2V5VDgya1cxMDl1NmhGRUJsSE4zRGt5ZWVtV1BmcV84ZlhxWkxzZGlDU05xTGRxdERYbF9xQmVfdjA1TzBDWFo1dWhaVmpsMFFFSWw0LUcwRzNUQUFQVmJjOXMzRURMSFNBaDh4YVFGN1MwMkFXMWw2ZE80cUdjMTg4QWw4T0FibFI3M0F4VlA0ZkMtZTJrTms?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EL PAÍS",
+   "region": "ES",
+   "date": "2026-11-17T15:08:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c75db2b5bb",
+   "title": "Yolanda Díaz reivindica su legado en Trabajo y augura que España acabará reduciendo la jornada por ley",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbkEwWVNIQ0gyRWE2VTcyVVZLZ3czY1c2N3lFSGZzTjRqSjhGbXFYMmtfSFhlUWtJQmdseFpVcVJDaEMzYTBIQ1UtSDBNamxWZ1VULU1oTWt5OVZfRnVKQkVhU0ZxQ1EzdHBub2dkN3ctU0VQVTdtY1FuRVV2R1RLX3o3aW9SakpMOE11Qll6dkRRZHkwX09uX0lsbk5lRi1BZkZTTlFpdVNTMjRoaFg1Q3A2M1RBWUYwTDI5cHAxWklUTTRZbGdZSDc1WV9rZ25iaURIVUE3Tnl3bGM4eXM3Y3lB0gHnAUFVX3lxTE1YS0Q4U2M1RHliOXYzY3hvTDJNcjR5LThOQXhsUXhCejFncHpfQ25XRzlXVzRiZXQ5QWo1RWJvb0NmOUoza0pSR2lxZGZMOVVBVFVRY245MkxzYm51eVZtLXBwVXo4WkJPRWVhOWk0enp5MG9OMzN2Z3BmNVBvWXFlMmxjRV9DdXhlRUd5ZVM3UDc0QmhjOWpWX29weVdHdjIwNEV1OGM1V1hYcm9JWERibDNXNDVDS0FoOG1sS3VyUHl4SjBhTkZiMW9xZl9yaWwzUkwtZjFSZnduZUZ6eHdGbzM4Mng4dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "heraldo.es",
+   "region": "ES",
+   "date": "2026-11-17T13:48:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "76ab50afe4",
+   "title": "El 80% de los casos de cáncer de pulmón se diagnostican tarde, por ello, los expertos piden cribados: “En vez de 8 de cada 10 defunciones en menos de cinco años, se mueren cuatro”",
+   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNUxXWTFLOVBKMHlKZWJMNFZCUzZCbzBfcHJBVHBvSjhFc1lkQ1hkZFJBYkNaVEo3a1VlRVMyVldtcExTcldDUjF3bUEyUXpyeFY2SzJ4M1hOU29kVlR3QklBSWJJYk9reFppU0x6amdyZ3gzY3pKNFZYNE1kLVRsYWJMclBlYmloVTV0SXlHdmdoQUZxWHFUSWs2WVhqUXh0aF9zMHgyVkdXa3RQN09KS3ExeGg0YkNPVkFTY1lnVm9YdVpMX2N4cV9JOHkxbFNWZDJyUFRId09GX2Jtb0x2Y0JUdDVuNGg4bk8zQmlFSUtYNUE1dTR1bU1UNWotQktSNUNaZUg2Uk9aT01hNkRYOGV5QWNZWWtISjhOZEZTcHlZVk9veHRUd1FnbFZWZzUzVldWTGUwLW5jOGfSAdYCQVVfeXFMT2NnN3ljLTRUOFZmdUY4M0ZaYzJyNEh2MVJ4aDJvMmFSZnJqbjlDOUJBLU5VcXRNMkxmSHFIRE9yMXExWlVCdEROOGFTeHBvSEdKaV93Ymtpdldka1R5cVVnU3FsUXFMVnBvSFRya2E2TWZLaDFiU0RiMm1LdVZEUXRhSzRYcnN6amFUaTJMRGhVeThvWmVjMnRNWEpXVUlFTmNxcnZxN1UySXRWVlNBOENnTERvQVNzZ05HUjhhck5GTldmODNkU20xc2RzV0c2TW5Dd0ZQanA4S2dRTTZjQUZSbW02VXR5Y0hqWWkwS09xbENUU1RxcEp6cFhLOXMyTW5oMFdZZUFYNXhHdW1zQ3JRWE1BZzhXMDYtbFU3eHZMeVlsMzQyTHhpNHh0ejZ0dkJaQVVfdHdVc1V2Rkd3Q2M4VHhaUFdCWTZEMHJaelhHMTgwb0FB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Infobae",
+   "region": "ES",
+   "date": "2026-11-17T13:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "98b4669ee7",
+   "title": "Los maquinistas lanzan otro órdago al Govern e incumplen los servicios mínimos en Rodalies",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQmFwX2w4UnV1S0dGczV6RG4zSnh1MmYzZng5X3VxM0dSc0REbTdwN21PRXBKZ0xRQ2lpOWU4bVl3SE9yY3QtblNYeVE0bTN1VEpJNlJWV3RfWTRncmJYSmZnVmhVcjRjMUVmZG96d3haVzBhZGFOS1ZCdUx5TmdIMDJaMENrdE5TWWpUSDVWcDc2N01iU29mZkp2eEpWY0FBR1R4Ul9vMUM0Sk5uMlI4cjFVc3BOdmd5LUFEdG9fRktYc25uUGRuY0JpTm94UWVQQ19neGI4dG9JZFA3Z2dSVjZ3Skc2MlZZWlBYZWdXMzFGa2c3UjhvcDFyb9IB5gFBVV95cUxOTmN6Y2Zrcmo4MXlfUWRIQUUyYmhneW1uNTY4bFcxZWk5NlhhOU8xVVRwSEF4OG1Xd0U4ZU5SMDVoZmQ3SVV2Rl8tZ2VSZm9RRmJtcU5ZQUJIWHktQUxIUl8yS2tjWUhNWjk5clNZclpBdjU4Mi1odlNleTAwVFVNMGtEVzF6ZzJ3S1ZMMllVZmJ5NC1uZUl2QVE0R0k1a3VCM09rYU1iNmtxc2ZZak1hSUJVMS1Od19IZXc5cndEWk1VT0gzTWhQMzd2VFlBdC0wQXl0cDRRRVRlLVVuZ2J4cmhaZjdYdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "El Economista",
+   "region": "ES",
+   "date": "2026-11-17T13:18:47+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -480,14 +497,14 @@
    "topic": "Society"
   },
   {
-   "id": "d41d53a807",
-   "title": "El Gobierno aprueba otra partida de cinco millones para paliar el impacto sanitario de la migración en El Hierro",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQelRqRk9uZVRPMUhGVGg2WnJRdzlSemNnVjRKWklfNW55ZUI4M0ZRcXNHOGxvSXdiTTd0YWdqVDNxR0tFSDhJMVVuaFBWdXBEOFhyVFhwQk4wMmNjQTVUb1VCSVNMUDgxenNWSFJkZjZ2YWpfTEVlbW9pc2s1cDB1OExfR2pjd0R4SU43ZlRJclZzT2VMb0VINTBOSEs1emZCNEdqX3lwZFlLUjFDVFJZRVZ6OHJwNm5ncHhIQjNMMUNvR3BDNEFpakxubjF3NXFXelAxM1l4OXVpVFg3Q3ZLVXhHZ3gzMUJ0TXfSAf4BQVVfeXFMTXhhYkRCeUp2U003Z25XUW5kbmxUdTVVemN1UWJ1NDl6REZRc1VhclljQnAwNW9yVTRfR08ycGpRZjNZT2hfLTItdTZmQWpNRi1hd3pyOWpCeWhVYlhqMXFwazJLSERpemNGZTRjQjFpclZzcUpfeDZoTGJMVFhOc0xRdWVXUmQ5TjNjZVZOa1d0clViUXFYSF9fWGJOTnhvVUtvREhsOWNvOVUxUXJtenF4LUJ1UnRpeFh0MHowbkRHYVRMMjU3ZmxGV1Q0ZVBxTnRMWi1lVjdQcGE5SVo4NmVYWERFaVYyWFhIbUdud0pGai0xcFNhaXd1WGV0N2c?oc=5",
+   "id": "0b67802731",
+   "title": "Las bolsas europeas retroceden por la presión sobre el sector tecnológico",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14VEV4bm40YU5Yc1F2amo2Vm5OOVQ5Qm1LNEJ3RmlDUmRKajExUFNqOTV4SjMtNkNDejQ2REVfejRweDIwcWVvRHd3aw?oc=5",
    "summary": "",
    "image": "",
-   "source": "EL PAÍS",
+   "source": "سانا",
    "region": "ES",
-   "date": "2026-11-17T11:47:07+00:00",
+   "date": "2026-11-17T11:17:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -514,6 +531,40 @@
    "topic": "Society"
   },
   {
+   "id": "2abc3c9ebf",
+   "title": "Un extrabajador de la cantera que suministró piedra para las vías donde ocurrió el accidente de Adamuz denuncia que Adif utilizó balasto defectuoso en ese tramo",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQT21FR3dDUEQ5UVctTkhYZXNRYnIyM2tKN2V1Um41MzFXSUFCVmFyd1F3Z0sweml5TnRzN29KSHpOQUttb3FnZ0ZDRl9KbWViLWg0RzhyUENjT1V4LXpYWGFnbWR6djZIZWN1OHRQb1ppUUhYeU10dFI3eWVYeU8zOTVCMlVKemZweUJJYjQycUl4bW9QdS1uQnFFT3dLcHhfVVk4dm9RWllKOC1OT3FwaWhaNGFXZ0ttc3hCLUpYWGttNjdPS1lvamNPM1ZBQUVTVVB3N0t5TkRpRHdhY21nVmtuaEV2RENYX2V6ZnllQ0E1NVZ3cEVLM1ctZ1BJS0ZrMmhTdFlrXy1GdU1ERXdXUDhzVXotdWZlN3hGZFNfYlctdGVpQ0RHS3ZIMNIBxgJBVV95cUxQLWRpd1Jxb1dMQmV6LWJCTS1lNUlCTl9ERHExa0RYTVhNak9RZmhzMFhXMkpNVVo2SnBSSUtlcUxqb1hickU4Q0pSbHhjdGh5Rmd4LTYybVBKOHFhSlNpNzhpbURWcTd4MnJZcTc0MTdXNTB1eEhIOVh5a05RRmFyM0Fnenk0YXM5eXUzdTZoRDgzRXZUYXVOMkJjaFNTbjNPSmlPbjE1MVpVZTAzWThNam4yZE5xX1BHUGNWVzN1cHpQdnJwZVR6Z0Y5WVcyLVU0eXEyOExlOVlMVnlSamQ2d0xIbmJzZWx3TkVYS0sxMmRWWkk2ODNtZ1RWTzJmOEZWVXJYQmZaaFNLaHE2WnNXZmxSOXkweldjVHRnTE0yeDdlMlA5YnpSYllRWTdzSTQzOWdrY0tDRWYyU29WRzZrVFdqcHZxQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Infobae",
+   "region": "ES",
+   "date": "2026-11-17T10:20:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c9391a37de",
+   "title": "Un error oculto desde julio desató el gran apagón de Microsoft que tumbó Teams y Outlook",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3dnQXEyRDZBYm1BSl9wdktzc0ZaNndMOTF2cTFpVTFzd0ZPTkdVUTh2cXdpaGdBQmNlRFN6emZkSll1Z3YyUWlWU2dETWZLYkdNUDhSSlJrWUgzeDl1ZVBOWHZLVVkyWk1FTk9SNy1mVWJqWXBxQUFadmdtZ1dGNlBaWnpWVnFtenZ5ZXBwYS1jVkNfMS1oOWpDU2lpRWvSAaQBQVVfeXFMT3BjU3Q0c05oUkUxVWY2dFZQZGh3T210OWJ5TWpPT3FOdWFFaWFjdEFPanI3WWJnQ2tCM21QOTlTZGtCZXdKOW1oVjdXN3c3N1Npc21XQUx6Ri1WbXNOc09Mdk5NZUY3MmkxUngzaDUxRG9YeFZaeEhEdWZTanNRRHV3MVZ3TjVzM3FLbTlSLW51T3RsaUdzUHFqNTFqTFdGeXRfTWY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "elDiario.es",
+   "region": "ES",
+   "date": "2026-11-17T09:28:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "26ca3d9ea4",
    "title": "Santiago Segura y Florentino Fernández ganan, ex aequo, 'MasterChef Celebrity Legends'",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSEtGYWdVV0NNVVpkVmt5NzNsLTk0cHhISUpKcm1MNGtRNkN4dUdfaTdBd0hrOXBzWG1ab3liR2g2OWpZb29tU3JUZGFHWi1PWk1FTElSeVIzS0VlNWd3c3F1NHNYRnEzZFEzVU9naXRid21obm5KMGRPV3hPTWFvWGNnUE5MTEk4QmlRZHNFSzFjQ0VZeHVRLWRvM3FwSXdqcGI5d05kQTVtR3Z3MklkY3ZVcDhveGVjZVVJSlUzTmZiSXk3T1Vabw?oc=5",
@@ -529,57 +580,6 @@
     "flag": "🇪🇸"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "07052137e9",
-   "title": "Las Bolsas caen mientras Nvidia pone a prueba la confianza del mercado en la IA",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVUpNZEZKMERHelFSd1dJMDFCLUFqY3hJLXYwdV9rcEtXamVGY3dpTHM4SnpSQ2hmQjBfdzZmb2pxbGwtc0ZwNEVBNi1hMmQ3cVBxZDNkZ3NBczF4Z2lDb1pvMVkwd2htdkI1NGRpOVY0SkRMa0t4aGpYTzgyTFV1VWxwTXFJdnNRdWtzTFJJRHI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cinco Días",
-   "region": "ES",
-   "date": "2026-11-17T05:28:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "d7ca2beef6",
-   "title": "La Academia de TV organizará también el debate electoral a cuatro el jueves 26 de noviembre",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGI3US1PRnBxY1VEU0RIdjUwSDhwbjZWSUxFb1J2c21hT3RDcDFZUGtBb3lZRXpIRHBySVFMOFNMUFMzNkxXM1Vpd1dSNlFNNm9FRGlJMm1VS0JUWjBSMlIwUHUwQ0J3WERnZGpOR3RUWHRzT2JrMEYtemRGcWphZlB2UmR1Y2R3dGFNcEJ5Y3ZSOHVWaXFYWG1QbUdpVGowWlI1SzNtX2V1dnpLazJPN082aVFlLWJPUUZ4R2k1RWE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "elDiario.es",
-   "region": "ES",
-   "date": "2026-11-16T15:59:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "31b064b80e",
-   "title": "Con la caída mundial de Outlook aumenta el riesgo de correos fraudulentos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFdKbFg4MVc5S0dRUG8tSjFoOVFySlpSX1FTS0ljcFNtZEJVZUFEdllTaUxub2dVX2xiNDdYTmlyXzRjM3NGTjM1eG1CREpyWWdscmxZRWpueEJWZ2VkTGV5eGo2WkkzSGp4Rm9LX0hLYTdlblQ0bTQ5bjZ5RnB5UloteFRmVjJndFVYUlNWMUFZaVNQYXFBSllTZUtSZVZfdExBVUZjazBabl9wV19pYlJrOFotZHFBcms4VTF2cWh6Y0FCcnNlQnpR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RRHH Digital",
-   "region": "ES",
-   "date": "2026-11-16T11:05:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
   }
  ]
 }

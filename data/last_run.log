@@ -1,21 +1,21 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 84 stories
+OK   Ada Derana: 86 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
+OK   EconomyNext: 15 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
-OK   Daily News: 83 stories
+OK   Daily News: 82 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 17 stories
-OK   Google Top Stories World: 69 stories
+OK   Google Warnings LK: 19 stories
+OK   Google Top Stories World: 70 stories
 OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,26 +23,36 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (8 outlets) | Russian military plane crashes, killing all 1 (6 outlets) | UK sanctions firms over Israeli West Bank set (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Nvidia doubles revenue as board says it does  (5 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (9 outlets) | UK sanctions firms over Israeli West Bank set (7 outlets) | Russian military plane crashes, killing all 1 (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Seven new envoys present credentials to Sri L (5 outlets)
 
-7 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Duo arrested with ICE and cash in Eheliyagoda over motorcycle thefts
+* Ada Derana [1 outlets]: University non-academic staff to stage one-day strike over 2027 Budget
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The Island [1 outlets]: Sri Lanka shot out for 98 as Pakistan seize control in Rawalpindi
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
+* Ada Derana [2 outlets]: Apple works to restore services after outage caused by internal update
+    important (also on Reuters) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [2 outlets]: Dry weather except for showers in the Uva and Southern provinces and i
+    important (also on Ada Derana) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: AI did not reply with JSON: ''
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 rejected: the name/word 'Indian' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -51,7 +61,41 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 2, written by openrouter)
-* The Island [1 outlets]: Govt.’s failure to attract foreign investment puts economy at risk: GL
-    normal news - one-paragraph summary
+    attempt 2 rejected: The cards say dry weather or mostly dry skies for most of the island on 18 November, but the article only says dry weather over other areas and does not state that most of the island would be dry.; Th
+    -> no cards; posting with the site's own summary
+* Ada Derana [2 outlets]: Air quality reaches unhealthy levels in several areas, Jaffna records 
+    important (also on Hiru News) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Guardian [3 outlets]: White House withdraws nomination of Heidi Overton to lead FDA
+    important (also on AP News, NBC News) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    cards OK (attempt 1, written by openrouter)
+* Al Jazeera [2 outlets]: What is Trump hoping to achieve at APEC meeting in China?
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    cards OK (attempt 1, written by openrouter)
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 11 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 17 facts and 2 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 24 story pages for Google)
+
+Countries: IN 38, PK 34, BD 36, US 36, GB 38, IE 33, CA 36, AU 38, NZ 32, SG 37, MY 34, PH 33, AE 36, IL 34, NG 36, KE 32, ZA 35, GH 35, FR 34, DE 33, JP 6, IT 34, ES 34, BR 32
