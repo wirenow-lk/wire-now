@@ -1,8 +1,45 @@
 {
- "updated": "2026-11-18T22:46:31.536770+00:00",
+ "updated": "2026-11-18T23:44:43.806584+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
+  {
+   "id": "4cceb1029c",
+   "title": "Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWF9SSWdwQ1BBTkhfMnRGdVRodTBUeEpibW9RRlgzWURreHZVY2RKYXM5el9YQU1XeVpnTnl3QWJnbzRpdEVBT1JDbWNodTRKWHBsdnFKOGFYM1lGaUtNbmRlYUJhaTZrandnaFpUVHFDaEV6UUVaSW9jU05fakc1UVRTRkhibWM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WSJ",
+   "region": "US",
+   "date": "2026-11-18T23:21:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "1a4aa1530f",
+   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "US",
+   "date": "2026-11-18T22:34:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱 🇵🇸",
+    "also": [
+     "Palestine"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "b5ed094a4b",
    "title": "Anthropic IPO live: Company said to price stock at $83, begin trading Thursday",
@@ -21,26 +58,9 @@
    "topic": "Business"
   },
   {
-   "id": "59d6a75744",
-   "title": "Shocking new details emerge in previous KJ Biermann case",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSlNJeW14dzdhV01rMnZpN2hZcXYwUnFkSzgtQk95bldDY2Q0cWg1TGcwN2tuVWtuNXdUWDl2U0dBVTIzVms1dDNCYmNjNl9RVWRsaFZ2Uk9KOFUzTjJWTmtlZDljWEpfb3VkengxUTcwVV9ibUdzZTNJZEZuNmdCZDR2clVvRkRrZm0yNTBqZ19FMTRXRkpnOTdsemRCeWFyTjkxMHYxbGFNN2pHNllXTmY3VXRZcDNoeVB3NnNSN3V0b0wwb3hRN1M1aWFJclZjQ3hOdi1kWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "USA Today",
-   "region": "US",
-   "date": "2026-11-18T21:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c491296822",
+   "id": "bd0cf97899",
    "title": "Georgia AG asks SEC to take action against LSU's 'contempt for the rules'",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczNCYmc5a3ZNUjNDaXlBa1VfZHJRTS1FZ09JOHhVd2JCV3o2QnVYS1hGT2ZTLUhmMEkxY0VjSTVRTFUwSDdYcUo3QlVLZGY5Ym5KcnBOUFFlMUtFdFlXU0ZfSE51dEZHdVRNZzdDS0lLa2VxUGtDNnUxR09MUXRlRDBwaU9yRzhjdGRCVW5WMnFrQTFwSGZOaHN5cWZTanRjcWd5NTkwRGpTdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDRoRlF4aTIzSGNWU3FWSXZkUFA3cnU3X2pWbkEwLTlhUXRTNlhiSER1YVZ6VU45cGxfaGFCZG9sWWFwLVJ6NDRMTFIySENmbkx3X253ZEozaHl5cWN0bW1lZHVIRlVVWTI4akJORDROc1AzOXlfbVVvaTV6dmpYcXVFcHZpM3AyMTB3NzJFaVNuZVNjV2N0WnhrZFZLZjBrbVR4aEprZDhMYmF3VkdlMk1IWQ?oc=5",
    "summary": "",
    "image": "",
    "source": "ESPN",
@@ -72,21 +92,38 @@
    "topic": "Society"
   },
   {
-   "id": "b1cbfb8e88",
-   "title": "What the Crimean bridge attack means for Russia",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWNJeU52cmNIWXVxYXloM1RVdm5SQWdTd3pFWUd6QzhXYmhNeWx4enlkSjNENHBLcnBDY240aV96SEdiTnFVOUtuTWJ4ZmVIUHYySmJaczR6NzJLXzQwc2p0Y1lfSnpNaUdfOEdHLUwyZDdGVkVFODZFZjRtVVVXUjNVdWl5REXSAYcBQVVfeXFMTWR5dF9IVHRBaVhOc2RKbGpGR193aDhrRHRwSFRDZzVLeV9EdnloLTFHRU9CRi01TU5VV09iSXJ0V2VBTGJndFo0R3BSdDhmcXpraFhlSllSREJLVEZYcDVfT3NDQXRLTVdyWEpRNEw3YUY1TVJQT09KWEowOHVWSkFMeHlRVVhB?oc=5",
+   "id": "2d82fc9537",
+   "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckY2T2ZTcU1uWksxSTVzRzYzVG1jQ0ZkNGU4R0twQWhyOVIwQTZsMWdOR2VWVmVrd255T1BqOEJXVklaWVRlUGhmV0pLakh5alc2R1RvSkR6LU5Nb1hYYzhldjNKX01ZYXl6amVpZU1uWDdTUUE5TFIwTHdPNVkyUktnQzNzOTJWRU5Da3piUThBTXNUUWx1OFZVVWYxUHpsd2MyRi1YbWp5cTl2NWhjdFVsWFM0MHVKVVg4OERn?oc=5",
    "summary": "",
    "image": "",
-   "source": "DW.com",
+   "source": "MarketWatch",
    "region": "US",
-   "date": "2026-11-18T21:18:54+00:00",
+   "date": "2026-11-18T21:19:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Russia",
+    "country": "United States",
     "place": "",
-    "flag": "🇷🇺"
+    "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Tech"
+  },
+  {
+   "id": "11e983a99c",
+   "title": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHliLXRKZGNweFdqMXFpVmFWTHktOHNmMUVaTjRhbWR6RWxnVlQzX0RlamRkVUJBU0J6MU5FaWQ3TUk1bU5Edmt4OWhSN0NZeHB6M1RvYkpxb1hwdHVJTk9TdjRmeFZzaU5yaWFwMHBHaDh1Sng3cmVhT2xMejNIRXJjQVJ3YnJwNTRzc3Y1aW5hSGNSNENN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WESH",
+   "region": "US",
+   "date": "2026-11-18T21:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Weather"
   },
   {
    "id": "7e25f39b90",
@@ -102,6 +139,26 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a446e1957e",
+   "title": "‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY24yVThNVGxzaDhqbHpKbmV1OUhDZ2ZnZjZ4bkQwNkNfQVh6aHhBM0o3LWtTQ1lyVGZMVXZRV1BDV0p0OEx2RzAzdTBNN0RsUllqamtUOThZU2VZZDdBYnQ1MjZBdHlmYUUxU2hUTlAtMzJZRjBISkIxbXFCV1dhTg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Politico",
+   "region": "US",
+   "date": "2026-11-18T20:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
    },
    "topic": "Society"
   },
@@ -126,21 +183,21 @@
    "topic": "Society"
   },
   {
-   "id": "d4c8b78b81",
-   "title": "Cadillac F1 confirms Bottas for 2027, leaving Herta’s future uncertain - RACER",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDZSN3YzQXRRMXhoZGRTc2ExVHRpbEd1dUJVenpGM0lVUXh0TGF1d0thQ1p3dGFYS2lpbTFSQ1ptTGVxdnZjcGg1X3FEa1RXXzM5YXRDNGhXM3VwRFpXY2lJbHJrNi1ET3dRazY3ZklqNjdYS1lmbWdTSGZvZWhVRzk5TEdoTlVNRFZJSHAyUGpBeW9uV2dIZHZSWjlqVHM?oc=5",
+   "id": "35bbd1597d",
+   "title": "US intel chief says recent tech disruptions aren’t due to ‘a state-sponsored attack’",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGZvV0xiemstUDZFZGY4MXI4SmJzWVVaT2tCNElHQnliTTNNdExUVF9VS3FLZi12YVkxdlJjNjUtZ2JYblYxMUpTOWlNSFNISjc1TjhhTnVnMlFiTi15d1BWVjVra3dSQ1VPVExZZmViZHhrQUh6MVhDUkZ6Vzh3c0NLWllhUjJhMDg2Y1JnVTNsMjQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Racing News",
+   "source": "CNN",
    "region": "US",
-   "date": "2026-11-18T20:25:00+00:00",
+   "date": "2026-11-18T20:35:09+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "7831f6e75a",
@@ -160,78 +217,38 @@
    "topic": "Society"
   },
   {
-   "id": "1a4aa1530f",
-   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8?oc=5",
+   "id": "27be6a20d8",
+   "title": "Valtteri Bottas beats Colton Herta to 2027 Cadillac F1 seat",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSzFMZm1yY2JseTJTMWY3NDFtNjY1eS1XeldBY1NJRVBMWnpQN19XbzFDR1BhVHVxZzh1bm9LMURmTEo3S29aM3lpdHpnMG1wNWtydW9uZmNnaTRHQ1NVMGpQbzhpdzk1VFBvWlFaQ0Jucl9hWENQY1BEcHNMajJUb0UxOVhFRnZMX1ZpVkRMS05FRU16TGpnWG5oZktEYjVjZU80VzNXeDlWWWxONzcyUE5EX1pJNkU?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Motorsport.com",
    "region": "US",
-   "date": "2026-11-18T20:14:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱 🇵🇸",
-    "also": [
-     "Palestine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "20e7d310ed",
-   "title": "Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGRTdlhWbkxzY1hHZWw0alBsRDFueVFJYW1tRTV0amhUSFVHd1lxTXFQaGxteXZHdTV2WXdrMDMwd01rSHJyREVZNmJsNXlUdXJDdVExUkVpSkp6S3hyNEdGN0lCaTVIMUlXZEl6dE12Nk9hd18wRlRmVXBZNmh3NzdhdHZSQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "US",
-   "date": "2026-11-18T20:12:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "11e983a99c",
-   "title": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHliLXRKZGNweFdqMXFpVmFWTHktOHNmMUVaTjRhbWR6RWxnVlQzX0RlamRkVUJBU0J6MU5FaWQ3TUk1bU5Edmt4OWhSN0NZeHB6M1RvYkpxb1hwdHVJTk9TdjRmeFZzaU5yaWFwMHBHaDh1Sng3cmVhT2xMejNIRXJjQVJ3YnJwNTRzc3Y1aW5hSGNSNENN?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WESH",
-   "region": "US",
-   "date": "2026-11-18T19:59:00+00:00",
+   "date": "2026-11-18T20:00:46+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
-   "id": "5bf016b91c",
-   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
+   "id": "f728b1600d",
+   "title": "House Democrat targets Trump family and top officials in early steps toward promised investigations",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHVtNmtiZERtVThoRk9hLUlXQWFTd2hQT2ZzQjZEWXQwUG5FTWpVRjgtSk95OWFwa1pGYmpOMmg4dExRNUpOZ3M0S00xM1VnRUFTd1luMFo3ZjlveFBKTnJrU0h0RW9GSXl0N2F4b1pMOU94empUWDhsc01ySm9RUENPZGx5anFhR3hqTEI2NXZYTlM3aFhfbg?oc=5",
    "summary": "",
    "image": "",
    "source": "AP News",
    "region": "US",
-   "date": "2026-11-18T19:32:00+00:00",
+   "date": "2026-11-18T19:49:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Economy"
+   "topic": "Society"
   },
   {
    "id": "ce222b687f",
@@ -259,23 +276,6 @@
    "source": "Yahoo Finance",
    "region": "US",
    "date": "2026-11-18T19:28:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4beedf8512",
-   "title": "FAA chief urges critics to ‘lay off’ Sean Duffy for flight stoppage: ‘Blame me’",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZW1KZndsYWtXNk5ZR2s5aHFYc2hMMnZ6Wkcwdm12WTJONTNtRU1MNXVkRm5sRXRZM2ItSHg3d1V1U01EOE9qdVpTWjZnUHV1b1FOdHlfN3ZielFEYW8xekZKcmVqWWM1ZG9qa2NXTVBJNmdUUGdWZ19LMlFKbWZyR1F3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "US",
-   "date": "2026-11-18T19:14:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -319,26 +319,6 @@
    "topic": "Tech"
   },
   {
-   "id": "58ef9fbcad",
-   "title": "Russian national accused of surveilling US tech company",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWljVHpQSWxuNE1iUWgtSHNVZ3hncEVXYlRjTHY3R3Q2VjRFTU1sWFpUcTlfWVpxSzFGaTdrNWJmRnhZY3V5bVk4U0FhMkdpRnlPUWVWY29HOHdkQmVCMU9oT0hMcVd0MVdQMWNRdTFodEVGajdiOTZjWDluR1lUT1hpa2lzQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Fox News",
-   "region": "US",
-   "date": "2026-11-18T18:41:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "4f947a6beb",
    "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zZm5CbU9vTU1pMGUyWTJLNE95azJ4Q2dmVC0zeERkNFZkOG44X3hNb0JWalRrc2tWdXJydmQtTGpTWm5RaUpWTXNFbEtsOWc4UXJvTDByUWdXZTIzbHRJS0tVX3U1UDJUZkpScjBURmE3dEpsaWpDdlMtWEdoaFE?oc=5",
@@ -354,23 +334,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "aa3763b8e7",
-   "title": "Cowboys Make Major Change to Defense, Latest on DC Christian Parker & Mike Pettine's Roles",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHhVbThsNUtzMVdHSmhPUkRGYlMzaWdpYVQxbk5WdHlFR2owRjJNUE9yeHhDdnRBMmV5UnlUejRCU2Rjc1BZS2ZOSUN4OW5SNzlvVU9TNGxScFFIX3lSOG4wVTdINU9aMVJEQ3JEWUNQVkpaVkdUWFRZaVdILU1ZelJtRnhhWlB1bVFLbVlkX09kNE9YalJXaHhyczlieGVOQnd2THhhM0FaT043YnlYSi1sQmdmdmxyTHp0UmJycHFUY3M?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bleacher Report",
-   "region": "US",
-   "date": "2026-11-18T18:27:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "da93f4fe51",
@@ -441,14 +404,14 @@
    "topic": "Society"
   },
   {
-   "id": "f87a004492",
-   "title": "Three dead amid respiratory virus outbreak in Washington County",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSy1kNFBSY1diZ0c2bk1sZzRMSC1MbDlCcDVUNGtKemV4QWNHY2prVXpTLVlCVV9hemRETVI1Y3dQMFFqZGdwQmNCVjM4aHdval9Kc01sZlNZaklXZzZhMU8zdzZZdlJJaHZJVzY1NEVuZTJXRS1hekszZWZmTGdOUDZISGlFdUJFRDIyWTR3QUVYVU1ZWDFPdUVmNXQzclc3aUtR?oc=5",
+   "id": "2a509b0a2a",
+   "title": "Bengals' Joe Burrow, Lions' Jahmyr Gibbs highlight Players of the Week",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzBDWUowYmxYa0tFZUhsbUphSF9mYm4wdXkwMzZDczdKOF9fNU12dnF3YktieVdhMV9Kc0paRlBhTWNQbHNjR1h4MkNDSDF2bUdYb1lpZG5meUtYa016c2t6UjRCOTdxOFlIcEpNY0FnaUpXRW9sc05Eek5EakxXRkw3QkhkOGpP?oc=5",
    "summary": "",
    "image": "",
-   "source": "WMTW",
+   "source": "NFL.com",
    "region": "US",
-   "date": "2026-11-18T16:57:00+00:00",
+   "date": "2026-11-18T17:00:22+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -458,65 +421,14 @@
    "topic": "Society"
   },
   {
-   "id": "4657717675",
-   "title": "'DWTS' Season 35 finalists confirmed for first-ever live finale",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3p1aDk3TE1COTJFLXpkT3R4QnQ5UXZ4VGNCOTgyLTBDVmxUUzNTWWZIaHhmTXlTQUl6OVltbGJoODFLS01UcW9ydEVPeVF0eXFWSUwyc0pOMmJUb2h4VTFCLUhUSTNRVmx2ZE82Yy1wTkMzQ2czRFhRN1pSc0lVSUNSV2xJYm9xZm9oU3NNMUZudjR6cFlz0gGcAUFVX3lxTFBiQVptTnRTVTZ4eVpQc0FBejYyMWpBdDFWemlpUzMybGFTODh4cXhJZl9jR3N1aS1Td0JJbmR0VUFCclhkV3lMNXV5V1ZZVHNGT1lvOU5sRjVSXzAwRHdVZkNpM2d2aUEteVZzZzdkdWNfSkxTOHFMamdzaVY1RThjc2Itdll5V1BUVmJNMVlOOVhpVTBZWXBtdHdyNw?oc=5",
+   "id": "59d0cb58dd",
+   "title": "Google Wallet may soon be able to store your Social Security card",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTV0VmV3YU40VVdkNFFGSDZCbkVPVkRZUW91OGFrVWw0NmdUM1pGdU81YkZrUEdHc1BEMVBpUEM4amk3MER5Vk94N3NfSGRqNEJldVBYWDFTdXB6WlJTa2hOc1phVlhIdVcxY3ZVa1ExZkhvSi1DUkJmeWNDOFl4eWc5czcwOC1fUHlheXpOeEFJa3lidEVBNXh5djhVb25GS0E?oc=5",
    "summary": "",
    "image": "",
-   "source": "upi",
+   "source": "9to5Google",
    "region": "US",
-   "date": "2026-11-18T16:24:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "22b1552595",
-   "title": "2026 Trade Value Charts — Justin Boone's fantasy football running back breakdown for Week 11",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdWJpM2lMVlhvUjNISDBKS3RHUUx3WXFjR0JWOGh1bEVxaFBZdzg5V3d5SWJybV9HYmJUY2UwSlhya0hubjFQcUFlWlZqTUJYamJHYmVCZEpkUWIxbnN0Z1BsbXRyenZWcXZqSUFUM2pQQ0lpZVBrLWoxMFI4Z2JYUTJWQUdkd0ZoYVhudC1xbDJaN3hfUlZqekhxclJDeHNWTFdSRUlGZmp3UXhIUUJ3Zmp1Mmc5ZzB2b1ZjUmkxenFpYloya1MyUVNLNkpReXZzTTRhZ1Frb3d3aHNxeEhr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "US",
-   "date": "2026-11-18T15:44:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "172581f289",
-   "title": "House Democrat warns a dozen Trump allies to save their records, calling it ‘just the beginning’",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2hubkFoWWxoVk84R0ZsWXczLWp6YzQ1NFdHQ3VlWTFqQ2MyVjZkOFlqRWRhTnJEZ09FNEUzd09Kb25Wa0gtX1diNjdfeTJzNHlFSDg1Z1hDR091VXlmV1pWREVvc1lsLUNuV1NxaVExeTNwME1sY2t5Q0oyX0hjZDd2WjdwZHpuUVVneFpsOHNKMk95TUtxU091bHBYWUNMZ252dWZDN1Z1U0N0LXNvRUszTDVSUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBC News",
-   "region": "US",
-   "date": "2026-11-18T15:30:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5bfcf75adc",
-   "title": "Why Didn't Rockstar Use FSR 4 on Series X for GTA 6? Microsoft's Stats Have the Answer",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmp0T2hNVHAzOE9IbWZGTXljdkZoQ2RjZ3U0b0o5aExsbFh5YkhJbkFiMmdacTQ0OG9rTTdnenpKM1huM3ZEa2lrYTVjWHdmRUxvU0dKVFZuMm1pNV9PYjMzRG4zM1gzSURmaEFsdkk1T1Y1d19aZGVKYkJRdEJtYmhsR3dXZWtxQnV5cXFZWGRtMVc2R05PRGtQWmVtS2ZRYV90aXQ4STBWM2hoOVJLbkNwZU1Wb3FoWUVvbE5sZkk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Digital Foundry",
-   "region": "US",
-   "date": "2026-11-18T15:17:00+00:00",
+   "date": "2026-11-18T15:40:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -524,6 +436,26 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "16db42ace2",
+   "title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYklTN2ppazZ0YmtZQUVsWGVvN01DSldOYkZ1Vl9rVmpVOXA4N3B3dl8yeTg1SU56TG56S1NnTlB3R3EyRFZDV3ZyYnY0Vy1va1VKT2M0Qkg2ZTFsOHVhNGdfT2k5blZXMXlxaWZwZWc2Z3BmMktGTS1jekwteHpGM3c0VUhyaWxqd2t0QzQ1SHVWaWo4eGNFaXNRT1dFZmZpYmhOVkNySi1YYmZDekZWUdIBtgFBVV95cUxQYjdxSzY2dVg3S1VZUm9YVXc4b29vNldIeVBjMFN4a2xreHNOTkR1UmIwSmNRYkNTbkctLVctcmxRbHFVeFNUQWp2WkZGWlVMWEJldlAzX3ZnLUdHSG14VXFOQU5mTURuNmZyWEdkWUNISGRuVXU0WmdBVFRKM0V3cHJpeE94dUp1U2pFcFVxV3lxTDVjOFZXNi11MG9FZ3JzTnhmVlVVZ1JRUDlTY3dhYWljazhOdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "US",
+   "date": "2026-11-18T14:40:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "83d472c29e",
@@ -539,6 +471,77 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a36bd88457",
+   "title": "‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qatar main event",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDVna1ItelBQZ0g4Q2VGRFE4dktIcjVXUndjNFZTTHc2V3VmRmFsejFQYmlpTzZ1TEppb1VIWGdfbVN2a0dJbmlNMTl2M1pUNWhoOWRVNS10cWNLVGRNUGY5aU4wU0JEVGthUEFILUoyWUxKUk5tRENzeUk1SDhkRHcxMWFhdkhBdXZFY0JNaXRDX3pOTkMtdEprYkNDQnd0UGtRX2F2cmk0a1UwaVRnV1dfQ1RHRnJRWmV1NVRYZmQ0U29KdTU3VzE1Y3k0WGxSajRYaWNfMGdPNFRMUHZ1ZGFR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MMA Fighting",
+   "region": "US",
+   "date": "2026-11-18T14:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Qatar",
+    "place": "",
+    "flag": "🇶🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7f40021308",
+   "title": "2026 CMA Awards: The Complete Winners List",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3RVa0szMUc5dVZZbkdISjZYT1FoQUN6U0p4NFJ1NzJyelQ5YVFSeU9scDhqMHVDMDA4bFBsRG9VbzdRb0N0S3dYUTVfRFphQ3RnWnBaeEh6Yk9kYlcyY2l1OGNOQmtwS3NXd1YwZVY2WHNqSUs5Q2lVVGU2UEJZSjBfSjJzNnUxZFRzOFVCSVk4UlU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Rolling Stone",
+   "region": "US",
+   "date": "2026-11-18T13:47:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "15dc9680d4",
+   "title": "‘Dancing With the Stars’ Is Making an Unprecedented Change to the Finale",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEViUzdlb3hySGl2RFZKNHJYczNReEZfM0ZzQ0dJTm9SWjR4ejJaOHhONFZ3alltY19RQXRTcEpnQ3hVak03UzJKZkNCUzFoTzJLT3pnMHg0NVE1SVlMdlRkZWdZZjRMcnhDVEwydEctaGVvZGYyWjk5ZGpQUC1rWXUxUE1aVFY0MHY5YVRSWXlXOFl0U3JsMXNabmlxbWNkN1JqUjAzNDVMMlhCMnMycW5lS1NtcUk3Vlg4R2pn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "US",
+   "date": "2026-11-18T13:32:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a15da6961f",
+   "title": "Trump touts ‘landmark’ trade deal with Philippines",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzFEUGtzd041Uk54NWVjS2tJekhLelB0bC1VeUJBZmZ0VjAwQW1kQm01LVFBNEw1aC1kY2RmZ2lMN3N1UHBoejVPT09rTDZYd3NFSmJFUlRMQ2ZSVjR5bC15ZXR1NUZibC1PRmVUWnhzZjlHVWwxcVNyS3JCcGZkWGpKLTl6dknSAYwBQVVfeXFMTkZrZVhlVzFtUm1hT0dzRFRzQ0g1YzVkUUxlR0FrNnpHRHpfbUtHWmlhWVpkMC1UQm9HYU9TbE9VVENQMDB0Y1IyS1o2QlNyeEdNeXBFOGExcV9BNUpTbUJSU1p6Yy02YjJYVUI2WW9zMmh5WFVuQXJRMXU1ei1IaHN1M2RieFd2UFFIN0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hill",
+   "region": "US",
+   "date": "2026-11-18T13:07:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇵🇭",
+    "also": [
+     "Philippines"
+    ]
    },
    "topic": "Society"
   },
@@ -613,23 +616,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Society"
-  },
-  {
-   "id": "b9bc58ba41",
-   "title": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwRW1oWnJqVUUyZjZfQnRib1JCemo2R3hyTWZ4d2dmaE96ZnNySXlaelo1MXhpNU1fRkFNSGRtek5ubXd5Ykl5Uk1zWlpNTlphSndsVVVHVjNfTFRieG05YmZnWkx4RElkSVptdmdVdFdvd0dzNkc3ME1MQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NPR",
-   "region": "US",
-   "date": "2026-11-18T08:27:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "0d9316645e",
