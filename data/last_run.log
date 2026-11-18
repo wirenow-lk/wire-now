@@ -1,49 +1,66 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 71/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 61 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 21 stories
+OK   EconomyNext: 17 stories
 OK   Daily Mirror: 99 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 25 stories
-OK   Daily News: 84 stories
+OK   Daily News: 83 stories
 OK   Sunday Times: 8 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 18 stories
-OK   Google Top Stories World: 68 stories
-OK   BBC World: 32 stories
+OK   Google Warnings LK: 19 stories
+OK   Google Top Stories World: 69 stories
+OK   BBC World: 33 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Trump arrives in China for historic meeting w (11 outlets) | Cyclone Akvan Threatens Andhra Coast, Odisha  (7 outlets) | Hakeem Jeffries could become the first Black  (6 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (6 outlets) | Kuwait, Bahrain face new Iran attacks after U (6 outlets)
+Biggest stories right now: Trump arrives in China for historic meeting w (11 outlets) | Cyclone Akvan intensifies threat: Very severe (7 outlets) | Democrats formally nominate Rep. Hakeem Jeffr (6 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (6 outlets) | Nvidia says it won't reinstate Huang as it re (6 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Fox News [1 outlets]: Susan Smith's ex-husband wants her ‘in prison until she dies’ after ki
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [2 outlets]: Lahiru Kumara claims five wickets as Pakistan take 227-run lead over S
-    important (also on Daily Mirror) - researching
+* Hiru News [2 outlets]: Gold prices decline in Sri Lanka as global rates fall below US$ 3,800
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* WSJ [2 outlets]: Markwayne Mullin Is in Hot Seat After String of Glitches (and a Footba
-    important (also on The Guardian) - researching
+* Daily Mirror [2 outlets]: People’s Bank and Justice Ministry partner to digitize judicial paymen
+    important (also on Daily News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Sunday Times [2 outlets]: Navy foils gold smuggling racket
+    important (also on The Island) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+* Al Jazeera [3 outlets]: How Ukraine hit Putin’s prized bridge
+    important (also on BBC World, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -57,48 +74,22 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 429,
     "message": "You exceeded your )
     -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: Fitch warns Sri Lanka’s debt and fiscal vulnerabilities remain high de
-    important (also on Daily News) - researching
+* Al Jazeera [3 outlets]: Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines 
+    important (also on AP News, The New York Times) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [3 outlets]: EU proposes €45 billion Ukraine loan, to be repaid after Russia pays r
-    important (also on AP News, France 24) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Yahoo Finance [5 outlets]: Xi, Putin blast Western 'protectionism' and sanctions as Trump lands i
-    important (also on AP News, Ada Derana, Daily News, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -107,14 +98,12 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 11 too small to look sharp, using the clean cover
+  photos: looked up 24, found 3
+  photos: 12 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 25 story pages for Google)
 
-Countries: IN 37, PK 35, BD 37, US 37, GB 38, IE 37, CA 35, AU 37, NZ 36, SG 34, MY 37, PH 34, AE 37, IL 36, NG 35, KE 32, ZA 37, GH 32, FR 34, DE 34, JP 7, IT 34, ES 34, BR 34
-
-World Pulse not made this run: no AI available for writers
+Countries: IN 37, PK 33, BD 35, US 35, GB 38, IE 37, CA 37, AU 38, NZ 35, SG 34, MY 35, PH 35, AE 35, IL 34, NG 33, KE 31, ZA 36, GH 32, FR 34, DE 34, JP 9, IT 34, ES 33, BR 34
