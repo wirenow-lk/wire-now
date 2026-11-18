@@ -1,110 +1,76 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 32/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 35/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 91 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 20 stories
-OK   Daily Mirror: 91 stories
+OK   Daily Mirror: 100 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 24 stories
-OK   Daily News: 86 stories
-OK   Sunday Times: 1 stories
+OK   Newsfirst: 26 stories
+OK   Daily News: 85 stories
+OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 20 stories
-OK   Google Top Stories World: 65 stories
-OK   BBC World: 28 stories
+OK   Google Top Stories World: 61 stories
+OK   BBC World: 26 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone Akvan update: Andhra Pradesh landfall (9 outlets) | Cyclone Akvan: Andhra On High Alert, Odisha T (8 outlets) | Russian military plane crashes, killing all 1 (7 outlets) | Australia sanctions Israeli settlers, organis (6 outlets) | Pope Leo hit by flying rosary while waving to (6 outlets)
+Biggest stories right now: Cyclone Akvan update: Andhra Pradesh landfall (8 outlets) | ‘Zero’ evidence that recent cascade of tech o (7 outlets) | Russian military plane crashes, killing all 1 (7 outlets) | Cyclone Akvan: Andhra On High Alert, Odisha T (7 outlets) | Live Updates: Xi and Putin Meet Ahead of Trum (6 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Dengue threat persists as 59 MOH areas report rising cases and 82 deat
-    important (serious news) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [4 outlets]: Sugeeshwara Bandara granted bail five months after arrest
-    important (also on Ada Derana, Daily Mirror, Hiru News) - researching
+* Newswire [2 outlets]: Ven. Rajangane Saddharathana arrested
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: the name/word 'Amarasena' is not in the article
+    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 2 rejected: The 'what_happened' field claims Bandara's release came 'five months after his arrest on June 18,' but the article does not state a five-month period; it only says he was arrested on June 18 and bail 
+    attempt 2 failed: AI did not reply with JSON: '{"all_supported": false, "problems": ["\\"place\\" field in CARDS is \\"Anuradhapura\\", but the ARTICLE only mentions \\"Anuradhapura\\" (without the \\"c\\" after \\"r\\")? Actually the article says \\"Anuradh'
     -> no cards; posting with the site's own summary
-* Ada Derana [1 outlets]: ‘Red’ warning issued for strong winds and rough seas
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [4 outlets]: Thailand’s Cabinet endorses 30-day visa exemption deal with Sri Lanka
-    important (also on Daily Mirror, Daily News, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 rejected: the name/word 'Buddhist-linked' is not in the article
-    attempt 2 rejected: Card says Cabinet approved a visa-exemption agreement; article says it endorsed a draft agreement.; Card says Cabinet was led by Deputy Spokesperson Ploythalay Laksameesaengjan; article does not state
-    -> no cards; posting with the site's own summary
-* Ada Derana [4 outlets]: PM, World Bank Executive Director discuss Sri Lanka’s economic recover
-    important (also on Daily News, Hiru News, Newsfirst) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [3 outlets]: Sri Lanka Welcomes Over 102,000 Tourists in First Half of November, An
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [4 outlets]: ‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and w
-    important (also on AP News, Al Jazeera, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: The Guardian, Al Jazeera
-    attempt 1 rejected: the name/word 'Sullivan'' is not in the article
-    attempt 2 rejected: the name/word 'Aarigaa'' is not in the article; the name/word 'DOJ' is not in the article
-    -> no cards; posting with the site's own summary
-* The Guardian [5 outlets]: ‘Zero’ evidence that recent cascade of tech outages are linked, says R
+* Hiru News [1 outlets]: “Kawanthissa and Other Elephants Killed by Firearms,” President’s Coun
+    no AI summary: saving the rest of today for important news
+* The Economic Times [2 outlets]: Akvan cyclone update: Check latest position, movement, intensity and l
+    no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picki
+    no AI summary: saving the rest of today for important news
+* Ada Derana [3 outlets]: Cambridge Dictionary chooses 'human' as word of the year in response t
+    no AI summary: saving the rest of today for important news
+* Newsfirst [3 outlets]: Fort Magistrate Orders The Release of Sugeeshwara Bandara on Bail
+    no AI summary: saving the rest of today for important news
+* The Guardian [5 outlets]: Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats
+    no AI summary: saving the rest of today for important news
+* The New York Times [6 outlets]: Live Updates: Xi and Putin Meet Ahead of Trump’s Arrival in China
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
-  photos: 7 too small to look sharp, using the clean cover
+  photos: 9 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
   meaning check: 15 stories judged by openrouter:openrouter/free
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
