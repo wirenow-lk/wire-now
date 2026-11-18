@@ -1,25 +1,60 @@
 {
- "updated": "2026-11-18T16:57:27.500412+00:00",
+ "updated": "2026-11-18T17:54:43.098802+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
   {
-   "id": "7508d47ab9",
-   "title": "Mark Carney meets Donald Trump at summit in China",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2VyVXdZTDJxZWFUZEx0YUxGQXVyeW90UFc1aXljX2NfRFJRazh1Y0ZBSjN0TXdna1JrVFNWNzhaYWdvc242dFpCeXlDblhNRnZDNzJTNnB2OFBJWjdtM2V2QW1STldfbkdTNDYySFk3UDl0QzJ1RjlPcDRtRmNyQjJkNWMzcHVqUTQ2Ylk1bzFsaTJmWjZuR2tNOA?oc=5",
+   "id": "4b8d8df4e8",
+   "title": "Building Obesity Care That Lasts",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KaEY5WHZmY2hHaXptWjl4NlRPVE5tMkRIWnU1VzRCbk5xS0h1V19scWlGeTBRcW93bU5ONEtCY3o1NVF5X1VRQlBHMXBPVUtWX0hicEppUWx5dzJKSmlKQk9QVndRSnZiZ1FJUzNVTmt2cjRmcnNQa1l3?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "Amgen",
    "region": "CA",
-   "date": "2026-11-18T16:34:19+00:00",
+   "date": "2026-11-18T17:39:50+00:00",
    "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7014561243",
+   "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jdlZFejNnM2FrbHNubTU5aVFUYm5ORmJLcmRKdnFSc2VuSGo2VkxGVUxyVEE5TXdINEg3ZVROTERla2R6NGpGd0plVW1QUFQ4REJHdmk2OF9BLTM4U20zZm15STgtS2UxV0tMTUxR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-18T17:23:00+00:00",
+   "coverage": 2,
    "location": {
     "country": "United States",
     "place": "",
-    "flag": "🇺🇸 🇨🇳",
+    "flag": "🇺🇸 🇨🇦 🇨🇳",
     "also": [
+     "Canada",
      "China"
     ]
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "44c0299683",
+   "title": "Cadet captain says he's paralyzed from waist down after attack in Hamilton restaurant",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl9MaVZOSDI5d2Z5WXRuTHpFSkQ3N3N5U3E1Q2NteFU0czJIamU3aDRfSHo2aUhIZWJHYTlnNTQ5SkV4TzI2eTlDbm9YOHE3cWVBUmFVb184UWgzQnJsbnRScWtVU19KNVJpOEY3MHRGd3ItR2xPTzJfalpYd1RKYmNxOXhkb1g3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-18T17:21:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -75,48 +110,14 @@
    "topic": "Society"
   },
   {
-   "id": "604182abfc",
-   "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1VzWXk2T3BfcWwzb0FLRTRJbksxU0NQUnZGMXVBdHRNX0c4b3BrX2FuQUtjb3RaUGRpN1lpTUdaVVV5VkphRmNpS3JEOXB1WVhOeXlSMGllbVFzRndNeFB4TEFaUWEzSG50QTBRdmJTRHJ6ZGJXalNIdWthQ2Yzc2VrY1l0Z2tPVGJVd1lybE8waVZxTFdqWGNQdERZODc0aGIzTDRDbHNGQdIBrwFBVV95cUxOSVBBdWhDN21WMXJ4dnNYS0VXcmVoNkpyZUNtemFHWHVNeGVxWUs3NW91bEpjTVBKWVVJZjV6QzRGMkVvWUdGZVp6TmZMUzVUXzZUNVFpVjRvUDBqdHJPTWZ3d0h4RU85S1hwQ2xpaUV4YWloUGZBTk1uVENfbElYMTUzaEREeWtna2RvUFZQTU1EeGM0b3ZyQVFfcGM3S0dvV01oSzdYaFduNGVyVnJr?oc=5",
+   "id": "2612291a53",
+   "title": "LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GZFlDeXRyQWtnSXYyQVdlUVpTRlFwbzFzWDVRRXFTVTJ4U1JEYUludzA3MVpIampNaXZ5SjRPR2xWb1FwZzBOcXZrYkh1UzM0Ylk1T3VsUVBITl9RNTBVOXdmcFRTZFljNUozS3VVMGMwSUM0Z2k4?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "infoq.com",
    "region": "CA",
-   "date": "2026-11-18T15:41:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "11c82101c9",
-   "title": "Concerns Raised Over the Possible Ban of Flavoured Vapes",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tLTM2dHU2SGN1TzZlY1RVc0xSOXpXV0p6c2Rkb09QZVFodzhSdFZmLW9YR2w5TG9PLVJBRFR4SkIzaGYwMWVESFNFNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "VOCM",
-   "region": "CA",
-   "date": "2026-11-18T15:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4635faa238",
-   "title": "One UI 9.5 beta turns still photos into dynamic 3D wallpapers",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREVrTlg1aVpjaXNrUThMU2h1VWZIZlRaNDRGVHBra2ZuLXBXVTlvU1ZnbjNCcGNMNXU1Qy1TMUZHNjRnWkFuRUdzNldBRVJfcTZGald2TUlMVklfX3RrR2FzSm81WUo2b2tfWjJvWUliQkhONGZkdFl4V0tnelMtaENOWUNNa3ZOSUg0YVFGZTE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Android Authority",
-   "region": "CA",
-   "date": "2026-11-18T15:14:00+00:00",
+   "date": "2026-11-18T15:06:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -160,43 +161,6 @@
    "topic": "Society"
   },
   {
-   "id": "eedf58cb60",
-   "title": "Large majority ‘concerned’ about Carney’s hiked immigration targets: poll",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXRWZUdQcXB0WGV6Mk5vSWN3T1NKMnVsZEp0VDZ3T1FhR3lhSUJGWldrQmstR1BQU1VBeDNPWmFwV1hwMEtwUnEySTZOZFdwd3VYX2RacGc4eTgwZ1ZsU1JaQ3FfeVpTT05LTzVwc3VLeExXNzA3YlhqUC1ibTNfdFhzQ1pFSjhrb1REUkNKOE1QVmZUZVh5cWNYSnRpQ21xMkZZTVdrdTZzc01fRG43akx3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "National Post",
-   "region": "CA",
-   "date": "2026-11-18T13:02:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "51664be62a",
-   "title": "Iran widens attacks on Gulf neighbours in retaliation for U.S. strikes",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN0x6M1JRQWdrMkJ1ZmgzWGVhUVRqMHJwMW5DbXJnYUtVakJMX0tSMVMxUWo4Uld3a29VbDRrWkpsU2gtUmdrcWZTamVhbU1RSzBMdXRXQktab3Y5LVh1bzc4UkZaQ18tWEE2UWxuMkROSDAwS3hlZnVwSlBHT1RPMlMzV3g2djBWM2VWTm5fYnBCanYx?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Globe and Mail",
-   "region": "CA",
-   "date": "2026-11-18T12:58:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "935af7b2b8",
    "title": "Waymo temporarily pulls robotaxis from U.S. highways",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XQklfdG5Ia3gzVkt4VjZsakxKSElaVzRRLTNrNHRwSlZPdmtOZk9WMHoyN2hTSXlYSU5lT29jMnBWRkFORnJUR293TlNVOEstemJZbkZoYjNhUXZEOVl5RC1uYlh2UlNtQkRHbGdNQ18?oc=5",
@@ -210,6 +174,23 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6badb4fa7d",
+   "title": "A group of isolated Indigenous people in Brazil was seen near a village. Activists call it a ‘crisis’",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3Z0QVZkZVZDVmpKSHVOeXBpT3laMFJ4QzQxVWNKa1dYMzB0cGx1YVpPakNqSkdOeEZwSUtaU2lJR2pzS1Q2SnRuX3JGdE4wM2xvcGwyVC1YYlFtQWhNckZIQzZoU3NOWnRGbmlYdFdldUoxbWJhVTIwTTd5d3ZYQzZBengyUTRMNUw2ZmdJNEVyUkxMMElpUGd0YV9nVkp3R19uQzlGbXU1dkJ2ZF9HTjk1ZU1RcXQybDhjZ2ItQjRKYWUyN3JacVZodVFkaEVQOWNQbGhZSU1uc3p1bFYzVHFsZmFEdlpXcVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-18T12:42:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
    },
    "topic": "Society"
   },
@@ -249,7 +230,7 @@
   },
   {
    "id": "8966b76277",
-   "title": "Sask. expands coverage for 2 drugs used to treat ovarian cancer",
+   "title": "Sask. woman facing ovarian cancer says expanded drug coverage 'gives a lot of hope'",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTZXeDdsNjZrQkpfZW9MeFplSEtPWURHU0VjTERNY0Z1dmdjYVpuUXlRd3FvT2psOERReXVXT0tJU1p5SGJVX2w2cjhITW9KcGxOTXFKZDdKZERRbFlDejBEVEJLT1VQQmdKUXU3VVJlU0FSRnJLMUNReU1HZ0ZvMWNRRlo3LWg1RDZiQmwtWVZyRDVIajluNTFzUDViT2tf?oc=5",
    "summary": "",
    "image": "",
@@ -265,19 +246,23 @@
    "topic": "Society"
   },
   {
-   "id": "97f4ee2d2a",
-   "title": "CTV News in China: A boon for pork and seafood producers as tariffs drop",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXdVRWN0eTZUdkZrUktBUkRMQzRZVUNzWW9KRGQ3d1ZybFRYaGRfSnFzbmJWckRUTlpoR2p6WjNnN3RrVzVNYzktZXJCZE83Vi1OYXJ4TVJldU9jaFpzdTdJbENrdXFpZTFIeTdtMmFVTy1PcFhVMlBGMEljamUxVVVSNU83bUJGa0Q5T0IweVdma3VYaWpMYnl5MFJ2YVl4T1NfMDJGY1hjNW1hSThDRGNDc1FHa0dva3dNbQ?oc=5",
+   "id": "96f1949a65",
+   "title": "Kuwait, Bahrain, Saudi Arabia come under attack as Middle East tensions flare",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1VNSThiN1FHdGw0eVg4cWphWkNjSGxzS2dYbWZzY3c2N3BFdFRCYVFCZTdHZ3NkcmxtN3poVVFCMDR6NW1IR01QclhxWnF4bmJXeVJoREowWjZ6cG81djVxWUdYbUMycEF2cUNISEZUcnd0eWtlajVOQXN1QldQcnhGc3NlVjZpWnBkb3BwMWRyWW5pVHJBM0JPN000cHd6cVNxRFcwSGZVZ9IBrwFBVV95cUxNWWpRV1dIdzZsa0dpMjRzZ2pQdU54WUVSdnNNcWx6NWpHb3BEQnJfQVpqNWpqYnV5ZE9qbF9oX0hoOWZvblJCTExZQjdXRmdGZUZuLUwtS0k2bkZpQmFaeGdOM2tqRHBFYmZaX1M1RVoxSGphc1cwUWNtVHNwLTA3STE4U3UwY0RseENwNjNSREZLR0RqU3dlZVBlWUZaSnk0bHEwTVpQallkRmJFSklj?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "The Times of Israel",
    "region": "CA",
-   "date": "2026-11-18T11:54:17+00:00",
+   "date": "2026-11-18T11:43:02+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "Kuwait",
     "place": "",
-    "flag": "🇨🇳"
+    "flag": "🇰🇼 🇧🇭 🇸🇦",
+    "also": [
+     "Bahrain",
+     "Saudi Arabia"
+    ]
    },
    "topic": "Society"
   },
@@ -290,6 +275,40 @@
    "source": "Space",
    "region": "CA",
    "date": "2026-11-18T11:35:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a847b0a4dd",
+   "title": "Canada’s emergency alert system to be tested across the country on Wednesday",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjNGUTZMRllwNnY1S0tsMnZWeG1sNWZKaHlwVHRMcDdlYkNEcW1jV2NJQkdEbWdBaWZKQjhveUNoNzRFYjNhVGJkZ19wcXZGYnExVWlSLXd4Wi03UHMta1lobGpFa1BDcnlCZ0FzR2RGX2UwekhEb1lKd2pnbzFZeXZPLXc1TVZHX3lrNVFGQmNZdHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-18T11:30:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4f3e50795d",
+   "title": "Carney mum on whether Ottawa would allow telecom sector to lose a national player",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmk0M0xTWGFidE1hdEZvYWMtYWV3UWxOQ295Wmo2NDFZOGxwcDZlQ0dQUHNEUm54UlNhU3pldVZOQXo2dy1OdXZBY2lzcE5vOVQ2a0pONHZWY3REdDZFME5JcHNOY1Y1VHBuSm1BeGt5Q2FXT0VldWtDUUowQkRQS01tQ2M4UjZ1c1c5WUNLZ0tEWktSckZsQjB4c0JHX0lPaVNwYWtGanJMbDlJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-18T10:56:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -336,21 +355,21 @@
    "topic": "Health"
   },
   {
-   "id": "eb873ce410",
-   "title": "Boucher’s ‘long, brutal road’ to NHL leads to first goal for Senators in debut",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVhOdlhGcGJJWER6Q2p0V0pEUm93b0JWX2VMUlVSTDJnOWFEbDlaZ1hHVTd1cVFnNTNCMTNzdHBVRVpxeG1Dc1pNUERzeUljU2tScFJ6RElzNGZKazdtR1VsTmZGTWVsQmhMaXRFa1g3VU5iX1N1UXJsTFItWV9hck1aVEt1LWI4dElwN1MwN0w2aGMwRjdfdnRSMWVzM3o1cnhpOEV2VHctMXNNQ1E5MEowZFpDbTlEOGtxWHlZX09qVi1hRExKRXZR?oc=5",
+   "id": "a591eb5ba6",
+   "title": "Government Proposing Ban on Flavoured Vapes; Protest Planned for Confederation Building",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0d4clh4aGQwb19kbWtIYmtIamtEV2Zyb2dOdzNFNjl4X1lOdGxfeEZIS3JVOWJJVTJseldkWEVhVkVUbXRXeHROcnBjeTlLVmNLMHFjUDFyS3YwV3NmOFh5cWFhZTFJSVo5YTRERkRlSWlfSGdmd21YS3hNeHA5WE1td1BHVWU1a2htMmp4eVU?oc=5",
    "summary": "",
    "image": "",
-   "source": "TSN",
+   "source": "VOCM",
    "region": "CA",
-   "date": "2026-11-18T06:50:32+00:00",
+   "date": "2026-11-18T09:34:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "621657d88a",
@@ -378,7 +397,7 @@
    "source": "Euronews.com",
    "region": "CA",
    "date": "2026-11-18T05:31:03+00:00",
-   "coverage": 2,
+   "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
@@ -395,23 +414,6 @@
    "source": "Entertainment Weekly",
    "region": "CA",
    "date": "2026-11-18T05:18:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3e57da291d",
-   "title": "BC’s Rockfish Conservation Areas Have Been a Huge Success",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmJHaHhzNHRXVjVkSE5NZDNweE1famZaaXFscms5S0x1UC0zZV93ZUNhU1p0WlBrYnI2S1RpQmZydXp6UjhvYVJib2JIdnM5T1cwUEpLSEU2TkUxZng4dGZIUTZIdVV0bEE4Ml9EU0hUaGk3UFN0N1hwXy1CSVdTV1NGU0xiZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Tyee",
-   "region": "CA",
-   "date": "2026-11-18T04:45:41+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -472,6 +474,23 @@
    "topic": "Society"
   },
   {
+   "id": "e1f5d55ab2",
+   "title": "Elks celebrate Grey Cup victory with fans",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPelEwVFFqeWpJSEVId3VueHd6ZENnMWM0VGxEb09UX3pHdkxrb0x2cTIzazdyUTMxQmNydmllUGhiRllqVk50WUU2X0hWZ0ozMFN2MVhHMXBMOVZhOWdoQzJQem96bXFmRnRocTVPM3dsQjd2MHl6NnpxZnRYTzgzUlQ5M05lclBHNXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-18T01:42:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "ba7745088e",
    "title": "New middle-class tax cut coming next year, Manitoba government says in throne speech",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVlJamVFOWhEZy1vUzhTMzMtVkFjazBFNWNnbmU4dW42eGxrYkVZVFN0dEI3SjJWcXNHVGpURUF1al9acFkzSnJOWXBOUC1NVUVLcGRzR0xIbHJvQ3NWY0lGM1B3Z2R1V1U3YzBIUEJqai1jS0wzdk9fcFI1NG9oRk5RUjFhRjQxclNhRXNR?oc=5",
@@ -506,65 +525,14 @@
    "topic": "Society"
   },
   {
-   "id": "f083443a2c",
-   "title": "Kwakwaka’wakw artist has dream come true with Bata Shoe Museum exhibition",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0h0aXFQRWhBUlFNSU9lZ196a3NLc25ZUHNVc3YtSDgzU1J5VDJYMFR2S3dCNEs5RnpxSmJmSTNQQUhiZUV0bktWRFZvRGdHcUxLNUotRFQ2SHVQN2hwcUlOaXNOSXVjaGJ1LXhYcDBqaVFjc3dOZEdmQlhiV05GNGNLSnYwN0VRbWY4QQ?oc=5",
+   "id": "90b5f654b0",
+   "title": "An SNL sketch about elder care has gone viral. B.C. caregivers explain why",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRElacnh2TFgyR2hGLUFjblJkLTBqa1U3a2ZWQW5fWU1KYUk3SG1VMGdWbGMzWWxveVZPaVBpM0daemZmSVpYbmRCMUNpS0ttZjN3R1M3aEd1N0tvdF9NemtYMDNmM2h0XzVCaEVoSklFMHFVeFdEeTF1VHpDUk9pTQ?oc=5",
    "summary": "",
    "image": "",
    "source": "CBC",
    "region": "CA",
-   "date": "2026-11-17T22:52:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c1c8b09266",
-   "title": "Cadet captain paralyzed from waist down after Hamilton attack",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0VUR29BcTc1bHhNdWJyQ2tJeC1hTkNzcUdPZVV0Nm5LZ0VRdE9tRzVHNlZTbEtUNFRPSnFCWHo1dkR5VXY3WkxZUjJ5TEMxekdTUlpINlE4MEsySmpUV0JCUlV3S3BhU1ZiM0RyYl9KTU5nNzBxUk1nUmFGN25RdjI3LVNpYUp3d1ZxcW1vd2YteHdkVDY2bGNCTExTVlE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Global News",
-   "region": "CA",
-   "date": "2026-11-17T20:50:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5ab5cd5b64",
-   "title": "Canada's national emergency alert system will sound off Wednesday for testing",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02Y3hTSlMxcFlVVzFUR1ZiSHZPTGFEZkVfdWc2cElLRlVUTlVJR0VjSmpFVFRtcEJDc2VyMnFQaHl0Tk1RME00ZGQ1Y2FzWEpJeUdzQnVPaGc5eU5ET216NlNCemhKYzIyeEVrYzBYaEFaem92MTVz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-17T20:33:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a187aa0db1",
-   "title": "Snowfall warning for southern Alberta with up to 25 cm expected",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUW5EdHk5QXp4RW4wWERFckVKdTg3dldHcEJ6UUJaWVItTFlkYTFPMVR6cFdaSFh2RXpUWnp1dkE0VzhucEZNSGZrU3ZhWldyVk0wMWNQbTZrbVhGQUZCSDZIV2pnM0YtbGN0cmtzeGE3TWlnMkJvNmF5TVRZbXl0dWFTcUR1dlVaXzVIb3FhbmVOMjkz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Global News",
-   "region": "CA",
-   "date": "2026-11-17T18:52:48+00:00",
+   "date": "2026-11-17T21:23:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -608,19 +576,19 @@
    "topic": "Sports"
   },
   {
-   "id": "b7c04abca2",
-   "title": "Canada can’t afford to keep obesity care out of reach",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSV9JdU1WaHI2NFVwM01YYVlBaUx1RGFiZjI3VXFEcTY0QWhlS3hBWkJMOVhsZi1PXzlPMmJYbmRYMTFHSzM5dEhyODdhclBQTm1FdzcxaEZFTUpaN3lESmg1N0dRd3psanhaR3docktqWTNKZEZTZEwwRDN1NEF1X0VfWHdpSWRtZmYxcjVlaThRQXZ6aVY4dHUyU1JoMVVj?oc=5",
+   "id": "9de08608c2",
+   "title": "Kate and William Coordinate in Traditional Indian Attire at the Earthshot Prize Awards in Mumbai",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObklQZlcxcVNVZUUtZWRGMy1pUjUzRkVsVF83dm00S3V2LW0taXQzVW9TcmYyd0p6UTgyQm1XM28wakwyaTZJaExGaG1oVDhkUG1fLUZVMkxhT25yWnMtZTlGVXY2MGVjOHpuSXBFODN3NlIxbW9Fb1pBU2kzbm04SHJpNlRFNGFZcWFETTFCZHUyZGxMcnYyZi1JYXJ4UXBVZ2NqM0lrQkRqcnFGeHlscDJ2U1h3clZpR1Y4Q2lRWm9GQ1JqSmpudXE3dVBGR19vNVczajZUZHR4bU9uRE9BSVVMSU5yeDN2Sjd5c2lB?oc=5",
    "summary": "",
    "image": "",
-   "source": "National Newswatch",
+   "source": "Harper's BAZAAR",
    "region": "CA",
-   "date": "2026-11-17T15:30:28+00:00",
+   "date": "2026-11-17T15:58:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "India",
     "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇮🇳"
    },
    "topic": "Society"
   },

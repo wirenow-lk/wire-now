@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-18T16:57:27.500412+00:00",
+ "updated": "2026-11-18T17:54:43.098802+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
-  {
-   "id": "f120ed2b64",
-   "title": "Bouncing sand grains may explain planet-wide dust storms on Mars",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zeDFfYjRaSVhJVlE2ZjRCR1lHdWU3ODRWc1pmWlY4NGYzRnJpUUJkMnNUQk11Vk1IblRIeFhBNi1WY0xuNEw2SHkyYjZmWjF4eUtvQ0hCWC12NHV1MF9tU2dacVNLN3M0X3NSODhsTjhiblk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Phys.org",
-   "region": "KE",
-   "date": "2026-11-18T16:20:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Weather"
-  },
   {
    "id": "824d48cc8e",
    "title": "At least eight killed in overnight attack near Isiolo-Garissa border",
@@ -28,7 +11,41 @@
    "image": "",
    "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-18T15:58:36+00:00",
+   "date": "2026-11-18T17:09:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9307e8e866",
+   "title": "'A shotgun marriage': Why are NASA’s SkyFall Mars helicopters riding on a nuclear rocket?",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXNfOTZ3NmpnRU9qZXhkUnhxMXhUMy1zeGFnRWROcnN3Mmd5YUNtcVFyMlJGMFUwc1N0dTQ3SjA0cS1rTEhFdVN5M3lJdDAzcGRSa2k2cGhnM1lLSEx5YjN1UEhubzdqT0dzb2xvTWdybXRfZjctd1AwaE9vSmR5OE1CXzJwMTY1U1d5SUJGNVBqUGFWNGt2RGF6TGZJZjdFanpvdzNPd3ZQVkhuQTZoWk5wV3prS0t3UGxMLUVn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Space",
+   "region": "KE",
+   "date": "2026-11-18T17:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "49005112f8",
+   "title": "Murang’a records increased diabetes, medics call for early screening",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX045bWhmQ1NmQVlJQkFVXzlTcUJSWGZsTXhYRk5KV3otQ05oc3J2YlEwZ0Vvak55T241TTVZNm1aLUJTWjQwbnlyYnVkRjdFMlh0ZFpMYWtjVE5tVUVySG5kVC1welZHZDVnbUdfdW1hbDVUZkp1ZGxVRTdCdk5EVGJKTlJGUXo0VDU3YkphS0Z6S3l3MUFkZl94MA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Kenya News Agency",
+   "region": "KE",
+   "date": "2026-11-18T16:46:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -89,23 +106,6 @@
    "topic": "Society"
   },
   {
-   "id": "268909f7d7",
-   "title": "Could mobile phone data help predict where Ebola will spread next?",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUV0aC1UYXRCeWdxYjRkOFpoMERFamVpckZMTU15Q05DZmRwcTV2cFVjUkwxckRESDhsMDU1cU9aWWFuVEdqUWpubGwweG9jUFZXczl1TU1YVjdRVmdvM0FDMHVZM1NjcGlPMHNHNXh2UlA1cEhoUWVpUW1qaW1RX1pmd3VXdHliN3dCbklGMVUya0VSMjFybDJ5RWpxXzZC?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Gavi, the Vaccine Alliance",
-   "region": "KE",
-   "date": "2026-11-18T15:02:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "05731f0932",
    "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2wteEo0UVlCQnZrdDFiNkVtS1ZCXzM4Xy03QXpyZXR0RnduTG1TUGtMbkVsTmJhU2RzNl96LU5vS3JxREkteWh1aWJVX0loYm44OGc0dTNYYll6NHVYQlVhNmZ6UDIzYTA2VWFYSElPVjNqN3NadXE5cFJvZHlkVmY5eU1MRGFCVGI1S0trNWthdjZhbjBDT3FZazRneVdyVjFJeDJFQjdRMEROMHRvYg?oc=5",
@@ -123,48 +123,48 @@
    "topic": "Society"
   },
   {
-   "id": "dc1d51c3fa",
-   "title": "Ruto: How SHA helped mother of 3 battling kidney failure",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1pQRWhVVk02M2kyUUhFbDExSmxHZFRXNUIyMy1nQXpaUzdxNEhGOGU5MVlUYi0wbTN1M3htd3JkZU9TSHgzOUVmMTU1UzJKWWdUNmlBUmRKU3QwTlg0elljVXNNUEFqNjBpeENnZ2U2akRQY3JZTjAyRG5mYlFIRF9yYUJqZF80WmVadjZLYUlhVGZaNVljb1JFMUh0Vjg?oc=5",
+   "id": "d290ecead2",
+   "title": "Maraga calls for electoral reforms ahead of 2027 General Election",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOG1zMHhJOEp4VC05SkVpMVNiY2xaMXl6cEVBay1xSXJxYXczLTJXbFIyNC1YbmRDcU0xaW1WdW4wNWF2TXdZcDMyRjZSMlhYLUpHOGhaN1d5VUVqZWptcDkzRjNlaXhDUUV3UjBvOW1zRkcteVAzYWxkWDRpNmk4T3NpMFUxeUFuM0Q5Ull1NU9qdTZyc1JNZmF4UW5XUQ?oc=5",
    "summary": "",
    "image": "",
    "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-18T14:03:00+00:00",
+   "date": "2026-11-18T13:40:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
-   "id": "2b31723194",
-   "title": "2027: Maraga vows to end wastage, restore public trust",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUVuaEsxWVp0al91bUtCWTJ4NXU5d1d4VVlxWGI3djlyRlVGTlRSVUlLaHd1R1RraGQwY3JUbTdQMDFTVEdFejhfMDN0MV92TU5CQ3RuY0JHM3pvYVhvRy1DUU9XelloOW9EbXVxanBfT3Vjdkx3akZWc0xQMFM5cElBbl9mekg3YUtCT2JSQ2hNWG1EX09OV3FaSQ?oc=5",
+   "id": "2e7053110a",
+   "title": "Ruto defends economic record as public debt climbs to Sh13.5 trillion",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQWltb1JXWDFobXBCbFZ1N3ZGMUNvclh2UnczX1NKbW8tbUxLYjN1cUdFSHF5Z29ybmpSZVAyN1Nmb1UxZWJCeGQ3UERObUxqTS1vR2VCbHFnemZJdzFQLWxlMmoyNXlpdzVsQUNBZExRV0pTOVN5VTg1Q3FicGZvdWxYaThUazRZcllGMGtIbHA5cnJQNHRsZThSMHVtUnVMR3BNa1NUUjljbVE4UlZTT2lQMmlYLUd2TEx0eXZ6bWtsVHN5VjNoenFTRFVXWWJudFlv?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star, Kenya",
+   "source": "The Standard",
    "region": "KE",
-   "date": "2026-11-18T13:10:00+00:00",
+   "date": "2026-11-18T13:22:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Society"
+   "topic": "Economy"
   },
   {
-   "id": "955fed23ad",
-   "title": "Kai Havertz should have been awarded penalty against Hull, KMI panel finds",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVR5Q0FheU5wbzFmRmhaNVZlVGJHOUk0S05Gek5YVjVocEppRzAySnkyVFdyTHpsbXdZX3M0N2UySDNFdEN4a011VHM0RmM0R0h6UnlvQWxKMjBTaHZjVkNPbjA1dGpnbF9jWGE4Z2QwQWk1ZFN2ZjVVcFdkOVN1d2ZxN0d6Q3hNX1N6SQ?oc=5",
+   "id": "be721d3a60",
+   "title": "Ruto: Increased education funding has eased burden on parents",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmEtcFVWOTN3NXNTRmUzMWFNNmwwcDMtTGdXcXlNRDhHVHdrVkNUd0lqekg5dnBVbUFPMWVhODFfSm55dXlYR2VEN0tXeTVieGkxN3EzS3VWd21BXzFPdHp3Wk9abnJuQldxLXk2Mmtic0RNYlQwbEVWamdwUXkyRnNobmQ2NFVEeU00N253MnFxTjkxOHpucm5IQVZnSXBOQWhXODNB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-18T11:57:34+00:00",
+   "date": "2026-11-18T13:19:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -191,14 +191,48 @@
    "topic": "Society"
   },
   {
-   "id": "e645b29606",
-   "title": "NI house prices: Value of houses return to 2007 crash levels",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4dTJJUmlzUzVJM2I1OEZZOThhM2xNSVl1Sm5WVEl3ZE5xc3VaRWVFemtrN0J0eGZiTXZkT3ZmSVV3YnZvUHhQdzhWSUl5eG1MSTlvZjgxZS1WV2dfZlE?oc=5",
+   "id": "dfe4cfc3ee",
+   "title": "Congo’s Ebola outbreak is spreading and killing at a record pace",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcG5xX1ZwRmUtT3ZkMjREc2ZESTlncEtBcThuMDRDSThlVy1qUXdMRDBFanQyc2JncGZHR2N2dkNvR3pLWVRzN29IVUpTMllhcFRzVi1rVDctN1pQYjJ6RXJoVDVOWmxYWEctZUsxRUlINzk1UGZyS3ZuWFVXWkVqMlN4UkEwNHVOWHYyVjJEOUczZm5XUGFN?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "NTV Kenya",
    "region": "KE",
-   "date": "2026-11-18T10:08:52+00:00",
+   "date": "2026-11-18T11:28:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Congo",
+    "place": "",
+    "flag": "🇨🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c9a374470f",
+   "title": "Julius Baer faces renewed legal battle after ex-banker’s fraud conviction",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3lMZE1jdV8wc1lNRkdzdTVFaG14alM0UFdULUQtczVQOUlFS0FtdGdZS2N2aV91TGluQkJIeUo3aHZRX3BlRFVxd09KdFJaME9tNDBhaTJOZkh5aDFoWWpnVnBRY0ZSQ3pJUlp4RlRDRUZpR0djclZFZktrSGgweWpFMVpXcWIwaWxiclROSzJRa3RvU3B6SE9nOTdpcEg3RkJSM1pFbUpYaXA1Rmx3MFgtamVoLUxRRUc0TFhyNGFPUVRC?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SWI swissinfo.ch",
+   "region": "KE",
+   "date": "2026-11-18T10:27:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b138c0c178",
+   "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM2tvWjJoR1hmLXBBVU5fM2xaZ3U4VjJ6WThaZ3N2V0ZhdktDM21YMkdWY2xoOU9uc2x0NWs0SDZRNDdsRmhHMHNvc2ZoXy1Tbi1SQWMxY3duUUZORDFLQzVSQlVYNkZldDhfNFhJUGMzZ1pOOU10N21XdGcwbW14c054ektSbVk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NPR",
+   "region": "KE",
+   "date": "2026-11-18T10:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -216,6 +250,23 @@
    "source": "The Star, Kenya",
    "region": "KE",
    "date": "2026-11-18T09:48:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6d4e2f1f8d",
+   "title": "'Give me time' - Mauricio Pochettino makes bold promise to topple Manchester City dominance after taking Manchester United job",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTE80OXlLRWJsM1hOaUxrbmJSeWJLZGFrd3VHcDk1LThiLVpIMG1obVAwQmRBeW5pN1lleWtCOENzcS1qQ2ZXaGdLNi02V1dqcWhZOG9MZHNUaWhOUlY1ZlkyUzFFUUJDZlBZSnhpc0pGMHNlSVBUUmhYYlBZSzJ1SW9MM1lodjk0d0ZtRGFTVTF3enNKaTVZVjIwOWZGaFd6U0ZLanBsMkVVd3RoMzJBX2Zlaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "KE",
+   "date": "2026-11-18T09:43:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -259,40 +310,6 @@
    "topic": "Society"
   },
   {
-   "id": "28268b1936",
-   "title": "Time thins on Ruto to change the education sector",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenpWUU1YcmNWUEk4MzNqREstWkxySHRqZGh2RTk1QUpnQlVsOXpvUWVKQVdsM3cxTUFncDlIR1FDTlhxblV4R2tFa2dvZVlTU2ctRXFLZFBtdWRMbXFmQkFLalBNeG5YYlJNenhCYWxXaXk0akI3ZUgxWE0yaFJhczlIbmlmV3liaGZrNzZ6RjZQSWx3UW1wN0tvT1lXOEtKUlFHZHlVcmtJbVZ6dDdF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Standard",
-   "region": "KE",
-   "date": "2026-11-18T08:59:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cd89452406",
-   "title": "Children at risk as ‘weaponisation of aid’ surges in conflict zones, analysis finds",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzJnWnVXVF9TLThvYmJiLUM3MkVTVkkteFpSZW0yZkVjaVVsalFFQzFRMFA5VkdxbG1Fd1FsU3MwUy01bGxxcGZ1YloybTUzZFNtWVVkQzVLM01aZW5DRk5HNE1kaHVKcWIxbS1vaXA2WF84OFJQb3BUZFkyZkpvbjM1YVVrTWhkbkZVQ3kzZDNDaFI2aW9udmVBeXJndzBoOW5qUGF3N2tPQWZTd2hka0ZR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "KE",
-   "date": "2026-11-18T08:44:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "53624f1c86",
    "title": "5G-A Smart Power Plant: Ezhou, 272 Cameras",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW1KRGFyMkMwT05kSGsxakUweFdVRVZnSjFqTy1ISV9oeVVBY0JLdThQZmpfOFlpcXhWbno4S2xJLXplZGNFZXNEWUdiNE4wa252RUkxZTh2ODlmLWlReTlGREF4MGpROWdnTV96UU5KUGpKVHpDRVpaN1NRTlNSMXk0SFhIU0VFZlFXeGUtS2pfRWhlcHh1b2ZzOFZkWmVUbEg4?oc=5",
@@ -310,14 +327,14 @@
    "topic": "Tech"
   },
   {
-   "id": "e77dfeb53d",
-   "title": "Britains worst bathing site: is treated sewage to blame?",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44WmJOQldtaGx0NVl6TkhnV3RhLXI3ODFfRU5tMjBIR0NGVGJnS0VsZTl1VTM2RzRhZno4NHV3Nm9WSVNUOEFYdG1QTkFvaG01dWtqYW5tdWZieXc?oc=5",
+   "id": "abe5cfea2b",
+   "title": "How to deal with a class difference in friendships? Make fun of your privileged friends",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0JjejFuZ1ZIZjEydmp5b2p6N3BNenA0VWJRdFpDY2E2WTFPQjU1cnBxb2hDNThGTTBnWDlkODh5NFhibVNKaktsYUxuWm10c2ZNNjVoX0M0ZGc1WV9obFFmR2FxemVzeXRnZ3hsaDJrM1lkYjdWelRTdmttTFFjQ2plZzhZYmFmNkdNTEliMDhTWVpqWkUw?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Guardian",
    "region": "KE",
-   "date": "2026-11-18T06:12:44+00:00",
+   "date": "2026-11-18T06:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -344,41 +361,149 @@
    "topic": "Economy"
   },
   {
-   "id": "ce4db40cd2",
-   "title": "Africa Tech Festival Opens in Cape Town; Italy Participates Through ICE and CDP",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWjBMTHU3cE05azJWejZ1YWpwcGlHa3hrWFAzb3pyQ1BTSEpaQy1uSFI3bmk5clAteUx4MlE2TVQ4MlpZdGsxNmxDb2tRb3dBanZrazJ5dU5FUG1icTFfNEpjQU9ReS1wZjRlNE8tdWtvRXlITlloYlpDTmFrZTlZNktIc3BqcElseXAxTl85RWh5bkRHOVJVM1U5bEZLZHN1N2ozTmlDdEdyRVlOdVNLQlFhN0hobUxRZXFuQVNYLVdYeUlrWnJyd2pMbFlTSDVFRVc1V2NOVEpxNnFuSTQyZTJjSjJkXzY1MEZabk5RS0JOY0dBRzc4eTdaUGVBU0pZdllaTElBMNIBjAJBVV95cUxNbHhwckEwV2I5Wm0xRWZkTk1jcDRZRm9SSmJRYm1QTnpPM1FITzQtblp3NkV0aV9wdWRmaUkyenhWRDB0aHNjOHQ1WnlPNmctLWdGdm43a2pxTVhiTVJ3TTFneEFHZ05xMUtKUWFMNS13MXJHbmkwZURaRVdsZUhNUmZWY2w1X19rN0tySVBmc2Y4QnpncFZEN3hzSVBKSEU5aWZZWXRYUDI3R3R4MjBUY3ktWGs2dG1xdDRKSURWTVJkRmo5Slh1QjNaVS1wZmszbVBWWjZUdDJiMUhPR2hKbEpSeTI5cG1GOE9GMko1V2Y2dTE4YzBwbTdTZExlWnMySVE1LXd3Y1pPRklo?oc=5",
+   "id": "ee73b5fc01",
+   "title": "AHA: Cleaner Home Air Linked to Fewer Blood Sugar Spikes in Adults With Prediabetes",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzlTMkx5LTlhWTZvOVkzbnd5andKMXZQUnpOd1ZISVNpQ2o3dFduTFRfY1Y3ZTl6Y2dETl9BaUE0cVNDcGFVZ2JKdWpyM3Fsc2EzRlVhbWlxaTN6VlduVTE2M1FJcHBqN1FkREFhczZ0QjQ2Y3VfSFV3T3BRcURCWjFQUDhWVzNPa2s2bm52YUNnd05YdkQ4Z1NpV013YWFVT0VFOWV0enJkNEUtMVVKejNXZUFOaG9sTDBuNHdaWVI3M0U?oc=5",
    "summary": "",
    "image": "",
-   "source": "ANSA",
+   "source": "The Cardiology Advisor",
    "region": "KE",
-   "date": "2026-11-17T17:31:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦 🇮🇹",
-    "also": [
-     "Italy"
-    ]
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "22033fa12c",
-   "title": "Kenya steps up diabetes screening as hospitals confront growing disease burden",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDRMLXFNaUhRNUJvOFp1MVNsTG5OSlIwS0JnX0UtaUdOSjk1Z3dTRW9ReDFfSllRV1FZQi0tYnJRZmJOX2RjSGJkQVl1SnRkanR2OUl2b3VFUGVBRnlCLTFLWmVpUkhwcDlnUlNzSERHNUV3VEhQZWpUOFFhbkQ2dk5iTjh6aE5nQ1pieGNjd0Y1TDcwOWVhbW1ySXIwOVhYc0ctTEZVZkZEQzg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Kenya News Agency",
-   "region": "KE",
-   "date": "2026-11-17T14:07:50+00:00",
+   "date": "2026-11-18T05:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Health"
+   "topic": "Society"
+  },
+  {
+   "id": "1095189359",
+   "title": "An African Institution Will Not Be Put On Trial By Anonymous Sources and Politically Motivated Journalists",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBodERnOGxaanNUNHlSQUlxOUZGSlphaHg4VEJZVkdjQTQ0UGtyM2IzeDJpSzNXSllHN0RpYmJsOV8tc1QxY2VWbHJ5c0NfOVBfZkVLcUktX19RakU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "allAfrica.com",
+   "region": "KE",
+   "date": "2026-11-18T04:46:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cbf2fc02ce",
+   "title": "Parliamentarians urged to fight hunger as global summit opens in Kenya",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0tET3VUVWFhc0NUa2JVYUNtaEN5eEh0R1UtSU9RZXl2SWRxOU5VWW4ycl9PTkpwRXZJUE1FeWxmZlpGT1BPY3JWVER1RW1ZNVdINVhIc3ZWaU1LYjZYbXppemlUZFRJNDZVcG1BVHoxZmJZc25OLURkenpPcG5ScV9kVUdqMWYyOUpDRWRBY0ROU3lhZGlSQUpuckxLdnVYRnN2SmlxRm1WSDE1TFhTTXdOcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-18T01:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "ec935aedfa",
+   "title": "Highlights and Goals of Kenya 1-2 South Africa in AFCON Qualifiers",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeDY1Y1BvQ3JJMWZMVFBsMUtIMzk4MzNJOHJNV0FOOERaczU3a0l0cFlyRkZDeEJVNDc5dVpiYWVSdWFDWV9RbnhNdXpNeXA0cDNKcy1iYUtBeWJyaVFsVWc0b19FQW1VTXpvRDdnWWpNYjExWTBIbnZrOHIyUW9Bekp1OUVsWnJfbXA0OUplVjRwdXRxamhKdHhpbEV3WkJnd1BBVl9kVFQ2cUQ0NmU4Ym94TWpxb1ViaVZTaTFWdlRhQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "VAVEL.com",
+   "region": "KE",
+   "date": "2026-11-17T18:08:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7f8b64fb71",
+   "title": "The hidden cost of living with diabetes in Kenya",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazJDaHhSUGFvY29EM183QVhMUXZJbS0yQ0FWRDNhQkQxcFo4Q3U2OHlFY21tVTBOdHRzUkhUS0NTZGQ5a21Kc0dWYlZYQ0czeWZpT1p1ODA5MXhaNDVwbThOZmNnZVRuY2czMEN5cjZLenNUUTd5N2VfeWRkaG5EN2k3S2VPWFdBd1ZqaWs0ak55RHM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Africa Science News",
+   "region": "KE",
+   "date": "2026-11-17T16:24:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "17a0903511",
+   "title": "Denmark vs Norway Predictions: A Nordic showdown for last-eight spot",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUJ3SDUtOVh6bGJ6VTB3ZW9lcVduYUx5NGVfUWNhT3pPdERReVoza2piRFByZWpMWEhWa1RiX3R6QlpCQ2JhTHdDVjRPZmo3MUxfZ2lrTHVVU1NmRnpXLWhQa19mclhlQVZCMjdIbXRVNjZ2aF9VV0RXRzBHWFktUDlxbVhxRzRhR3A3a3Q4MVM1Q1JVNkhxSDl1RDRWazI0WHRGdzQzNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "KE",
+   "date": "2026-11-17T16:00:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Denmark",
+    "place": "",
+    "flag": "🇩🇰 🇳🇴",
+    "also": [
+     "Norway"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e509bb860e",
+   "title": "'It was agreed!' - Vinicius Jr explains Brazil substitution fury after sensational 21-minute hat-trick against Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFlEUkxFZkZBQVRUZm9mTDl3VEZQcE5ZQ2YyejJjNkhaSm44MXNFX1Utd2RCR1lZazlMWFRLRVVuN0lmWUFNd2tGU09vRGZwTWlEUmtDVl9MOWYyVkpuYlE4a2VNOHVVYVNOTERtU3hQbXNaUVJsUTdlRElyMTNRdWRXOEozX056OUxYaUNMMXBvLUlnXy1HbmRRUG4wZm14cVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "KE",
+   "date": "2026-11-17T13:57:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷 🇸🇬",
+    "also": [
+     "Singapore"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "eee40ee63f",
+   "title": "Africa urged to build the digital future, not just consume it",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXh0MndPUmZXUk1WN0JfQ3ZoLThjS0JOU0NMSl9aamllZHozNDhFV1BPR3BvTW1ZaHdJWDJQNUN5eVIxT0h0MkxFU1lsZ0NyeDdwZjJUTXhJY0V6LU1neENrOXlrTG5RUk1BaTZxN1hfaGRMMGFiZXZ1QlB0RkRsY0xoRk9kWnlXTFZPazdnd1dFbEZDSnFZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "South African Government News Agency",
+   "region": "KE",
+   "date": "2026-11-17T12:35:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Tech"
   },
   {
    "id": "39dcde111c",
@@ -398,60 +523,9 @@
    "topic": "Health"
   },
   {
-   "id": "7020afb0ec",
-   "title": "Type 1 diabetes: The daily struggle behind every insulin dose",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2hOMmI4T2ljVkFNYmNxSFN4TEU2cmRKWmtGbDRieWRrSHloMEVYTlJsM2hZeWtoNnRYd0ZkN0F1Y3JWdXdpZW03dlNTVmxpbVVJMnBuN1A4OW9HRlF4M1oyRnlZZmoxUk5TdjZ3MFg5d3VaT2Z3WE5MTFpTdnZzdXRURllLMVgtQ3J2d21aMkxESHNNM3YwRzU4d0FXdFItcWRrd3RR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Nation",
-   "region": "KE",
-   "date": "2026-11-17T10:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c366281086",
-   "title": "Cassava seeks $1bn for Nvidia chips to power AI in Africa",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ29SbXdDenE5eXUyakdrVEZRQ3p0cHhWdndsR1ZGZFpBeGFuTXNBXzY0QjBUeFNwYTZITm1JMGlzZ3IxdTk2WV96akppa3E1TDF0dEhGTHBScXVjMmZreUVjYkRvc09KSmVDcGdHOW5RYWFkVUhTYlU3V1N1ejEyOXpkeWwyUDBxTlBwWUppdlBuR0QzU3dYRldR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Moneyweb",
-   "region": "KE",
-   "date": "2026-11-17T09:52:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "77be83e272",
-   "title": "AFCON 2027 QUALIFIERS: Fixtures, results, groups and broadcast details",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOFlBZmY2SF9PR3NvZTZ1dDhSaGtaSV9mX1dRaXlzV2J2clVVQzZfb3AtZkp1eXZXQjFRb2NVTnlSRWM5bTZYdjBVWXJrcGhHNU5zeFQxQVBvRTlZdGRDWTE0OHdydGFnMC1KQUdRX09uU0JHME1rd1RLSTgtSDcwSTQ4Y0pOMXE1d2FtOWZwNU00LUFUVjFZbXVob3k2bjFQSHNCYTFnU3hmSTVyd0REWGZfNF9ZTFRRTHI5NnhrVms1RkdjYVI3MnJUWk5QNFZVTDZ5aEJxWGE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SuperSport",
-   "region": "KE",
-   "date": "2026-11-17T08:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "019b49be8e",
+   "id": "f9cb339b8e",
    "title": "Suffolk artist creates graffiti studio made entirely of felt",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40LVh2Q1BfWFctSFdTS3FsSVJzR0ZHclFrMlNZMUpUZ05ZUDlWOGVZaUNxTjNoc29GWWlmaF9iWlhIbktMZ0ZOR2hGQld0Y3VReUQ0WlV2bzc2TkU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JYXlJWWliT2k5bDQzREUtcEFXOTJBazBCaU0yanBfY0l2M3YtX0RLdElGUkdaTVBEYUVSd1hHQkFWZzJVamlPRWp6YTdPRWFMU2tPZ1NfYTlHcENKb2c?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
@@ -466,9 +540,9 @@
    "topic": "Society"
   },
   {
-   "id": "98651347f7",
+   "id": "924e261c1a",
    "title": "Queen of crime drama haunted by Rentaghost role",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0WTBGWTB4VGk1Wks0ekpOWkZDV011TmU5UWI2cmtBVE9tN1dEX2p5aEpwX216bWVRYm93Q1RoeUVEU1BkLTFuZEszLXR2Vm1SZm5sQzQwNDdVbjA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rWGh4T0tvT2dqajREMEtJanRZYUQ2UGFVdHlJRWlWc2hhYl9VZm5Va1RmNlVaVXI1ZGpvcUtrNlVBRWxZcGRhWWw2cnhsUnpJZUprMDk1Z3d1LVkzb2c?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
@@ -481,23 +555,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "4095fc49e5",
-   "title": "Parliamentarians urged to turn hunger commitments into action as global summit opens in Kenya",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2NlTUE2c0xwUDd6c3pvaWpxczl5YkdWeU1EczRjbTlVZnY0MXRKOUdwNENreEdaOV9CUDBwNzd5dXEwZ2ZTaFJXVFE2T2JkWklIMnpqZlhoSmJIbDNUTjJ1azRpeTBDOTZmaWhXTDBfd2tiNnpiRnNxTHlkTHpqWmdTbklOYkFQZ2ZxVTBNaVM2V1RJVmh5MjdMNmZaNFVMckIwci1CNmdPOWVFX25PNGc5MlA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ReliefWeb",
-   "region": "KE",
-   "date": "2026-11-17T01:49:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Politics"
   }
  ]
 }
