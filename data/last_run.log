@@ -1,20 +1,20 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 32/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 85 stories
+OK   Ada Derana: 87 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
+OK   EconomyNext: 19 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 20 stories
-OK   Daily News: 83 stories
+OK   Newsfirst: 22 stories
+OK   Daily News: 81 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 18 stories
+OK   Google Warnings LK: 21 stories
 OK   Google Top Stories World: 69 stories
 OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
@@ -23,20 +23,20 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Cyclone Akvan May Intensify and Cross Andhra  (9 outlets) | Nvidia Reports Faster Growth, Says Jensen Hua (6 outlets) | Russian military plane crashes, killing all 1 (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets) | Trump says he may meet with North Korea's Kim (6 outlets)
+Biggest stories right now: Cyclone ‘Akvan’ Alert: Bay of Bengal Deep Dep (11 outlets) | Russian military transport aircraft crashes i (7 outlets) | Australia sanctions Israeli settlers, organis (6 outlets) | Cyclone Akvan likely to cross Andhra coast on (6 outlets) | Grade 6 School Admission Cut-Off Marks Releas (6 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newsfirst [1 outlets]: Navy Arrests Two Suspects with Over 1kg of Gold
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
+* Ada Derana [1 outlets]: ‘Red’ warning issued for strong winds and rough seas
+    normal news - one-paragraph summary
+    search failed: not well-formed (invalid token): line 1, column 41
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
 * Hiru News [2 outlets]: Former world boxing champion Jorge Linares faces deportation after ICE
     important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
+    search failed: not well-formed (invalid token): line 1, column 41
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
@@ -48,33 +48,55 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
+    attempt 1 rejected: The 'spoken' card calls Ehaliyagoda 'neighbouring', which is not stated in the article.; The 'spoken' card says 'nearly seventeen grams' of ICE, but the article states 16.990 grams.; The 'whats_next' 
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 1, written by openrouter)
-* Daily Mirror [2 outlets]: BBC and Ikea among nearly 200 websites hit by hackers
-    important (also on Ada Derana) - researching
+    attempt 2 rejected: Key fact claims suspects were arrested in Avissawella, but article states they were arrested during an operation in the Ehaliyagoda Police Division.; Blurb states two men were arrested in Avissawella,
+    -> no cards; posting with the site's own summary
+* Newswire [3 outlets]: Thailand’s Cabinet endorses 30-day visa exemption deal with Sri Lanka
+    important (also on Daily Mirror, Hiru News) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the number 2024 is not in the article
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* Daily News [3 outlets]: Sri Lanka Welcomes Over 102,000 Tourists in First Half of November, An
+    important (also on Ada Derana, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [2 outlets]: NSA closes campus to most staff as classified network outage continues
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Litro Orders 45,000 Metric Tonnes of LPG for December
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [4 outlets]: Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats
-    important (also on AP News, Al Jazeera, NBC News) - researching
-    news search: 0 results, 0 about this story
+* Newswire [2 outlets]: Namal sends emotional birthday message to father Mahinda from prison
+    no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: ‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and w
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Waymo suspends driverless freeway rides across US after California ban
+    no AI summary: saving the rest of today for important news
+    search failed: not well-formed (invalid token): line 1, column 41
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: The Guardian, Al Jazeera
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the number 7 is not in the article
