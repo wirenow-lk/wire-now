@@ -4,18 +4,18 @@ OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 62 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
+OK   EconomyNext: 18 stories
 OK   Daily Mirror: 100 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 24 stories
-OK   Daily News: 85 stories
-OK   Sunday Times: 8 stories
+OK   Daily News: 84 stories
+OK   Sunday Times: 9 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 18 stories
-OK   Google Top Stories World: 58 stories
+OK   Google Top Stories World: 52 stories
 OK   BBC World: 33 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,71 +23,50 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 98 stories
 
-Biggest stories right now: Trump and Putin to meet one-on-one in China T (10 outlets) | Cyclone Akvan likely to hit Andhra coast on N (7 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (6 outlets) | BBC correspondents discuss historic Trump, Xi (6 outlets) | Cyclone Akvan Intensifies Into Severe Storm;  (6 outlets)
+Biggest stories right now: Trump arrives in China for historic meeting w (10 outlets) | Cyclone Akvan likely to hit Andhra coast on N (7 outlets) | HC stays Namal’s bail order in Krrish case (6 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (6 outlets) | Cyclone Akvan Intensifies Into Severe Storm;  (6 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [2 outlets]: Rajanganaye Saddharathana remanded until November 26 over Ruwanweli Se
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    could not post: The read operation timed out
-* WESH [1 outlets]: 12+ inches of rain possible by Friday night along coast; 18 inches in 
-    normal news - one-paragraph summary
+* Ada Derana [1 outlets]: Fire breaks out at electrical goods shop in Kaduwela
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-    could not post: The read operation timed out
-* ESPN [1 outlets]: Georgia AG asks SEC to take action against LSU's 'contempt for the rul
-    normal news - one-paragraph summary
+* The Island [1 outlets]: Pera non-academic staff protest against allowance cuts
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    could not post: Telegram error: Bad Gateway
-    stopping: too many errors (check the bot token, and that the bot is a channel admin)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-
-Top 10: 0 fully explained
-bot inbox: Telegram error: Bad Gateway
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 13 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
-  "error": {
-    "code")
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-  meaning check failed (no AI available for checkers (last error: AI error 429: {"error":{"message":"Rat)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 25 story pages for Google)
-
-Countries: IN 36, PK 35, BD 36, US 36, GB 38, IE 36, CA 37, AU 37, NZ 35, SG 35, MY 34, PH 32, AE 36, IL 32, NG 32, KE 32, ZA 34, GH 34, FR 33, DE 33, JP 7, IT 34, ES 34, BR 31
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: The protest was organized by the University of Peradeniya Trade Union Council is not stated in the article; Staff say allowance cuts caused financial hardship is not stated in the article; Staff will 
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    cards OK (attempt 2, written by openrouter)
+* Daily News [2 outlets]: Ceylinco Life cuts carbon emissions by 32.6% in five years
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Bloomberg.com [2 outlets]: Anthropic Said to Be Weighing IPO Price as High as $85 Per Share
+    important (also on The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: Key fact incorrectly states Anthropic was valued at $1.26tn-$1.41tn and could top SpaceX, but article says that range was from earlier estimates and the $83 share price could surpass SpaceX.; Blurb sa
