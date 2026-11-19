@@ -1,77 +1,55 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 19/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 21/80 used today
 
 OK   Google Top Stories LK: 38 stories
-FAIL Ada Derana: HTTP Error 429: Too Many Requests
+OK   Ada Derana: 64 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
+OK   EconomyNext: 24 stories
 OK   Daily Mirror: 100 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 24 stories
-OK   Daily News: 83 stories
+OK   Newsfirst: 23 stories
+OK   Daily News: 81 stories
 OK   Sunday Times: 10 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 18 stories
-OK   Google Top Stories World: 48 stories
+OK   Google Warnings LK: 19 stories
+OK   Google Top Stories World: 46 stories
 OK   BBC World: 33 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 97 stories
+OK   AP News: 93 stories
 
-Biggest stories right now: Trump arrives in China for historic meeting w (10 outlets) | Cyclone Akvan intensifies threat: Very severe (6 outlets) | ICJ to rule on Rohingya genocide case against (5 outlets) | HC stays Namal’s bail order in Krrish case (5 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (5 outlets)
+Biggest stories right now: Trump arrives in China for historic meeting w (11 outlets) | ICJ to rule on Rohingya genocide case against (7 outlets) | Cyclone Akvan likely to hit Andhra coast on N (7 outlets) | HC stays Namal’s bail order in Krrish case (6 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (6 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily Mirror [1 outlets]: Negligence, possible poisoning concerns raised in Kawanthissa death in
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [1 outlets]: Suspect arrested over assault on bus driver in Dambulla
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The blurb states 'CCTV footage circulated online,' but the article only says footage of the incident circulated on social media and separately that CCTV footage was used to identify the suspect.
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* Hiru News [2 outlets]: Union Bank seeks shareholder approval for Rs. 708.4 mn rights issue
-    important (also on EconomyNext) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Islam forecast to soon exceed Christianity as world's biggest faith
+* The Washington Post [2 outlets]: Eighth measles death reported as Pennsylvania nears 1,600 cases
     important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [2 outlets]: Unidentified male body found floating near Colombo Harbour
-    important (also on Hiru News) - researching
+* Ada Derana [2 outlets]: Fiji declares state of disaster amid El Nino-driven drought
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* ABC7 Los Angeles [1 outlets]: Evacuation warnings issued for some SoCal burn scar areas ahead of sto
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [3 outlets]: Haitian Prime Minister commends Sri Lankan troops for successful anti-
+    important (also on Ada Derana, Newswire) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -86,41 +64,42 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 400,
     "message": "Request contains a)
     cards OK (attempt 1, written by openrouter)
-* Al Jazeera [3 outlets]: EU governments approve trade deal with Indonesia to offset Trump tarif
-    no AI summary: saving the rest of today for important news
-* BBC World [3 outlets]: Crimean Bridge attacked again, Russian official says
-    no AI summary: saving the rest of today for important news
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 11 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 503: {
+* Hiru News [2 outlets]: Anthropic clinches biggest-ever IPO with $81 billion offering
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [2 outlets]: Van Gogh painting sells for record $190.4m after row over its Nazi his
+    important (also on BBC World) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini:gemini-2.5-flash not available (AI error 404: {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: AI did not reply with JSON: ''
+    gemini failed (AI error 400: {
   "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
-  "error": {
-    "code")
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  summary translation failed (no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code")
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  Fact Base: 16 facts and 0 people saved
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+    attempt 2 rejected: the name/word 'Nazis'' is not in the article
+    -> no cards; posting with the site's own summary
+* Al Jazeera [3 outlets]: Miami court convicts US-Haitian pastor over 2021 assassination of pres
+    no AI summary: saving the rest of today for important news
+* AP News [4 outlets]: Nuclear arms and ending wars in Iran and Ukraine will top the agenda a
+    no AI summary: saving the rest of today for important news
 
-Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 29 story pages for Google)
-
-Countries: IN 0 (FAIL), PK 33, BD 37, US 37, GB 38, IE 37, CA 0 (FAIL), AU 37, NZ 0 (FAIL), SG 36, MY 35, PH 0 (FAIL), AE 37, IL 34, NG 31, KE 32, ZA 0 (FAIL), GH 0 (FAIL), FR 33, DE 34, JP 8, IT 33, ES 33, BR 33
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 2
+  photos: 10 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  Fact Base: 8 facts and 1 people saved
