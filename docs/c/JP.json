@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:28:22.950847+00:00",
+ "updated": "2026-11-19T16:35:31.531255+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "Yahoo!ニュース",
    "region": "JP",
    "date": "2026-11-19T13:23:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b9495f3cf5",
+   "title": "塚地武雅、54歳独身「生きていてよかった」 大悟「全員面白い」、ノブ「佐久間さん、テリー伊藤よりテリー」【アフタートークサバイバー4出演者独占コメント】（オリコン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SSzZRbXNuaHpGV0c0WGpaVkVoT09OQmZ0ZUxEd3JyOWxJWjZ4OFZrdkZBYkpsOUR6MFFWdU9OQWFJTnhDbDM1c3FSQ0tTdjVPN3pRRzVpSzhkRExvOC1icS1zUFVtTXpweGZ0QVk0c0NvZnBOS2VzMC1xVEtwYWM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo!ニュース",
+   "region": "JP",
+   "date": "2026-11-19T13:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -55,40 +72,6 @@
    "topic": "Society"
   },
   {
-   "id": "0935055f86",
-   "title": "米中ロ首脳、3者会談後に「平和宣言」発表 ICCにも言及（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wNi13MkE0Z3JOMFlhc1RzTDlnYjhORUthaXkwdHFFM0dISXQ5YWRpd2VrVFF0SEZNN2pzMFMxRE5JZUJzVTV6MHpfdzFtWVJYU3RvOF9pNjFJSml3dHdhQUJZLVFQd2tDTGx4WUFDdmVTTG00UV8tNkM0T2FwTk0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo!ニュース",
-   "region": "JP",
-   "date": "2026-11-19T11:52:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b1ebd94f90",
-   "title": "画像・写真 | 【あすから】ジーユー×「ちいかわ」、新作発売へ 第1弾は“おでかけ着”、ニットやポーチほか 2枚目",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0VWRJMnk1REt1ODh1M0NJbGhhcC13R1h6dTRrVDlnRVhzczBqZVRoX2VxZWF6bVRiZHdNbWt0UU9ZMmR2VDNHcTRWeGhoSnhJTUxUUU5DYllkQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "オリコンニュース",
-   "region": "JP",
-   "date": "2026-11-19T07:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "3d4d97c97c",
    "title": "ウクライナがクリミア橋を攻撃、1週間で3度目 ロシア当局が発表",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVkxKclg5M1c3MUs4bjhvdE5iSVhfTE5Mb1AxU290c0hEOUk3M1l0TzlJZ0RFUEdXVVY1R3lGaDF3WEd2MWJOV0lFQkJOYlQ3bGNETHR1V0RITEUzYmlMadIBZkFVX3lxTFBQVzlweG9OMElsNWJ0X01LeVRXOVhXVkZWblNGWkZ3SDhxbzRCOV9PM0RQVkt5bmItNDRVQkZtR284OFlRdXpkVzY4c1JxMEdQWndPYi1qZnV3YWFWNkt6LUo4dFpIZw?oc=5",
@@ -97,23 +80,6 @@
    "source": "BBC",
    "region": "JP",
    "date": "2026-11-19T07:31:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "319afdbe86",
-   "title": "「最終日にトップに」J.J.スポーン、勝俣陵が首位発進 石川遼22位、松山英樹32位",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YZ3R1ZC12MjEyWS0tOGpEYkhia1c3aUt5YUNrcXFKWkZ2VHk3RmZuVGFWUnlRWnU5NEpVYklhR21oNWhsdFk0TlotZEhPYUU2NVRIOF9WeWFMYTE5dXB1dVhxYlhhaUViSW85MWV5dmMweknSAYcBQVVfeXFMTWRqQ2MwTDRHZVYtVUNYOW95b3lzZjVraVV2SFcwNDFuNXpsSEQwaGR3a3VpZEtvXzRvMy03WFk4aVZDN3MyVEY0MzFxNlNNcVJWMV9sLWdzdnFlRG1Ec0NhNUFDOHdCbzdKcFVtZm9ocnpObWhJWVNLa2RRVi16THRvVlZpYXJ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GDOゴルフニュース",
-   "region": "JP",
-   "date": "2026-11-19T07:21:10+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

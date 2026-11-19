@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:28:22.950847+00:00",
+ "updated": "2026-11-19T16:35:31.531255+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
@@ -11,7 +11,7 @@
    "image": "",
    "source": "The Guardian",
    "region": "PK",
-   "date": "2026-11-19T15:22:00+00:00",
+   "date": "2026-11-19T16:16:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -24,14 +24,34 @@
    "topic": "Society"
   },
   {
-   "id": "cd4fa6ef13",
-   "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5",
+   "id": "59c6809e79",
+   "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0hZSmpRQXJwM2pNbUxHY01JZUd1TkdjdU5YNGZYd1hqMmNES3RoTWRCVm9GYjMwX0x5NkMwb2FicHNjWkhMZ1dQUVNsUW1hblVuQjVLVkhlVUZZRDFiMlcxdWNweTV0NjR6TG43MmFYMjczckZ1SmhzSlZtOFdtZVVsNHZpSk1UVWdRZ0phakNPT05NRUxmOFFmNGtMZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "WSJ",
    "region": "PK",
-   "date": "2026-11-19T15:08:16+00:00",
+   "date": "2026-11-19T15:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Yemen",
+    "place": "",
+    "flag": "🇾🇪 🇸🇦",
+    "also": [
+     "Saudi Arabia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3d79720bd2",
+   "title": "Myanmar committed genocide against its Rohingya minority, UN's top court rules",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WcDM0cEtyd2w0dEFHME9fX0xmMHI3NjMzZFVKeHhIdktrVHJRZU1OdHQ4UVppX0VWREJpS3pCaEYwM0psY21FdU83VTZxNTgwZ0JJdzdqeUc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "PK",
+   "date": "2026-11-19T15:15:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Myanmar",
@@ -58,21 +78,62 @@
    "topic": "Society"
   },
   {
-   "id": "16efb154dc",
-   "title": "Police serve arrest warrants on Fazl’s aide",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUM1NnpoQ2tUUzJvX3dpdXd6M1hVMnIzR2R2ejB5SjAweHZpNWQ2TmsydzBCRGlJQ3QyU1BWd1ZNUVpZQU8zOWNGZ1Jxdnk1T0tWX2xJUXBGaEU1Ry1RTFVOb0Y0dnhPT3l6Y0c0cUtVVEc4dGZFOWc4YkYtMjFKaTQ5bUU?oc=5",
+   "id": "b7fe06895b",
+   "title": "Ukraine Strikes Crimea Bridge Again as Xi Hosts Trump and Putin",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUQxTHBkZkE2bHdXSjFBZ0dtRFN6RnNnTGszd1BXYmt2NnBBUWhMS2hjOVZ5T2hZMTVPWU1QdTdxajBiaktZY2tNN1dUaGEtd0N4TnJrd0lFRndxVzhGNWR2QjRxY2VGeGR4NzFBQzJkNk9PSFVQc1p2N1laZklTY19fOXlSbVNCbzhmMExfZEhLLVZseTJ4dU5Ra3UwaGFUR1RELUM2R3pESnVSY2ZDdzdCeVg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Minute Mirror",
+   "source": "Bloomberg.com",
    "region": "PK",
-   "date": "2026-11-19T14:12:24+00:00",
+   "date": "2026-11-19T14:35:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇺🇸 🇷🇺",
+    "also": [
+     "United States",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c547f94cd6",
+   "title": "Pierce Brosnan reacts to Robert Pattinson's casting as James Bond",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWJ2aGNkU1BaTU5uVW5kYUdMbDF6YmYtczBYcjNOZnZsUmtTNkg2MTY0dFRsUlF3QV93ekVrWWV6RzdYckhpN2xOU0JhdTZoTS1JMWFTMjRodV9wREpoVl9nOXR4TXdNTGtVMDg4dmlXeV93SkFIQm1LT1hJcWo5SUR2SlBZazFnQWtKRXAyT1F4MkhJWGw4SlVXZGNfM1pfVXp5SzlvNmVPdktkZURQYXRmMzhwVmd2S2hRaGZ5SkNVbEItR2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "PK",
+   "date": "2026-11-19T14:34:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
    },
-   "topic": "Politics"
+   "topic": "Society"
+  },
+  {
+   "id": "f9896b1e6a",
+   "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSW10dXhzeHRObGlodVNQVDB1Wk5NVUhpbEZyb0NOam4zYmR5S3duTU53SGZQR1dZbjktWUpxdkJ1ZmFrOUNvV1RWVlBBb1dSRFBHMEVLSEprZlR6NTFfUjdDc2pLX0RzUDJfSTc3a1RHWFczMGUwVGRER2NHWkV4QTlvOENULXdwbXFKSzN3dmhjU1gzZS1tVlpsbTBybmVQR0hGUTUyRngySWttVWg3cTRIcllKa2oyWUNUWFVwWVBTNy1WSTR2bzhkTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Cricinfo",
+   "region": "PK",
+   "date": "2026-11-19T14:11:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦 🇧🇩",
+    "also": [
+     "Bangladesh"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "6a5784928c",
@@ -95,57 +156,19 @@
    "topic": "Society"
   },
   {
-   "id": "b7fe06895b",
-   "title": "Ukraine Strikes Crimea Bridge Again as Xi Hosts Trump and Putin",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUQxTHBkZkE2bHdXSjFBZ0dtRFN6RnNnTGszd1BXYmt2NnBBUWhMS2hjOVZ5T2hZMTVPWU1QdTdxajBiaktZY2tNN1dUaGEtd0N4TnJrd0lFRndxVzhGNWR2QjRxY2VGeGR4NzFBQzJkNk9PSFVQc1p2N1laZklTY19fOXlSbVNCbzhmMExfZEhLLVZseTJ4dU5Ra3UwaGFUR1RELUM2R3pESnVSY2ZDdzdCeVg?oc=5",
+   "id": "99faba9c1f",
+   "title": "France raises avian flu risk level to high",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXk0c2hKbEIzLUtxNHNObHg2RkVmUFZDWFp4aWFySDM1elRBaDR6R0x5R2h1N0hVaFBnS3RNdUY1dTlLSWFzWl85TVFTWjFCN19xQnNEM1NoalRmMVhmWFhPRXVKNnI5OGI1ZGotUlpocmEzQkluSDU3emtGWV9zdjhsam4yWEpaN0I1WHNlYTljMTA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg.com",
+   "source": "Plataforma Media",
    "region": "PK",
-   "date": "2026-11-19T13:33:57+00:00",
+   "date": "2026-11-19T12:59:04+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ukraine",
+    "country": "France",
     "place": "",
-    "flag": "🇺🇦 🇺🇸 🇷🇺",
-    "also": [
-     "United States",
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "90fb18c799",
-   "title": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0xLbmVSbGZvbm5GVkFJaGNGUzFDLXc3Rkh6b0RwR1BWVHRvV0taRVJIV2Z2NWROX3djNTl0LUdGXzliWm96bXA1VFRfT2ZMNUNPRElqRXp5eF9ObHZZeVFvOVROY3NwSlNBUV8xUzM2U091bnY5d1J0LUlSUmZlMjhTU05fTzFjQmg1eVg2SjBIV0tkQzRVSGVjX3BrSVJlYXJVMlZFTXkyZUFHQWZKa3NPQUM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg.com",
-   "region": "PK",
-   "date": "2026-11-19T13:28:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "89bcd037db",
-   "title": "Jeff Bezos Says James Bond Team Was Initially 'Biased Against' Robert Pattinson Because He Was So Famous",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHpUWG5hak5OWjlNMTk0dURMYUE3cTdIQllHR3RBV1kzeV9OYXQ1V2drbnhsUHFlQ3lpWHJyUEJBZFpualNKY3FwS2s0dWFncndJSVlRa05zUzZ6VnRZa1hCUnRxTGs2WmszZWduQW95b3I0eFBPUUdCVFppQ2RiTm1wY1BWb21QbS1DWmdGTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo",
-   "region": "PK",
-   "date": "2026-11-19T13:11:58+00:00",
-   "coverage": 2,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -165,26 +188,6 @@
     "flag": "🇱🇰 🇵🇰",
     "also": [
      "Pakistan"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "414de2d80e",
-   "title": "Trump says US will 'see what happens' in conflict with Iran after January 1",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "PK",
-   "date": "2026-11-19T12:13:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇮🇷",
-    "also": [
-     "Iran"
     ]
    },
    "topic": "Society"
@@ -227,8 +230,42 @@
    "topic": "Society"
   },
   {
+   "id": "e018154b57",
+   "title": "Airspace ban on Indian aircraft extended till Dec 23",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDNwWTNWMEsxbURsNENJRU42VVhoZUpjbFpEMkdWNWk5ZHdMeHpHMDdCaXpwWTZ3dDdnLVVZZjZwRVVhUFVQTUxjbXFGeUZyRmpTb0YzRnFxY2ItRzktWlJvbzdOcjdNeU05QVJOcVdQRlJwYmtSU3VFdms2QW82Sm03YnVWZEpTSjB4cU50SQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-19T11:33:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "05d6310f43",
+   "title": "Gold Price Today on November 19, 2026",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGUtdW1DVmpMQ0VCMjhNRHl4cTk5SVJhMG9nelA4a01zU1VYTnlSRi1YQjlrRDdJYmZwNlVrZnd3aTVCcnVVNEJhdUJQVWMzVjFtcjJPaU0tYlV6dHhXd00zTzRrWGNTQ2FUQ3JLSGlaMWJpYjV3b21iZVlGRE9hLWVBRVdLaE1jWmo5VWJFM3RqZHdSNzZCUUtVN3ktN3lMMWN3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "PK",
+   "date": "2026-11-19T11:10:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b76d643e9f",
-   "title": "PM credits economic successes to 'productive partnership' between political, military leadership",
+   "title": "PM calls economic successes ‘productive partnership’ between political, military hierarchy",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeW5iekZBNGZUdHMwUUJ3bWtXS2Vha29oMUNrYllnNjdkWHc4WmJrVWVBWEVubGtrVFJ2N0tlU1JLRERiUndaYlMyQkZMVGV3YzREcGd0VFpGaG9HN25QRjE2YUwwN1RIZmV6ZEVScWthYmdKMHhmTTg1ODY3NHEzcUVmaGlTQTJ5NE1kblBuQzQ3bVE2a1RBZnFLYTRpNUJZMVZVeFFFZEwyTzNpaWkwRG83ZUp4dGxncEZfY1NB?oc=5",
    "summary": "",
    "image": "",
@@ -252,43 +289,6 @@
    "source": "Anadolu Ajansı",
    "region": "PK",
    "date": "2026-11-19T09:57:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "59c6809e79",
-   "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0hZSmpRQXJwM2pNbUxHY01JZUd1TkdjdU5YNGZYd1hqMmNES3RoTWRCVm9GYjMwX0x5NkMwb2FicHNjWkhMZ1dQUVNsUW1hblVuQjVLVkhlVUZZRDFiMlcxdWNweTV0NjR6TG43MmFYMjczckZ1SmhzSlZtOFdtZVVsNHZpSk1UVWdRZ0phakNPT05NRUxmOFFmNGtMZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WSJ",
-   "region": "PK",
-   "date": "2026-11-19T09:37:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Yemen",
-    "place": "",
-    "flag": "🇾🇪 🇸🇦",
-    "also": [
-     "Saudi Arabia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3fa9467064",
-   "title": "Facilitating farmers' access to modern machinery among Govt's top priorities: PM",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRnhmRkxGeVl5TUdPQlJKeTJ5c3BEcW9KdWUzM0FkQjRaVjgzQ19BS0xwRXVqa0VNZVJWZk9YVFIzbnRsSGw5RmpoZkE2d0xILWhGczFfTEZTOFdtUjc3ZWVoaW4yNTZIZ0JZeElXUWRQd0NmSWktQ3hDUm9sWVVha2ZWN3NHSm1JZ0tuWEpUUDNUSDN3RmdCVnl2ODY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RADIO PAKISTAN",
-   "region": "PK",
-   "date": "2026-11-19T09:27:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -349,19 +349,36 @@
    "topic": "Society"
   },
   {
-   "id": "6d28385e75",
-   "title": "France on high alert for bird flu as seasonal wave spreads",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnE2bzZTS1pzbzhMRFJ2QUo5Q190ZTJmY1J0QXVrSC0zbHlkbHFIaFY4RHFOQ0dkME5rSHB5V2xOQmdvMENiWXhVeGdfOFZxVnZaenNsSWVyOU9lR0ZJSThVQ3d3d1YwUFNpUUd5Y1FHRXB3Z0s5TGItVTNTTUJUbmZWeE43V1JZOVk1QTlYUVhQam1YbmdaTFk0YTZLemI0Z0hrOHBCdF9NRHJPUXdLQ3NyazlYempmQkdOdw?oc=5",
+   "id": "9e468bc0df",
+   "title": "Pakistan, ASEAN express shared commitment to strengthen bilateral ties",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm9aLTRqdGl3NEFxZlgwOGZBTkQtRDF6NDI0enpFUC1DQlYtTC1CQTdCbHd5VVVYTnJUa3o5TXJtSlJ4X0FnX2J6ZVNYQ2Rlb2dqcFlLSVh4R2pSVDVCR3BqUUowSTBGeVg3Mm9nTEtIRzV5aGR6bFNTUlFISUt1aGpTMWdvRnZmVHBHb1FaTWtkYl95d21oWElFZHN3ZkFxYUw5cjI0dlA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "RADIO PAKISTAN",
    "region": "PK",
-   "date": "2026-11-19T07:59:00+00:00",
+   "date": "2026-11-19T08:22:31+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "Pakistan",
     "place": "",
-    "flag": "🇫🇷"
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "47b67f1920",
+   "title": "CDF Munir briefed on ongoing operations during Balochistan visit: ISPR",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jV21NeGxVVjhQcHNpMVdaTzg2S1hsNFlfSll2cUpYWTFlWjNEdzYxWDVjanFOeDlEX19DZ3pTOGlFWlZOSkhvOQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-19T06:23:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -451,14 +468,14 @@
    "topic": "Society"
   },
   {
-   "id": "ccc213fa21",
-   "title": "Ashleigh Barty to be inducted into International Tennis Hall of Fame in 2027",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODJ3STRwN29LUmtDMlJFeDA1TTBtb2szeWNYelN1TGE0VEYtOXRWUmFsdDZ2bDJQTDRPeWNZNmZTbGxFZTJBazRISmhTeE5oajhnZkhUTUtkSFh6NDFTaGZPVjk0SVY5NW1MdWRyeHN6MmRieGZIcGx2MHBkbEJ5aGd2TzliQW9GOUp5Q3lUek9Dd0hWcFdrSkhWX0dNUEk0bTBPblhXdXZhVWItXzZj?oc=5",
+   "id": "ffe734606b",
+   "title": "A record high of nearly one in four children now live in conflict zones - Save the Children report",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjZWcjRmQURVZnoyUmU1ODVreW44Q1ZxdHNGbWJlYlFfZGlyamxlaVBNSmtYQ0l4aWN5QmpTN0c0VkF3elFKSlhDYXgtenY1YjVkLTdCUTduOUNBOWo3OGtTT2VvUnFjcXpnckdIaHdnM3Jmcnl6QUtNbmVOQTNMNDFNa2Q1SDdwOF9tYlB5TF9GOG5Fa3FUTW5jaWpVb2VJcl92Um5MWkFmZ2hLY1pfQTByVVc2VzA?oc=5",
    "summary": "",
    "image": "",
-   "source": "WTA Tennis",
+   "source": "ReliefWeb",
    "region": "PK",
-   "date": "2026-11-19T01:00:31+00:00",
+   "date": "2026-11-19T00:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -536,6 +553,23 @@
    "topic": "Society"
   },
   {
+   "id": "03c6a76c72",
+   "title": "Robert Pattinson Trolled by U.K. Government in Youth Employment Scheme Post After Bond Reveal: He’ll ‘Apply for All 90,000 Jobs’",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3hWUlZSWHVBYmx0UEt1NjFOQVNNNzF5a1B4UlBQNnltRUdZRHZ1SUdCa2lEQmFKUmd5cE1kZ0d5eThMTUJMNzFHNmk4OC1NOW9YaDdNWVdEMjJUbl84bG1tVExDR2JVWG1zd1p2OXlDdElsalExSkM2YnFxa0xCaFEyRmRuLXhCaXU3SFFJT3MzR3ZUOTU4MjJPYnlkR1U?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "PK",
+   "date": "2026-11-18T16:45:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "035db68acf",
    "title": "Prince William dines on vada pav and Parsi kheema during Mumbai visit",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ3RKekNpQnY2WnlLU0xtNmZMVzFEWmJobmp6a2t6OF8yQUYwN1VoajJWZWQ0ZjJSQ0RLNkh2a0ZQZWdYZVg5RFBUVTk0aVN3MXJnVWdzaWNPbVVmNi0tVGN6d0xpYUpzR1lOTG5BNl9EU2Q0WklxVk82OWx1MlI5T0Y4SzMzTkRHaGUxVzcxY1dKMnQ2OVNfX3Q0eUZfTGktUmtZVk95OEpMZHpDUUpOSjlRdnNLangzQW1MeXdtSExoMm1QVFHSAcwBQVVfeXFMTjRoZ3V4WFA0djF0cHZ4YU83S3MzdnpvZm8xMEZuWlBYUDMxYmtPR2g1RzNBcDBjdFJoRVBQTFE0S1d5c2w1cjFLOW5KUlU5bmRQVVZKb3dnQmxpUm9nVnp0VWlBamd6WDZDZDUtNldMOFBQa2ROdUREcFNZbmZhX1VxVmc5Z3JXRC0waTVCa09oMy1MX1NMRlRxUUYzdk92a1BXalNUazd0dnpIbjM2LW4zc05vVWkwei1qNzUwb2prbWt3QzNGaFVkMGFT?oc=5",
@@ -549,23 +583,6 @@
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "06b96dc7e4",
-   "title": "Yuan dips, holds bullish outlook on bigger role in regional trade",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXMtRlo2TEw0eERuTU5sZUFydUNLQTF1VlJlZXNXZHQxWllXZ09URVkzYUQtMUJEQzdBVV9uRDhUQ0N5dDF6RVZpbExveHBLRXNTQTU0LTNPQkpWS0tZUzlsRnJvX3RDb01tV3QtTVExb21aTFp2c25FOXhMajB2eG1PWURnUUhJYmw3Q05JYWpfd1BpY0U4cTl3cWZkSmZROWc2YzNHZ9IBVkFVX3lxTFBMaF9iRFNxWVdaOGoybi1MM0QzdWtTblZBU3pjdGUwRDVLaXVONTVudFFvRER4WUhsMGlPeDF0Y2tnaEtLekdlblBIQ3Rod3hueXR0R05n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Business Recorder",
-   "region": "PK",
-   "date": "2026-11-18T06:56:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -591,14 +608,14 @@
    "topic": "Society"
   },
   {
-   "id": "4e60f659e7",
-   "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmMydUVmdTJCV0pZVFlIQ0JGcm5YdFhOdl9kQXBNbC0ydllldFVleTY1eHFVLWV1X1VUb3VNNFNjd1RhS1dVZ3JQSXQ3VVVyLVNOWlQ4V01DbmpMY2s4alA2bXZpaHAySy1qTl9NMlQxbllkaHJBTlFLYXBreWVWbWl4bWZyQkd4V2c5Q3RVVElhMFhZZW5McUxWSFVfbUVQOHF3?oc=5",
+   "id": "b4df031727",
+   "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wSU4zWVRWTUg2YzIwUEVSejAwVzBJdnVyckhkT2JWUHJMbnJOS25ReXRUWF9USDI5UE5Ka1p6bUkxcmtpS1lKc1NLS0ZxemlLazNoYVFPc0FVc002NUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "BBC",
    "region": "PK",
-   "date": "2026-11-17T23:35:04+00:00",
+   "date": "2026-11-17T23:34:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -606,23 +623,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "77be7234a9",
-   "title": "Could AI help us develop vaccines against viruses that don’t yet exist?",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUFTUzc5MGRtT1BYWU9fY01YQ2lKMWktM1RPb1o5S2lDRWNlVHplRXlRbFF6OWFMQnI1OTZuQzdWQW5WQXNpU0tGNUxCNC1ZSHpZT2wwV3Rpb0daR0hYUUU5SDM4Z2VGSnNaeVAyR0VDSldzNS1oRlM0NFlWRDNtc1ZDSDdXdmVSNkp0cmN0STA2M1pnbFBaZFNCb3cxeUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Gavi, the Vaccine Alliance",
-   "region": "PK",
-   "date": "2026-11-17T15:44:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Health"
   }
  ]
 }

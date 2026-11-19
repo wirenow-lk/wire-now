@@ -1,63 +1,94 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 71/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 75/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 63 stories
+OK   Ada Derana: 61 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 29 stories
-OK   Daily Mirror: 90 stories
+OK   EconomyNext: 25 stories
+OK   Daily Mirror: 96 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 15 stories
-OK   Daily News: 81 stories
+OK   Daily News: 80 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 26 stories
-OK   Google Top Stories World: 56 stories
-OK   BBC World: 34 stories
+OK   Google Warnings LK: 25 stories
+OK   Google Top Stories World: 55 stories
+OK   BBC World: 36 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 97 stories
 
-Biggest stories right now: China and Russia release 'peace declaration'  (10 outlets) | Top UN court finds Myanmar committed genocide (9 outlets) | Cyclone Akvan likely to hit Andhra coast on N (9 outlets) | Riyadh skyscraper damaged in Houthi missile a (7 outlets) | Trump shakes hands with Putin and Xi ahead of (7 outlets)
+Biggest stories right now: China and Russia release 'peace declaration'  (10 outlets) | Top UN court finds Myanmar committed genocide (9 outlets) | Cyclone Akvan likely to hit Andhra coast on N (8 outlets) | Riyadh skyscraper damaged in Houthi missile a (7 outlets) | Trump arrives in China ahead of trilateral su (7 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Hawk [1 outlets]: Haryana: CBI arrests Panchkula CGST official in Rs 10 lakh bribery cas
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [3 outlets]: 2026/2027 Sri Pada pilgrimage season to begin on December 23
-    important (also on Ada Derana, Daily News) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Colombo High Court orders Harak Kata to be produced on January 19
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily Mirror [2 outlets]: CM Vijay’s ally visits LTTE ex-chief Prabhakaran’s home in Sri Lanka. 
-    important (also on Ada Derana) - researching
+* Ada Derana [1 outlets]: 371 fire incidents reported in Western Province this year
+    no AI summary: saving the rest of today for important news
+* Newsfirst [1 outlets]: Sri Lankan Sailors Earn Global Recognition for Flood Rescue
+    no AI summary: saving the rest of today for important news
+* Breaking News, Latest News and Videos [2 outlets]: Walmart raises its outlook for the year for the 3rd time after a solid
+    no AI summary: saving the rest of today for important news
+* Daily Mirror [3 outlets]: 71 kg of heroin bound for Sri Lanka seized in Chennai, among 2026’s bi
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: JPMorgan says third-party vendors targeted in cyberattack
+    no AI summary: saving the rest of today for important news
+* BBC World [5 outlets]: Trump, Putin and Xi release 'peace declaration' after historic meeting
+    no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: China, Russia and US agree peace declaration with no mention of Ukrain
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [4 outlets]: ‘Really making history’: five takeaways from the meeting between Trump
-    important (also on Al Jazeera, BBC World, Daily Mirror) - researching
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    read 3 articles: The Guardian, Al Jazeera, BBC World
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -66,48 +97,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* Reuters [2 outlets]: Alibaba tops revenue estimates on AI cloud growth; profit up on invest
-    important (also on Daily Mirror) - researching
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
@@ -115,16 +109,13 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 10 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 31 story pages for Google)
 
-Countries: IN 37, PK 35, BD 35, US 35, GB 37, IE 37, CA 38, AU 38, NZ 35, SG 36, MY 37, PH 34, AE 35, IL 34, NG 30, KE 31, ZA 35, GH 32, FR 34, DE 34, JP 9, IT 33, ES 33, BR 33
-
-Posted today's Top 10 round-up
+Countries: IN 37, PK 35, BD 0 (FAIL), US 36, GB 37, IE 37, CA 38, AU 38, NZ 34, SG 37, MY 36, PH 0 (FAIL), AE 36, IL 33, NG 31, KE 31, ZA 35, GH 32, FR 0 (FAIL), DE 34, JP 7, IT 34, ES 34, BR 34
 
 World Pulse not made this run: no AI available for writers
