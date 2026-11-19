@@ -1,56 +1,43 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 21/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 64 stories
+OK   Ada Derana: 61 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
+OK   EconomyNext: 27 stories
 OK   Daily Mirror: 100 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 23 stories
-OK   Daily News: 81 stories
-OK   Sunday Times: 10 stories
+OK   Newsfirst: 20 stories
+OK   Daily News: 79 stories
+OK   Sunday Times: 8 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 19 stories
-OK   Google Top Stories World: 46 stories
+OK   Google Top Stories World: 47 stories
 OK   BBC World: 33 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 93 stories
+OK   AP News: 95 stories
 
-Biggest stories right now: Trump arrives in China for historic meeting w (11 outlets) | ICJ to rule on Rohingya genocide case against (7 outlets) | Cyclone Akvan likely to hit Andhra coast on N (7 outlets) | HC stays Namal’s bail order in Krrish case (6 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (6 outlets)
+Biggest stories right now: Trump arrives in China for historic meeting w (13 outlets) | Myanmar faces historic genocide verdict at UN (8 outlets) | Cyclone Akvan likely to hit Andhra coast on N (7 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (7 outlets) | Four of the Same Family Killed in Kaduwela Sh (6 outlets)
 
-8 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Washington Post [2 outlets]: Eighth measles death reported as Pennsylvania nears 1,600 cases
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [2 outlets]: Fiji declares state of disaster amid El Nino-driven drought
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* ABC7 Los Angeles [1 outlets]: Evacuation warnings issued for some SoCal burn scar areas ahead of sto
+* Newswire [1 outlets]: Kawanthissa’s death raises further questions despite post-mortem findi
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [3 outlets]: Haitian Prime Minister commends Sri Lankan troops for successful anti-
-    important (also on Ada Derana, Newswire) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 rejected: the name/word 'Magistrates' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -59,28 +46,42 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Hiru News [2 outlets]: Anthropic clinches biggest-ever IPO with $81 billion offering
+    attempt 2 rejected: the name/word 'Lankan' is not in the article; the name/word 'Sri' is not in the article
+    -> no cards; posting with the site's own summary
+* Los Angeles Times [1 outlets]: L.A. County issues evacuation warnings as storm nears; snow, flooding 
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Bloomberg [2 outlets]: Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap
     important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily Mirror [2 outlets]: Colombo to remove unauthorised structures obstructing drainage system
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newsfirst [3 outlets]: Access to Nil Diya Pokuna Temporarily Suspended
+    important (also on Ada Derana, Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [2 outlets]: Van Gogh painting sells for record $190.4m after row over its Nazi his
-    important (also on BBC World) - researching
+* Al Jazeera [3 outlets]: Elon Musk says he feels ‘pretty foolish’ about US midterm spending
+    important (also on BBC World, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 1 rejected: the name/word 'MAGA'' is not in the article; the name/word 'Maga'' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -89,17 +90,24 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 rejected: the name/word 'Nazis'' is not in the article
+    attempt 2 rejected: The card repeatedly states the midterm elections occurred in 2026 (in "what_happened" and "details"), but the article does not explicitly mention the year 2026 for the elections.; The "spoken" field i
     -> no cards; posting with the site's own summary
-* Al Jazeera [3 outlets]: Miami court convicts US-Haitian pastor over 2021 assassination of pres
-    no AI summary: saving the rest of today for important news
-* AP News [4 outlets]: Nuclear arms and ending wars in Iran and Ukraine will top the agenda a
+* Al Jazeera [3 outlets]: Trump makes third Supreme Court bid to end Venezuelan migrant protecti
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 2
-  photos: 10 too small to look sharp, using the clean cover
+  photos: 9 too small to look sharp, using the clean cover
 numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 8 facts and 1 people saved
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 30 story pages for Google)
+
+Countries: IN 38, PK 34, BD 37, US 37, GB 37, IE 36, CA 38, AU 36, NZ 36, SG 36, MY 34, PH 35, AE 37, IL 34, NG 30, KE 32, ZA 33, GH 33, FR 32, DE 34, JP 9, IT 33, ES 34, BR 34
