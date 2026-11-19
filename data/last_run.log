@@ -1,21 +1,21 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 17/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 62 stories
+OK   Ada Derana: 64 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 18 stories
+OK   EconomyNext: 19 stories
 OK   Daily Mirror: 100 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 24 stories
+OK   Newsfirst: 23 stories
 OK   Daily News: 84 stories
-OK   Sunday Times: 9 stories
+OK   Sunday Times: 10 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 18 stories
-OK   Google Top Stories World: 52 stories
+OK   Google Warnings LK: 19 stories
+OK   Google Top Stories World: 48 stories
 OK   BBC World: 33 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,33 +23,17 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 98 stories
 
-Biggest stories right now: Trump arrives in China for historic meeting w (10 outlets) | Cyclone Akvan likely to hit Andhra coast on N (7 outlets) | HC stays Namal’s bail order in Krrish case (6 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (6 outlets) | Cyclone Akvan Intensifies Into Severe Storm;  (6 outlets)
+Biggest stories right now: Trump arrives in China for historic meeting w (10 outlets) | Cyclone Akvan likely to hit Andhra coast on N (8 outlets) | ICJ to rule on Rohingya genocide case against (6 outlets) | HC stays Namal’s bail order in Krrish case (6 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (6 outlets)
 
-7 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Fire breaks out at electrical goods shop in Kaduwela
-    important (serious news) - researching
+* Newswire [2 outlets]: Four members of same family killed in Kaduwela electrical appliance sh
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Island [1 outlets]: Pera non-academic staff protest against allowance cuts
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The protest was organized by the University of Peradeniya Trade Union Council is not stated in the article; Staff say allowance cuts caused financial hardship is not stated in the article; Staff will 
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -58,15 +42,33 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    attempt 1 rejected: The shop sold electrical appliances is not in the article.; The what_happened states the family died without the reportedly qualifier.; The key_facts first entry states the family died without the rep
     cards OK (attempt 2, written by openrouter)
-* Daily News [2 outlets]: Ceylinco Life cuts carbon emissions by 32.6% in five years
-    important (also on Hiru News) - researching
+* Axios [3 outlets]: Islam will overtake Christianity as world's largest religion by 2035: 
+    important (also on AP News, Al Jazeera) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Bloomberg.com [2 outlets]: Anthropic Said to Be Weighing IPO Price as High as $85 Per Share
-    important (also on The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: Key fact incorrectly states Anthropic was valued at $1.26tn-$1.41tn and could top SpaceX, but article says that range was from earlier estimates and the $83 share price could surpass SpaceX.; Blurb sa
+    attempt 1 rejected: Cards state fertility is 'the main factor' (details) and 'the key driver' (spoken) behind Islam's faster growth, but the article says it is only 'one of the factors' that make Muslims the fastest-grow
+    cards OK (attempt 2, written by openrouter)
+* The Island [5 outlets]: HC suspends Namal’s bail in Krrish case following CIABOC intervention
+    no AI summary: saving the rest of today for important news
+* Hiru News [3 outlets]: Claude-maker Anthropic poised for more than $1.4tn stock market debut
+    no AI summary: saving the rest of today for important news
+* BBC World [6 outlets]: Myanmar faces historic genocide verdict at UN court over Rohingya mass
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [4 outlets]: Hegseth unveils new US-Venezuela military deal
+    no AI summary: saving the rest of today for important news
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 2
+  photos: 10 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  Fact Base: 16 facts and 0 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check failed (Extra data: line 1 column 675 (char 674))
+
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 27 story pages for Google)
+
+Countries: IN 37, PK 34, BD 38, US 38, GB 38, IE 37, CA 36, AU 37, NZ 37, SG 36, MY 34, PH 33, AE 38, IL 32, NG 32, KE 32, ZA 35, GH 33, FR 34, DE 34, JP 7, IT 33, ES 33, BR 33
