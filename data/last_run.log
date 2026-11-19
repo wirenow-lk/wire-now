@@ -1,81 +1,37 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 25/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 30/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 60 stories
+OK   Ada Derana: 63 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 26 stories
-OK   Daily Mirror: 99 stories
+OK   EconomyNext: 30 stories
+OK   Daily Mirror: 91 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 18 stories
-OK   Daily News: 77 stories
-OK   Sunday Times: 6 stories
+OK   Newsfirst: 17 stories
+OK   Daily News: 75 stories
+OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 17 stories
-OK   Google Top Stories World: 49 stories
+OK   Google Warnings LK: 18 stories
+OK   Google Top Stories World: 42 stories
 OK   BBC World: 33 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 93 stories
+OK   AP News: 96 stories
 
-Biggest stories right now: Trump arrives in China for historic meeting w (13 outlets) | Myanmar faces historic genocide verdict at UN (8 outlets) | Cyclone Akvan likely to hit Andhra coast on N (8 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (7 outlets) | Grand Theft Auto VI launches to global fanfar (6 outlets)
+Biggest stories right now: Trump arrives in China for historic meeting w (12 outlets) | Cyclone Akvan likely to hit Andhra coast on N (8 outlets) | Myanmar faces historic genocide verdict at UN (7 outlets) | Putin and Trump expected to hold bilateral ta (7 outlets) | Fitch says Sri Lanka’s 2027 Budget supports d (7 outlets)
 
-5 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [2 outlets]: Prior appointments mandatory for all DMT Narahenpita services from Nov
-    important (also on Hiru News) - researching
+* Newswire [1 outlets]: Pangolin killing exposed after teacher checks student’s phone; two det
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Daily Mirror [2 outlets]: Walk-in services suspended at DMT Head Office from Nov. 23
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newsfirst [2 outlets]: Haitan PM Recognises Sri Lankan Troops Contribution to Joint Anti Gang
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* AP News [3 outlets]: Want to discuss 'Grand Theft Auto VI' with gaming friends? Here's a pr
-    important (also on Daily Mirror, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [6 outlets]: ‘It’s my friend’: Moment Trump greets Putin at China summit
-    important (also on Ada Derana, Daily Mirror, Daily News, Reuters, The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (The read operation timed out)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -87,15 +43,59 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-    search failed: not well-formed (invalid token): line 1, column 41
+* Fact Crescendo Sri Lanka [1 outlets]: Snakes Under Kalladi Bridge Warning of a Disaster? No, They Are Migrat
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Government Executive Officers to launch island-wide one-day strike tom
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Financial scams surge in Kandy: Over 12 complaints, elderly man loses 
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* Hiru News [2 outlets]: Solar-powered street lights planned for elephant-prone areas in Tantir
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [2 outlets]: World Odyssey passenger ship arrives at Colombo Port with 705 people o
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [3 outlets]: COMMENTARY: Trump-Xi-Putin summit exposes Europe’s power deficit
+    important (also on Al Jazeera, The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, The Guardian
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* Reuters [3 outlets]: Parts of Bangladesh shut down in protests by Hasina's party, Yunus' ho
+    important (also on Ada Derana, Daily Mirror) - researching
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -108,49 +108,61 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 10 too small to look sharp, using the clean cover
+  photos: 11 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  Fact Base: 8 facts and 1 people saved
-  meaning check failed (no AI available for checkers)
+    gemini failed (The read operation timed out)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+  summary translation failed (no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code")
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 31 story pages for Google)
 
-Countries: IN 38, PK 35, BD 37, US 37, GB 37, IE 36, CA 36, AU 38, NZ 37, SG 36, MY 36, PH 36, AE 37, IL 34, NG 32, KE 31, ZA 31, GH 34, FR 33, DE 34, JP 9, IT 33, ES 34, BR 33
+Countries: IN 38, PK 35, BD 36, US 36, GB 34, IE 36, CA 37, AU 38, NZ 37, SG 37, MY 37, PH 36, AE 36, IL 32, NG 31, KE 29, ZA 32, GH 31, FR 34, DE 34, JP 10, IT 33, ES 33, BR 34
