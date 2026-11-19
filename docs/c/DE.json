@@ -1,37 +1,122 @@
 {
- "updated": "2026-11-19T06:00:36.646670+00:00",
+ "updated": "2026-11-19T07:32:13.033622+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
   {
-   "id": "f823b83f4a",
-   "title": "„Mein Freund!“ – Treffen zwischen Putin und Trump dauerte 40 Minuten",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTkFTakk5OTJuSFR4MG43NWF2NENuSWI0WE10SUtDTkFUWGs4SWkxWTBHeUk5Z0I4eWotVVpjdjdxeFJha0RpT1FxYXNOSktDUG1aejFpMDhLaUhYS1ctTlFPbHlOb0hYeVd2N2h3YkFyV3R4b1VVUFo3eURZZnN2T1JzZS1FUTRLZzNrV21xVkJ0MS1Rang4LV84VjlHSUtMaTZ0T0R6bmFJR3U1U3hnd0xaVXpleFpxR216czRyM0NrV2pHS19Oa0ZvYksyWndjYzFiazhmZ1BudHBrSWJWUkFIZE8wVjg?oc=5",
+   "id": "1c8039f9b4",
+   "title": "Boss des FC Bayern mit brisanten Sätzen zu Jamal Musiala",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWJiRDRLUHJoOEdyeUJiUDJXMFRDbmpfOG5nUnNQVTk4UDJuUVJ2eW9rSnJMTlM4TzM3X211SDB6b29QaUhKTnJhdVNpX1c4clAweHhMakdvV3ViR1dlbGdLUWRJR3ZIRzN0bmJkVUNSOF91T2h0QXYtYjhVa1dBX0wyQ3BMU2ZLZGh2R0w3NE9CU0s1S0lwUGxnNnRVZXRQaFF1dkZ0Z285cU9UbUVDdEZ2ZHNlTk5DV0FmbG9JZWlMMnY2bGQ2VFhpWE1jYmtQZFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "WELT",
+   "source": "BILD",
    "region": "DE",
-   "date": "2026-11-19T05:43:25+00:00",
+   "date": "2026-11-19T06:44:52+00:00",
    "coverage": 1,
    "location": {
-    "country": "Russia",
+    "country": "Germany",
     "place": "",
-    "flag": "🇷🇺 🇺🇸",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fe68b12f3b",
+   "title": "Anthropic vor Mega-Börsengang: KI-Pionier will Musks Rekord knacken - warnt aber vor eigenen Risiken",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkVVNjZQdUhDWnl1Q0lxZjFJa2kxMEFROVA0WEpXRm8yNEt4MVV2Zm1sV0xMUUplLTZXMXFwYnlOME1ZdU1EMmRGbHI1NzMtMTV1Y0RSdVB0ekJDV2I0U2VWZTZrUW5EUHVaejlaWmJJM0lwbUVQbGtUZzEwMW9rSGNOcUpyMjdEb1JyRmh3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "tagesschau.de",
+   "region": "DE",
+   "date": "2026-11-19T06:33:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c3ce25e335",
+   "title": "(S+) Deutsche Telekom steigt bei Europas KI-Hoffnung Mistral ein",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQWJfb0dmUDQzUkdfMW1FYnQxS0RnRDk2cmxFaTV2WURrdTNaUFlQakpoX2owSU9QYmhsd2otYWhMaTNIWm9yZ3FJN2FZdXBpdjlxWGJHa2RXOFphdXJiM21BckNQM2NqUXhvTzdOTWRqaVJENk9yOVdNd1ZGSFlCVFNNUzJFcS04Tmtvb1lLdzZBWTFKYUh5R3JJR1FGeGpoTEFXcWxDUHhEdTkyRlRBSTBwb1k4bnNGa1h4cjA3LVM1aW5oSC1yUFJOeG5fZ0dVYnRaMlBuWDdORFVk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-19T06:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "20dd9c464a",
+   "title": "Grüne verlangen nach Deutsche-Bank-Leak Einberufung des Nationalen Sicherheitsrats",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNREI1cFVaQzJGOHp6YVVGWkZnek0zcVpUOFpRNF9mVmVWeHlPa2o5eUJ3WUM3Q1JTd1JTd0UybXVlSEY3VEJKTUJXb3FKTG1qbmhXR0VCS01abWlxY1V6ZDIyMXlTNXZ2ajJ3Q0VubDVhcC1jZC1uRDNTaHFHU1d1SjJOWmJGQXNQclI2YzlCemRJa1dqS3FPVGlXSkRUMm96R2xJVWxPSmpMeXlSZDBOT3NXTXVXcnEwX01sZWFLd010Z1lpb1g3cFBGMkV6QzJpSVB4dEU1TmNOelZmcVdLT1dtMUpJODNBZlU3dFlMT29WNFpEZVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-19T06:24:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7f30a5274f",
+   "title": "\"Komme mir ziemlich dumm vor\": Musk bedauert Millionen-Spenden für Trumps Republikaner",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnpPRTE2cGF2X0hzNURabl96SU0yVkRCUklOSk53NGpnejBnbjhWMlBCVl90RmR0OVpKVGFYQUhRUHdEaG1qczY1M01YQkstSTdMNENkSXB6VmlqQWwtbGJkVVhNdUxvWU95bXFReEpsWVNJY1AwSW5oZGMyaEo1MHVJMUt4WHZsM2ZMWmo0aGpVZUVrblFpMmt3Z3pOaEJqOUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-19T06:11:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "614b2f683c",
+   "title": "Apec-Gipfel: Trump begrüßt Putin mit „Wer ist er?“",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUy1FSmNGN0V0eVJnOFFVZ1VFczRwOG93VmhVd0s1b1JFQXhDbGg1cTJDdU5VNnFLZHhaRkNNaGtsb1MwaENsZURIWkxWYkdBcld0WVBlSGU4d1cybV9Ia2E5MFN5OThJVHVpSWlyMk53SWFtRDFPV0NLRmdCX1MwODUxVmNJUXNDZEdLdDJVcDB4MDA4UjRzRkhrcnVMd0pNc0FHYTBpZUFpUWJXNXBCcFNwdHk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Handelsblatt",
+   "region": "DE",
+   "date": "2026-11-19T06:06:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
     "also": [
-     "United States"
+     "Russia"
     ]
    },
    "topic": "Society"
   },
   {
-   "id": "90505ee533",
-   "title": "Hype um GTA-6 in Europa: Diese Firma schenkt Gamern einen freien Tag",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzNQY3VlZUx2QXIxME1hZk9jbDNrdEVnLXFCRWVtQTNuQWs1QThVelZQdWl0R2lPakJQaHc2UVJpOFpJSFFfN0RIOWZDOXRhWGlGRzBqLUlSYTRaNWc3TmJYWUkzbllFdWVzU2tNa1BvaVZ5Z2JWM01aWGk3OXhBSkNaQVgtOElPOFRvVGFfTHhxajJpWUVoMEhjb2pTNU9RODRtN3M3cktna19hNlVTZi13?oc=5",
+   "id": "140cc20236",
+   "title": "Was die AfD-Leaks über das Verhältnis der Partei zur CDU verraten",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONmV2b0lqTGJrREVvSk9XNUFxVXF6VXd3YWxfLXl0MkczUm0xREpvWGFzbWtKV0UwY2RzWVdCM2N0b1dYanMwYU5qUG5pQ2QzV041eHp1eTQxcDRMa2YzOU9GaDFrVEVIYi1WWkctUDFVNjVVQ3NERExJVzNaTDFzRklnOUlpcUU0Q0VUOHVMUWhJSnREaHBTNFM3NnRSZGFvellidDlLUUdXWWxWVGFkZmNvZGJqel96WHRkTU4zN3pxeFRyUm01c3pR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Euronews.com",
+   "source": "FAZ",
    "region": "DE",
-   "date": "2026-11-19T05:04:00+00:00",
+   "date": "2026-11-19T05:40:13+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -41,14 +126,31 @@
    "topic": "Society"
   },
   {
-   "id": "a7e63344c2",
-   "title": "Drama - La Bola Negra",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00S3hfQklGVzJpUVR4bXc3aHNaREgtWmhkbU5BSkVyRkpJRDNGN1VMa3Bsc3ZrWWlfUENFbWlnaXlscW4yc0Z3dEdINTlGeGVjX3VkZy1vRWhnQ3ZLMktaeEFsdk5jOXpGcjk4LVF5YWlkak5lWW5zeg?oc=5",
+   "id": "20765a6805",
+   "title": "GTA 6 jetzt auch in Deutschland verfügbar +++ Downloads lassen Internet-Datenverkehr anschwellen",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRkhPdGpRTEtLNXJwSzM2OUE3N0hmRUt3VV9zNWx3YktjcWd3UDBaM2dlV1NzZ2FXUm83YWNFT3RMaE5ua2JJRnBISHJWYTlXNkZqWllQb25hMVluMmFQeVVVQXUycGsxYUV6bU0wOUJodGN6b3oyWjdid3Q4d2oxdDl0T3N6bzB4a0dUMDFFOWl2VDFtaGNmODQxQUFPRW5CZ3pFbWQ0TmoxOGFOR2NDTDFKR0N6VEFHZHpMM0IzMG81Z0JRSW9MUVdfMktCampENHdXa3hNRHN1aVhmYjhVa0ZFVQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "radioeins",
+   "source": "RND.de",
    "region": "DE",
-   "date": "2026-11-19T04:31:16+00:00",
+   "date": "2026-11-19T05:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "04fbf72775",
+   "title": "„Wir fühlen uns gesehen“: Javier Calvo und Javier Ambrossi über den Erfolg „La bola negra“",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZm4wdW5EM2NkNEVqWG4wc2lpYzN6VUhQVlEtRDRaaHFhM3VYZ01BaGZZSzhGYnptR0ZRaW5VclRHc1dwSjBPYVJKSFVneENEQldHNVVGUWR3X0cxOUpIQldzYmRWYzQwVnQ3MmlTdGpLWlBwMVNkM0dfM19QU0tXYmk3cjJOT29kdGZvRWpNTjlVRVlhWi16OHM4UUQwSFFtUHc5X1VJVlU0TWV4MW5iY2VMWmtCeUlj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "der Freitag",
+   "region": "DE",
+   "date": "2026-11-19T05:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -58,14 +160,31 @@
    "topic": "Society"
   },
   {
-   "id": "c1b716ef34",
-   "title": "Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NMVdtd2h1RGJScTBZdFNCMGE0YS1BTm1rXzVZNDRBZWN4d0FyR3VfS2ZZTzNjalhkMXZ5RlRTVTEyV2d6WjZrZXBHV2JVOVAyV0k3VjVNamVQa2c5bjZOVU1IVjBvMDIwTFdyOXlwdFdMQTFV?oc=5",
+   "id": "36b966204b",
+   "title": "Kretschmer und Brantner zoffen sich bei „Maischberger“ „Ich bin hier in keinem Inquisitorium“",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd21ocmFITzlieF9Bck92cVFOTmVzM2pvOUkxOWFGT3RGdEdVZ3JVRTdUek9yZXhjVU9DLXZoLWNnWFJWNjlVOGd5bzJ6M05hbHJ5dXVTQWp3TGJMM3ZwLTVuSlRRa3BldUFyNTVPVVZ2X2M2M0hab19kTWlZb0RHaUQxNlFTcmxqS01POWVKUHl3RWR1NTUtSzYzRlgtOE9oMW1mLVIwa3Btd0otLTM1NGxvcDdMeG1mMkktdkFFeWI1VmZrWFBwcm1nTERYSWlmSHhTNUJB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-19T05:21:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "51e873ceef",
+   "title": "Das Milliardenspiel GTA VI beflügelt die Branche - aber was bleibt nach dem teuersten Game der Welt?",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaGtTdlpKRUVlNjc1X0cySlQ3YVNOZV82QVl2YUF1VzFEZnRsaFM1YVJnOE1QSm1nWWVuNldqUWZoVlRjMTZ5dERuSmFPX2VGMk11QlM1NkFidkQ5QS1BUE05enYwa3RScU5DQ0FCXzBmc3J4aHMtWDRTQlJZcWc?oc=5",
    "summary": "",
    "image": "",
    "source": "tagesschau.de",
    "region": "DE",
-   "date": "2026-11-19T04:28:24+00:00",
+   "date": "2026-11-19T05:09:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -75,14 +194,31 @@
    "topic": "Society"
   },
   {
-   "id": "e9636b0308",
-   "title": "Dobrindts Millionen-Show: Ruanda kassiert, die Migranten reisen weiter",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEpYM3E3Z1UzMDVvbE1qYnFXWHFEb2lDWVVNcW1MaGJfeGhTeXVoVEJIZF9JbHg4RXJSeGtCcENmY3Q3a3l5YTZDVTZETC1CeUxjMjNGYjdrRS1OQ2dtTEktTTVVM3NiN3RtZE1LTFpDYUxjUlNzaXVONW1GYVVzUXktSnJMaGNvUWktNlNn?oc=5",
+   "id": "a8fbdfd319",
+   "title": "Windows 11 bekommt eine neue Sicherheitsprüfung: Microsoft lässt Anwendungen TPM, Secure Boot und Treiberschutz kontrollieren",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUGNpeXZ1Nk5vaHluWDNnTkN2b3c0eUxkQTVONDB5Q3NqTC1XeUcxZkJsUTNzVE1nOE5tTXpqbG9zTm1jMFhDVHNqdjJ3TUVzNkJQR0szeHBpTkZVNG51MVJfakFiYjRWVk5IY0g0cFV0d3dVQzNIRExRU1dlNTBTbUpvSlRPT1A2UFFneTlCbVJNdFRnVGRSTlpLNy1ZWHZfNXdkOXEzWDY2ZkFsdHhDd3JNdkZjbVprWUlOVDJfR3l3Sk9HQUhVVDJnTkI5WFljT0hBb3o5Y0N0QmVzdGc4MDNyc09lZDBzaDBhYW5BT1VwVnA3c1NOdXc5ZGYyRzY4cGl6aUxWemc2SWM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Berliner Zeitung",
+   "source": "igor´sLAB",
    "region": "DE",
-   "date": "2026-11-19T04:00:00+00:00",
+   "date": "2026-11-19T05:00:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "91873fd0f2",
+   "title": "Vor Landtagswahl 2027: Umfrage: SPD in Niedersachsen vorn – AfD gleichauf mit CDU",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGwyeFdwR0pLWEk5dERVMUFVbjJPdUdFeDZ4WGg0RXZvMkk5eURqRXJ3eDdlM3VITHJwc202UDVaMzBmX1RSamlhSVN3UXlqYzNOVWo5aG9qUG9SS2s0alBSS3JNWkJMbTN3NFFmZGluM3huVUlnMTVVWU9acDE2LVN1emJpRFdYZlB2WDd6WEFtOHBBLXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DIE ZEIT",
+   "region": "DE",
+   "date": "2026-11-19T05:00:11+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -92,14 +228,14 @@
    "topic": "Society"
   },
   {
-   "id": "35b82e6db2",
-   "title": "\"GTA 6\" auf neuer Konsole zocken - und abgezockt werden? So vermeidet man Betrug",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV01FS05nTFc3dnlxUUNlcWVORXBKMUZDRXlhNldPR25HT0ZMYWxBSDNVZmlVN1libHl4SjE2NjNoeDAtX0YxakV0U0tGd0UtV0liRXI5cUNNLXp2QU1jVDE5dnI3V203dGVTSmoxd1hndXotRThnUHRjbjA1bnNZSkJqTXNBcE9QTDZ0LTFCMV9Ha280U1RnRzYwdnlZbmhvakxqcHoycGk0cnVER1FWZl9KOHVIbWgzZXprNHJ3?oc=5",
+   "id": "7e3e6be8be",
+   "title": "Klingbeil: Gemeinsame Basis: Berlin macht Weg für Commerzbank-Übernahme durch Unicredit frei",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRS1zaXBYVnhkMGNfLWhHUUJ2UklBanBidnJja2pRN1VjVE1iTlpKWEVRSlZHeVJXMmhoSm9OeWNzOG1oTlQxOUZnRnlRZllRUzVGRU5icGVUbmpkY1g4dnRLU0V5Vl9ZMGtLTmxPa1phb1ZrejAyc1Y0NFpreUpoT3ZvQklqc3BuS2gzLTBYeHlURUpid193YkVrTGRPQ0hZaVJkMHFxOW9hRW9jMnZnUUtR?oc=5",
    "summary": "",
    "image": "",
-   "source": "NDR.de",
+   "source": "n-tv.de",
    "region": "DE",
-   "date": "2026-11-19T04:00:00+00:00",
+   "date": "2026-11-19T04:32:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -126,34 +262,48 @@
    "topic": "Society"
   },
   {
-   "id": "a2271bdc36",
-   "title": "Bei New York Times: Zu viel „Ukraine gut, Russland böse“ – Musk fordert mehr Mitgefühl für russische Soldaten",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYjFoQkJHcnpJbDhRbFdtVi1zRTE4RlJlV1RKZ2M2Xzg3T0hBRElrdkY1OWZ4MklnY1VseXNqTHZnOHNRcUhKQ1ptYWxVZzI2QmRkQm0yUzEzTmZKeXR5eVFmTmZsV0dXckNSeUZSQjdrTFk0UnlZOXBUNUhXOE5Vc1M5aVZRZEhUVTUyc09fYmVrYWlXQ3AzLUZXRXVpcHhKcFE4QXlFRXdGQWMtLUVlN1JoZG1PckpXSHhNWElwQ2FfZXdzb04tcWF0WmlqdlhjNDhsMmV1Vk80WE5hUkVpREMxTk9odE9qblBveVZqUnFBYUVfaVkzTEtRTWphanQ2T2x6TmYyN0pGQ1E?oc=5",
+   "id": "c1b716ef34",
+   "title": "Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NMVdtd2h1RGJScTBZdFNCMGE0YS1BTm1rXzVZNDRBZWN4d0FyR3VfS2ZZTzNjalhkMXZ5RlRTVTEyV2d6WjZrZXBHV2JVOVAyV0k3VjVNamVQa2c5bjZOVU1IVjBvMDIwTFdyOXlwdFdMQTFV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "tagesschau.de",
+   "region": "DE",
+   "date": "2026-11-19T03:35:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a899f22177",
+   "title": "Robert Pattinson: So viel soll er als James Bond verdienen",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0lyejY1TXJfNjJkMlptanhraHhtT0FFOElOM3RGZDkzMW9Hb3NNa2oxcTNjcnBWSzZEYVlqVC1sUEhjRkRxZ2hHTkFxeC1Ta0xjemN3d3RhNlo0RGZDeExLckJLdldUSi04MTZqd0t1YXZnWEpEd3MwZS1CWTVvcFd3VHQ3cy1BcFdhd0N5OEFEUmxnTGFpQTBqV2hrZWlKSmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "STERN.de",
+   "region": "DE",
+   "date": "2026-11-19T03:33:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "94594b4a52",
+   "title": "190,4 Millionen Dollar: Nach Streit um NS-Vergangenheit – Meisterwerk von Van Gogh erzielt Rekordpreis",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMGVlbTRTRmVnY0psa3NlU2FBV1ZXMFdYaFZUZlhzVzlxQnhrOVM4V2dyZV9FclUwLXpscUdwc1BseUdWZUxONEFIR3ZBaUVwclIyeV93dzV6Qkp2dW5PZUJaUHB6Q1FfLWhrSlR1eENFaDc1RjVRRi00a0V1NGdjLUItVDh2dzhNa3F2aGlCUTRLN0RGSXhvOGRlTDByclpaVHF4Zkh0Vk5jeEpkVG5PUXVnRlVnWUVMVUpqUHlKWXZkMS1Ia1l2em12OE9JRkR1RW83Umtjem1UbmlDaHhmZlRLdHNQbW5Fb21jYTZpQjV6bmtzdEE?oc=5",
    "summary": "",
    "image": "",
    "source": "WELT",
    "region": "DE",
-   "date": "2026-11-19T03:42:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇺🇦",
-    "also": [
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8c7eec4d96",
-   "title": "»Komme mir ziemlich dumm vor«: Elon Musk bedauert massive Wahlkampfspenden an Republikaner",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDFpZFBsNUlUdDFuYllTX3c2dmRDZWoyNUNMMFBud1VGRE9SbjZIYTlQVXgyd0F0RjVsdHdMeEFicW5uTDRsbHJEOE51MW4zWm5BMmcyQ1Nla2pNWmRvMUtkUjgwNVZ6a0FCcjdkWXBTYzFXQWVZWTBkemxaaVk3RGJ3RVA4bUtEU1kyWWxOZkNXc0otVmNRNERDME5EbFd4c3dHRUtUM0dfVWpTbTVXSnQyWERhSmxXd3VQaXJjQzlldDFPaXdjM0xDSW5JNEZv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Spiegel",
-   "region": "DE",
-   "date": "2026-11-19T03:11:00+00:00",
+   "date": "2026-11-19T01:08:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -163,85 +313,14 @@
    "topic": "Society"
   },
   {
-   "id": "916d77bd38",
-   "title": "Kunstauktion in New York: Gemälde von Vincent van Gogh erzielt bei Auktion Rekordpreis",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMldCSUhDd0hGV2pzbEg4QTZZSFFoMTBYT25UcEVWNmF5YXVlMXVaVHlfZXlZNlhuRU93YlJYM0NEVDlaNmo3SGdoUzV2Y1R4bFA5UG80ZmRVRzZPUEVFQ0U5UFBiWkZrNElrOFRtUFd0b0t5elVxY215SUcwUlJlWWs3blJNRUgxaDR4S1RYeVJYWGhrQVluSGp2NHJQc0JyWmpsS0h6R1VsZk5iOGc?oc=5",
+   "id": "62e8890ab8",
+   "title": "Stromsteuersenkung: Sozialverband hält Stromsteuersenkung für nicht ausreichend",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVg3d1RJdVBTSjFmRnVtaW9OcG1aYnF0NHBVSnRqdGRyN0J3ajJvdUNqUHBCcjhWZWhwcUNrN2JiUVBpeGFseEZKbWFrdGtmRTFoZ2UwUjE2eEhxd1hNWDhnZHl5N0E3ZzNlRFNMNFM5NFVnMi1EamNvZ1drMWRPSU5ZZE96VzJvUURsRVNqX3habWpjWEpTVUloQk9Sdi1GVnhCcG9WOW42WnJDV0I3UGZndVUyQQ?oc=5",
    "summary": "",
    "image": "",
    "source": "DIE ZEIT",
    "region": "DE",
-   "date": "2026-11-19T02:42:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0705a3576e",
-   "title": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11QTZ0MDUtLWlkQXFYel9kNnFSY0ZGMlQxRlE0MzJXUXhFbW1PNU8tM1d0TVVwbThMZklHdzlCbnFNalhlRFJOYTRvVjhxV3RfX0N6SHRjSFBHUHVkNmZUa0R2Sy1hS1FKbjVfTzN2ZU5HckNTVEwxRVhpcko?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "tagesschau.de",
-   "region": "DE",
-   "date": "2026-11-19T02:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Venezuela",
-    "place": "",
-    "flag": "🇻🇪 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e8524acabb",
-   "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSURNeVpXR1JVZlI2cFEzcURWdV9oSnVfQ2pnZ0dVRDN1WTJVanN3eXJld3RyNGZaNnZYUkpBUDdvQkxCN09rMkNvSFl1bUt3aVZEeUtuVWM0cWNpMHdvaHlYX3lTVTZYajYyVlJBQ241RTdaU2syaFBwekVfSjYwb1A0Z2IzNmxfYmtz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "tagesschau.de",
-   "region": "DE",
-   "date": "2026-11-19T01:06:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8366cca717",
-   "title": "Tesla: Gericht erlässt Strafbefehl gegen Tesla-Werksleiter in Grünheide",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjdwX2trMFhxVjVqaEZfUVUzWkVJWkRYR005a0pEMy1Uc3BVbGJvc3EycVFwd1ZlUGV5S1QwYmZBdFQ4dG85cmpleWVsSU1EMWxLZjB5TG5jRXB4ckpHZmFWMWN6UDNIbXp4ZnhZMUtPREZfbG0yMXVBZnlYX2xPeTZzSDBpWmdEanBlUVFvSjA4b0sweTBkYVBBc0tEWWJCS1Jva0pn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DIE ZEIT",
-   "region": "DE",
-   "date": "2026-11-18T23:44:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7ae8df731c",
-   "title": "Das Ende einer Ära: So plant der FC Bayern seine Zukunft ohne Neuer",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVVpLX3FfNUJfanJ6Q2FSWGdFOERpaWxoOEpUcnM2cHlVWHF4d3BYSEw5b2stVGxvZV90RnRxNFFtNW1UY0p2TmpJclQ4cWxCVXB0a1ZOVkZXYnR4aUFSNHBOV0YycGZUeng1T0xEYUx4WUZSbi1ORkRvVXM1bEtBUHJaRkJwcGtJSnBhaUNuSjNJbEpyRUFjVm1lbVhwNnZheF9CRWs4ZDBFaEUzQWtDbDZNX0tqRE1IeWlkSU9RODJFS19SSWdmOHJiVW1xbzNoZF9LUmZKSERlY2JtV3BRdFE0b0ctcnZYLVJJcDlzcDh0M0lPcnhsWFpnZkNCbndKZXNZaERTb2ZkX0pRNGRoQWI1U244VVRTM3RMY0k0WTA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Eurosport",
-   "region": "DE",
-   "date": "2026-11-18T23:25:00+00:00",
+   "date": "2026-11-19T00:45:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -252,7 +331,7 @@
   },
   {
    "id": "d8c50514d1",
-   "title": "Grand Slam of Darts: Sensation! Luke Littler schon raus",
+   "title": "Grand Slam of Darts: Sensation! Littler schon raus",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUJEVDkyYnl1VWV2cVNXV2hwME5UVVJiRFpCamhISGJyaTNrSWNNd25zT3Q5M0FoQXRxRnlMbkxIQng4QUtxN2xQbm13Ukx5alA5OVJ3QzRDQzBzdlZXeUVjRTNfck5aZ3JON3RtT3N6WkpVaWdha3BlcG1UczRvTXhRY0EyeXV4ZHZKNUY5T3R4NGh2eGRsQklZOG9zVkFfZklkazlwQ2NxUkljZmdCVEE1VFQwVF9xbEllbQ?oc=5",
    "summary": "",
    "image": "",
@@ -268,82 +347,14 @@
    "topic": "Society"
   },
   {
-   "id": "0e17c1c0f5",
-   "title": "Störung am Nürnberger Hauptbahnhof behoben",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUpKdzlYLTc3NlVHeGgwVU45YmxTbnY2dzlNNldLR1hUV2FwNG1FYVJ1aGJva0M1ZUlNWFl3anktT1MySW0wTjhRb3VpM3FnOFpxUl9yemhHYU5jSm90cUFiZkFOM3ZRR09aN0FlSzVUR3BRRlV5R21SMkZnZVRyMlpVSmhFOVI3QkdFQ19fRkI5TVhZWFZ4aU9CSG0xdHFhZi1qUA?oc=5",
+   "id": "2983154a01",
+   "title": "3:0-Sieg in Überzahl: Starke Fortuna wirft Duisburg aus dem Niederrheinpokal",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDJyWUtaVHVwZ1ZDdFVTV3ROaGNRSzZSb2hpRjFRSFM2U1A4T1FOSTJ2aWVsTG5qcFkwWGxBdlBvU1IyVWNTQ3FleXQ1UVZQQ1hNcl9kbWJEQmlNVWRFbkhueUN6WlpkYzdUaWhGMTdGMkZ2SHRBSVBWaS1aNWpneTRlNk5hMDktNUpNaW1hblNNa29Cdi1FRzlZSFRPZHJMbmh5eWlLM1lLWmZkd19rMjZtdzh2RE5rUnNjaGl0dURnWEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "BR",
+   "source": "RP Online",
    "region": "DE",
-   "date": "2026-11-18T21:54:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1e6ce05272",
-   "title": "Anthropic-Aktie: Ausgabepreis für Börsengang anscheinend auf 83 Dollar hochgesetzt",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDRCbkdXa3VyV2YtUS1YN21CWHNYTFNic3oxTGp0eE9mNmNJSDNHWXhHWEpRek1TSWZ3anRHWFlEMlhUVldSZUE2bXloZXN6aTl0NW96cEhGc1ZCTTNHOU9BT3dvNTNKTzRXNDdFZWR5b3RoNzBXemNCcmNSRnQxQWhQd2Vfc0ItYVZwamRSYnZYQndOMXlzZkN2d0dWUHNycXN1TlZmRm9NSXM3TUJLLUZ3TDB6OGVUQmtJZHZFZ1BKQzJjLXdmWXEzOTBiamNfZWkybA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Finanzen.net",
-   "region": "DE",
-   "date": "2026-11-18T21:37:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1f835878f1",
-   "title": "FC Bayern München: Musiala vor Comeback - Dreesen äußert sich zu Hoeneß",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDZ1cXJYMU5LNjg3NnM3YlVuTDVmRmx1d1V5UF9fa19xWFVNbkVKR0ZLb3VfS3VvTHBOSy1HT3RlWnRkcWNUdVhteEpSZHNaNllpRjBjMUQtdU5CZ2dJS1dNS3ZhMzJneF9Qc2Fzdl9qMnh0cUlveE1nWHJvUU5iemJtbkoteE9jZzA3Tk1CS2ZYXzA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DIE ZEIT",
-   "region": "DE",
-   "date": "2026-11-18T20:50:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "08a6e8f6e8",
-   "title": "Dow Jones, S&P 500, Nasdaq: Nvidia-Aktie dreht ins Minus – Anthropic-IPO erwartet",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbWwxRkhsbDY5THlBY2FSVDZIa2pRSzRuOGx1NHE1dzQ5TE8xWV9RcE9mbF9wbW1xWlZOdDhjNlNZeWg3Y05tQThmejRlRzR2SVdXckpMVS1VZ25YdTNxQTdEVnRCRmFEYXFBemtOdVlMOVY1RHVwLU5falZZTVVLcE5UNE5PRUZGYXhtdjRJdDNfVVRMN1NVWTQwT2FKRXdCZUQ2bWRQSDRtWTVESkMzMWV3Q2dKZ3RiUjlmYVo3VDZ1Nmc2SEFOVkdPOWkxcjVTdUY1bHFkbHhBLUVwcHpjTEdabHQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Handelsblatt",
-   "region": "DE",
-   "date": "2026-11-18T20:31:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "9cfc145be5",
-   "title": "„Sie sind eine Kriegsverbrecherin“ – Palästina-Aktivisten bedrängen Claudia Roth",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM1ZIZUx1TEkwbUpVNTl3MGVKcWpqREkyZ2VRdHpyY2Z4SU1nb19DcUN4aG4zcWFDUzJzb0xwYmdubzVGSzZIV0ZobFd1dy1qUU9xM3lySFFkWVNld3BWa0xrX0hHMEQtNE9rc0JRc3l5Vnd6LTYzb1RaWTNsMy00YTBjRVRfUHJPMFZkdGNRSlkzZGNzbWRoM0RZd2ZhTWJ3TmlPNW8zcnpJaERvR2ZhcWQ1dEctdXBNNTVFSzFPZFNWdERFaWVpUjVULS1wbExONXkwS3ZicEVBOHAwbWRfazRRbXhxVFdKc19nR0w1WTNXdllWa3Y0QU1ZMXJuaThNeDNKNVZnYzhxZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WELT",
-   "region": "DE",
-   "date": "2026-11-18T19:36:24+00:00",
+   "date": "2026-11-18T20:13:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -421,23 +432,6 @@
    "topic": "Society"
   },
   {
-   "id": "05d718a70c",
-   "title": "Koalitionsausschuss - CDU, CSU und SPD einigen sich auf Senkung der Stromsteuer für 2027",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzhyckZWVUxKb2Q5cGtpQktsZVFQNVR3WDBHMUJlZG8zR2xTUEo4cjNEa3hOcXhfblZVcEsyNHlKM1ZSN0NWVy1kWVctRmxwbDBCZmJyU3R5MGZBZmpWTlBQdU81dkM0NHlOS2xtTjk0UVNZblc2cUlZOVdvTDFZT01iRkdzaG5CWG5FMDVyTS1iUmVhNHRWM2xnVk5qZXI5VlFZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Deutschlandfunk",
-   "region": "DE",
-   "date": "2026-11-18T16:36:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b5b574a910",
    "title": "Verkehrsbehinderungen ab Donnerstag erwartet – BER schon Mittwoch betroffen",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXNiUThkTlJiNDI1SERmVkxnVDN6MkdVbGp0ZG8xRjFvSklwcVU0MTFNQWstcFNhUDM0elprYTdIM19NUVBGYktIczBDeVpsUlFIbFdxUklYcWZ1MlhldXBySzNiZmNUVEVKU2E2SVlSWjFZZDF6MjNHS1o1QmdqQm5NOWFRU0d6WF9oZ0FjNU4xdXBEWTJ2T0Q1QjY1RGIxeld4S2RON09uZ3lfN01Xb2tWVWRWelRFM1lhX21R?oc=5",
@@ -455,6 +449,23 @@
    "topic": "Society"
   },
   {
+   "id": "7eeb19990e",
+   "title": "11 Tablets getestet: Platz 7 übertrifft das iPad Pro beim Design - und deutlich beim Bildschirm",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1dLWkUyNWdzQ0R4QlpTY09YS1hTYzVtd1FZR2NhZXRmOW9oRmhTck8xOXpHUVM3SWlKX0NiejVTdy1kNDY3Xy0zNG93V1g5SlptQ3dlbWl6ZFltOEc5SWVIZ0xPdE8zUG5hcFppeTlVbGF5czNfS1ZJU0tFUlI1cFdka2tfT0RPMmZhTmJIcjFxWHBQdlFwNlJxal9sT090bWtvN0tfal9pQVpzQy1MTjd6eVRIMU0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Netzwelt",
+   "region": "DE",
+   "date": "2026-11-18T15:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "cb81028a5f",
    "title": "Gender Gap Vorhofflimmern: Frauenherzen schlagen anders",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlNGRHhMR1prNjZhODJsc0hSc05tSGQ0YlBPMUpuM2FNejJqSmZKaTZSUXpZX1VjNFZqVndlSnRUQmh4MmtSdzNEaUdwblJHeHhiWlZqMWxTMFBQRFh2eTBpd3dya29uNWxuYjdLMWc1T0E2bkFRb1hYTlFsUzBUbg?oc=5",
@@ -463,6 +474,23 @@
    "source": "Pharmazeutische Zeitung",
    "region": "DE",
    "date": "2026-11-18T14:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c81daf3a1c",
+   "title": "AWB im Dauereinsatz: Sturmschäden in Köln werden beseitigt – Flora bleibt geschlossen",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPallVWDRpeEZxWmNPcGlLNGpVR204WGFiWkhkV0sxaGVqREk3NHJheVVVQ2JpZVpFY05RUl81SjFUaWRhZEVQWUFUM05XWkRkZDhuLWNDSjFmeFlNWVlGZG1EVl9oUlNkRHpraHdiUzV3UGtSbzRxZ2JWcGRmNHJrYUdfM3hYbmdQdmtGZkFzUGhyY3pSQzZZVjJQZXhzUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Kölner Stadt-Anzeiger",
+   "region": "DE",
+   "date": "2026-11-18T13:47:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -509,14 +537,14 @@
    "topic": "Society"
   },
   {
-   "id": "e61e0a031d",
-   "title": "Robert Pattinson: Mit Kristen Stewart fing es beim \"Twilight\"-Casting an",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWlULUxoQnN5ZDdpTm9yZE5SUFp0alkyczhhLVJ4RnBpRWFmbHVxNUluanl6VnJzUlI0QldHTFV4ZFJFMGo2SWJKYWtqTVNNN2ZNUFdOSXZlNFRlQ1VLQmRRZE83R3JibTdYWU56cTFya3h6blRhRkp0dTJfLUNSSVRYQ1g2ZXVnQzdrdVdsNkdYaXFVVXdPaUp1TEtqcW1KcUdDZlJUcW55U1FsX3JYTXNMYW5VWlk?oc=5",
+   "id": "2407c6b6dc",
+   "title": "EU: Brüssel koppelt 45-Milliarden-Kredit an russische Reparationen",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXhUeW1Yb195eTlGZmVXZk1NRnktaFdQQUtTbWFwLVJtdTFWQzBicFJRa19CMk93dFVHWGozUXBDck4wazBFV2NnRHE4dGttUlpnZ2dPeDZ3eFAxLWJKVEswanhmRkZLb1R0OWxIeXRPS2pjZkxuSXNqTk11U21xSUo3b29IT3pScXU0Nk1VWjBzd0s5Qzh3ckV0aVlLZlc0VjJCNllOZmVHVGx5UXdVbVkyTWhlR242cjgzX3c4dkRGOExKdjhPQlZvWGM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Joyn",
+   "source": "Handelsblatt",
    "region": "DE",
-   "date": "2026-11-18T12:55:06+00:00",
+   "date": "2026-11-18T07:00:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -526,31 +554,14 @@
    "topic": "Society"
   },
   {
-   "id": "d8c0e36cc2",
-   "title": "Nach Nvidia-Zahlen: Chip-Skepsis und KI-Energie-Check",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFZIVFZhUHN6RTJkbXhzTU5ha3NtNDlWUGtwcUZJQWlmVGM5eWdoSWFLTjRwYXV2MEdjZTVHMVNkNFNaTndWZzhFWWFfUkNfallJbjR6OGVPSUlLcDM2UXhzNERoY2s4d2JhYVcyYTRvWTJ1TTFjZW9ERndCdWtuemZpcVVRVDZtSWpxY2ItQlRuaTNzb1FRUlFJR2RkWUhHWmxYN0NicmZKaS1XMkM0dWJ3?oc=5",
+   "id": "4b140192de",
+   "title": "Bye bye BMI? Warum Experten bei Adipositas umdenken",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3JvVFM4RGU1Vm14UE1ndkZERlRWcDJWcklROHVvOUtITXZpWjlDeXIxb1RYd3hkMVllY2pBU2dKSVRnWHUzb1lRak4wRjlUUDJCSHhGX01oblBGOThYaUwzY1J1YzVuZGVjZ0N1c21paUo0eUpaOWgtcGF2Q0lMdW5uRlVmV19QdE93eWFkWmRNWFB4NGJKLURsaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Onvista",
+   "source": "BR",
    "region": "DE",
-   "date": "2026-11-18T11:57:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "0dab729c35",
-   "title": "Demenz: Gleiche Wirkweise wie Viagra – neues Medikament verlangsamt Alzheimer in Tests deutlich",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVEFNeTFOTVViamc3V3AzazRFSVBaekpJcXA0eGFrQWhVbGw3MmpuWU9ydE8yRWhhOUx0c3ZYYlFraFV5bTM1Q3JwbmNZNlNEdXlZMkFVU3pERnAtamJic1BYLTRFSXVJVFdhaFh5ZFpTZXJUOFB6RFlFYWFTSUxTdlhnZHZnTnZoQTFGa0JtNThNYVVweGJLY2pqZ3liWU8wQ01WRTB1a3NVNlB3S0o4MkE0MGcyTTJyTGVfR0ZiYXhSMVZBRmJ0Y3plQjZjOHQwOVBFdm55SVlEbE16NzdpVlhJM2NEWWtmV2hGWU9pUl96Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WELT",
-   "region": "DE",
-   "date": "2026-11-18T11:29:43+00:00",
+   "date": "2026-11-18T06:15:36+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -560,36 +571,19 @@
    "topic": "Society"
   },
   {
-   "id": "a1be750d84",
-   "title": "Dortmunder Familie rechnet 2027 mit 6832 Euro Mehrkosten Eltern wehren sich gegen Sparpläne",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM2ktOS03TXBZZ2E0RWd5RHhUcmtpMFFXZjNLYkNFMWxkRXdIN0h1QkVramVwVTltR0VIU2FJWjczUnNJaG9hRFpuT1o3RkE0SUdLUWhmeWhsRWhMZF9MTU9EYjhjWWVyVXd6aUZSeWw3X2RrOEFFTkpra0N3M05qbHpHd29ibWJPT0YyTkZtRWY0MTdrRERDdllFQUdxN2xjRXVxYl9lSm1oU1FoUldaaVB4QkdMTW56ZElzMWpOYmhNeWg2UmRsWS0xcVNGUmR1OC14QjlrZ2p2aFQ2bnZKTFdiaw?oc=5",
+   "id": "b9533a3769",
+   "title": "Die U.S. Air Force sucht historische Speicherkarten für die F-22",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnQ1dks0cTU4UWVaaDB4UGZOemhtMGJmZFpXN2lvZS1ObmhBcHU1YTRGdDNWY1VHejlRT0ZtUlk3VXpqSUhKRG94TThLOEtHcmVubEMtdl9mdVdOVHdYS0JYQXhFbWNncWM4UWlWXzhhRVhXdjBaaTY2b0FjNEd0ZFZCVFM1Q0ZVSzNOVU82Ymc4SjM1UlhkYXdsT0pCUURwTUgwZWd4N001MUdfZkx3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ruhr Nachrichten",
+   "source": "derStandard.de",
    "region": "DE",
-   "date": "2026-11-18T04:50:00+00:00",
+   "date": "2026-11-18T04:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Germany",
+    "country": "United States",
     "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e4a740d0d1",
-   "title": "Von einfach bis Luxus",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTR3a2tWMzhuR0FuMHVkeDZKUDltU0R6dDdTMzBEMWxYdnhTSl84aGJmWlMxREphWGk4bXNoaU5rMzdpUnY5bTM0RHFseDA2RFVwdUFIRVh1bzVYcFYwWUpCaERIVnBidHk4UTlnbHpGaVFSYkZGWUVjM3pwQVYtVmJ4OA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "OVB Heimatzeitungen |",
-   "region": "DE",
-   "date": "2026-11-17T18:17:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   }
