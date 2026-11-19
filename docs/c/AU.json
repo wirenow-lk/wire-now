@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-19T20:47:58.830235+00:00",
+ "updated": "2026-11-19T21:44:36.229632+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
+  {
+   "id": "bd91aa6506",
+   "title": "Hollywood veteran dead after tragic accident",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWFlQRDNHZG80UUJjTjlkU2d1TGVPM0VVanctVVg3MVd5VnNSdWJHeklZNTFBRDhCNndpYXl5Snh1bFo1cktMY19FZzRvMVN6QTlvcEdveVFoUGY2b29ZLWFsVEViVnZYQVJBYWg1SUJHbGFxa0lSNG5ya25qVUtVT3NrcXRvLXozN1BhMk5KTmwtaTZyWmFGdFV5TW41VFo1WDVNNHJhTDhQYUVsSFo4SDU2MXdaM3h5MmpsRmczMU9QUVBaY3ZIN3lkZ0R0X0lEWkx2MkFUWDNST1FNTEJuU3p4V2NoN1JJVlFtMHU2V0hlSThYbFo0VmlyRjFYQWVzaVluUnBITVo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News.com.au",
+   "region": "AU",
+   "date": "2026-11-19T20:41:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Entertainment"
+  },
   {
    "id": "e5224dcee4",
    "title": "Cancer cases among transgender people in England could more than double soon",
@@ -21,14 +38,51 @@
    "topic": "Society"
   },
   {
-   "id": "f8cecb299b",
-   "title": "Nervous system signals drive progressive scarring in lung fibrosis",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakd0VERZNkNvUExuSXZuRG9Fb05LbzFzNU9rV01USVZwZHV2V2JIV2stbWZjSG5saURNNTl2UHVqMVVEVHpldkY2SVUxZ3kxeUtZTmVjTGpUckNpS3EwcnZlREhIei1iNnVmb1BpalFIS0ZlLVhmUktIblhoRy1wbndpajVlZm1ITnJocl80amJFWjhOZUxpYkg5WTRWQ3Z6RzNjSWNEQzc3a0pEWXd0d2NQUWc?oc=5",
+   "id": "60e4456cfc",
+   "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZGlZUHdsZmNvajljaWYzS29FWHA5Q2ZtYVFEY3dEM1RYcjZXZEJ1OF90NW5YVU1teVlncWtzVzFNamFyN2hNc1hQUVJJSWdhLTUwSTdjYXNJMGdWYlc1TVBCN0tHX3gtTHg3OXM3czRCTWF2MFJZalRNTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "News-Medical",
+   "source": "The Guardian",
    "region": "AU",
-   "date": "2026-11-19T19:52:00+00:00",
+   "date": "2026-11-19T20:28:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇳",
+    "also": [
+     "China"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9391f2a74e",
+   "title": "Harry, Meghan, kids pop up at London event",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNSTltQnNnWFA2MWdaT0FBMjNHdXE5VlBOY05RTzRiWGNlMXNmbGR5aTM3V0tXcmZkTVNQQnZkX0t1Y2xjLXd5eU1fdFUzQ0ZrODdpdDdQWXVUWjlCUUVZWDZCRm5TYV9UVmpQS0JSMUlxWnl0eVJOMFJaRXNDTGcyNUtVWTJKOXJueHJLQ1NHR1ltbjY3aER5bVNMX3hHdjZwck1NWkJlaHpXRTV5NXpzNm9wUWh2aUtIRE9HMXFjWVg4Ql9PNXhwR1pqV2hnWUp6ZE5pX1NOb1FXTXpRcmZlUkJKWEthOXFwTzRSM0xMUlkyX2FvV2Z0V0FadEt1OXFER05OS2VWWFhRSlBvMmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News.com.au",
+   "region": "AU",
+   "date": "2026-11-19T20:26:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1e215a8116",
+   "title": "No pressure: Port land Dougie Cochrane as top AFL pick",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWNFbnBNcTZLaTBnM2VSY1hwZDJDemNzMk94cGRScmhVbl9ISlNhYXNFUFFCb3haNTF3ZXNhZ0VuQ0NVMi05ZEpkeXluTlFUSlFGLWc0Y0M3Rnc1LW1pY0xaVE9xN1pOaUJ0R0F3NTFLUXZSejYtNXlQeFNqSy1TZ1FjX0lwQXEyS3k2dXBENmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "AU",
+   "date": "2026-11-19T20:19:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -38,14 +92,14 @@
    "topic": "Society"
   },
   {
-   "id": "e1efb91820",
-   "title": "Star’s shock cancer news: ‘Never imagined’",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQb3RLUHRGcm04ek00V1NIT3liNEg1T3EwQm1sNGE4NkNneUFxMVRyV3lwaUlYS0FRbWNPaHR3R0FFa0ZPWC1zeGs2aXEwSGZWNl9TNFpaTXMtSnJleGg0YnAwLVUxbmgwTERFeTJlbHpVNG5Ed2E4R3c5ZHJjTjZIaGJBNjZYNlpJTVp1RHQ0SUdKWlhwTzJZYXp6bmNReG0zWmFXQ1ROc1drd0ZoTWFoaGlJa3VLTk1tS3lSNmFmVEFTdTUtUjRvR1V5X2VVRE5TalRLSng1OUhqeFhnSEtvelpYbTdQU25mbi1aUlRmWnJJMFNITGFGaVVtWVZSU1B4cmtwZjlJWC1vNU1yQmVNMm1nWHRGa3d3WWc?oc=5",
+   "id": "b770f0b9f8",
+   "title": "Markets live: Anthropic's record-breaking listing hits Nasdaq, ASX set to drop",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjVkZFNZNlAxMTFmMTF6MW5KOGNkM2JTUTJ5bWNoOUlJSlpjc01zX2lzSHNrOUJRM0ZzejJQRmxMa0J2UHU3VWdDZEhRcWRzR2huTnl4dkpzdmltSndWU1FPVnA3b2pFcGh5ZW55TVRsVTV4MjVhTzg5TVlfaFBmb0ZTWVJRbWktTXRFLTJSUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "News.com.au",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-19T19:29:27+00:00",
+   "date": "2026-11-19T20:16:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -62,7 +116,61 @@
    "image": "",
    "source": "The Guardian",
    "region": "AU",
-   "date": "2026-11-19T19:21:00+00:00",
+   "date": "2026-11-19T20:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ee132af7f6",
+   "title": "Can’t fall asleep without the TV on? Experts explain what it’s doing to your sleep quality",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQWR1WlVuRjNUSURUMmRaQnE0ZTktb2RVNHhQSmZlVE5FVnNwb3lydlJ5dHBlaHQtN3BvQjh6MGJXckVxMWN4TTAybXhOTGJjSVNIdjFZX2tiUXVobXdSYUhsYkNaUTBDRHgyMHNpaDl1a2JyZGFrOVhKWmJ6ZFZyNWptd3YzUUhKdmlsdkxCX29yQXU0bGtXZWh3WmEwZENYZE5XcW5jMWFrZHBJX0pjbHpGM0pGaVFaXzVlZGp1amZLb0MxT200YTY0SS1Wc1IxR3JWdA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nine.com.au",
+   "region": "AU",
+   "date": "2026-11-19T20:11:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "39c6a5f297",
+   "title": "Australian businesses push for beef and rice access to China",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkc0cXB2U25mXzVxaWRvUXBYb1hUNEcyUngxbVMyTkhNbUhDQzFPMm5nUklKSmlRaXVqd1BRU1NabmNPdldkRnNnSVVZRW1IOGE2b21mc2JaMWhNYWYzVXFEamJNWjkxdEQ3WkJyRmtrc01GYUttdUdCSGZrX3k1OGtDMGM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-19T19:42:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺 🇨🇳",
+    "also": [
+     "China"
+    ]
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "e1efb91820",
+   "title": "Star’s shock cancer news: ‘Never imagined’",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQb3RLUHRGcm04ek00V1NIT3liNEg1T3EwQm1sNGE4NkNneUFxMVRyV3lwaUlYS0FRbWNPaHR3R0FFa0ZPWC1zeGs2aXEwSGZWNl9TNFpaTXMtSnJleGg0YnAwLVUxbmgwTERFeTJlbHpVNG5Ed2E4R3c5ZHJjTjZIaGJBNjZYNlpJTVp1RHQ0SUdKWlhwTzJZYXp6bmNReG0zWmFXQ1ROc1drd0ZoTWFoaGlJa3VLTk1tS3lSNmFmVEFTdTUtUjRvR1V5X2VVRE5TalRLSng1OUhqeFhnSEtvelpYbTdQU25mbi1aUlRmWnJJMFNITGFGaVVtWVZSU1B4cmtwZjlJWC1vNU1yQmVNMm1nWHRGa3d3WWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News.com.au",
+   "region": "AU",
+   "date": "2026-11-19T19:29:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -89,23 +197,6 @@
    "topic": "Society"
   },
   {
-   "id": "638aab0e86",
-   "title": "Anthropic soars past $3 trillion in stock market debut, eclipsing SpaceX",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWQwaEd1ZGR1VDZCTHRVdUxpQU5rM2tGRWxpWUU0RHk1dThhUTI4TGlOcGlrc1JVWDFLR3E1ZmRoeVlfeWRhTVBNSjhkSkxqeXBPMXVSdU5IanhOUXB6bDd5RW1GaXZ6a1RWTDFwSXV6MEVTQjkwZGh6dlJmSENmU0hnZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-19T19:16:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "6045b2d6ca",
    "title": "Jimmy Kimmel on Trump’s meeting with Xi and Putin: ‘I guess Darth Vader couldn’t make it’",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFdTamZvYnVXVlZESGVQaTF2S1RKbHJadl9Zam5ULW1SSC1zWDlZNTV0YkNieGdzTFRfMXVxV1lUYzdIbElEVDRPc1pKNWZWZS05VkU1Q3A1c2ltTGtFOTdibXJBZHVVNjJhOVdWdHRqZzN5amh4OXQ1dVY5SVNfMlg1ZVdHZk03Q3JUTVVZVkNOZmdzZmpEeA?oc=5",
@@ -126,23 +217,6 @@
    "topic": "Society"
   },
   {
-   "id": "150ee4c78c",
-   "title": "Two weather systems set to bring severe thunderstorms to large parts of the country",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3B2MVhEWGV5VGJCX092c3MzRUN6bTJrdkVKU3pZVkRlaC1xZXh6QXNTcmFwZFJCU05IblN5VmFMSzZ6bXZ5ZEpuY3BhN1hReng3ZjlOeU50eUFDMjcwMExuU2ZTT0pZNjlOcHl2anlFZXljRzBiWG04UFB4R3VPeTNnNlpsNXNQcHo1ejZ2UTZwMDFPdkdZTFFTNnpjbHpmYVd0Vm9Na1p0dTF6MlNfcWNvUUFsclFOYVdrcTBUR0JoNzNxNVlET2FzRjBZVW5sS1JHTHN5UnRyNDA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nine.com.au",
-   "region": "AU",
-   "date": "2026-11-19T19:08:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Weather"
-  },
-  {
    "id": "858be1ec68",
    "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmpVWW5id1JqY0YxTFJkblV4N1pxdHFjR1kzX1p2cngydzhVU2ltN0xmQms5VFRLeHR4YmlIRVRlbHZkZ0xQZUhLSnB0R1RoNWlFM2VKdlBCek5sV3g5enRERUl5YjRuNnNJLVVndktYQ2ZtaUVXSXhJRExHanVjYlZNSkQzZzR3Y1NVQ0RCdnhWc0Vldkx4TFJPbmxLQi1MZ05pdG9vVmhSY0hOeXNXRUJFenBHU21YTkZRMVFvS3YyZw?oc=5",
@@ -151,40 +225,6 @@
    "source": "The Guardian",
    "region": "AU",
    "date": "2026-11-19T19:08:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "416ba4ce67",
-   "title": "Haas’ return to Brisbane awaits as fresh blockbusters confirmed",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeFNMNVlsc2FvckYyeVN6MkZCR3BTTDRtU0xrTGFFbU9WUDVtazA1MnVOY3VLT2R0eXMtMm1qOVQ2R21HSjB3aWU2eHBnN212WHVQOXhaYzNTTGJBZndLdkp3WDhvcHY1M2FLcW8wNkJiM3NTM205ZFFOYm9tcDR4UG9MdVpDWURrT3NZemFmdDBKQjdpYkw1OW82eUYwSDFHUmZQeVlzZUEyWU43SExRV0p0SWE3SFVQbVhsZmhtTmtETERGcU4xVFdMUWJ0emFRdFl0Wll2bXY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nine.com.au",
-   "region": "AU",
-   "date": "2026-11-19T19:04:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4036bf36a3",
-   "title": "Coronial findings unpack how woman died from drinking too much water",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVzUyMWYzSFpvV1N6OGQwdkZ2X2tmMEdFZnNJNXNsNm4yUkhVZXNoeXZxQTBSWkxFVk5UdzhFa1c1NUY1WGxscHVmQTB2RFNZeTBEblhDSklqUEozM2FsS0lORmdROFN6SHJiZHBZbVlrWjZsa3R0Z0Y5bjhVQU9idDUtSXlGRkxWTlpoZ0Zoc3BtYVZGV1Q4eUNzYWI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-19T18:32:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -211,14 +251,31 @@
    "topic": "Society"
   },
   {
-   "id": "88262864f9",
-   "title": "Star’s secret baby joy on set",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZHNWd0xmMnJLdmpoN0FaZ2IzSUFjQWFlRkFqRHk3MXJWRzJCQy1hMUJ4eFBvaU1vSUtKemNmX2VvQjByQWN6VlhoOXRnRS1tRnVwbE91ajRYYnlPelFDOWhIMUI3UnduRXJMNXVybmdjYmpNcjlPT0s0QzFMTDVVZjg0d09fWmNlRF9MQm5WVFNVM3VtbDRKcWpfRHBDSGFHd2hXWXN1WGJVdXRIUHl6SGFfWGs2S0NWSHo0VDFndmx0aEROOWY3MUxYWlJGVk9YenFPOXZ4bUpoNkd0OUstSWF2c3l0QUVwMjZQeTlMNGpOa0xjNnpjbk5wSVI2MnhuT3ozbHJHRGw0WGZjVkE?oc=5",
+   "id": "e32f97ab5d",
+   "title": "The smiling assassin: How Warren Pickering wants to soften One Nation and smash their rivals",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVTg1MklPNGYwR3M3MC1jT3RNdDlsYlZjenNFRlM0THd1bVRXR09vM2swRkZLNldKVmVjd2VqVG8zSWZEd1BqbHR1SmJKYXB3VURtamljbndkdWNFOFRVOVFnLVFuTnpEdnRyWlZPRjl5SlRSdzNENzFsTXZ5RVlOSVM1SnRYTkJqcWRCZzlZbUFLZFVRanhqS0VpeC1ZbnM1b1Vwal95ZnczV1JNTGRrVEpHbk5rWGQ0UjdwSmtLWTdxWGpjcjA1c195Vms0VE5sd2w3d1VlX1hPT0lfQlFZSVQ4c0tyU2E5eWxaUg?oc=5",
    "summary": "",
    "image": "",
-   "source": "News.com.au",
+   "source": "The Age",
    "region": "AU",
-   "date": "2026-11-19T18:19:15+00:00",
+   "date": "2026-11-19T18:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dafba1b320",
+   "title": "‘Angry, betrayed and alone’: Who knew what in the Sandpapergate",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQclJ1QU9fR3BoVnF1c1RrSWJpckR5UHpEQkx1LXRLTHJOcG9mQXZHaEpoUkIweWJLaGZ2VFhnV2t1ZWdsbDcxb0RCZjNMVjFlbjlTRVlWSFYyTGFMdThwRER4dFFEcVp3VkJmNml6blhWNFRfYlcxelg4MFB6YWJOS1lrUUlHSGMzQ2s5NU1BU2w4bzV4VjdIN3FSZ2ZNSGpmS3JzZThWbG8wMk92QlBNUEtTaG1wOTMyTWF2blpjTG9qREk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Age",
+   "region": "AU",
+   "date": "2026-11-19T18:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -245,26 +302,6 @@
    "topic": "Society"
   },
   {
-   "id": "60e4456cfc",
-   "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZGlZUHdsZmNvajljaWYzS29FWHA5Q2ZtYVFEY3dEM1RYcjZXZEJ1OF90NW5YVU1teVlncWtzVzFNamFyN2hNc1hQUVJJSWdhLTUwSTdjYXNJMGdWYlc1TVBCN0tHX3gtTHg3OXM3czRCTWF2MFJZalRNTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-19T17:12:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇳",
-    "also": [
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "6e0e47c38f",
    "title": "Construction crisis forces Queensland developers to build smaller townhouses",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVAtcGhRSnN5WWJ0UGk0eVlnSDNuNFF6cVd5RUxEcTZVTzRoWlRkbDVkX2JpRTJkdEplRFBNNWFidk9FRzZlaXp5OFVuSkl2VnVTTGhkVVpNd0FpbHNweW4wa1FqSjlxSUVlZFhtYWp1a1VLRmZETWhrNklhY2JhSWsyeE1TbHBIZWd6dW9oX0oxMHJmWXo0X05hQVZpVjQxaTRnNXdDWDU2X2dZb0s2YWtR?oc=5",
@@ -278,23 +315,6 @@
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6219bc0c0c",
-   "title": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkZPZ1NQdzRHNmY2QW9yNHduLUNyNWM4bUJLZ2tuZWxlZWlGZDhTUGNQS0lHX08xS3doNjRlNGlZaUgzeGdUQTZseVpfYmtuaWh2UEptRGlKX0hwc2FYWVVmY3hmZXJRVGZxZnpva0VOS3Z0VXlTNjVuUXQ3eGdMZHllTWg2TjBVSGVfMDl3U1JOS1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-19T16:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -319,19 +339,19 @@
    "topic": "Society"
   },
   {
-   "id": "08a691282a",
-   "title": "Politicians join the GTA 6 phenomenon: memes, humor, and candidates turned into NPCs",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZE1pYTZta3pDMG41S1ZjTkN2T1VIZWh3ck8xeWlZTFZ2TnBjeW05cjFCdXluTmdXOW0xaklxZVZONnVlX1FScVRqOGdYaGJtQ0JhYzU2MlhJSFZaZUYxVmJoU2NfNklIOWJ5bllmYy0xS05KTEVIM1ZHOVFhOUYyU0lnT1VwMXlRaGlnVnBrN0N5SFRjbml6Qklmbk1xZDhFcjJZbU5xOUxhUHI3X3ZyWmYxQjhsNUpyVk9ETU05NnpxR1ZJTFlMdDM2cFUwY3Iyd1pFR09Gcw?oc=5",
+   "id": "3237756c2a",
+   "title": "US hits Comanchero outlaw motorcycle gang with sweeping sanctions",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT2s4UW9wOUlOYVhwX1lzM092TWZrLXg2RTk4R0Jiek15UlV2RmxSX1dnMHh3c0kwRGM3VDJsNzZ2Wi1zbUlReGJwaFJ4bW1pQVFkT3h4Z1J3a2pNWXlnMzg1QmFmS1dSemRSSmQ0dFhKbThhd01KRzdRdzFHelNFNjh0Uy1Tc0tXZ1BsaUhxUnFnT1lkZ0NteXJpNzI1T0JlLTNBTUsyLXVmeTE3aUgzdTYwWGZpbWhwY3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "El Constitucional",
+   "source": "SMH.com.au",
    "region": "AU",
-   "date": "2026-11-19T15:57:35+00:00",
+   "date": "2026-11-19T15:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Australia",
+    "country": "United States",
     "place": "",
-    "flag": "🇦🇺"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -353,42 +373,8 @@
    "topic": "Politics"
   },
   {
-   "id": "8945c2b2ea",
-   "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRDNMLUN5M3NYNnRvR0k0cVY2WGpVQWtuZm43NmlSU0tVYkxTLTU5QlVRSzJGYk1WWm1ZbHlvelh0UjZyZkZ2RUZTYkFaTFYyY0NrMmtYMnRiYjh4TlNKSV80Q3hhR2Q5LW5udkMyUDFfNHoxYzdTWlFnZFdiQTZ1eFhaYWVLU1ZFTkRfUWxDdTdGM3hySXhHUWZDNVVDdWZQRW1NMGJIa0Q3YURDU2JYWUVPaTk0NzNjdHhtZUx1ZTIxQlkzZXgyYWpUUFJ4OGEydUZr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-19T14:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "38b3bfc2d9",
-   "title": "'There was no indication': Murray left stunned as Swans pull off draft-night raid",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPelY4M1RycF9vWUJScVpoVDBaSnRpNTZGRFlKajg2QU1ycS1Za0JNcWNSdFpDLTh2QzI2ZU42NnBOSVlNcTBVTzE0UWVVRDg1cWFTSWxqRlpaWWF3QXcyOXROQS0ydU9tSUJzU2lOUUVfd0lVd0VzYjhMQXFSSW9rNkNwbS1ZOTBSUkY1ZDEtMHkxN0R0ZVc1TTVlWXk1dXRqVV9kX0Y4QjBHbktLaWlPd01ZN1MwaE1pdkctbm9WclhGcmFRamVpYTN5Z1FUT2xobm5zOG1ONGMyOHo4dHMwYmZmbjBqZ1doU0pDNkRKSk4xM1dWeFFRNGZ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "afl.com.au",
-   "region": "AU",
-   "date": "2026-11-19T12:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "17ec5e9ac9",
-   "title": "Myanmar committed genocide against Rohingyas, UN court says",
+   "title": "Unprecedented verdict as UN court finds Myanmar committed genocide",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFcwM1JIeXBxNTVlNm83UDJtWXFaYUVNUW1mOEY5QjJNTnVPXzlIWkV1UkhVaTlTcFlRdFV1ZTdUREk2OEZqNjB1M3BsOUdsS1BFNnFSamh1aC1falVXSjdKRjlERl9fbTFOcGFWbFg2REhOVktFYzk5bjhPOHRLVE1pdUtQM3gyc0pxOFpqLWpQOU5iaTFzYkxn?oc=5",
    "summary": "",
    "image": "",
@@ -404,14 +390,14 @@
    "topic": "Politics"
   },
   {
-   "id": "1e215a8116",
-   "title": "Port Adelaide land Dougie Cochrane at No. 1 in 2026 AFL draft",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWNFbnBNcTZLaTBnM2VSY1hwZDJDemNzMk94cGRScmhVbl9ISlNhYXNFUFFCb3haNTF3ZXNhZ0VuQ0NVMi05ZEpkeXluTlFUSlFGLWc0Y0M3Rnc1LW1pY0xaVE9xN1pOaUJ0R0F3NTFLUXZSejYtNXlQeFNqSy1TZ1FjX0lwQXEyS3k2dXBENmc?oc=5",
+   "id": "86a2580a93",
+   "title": "Lions miss out on gun Academy player as 'Bidney' strikes again",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZldaUTItVlN3Y0tMa2tGc0JVUDlVUkVMaWxHTTluRWRndHgyWVpjY2phdkNTWmp3QTNtTjlpNXVlQnRxWXhoOEkwTGN4MFJ4bGFNQllhYjF2TFlWTjJNU3pzUXI0RXAydkJoanMyUVV3SWx1dk5zTktnaVhucVNrcWZMREdwczdOeDFaeGF1cGcyVHpTbzZTQ0dFYkIzLUM3bFJXbVJBSmh1Qlg1VjVFRHVWN0NZOXd0SHV4SzdYNEF5WGpDMlRTM1BrN3M4ODVtYXZQcEJHN1Qtb3pZd19zWjRTc1NFN0JvR2V0UFROTU1SdXo5NzB2RGIxUzh1OHl0eWdjVFh3?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN",
+   "source": "afl.com.au",
    "region": "AU",
-   "date": "2026-11-19T11:22:48+00:00",
+   "date": "2026-11-19T11:26:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -438,46 +424,12 @@
    "topic": "Sports"
   },
   {
-   "id": "34af7f662a",
-   "title": "Three charged after homes raided over fatal drive-by shooting",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlJhM0t3dFprM21HSzR6MkhkVlQ3dmR2eXJaczhSSGtrNkZXajVaSmZlU0VjTktCNHBaeVhMV2dpQjJTeXNjOGpZNmpmcXk1OW5zRXBLdlJrNzI2U3VUX01GZ2VwLUxSVFkwbTdaZ3hicVdrMWQ2UEQwUEFMSldWdlp2a0J4NFhPc1hLbTI5NjVHVHdxay1GY2MxT0QwX0gwWFdmVzN1SVJZUHhYN3FCWmJ2b1Z4ZkdrS01LR2lGQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Brisbane Times",
-   "region": "AU",
-   "date": "2026-11-19T10:04:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "fc28348b04",
-   "title": "Samsung’s over-ear Studio headphones leak in One UI beta.",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3NxeUpRTEhueTVZN2NZUG1fbEtocHAtRkViYnl0N0lRM0RkYWNha2VhdWdaWHRyNkNyMUxKb2JVc2xIVVBXM3dzcU1uLTZsX3drQ2ZLZ1JPV3hpRjNQNUZiTGxFVW1OSE1RXzFSUWY2Qk96UEdDLXZWRGVtbjFONFdYNW1aa25ueEZJQUw1ejRPVE1ocUlMMzFYWVI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Verge",
-   "region": "AU",
-   "date": "2026-11-19T09:32:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4d8051389c",
+   "id": "d65ef79d30",
    "title": "‘End your war, end it now’: Albanese gives Putin a serve at APEC",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2Yya1BEaEU0ZTVjVVRNRmdXZENXb1RVWm1PMWpVSU8ydGNmbW1VS2lnT2lSSS13RVQyM0NLVjZ6cDdYeU1PM3luNl94X21MbUI3OC1ETWFEM1JaRGtFVHFIQ24xRkNjbVlWUGdvd0pyZnpZQU9NVVNTeU5DRC15dWNOcHlZOVN1bUdyNXBFd2hQUjJ0UkVhUjNnRklQUGtLQmFPNWRJUzZDWlNuTlA0Wnk2WXptTVZuV3c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYmNhb2hXNDJiWGJ5TmQzckxQTEcwdW84QW9WOXBJSlVsbmlfck94UWF5WnU3STJBODRETzFLaVFNdTdCNWxmTTg0VmNuQm5XeElQVTBhdlZZVHZ3QnljcGFvVElrd2t1dDVOWTZZbm1VVmJtRXd3MTFFazQySnkzbUhoVnpqWGxPcFpZcGhhWGVEX2I4SHExem0tbmo2T29TZDFVZ1BGYnE3Z0xFb2VUdUhXWWo3Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Age",
+   "source": "SMH.com.au",
    "region": "AU",
    "date": "2026-11-19T08:36:28+00:00",
    "coverage": 1,
@@ -485,6 +437,23 @@
     "country": "Russia",
     "place": "",
     "flag": "🇷🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5f67b7d102",
+   "title": "'GTA 6' earns universal acclaim – but 60fps will have to wait",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xZGtiVm1QUXRILU9jN0lybUNVSHBld1JWSGh4eDlPYkZ6RHNhNXVUbVgtSXd5UmRXSkJyVnJBcldrZ2tWb2ZDTTB5Vzljd09xWnhUbElDR0Zya1BKZ2s0QTRDUHNieEhkRG8zNmlDdkhidUduSERNYzdR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "FlatpanelsHD",
+   "region": "AU",
+   "date": "2026-11-19T08:34:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
    },
    "topic": "Society"
   },
@@ -523,23 +492,6 @@
    "topic": "Politics"
   },
   {
-   "id": "1f67f9332d",
-   "title": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOckFlYy0zcjFpZ2d2b0VyZ3JXaXZEVWRHRGdZdmllTlBnUUhPV2xITWhkTlU0VFZKR1R5OElaNC1rWFFYZEVHU2R3Z011UU1WTFF2RmVyMjZlUFNRYzR6MXBJNzVHaTJ1Z1gzcWptLTdhc3lFdVRhZ3dYckxsSEktemgzUFlIMWY4ckxvUkx1TzFwdDFiVlNoNmNLYU9vMS1HbjBZQVlXdUlpUVZyWGJkdE51VFc5OXAxODdpTVB2S2tXeldmYXIzNHFxaWVUVnpvbVRkUXotQUkyYlJyVlVWdHJ4cnpQenBUQzVHcVZBc19iUnNDaFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-19T06:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "164aecd519",
    "title": "BHP, Rio enter bear market as AI jitters spook copper bulls",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWVwa3BmejlIVG92R2ZCVmhzRE9YSnJLSVEwY19DT29ja1h4NnhxbU0tRllYNEd6UjZCN2pPTV9zajZfcTBfOWhSdy1xUkZ4cHJ6Y195ZlhDQzlnUWhSOTJSQzhJQUtqQ0thMnRjNVR4X2pzZHY2bmh2SEE2Nzl2LVpQMFV0bURjMVR6NDNYVnpFd2o1YUUybktxYVlPNGZySnpWTTVCMnBXczkwNVhEbVZVZl8?oc=5",
@@ -574,6 +526,40 @@
    "topic": "Society"
   },
   {
+   "id": "b598908e84",
+   "title": "Hippo who ate hat under round-the-clock medical watch at US zoo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXVfV1FwbEVUZGtXN01iMTgzSnVMV3F3MkVnTU5SZExmTnYxeXlsZVdPaUFPMlNkcE9Bek1iUmE5MnIxTkEtclZiYlJOcTRYcVlCSmYwYnFWVnk2VXg1UlplNnRjLWhCR3Y3aUcweXZFRkRjTWpkWGlfS3B0d0ZRX0YzVXFzdkdUVTQ1WGt1UlpfUnVVU05nQjlrVVhsMG5ySHl5YVFaZHVfelRGLWFqcEZwYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-19T03:10:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3403bc8215",
+   "title": "When’s a new organ not really new? Two anatomists explain",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXllaUxid2ptTE5BcGVQbWNabGhRZmZpb1B0ZklTQjNRRzlBbVJsWTlWS3d4aUNyclAwZWdrZnQydkphT1MyaWRGR0VIXzJlUG8ySlBsYU5QMmJSTjZWMk5pNHdXWWMxZXlGQ21oNzJ0dWhYeXRvTUo5bHlZSEd2bjZ4SUp2MU9UWDI3R1V4c3MzWnVN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Conversation",
+   "region": "AU",
+   "date": "2026-11-19T01:53:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "247084f68b",
    "title": "Shock as unemployment jumps to new high",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSzNER0l1Uks5eUZGcHdqbDdNckhtejM0QmhCd0xUdnJhTWFqdDFQWmw3MkhUOEhtdVprTnpGYXZBcm0xck5rRnJEWkZxenN0a0NwTWd0MUVIVHhCcW8weDhJVkFJQ0RpdDJLT0I1SXRTSmx6SFgxdjZITFRBSFFIYk1GRTRFU1dSM1l5NWNMWjk1eEJsQndiMDZ4dDQwaVppMWZlcllmYWFqTkVlMHQ3R3ZfaU9vWkVuU080NFhMdGYxZktsTXRzMmsxdWN2TnEteXZZWVhsVUI0dWJqM2pWRkdxNFBnakNvNm1ka2FlYTJJTkhJT1o1ZThRR0dSdw?oc=5",
@@ -582,6 +568,23 @@
    "source": "Adelaide Now",
    "region": "AU",
    "date": "2026-11-19T01:35:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "34af7f662a",
+   "title": "Five charged after homes raided over fatal drive-by shooting",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlJhM0t3dFprM21HSzR6MkhkVlQ3dmR2eXJaczhSSGtrNkZXajVaSmZlU0VjTktCNHBaeVhMV2dpQjJTeXNjOGpZNmpmcXk1OW5zRXBLdlJrNzI2U3VUX01GZ2VwLUxSVFkwbTdaZ3hicVdrMWQ2UEQwUEFMSldWdlp2a0J4NFhPc1hLbTI5NjVHVHdxay1GY2MxT0QwX0gwWFdmVzN1SVJZUHhYN3FCWmJ2b1Z4ZkdrS01LR2lGQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Brisbane Times",
+   "region": "AU",
+   "date": "2026-11-19T01:14:52+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -608,14 +611,14 @@
    "topic": "Society"
   },
   {
-   "id": "69e0b3e825",
-   "title": "‘$8 a day’: New weight loss pills hit shelves",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUE9GZ0VTOVpnZ0hENEs3TlhjQjlPbi1HcXUxQWUyc1dyRTlPSDhXVDUzTmdiTzRYQkg3YjNYVmtQZnloOEZFX1BKWGw4SzVYOUV4bXdPQ1dNUzducGNLQjRUeGcyM2Y0NVJWR052Ync1aHN2bkFMOTAySkV6NFQ0RTI0OFRsREdiXy1FNGg3Y0w1TG5yN1JYcjU3WkZkSWdZQmFQb0FFSTB4Y2lWeVg0QUw1bVRzdUJNZGY3cFAtM0plS2tZVzBoMGhfTjN6MmpJQ3d5SmQzNEtGbVZIWm5v?oc=5",
+   "id": "a68d04f2c9",
+   "title": "Scientists Identify Nerve-Fibroblast Crosstalk as Lung Fibrosis Target",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW1nN0dDQXhjQXVIcDhWakktZ3JDOGdGcTgzVHhHYmZrYXZPbzA5UzRHRU9Ecm9qclBWY1FVdkdrQ2lzVGtSSktacklCRTJBb01FdGhMLWIzcmpIS1RTUGM2X1BwOWpEWGdvd2N1bnFRVjBoNVJEOHp6clI5Q091X0NObW1uMWJYR1E?oc=5",
    "summary": "",
    "image": "",
-   "source": "NT News",
+   "source": "Mirage News",
    "region": "AU",
-   "date": "2026-11-19T00:10:01+00:00",
+   "date": "2026-11-18T19:32:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -625,14 +628,14 @@
    "topic": "Society"
   },
   {
-   "id": "f0120b7ce9",
-   "title": "Crash: Cummins will be lucky to survive this debacle",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWkZNQkJTakQxMVUydHhGTWo0bzgwcS1WekoyRWdVWS1sT2owMHVZbFhyTmZSMHJYNDR5amJ1QnFITUZRZkNORTlmc3VRNFBNSmI2a2Q1azA4NU9PVWN2RWVkVTVpVTExMUI3ZjZJWXdTMjRhTTR0V1kyRVgwaVJUMm44T2Zta1dFYmx2cE1HQmw1VkwzN2VXdkFlVXpCb1RYTlhRVmhMZmFSWGUzNVdHZlprTTZWVk1qaUtHNFdhM0JLQThqU1RHRzFIZkFjTUszb3hVWVpqZ1BkMm4tM0o2bEtJYlZnaTNLYUo4dkxYWVBNc3RnRzlENms3NWctVDlta2h3?oc=5",
+   "id": "da4390df9a",
+   "title": "ASUS Announces Availability of ProArt GR1X",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUZ5anhzSlZOX1V5cVJhME9kS3dpZTJodjRrbnAxU0MxWUpET0IxdGV6Nk12ZS10Rnl3T0xpZE11NWV6MEhwNHg3dk1OWndUU09PQU1kU3pUbGszUEVwZlE1d1JtTk44OTFmS2dsckh5Q1F3T0owWm9lU2pRR3ota19hUWJiVWtIYngyOHcybUpwdXl6NVNYcGE3a21WX3Q4Tmp0WVJGSQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Courier Mail",
+   "source": "Morningstar",
    "region": "AU",
-   "date": "2026-11-18T13:50:33+00:00",
+   "date": "2026-11-18T14:03:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
