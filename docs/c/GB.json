@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:46:11.539744+00:00",
+ "updated": "2026-11-19T20:47:58.830235+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
@@ -11,7 +11,7 @@
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-19T19:34:50+00:00",
+   "date": "2026-11-19T20:35:26+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -28,7 +28,7 @@
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-19T19:28:00+00:00",
+   "date": "2026-11-19T20:16:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -36,6 +36,26 @@
     "flag": "🇬🇧"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "48d987de05",
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rcVZ6bjQ3ejgwTDhFWDJDVkFaRlpDcm0tYmdVajl6cG1oZDJoU05Xc3c2dEwwbGZBajM4Q1NMNi1WVEZnSGFyckdxbkFVRXkzMDJaUGNkRHNDWnVZbGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-19T19:16:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "f4267122ec",
@@ -55,41 +75,89 @@
    "topic": "Society"
   },
   {
-   "id": "414de2d80e",
-   "title": "Trump says US will 'see what happens' in conflict with Iran after January 1",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
+   "id": "792467ec49",
+   "title": "Arsenal v OL Lyonnes: Women’s Champions League – live",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3ZPdmlsU0stNnpPTVZvOHUxakVRTzlYaTQtcldLN1FnNEJnZnRLNWEweVp1S3I1X01hNlBkQnpRX1E3YWpPblQzTFpNYXREMXFuRTdBMnNHVGZGb2tnRlZQMWc4eWNMczF6dzRTNmxLeHJJUWgyN2RBQjBDa29TT0lsZVpXbDVsQ05HNFQtTnhZM3NRVmg2bk43TWdhcE9qbF9peVJB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-19T18:37:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇮🇷",
-    "also": [
-     "Iran"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "119aabf49c",
-   "title": "Poundland owner refuses to pay tax bills as collapse looms",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVpLQVJyUXpwTm9OaFhoMmFpZDNkeU8xNDd3N0VlSGhaYTZIcVpKUjNpTmtERkhHeEMwdHVUS3JIa0t1UlZuZVpweXZ6amZLNTJfZ1Nsa2FMWlVKdGJwMm1iWWZfWkNuQ29iY043dEVMMGVIQ25HY2FFQTNCQkNuUWc5RE5OZHBXeXE2Z2R0UTNQVTJqYm1BczExTEZITkVLckY3SmtjamlxMWM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-19T17:32:00+00:00",
+   "date": "2026-11-19T18:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Economy"
+   "topic": "Society"
+  },
+  {
+   "id": "3d25ebddd5",
+   "title": "Burnham’s EU reset hit by last-minute tensions with France",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkU3ZWxGVG02Q1h0QllYNWN0cTRxdWtFb1oxNk1Gc0tsVW9tTV9NVkpyVWZuVXdNVHBLUGRtb2NDX0lDaVpLTlphNnlHSlYzRkJKVEF4dTNMNFE2bFR3clBFUW85OEdxci1QV2ZOWmxFOHFaazRPdDJ0VG8tNGZNcktaSFM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-19T18:33:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "29419a30a1",
+   "title": "Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFd3TjFCVU0teGhOdW11Tkt1X29NLW02YVppdS1temQ1R1hENlA2Yjk0VmtlYXVZWVBEVEJWV2JzTjdyYTB3VVJHQ3VuOFl6WlA4dDQ2VWluT2NVOWxCWkhCakFCVXJkajJfQkNPZjZicHZnNmlMOFUtWjFVZkFrWC1HQWo0b3Z6aVNJYjY5a3JJUWdOVlVjUHJTREsycHZ2YjJ2NUtObG5ieVp2OGlRMHNUVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-19T18:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "614084f000",
+   "title": "Timetable set out for dismantling leasehold system in England and Wales",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtcHkxN2JCWE1GbEktNjFsOUsxTm01WjdmOF8wZFlmbFJwbmhGZGx4OEJkbFIwWWNvdTBwZTZhSGZaYWFnSlhWOEtfN2JYY3QtYTdjYVpIc1M3RFk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-19T17:49:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "aa9a821d28",
+   "title": "UK’s long-delayed pensions dashboard now due to launch next year",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDVvbDBrNVd2aU9vRjFZR3EwZW1jazlQYXpRZ01hVTBfLUFJUnkxNktLUzhudlFoNWMtaVJxZlhoNzlKZ2VoeUhkUmZTSmxBeTJfLTJERms0dG5xT0dYRHRtSFhxTlQ4cGRrcU5PQVB6TnZ2SFRPRmN5MXZvRkl4ZFdwTlo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-19T17:14:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "c3b8944160",
@@ -164,60 +232,6 @@
    "topic": "Society"
   },
   {
-   "id": "a1ae393b6b",
-   "title": "Apec summit: Trump, Xi and Putin make ‘peace declaration’ but talks end without clear breakthrough – as it happened",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzg5dVZmSGduNHR0ZWNLSXFLcGdmenJKNk44TW9iNm5oMmYxbk03Mi13OXpNdXFaSXpVOVRwRWRYSVhYRUp1VGk2QU5aUFdqMXNtZjBiSVpaY0tINGZCQ0Z3ZkI0V1RSVktucm5lYUE0eU53NjdqeF9kZ1Q4OXV5VjdTQ0ZLak9pQ3BnWWxyMTdsUVNKOUFVcG5ZM2oycERINGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-19T16:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "16b1a818c5",
-   "title": "How Joanne Young was drugged by husband and raped by strangers over 13 years",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03TnpWWjNHMnZseU50MlpZcXNGQUVyUndXZS1tMUc5ZkhKbWlIaUV5ajRYSW1wdzJoZnZfTEhWNUFrTVpaalBsX1FyUl8zZ2lzSGhSV1Q3X05ETXdhTkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-19T16:08:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c157a4f059",
-   "title": "UK government forced to disclose secret Apple backdoor order",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXZDMGV3RHNRVXg5Ql96bXI0NE1RWkI5NlZKanJPZzRLdFlHcDhpcVYyS3BCWUkwS0Z6bWJJYnA5WlN4Z0h6aE5DaUoyZEFqMTFWS3FxNlJZdEk5ay12RmhfQncybjlPYUEtZWhGbEZaSXk4a2hiMzdQLUMzMkYxYTU4dlhUQldxWmpUYUU2VW4wUFMxMXRDd0U0OVY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TechCrunch",
-   "region": "GB",
-   "date": "2026-11-19T15:32:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "771683fdab",
    "title": "Raise the Colours founder says Birmingham flag injunction case 'spiralling out of control'",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mMEtSTXBVRERjdXhMcEpOQl80ZjE3YXRyZ1I4OUx5aGlfRml2bFAxbGU4LTYxNW5MMGJpckExWFlZS2tyT3Bnay1NUVlickZ2LXREUmVFRnFZRkwxNkE?oc=5",
@@ -233,6 +247,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "931bc8174b",
+   "title": "Poundland bosses warn of funding squeeze in fresh talks with minister",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQampsTE1xYTVLS3gxX1pMVmdKX0hid3NKZTJlZE9UV09fcU9vQjU1WUcyTkhPSlVERXhJR2RVM1ltSXVzX0thTXozaDNMWGFWaDNEcVFTM3hLdTZqYzRJcjNoQkxPWkVFREN5QWRpQjhYUVlTZzNsRllPbVE0bElLcFhicjZZOEV4X3NoX0hYYWM4dFVwSnlVLXRiUkZFTFJFekpOZTdyaU8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-19T14:59:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Politics"
   },
   {
    "id": "ebe31f39a9",
@@ -255,39 +286,19 @@
    "topic": "Society"
   },
   {
-   "id": "fdd27135a7",
-   "title": "England vs New Zealand: George Furbank and Ollie Chessum back",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvNkRvaHFIMlcxeVBRaGs1MFZiUlRPQk9LejBCR3hMelFxQThiTk9wYlh1V1R1dUFpTHQwbUljUld2WklPYTJBRGtia3U4T0ExblVhZWxwNzc4RVlSeEhjWGVkWkNTM2VhSjlORVRfZw?oc=5",
+   "id": "47448a7bd4",
+   "title": "Steve Borthwick sticks with team that routed Australia against All Blacks",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3ZYNkJ2RHZMdUlnRGNTdTRnUldZa2o4ci1iZEswRnpqRFc2UGpYVERqYmFjeXZ2VFlGVXN6M3dsdFB2QWJLRGI4OHJfWjV6UXZUUjMtQk5Sc3FiZ1IzblFlNUJHRHdqU3JkRS1XY3B6TmtweHdNaHlGWlBBcW52ZnhnOF9sX3JBQTBDNlpmbXNxV29BNm42elZaWU9CUUM0ZXNwMjh4YkVwaTlUeC1rbA?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Times",
    "region": "GB",
-   "date": "2026-11-19T14:18:36+00:00",
+   "date": "2026-11-19T14:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Australia",
     "place": "",
-    "flag": "🇬🇧 🇳🇿",
-    "also": [
-     "New Zealand"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9e05ccaa80",
-   "title": "EU-UK talks going down to the wire, says No 10",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fQklEWlBFemJldXpBSENsZXJLQnBkSUNkdEN0aDlvU3kzSW9vNjdUQ1NqQ1ZHMDd6SDJXaHhDV1pxX1BrQldwY2JRNlVmNzdKZWdMTEt0elNJSFdSU1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-19T14:17:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇦🇺"
    },
    "topic": "Society"
   },
@@ -309,23 +320,6 @@
    "topic": "Politics"
   },
   {
-   "id": "93336ce304",
-   "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaE94MVJ5ajRseWszbXpqZ0ZkaXMxTmdZckw2Nk9ONl9PRFY4NWpGMTdaUG1VUzFWcE9JUDlCRVl4c0tDR1puOE51UWgwemxZdXE4anJvR1liRW03Tkg2YkYwbEFZSzZWcXhpazREMTZ1NzEtVFFYV3VHZGhVakFZakd4aVNhZ3ZDdDVieDdueGJ5aDcwWF9BcVJIRnBUZ3RaNnVCSVNmakJDdFV5Y2lwRVNTRU9JQzJTZl81dVczd3E0Q2NOQ0hB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-19T13:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Sports"
-  },
-  {
    "id": "d4d4c39534",
    "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zZEtCZ0cxd0lTcjcyUTJLOHFDeGZnSEk5Ql9WM1pkaW9UTkd6NHp1N3k2clpNTXp2eUFMSVBjTnY4UHk0d2MyX1J5c3hoal9KaUZSV2NkZ1FFMHAtZ2VmOHF6NGZfNTRt?oc=5",
@@ -343,22 +337,19 @@
    "topic": "Society"
   },
   {
-   "id": "3080556834",
-   "title": "France and UK at loggerheads over food rules ahead of key EU summit",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVE3TWt4TUtlY1o4b3FpSUZrdDdyeGFiVjFMLTd0Z3FfMGZieWo0NU02WHRidlhCY1h5ZXNETldmVU9ScUI2alN2YS1tVW5fcVN4aWRkZWdnX0ZVRFNPMTVkQmxab3RhdGRlMG55dGpqcG9xOHpqUHdvczBLb0diNkVoakQ?oc=5",
+   "id": "022250ce98",
+   "title": "GTA VI will demand a powerful CPU to hit 60fps if it ever comes to PC",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qVFV2WldmUm91S0xkNkU4S0FrMS1QWUJhZkcwbUNVek1KMnFuZWdaY3RuclNPdkdNTEpEcVItcS12eHl3RlY0UG80OGdqYmtaWm03dlZhaGtNb09ycnc1NkV0cw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "Club386",
    "region": "GB",
-   "date": "2026-11-19T13:06:34+00:00",
+   "date": "2026-11-19T12:56:07+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇫🇷 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -414,14 +405,34 @@
    "topic": "Society"
   },
   {
-   "id": "33c0809f49",
-   "title": "James Cleverly announced as Tory candidate for London mayor",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ3daVFhnTlhZeXFrWGpDOUNyS3N6Q0ttdEFseG9GOUtjNnZSeE80clJpeXdkYWhCVGhYUHhXcVczR0tZZzVRSWc4cVI5alJZY2NQekM2aHNaQURQN0JPN0otaW1MNTU3akk5MEZVcUZSbVM3RHlPekVNalE3OE1RbWoxQ01tVWxPV2w0MnN0cjNSeFZJbGJJaE94VFZHWU5QaEo0?oc=5",
+   "id": "9823feaadf",
+   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtR3BncVhtNzVmeVl1NDhycUVjY1NBTmc3TlY3MkFKcDY0S0R1dUdjTDkyNS1IZUhVcXBSa05aWU5kcjRuVENaNU5CR2NMeGh1dE9pNDhqTkpKamNYMFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-19T10:02:00+00:00",
+   "date": "2026-11-19T12:07:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "830b470321",
+   "title": "Sir James Cleverly named as Tory candidate in mayor of London 2028 race",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CdjNaSTE0NXJiVmhmVzBMYUxKTms4MUludWE2dzQtWks4YTY5akY2Uks3WkU0ZnI4ejFFVENMbEREU0NxdVpWMEY4MmZwRFc0RzVTeHhHUld2Z2FJeUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-19T10:33:34+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -482,19 +493,23 @@
    "topic": "Entertainment"
   },
   {
-   "id": "24579295d5",
-   "title": "Crucial Crimea bridge attacked for third time in a week",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2p5U0JINUotODFjaHdnVkNFS0R1R1hjejZ5Y2ZwLTUwYlV5Qjcxb2dJMTVNNGdScUE5SGtqODlEbk5JZV9ZS3lKQUdoYklLQXZQdVU2LUtOcDA0WFA0YmxLU01mVFd5Um9ScHlDY19lYWZ1MHlJbENTRUNrRVRrM2NXZ3NnV2ZSTkZ0N2cxSHM2TGhkdm9nak9ub2hxYmc?oc=5",
+   "id": "68d66ace42",
+   "title": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOENUX1hEa09FRkEySGhZbmYtbDJrNE8zQmg5WWswbGpBTGhPZEF5YWxtU1laU1F0SFU4Y2Izd1NYcDhlaWF2cGNwMWZuYmh5bUVRdlFnNWI3alp0Y0tpYnJ4am5TcW1RVE9oNm82UXJhc3h6NE5ZcXd2RHhvV21wSGJNLW5rSlVuV3JWR2JsdG12Y00wak9NUG9ST1UyMHl6Z3RDZ3dsSEZHRDh6Q0MteWkxT0dWUGU1ZHRHYjNXM3dBT2Y3UlhUNzMzd0FmSFpDQkFZQg?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-19T02:51:00+00:00",
+   "date": "2026-11-19T02:59:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Ukraine",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇦 🇷🇺 🇳🇱",
+    "also": [
+     "Russia",
+     "Netherlands"
+    ]
    },
    "topic": "Society"
   },
@@ -533,23 +548,6 @@
    "topic": "Tech"
   },
   {
-   "id": "fd982c486b",
-   "title": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JSWxvajU1LUdPZlc1SU9zZUx6Q3hqalB3WlQteFV3SWhJZWpIQnFKOHRSWF9TM3NEQUtUc0sxc3dmaG1qUTBnQWJTRXFZLWU5akJMOGpkcGVCeUo4ZGdoWHBkdGRjSnRWWjFteVZHcXBCSzA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Eurogamer.net",
-   "region": "GB",
-   "date": "2026-11-18T18:17:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5dc407765c",
    "title": "Your brain may be hiding Alzheimer’s from you – and that’s not always a good thing",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE1Nb29pV1JXRXMwMjRXbjZBLUx6cVN2Vjk4Y3dleUJ3QmpGakVKeFdRTGhyTmYxUENzLVdkZUJJcU5YLVVvTHFGeTBGREZEbjQxTWtJVWs0dUJLeWFwU0VWdUdhOVRZMTlreVNIRzdGYkpVTnpPaFpEU2E2UWpPUDJyN1hLNXBqaHFpa2ZfT29KVVBqQXc1Q0N2aDFJTDhlbVlNNm02OUVyU3p6SXd5QnJtYw?oc=5",
@@ -567,14 +565,14 @@
    "topic": "Society"
   },
   {
-   "id": "568edcf819",
-   "title": "Nasa’s Voyager 1 probe, launched in 1977, reaches distance milestone of one light-day from Earth",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEktbnRNRWJEUmRibWY2aVFNUXJfMDdNT0FYUWFWMGoxOHF3ZHdDLVIxQk9BVTdxeUdfNUo4YzRlTnE2bEt2a1Z1dC11VU1jcGZrQmhNWTZUbkUyVnZwNVFJRkdOaXJ1VTRpNkJoOVFiYkdLWUJyUHFNRURWT1AtVTA1VTVVYUVDMUF3U3FTUWVYeGtVUm9UeUdCc3VYNUVXNXk2dmNfQVNlWU82MTNYSWpVVGItODg1aENPeHM5NkM3MHlySmtV?oc=5",
+   "id": "985d8237ab",
+   "title": "Space robot legend Voyager 1 is now more than 1 light-day away",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3Z0TEVPY0l6TG15S08zdXo4dGVTTFN5VXZ4bFhZR0JHUWN4LWJQcUw1YkVHR0dMaGdZNGdYdnNZanBxQkVHYzR0em5ad3FuQnVkekRQdXNaWGZIa2Q3UzNsbE1zUjRhdGZyVDdGcjZ5NkVLcjZQRU9GT0xiWF9CUnN1WnhwdUtLdXNBLS1Md1FhaTE1amJlaFR6SmE1aHNjZ1BBeWxTQU5DX0owYmlUcHNob25ya2da?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Conversation",
+   "source": "The Register",
    "region": "GB",
-   "date": "2026-11-18T11:16:21+00:00",
+   "date": "2026-11-18T14:57:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
