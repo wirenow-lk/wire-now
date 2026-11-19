@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:45:53.167452+00:00",
+ "updated": "2026-11-19T10:55:32.345437+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
@@ -11,7 +11,7 @@
    "image": "",
    "source": "BBC",
    "region": "PH",
-   "date": "2026-11-19T09:49:55+00:00",
+   "date": "2026-11-19T11:00:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -21,24 +21,59 @@
    "topic": "Society"
   },
   {
-   "id": "ea5d11bf26",
-   "title": "Live Updates: Trump, Xi and Putin Meet for Their First Summit",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MQWU3M21LcmgtNFU4MmVaaEw2cnIyUGJVclVsc2JIWGZhcFVFMXE0SmJqaG5MQnpWN3BRLWZuWmh6cTRudTl0Nzc1SlJ4WVdQamZlR0hFMlRtTy04SEhhVVVsREp2RktrY0ZwUDFkcmpnaXM?oc=5",
+   "id": "e17f0e0d50",
+   "title": "Putin says Russia, US, and China share 'joint responsibility' for global peace",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "BBC",
    "region": "PH",
-   "date": "2026-11-19T09:49:22+00:00",
+   "date": "2026-11-19T10:54:51+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Russia",
     "place": "",
-    "flag": "🇺🇸 🇷🇺",
+    "flag": "🇷🇺 🇺🇸 🇨🇳",
     "also": [
-     "Russia"
+     "United States",
+     "China"
     ]
    },
    "topic": "Society"
+  },
+  {
+   "id": "322c5ad3ef",
+   "title": "Marcos joins APEC leaders in talks on AI, regional growth",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWZZSGdPRzM1Y2daYjhaNG1oSEo3R3JSaWxuNDFCbUUtaEV0NHdIYUJwbkZjbFFKdFVGZmVKdU5KcVFlZUctQjJKYy1aNjBXZE9oRDM4NTF4NGg2YVV5bjlFbG50bC1yMXZxY1laMVd6NHYtTjQ1aXFyQWpjSGdCNW1Ba1l2czQ4T2txX1RWNDc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine News Agency",
+   "region": "PH",
+   "date": "2026-11-19T09:44:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "aed9fa3fb1",
+   "title": "Doctor advocates safe integration of traditional and modern health care",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOazgtRVNzVVE3Uk5YdzRjVXk3SUZPdjF1Z1BSYXkyY1dlaHRoQU5sQ0lkN0M2aHVib1h4N25zNTByNGI4LUhiYzJHVHg2RmMxNGM4Nk9FdEhhaVFxYjlZSEFyeEFnM0ZIWDlJUTFyVklPcGlBQVczWU9fLWd5eG0wV3Ric01ZYzgxZ2pTVXFpallBX1J0TnhNUVVFaFQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine Information Agency",
+   "region": "PH",
+   "date": "2026-11-19T08:52:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Health"
   },
   {
    "id": "7c0563ed8d",
@@ -58,54 +93,31 @@
    "topic": "Business"
   },
   {
-   "id": "b987fe5baf",
-   "title": "Was China’s choice of welcome song for Philippine leader sending a subtle message?",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGdIc2YxOHFoU2hSYWdKcVViMENoZlpyQ1kxdWNjdy1TWmcwVEhjNG9nbU1HN1RuZGZnNkt4ZDYzM0RiNkd0V3NacFpDZ2Q3T1hPa1RONnpvTWt4Tlp3VDFWR2YycDFmN0lQSERfYnRKXzJfcmZKMTA3YktqNk9DTFpEakNlandCbXpSZjJBTDZnd0FjVUtWVDVSWnF3RUVKeXJHMmMzV0ROTkY5SUd3N2VobU43YUZicFRFQnZfLVQtU05WdVRRLQ?oc=5",
+   "id": "d08eb26d29",
+   "title": "Obsbot’s New Tail Air 2 With 4K Imaging And Native IP Workflows",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTZuczZhR3VaT0V3TDh3NmFJUVJTelBmb29UVVVWeHNtU1VxVkpfZmVRRmQ5Um55QzBqeGNJWVVBX19YckJIZGpVSGxqRlFSNHhPVHgxak9WTFRHV24wYVhOTFloTTlzNUhiYi10RVMyejBnbkk2bE1FbENBVnBZOG1vSHJUdnNCLUFXU3NPZUo5QzhSZ09lY2JEcVJkeGRTTUJvc3liOU1IYzZTNEo2S0E2TFN2dw?oc=5",
    "summary": "",
    "image": "",
-   "source": "South China Morning Post",
+   "source": "Forbes",
    "region": "PH",
-   "date": "2026-11-19T08:12:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇵🇭",
-    "also": [
-     "Philippines"
-    ]
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "099a6e2893",
-   "title": "Philippines, Chile sign free trade agreement during APEC Meetings in Shenzhen",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjJzTFVobXU3eHJOQ1FDS01TVWw1WHR2TjdmRE01UXcwZnJUdGI4cmROQktmX3A1akRfV1NkbDk1WS1WT1VmSHYzN216SXNWZmp1YjROOGhxanZURFgyOUZKZHVRVGdjVGh0VGxia1VGRExScTlwRHA5T241dmJ3THZvSjRmZnJTeUdjaXhmZnpnZzZqOThwV0NRRlNaX01RN2VpNkpTUUxycnhqQnRPTFBLMVh1end3aW1PeGowSmdiZUkyY0JxQlln?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-19T08:02:36+00:00",
+   "date": "2026-11-19T08:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
     "place": "",
-    "flag": "🇵🇭 🇨🇱",
-    "also": [
-     "Chile"
-    ]
+    "flag": "🇵🇭"
    },
    "topic": "Society"
   },
   {
-   "id": "84b506e404",
-   "title": "Insta360 launches new pocket-sized color E Ink photo frame with 195-day battery life",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVzloamhuQTFIcnZPalhTT3dveEpub2hZS29ackNuWWlFdU5COTRjR1F1MndTbE1vdURyRzA4Z1M4TzhEWFZPY2ZlYjE5SjJ5LXVudXFiLXN4em1nYlJFLXNvZVZhSUJ0cGxqTF9WNjFNaWhENlFucmliRnEtZTdhWG5hamJYR3d6cmVMRWdNREhEMEFzUWZYTXZ6N3YtcFkyRnRaeUVvQlFjalFKZWpvTjNWZGJqcFNiaEplcW1pdEZvaUZhTExFag?oc=5",
+   "id": "dd3c1d9732",
+   "title": "Katseye adds 2nd Manila show to 'Wildworld' tour",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXdJeGhRUFhwMG1XbVNVbzZQQkt1MWEtR2k4cUhhRU9mYUR1eklJeUNQdFVKc3lZS205NHM2b1Nla1RtSEVCWDlLY2p1M2ZqMVdQRldHMFZsS1U3QlNRQWxOTk12UHFpT0VQUDFfU1RHcGhFQlN3WUNpckpEbXJsY3FDaU5aMjVQa2dPdEdNV1Q2QXEyVE5PNdIBnwFBVV95cUxNNGxhVVA5T0ZNdjI4Q0lRTlFuX3FIWGNobDRIQlo5OU1XdmNZc3lycFZWQkNuNk5vT2lxUUdYN3JyRUwza1loakZ1TDhpVmN4SFA3X29LSk9TZG5iMHUzZFZNRzQ2bXdxZGNIUzNSY1N4cjZKblNuVjRaU3pIeTlhcEd5LXFKd243SkdTYm54SlpOaWl6MkJmMl9RX3FrX0E?oc=5",
    "summary": "",
    "image": "",
-   "source": "Notebookcheck",
+   "source": "Philstar.com",
    "region": "PH",
-   "date": "2026-11-19T06:58:00+00:00",
+   "date": "2026-11-19T07:27:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -152,6 +164,23 @@
    "topic": "Society"
   },
   {
+   "id": "cf606146c7",
+   "title": "Senate PRIB apologizes for 'accidental' flame transition effect in VP Duterte trial livestream",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ01ndktqZ2hYTUhLd3JIdzJJTjVzUUpHMW9qa0ItOVFxUFJaSkVCZ0gzLWgxMEJQT3Y2WXRrbVpLeUY0QWl6SDYwX1ZkS3pTS294UFRXLXNWYjJDMVR6dDVjQm9SQXVDWjByZV9RWEdjRVRmMk1zNXFnZmp3WmRGVVFOaHhrX3NrN1JSclBzZ3djNUVmRURDYll0ZDUzSlNpNkFlT1lZUmt5Q1ZVZ2tnNHM3S0paQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manila Bulletin",
+   "region": "PH",
+   "date": "2026-11-19T06:41:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "812e195447",
    "title": "Cyclosporine as a Steroid-Sparing Agent in Thyroid Eye Disease A Single-Centre Retrospective Review",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBT2Z4SmlfUDVJTlhyaWZFZVNDNjZPanVFUmdkR292VVJHbEs2NEJibkJSbkJ0aml4d3BMZkdCUGF0WGFLVko5Z2FYMG9TMDhoSFNieDNsbFhHT1lHQ0xXcktaMzROMkNIOUhJRDBR?oc=5",
@@ -169,23 +198,6 @@
    "topic": "Health"
   },
   {
-   "id": "46ebd12d01",
-   "title": "Escudero flags ‘inappropriate’ fire effects in impeachment trial livestream",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHRiRWMtS1lvTGE5VnZjazNoZFRfRmM4R2I0aGU4Y0lxbzNLTzZTRkk3MnhFblZXcHZydldpbWMxSzhaWTlrejNqME1sQ0c2bG1ka0JsZkZ4TlpYV1M0RXY3U1ZQcGdsZVlrM1VaeDdJWHVrZmVHWEdOU1pNdVZ0b1VfYS1LM1kxWmlNZnp3b2dzZmRBTkJ4Ync0Q1VxNDdmTDJJQ2dWLWZXV0ZmbW4zd9IBtgFBVV95cUxNZFVobkhhSi1YLTZ6c2RuZjNtQ3I0Q1JTdzFpcS1OQS1RR1VvVUEtSHVLOWs4TlQ4NUROSmhsaE9kX2RFdGNlMlZtRjJVc1ROOGxYRU9QWUFRd1ZjQkNrOFVLbUxlNHZYUTdDMjRXWDJnemZETmZ4bmVWMERSU1k1MWNzTV95Y081LUJqTU9yV3hqdkVpS3F4X29mVXd1M3BXRG9VdGprOTdMb1dXLXNRYkN3Z05aQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Inquirer.net",
-   "region": "PH",
-   "date": "2026-11-19T06:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1a8b502f2e",
    "title": "Odiongan town introduces Bantay Lamok App to strengthen dengue prevention",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlZCNWVTMWZHUVFRYnFLWUlYTHlRTnFscldCR1dZeHh1dW94NENHX3VQXzU3M0xRMXZOZ1UyVjhWTkNYdWJOSVNES1p3TTQ4dUlDcnFhOWNYTTlBVk5LY3BnZFo5SUV1d3hrVnNiR25jV204NWpIS1Q2SGkzRHVsZ3otRGd2T3NzakNweHYxQWRPUHE4Nmc0SjNaVmM3ODQ?oc=5",
@@ -201,6 +213,23 @@
     "flag": "🇵🇭"
    },
    "topic": "Health"
+  },
+  {
+   "id": "955f6a4f77",
+   "title": "76ers Win Fourth Straight Game: 3 Takeaways From Eastern Conference Showdown vs. Magic",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmtSMWxJZ1NIaC1lXzBkNjFITzB4ekpNN1RRMzlrN045c2NNcnRRZGlBc1lJUVA3YTNOOE9TR0VkZV85ZVBSQmRpSk8xbHR1UG41bjNFVUdnZDkzcUFzRk5DcnlKd3JjMkc4cHd6b3hTaXFCSFEyUjhoYndtVS1rR0pmdFQ3QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "PH",
+   "date": "2026-11-19T05:47:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
   },
   {
    "id": "daf5ef22a9",
@@ -237,40 +266,6 @@
    "topic": "Society"
   },
   {
-   "id": "115bfb43db",
-   "title": "SM Prime unveils Nuvali office tower as first high-rise in Southern Luzon",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlduYXd3N2t0VXctaUh6TmVXYUY2djhON0g5S2ZHMF9BTzhJeVRZVW9ad2w1UWtLb2VlZ0p0WmxOdWY1cndrX3hIZmIxTFZNc2haR2RCdEF2cW1KN3ZjNXZxNDdXUUpxaGNYWVBXU1lvNTZfZjAzY2JhR3pNdnpwRmZqVXZ2UlhZQ2xubTdTVnZzVkwxaWEydWR6U0wyTnl0QVNWTkhISzdTYmZxeXVibXBiMTVHbkw0elhiamo1ZWN4SHczX1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-19T03:51:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "19d73fe4c1",
-   "title": "Davis and Dybantsa lead the Wizards past the Raptors 103-99 in a matchup of struggling teams",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUk84b3VrYl93d19QNDZlS3hVdTdnZ2lZcWozMC1zb3duLVU0Vkw2Z2tlNkc5cVhIZGM2b29WWG9SZjFKU2ZNWDljeWVGLUNlNkp5dC1STkp5d1h3T25Qb0pVVW9tM2ptc2RUT3Y2RkdPbjFYNlBXMkFSdUJZNUxWbm1hdzNwaWdR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "PH",
-   "date": "2026-11-19T03:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c5842b947c",
    "title": "NASA CRS-25 Launch Set for Nov. 29: 11,000 lb Cargo",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1poVWlLWHl4bDF2d1BQbUxuXzRSR3VWR3FPZDQ1V3NMbm55ZUx1Y1ZqcE10SUFIRFNFeUg5VzZBb3Z2b2dKZ0FtQkMyLVcyTkNsZWJ2Y0ZUMmJpYUpvenFibkZmdHlYU0pNWk1CcGxDYk5DTDkxcFFLcjBxZzhScEJ1UGFmd0tPQmxqYUV0S3M?oc=5",
@@ -279,23 +274,6 @@
    "source": "shattered.io",
    "region": "PH",
    "date": "2026-11-19T03:18:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3945f583a6",
-   "title": "Detroit Pistons vs New Orleans Pelicans Nov 18, 2026 Play-by-Play",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hcU5sdmt1YVVwUk95Y05CeGRjM3BVTjBIanFzM1JDdkJ2ZDh1RExicmdjWTNTQlUtRUVHaEowaE9oOHdPQUJ3WTI0cENVOW01SGpJVzVhYlhYSXVNOVpkWkxQN013MlF1VG5z?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBA.com",
-   "region": "PH",
-   "date": "2026-11-19T02:46:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -330,23 +308,6 @@
    "source": "Inquirer.net",
    "region": "PH",
    "date": "2026-11-19T02:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ec019a74ca",
-   "title": "Leon explores many colors of love in self-titled debut EP",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSU9NNHhSeDVjU2tna0RLVmZ5cjFEWlVLbmx2c1NEalp0eFNnNzJ5T1A4Wm5KYnhYRVk5OEU4Y0tMYUs1aTQ1SVlvU052ZGU4UDBfLVh3VU1OWElpdHpONVkydFlHYjdqZlBMdVl5Nlh6dGRnd2FLTW5laWpseXQzdG94bzhlREZJRlhfamdnNDdURlFqZEZnUnA2X2hpcER4NEsxUWtNOFBuSnFlU3A1RXdERDhzMTVEVjZBM2pqcTVZMzQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-19T01:34:18+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -424,39 +385,39 @@
    "topic": "Health"
   },
   {
-   "id": "9cb3976c43",
-   "title": "ASUS Empowers Businesses with Trusted AI Solutions at Microsoft Ignite 2026",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUVfX1Rtcm9VZnh3cnJXQlF5TlphVzZuZ09HNUFDamxQdmV1ZHZZdks4MjNINGFZUDVkeUlVc3AzUUJhWW41NENQTmttX3M4am9YWHNQbGwtSnpNRTB6N0V0Q0dtVU1aREplclI5UzhyX1poTG5zVm9MR0wxcVU5U1MxU05zdFpzWTM1ZXFtVmdvb0NyY2w2eWVRODRkSWxrQUVBUzMxYmRPbm80MEtsaXFTSlJ5djJwVmh1T3A2Ry1ReHJ3bVg2cUY4UQ?oc=5",
+   "id": "30ca021815",
+   "title": "Washington Wizards vs Toronto Raptors Nov 18, 2026 Box Scores",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvcGVOZFpmWUVlREVmaGFfSDN6SmMzV2ZzUGZiZFJhWDNjZDBDUlNyUDI2ZXdWMTRwdVFnYUMtelNyalJwNm9ULUhhUDdFU2kyeGlVWnJkSk8?oc=5",
    "summary": "",
    "image": "",
-   "source": "Morningstar",
+   "source": "NBA.com",
    "region": "PH",
-   "date": "2026-11-18T20:46:00+00:00",
+   "date": "2026-11-18T18:52:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇦",
+    "also": [
+     "Canada"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b96ec0412c",
+   "title": "Marcos thanks Pinoys for patience during ASEAN meet",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0hHWDdKa2VpOVhzR0hhcXBVeVBOREozZEJwQkNkOXZOT2p1cE9qQnpIZkxLSVpINHJyOUJkM0ZDOThyN0ZfalFRcngxcEJWdWd2cERNeHFyckRmMVdqLWU3WnFuX185bkFDN3JYYjFVVThqeG1UZE5kZkU3REE1TmhseDhPZ1dWYjk2UVpNYnVDaHVjaUpvQjdVU3R2N29BbktN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philstar.com",
+   "region": "PH",
+   "date": "2026-11-18T18:05:39+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
     "place": "",
     "flag": "🇵🇭"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "efbf86b185",
-   "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0xoN1A5YXptcjJDUXdZT0FnTjAtZngxbS0wNnJrMXRVNmFqT2otYnFIelY3eDNyUXFaSllPc0dKa21FY3hlN3AxcjBmc2REOTJ6ZVRjNklnT24tSmZDWnp5b2xJSnRJam02ZkRhYjJrOEFiUy1Tdmd1NHlvSGswWllwWXZ6T0Q3WENDTnkzeEhyUVlEVjc2ZVV1TkNaTUdhWGQ2NHBETmQ4bWRjWlV3SS1OSWFMQdIBuwFBVV95cUxOaDRaaDE2cjdmMkxHUHJ0NzBSUGxyVnRtMEhJV2FWWFptUldSVGh6LUJQVTUwZ3ZwTXdBLS1USEJyRUV3a09zd0FzZUZZcjk0STBMUGZiWWdCN1duVng2VVhSWDc5RGNZclFfQXBxYy1PdExDbDRZZm94RE5pVDRQbWpRdXI1UzhpZ3N3d1l5NE5OUzBBbGQzbkdQdTI1a2dEX2I3dmVHak5Zb2RIdHlzTXo2NFNQY1E1MEZr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "PH",
-   "date": "2026-11-18T18:13:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇵🇭",
-    "also": [
-     "Philippines"
-    ]
    },
    "topic": "Society"
   },
@@ -478,21 +439,21 @@
    "topic": "Tech"
   },
   {
-   "id": "2d42eea9a6",
-   "title": "Philippine police file criminal complaints against Thomas Markle",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXNDVEdWMVdiOThEb3pHNko1YTd1UFdQT0NhbVF5YVk4SU4ydnd1dlR3bXJ5Rm1UbnpBNnVYZXFGMFFTUkdKOWROVG1CTlc0U2ZBOC1VNG52MTFsbU8tM0FYMUxaUHAxd3hpdkhZczRHcWVMYUxrbWVBVkRYeE1zM1FIN1dFZFRCeFl1WWRVRDNpN29HVC1YM19pWWRtX0FrV0J0SWh4blNGR3Rxc2JBekcwcENnc3Fxd3ZQNE5KOXk2S1Zjd1E?oc=5",
+   "id": "7c01f8c3c8",
+   "title": "ASUS Q3 FY 2026: PC Growth Offsets Server Deployment Delays",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaGh4blRKeFV3VkpwXzJyOHV2UE5JQy1Cd3VkMUlQSm1tSldMTklYbnliS0xnejBzUzRUVGpaNUIySzJNNl94dC0wWmQxcl9ZT2xSSjZnZE5kYllnYXRYOENDakQwVy1VNnZrNjhidFZXSFh5US0zMkEwc0RkbUpnTUpxX0FtZERuQkxtcjBDaWl0T2lvVnE1Qg?oc=5",
    "summary": "",
    "image": "",
-   "source": "USA Today",
+   "source": "The Futurum Group",
    "region": "PH",
-   "date": "2026-11-18T14:42:00+00:00",
+   "date": "2026-11-18T15:12:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
     "place": "",
     "flag": "🇵🇭"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "39905ff560",
@@ -512,14 +473,31 @@
    "topic": "Health"
   },
   {
-   "id": "ee2aee2867",
-   "title": "Carmelle Collado credits Vice Ganda for her Eurovision Asia stage presence",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNGwxYVFMamxITnJIam5VZnlmWHZjM0IxR0I2MEVXS2xPcXpzdEJ4YWtXazdfNnd2YTF4Y2VXOTlWNjBMdXBEMjIySUVEeU9Jc0JiWklaZUd0UmhXNk51a3RBeUY5WEtEeDVLazd3cnpKVWF5c0NHRDNEdXdBMUp6ZnpLRmprUTBEdk5hSE5xZV92SlpHblFEZ1MtR21BS2FQVWZlUjdmWkNCYlZaWGl3blZlVDJRblpieUVXcXJWZlRnSGU5NHNDQnlqU2ZTQVFUOHJTRThMazh3dw?oc=5",
+   "id": "1629b2ba36",
+   "title": "‘Biggest trade deal' between US, PH sealed – Trump",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkpHRXBTVWJmUzZ6amxZbW1TN0dVNHpsZkJLZ2JDSDk0azZSSmNLdlFkb0UtYzhtM0QzVVBmYzFLR1lQbVNiYkhlQldjOWt1dDFPY3l1TFp4a2ZsWURPdTRSRFZOc1NoSUdkSEpnbDVQZ0JHN1ZUcVFqRHBlakpQQTRB?oc=5",
    "summary": "",
    "image": "",
-   "source": "ABS-CBN",
+   "source": "Philippine News Agency",
    "region": "PH",
-   "date": "2026-11-18T11:58:57+00:00",
+   "date": "2026-11-18T09:57:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7bc42bf7bf",
+   "title": "Meghan Markle’s father faces new child sex abuse complaints in the Philippines",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDdqcGJDTE9GYWZGTmFuZV9YdUJiWEVpT205Y0dfMTMzOW53QjdwbU1FMjJMZkg5cXVQWmJfVGQxbnJNOVlSVl9PWUluMXAycUxkZ1dRcXh3MGlIQjN2TTBJT2hUVEh5bUhYYmdOTE93QTQyR1lKV0ZYaDR3ZDRabXR0cGkzN2VZTmlILUJEc0Jfd0VWSlVnUk1SSk5waUVQUGc0SndfRXNhRmN2dWpTem50aHA4M1dFSVBlRDVVenQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NBC News",
+   "region": "PH",
+   "date": "2026-11-18T09:30:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
