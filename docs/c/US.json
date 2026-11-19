@@ -1,51 +1,159 @@
 {
- "updated": "2026-11-19T13:02:44.831758+00:00",
+ "updated": "2026-11-19T14:26:32.180494+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
   {
-   "id": "d6ff74eedb",
-   "title": "Nasdaq-100 futures gain as traders gear up for Anthropic’s highly anticipated debut: Live updates",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9haDBGN05NTm5JVm5PcFdVQ3hJV3Q3N1BQeUJfaGhhbkluOGpOWW1sU2dWb2ZtY3dEX2VTWHN5S2RaSkhWQTgxZFJ0UEZFTkVnaTRoZFQtZV9DelB0SkdBdUhSckR2VWFmWmw4R2tWejJNMEhSaVpn0gF8QVVfeXFMTkFhZVJoMnczYWE3UFBMLTAzcmhienFUYjlqUmNXWURGd3dsamhpbkVhSmpheXBmdDVvYk11ellHMEtGcG1ZOXBUYmxBandtMTVWOVl5M1hGZUZMSERKb1lDR1IzZVN4eC1qWklncjZTc2tzVUJod1F3Uk83dw?oc=5",
+   "id": "b5ed094a4b",
+   "title": "Anthropic IPO live: Company said to price stock at $83, begin trading Thursday",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmJBc3JzY0NwYkFWVWFEbGtLUTlvYTRHeFdVUlhTTUhhNFp6TzNIS1ZhejNINXk3ekxNc2lwNklyaXRDNWt3NjJkRldjZkpsTmNDSVYyNHNOTG1FRjBtOFZYelV6b3d1YXk5NmM0LW5RZUp1UHVHLU5FNVgzNlZQX2ZxUmpfTkhpYVBEYm5ZclBZUlk4dEJfYm95SF9aaFV1ZVAtclZZbVJnVE1Sd0xmN21ZLU9uSFh1Si1KRUhfRzhHVGJhT0VYQlEzNmg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Finance",
+   "region": "US",
+   "date": "2026-11-19T14:19:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "8627207e00",
+   "title": "UN’s top court finds Myanmar guilty of genocide against Rohingya",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEdpSVlfTkU5TU05bjNlelhReEhNLWdNZ2k4MGNZQ2dlaDFiS1VxSTJ5a0NubVpwZWE4YVBSczBKQXd3UGs4S2c0TzNhWkp4WTR2dmFMaFVKdXZJYXlQRmR0Z2RDOG1QWTVEMTZaa0FTTHZKOEFmbDF1VnBic2oxeDFQbTM5OVVjQWFQWE9fQ2dmcUpSRktudVdtOVFXVFNaQjVRbzQzc0NESGstdkR4eGVVRG_SAboBQVVfeXFMTWhQNlRkYk1STmpVcEN0SDBLamdUdUpJQi0zOU1FRUJUSDYzZ3dra2gxM1dzOFQzbVB3M2hDYVZJWmhLZW1nODBOUVV3NlBHSlFNV19acmVkdWF6Zmh4VmRqRmNBTU9wdFZjc29yMFBvSXhXQzh2QWdWRzFDVzZiTkpDbkRUR1RxemxEcEhSekVjU2hncnd6Sms2cDVXVHlzdTEzQWpNTGxrVERDZ0k3a2F2M2w0UjlWcnpn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "US",
+   "date": "2026-11-19T13:32:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Myanmar",
+    "place": "",
+    "flag": "🇲🇲"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "770160619b",
+   "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WV1BxNmRrQUFiOTMxd3laUEdOa2I1dzNZZWlqWnFfQW5ic05OSTJuYjhFTkpIMUprN2tyeWlEMGRmdWJEallEUVRjSnpzcXdEbTl5SXdFZEZtVWM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "US",
+   "date": "2026-11-19T13:07:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "110cca8ddb",
+   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BblY0ODJpaUlrOGdtV1g4YjAyQzhZLS1TaFIxTDRRSUQ1X0lpcGgyZ18tMDVrZG0zNHJhSmMwampkaG1YNmh2dlRQN3kwM3lzbGtNMEtRYWVYZk0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "US",
+   "date": "2026-11-19T12:52:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6219bc0c0c",
+   "title": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkZPZ1NQdzRHNmY2QW9yNHduLUNyNWM4bUJLZ2tuZWxlZWlGZDhTUGNQS0lHX08xS3doNjRlNGlZaUgzeGdUQTZseVpfYmtuaWh2UEptRGlKX0hwc2FYWVVmY3hmZXJRVGZxZnpva0VOS3Z0VXlTNjVuUXQ3eGdMZHllTWg2TjBVSGVfMDl3U1JOS1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "US",
+   "date": "2026-11-19T12:05:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "025c164d38",
+   "title": "Walmart raises full-year outlook as wealthier shoppers fuel sales growth",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnBfU1R3UV90NDBVcDRuN1RmRTVZVEw3eWRQaGMtX2VMR3htWGlLV21NdTFrYm9KeWQ2MjBrc3lDOENqSzJzZzRWUUJOTU4tRFNVQzg2VFJ3RUR5dVBXTWkzYW84aWxPRmIxdjdVOUgyWVlsUXo5dWxnN1BiLVplRGpEaDBYM25YNmlkVVBfeVFlTDZwQnVlQTNVUXEwSHpORDYzblpKWdIBrAFBVV95cUxQODlRcnZGd3I5dGVXY25OOG1tVVhDUm0yS3RsRy1WSlo4YkUzNzNiVW94QkNXOG8yMTFHR0xoTEZGYlVpNi05N1ZSdTNTaEREeDdOWk5OTVVJNjMzTDdxR1BESldRcTBVUXRJNXFMbzVnM0ZBUmU3UERCU3ItUE83bTZYeGZBSnJQOVloTmRVa2E4R05LMG5WTzJoaGJNMjNCOV9oeVlhc2pvdWtZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Fox Business",
+   "region": "US",
+   "date": "2026-11-19T12:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "58280360dc",
+   "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs with Keith Urban",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZzVrQTVmM1R3ZUpBOEU5aHZ6dGNmU0NMeTNfaXRoRXN4cHpwYzNDZkVKZnJUcWVCYjBJTGNRQTQ2d09aLURkWm15cDR2YW9uYU5qVVpCWDZWUFU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "US",
+   "date": "2026-11-19T12:01:35+00:00",
+   "coverage": 2,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "46e68dcab6",
+   "title": "Heavy rain, flash flooding threaten Central Florida as storm system moves through",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0NxeURtekl6aG5EMGVrdG50UHR6ZXhIaWQwN25mTE5ldVVtMkJDb3FxWTgxVlZPbmt2SDV3a2duckdwYk1ncVAyT2hNM2tKeXVXaHVUdXpNbDNIMlZRQmN4cHVhaGxzWjNYelN6NHRieHVBZFpsQUpLUWg4YVM5V1JUSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WESH",
+   "region": "US",
+   "date": "2026-11-19T11:09:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Weather"
+  },
+  {
+   "id": "f59aca73eb",
+   "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRzhLLTFxeW9BT25BazRrNm85YmV4TGJxdmhiQjlNTW54YU5RZVprT2NtcjBKMlB4S1NfX3JhR1lrLW90TWE5OXJBYXowVklNZnR4QW8wVEo1b28zdzhDcG5mYjlTZ1N2dmpnUjNYUUh1ZnYyTVpyVGU3OVJ2LVJtc3JXNHhVUEFxX3cyNtIBkgFBVV95cUxQS1oyN0VSeW9vX21rOGhraDFBTmI4VHZWZEN1UEFrTkhmR1NESE9CS3JjaWNlSmFXbnB4TV9DS3FuZ2VmUTQyY29MSlN5S2hKNUs2ZjZhZGRMMmUxazF3UVVaSUZGLXNNUkRyZmhiZXZOSHlxbVFYeGRvYl9ZQUI0NlVBUmZwR25rNmtXUnJ0NGU2QQ?oc=5",
    "summary": "",
    "image": "",
    "source": "CNBC",
    "region": "US",
-   "date": "2026-11-19T12:44:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9afd44c88f",
-   "title": "Jax Taylor reveals cancer diagnosis as he undergoes surgery: ‘In a really dark place’",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTBrWE1rMEZVRC1pSjF4eVh2ckNnRWhNVDZHQlUzY2lDS0hKVzlVaFFGQ2RNTzNTc1BZYXpRUVhmcmp4dEkzVkQ2c3pIX2M2Ykh3cURWVVI4aVdrQ1h2T3hyZGM4Y2M5OEJtcVVQemZ3MXJCVWVtdlVlajJHZzI3V1E5WW1Pa1o5REEwcG5uM1BpOThmXzBiaWw5RHVPY19UWUhtT3JIUUVhTmQxYTZ2VFhtMy1DMHBjUHpUZGRqcklIRFNaU2t0aA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Page Six",
-   "region": "US",
-   "date": "2026-11-19T11:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d5603349f6",
-   "title": "Danish parliament approves security deal with Greenland and US",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXZ4T0tGUlE3by1Sd0FHU05tLW8wa1pYYWdjczhsM1NNTDh5WVVLRk4yQUhmRTR1LVpRdFBSSUpDUE56Mk5aUE5fNDNQY3lFUWtGQ2ptV2d2ZG43MWhGdjNTS0RpVXNJT1RXbm9NRjJNeU0ySmhBdXAwQUgzeVBGWDZtaTlSRW5TVTNPX3Z3SElOV3psNEpSOFQxeUR4V0llbS13dVlCTzc1dnVzaF9tZg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "US",
-   "date": "2026-11-19T11:35:00+00:00",
+   "date": "2026-11-19T10:35:54+00:00",
    "coverage": 1,
    "location": {
     "country": "Denmark",
@@ -55,24 +163,7 @@
      "United States"
     ]
    },
-   "topic": "Politics"
-  },
-  {
-   "id": "8627207e00",
-   "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEdpSVlfTkU5TU05bjNlelhReEhNLWdNZ2k4MGNZQ2dlaDFiS1VxSTJ5a0NubVpwZWE4YVBSczBKQXd3UGs4S2c0TzNhWkp4WTR2dmFMaFVKdXZJYXlQRmR0Z2RDOG1QWTVEMTZaa0FTTHZKOEFmbDF1VnBic2oxeDFQbTM5OVVjQWFQWE9fQ2dmcUpSRktudVdtOVFXVFNaQjVRbzQzc0NESGstdkR4eGVVRG_SAboBQVVfeXFMTWhQNlRkYk1STmpVcEN0SDBLamdUdUpJQi0zOU1FRUJUSDYzZ3dra2gxM1dzOFQzbVB3M2hDYVZJWmhLZW1nODBOUVV3NlBHSlFNV19acmVkdWF6Zmh4VmRqRmNBTU9wdFZjc29yMFBvSXhXQzh2QWdWRzFDVzZiTkpDbkRUR1RxemxEcEhSekVjU2hncnd6Sms2cDVXVHlzdTEzQWpNTGxrVERDZ0k3a2F2M2w0UjlWcnpn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "US",
-   "date": "2026-11-19T10:37:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Myanmar",
-    "place": "",
-    "flag": "🇲🇲"
-   },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "2e05106e83",
@@ -92,14 +183,14 @@
    "topic": "Society"
   },
   {
-   "id": "3dda3092bf",
-   "title": "Ella Langley Sweeps and Taylor Swift Returns at the 2026 CMA Awards",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2J4R1BPQnEtVGxqOUhGNENLV3l2eGZicUhjbFFUYUJTQVRVX2VIZ1oxcXlXOUhjVkFwMUhsOXVYRV9rQWVOY3pyR0NKbVpjSnR5cmZ0SU8yc2FCX0hCSkRpMEhLdWk5QVNVY0lHZ1BQZUtMbGtGOVdoNmxUbVM4RzZjaS02RTB6YlZmbHpJNEs?oc=5",
+   "id": "0fffb11d39",
+   "title": "Who are the NFL’s contenders and pretenders? Sorting out Giants, Steelers, Rams and more - The Athletic",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkQwYmFPeHJvdW4tOWNuemd5QjZ3R3BKVE13bDZvX05pYjQzbzk0M0tXMFJ3cTFrR2tFY1ptSVByY1ZTY2hQb3lWZkwxU0s4aURwZ3RQQVNGVlpBaHdIdkpmTnMyRW1NMVktc0Z0STIzZlRZWmNXMWZpR3BVbTE2MnBIWlpnM2l1TkwtN043LXRsbzQ?oc=5",
    "summary": "",
    "image": "",
    "source": "The New York Times",
    "region": "US",
-   "date": "2026-11-19T10:02:12+00:00",
+   "date": "2026-11-19T10:00:21+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -107,6 +198,43 @@
     "flag": "🇺🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "59c6809e79",
+   "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0hZSmpRQXJwM2pNbUxHY01JZUd1TkdjdU5YNGZYd1hqMmNES3RoTWRCVm9GYjMwX0x5NkMwb2FicHNjWkhMZ1dQUVNsUW1hblVuQjVLVkhlVUZZRDFiMlcxdWNweTV0NjR6TG43MmFYMjczckZ1SmhzSlZtOFdtZVVsNHZpSk1UVWdRZ0phakNPT05NRUxmOFFmNGtMZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WSJ",
+   "region": "US",
+   "date": "2026-11-19T09:37:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Yemen",
+    "place": "",
+    "flag": "🇾🇪 🇸🇦",
+    "also": [
+     "Saudi Arabia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "343f7325ae",
+   "title": "GTA VI Sales Top $1.6B — Take-Two, Console Partners Microsoft And Sony Shares Rise",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVERkaGFfMlRmWi1pWHNua3lZUFhVVlVwTmRmRHF3Qk41UjlRVUI2N3ExNXZ3UWt1M1lIdXYyVW9SNXdjRC1BMHB1cFgtd2txbEdtSTFpMG1WUFpaRXd1X2p4RGdQTzAyUjFXUFA5MGoyLUc1eEtsWUJxZnpYYlk5cGlOTVJLR2tORXgw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Finance",
+   "region": "US",
+   "date": "2026-11-19T09:36:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "b467435e61",
@@ -143,31 +271,35 @@
    "topic": "Tech"
   },
   {
-   "id": "98b55e8763",
-   "title": "Crimea bridge has been attacked again, says Russian-installed governor",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkhuRXZBS0pyYWltUGM2UGg4ejdvOExOcVhTNnJqeVVOS2s3T2pEdU1SV0J4SUhDcnp6WDVWaERPR19taTd3OXRvdEg1NGdmdWtwOWdadkFOOXMtZVN5T29Yak9hTzJpSVIzSUU5bXBEcGJua1dzRVFobVVDcFlxZi00MzBfZWNnQUZwdmRuVWJsczlja2ZBOXBndw?oc=5",
+   "id": "1b7cf735fd",
+   "title": "Taiwan eyeing US-China-Russia talks",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93X2RrcW94LXo3eVhHMUhuTjJfZ0RKX0NfbndydW1zanlCdkRPX1h1OHVrZ01kbDAxNUt5aXZRQXQzVXJwSTNuMGFhNnQtbnlRcko5Nk5feVpJWE40dGJtME40R0RUemVxVEYyTXJvVHB6U2J1bjFsMg?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Taipei Times",
    "region": "US",
-   "date": "2026-11-19T08:09:00+00:00",
+   "date": "2026-11-19T08:30:15+00:00",
    "coverage": 1,
    "location": {
-    "country": "Russia",
+    "country": "Taiwan",
     "place": "",
-    "flag": "🇷🇺"
+    "flag": "🇹🇼 🇺🇸 🇨🇳",
+    "also": [
+     "United States",
+     "China"
+    ]
    },
    "topic": "Society"
   },
   {
-   "id": "71c48fb493",
-   "title": "HBO Max is half price for a full year with this Black Friday streaming deal",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42ZE5sVU9MXzhwdUoyRGNRdzdPeERsM0dhNjBUQzJTbTd3NlYyT2pUZl9YVk93Z0dPLUVqZV9tRnBEYk5CQk13ZkRVa1IyajBIUVBkSnZEUkd5RW83U1BrZUU2aEZCdm5Tb0NVTFMzVQ?oc=5",
+   "id": "4b60bc74c1",
+   "title": "'The Altruists' Review: Julia Garner, Anthony Boyle in FTX Drama",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdDh4cFpWNG5MekVqWnlPUFdUYkF0MzBRNVVEaW1oTWtFT3EzX25zMUIzcEp6Q0tfX2twVWVWYjRnSVBVYVhxNktPWnQ1WGs2NDVvNWk3RFFRU0JWeXphSWxpV3BEN1Q3RjcwcGR3eTd3ODFzdFhyX0k3TjV0WVpYTzV5SzNiOW01b3FGdUcteER5cXItMmY0ekdhQzVQYXN6Xy11STRnZVVUSFozWW5OeXlfeG5nUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Decider",
+   "source": "The Hollywood Reporter",
    "region": "US",
-   "date": "2026-11-19T08:01:00+00:00",
+   "date": "2026-11-19T08:01:49+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -175,23 +307,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Society"
-  },
-  {
-   "id": "dc4c5b84ed",
-   "title": "Netflix's The Altruists Makes the FTX Crypto Scammers Out to Be Unpleasant Yet Highly Watchable Weirdos",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13QlJ5cllqVU9aNkZ3V1hVUjU2M3dvZk5oUkRWcldibHN1bi1iUEMwZnNRVlh0OF94b0Frb1FhZWpDNm53aXo0bS1QSzdlZmVOczBjOXhXSWlDdE1hNHd6VW1OZGVJRkJS?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IGN",
-   "region": "US",
-   "date": "2026-11-19T08:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "f22738571f",
@@ -202,31 +317,11 @@
    "source": "The Washington Post",
    "region": "US",
    "date": "2026-11-19T07:24:00+00:00",
-   "coverage": 2,
+   "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "38fbb4a689",
-   "title": "Taiwan reports two Russian military aircraft nearby, second time this week",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnpIWnMxVUtEZmIybkVXR29nSWNpWXRqRVo3dXZoYmdTcE91Q2MtZW1oSTZ2X3REWjUyZ1JNYlJSclJZX09TY0FNNllNVFdQUU5TV2lVN083QnN3aXB4U2tTMGN4TmY5U1FJbG9zSnE4bEstV215amRrZ2hpTlZ3UFRnU3dJOWZ5M0I3ZGpmU2sxZVk3bE96MWlGblVnMV9XRHk3NF84bmxGb2t6d2JBbXhNY1BrWHhlRVkxanIwMmN0OHJ6eTE0Nzg5dkV0VDhTc3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "US",
-   "date": "2026-11-19T07:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Taiwan",
-    "place": "",
-    "flag": "🇹🇼 🇷🇺",
-    "also": [
-     "Russia"
-    ]
    },
    "topic": "Society"
   },
@@ -248,82 +343,14 @@
    "topic": "Society"
   },
   {
-   "id": "fa5386d78b",
-   "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOektPZ3lXMkg4dTBVbU84Wjc5dEducXhBMlZINFdFYXE0bmxjVGVIemhHMVZRTnU5Z2lHZ0w5alpfblAxVEVIRTlRZGxmZ1RuUWlaaVVPOThuZXNEeGxPY3RaSVlZLWpIeHdRWmRrYVpvMkd1eFU2dW9XWTRqSnFmaDhTcUN1LUhZUUU0emJ5cGJQcVA0VG8tOEZKNG1BTDBQNXBDMVFtblnSAa4BQVVfeXFMTnctX1Q3NWRIVDVCcU1lNzJxTnEzTWJnOEdJb3Zia3hHTTRxbFNoSDZxZ1oyVkxIdlI5bnZtc2c5Tm5scG5sN2gxMUMzYk5zbF9Lb1ltVU1FdktoTUlNMTlvNmN6cDNVNnpsenRJU2ZKcFhSVUJId0hHWHZNWXhQeDZ6ODMxTnhwNVZPYy0wUmF5SXFPTTRKektVZVE5YWpZSzZWcnVyb0FXQ2YyVHNR?oc=5",
+   "id": "3ad22d72b8",
+   "title": "The US Army’s plans to detonate 5 tons of bomb-making chemicals is worrying Iowa residents",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWE1NdlJBdlZyMDMta2JjYVJ0TWViaFMyRWJ3TFV4Y3JOUG9kOHdhZGR0SVRteEJPTnJkbWcyWW5icVNua0JfaFZpRWRsdW93SEUwM3kxeWtiaXFWelhISUFBM1UwLWZUWEYyNUZKekRMNzJYZkV6TEs1X3RualBmbV9OWlNCWGtTbm9mTWw3NURmRmVFa1BncEVEZlI?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "AP News",
    "region": "US",
-   "date": "2026-11-19T06:14:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e79ea8c766",
-   "title": "Horoscope for Thursday, November 19, 2026",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkhiclEtRmYtdVItYmpjUVpDdXJTbTBrM2cyZl9VTml3ZTdGTVN6OXh1eU1RWUVxUnFONHJNSzZJMENDb0MzLWotWXFRQzg4SzVTV3BGOGxZMTlwWkptR2hTZlZiQ0NtaGdpWU8wN2JnT1l4cXpmN3B5dVc0ZURxTDhtX3RiZUg4dWNOUWxmSVBZMGdlMHh3MA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Chicago Sun-Times",
-   "region": "US",
-   "date": "2026-11-19T06:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Astrology"
-  },
-  {
-   "id": "2c020bb585",
-   "title": "These are the Senate Democrats backing Schumer and Van Hollen for majority leader",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVExmN0praFZhQkpOQUJVUUV4N242ZG5IM0F2OU1UY0xtWjJraWdzZmktWjlseGtKNUhTSUhiQ3Q1WGp1cmpZX3dwdWw2YTA4Z3lxYUZPeHdFb083RWhfeHhrRFBDX1Myc0xYYUN3MUJ1ZFZQRy0wN0NLaFIzaGsxMjNaWlc5OHFwX1I3Y2IzYXhaenlOb19QQ04ybzAtNkdxT3Y4ZVMxTGhHUVNtSDJrNUdDMVNmQXZ2cDhEaENKN2YxSzljb3FHYTZMU1NJQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "US",
-   "date": "2026-11-19T05:08:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "18def8eb8f",
-   "title": "Walmart is set to report earnings before the bell. Here's what to expect",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LV0lxTE41NmNVYW15ZTE3dndjYy1YUFdVYm5uNkFiWWE5NU53ZVEwc3RuR0cxdFNqWXdVX3lTYUVOYXFlaGVGUnJvU3Y5QTFpdU8yWWdxTnVGMVh1TVFfMlM0WndyTmpjcW5HTGlaZWc4dVHSAXhBVV95cUxQMjhJaXpYODlkQ2xkSHB3Z1FCc1pDdkpCWU1NbnZleFV2Q2VoMG9RekZ6U2RfS2ItcVU1X3VuZUZTSlhCUGZGLUN3M1pIdDlXT0tEdXBJZkJSU050VUFBV0NVVGlOcGtLVXRyZjJJQVpnM0I2bFJzY1A?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNBC",
-   "region": "US",
-   "date": "2026-11-19T05:01:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "aae2207c62",
-   "title": "Democrat Hakeem Jeffries nominated to be first Black speaker of House next year",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmNzX0tUcG5xd3lWR09sUDdPc28zQUVnUUk1WnpSdDk2bEl0aGl5cUdaZl96YXYzVkVEYV9aMVVTQ1hhTUJDUktmLTMtaW9SWmhoc1M0TUhvWWdhU0JNSEZ3U3pYOW1IRml6dzI5WnFYWXNJLTBWTm5oM3FXY1lQYlNHa1BEOXdXS0V2eWlJaUhjaDlSb1doamJOUHdoWko5cFVldkZ6TFVuV3JHcklz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "US",
-   "date": "2026-11-19T04:56:05+00:00",
+   "date": "2026-11-19T05:11:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -367,57 +394,19 @@
    "topic": "Weather"
   },
   {
-   "id": "11e983a99c",
-   "title": "12+ inches of rain possible by Friday night along coast; 18 inches in isolated areas",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHliLXRKZGNweFdqMXFpVmFWTHktOHNmMUVaTjRhbWR6RWxnVlQzX0RlamRkVUJBU0J6MU5FaWQ3TUk1bU5Edmt4OWhSN0NZeHB6M1RvYkpxb1hwdHVJTk9TdjRmeFZzaU5yaWFwMHBHaDh1Sng3cmVhT2xMejNIRXJjQVJ3YnJwNTRzc3Y1aW5hSGNSNENN?oc=5",
+   "id": "74063d3243",
+   "title": "RHOA star, ex-Falcons player’s son retains defense attorney who represented rapper Young Thug",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYWdMZVJkTWdpejZmdzVFVFZzcUVnMVdkT2RRd19GMG12cXhUUTBGRG56ZUFmOE82OHFoVjNjQTdGOW9QT2ZGZWk0N0FaTWFLQVV3TE9jLTFQQWxiUmdlYi1YbEc1OXNCdUpjMWZTMFBKM0ZQOWd0aFdTNWdoc1dvQ29ZbV9fOTVuck0weTFkeE9IY2tRVDgyZnBTT05UelNjSWtjc3hQcU9xWjN2RndqTkZYYi1aSXN5MktJbVhLaml1TVRqWDNLMmE0V3IyUXdORHppdWhSX0p0aEMxczUyOEhyelUyYmFtSFlJ0gH_AUFVX3lxTE9KLXpVSXdpYkxHU3phNjNDYk5MZTh0N2FTbElsQTNKTWI1YWR6QTNyMHlWQmt4OHRieS1NRkhRdF80MTRJT043SXlnN1pBQTFteVZMUWhTNlFNMFpKNnkzUHBpcmRWRUpMRnJtc2daLUViNWh5VTZDWEVheFhXVXRPWEtYX0ZORTJVV21kdUVtSmxlSHYySlpka3BQbzNPcFJWTHJNRWg2ZFVrM0EyLUVzM2RZVDVJaWdjMWluZS1yekZ0Mm40MTVaRUR3V2JneEhiZGFhc0VHcmxhNERGZHhyRmJaRlhxNGpzUF9CVkcxSDEyZVlnSG9PeVNFU1EtTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "WESH",
+   "source": "WSB-TV",
    "region": "US",
-   "date": "2026-11-19T04:33:00+00:00",
+   "date": "2026-11-19T03:24:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Weather"
-  },
-  {
-   "id": "f3ab23c79e",
-   "title": "RJ Luis Jr. Makes Debut for No. 25 LSU vs. ULM After NBA Stint With Celtics",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXUyNldGcHRWTTlsejdjbEljV1AyMnV6aWpqTDQyV2hmeXNXbVRpWTU2bnoxX3ZGME9FOHVUQXgtdkFDYTlKdVNPdmlvcURLTy1xWnBXUzJlX3JIME5rMWhaV3hJeHU4MlF0RkRuMmt4eUktdUFKY1BfdUJuYWpqNVNIVDZlNl9HdGJyRU90ejl4VWhQeUVLRVZBdUstMHFWMXlTcWxtejhZa3lJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bleacher Report",
-   "region": "US",
-   "date": "2026-11-19T03:50:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cc63e776a8",
-   "title": "Trump pushes for three-way nuclear deal as Russia and China show little interest",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFsY2NGRl9SNFZaWGZyYmsxUjFWQ3VpblZGOUhVenZjeDF6TFh4b2JBQmlzRk1WWDVldTlPdFNXdFF2N0tWXzc1QUZaR1Y4dzJfanVMRHNrVHFrWlB3eWY4alF6eEJEUWFYRXNTb0J5Y1ZZUGtUZU9fSHM2R0t5WUZ4ZHBNeTBvWnQyY2M2LWlSZDV0NVFVZmpOS3ZyLWtzN010dFNCSnhMWDJ1eXBXWlJrTlJadw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBC News",
-   "region": "US",
-   "date": "2026-11-19T03:46:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
    },
    "topic": "Society"
   },
@@ -456,14 +445,14 @@
    "topic": "Society"
   },
   {
-   "id": "2480ef823a",
-   "title": "Brother of American killed in Costa Rica says he's focused on justice after arrest of former girlfriend",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUG5QUmxkNnQ2ODZzNzlzcnBoQV9jVFk5SVlUVWJPQ2FKc1BIQmpiUzJsbWR6UHR5VV9lanpkenVGb3dTQ2tRLVN6Ni03a2d6S3FFcFl2UVpOenIxWHp0T3ZrU1h3UjJrY3YwZUdQd1k2RzFNNUgyWXItX1pVNlVfamYtWTYwQQ?oc=5",
+   "id": "da7d270209",
+   "title": "GTA 6's Big Miami Heat Game Led To Black Friday-Like Crowds Trying To Buy All The Merch",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1NzOEFDbHF1STFRMFRpX1RKSk4tODZNWUtRRHBqeEo4T1d5MmticXJ5U2hFc3U0eExiazJnY2NkN1FtX0NQbWRCZUlNU1Q0SzNqMnI1NTBDNXlvWHFSenBWRUVmMWxsTi1nVW9LbmxLQlo1eWRXN3NvaW1BWGlyNmtqem9weTUzT1hqMzllUEw4ZFNTZXBjNVppS3FCM3VqOWE3LUlyQWhjZjFkdy12MEVmbWdlTEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBS News",
+   "source": "Kotaku",
    "region": "US",
-   "date": "2026-11-19T01:31:00+00:00",
+   "date": "2026-11-19T01:39:58+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -473,21 +462,76 @@
    "topic": "Society"
   },
   {
-   "id": "7957ead3d6",
-   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3VvcGJNZlJiaXZoWFBfdDFoWWpRTkcxby1rcVJNMGFGRWdoYmpOam5VWjlXNTVONWFfd0hLaTRnOFFnRUtPNEhsdmhNUWwyeDFJZE1HME45RnV5TF80dzBUUVJSVjFwc1B1VVkycnNXTzJiMGJfS0czM1JkS3BZMl9BdUktVUVrMlZWajB5eGp2NmVydm1Fcng2TXpwZmlIR3RVeGhFUEdkZDdSZVNiZTVkWXhaQQ?oc=5",
+   "id": "f242ed2a35",
+   "title": "Microsoft is killing To Do and telling you to “choose another” app, after it reportedly paid up to $200 million for Wunderlist and killed it for To Do",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQmJnUUJhTXdiNDNoUzJrYzM1NHcxMXFLaHhyaDhMRWhfY1dMWkUwLVVYWG1DWWI0N0RDSjUtTXFkV2htYzhFOWFvRUhWVTNJSWh5TF91Mk1FVTdJQ1VabjUwa1BDaFJhY0dDQXk3OFNOVzhkWmZXdF8zdGNlUE9fbnZHSnlmVkhQNlExM3MwNFVRZEF5UHBBcGEyU1J1ZmlDNWlldDFDcHpQSzBrS1RnbDI1dnZkYUNDME0tMW9vRWZlOXUweUlRc3BJQm13Uk5pQmdYWE5lQ3RuYzRwcnJjeS1QRmttYm5jQTF0YTZuZWoySUpPcUFqdFZxdmpGMVYwSEVuVHZsR1FET2xLeU5DLUx3OHpnclE?oc=5",
    "summary": "",
    "image": "",
-   "source": "TechCrunch",
+   "source": "Windows Latest",
    "region": "US",
-   "date": "2026-11-18T23:25:17+00:00",
+   "date": "2026-11-19T01:27:46+00:00",
    "coverage": 1,
    "location": {
-    "country": "Jordan",
+    "country": "United States",
     "place": "",
-    "flag": "🇯🇴"
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "fc2cdb4ff6",
+   "title": "Siri Modular Apple Watch face gains two new styles with watchOS 27.3",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2JOUnJ0SUNOVjNyTzdLcW1keEItOXpsTkRHUnhFWnVubHVOUGtmM0E3elZELTZ4aV84VjY1SGZId1RtX0RCQWFfWXFkX1l1Q2lkUVFTXzloUTY3R19WSDFwa0M3VVJxZXZwSHdQRTZvand5dDZJYWl2ZGVCc3pSOFQyMDh2bjhyd0p2RXViaDRyRjRlVENBNFJGZTc0UkRhdHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "9to5Mac",
+   "region": "US",
+   "date": "2026-11-19T00:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "7131ac9352",
+   "title": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaW9yLUs5SFJFWmk1NUp3aUpBc0lfYl95MEJsUl83dUs2ck9rT1ctbllHMFU0bWpseVFKSG01MV9ueV9LNW9EazJ2M2xla19qSzBPWklsM0F6ZHhDd3h1TzRxTFhSMm5aamtzN3AtZnFORWlNVk1yM0tTY0phUXRORmJwUmFIbU1BZ3ZyanlTVkg0TDMzekV3V0ZkVEl2MTNENkQyOTNSWjVsZGhVNWhZZHpFdjNDTUnSAbwBQVVfeXFMT2g5NGpZdnN5R1R2QXVsV2txeXQzYWhVdllQa1NrY2RSM2JsSHNvNmNWRnNzSGk2UlpoRnlJVFdGbGNQZnJwd0M2S2FDdEdRWmRDTEJ6UFdMUXp0d040UjlHdWFLLVROcjdmRHhCNzdySDNvWFdfWWRsS1BNVkNVYUYybnFmX2RaTFh3TmQxeFFqb2VvUnVxbWlpM3E5Y1Q0dWRPNVBJMzFGSDZZQnltTlQyYTlNUllQa09WZWw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "PBS",
+   "region": "US",
+   "date": "2026-11-19T00:36:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Iran",
+    "place": "",
+    "flag": "🇮🇷 🇺🇸 🇰🇼",
+    "also": [
+     "United States",
+     "Kuwait"
+    ]
    },
    "topic": "Society"
+  },
+  {
+   "id": "6f4cf10df7",
+   "title": "Florida pastor convicted on charges tied to 2021 assassination of Haitian President Jovenel Moïse",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWTk4V3VDS3AtQ3k1STBmbXhHdHBCMGRsanFMNHh1Q1NzVl91T3ZMRi1NbDhMZDFkQXZvdU9TakZHcjliUGR4ek9RbGJGYXR5VFNZbFhrd1l2dE9Nb0hqa3p6ZmtXOVE1X1lPQllJbmVueVU4YlhzZEFLV3RqSk96ZUxFWS1idFhhWmgyN200VQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS News",
+   "region": "US",
+   "date": "2026-11-18T22:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Politics"
   },
   {
    "id": "02743ff367",
@@ -507,14 +551,14 @@
    "topic": "Society"
   },
   {
-   "id": "030580d323",
-   "title": "Abdul El-Sayed Calls Out 'Grifter' RFK Jr. After U.S. Loses Measles Elimination Status",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjNycmpVUl91RzVOSS1tTmxrUVNrUHk1N0JxcW1GdmRqa1F6T2VETGNuZFpWeUZYODlVS1ZXeGp3elpJQk5iUzRzZi05R2RnNVpwYk9xR00yLXZnX1YxNTRxRVRuVEtjUGctZk16M3pVXzRqcUtHaE5oYU9rN1VqTzVhN244OWVjdllYUzhOUjLSAZYBQVVfeXFMTXdCbzBFSGJZRzl6NXFwbjJEWTdzRDB1SFpqOHhtcmYtd2Z4UUZ4SXhoQ3hKVklDblh2THVpb0l5YkFBSHBYNENQUGFXLTN1bHllczVUc2pWeGdMY1FydHhiRHRTel9GS0Q4bU40X2owa1UtVEVUVkFCS0pETDVNYkRXX2JfbWR2RHVSQlB5cjVYT0V2bzd3?oc=5",
+   "id": "df35064b5d",
+   "title": "Gold plunges below $3,750, silver tumbles as hawkish Fed minutes pressure metals - Kitco PM Report",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclJNeHVDcHRDMkU5SHdkUXJNNnFHZnZkb2dwS1dDeDN2UW5fOHhjeWxNbUh1M25uOVNLZFBrakVwVWgtUXdJcU9uV1VyVUhfYzNDek5zUTZCeWVLQ254SS10TjUyNmpyWFdydk5JNnlvUXJ5SWJSY1FSd3cxMkJ4WEYwYW9RUU5JcmlFMEFjZENFSXhMbWdKS0pkQkpuanJzeDQ2T1hlXzNXcDhMdzY3bVE5b3pQSUJaU3VvTg?oc=5",
    "summary": "",
    "image": "",
-   "source": "HuffPost",
+   "source": "Kitco",
    "region": "US",
-   "date": "2026-11-18T21:23:40+00:00",
+   "date": "2026-11-18T22:02:35+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -524,14 +568,14 @@
    "topic": "Society"
   },
   {
-   "id": "9e67967ca7",
-   "title": "Instagram finally lets users edit Stories after publishing, but there’s a catch",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVZkZnlsSEpDdElSZGdQYTBPaW5SU3dERHd1ZGtRVzRBQzd3Qk1fUnVHcERodFlOVHl0LWRUaVVGbm5FYXY3dkdYdkJVUHg4RXRHd3VpdVItVVZoTkRDelVSVmFoZEQ1SHNHelVEZk9FNVJPejNWUlN0VFpMVEUtRUtkWTgteXRQMVp4U043SklkT2Fxdkg2MWphTzhERkw2T1FGTTMzRlhaZVBYelE?oc=5",
+   "id": "50a9cb2d22",
+   "title": "Astronomers witness a star eating its companion in 1st-of-its-kind observation",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NqUGNSN0hpWFFpX1ZQVGpwV2hXT1l5d1I3VEN0Tk5lcEhCekhJWDJVekNhRE5WcWNCeE8zWTVZNDFNWmNkMTlQVndZeUxmYTVWaGpaUGV5Y3RfTGRVQTRRSGRjQjVwcEMteVJyYWZTYUEwc0tjNnJFVHdSVFltUnVQSVhhazVpX1lvbWdNWWZSX1ZfZmJOQ3I3c2pfYXNYdktiZzB1by1pdjc5bW1EQlFrbEE2U3M?oc=5",
    "summary": "",
    "image": "",
-   "source": "9to5Mac",
+   "source": "Space",
    "region": "US",
-   "date": "2026-11-18T20:48:00+00:00",
+   "date": "2026-11-18T22:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -558,52 +602,14 @@
    "topic": "Society"
   },
   {
-   "id": "1b7cf735fd",
-   "title": "Taiwan eyeing US-China-Russia talks",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93X2RrcW94LXo3eVhHMUhuTjJfZ0RKX0NfbndydW1zanlCdkRPX1h1OHVrZ01kbDAxNUt5aXZRQXQzVXJwSTNuMGFhNnQtbnlRcko5Nk5feVpJWE40dGJtME40R0RUemVxVEYyTXJvVHB6U2J1bjFsMg?oc=5",
+   "id": "1995d172ed",
+   "title": "Multiple short walks better than one long walk for controlling blood sugar",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYXN2RG5FWG14cUpJQ2Z2Nk1nMU9OeXNmc25TRTUzN0kzYUQ4QjBWcENUbjI4bWc5RDIzZjNnZzVqNG5WWTlDM1Y5d0tOUDR3eHo3eUpsaDdOMWpSX294a3ViV0JLZWVic25QOXRqTFdMd0JsTnZKUGdn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Taipei Times",
+   "source": "Medical Xpress",
    "region": "US",
-   "date": "2026-11-18T16:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Taiwan",
-    "place": "",
-    "flag": "🇹🇼 🇺🇸 🇨🇳",
-    "also": [
-     "United States",
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2e562f7bf2",
-   "title": "The Vice City Heat: Miami’s NBA team goes all in on ‘Grand Theft Auto VI’ collaboration",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUcxQ1RFX3RZeDZHRWUtb21xRGdNUUkya3V6V0xOMjhjXzF6WXE0aEJYWElBaGdwRldZM3dkTTZnenVTeDZ3d2h3Sk16SFkxVTlrVWFYRkszXzBQZTd6LXdSN0labGkzT1h0ZFB6empTSlUxcWRQU1BVVUpsV3pCbHVESVpUdVk1QnMwTEJlNm90c1IyMUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "US",
-   "date": "2026-11-18T15:09:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8d08ba2400",
-   "title": "Signs of Eagle Predation on a 22-kg Adult Primate",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaTjEtTEwtWVhCNFlOcDBIQnJkajc0M3Rra1VoYzhPTm43Uk9JYUVZXzY3U0c3NWhJa3JXUzFsN216azFuWVBGNXQwamd2N3lvRTdsdFBFWkFNYzFPRTRUcG9TMlY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Wiley Online Library",
-   "region": "US",
-   "date": "2026-11-18T09:49:11+00:00",
+   "date": "2026-11-18T08:10:02+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
