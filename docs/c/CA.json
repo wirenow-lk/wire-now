@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:55:32.345437+00:00",
+ "updated": "2026-11-19T11:53:43.945054+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
@@ -11,7 +11,24 @@
    "image": "",
    "source": "BBC",
    "region": "CA",
-   "date": "2026-11-19T10:43:14+00:00",
+   "date": "2026-11-19T11:48:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b9ed766a80",
+   "title": "‘Last chance’ meeting with Stellantis looms Friday in hopes of saving Brampton plant for auto production",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMzlTVXRBc0dSWWY2VW1wbXpOQTQxZmRvS0RETzlqd1I1ellLbEN3WmgxempzRlNkMm1CTXRyYVE2V3R3cnU0WFVNTW9Iak1fSUM3MXhaeXlrQlRpbG5tLTM4WW91TEx1azFOc2t0OHNrTEJJWFFHZWRsRjFUek1jVTJvUk4wWFp0LTZ2dnJsdExjY29QdjVtOE9hUVNEQ05hSHdYSGxsaHdxQkJReXhYVkEtck5rNUg4NTFYY2FheFhHRVYzR25HcFNoRHRHZGpwNzFUVUJmb05RVUt0RWRaWkZWbDhyOVE4U29aelYxek8tb1ZadkdqU0xHbExWVTVINTBMWnUyVW9UcG5ydXNrWTktejhBMDI2U1NoNFZPT21Cdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Toronto Star",
+   "region": "CA",
+   "date": "2026-11-19T11:12:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -39,7 +56,7 @@
   },
   {
    "id": "03f0f24ec3",
-   "title": "CTV News in China: PM Carney keeps it formal while Chrétien caught 40 winks",
+   "title": "Long flights, different styles: PM Carney keeps it formal while Chrétien caught 40 winks",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3FqZEtocVpaNjBfeU9NWll2MFR4czRRenJOR0E2MDl0bk84WFhvYjFzWkZaTXA1bjltaTZ4UDd4RXBmVmk0Wmc0cE96aXp1LURkVXQ5cE9YTUp3azllWFRNTmdqOWlSYVJfX2N1VFBOM3NGZmkxS2U0MjhnTnFJbjA5cnFhMzZ5MVF6XzhuZk1CeUlPTGstMGR1VmNaak43dlZlUlBKQVdWVWp6STlMcEJXbi05UQ?oc=5",
    "summary": "",
    "image": "",
@@ -48,9 +65,9 @@
    "date": "2026-11-19T10:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "Canada",
     "place": "",
-    "flag": "🇨🇳"
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -70,23 +87,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Business"
-  },
-  {
-   "id": "d0e4624f5b",
-   "title": "Astronomers have caught a star exploding in a distant galaxy. It could help them tell how fast the Universe is expanding",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3V3ozUVdoVTV3SHNZMnZyWFNhaFRNUW4wUUx4VU9WS1UxVjE3bGNkUDdibzFla1hubzB5bXF3X3NxVzdsbEdhZkw1WmxQblNpUU1zc09PN2xKNFJoX2xwQkRFR0RzT1VHaWlsRWFR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC Sky at Night Magazine",
-   "region": "CA",
-   "date": "2026-11-19T09:23:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "4bbf687d75",
@@ -123,21 +123,38 @@
    "topic": "Society"
   },
   {
-   "id": "a8f26ebef9",
-   "title": "Canadiens restore balance in bounce-back win over Devils",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekFnQll4cGZyYTFTS2ZuTU82OUczeHFVWFIxSEh1X2dCVTB6OWZtWnlCREl6U3VXa1U0WGJkWm8wVEZFLW1RZGpHSFhYRFVFTVhZZ2FvUDJvWmZ4M29JMmV3UFdpdmQ1c1lYZmVGREFPM1JtdkdDX1BOX2pfSHliS2Q1NmRpODQ2alBDM1NuRm56TkhYUm5tZ3pR?oc=5",
+   "id": "47f2a43896",
+   "title": "Earth shows off in first image released by brand-new weather satellite",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaV9KOXVPM21mbEVPaE9MQ1RvOWlSaEdKWDlpWGRvd1FISnAyOWRralFhYnVnMlk4TVRBREFVX2lsZlo5NWNNcklDYWhQazhSTm1mZVlnM2s3Wm5vRXJpVWJuYkR0a09xSUVBRG1GbzR4bVRUeUtXbmlsLWdKb3dwYjNFZ2ZGV0FNRlRXWEQtWGk0QTc3WlBBYjNuNGFJNFVNcW9ZZ0xySmhtYUdSd09uV2JFYlh2SkFkLXg5VWc0QzFsNEpFZDdBaGVSZ25XeFk?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sportsnet.ca",
+   "source": "The Weather Network",
    "region": "CA",
-   "date": "2026-11-19T05:17:00+00:00",
+   "date": "2026-11-19T08:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Society"
+   "topic": "Weather"
+  },
+  {
+   "id": "1a691b7c2c",
+   "title": "Canadiens end power-play drought in win, hand Hellebuyck 1st Devils loss",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlNGaWc3Ymh1VUJlQU5GM2M1RDJjODJFWXEwWWZvZFZIQl9pR2w1OUhCZnlPakVnNTlXcExReF9DTXFJWjRIdmVLRV9oaTI1MzBfbHpfcEY2cEVCeEhRaDhnSHpGczJEQVltT2RjOFBJMlBtMHVocndKdDBpeEdLWFRrbjJKVnNHVnUwaGpZNEtmcGQwMUhFYVlCc1Q4TmYxdzJsOFhBSkFkdXJvMFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-19T03:46:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Weather"
   },
   {
    "id": "119dd05df6",
@@ -157,53 +174,19 @@
    "topic": "Politics"
   },
   {
-   "id": "05c754bc93",
-   "title": "First Nations-led public health unit taking over tuberculosis services in some Manitoba communities",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNelB5NHI2cEZmRXpKQnljX0xBTmg4MGJud2pkd1E4V1BmdGpNbXA3VWtlVHNwTVF6eTlUaVhsVVdQR0s2LW9hOW9iMUJIRU5hM3liWDVWUUlQZmJNU0NiUW5GQXpfbUlnZGVTcDZsdlZLNGZGdTY4cUVsbVUyODlxX2JLSHJremNBbTlyTWxDOHVVSnJhY2pmQUJLX1JzcUhodGQycUZtTFBWVkE?oc=5",
+   "id": "3e71942a90",
+   "title": "Samsung Begins One UI 9.5 Beta Program – Samsung Newsroom Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ2xwTEJYcVpPV1QzYk9GUE9rZTNmdE1qRGs4bjAxUmR0Sy1zVXdxUWRmOGRmcDRtQWtQUmdxSW1zcFVoQzhmdnJXZkJpVnlYN3VVVmNfUlpxeC1feV9Venh5amcxMnJicVAxejc5N0JfOURs?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBC",
+   "source": "samsung.com",
    "region": "CA",
-   "date": "2026-11-19T02:43:00+00:00",
+   "date": "2026-11-19T02:20:13+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "Malaysia",
     "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "52069bcdf5",
-   "title": "Vancouver City Council approves review of tenant rights, rent caps between tenancies | Daily Hive | Urbanized",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVhRRVJmY0pmRlRYalJQSE9Ob0xKVUcxMjlwSU53YzREb1dheVdsa3BmZGVrMDdHXzgtX1FGUzhRWEh2LXV0ZWJJV3c2V3ZPeURPZGRvQ3pmOXJ4Y1RBX1pkaElvN2NmdlVYQmw1ZG9seUpqMl9aV2I2d2lHRmJJaWhMTGEzekdjRThFUzNn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Hive",
-   "region": "CA",
-   "date": "2026-11-19T02:37:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a85867ffb6",
-   "title": "Taylor Swift Throws It Back at the 2026 CMAs With ‘Our Song’",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUxwd3lwWGF5dmRleFJKVTlDTjVNeFdHal9NRnV4WlRvdkViTlduQ19rZ2VWYng4OF9vTkh6RFV5cVlxb3VEdEQwVWhaRUxpdVJlVGwwcU45OTNfUkRqVlpsei1ESXhpMGNrYTl5ZTl3aUZySW5aaFQ5SUw3R1V0cUI4aWhYaHZYWTZ5ekVvc2dwa3lyQnY2V0dkLU8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Rolling Stone",
-   "region": "CA",
-   "date": "2026-11-19T02:26:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇲🇾"
    },
    "topic": "Society"
   },
@@ -225,6 +208,23 @@
    "topic": "Society"
   },
   {
+   "id": "a1bad52daa",
+   "title": "CMA Awards 2026: Ella Langley Wins Six, Including Entertainer of the Year",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2QzWnJlbEs0MTZIRE9pTzBXbEE1M3hwM2NwVVpGWGdQbVBHckZTd1Nmb0pSNFRsQ0VRanFLQ0hMZXkxYmtpUlp6QkZZTzRZdmtkTGhHUmpCQkZrdm1SdUhsV3pneEJZVXBULVJSc1hlR0JRSWpDYnNxMHk0NFBOWDUwWWkyakRFUDBqSmlB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Variety",
+   "region": "CA",
+   "date": "2026-11-19T01:24:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "162a2e2ddd",
    "title": "Grand Theft Auto VI means Surrey landscaping company employees get the day off",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12ckVzQ3lveVFqaHFUU3V6dHd5bFlxeUNQa09VSWpPLWJ0cllLZ0tpUFVabmxtNzU2Vks4WXVLMFNITHhRTk5jc2E0X0h0c1Nu?oc=5",
@@ -240,6 +240,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Business"
+  },
+  {
+   "id": "a81b73eeed",
+   "title": "World COPD Day Highlights Importance of Early Diagnosis",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVM3U180UDZmdUVNd3lFb19EQmZTaEhzLURuX0paUzV0ZGpULVVycUZwVmZwUzNiVS0xZDZIaWFhOEtPNWkyeHppOWlmbXJEcHkxVVpWR0ZQQUYwb2RaZUdNZFpfTFB0Y2NfdkFZNmpuelY4RzQ3cXYtT2tQZE1YZDFJdllPaHRfQmphbWVsTHpsU0xqZVhxLWc2NG0tXzRDNmtya2VYc2dEcUFpNE9Qc2tXeWdkbi1Hd2p3dElkendmZFMway1DYl9mVVJ2WUhyQnlLTkRVRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Respiratory Therapy",
+   "region": "CA",
+   "date": "2026-11-19T00:46:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "819a439254",
@@ -364,6 +381,23 @@
    "topic": "Society"
   },
   {
+   "id": "94864b6d4d",
+   "title": "Boucher proud father watching son’s NHL debut with Senators",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzdNb2F3THdaVkRIcmpXZ3lPWVdJTVZfYVBpTzFsTDZGNHpSdk1Fc1RNRFpzMEdUYzBDdUZiaUNsclotaVZWczAzSmxJRXpHTlJCR0VsbXRZWEdZemc1d3I4emlVeU1oT2FvT1ZZVGRseXY3MWZzUE5DYm9CZGNZbV9YNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NHL.com",
+   "region": "CA",
+   "date": "2026-11-18T21:04:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "ecdf5cdf5c",
    "title": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of ongoing trade talks",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50UVl3Q0txWlFNdFNLZTUydVpiREJBT28wZ282ZVpqN21QckdPd3BjUlNuaXk1YU1zdkVJZTA1cU9Yam9fUTl3UEx1NERPSm5YV3pVUUoxZ3ZHeGRaY3lDdXRGMEZBUVpidGZBZEtfVmEzVjNaMXhkX0FfeWxrQQ?oc=5",
@@ -381,36 +415,23 @@
    "topic": "Society"
   },
   {
-   "id": "d87739a204",
-   "title": "CMOH Applauding Government’s Proposal to Ban Flavoured Vape Products",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mUnd4VmwwYm1oQ1hVQzFWWURTaTZ3OV9xRnRyc01keDVMT3pFNmVfY080WmRkcU91Unp6c1Y3NTc1djQ0WXk1WHpnTQ?oc=5",
+   "id": "272465b5db",
+   "title": "Trump and Putin to meet one-on-one in China Thursday",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnk2dG5fMko3ZE0wczJoQ19ZSXg1V3FMX0dBQWU5NV9zcjZPclFMTTlTZGQwOF9yTXFzTlFaQTlkczNPaWhSM3dtVUFaZ3lmajR6czBEQktIQTlsMTBUelU5LXctZ0U2azRHUGU3Q3RmU1JkaHprRDNZdFByR1lsN0dyRGhuU1RBT21URzVJX2dBcUxXcklLS1FR0gGfAUFVX3lxTFAtWmx5X1poVU9ZNHNueXpVZVJnZjZjT2NvbnRqZXJpT3JJN1c2Z1BHMV9ackNFZ1ZfSVptUk1TWU1mbXhGc3l1Z2w4aG95bFBjV1phRGR6Sm9BZ2JiV2FvNkdwNC0yME1UTDM5V1Jwdm83TU5zTnkybUJZTnhrRm1jN3JNQnR5VkZmaFd1b3F3LVdJbU9TT2FiVFUyRGYzWQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "VOCM",
+   "source": "Al Jazeera",
    "region": "CA",
-   "date": "2026-11-18T20:46:00+00:00",
+   "date": "2026-11-18T20:19:40+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "United States",
     "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "b3a25d106a",
-   "title": "Alberta regulator approves power plant for data centre day before tabling of bill that would block facility",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX01UbzhVekZsTEJ0QUpuaWo3dUdCd1dWclB1NkU3TGUxTjRyaUViazVYUDZoUVJrdnB4TDEtMkd1VnNrRnRoU2FSWkMtYWFybG9XdzBTSXdkMUMwSHFkclAtbGZQX1EzTHFEckRhM2szdDVZRXBWZjhGSU52Rm9VUDA2aTNaOXpva3JaOGRBdlRPazJZNmVYWlN1ZkZlNFRtMHdaQzFDNWE3UGwxUVFnUnM2M29BWGI5SmpleQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Globe and Mail",
-   "region": "CA",
-   "date": "2026-11-18T20:29:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇺🇸 🇷🇺 🇨🇳",
+    "also": [
+     "Russia",
+     "China"
+    ]
    },
    "topic": "Society"
   },
@@ -466,6 +487,26 @@
    "topic": "Society"
   },
   {
+   "id": "4b9f1b00fa",
+   "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkp4ME1fblhBUy1wZTFtSFgyelB0dll4Q2xkbDNlQ2RLN3lzamx2cUduSmIweHBtUldvSFZXZjNtcVgzT0JWc1VzTGkyQVlOS0NlbW5EODMxeHZjUW43and6Rm9wdkZaNzF4bWJWMXYwWEdjb3FKbnM3OFFuLWVwaDh5R2p6WG1yeFBXRlZCdjk2bExxVlVTZk1sQlRBaU5zQVRpb2xpMzU5THR3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "France 24",
+   "region": "CA",
+   "date": "2026-11-18T18:17:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "74e48ff54f",
    "title": "Carney says competition, prices and service key for telecom sector",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmlYTzBQdWFnTzdoVnRHNmwyLUpKb0VzT1VDM1ZYSlBKZnNEdUFmYXREajNaQjVKekRjeEtNN0QtY21PTGNfTkVobFN5MWV1QmtRVFNtcTl0dDFNLWpIZmJIVHJSN0ptbE1nOC00YjA3TWh1Wl8tVEtzZTZaeE1LTlNSYXFtdlVvakRMem1ENnNrSHJqQ1JEQi1OSTFYV0hqcGE5ai1JRFBXd3o5ZVBfdE51UHNqS0JnZ3Z2RlZYMWNVMEhuREE?oc=5",
@@ -479,26 +520,6 @@
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b0fb9d06b7",
-   "title": "Ukraine Wrecked Putin's Bridge. Now It Can Choke Russian Supplies To Crimea",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb19JZHIxVGthcjhHNGdJNFJ4ZUpCM0NLU200UER5Skk3SnhMVWhPY2FIbmxmdll3TEtiZThDOWFjOEtLS3VFdm5wZHpHcjA5YTVMSmhRdGxLNW4wUFZxRl9aY21oLVFJV3V0RkNwTHF2cE9zRXhXaklReWZJN2dOVENmNGo4VWcxdGfSAYwBQVVfeXFMTVhwckp2Z2VoWXljM3BYYmdyTnRWNUxXTU9Xb3BhaV9yS2NEaVdLczVnczBkWmR3U0VfM0hQUGNQa1FkVzJReDl2dGY1NmY4R2ljNkJQSjFzNFVBVWpZckZLY0d5THBvQnBwUk1fQUZDMzVVR1NMSndWaGlfd2F0X0czVTcxUXVZNkdNUUM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Radio Free Europe/Radio Liberty",
-   "region": "CA",
-   "date": "2026-11-18T17:18:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇷🇺",
-    "also": [
-     "Russia"
-    ]
    },
    "topic": "Society"
   },
@@ -537,6 +558,23 @@
    "topic": "Society"
   },
   {
+   "id": "e17e2c06c2",
+   "title": "‘Not anymore’: N.L. judge denies bail to man who bragged about Canada's easy release",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHhxTjJOOHBneFF4UjF6TWZuTmVIaUE4aHpRY3JYVFIwN05OcHplc3dydURkV3FiWHUxdEtRX3JtWHZrci1FQ3ZKMTRyN0J6cVFqY2Vfd3dCZERuZHg3ZkViaWtfbzJCTUtmdlI4cjdTR1ltR2xpVG54RGFFZUt0OW5VWVoyalV6UHdhNllGdjJsRXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-18T14:30:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0f2571d8dc",
    "title": "'Grand Theft Auto VI' has couples debating whether in-game romance counts as cheating",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkthaVpkdGZqeF8tVnFXWC1RTUZjS1Qwc2NOTTU2bzlUWVVPYXo0alhTZU9QMUhpYWY5c01fYVQ3cXd3azdoaWVVaHNIazFyWGRBQ05DUWNrZ0EtLWZWSllWR3BHRFROcVhISV9yQVZzaENqd2IxRExIcTNmaG1BOHpVNlk0REZoZ1JWRl9QYjF0TVR5MEp5MjZiY0dCMDBybXVudnlCX01iZDM5SWJCcWYwNDdVVl9YcmN2Y0lNZUl6NU0?oc=5",
@@ -554,39 +592,19 @@
    "topic": "Society"
   },
   {
-   "id": "5bbe5e9adf",
-   "title": "Samsung brings the native App Lock feature to Galaxy phones with One UI 9.5 - GSMArena.com news",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3d5ZHBxYlhsOVBEd3pYY3JFcV9iTXZKWGpGU2JwdDd6VFkxbnF1U1FBQU1qakNXWEdlR2FrRmxFS2h5cmRSYVZpMXZtamRYT21HQ2tzZXRPN1VLVUdsSTlFNnMxSGpfekhSMjk1bU5iMlY0YTM3cVBJY3BkS1JlVNIBfEFVX3lxTE02cUpqRHNGV2FEb0ZsUGoycXNHZjJwbGRhd0dfelRyaGhCSTJCa3dURk11czFwSDNHaUQwbmpXejRlRU5OUnpSTW9wVnRHWk9oZWxtUEs4SUVWUElueGFNdUVqLXZTMjV6VTB0Rm05QnAxdkZvWE85czFGaVQ?oc=5",
+   "id": "bf1e0e8c6b",
+   "title": "A group of isolated Indigenous people in Brazil was seen near a village. Activists call it a ‘crisis’",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYi1yODR5c1EzUF8zQjBoeVhkQ0swS0Z3akl2RXktOU5WVmh5VkgzYlFHUWxvb1ZKX1VJdkRjdElXWDVyeEViZms5MGxOQTFvOTdZRzRYcER4THVCNmpKMm1QQkJ0YWI5WmNSdFFDS0R4bWlHZ29ScnNoR0FZRFB3eUpGeFNpZ2p2b0pqSWFSbWxLaHJyQjE5eHZ3WGp5SlB6STVWQkk2Ym1MY3BjMVYwbFFZeW4xZmpqV1M0WlI5ZE15VkFnNkxnclZoa2Z0R05QUjNfZjZyMHAxZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "GSMArena.com",
+   "source": "CP24",
    "region": "CA",
-   "date": "2026-11-18T12:13:02+00:00",
+   "date": "2026-11-18T12:42:59+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "Brazil",
     "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "c93549d7fb",
-   "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3RqMFJBV29zRWdMOWZhLWpzZmo4YlpWMnhZd2k5VXBpWU1xZTM2VUNEOFkwV1J4STFoZFhiSElEYnVYTU5RUUFzZ1E3RHlFYUYwSk5VbFJKdExOSUM4TUZYMEk5cVFXenA0V2JMVWNaVE11ZG9kaVdUQ2pDSnV1OUxpcHZaMkpJRGR6ZVlMRjZHWXFYcE9ORjdkaHJ1NmtfM214NTZDN1A4SjdLVGM1SU1qWdIBuAFBVV95cUxPajRldTBMVFFRSnZjdENVdnhHd0dXTXJSMTdQaUJ6V2QtR0p3VDAzVmlDN29Iemw0dE1PNUY4QmRIdm9CVjJ6LXUxMkZpWjQ3MFY5dGFIa3NyVFlJUTZnTUl2UVFxVHNDTVo3d0RreTc0RTF3NHAwcGpFVGhUeFVXRkt1UnNGTnVRb2R2RENCakVkVVoyRVlLZWVjU0hLUFRvWGFFVUlqeHB4dzYwdW5ieG1oc1Q1TnlH?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "CA",
-   "date": "2026-11-18T10:42:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇨🇳",
-    "also": [
-     "China"
-    ]
+    "flag": "🇧🇷"
    },
    "topic": "Society"
   },
@@ -599,23 +617,6 @@
    "source": "CBC",
    "region": "CA",
    "date": "2026-11-18T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "621657d88a",
-   "title": "Gauthier ‘just flowing’ during 10-game goal streak for Ducks",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHpEV19RLXVmUk1HT09jQ3V0WXB5eF9xaHlweHhVZXpiQjAyQkRfU3FGWkI5ZHJhM1lpSUUxeTFkcUlhVTFwTDBRU2MtM2N1N3k1SmVBYlIzR19Bd203bDZTNk13b0RYa3dhbzJKb1lfYVV3OW93R0tZUFFIOGZRbVJWNkNzTjhxcnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NHL.com",
-   "region": "CA",
-   "date": "2026-11-18T06:48:23+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
