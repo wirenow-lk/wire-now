@@ -1,21 +1,21 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
 
-OK   Google Top Stories LK: 38 stories
+FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
 OK   Ada Derana: 51 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 18 stories
+OK   EconomyNext: 15 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 18 stories
-OK   Daily News: 69 stories
+OK   Newsfirst: 16 stories
+OK   Daily News: 68 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 14 stories
-OK   Google Top Stories World: 58 stories
+FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
+OK   Google Top Stories World: 55 stories
 OK   BBC World: 36 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,63 +23,67 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 98 stories
 
-Biggest stories right now: Top UN court finds Myanmar committed genocide (9 outlets) | Xi, Trump and Putin conclude historic trilate (8 outlets) | Fiona the hippo dies at Cincinnati Zoo after  (7 outlets) | Central Bank hikes policy rate to 9% and rais (7 outlets) | How did Anthropic's stock market debut unfold (6 outlets)
+Biggest stories right now: Trump, Putin and Xi to hold historic meeting  (10 outlets) | Top UN court finds Myanmar committed genocide (9 outlets) | Fiona the hippo dies at Cincinnati Zoo after  (7 outlets) | Central Bank hikes policy rate to 9% and rais (7 outlets) | Thailand’s Deputy PM to Visit Sri Lanka | Vis (5 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: Three Navy personnel honoured for rescuing 69 people during Cyclone Di
+* Hiru News [1 outlets]: Oil prices rise as attacks on tankers revive supply fears
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
+* Hiru News [2 outlets]: Man arrested in Katunayake with illegally imported goods
+    important (also on Newswire) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Card refers to the suspect as a man, but the article calls him a suspect.; Card says the suspect was driving a car, while the article says he was transporting goods in a car.; Card uses 'illegal medic
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 2, written by openrouter)
 * Ada Derana [3 outlets]: Haiti police operation kills 34 suspected gang members in capital
-    important (also on Al Jazeera, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    no AI summary: saving the rest of today for important news
+* Newswire [3 outlets]: 2027 Budget Second Reading vote today
+    no AI summary: saving the rest of today for important news
+* Hiru News [3 outlets]: Sri Lanka and Thailand to sign visa-free travel agreement for ordinary
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: MP Chamara Sampath’s bail request rejected over alleged Rs. 840,000 br
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: El Salvador’s Bukele expected to formalise bid for third presidential 
+    no AI summary: saving the rest of today for important news
+* AP News [2 outlets]: Judge says agriculture secretary’s religious emails were unconstitutio
+    no AI summary: saving the rest of today for important news
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 3
+  photos: 11 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  translated summary into Sinhala (gemini:gemini-flash-latest)
+  Fact Base: 9 facts and 0 people saved
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Blurb states police killed gang members, but article says police reported killings.; Spoken says 'suspected gang members' but article says 'gang members'.; Spoken says 'major development' which is not
+  meaning check: 15 stories judged by openrouter:openrouter/free
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 2 rejected: the name/word 'Salvadoran' is not in the article
-    -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Suspect arrested transporting illegally imported medicines and cosmeti
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    attempt 1 rejected: Gender claim 'man' not stated in article
-    attempt 2 rejected: key_facts shortens 'Negombo Divisional Crime Investigation Bureau' to 'Negombo Crime Investigation Bureau'; key_facts shortens 'Katunayake Customs Preventive Office' to 'Katunayake Customs'; spoken cl
-    -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: COPA approves Rs. 65.09 million write-off of Agriculture Department lo
-    important (also on Daily News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Sri Lanka rupee closes at 332.75/85 against US dollar while bond yield
-    important (also on EconomyNext) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: SriLankan reclaims APEX Best Entertainment in Central and Southern Asi
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [2 outlets]: Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senat
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: the name/word 'Department' is not in the article; the name/word 'DoJ' is not in the article; the name/word 'House' is not in the article; the name/word 'Justice' is not in the article; the name/word '
