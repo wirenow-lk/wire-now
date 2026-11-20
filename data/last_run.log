@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 30/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 32/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 49 stories
+OK   Ada Derana: 48 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
-OK   Daily Mirror: 97 stories
+OK   EconomyNext: 20 stories
+OK   Daily Mirror: 99 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 22 stories
-OK   Daily News: 68 stories
+OK   Newsfirst: 29 stories
+OK   Daily News: 70 stories
 OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 2 stories
+OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 13 stories
-OK   Google Top Stories World: 56 stories
+OK   Google Top Stories World: 53 stories
 OK   BBC World: 36 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,20 +23,27 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 94 stories
 
-Biggest stories right now: Top UN court finds Myanmar committed genocide (9 outlets) | Takeaways from the historic summit among Trum (8 outlets) | Sri Lanka Central Bank raises key policy rate (7 outlets) | Cincinnati Zoo’s famed Fiona the hippo dies d (7 outlets) | China and Russia release 'peace declaration'  (7 outlets)
+Biggest stories right now: Cincinnati Zoo’s famed Fiona the hippo dies d (8 outlets) | Top UN court finds Myanmar committed genocide (8 outlets) | How did Anthropic's stock market debut unfold (7 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets) | Notorious Criminal ‘Rotumba Amila’ Brought Ba (6 outlets)
 
-8 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newsfirst [1 outlets]: Sewer Leak Causes Road Collapse Near Borella, Traffic Diverted
-    important (serious news) - researching
+* Daily News [5 outlets]: ‘Rotumba Amila’ brought back to Sri Lanka following arrest overseas
+    important (also on Ada Derana, Daily Mirror, Hiru News, Newsfirst) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily Mirror [2 outlets]: Suspect in police custody dies after falling ill
-    important (also on Newswire) - researching
+* Newswire [3 outlets]: Rs. 8.4 million bribery case : Bail denied for Chamara Sampath
+    important (also on Ada Derana, Newsfirst) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -47,25 +54,41 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Daily Mirror [1 outlets]: 325,616 raids, 324,780 arrests under ‘Ratama Ekata’
-    no AI summary: saving the rest of today for important news
-* Daily Mirror [5 outlets]: Thai Deputy PM to visit Sri Lanka; visa-free travel deal on agenda
-    no AI summary: saving the rest of today for important news
-* Newsfirst [3 outlets]: Anthropic Ends Wall Street Debut at $97.17 per Share with $1.27 Trilli
-    no AI summary: saving the rest of today for important news
-* Newswire [5 outlets]: ‘Rotumba Amila’ brought to Sri Lanka from Russia over organised crime 
-    no AI summary: saving the rest of today for important news
-* The Guardian [3 outlets]: Texas botches execution of Reinaldo Dennes as staffers struggle to fin
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Tears of joy, prayers for return home: Rohingya react to genocide ruli
-    no AI summary: saving the rest of today for important news
+    attempt 1 rejected: Claim that prosecutors say the defendant demanded payments in exchange for licences is not in the article; Description of hearing occurring 'this morning' is not explicitly stated in the article; Refe
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 2, written by openrouter)
+* Ada Derana [4 outlets]: Mahela Jayawardene appointed Director of Cricket for Delhi Capitals' W
+    important (also on Daily Mirror, Hiru News, News24Online) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [3 outlets]: Pakistan cruise to eight-wicket victory over Sri Lanka to clinch Test 
+    no AI summary: saving the rest of today for important news
+* BBC World [3 outlets]: Europe ready for talks with Russia on ending war in Ukraine, leaders s
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: US robbery suspects charged over alleged $22M train heist spree
+    no AI summary: saving the rest of today for important news
+    search failed: not well-formed (invalid token): line 1, column 41
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (503)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -76,22 +99,13 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 rejected: the name/word 'Secretary-General' is not in the article
+    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 2 rejected: Place 'The Hague, Netherlands' includes 'Netherlands' which is not mentioned in the article; Statement that the ICJ is the 'UN's top court' is not stated in the article; Details item 2 cites 'November
+    gemini failed (The read operation timed out)
+    attempt 2 rejected: the name/word 'Germany' is not in the article
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 11 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 8 facts and 0 people saved
-  meaning check: 15 stories judged by openrouter:openrouter/free
