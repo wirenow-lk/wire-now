@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 65 stories
+OK   Ada Derana: 62 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
-OK   Daily Mirror: 98 stories
+OK   EconomyNext: 21 stories
+OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 15 stories
-OK   Daily News: 62 stories
+OK   Daily News: 63 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 22 stories
-OK   Google Top Stories World: 51 stories
+OK   Google Warnings LK: 21 stories
+OK   Google Top Stories World: 44 stories
 OK   BBC World: 36 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,55 +23,36 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 98 stories
 
-Biggest stories right now: Top UN court finds Myanmar committed genocide (11 outlets) | Takeaways from the historic summit between Tr (9 outlets) | China and Russia release 'peace declaration'  (7 outlets) | Riyadh skyscraper damaged in Houthi missile a (7 outlets) | Kaduwela Fire Claims Lives of Four Family Mem (6 outlets)
+Biggest stories right now: Top UN court finds Myanmar committed genocide (10 outlets) | Takeaways from the historic summit between Tr (10 outlets) | How did Anthropic's stock market debut unfold (6 outlets) | Riyadh’s Tallest Skyscraper Damaged After Hou (6 outlets) | China and Russia release 'peace declaration'  (6 outlets)
 
-5 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Page Six [1 outlets]: Jon Hamm, 55, and wife Anna Osceola, 38, welcome their first baby toge
-    normal news - one-paragraph summary
+* The Island [1 outlets]: Police constable among three arrested with ‘Ice’ in Muruthalawa
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* CBS News [1 outlets]: Stocks plunge as investors take cover amid growing uncertainty
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Yahoo Tech [1 outlets]: 'GTA 6' release live updates: Reviews, memes and more as gamers explor
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [2 outlets]: Why China's EVs could throw a wrench into EU, UK trade talks
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [2 outlets]: Trump posthumously pardons US baseball legend Pete Rose
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
+    cards OK (attempt 1, written by gemini)
+* The Island [1 outlets]: Over 500 march for justice for Kavantissa, demand accountability over 
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by gemini)
+* The Island [1 outlets]: Hasty arrests and tardy probes
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: the name/word 'Lankan' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -80,25 +61,15 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    attempt 2 rejected: The spoken card says suspects are 'refused bail', but the article only says police 'object to bail on various grounds'; it does not state that bail was refused.
+    -> no cards; posting with the site's own summary
+* The New York Times [2 outlets]: Agriculture Secretary’s Christian Messages to Staff Went ‘Too Far,’ Ju
+    important (also on AP News) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [1 outlets]: Man who swallowed gem transferred to Welisara Hospital
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 8 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 31 story pages for Google)
-
-Countries: IN 38, PK 33, BD 0 (FAIL), US 38, GB 35, IE 37, CA 0 (FAIL), AU 38, NZ 0 (FAIL), SG 34, MY 0 (FAIL), PH 34, AE 0 (FAIL), IL 33, NG 31, KE 31, ZA 36, GH 31, FR 34, DE 0 (FAIL), JP 10, IT 0 (FAIL), ES 0 (FAIL), BR 33
+    attempt 1 rejected: Cards say government executive officers launched/struck on the 20th; article says they will launch a one-day strike today (20).; Detail says the Imran Khan motion was 'by' Ajith P. Perera; article onl
