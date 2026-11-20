@@ -1,28 +1,8 @@
 {
- "updated": "2026-11-20T20:45:10.358951+00:00",
+ "updated": "2026-11-20T21:32:51.557139+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
-  {
-   "id": "4135ae59dd",
-   "title": "‘PROVOCATION’: Russia launches ‘one of largest attacks ever’, hits Poland",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbjIxUGRvVndkVlZsUTJ3dVNqNFkxNG5Db05vX3lpd1BFdk5BUklHLWZTMlhURF81c3hzWXNfWmw3RVZpQjFLZlE1b2lONHdtS3hDNU9rNHZ0MWxZT3VvOHh4U1pZeUtyYXB5NTVxcEJGbVVWdHp6MXJ2VU1pbUc2N2pYTDFZR2xLYkdtS0dzeUZCUXJ6Z2QycGplTXltMDFncWlDQ1VoQlF0V3NmSHJMMzBlSm9yUUlUeHlCdDJYNndtSW9oRFdDb2R6aWhsVzJLSENvOFUxdFdjdHBudkFFUjZIZDNDY0FleWpTWDc0d2JLMndBUUVtMG0wOTBsNkRR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News.com.au",
-   "region": "AU",
-   "date": "2026-11-20T20:08:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇵🇱",
-    "also": [
-     "Poland"
-    ]
-   },
-   "topic": "Society"
-  },
   {
    "id": "1109196d08",
    "title": "Every pick: Bid wars, bolters dominate draft’s night two",
@@ -31,7 +11,7 @@
    "image": "",
    "source": "Herald Sun",
    "region": "AU",
-   "date": "2026-11-20T19:51:26+00:00",
+   "date": "2026-11-20T21:21:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -75,14 +55,31 @@
    "topic": "Society"
   },
   {
-   "id": "9fb931a22a",
-   "title": "Aussies abandoning the job hunt altogether as experts issue grim unemployment warning",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDltdGZKMHBzcThZZ0QxUnVxeVF3bTMzTDMtcnE0czBMd3lBU2hYZmN6OVVQNFpQYlhYMkNiTlhkQjBWR2JDUVNQYzZ3RFJ1cWpGN0ZJOTJRQndlQzR4ekZuTTlxenlEN0NXR1FwZVJLOVZXeXN5Q3VreDAwUGtlWkFpam9SRzZiM0tJSDFjLUpPd1FSNjM3djM2YmlIeU1abDBvUzZKSU1PQkJIMHEyN1poSQ?oc=5",
+   "id": "2c7f77453a",
+   "title": "Improving bioreactor control with Raman spectroscopy",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS09udkQ5VGw1bmpCak9STVdGU1VoWV9QaUluU2UtQ083MjZkV2kzZUhwa3pBMndHbWVEaGdPTzItb01Fc0VCc21qR3BsbGZ5QUNCZjdMYWZ3MndDWTF2Y2h2c3NQV0tkQ2R4TzAwaUNheDExZlpkWU5wOWE3LWNObzkyNmZ3TnJXbktLbmxtdVFNTU9BMU02cXRYS3Z5LTUxSDBrMkhKMVludw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Nine.com.au",
+   "source": "News-Medical",
    "region": "AU",
-   "date": "2026-11-20T18:32:58+00:00",
+   "date": "2026-11-20T18:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "60697abe83",
+   "title": "Cop31 draft climate text dissected: what it says and what it means",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEpYbE9TM250clRJWjg0b0NBZzlWcXdjZnd6MlF2dFE2bmVqVHBHT19ydjFHYUxqN2lhcnl0Q0VXWVBwQ0RqSFQwX01vR0VZaHRpeGtJUl9yVEEzWklqSk1tY0p6M2NRdmV0bmtDbmhoenczUDVHRlF0TXdpVVY1T3RkU3JsdVVETlFoWF9GcmtUVndoRERnRy1pS1BjVDNULW53?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "AU",
+   "date": "2026-11-20T18:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -109,14 +106,14 @@
    "topic": "Society"
   },
   {
-   "id": "de01196c0a",
-   "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBITFpHS0hrdUlRSTJWUHNLVnEwSmZtLW5kVW5DUnB3WnpaLTllU3IwZHF1bmFVckhPWDhmTDE4WHRDbDg5X1NNejIzWjlXQjNTWEozNVpPZ25rckp2bGtDd0VVSVBmQWhGOGZwZGdmbnJpcXhzdEdzOQ?oc=5",
+   "id": "2cb1384001",
+   "title": "Launching an Investigation into Cannibal Coronal Mass Ejections",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWtQQmZUUDZpWTdjdlBPY3Zjb3BfZEtaSHR5cW80UTVpOHMzaThheDh0encyVlR2alZkV3NORFdXWENnRkVQN2JJSjZYNkZJODFudnkyY1kxRkVLZVBMd3E1ODFta09ubmgwcmNQU0JyZVNrNzA4Z2NRcm1lVXkzbDRYZmZGX1k0MW1MQVlkSllwUDVuQnN6ZlpVWQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Phys.org",
+   "source": "AAS Nova",
    "region": "AU",
-   "date": "2026-11-20T17:20:12+00:00",
+   "date": "2026-11-20T17:00:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -156,6 +153,26 @@
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d7de1fe56f",
+   "title": "Xi hails 'comprehensive turnaround' in China-Australia ties",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHhaMkRlWERNdEhzanBwSHBJVVU4eUFLSUUzaXF6OFRnOTczX29tdnlhZEM0ZlhNZnBRTmpjcXVKQVZyOUxycnhVMmRwQzBUSlhwS1pDOG9KZ2V5dlhoaW40MWJUQ0RVTmNVY0xhWTd4Sm52QmhGSnp6M3NvSHBsU2RDbFV2WGV1dk9KTm1TYTdpZUcydUtNc3M3MzhVWFRJSHVQRA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "AU",
+   "date": "2026-11-20T15:34:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳 🇦🇺",
+    "also": [
+     "Australia"
+    ]
    },
    "topic": "Society"
   },
@@ -228,23 +245,6 @@
    "topic": "Society"
   },
   {
-   "id": "c47f189e51",
-   "title": "Anthony Albanese didn’t dazzle on the world stage, but he didn’t miss when he challenged Vladimir Putin",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaGdIZXpjZ0FVMWV6UURpcXdEU0RsS2wzY3ZWWWppQThGc2xQQmV3STY4YnlVYmx3RU9FTDFoSTR0NTJHODBSTXdXQXFnWDdqcHNtNzZRZFMzMkwyNG9FLUxjQXd0WVVPVmp1RW8wbXRua2F5a25wVGZpNzJITWdLTUVnbzhPN2NubElxZmVqcm95Z0N0eUlfN1RpRXB5NVNaOXNsSUQ3NEVDUmZRYVBNdy00R0g2UGw5QjJSSnNLQm0xcE1HOE1lLUpYQWRzTnlURnJMUEdERnNXc1Q3SFFJS09TbWlETVRCTWNJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-20T14:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "74819c3ed9",
    "title": "Himalaya-sized ancient 'supermountains' found beneath Antarctica's ice sheet",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTBJSUJvSjlmQ0dBOUxyZG4tZDhCNGVHekNqeDJ2R3lsLWVMTVFEQ1IwY3I2V2Vmb2Y0Z3RIMVZncUpZd2FlZl9hV0RoemJQX0p5OEJ3OWdtRTZfd256MkJ4ZDdwSzZqbHZjNWg4U3p5SFdZcHRRYm14SW95ZnZYQi1QQm5xZE5MUUowYVBPNUZHcFQ0YlNHN2ZkQVF6ck93TWJPS1M0WHh5Y2RKdVE?oc=5",
@@ -253,23 +253,6 @@
    "source": "Euronews.com",
    "region": "AU",
    "date": "2026-11-20T12:55:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "259bdb738f",
-   "title": "Scientists Turn Moon Dust Into LEGO-Like Bricks for Lunar Bases",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0dsTmRJSUt3TjBxdGlIUFkzenpBZUVkNEs0MnlvUENUcTlUNXN2UFJnaEVlU2haVkhocy0xVGVLTWYwcl9BSDBZVUl1Y0UyeWhuaEhKblo1cHdHNURmSjJMeWREenFiWHc1eUJpMUk5V1dPc1lVTkVLRUZUYy1Ial8wN2h3SFJpbXN3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mirage News",
-   "region": "AU",
-   "date": "2026-11-20T12:52:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -296,43 +279,6 @@
    "topic": "Society"
   },
   {
-   "id": "fb488d7dfb",
-   "title": "I've only sold five copies of GTA 6, says shop owner",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRYXVUZmpPVHlzZHI1RkREalpQcHdmQzVOVGQ3dHZ6c0FNUU5VR3VrQlp2RnFGc2VYUjk0RGVfUjgxUDJ2MGNJMmdRYmx0cTZIRTdXSzRzZFlYelk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "AU",
-   "date": "2026-11-20T11:29:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8eae5ade94",
-   "title": "Xi Jinping says a ‘full turnaround’ has been achieved in Australia-China relations, praising Anthony Albanese",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTHFNYU1udTM0Q2UtWDFLN0RRcEE2NWxsa2JqbFdEcXVsMVhvd2NMMmhFbUFZR1J4YktFOEN3cXAzLVI4dW1xRHROX2pfbG9XLUNOdGN2MHV6WGxsRW5vSmZWejhua1J1M0FSVGdfd1NKdndUMXg5N2dORXNLNFdzTTJEc2pOd2RybGljbjJJLTh1cTJxYUtWQVNOZGNXUlZKOUdFRklXRl9kaUlLM2pfeGRHajFmaTI3dlhqb2J5SW9TWVJzVmtfNURHc2s3UThVOU5STVQySFVtT0lRal9rVzZySDJTVkU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-20T10:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇦🇺",
-    "also": [
-     "Australia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "8a9d0cb853",
    "title": "Teen shot dead by police was not 'just a terrorist', mother tells inquest",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGx6WHlxWmpXMnZNeFJROFNtUzV0UXpaTG1PTGlQSzVEZm5kMDlrbVBNWUExeEZMMUQ5OUZxNXlaUFoyelB4MldiUDR4UFFBLUFNSktkV2dLNVdNc0hRVURDeEtPTGtEODJBN2pJakVEaEkzeG5oOWNDWV9uMzFTWW9RdWhPY05VaWtkanljMUpCNXBLQUR6bTVJN1QwQQ?oc=5",
@@ -348,23 +294,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "5d6a53bf24",
-   "title": "Man, 35, charged over alleged ISIS-inspired car bomb plot following Sydney terror raids",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BDcjBuLWZ2bFc2VHdRU3phOGw2TFo1dEl4TnBWMjM0dVdocnlwRTZacldTQWNzQUpHUTluakdGSU1RVlVXMEQtTmJmQlc3aVRkZnlJTVVfeENfV2ZWZXRwVXVMMU5UR2RJd2dFVmZnODBRZFhEV1h6bzRZZmVpQndlaDdud1JiS3BJSXZYckJSLUhBdWdLZzNXWHlPbW1WVUNEcFBHdy1ZSHlLV2thYjFWY1RSZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "7NEWS",
-   "region": "AU",
-   "date": "2026-11-20T10:09:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
   },
   {
    "id": "1191dcc90d",
@@ -438,6 +367,23 @@
    "topic": "Society"
   },
   {
+   "id": "4f589f5b1b",
+   "title": "Severe thunderstorms predicted to impact large swath of country from Queensland down to Tasmania",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQkpEY1E1ZGI0NjFaM2VMMndsck5FckotNGhNTy1RNGtUUWxIaXQ1WFY3ak1uZVpTS1ZOdVkyTkkwQ3JNQW54WlpibDZFc01pemlmS0lfRFNfWEcxeFdCN0Q5X1JNYjdFbXZPMkowdEpxQ25paDBYSldJV2ctd2ZPMXY0NlpMLXVEV1VLY0RqU2k1X1RyaXBMcGxTd2xqV0JHVG1CVTVJaEZzSEcxbFFLSkRDc0pCSnVHYXdSS1dYLXhTell4RUtiZHAyakcxdDRLQ1h2V25hS2LSAd4BQVVfeXFMUEJYczVWUGJMcmd2bzgwQy1RMWNLdmo3Z3ZSaHRzOENqTG8yNzlKcUhVWld5SXhRazVZdzk0U0VERTBPaHZzbVFBU09aUjl6enRyUVNrR3B6UlV2SERTanV6Sk5uejhHTTVPUnZuS3U2TFdyTDBQTW9pbGUxTmRkVEVTalBpLTRGd3ZMaWFlNm9peVYyZVBoWXF1QW1iYVc3VTl3UlNJYWpaMFhTaHJRb1kxc3V3RVdKUHktTThkQkxKY0xOV01NUkxKbThvWlJMakFsY1M4ZDdfYlRENXhn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "7NEWS",
+   "region": "AU",
+   "date": "2026-11-20T06:27:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "52f8109e2c",
    "title": "Cricketers' association slams 'disgraceful' treatment of Sandpapergate players",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0dVOXoyREY2Qmh2c3RkYlJJSm9veTFSWFc4Yl94NS1jX1BuOFVjcHZsRkh2WU03eEd1NXNhVWhrWkxvZl91N3lmUGI1d0doTTYwVXRsbC15ODBFa3dMaTRMSXlkRkw2eWVVcTZpWTY4SnlaOWNNT0FxVUZHbXV1bTVDb0lnVnowRU5EaUJCbjJoVjR6Y3FKYndxVFl0X1ppVnhDcTkzTmVvNDdXaDNF?oc=5",
@@ -445,7 +391,7 @@
    "image": "",
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-20T06:16:34+00:00",
+   "date": "2026-11-20T06:12:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -453,6 +399,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Sports"
+  },
+  {
+   "id": "9fb931a22a",
+   "title": "Aussies abandoning the job hunt altogether as experts issue grim unemployment warning",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDltdGZKMHBzcThZZ0QxUnVxeVF3bTMzTDMtcnE0czBMd3lBU2hYZmN6OVVQNFpQYlhYMkNiTlhkQjBWR2JDUVNQYzZ3RFJ1cWpGN0ZJOTJRQndlQzR4ekZuTTlxenlEN0NXR1FwZVJLOVZXeXN5Q3VreDAwUGtlWkFpam9SRzZiM0tJSDFjLUpPd1FSNjM3djM2YmlIeU1abDBvUzZKSU1PQkJIMHEyN1poSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nine.com.au",
+   "region": "AU",
+   "date": "2026-11-20T05:55:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
   },
   {
    "id": "5ef1392240",
@@ -470,6 +433,26 @@
     "flag": "🇦🇺"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "593fa7f167",
+   "title": "After meeting Putin, Trump tells Europe it could save money ending the war",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckVSVl9lSHV4NVFYdDdSNkJYekdSZ2ZaSmw5U0RBQ2xWTl9LY1FWb3FwUjkzVW9OVkNUbHZIVk83R3Njay1QVHpVbkZuT0lUM0ZqWWxmdVhOUVFfc1BhNXpHczZFMWYxMWh1ajNubWVrSkZzS3BlUl9UVnlvSEdsTFhWRXBuVkV6U1JtN0VUT25FMGRp?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-20T02:37:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "3f2d32cc85",
@@ -523,21 +506,21 @@
    "topic": "Society"
   },
   {
-   "id": "46fc3b9eb7",
-   "title": "Apple iPhone 18 Release Date: Production Milestone Suggests March Launch Timeline",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWhKRTdjdlVVbDRHajREbnRBWlB3WDBmbThuSXlJVmF3VEptX3FlM1Z0NGh0VlpId2RDb19RQ0NkZEQtUnpmUmRzN0FWSkpIaGFoaGc1dGI4V3doSl9pTlV2MXNYZ0RwaDBHbGZqelhsVHM1cno1S1lvaV9RejRUQm9rZWVUVWROTXZtaUVrcGVfZFBBZFBXa1JHc0g4WDdHMUgxLVJELVJ6Vk9ZcUh5SDAtWU9sb3BRM3hFcENFS1JodWVwU0pSbkpjdXR5Zw?oc=5",
+   "id": "9008f41d14",
+   "title": "Man charged over alleged car bomb research after Sydney terror raids",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXdlQlI0ejc4S1REUFJyUmxFaWEtdFRpMllIMEg2Nng1VHB0WGpBVFpFRVNSbnNINWpET1lWaC1USlVnRG1sT1o1SFRHcVBGNGpJVnJEelZhSnZmZFNuMGFrRElTeHNUWEw2MWpJX2ozTnJmejU5UVcyRGUxVk80SWRSTzF5TzVHeTl0UXZSVlBBcFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Forbes",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-19T23:20:06+00:00",
+   "date": "2026-11-19T23:58:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "c8cff4ce2f",
@@ -548,6 +531,23 @@
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
    "date": "2026-11-19T23:03:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4c299dab5f",
+   "title": "Statutory demands: restructuring doesn’t stop the clock",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR2pCWmZOOTZ1ODlHUGdHS3V3Qk9uR1RSMktLemFYWEQyU3BBZ04tX3JiU2huekVWOHV3ay1tdjVxQzg2MGlfSTMwQjZGTDI4M3JlaUgwNXhZdEtVTU1TWFQ1cEp0eUlnaWNqYWc5NE1OVWFVaEhHUGs3dkVIaFRBOTJR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Corrs Chambers Westgarth",
+   "region": "AU",
+   "date": "2026-11-19T23:03:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -628,14 +628,14 @@
    "topic": "Weather"
   },
   {
-   "id": "d2683b6f2a",
-   "title": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYU5QV2pVdHVLQkhOdGFQV2RLX3ZWNVRwSW91SzZybndFRWVwcE1VMU96aV90bktoSWczZzR0bTVrNEZWZlZBcnFGTlhHemFkaU5NaGl3dTVTWWVta09GcUpabElnQlF3SG4yaW8wc3J0MzFWVi01eTFIVENKOFVhVmk2a0xxNzhTZnRkMTdSMGtOVllHRl9iTFAwWnFrR01td2VZMVR1ZVlmaE9jSTBqdFcydXl0YkQ3SmdyUW5YeDU3Z0NVaEF2RVg2TWx0a1hObndVWUZBTGlldGg1?oc=5",
+   "id": "9c73446e3f",
+   "title": "'GTA flu' decimates workplaces as 13-year wait for 'GTA VI' ends",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTQ2QWQ3UEtSejFCMlhhcG5uUnZHRXExeFVEMnNXZlRRY2c0TWJTbHpvUGJQMUdVdkxLSm5qNEJjWHp5MzVGcUdpZFlLbHpjY3ZwZjBOSHAzZjFCbWdySGFCeFd5ZEVSYmlwT19NdGRZOVphamhEVFUzU2VRMWFVcEdoSEVwTzlibmtsdWJOWUNMMF9vX2Q5RndtT2YyaEU?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Yahoo",
    "region": "AU",
-   "date": "2026-11-19T17:58:00+00:00",
+   "date": "2026-11-19T03:03:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
