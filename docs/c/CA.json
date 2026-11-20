@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:53:37.758176+00:00",
+ "updated": "2026-11-20T17:52:40.566019+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
@@ -11,7 +11,24 @@
    "image": "",
    "source": "The Guardian",
    "region": "CA",
-   "date": "2026-11-20T16:19:00+00:00",
+   "date": "2026-11-20T16:46:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ddfb80a2e8",
+   "title": "Melanie Joly, Doug Ford to announce supports for Canada’s auto industry",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2ltcDdibXk3RGFsaDhIS0VhdEFyUGY3ZFFRVWNmRjA5YmQ5YmI2N3BrQWdDRmZyc3pNNHJUNTUxeF9KMlpjOHZJa0J5c1FtamRGZkpMcm5zTE9EdlJKSjBWcXRMOHYtX3NFVGRWeHNIeFEtcHgtYTU5YTc2LXJoeGtSX2tEWnM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-20T15:59:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -38,14 +55,14 @@
    "topic": "Society"
   },
   {
-   "id": "d41aac0f66",
-   "title": "Two Oilers streaks snapped in stingy loss to Lightning",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVJQRy03bmNpZWRqbEF0ZERnZ3JpRmpqYng1TWNNY2VXeUY4cTh1YTdTV3lMOWJXWDlvNjdHcW1RM3Eya2gwd3c4Sm1hYS04Y1h1UmR0VzZLMTZVbm5jNHRfcUk3WGpjY1k4T3oxeWk0LVVyYkEwTllsbkI5UDFOYjRJQVRTQVc4V283Qmt2bk43aTBuNVRv?oc=5",
+   "id": "a1fad73669",
+   "title": "Unexpected Triple Star System Just 28 Light-Years Away Could Reshape Models Of Stellar Evolution",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYW8wSmVTTUZoeTY1bzVYT1htZ1Rtam5ib3FLTENZVDN5d2gzOG9DXzNCRzkyR0VHM29JT2ZtRVNXM2pZalR5SUUwMEt6RVZQZGsxWjR6OS10MTJqcmhpTWlrQmtWT2wxNzJxcmVTWHhfOFBJcXU1dkU2bFpCQmZOd0xlOF9WR3gwWFFRckpJMk1ISnItVVhYOW5nRkRhU1kxYURiRDF2dFdYZ01UMkN5LXBnbGgydUpSYzdmWEVwdUt0bjhqLUNZTw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sportsnet.ca",
+   "source": "IFLScience",
    "region": "CA",
-   "date": "2026-11-20T15:46:00+00:00",
+   "date": "2026-11-20T15:48:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -55,21 +72,41 @@
    "topic": "Society"
   },
   {
-   "id": "2422920fd6",
-   "title": "Sound Waves From Sunspots Launch Fiery Plasma Jets Across the Sun",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFppNU40Qk9weGE5elNFc25HRy10V2pKLURKZ3dLUmxiY2FjMmN0aURpR3c1cnZYZXZsMzI1bkxHdC1LNzBuYXNhbnBOTGQ1bW03djN2ZFBHTkZpT2Q0aVB3Slp3UXJmbnNWR1IwZkhUZFhfVjVKOUdWNllZcnhYeUdid05CTEdITWp3TkJYOGJZRDg0S1E2UFBVT05jVWNZZnhZRWVIRQ?oc=5",
+   "id": "47d4eb5695",
+   "title": "Tech stocks pull U.S. markets lower, Anthropic shares fall",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZVdQd3VFSjdOODVmZmZqaGozT1FJLVFTVFJhUVFKcTNhaWl3Z1VkOW4xWVdtbGdsaDlfcktDTWMyejVmYkVjYVlqWDNzckxDazBwbE1sUFlGWEVERGhmaHkyNWN2VlU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Universe Today",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-20T14:58:00+00:00",
+   "date": "2026-11-20T14:57:08+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "United States",
     "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Tech"
+  },
+  {
+   "id": "66b5f3adf4",
+   "title": "Trump trade adviser hurls insults at federal government as Canada-U.S. trade talks heat up",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXQ1QVNMZzhxM05tSXFiQl9xTmNMTEkyck1kNkl2WWs4bDdSOG5IM2NjbU5SdWh5WWF5N0NFVm90QUgwZ25mS0JXNGduZGllTTJNdUJ4eVFiOVpTQTJDTzVCODNlNmtNeFhSZUpsd3JNN3FMbm5TekdaUFpKeTBfcU1SQnlEQVZQb0tLdTVTUjhzanNQMjRWVGhIeE9EejVQamUwRndLaG1lb3VEOC1UY3FfaHFLSW1LREMtQVNCd3VURzZzeW5rUG13?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CP24",
+   "region": "CA",
+   "date": "2026-11-20T14:49:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇦",
+    "also": [
+     "Canada"
+    ]
+   },
+   "topic": "Politics"
   },
   {
    "id": "aa498d1742",
@@ -89,23 +126,6 @@
    "topic": "Society"
   },
   {
-   "id": "2a8904ca1f",
-   "title": "Ontario fugitive arrested in Winnipeg hours after making most wanted list",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUxSRWNhUV9mb2NXdGFGU3VtcS1XWVhfd0ZNbjk3bzByQzZ0czZhSkxGazBEWVR6b2VhcEVlMmd0aTI5Mnd0YzFaemhSTEJyUEkxVUxUSlJlamFnTHBGNGFxd0F3a1ZlSlhDR1RhZXp6UC1FRmY0Q2M4aUxIZnBZX1RHMnUtR0x6cmgwY2hB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Global News",
-   "region": "CA",
-   "date": "2026-11-20T14:40:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "571a222036",
    "title": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JeEFRSTBSVVBZVGpiVjhfd2Q1aW9CODV0WHJYNXBycmpScl9vS2RkOHhDcEt0QVBrY0tFMnJPZ3ZZUTRXNGlRMkx6RWlieFJzT0xFR19RZXhLUWVHNFJ6djZhd016bl9oSTY3dmZn?oc=5",
@@ -113,7 +133,7 @@
    "image": "",
    "source": "infoq.com",
    "region": "CA",
-   "date": "2026-11-20T14:38:52+00:00",
+   "date": "2026-11-20T14:41:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -143,14 +163,14 @@
    "topic": "Society"
   },
   {
-   "id": "7c1039f62f",
-   "title": "Terry Sheehan helps land $125 million for Port of Sault Ste. Marie",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTFISzhzNU1NcXNPVFNMOEpUUk41cGdZWTFTMFIteHdXYkp2OWY2SW5zWU4wV1FiNmVVSW9aYTlmTm5lTkZVNEJfMW9GUWJIZHp6TWdpbWtnLWpPXzU0Qm9hb3BoZG1Xb0dfNHVBWHB2a0U2RG42X3NFVXVsR0lHalUyZmtOOTJmUTdIOVpJUm16V05KQ0prM0pvOWY4TmcxLXVnWHBoeW5KSWtZa0E?oc=5",
+   "id": "5735d192c2",
+   "title": "Daraxonrasib Shrinks Pancreatic Cancer Tumours in Phase 3 RASolute 302 Trial",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FTUtVcFZ0MnlPLVY5eUFwcmRNYVlpdkJDOEFPT294NGtKRzJzYThkWk5PRVRibTFHUVBFeFZQeExCakJabjVRck1nVU1CUmFnTDM4U1Mwblh0M2FocXd1NlZrcnF3cE9sR0pFZ0lyUFBBM0EzU1B0MV9ibS1wVDA?oc=5",
    "summary": "",
    "image": "",
-   "source": "SooToday.com",
+   "source": "CASRAI",
    "region": "CA",
-   "date": "2026-11-20T13:57:00+00:00",
+   "date": "2026-11-20T13:52:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -177,23 +197,6 @@
    "topic": "Politics"
   },
   {
-   "id": "47d4eb5695",
-   "title": "Tech stocks pull U.S. markets lower, Anthropic shares fall",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZVdQd3VFSjdOODVmZmZqaGozT1FJLVFTVFJhUVFKcTNhaWl3Z1VkOW4xWVdtbGdsaDlfcktDTWMyejVmYkVjYVlqWDNzckxDazBwbE1sUFlGWEVERGhmaHkyNWN2VlU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-20T13:37:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "14e3eddd63",
    "title": "These upcoming International Space Station’s flyovers could be visible to Edmontonians",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOE1SOXMyX3d0Q2JtT1N0T3ZaU3lzTVRDTmlxckpJMEpZRFFkYXhlQ0R3OWRIWjh6cEp0SFBQNzdfclJzRWM0WEJpNGt0aVJlaURvbVVoOGk3LXVjODVHek5sX1dTOF92Z1R3b2lUelpsTTRKVW5XTHBubVJ2bmtiekkxdUlKTFpuVFRnU2E1Y0hDSC03cTUxNG1HWjMxU1gxLVdGc0owb1NfYTlrZWYyZGJvTUwydFdCYS1HYldEejB2ai1D?oc=5",
@@ -202,6 +205,23 @@
    "source": "CTV News",
    "region": "CA",
    "date": "2026-11-20T13:36:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "778d719458",
+   "title": "Morrissey nets OT winner for first goal of season as Jets beat Islanders",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQk1CckplNzdoei1BWmQ4N3YxcWU2cHZOdGpnYmxUUGFzTGt1YWo4R0MtUm1qZEs5ZmhQUGQtNEpqbUE4cWpoMHgtRTJYTlNkWkFTaUhPMEpvZE1FcjBDckFSOW5xMXJ4TVAyX2Q0VnNiZzQwQWs3T2Z5MFdQaFJjLWN0NmNadGtpX2hGendEMjlKakdzRVUtODhuaWlUUjJOUVIzRjVGUGJaXzhvVTRV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-20T13:10:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -246,7 +266,7 @@
   },
   {
    "id": "9bdcbb36cd",
-   "title": "As Trump courts Xi and Putin, middle powers make their own moves",
+   "title": "Canada and Japan make their own moves as Trump courts Xi, Putin",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnAzcG90dW9URjZicHpIOUlxNTd1dDM2TTRYaGlEOTFpZjBHU1pqclIzcTI4amx2VnN0ZW9oUkRZdXBLV3ZzQU9yTVU1WEtuejJKdmJnT2JkeHpKakI1UzBsWE1HZGdsU2k4elB2bGtscTlMSHJ1YjRYSWhOYl9OQ0VhUDN0UDUtbzRrVG9HckRjMEdNelBmbm1pNGQ4OEhJWXl4b042SndjQldaWFAycmxtdmg3S3dwcDZCT3dn?oc=5",
    "summary": "",
    "image": "",
@@ -255,14 +275,83 @@
    "date": "2026-11-20T13:06:33+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Canada",
     "place": "",
-    "flag": "🇺🇸 🇷🇺",
+    "flag": "🇨🇦 🇯🇵 🇺🇸",
     "also": [
-     "Russia"
+     "Japan",
+     "United States"
     ]
    },
    "topic": "Politics"
+  },
+  {
+   "id": "5e25f9aa75",
+   "title": "Wild's Quinn Hughes exits in win over Flames",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlIxeFZGbWJQYlhTbWpDYlVPNFV6dVVRbW82YzNPcjhwTndpTDdGMV8wVHgxX1RYdzR2MEZrb2o1eWloRHJHaUtxbG9yOWgzcFVfc0dBamJZV0U4TWI4OTk2MThUZGNSUDNQUHdmRUdNZUxUeFpOaGRUX3lRSGNCR3BoLVRLaVVa?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-20T13:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "15ab3e2088",
+   "title": "Jennifer Lawrence name-drops her worst on-screen kiss as she ranks smooches with A-list actors",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlJmQ2JVVXlZcktJc2ZHVGg0dDlBT3A1aHZYZFMzS2l5eDBaeTlTeGRFUXR2bTFYcDc3NzRnZnBPUHJMX3E5aFB1LUxfbDJlTG1yMFV0TFhld3dITm1GbUpZQWtoZ3lwdzNUTWxyTUdJU0tiWHdKandPTDIwVGNBbVFvWGJhaVVjQWs1VWphTUd6a01vVnpyYkkxM3U5V2J2UUVCTVRmVHNfaU05cGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Page Six",
+   "region": "CA",
+   "date": "2026-11-20T12:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "467cfb3e87",
+   "title": "Texas death-row inmate screams as execution takes more than one hour",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BZWR6RmlnWTQxYUl5RzhVNUxKb19ob1k2cTQ3ZTZYWjJ4TC0zRl9KQy00dXdKTURmVExjTkhyOWxkcXg2U2FLNDZkVEdPVl9GNEJkQXNyZXU5cVU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "CA",
+   "date": "2026-11-20T12:42:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "45c39ea72f",
+   "title": "OPP festive RIDE campaign will determine who's naughty and nice",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkhPd1BMN1BFLWZ6cmhuUDlhUU9ILXh4cnB4ZS1kaDlScXV6ZmRoeUdLbjVuVHo2cU1GT0tlRi1hNkxVRzJqbklMR2NTVjl3ZVRiVDdGYkdrUGc4MTJaMzYtMUxDUnZYcXA4Rk9reXlDRTgyOVR2dmpBWDE3Tl9reXY2VFByT000RzVXdkU4c3BLZ0htX3hyQzR0bngyT3VWaDlnLVdHcEQ5bDlUTk1IY1RPTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SooToday.com",
+   "region": "CA",
+   "date": "2026-11-20T12:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "1bac35ed7b",
@@ -273,6 +362,23 @@
    "source": "Times Colonist",
    "region": "CA",
    "date": "2026-11-20T11:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3d728eca61",
+   "title": "Ontario Liberals to select 3rd new leader since 2018",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFk3TVY5YWZGTlBwSFNpMFJodjdNaWJrS3lHN09iXzBtYV9BVEkzOHM1WVFuVUEwM0RtdlJfSzZ0SXhDcUxTNk9UcGpBVEI3dGRpQllhNlFlMzRPcGtXQXFBOEM5N09sa3lhUnhvU3k4Mjl1NU9IVURSVkszc0RRek9EQWk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CityNews Toronto",
+   "region": "CA",
+   "date": "2026-11-20T11:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -299,23 +405,6 @@
    "topic": "Society"
   },
   {
-   "id": "d57657e2c7",
-   "title": "Capital City to Provide Details After Receiving Funding Toward Downtown Safety Concerns",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjFLbVgxWEcxSFozcUNZVXZJOXFqeGp6T0JxUVRkcFcxRTdhUHZhandlSWxFYlpNcDRGVGlsdmYxeEtES1FuUnBUV2xWbjVjbnlBbzJ0ZUFVYllfWERKRlg3OGVOSjNpVzc1THNIaERncE56VDF3U3ptMmt2bW5hUGwweE5WQkVybnFWQ1R5MlBteDhlRmhVVHYwSzVmX0Zoai1rVGJLZFVCRE0xNEttNXF6ZEVFekU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "VOCM",
-   "region": "CA",
-   "date": "2026-11-20T10:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1373985872",
    "title": "Hopes dim ahead of high-stakes meeting with Stellantis to avert Brampton plant sale",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdy1vcy1DRlFnTmRRZmFJV2toOGhQTWJPT3g2UXpIV2hGV3VWYzZaT1AzNWtKNnFyXy03T0pVZFIwUmVEMEpISFc5U1lxUFd3OVBnRmItWlMzNDZlaUZTUzFtcWU3dWlEVEl6WERpeV9KVGxjWXZacTVfemFOTXZoX1ptV2xyaEVqUGNEcTdTN1lfeF9UVFBKbGEtZ1o5UUNfc3Z3UnNzRGtQblJFY29wTGUwODZ5M216U0xOblBzMWFJZw?oc=5",
@@ -331,23 +420,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "64bf703d3f",
-   "title": "Gas Tax Bill Passes in Time for Dec. 1 Break, But Not Without Hurdles",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVkRkU1JSNUI5V2tiU3c0cWhhVm5YaU1JTXNPN0c0YS1yN09oRktvTlE5Qlh1VmF1b3k1ZnlPWnh4YVkxU0xpUmg2NGwyQTBXUFg0N1RqeGE2c2oxSEpnelQ2MkJ6UEt1WDVLQjUwaU55WlFNVHVic0djdTNpeS1OZ0JHN19pangyaHduYWczVzY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "VOCM",
-   "region": "CA",
-   "date": "2026-11-20T09:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Economy"
   },
   {
    "id": "98a07eea86",
@@ -367,36 +439,19 @@
    "topic": "Health"
   },
   {
-   "id": "1f1081c366",
-   "title": "QCon San Francisco 2026: The Future of Apache Iceberg",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiMmp4dGYxNkJTR2ZQWV81M1pZaFFOTnpENURrTEJ3QUdYT0lMMWY2N21aQ0MwQ3AzdGViOGlOOV9CeFVKNUdwZWZVNjVYZVQ1WlA0WkJLemdUc3BvOEtQSUZTSEpEdw?oc=5",
+   "id": "7d39deaff4",
+   "title": "A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3T3JpRUtpYzRZeHBGb2FfN3l2NnVxUWxpNnFtSm5HUmpxVjhfR3ZaRVcweXZNRUFOX1RQbXlOc1VGdWl0UU9QWmFjc3RFLURjVTh4Njh6VlR3MEhCZGoyUVVDbGFYYXowWWZQX0RJaFF1Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "infoq.com",
-   "region": "CA",
-   "date": "2026-11-20T09:19:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "fb7aa4c395",
-   "title": "Who are the four candidates vying to lead the Ontario Liberals?",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMXlkc3FNZVFEcmJYYlF0bUcyNE5rX2RRWVB4dWtUTEl0VlZuUjNTTWhUVTdQM194Q2hOT25nR200S25ZN0kzSFV0WWxodl9vSkhtcndJOGt3aHI3V2lpalllUTN0MXhaYndrTjYxQzdWZzMzeFZCMFhxV1lGNDRPckpYeHVkaHZpZDZTdVY4bDYxcFNuMktzeVMyQV9BRHpFWi1peA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CityNews Toronto",
+   "source": "CBC",
    "region": "CA",
    "date": "2026-11-20T09:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "Turkey",
     "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇹🇷"
    },
    "topic": "Society"
   },
@@ -418,44 +473,6 @@
    "topic": "Health"
   },
   {
-   "id": "7b016a7320",
-   "title": "Jennifer Lawrence Ranks Her On-Screen Kisses with Five Hot Actors from Best to Worst",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQczdiRWZzdjRqSWhtQXhrbXN2cWtNd0Ewcm4xS2g1OTRtU2VQRzd0U2FQQlFjWUI4MkgzMlVhQW1fRlVqcWJOV0FNVXFIV2p2RVVwVnlfQUFpTnNNMC1XUEV2M0ZFRUQzcXF0VkNHUGFXZURsT0lmd1VlWDAxeFEzT3ZSUHJfZWVzRDROb3dyV3BYSnY4Y1ZOVmF1WGp3enlSbmhjS0xnOW9rLVB3M3lLU3pWQjAzbTBpclEyZi1VVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Just Jared",
-   "region": "CA",
-   "date": "2026-11-20T07:44:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "e2e2173b15",
-   "title": "Explosion reported in Poland during Russian attack on Ukraine: military investigates two possible airspace violations – video",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95UFBRNzM5UnRnT3lyZFRDb3RWM1pkMXltcGRiY0t5OEZwZEF0VkRGY0xJRzVJYTBSbHk5bHA2NDNuQ1hmZXYteFNGcXJfNGZlcHlIM1owUHVrUWMyNm5BMDlZbTXSAXBBVV95cUxObGxxekItX2hVOVBLblVYbTFKMTV5dVVKZDhBZDNFcHpyR0pUTEdFMTNPZE9GRkY1ejZJa0ttblZCTDBxVkpVcDd6MkNleThHLU9ROGJSbTRBd0FEVTJXTEhxbjJaZGNsc294Z01JWk9i?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Українська правда",
-   "region": "CA",
-   "date": "2026-11-20T07:26:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Poland",
-    "place": "",
-    "flag": "🇵🇱 🇷🇺 🇺🇦",
-    "also": [
-     "Russia",
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "bdf66280b0",
    "title": "Kings win in shootout, hand Maple Leafs eighth straight loss",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUhxQ2hud1RGTE5FM3g5eDJuV0FEQnB1TFNFcUUxTlpmaTZPSV9qZVZEYlNhWjVCQktyS0FZTjNKOGJBZHNlM2M0czFMdG1LcWFkWGpzTHVKY19yb0JhWjN6OEl3MWhqSmJSeFloZDREZFlGUHlWYU9lWXVzYUc1UGRlLWEySi1wUDE4ZDhKSVZya09S?oc=5",
@@ -464,23 +481,6 @@
    "source": "NHL.com",
    "region": "CA",
    "date": "2026-11-20T06:25:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ac1eff572a",
-   "title": "Jennifer Lawrence Ranks Her Onscreen Kisses, Details ‘New’ Implants and Says Her ‘Hunger Games’ Bow and Arrow Was ‘Stolen’ in Andy Cohen Interview",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDF4NVdrdG1DN19RbXBHNVdZWFBERlB6aGs5Q1JEUEJyUXB0RUN5NHlzNEtzd0FISmxaY1hoU09aZUVPbTBlQlF4WEhpTG9FSzcyZ1hYZEJsRnUtU2R6Zm03Uk1wdFlNZE5FLWZQVExueEx4MnFNMWJJSWplTUdrLUhjdUVLR1lVNWtIN05nQ3dKb2FWN3dUOEdpUGFITFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Variety",
-   "region": "CA",
-   "date": "2026-11-20T05:10:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -507,58 +507,21 @@
    "topic": "Politics"
   },
   {
-   "id": "ae5473a54c",
-   "title": "Trump trade adviser hurls insults at federal government as Canada-U.S. trade talks heat up",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWVVaW5MbVlub25ONzJYOUVrQUdhZ3hVeHlZOFhUZjlGaXc5amdubndCNVJqb2FsbDc1Y3FSRXJxUVVtVC1EZF9RUHByMVBVVVpETng2Z0RvclZfRFVTZk0tMkZDYmR1cDVTcmFmSWVYYzFaOWtybzdESGhTX0F1R2dTSHpBMi1LSW9NT2N6Um5wNFFZdkZRUW53d2Y5Y2RULUw1b2RFUk9Pd2dDbnhmTkJaNHJWb2g4aF9KbFUxSVhhRnUwRXFvZw?oc=5",
+   "id": "b203adb2aa",
+   "title": "GTA murder suspect arrested hours after being named one of Canada’s most wanted fugitives",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWk5GeVhKN0JTOWNZc2gtYnZQN3NlOG1WMmxzNVZZT25uYmlPZEVPX05VVTFiTUVOX0UwWDYtRkZ0dWJybFNjV2ozbF8zOUdJVWJQY1VrRzh2QjJYQUs0NlpialJNNWRkdlBTM3VrcjQ1dXV3NkJaQjJCU1hHckdkLXphNFBSNmJwXzcxQmlFeEVXY1hybXJ6b1ItUUdPN3ZZYjVvUFZlU3N3TVhKRnZ3TFN3YTl4NUdyaXJQTzlablpMN3Y1Rk1oYWVNalJvZnVqWHhQN1BB?oc=5",
    "summary": "",
    "image": "",
    "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-20T03:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇦",
-    "also": [
-     "Canada"
-    ]
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "7d2e3dc155",
-   "title": "Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORWxOcmxoSW95bkdCTmh3cUVURFlfUGRNVmN6SERhSkxKeUc3NWQ1TVN6SVZEM21CZlZ3Zzhsc0xmeXVJeHlhSFE1V1NFak5OSUhtdzBic3RjVlI4dGh2bzhiV3lQTXhrUnowQXNQOWd3REMyeUdSbUxraWo5eXdRNDdB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-20T01:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "56e9dc2068",
-   "title": "Revolution Medicines Presents Updated Phase 1/2 Data for RASONQUE® Plus Chemotherapy in First-Line Metastatic Pancreatic Cancer at ENA 2026",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNc1dvZUp3RF81eTg2UUczY3VfQnZsZDFfTjh1NDZOOU9QMWx4UWRNajBKajl2QW9oQy1VV05SRkxOTzdvTzNfVVo3YVI4MF8xM2RNekRkdEV1aGFHc29jYTVjZVQ5Y2VHaWNpcmh4U1g2S0hPUjdwQlItOGo4VGNUazRTN1VjRWZVNzJRUG03ZERiSkxTczFUc3U5SXA4X2Uwa3ZNdlcyei1JalpJU0daZEdPZnJCazBpbkI0al9fSUo0MHZ1dnZQTUtDVHBkd3V2RmYwZDBac3BUdGZOaVBLRHpMN05aLUNhSWhHTE83M0wzUGRzNkZ0blU1OA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Investing News Network",
-   "region": "CA",
-   "date": "2026-11-20T00:48:02+00:00",
+   "date": "2026-11-20T01:04:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Health"
+   "topic": "Society"
   },
   {
    "id": "2faac9f4f7",
@@ -623,6 +586,23 @@
    "source": "France 24",
    "region": "CA",
    "date": "2026-11-19T19:26:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c74fca59e1",
+   "title": "Chef David Schwartz is opening another restaurant",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNem9TMXItNUZLckNYRWxyRjA1RTVxTDVvd3Z3TW4xalk5WERlY25rWGo0ZTV5RGtYZloxTkZGbjhicl9pYTFERGVBeGI3RlpqY09NVGpLQVBMeTVWQnQ4N0x3TVdEYkdVaTVtbjhGbVM2d21PQkdDZHdobVJlTTRRRlZITEtEdTRnNXdoTGJtRC0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Toronto Life",
+   "region": "CA",
+   "date": "2026-11-19T14:25:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
