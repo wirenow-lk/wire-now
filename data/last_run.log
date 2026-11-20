@@ -1,13 +1,13 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 70/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 77/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 45 stories
+OK   Ada Derana: 46 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
+OK   EconomyNext: 21 stories
 OK   Daily Mirror: 81 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 23 stories
+OK   Newsfirst: 24 stories
 OK   Daily News: 69 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
@@ -23,16 +23,27 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 98 stories
 
-Biggest stories right now: White House removes cyber-security chief afte (7 outlets) | Myanmar dismisses the UN court's ruling on it (7 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets) | Poland says Russian missile hit its territory (6 outlets) | World reacts to ICJ finding Myanmar guilty of (6 outlets)
+Biggest stories right now: White House removes cyber-security chief afte (7 outlets) | Poland says Russian missile hit its territory (7 outlets) | Budget’s second reading passed in Parliament (6 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets) | Rights groups urge sanctions after top UN cou (6 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Guardian [3 outlets]: Friday briefing: ​What are the implications of the ICJ’s landmark geno
-    important (also on Al Jazeera, Reuters) - researching
+* Hiru News [2 outlets]: Parliament yet to find suitable candidate to head Budget Office - Hars
+    important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* CNBC [2 outlets]: Nasdaq drops as Anthropic shares tumble; Dow nears correction territor
+    important (also on Yahoo Finance) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: UN Human Rights Chief calls for Imran Khan’s immediate release
+    important (also on Daily News) - researching
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -45,53 +56,28 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* EconomyNext [2 outlets]: Sri Lanka market rates rose after May hike: Central bank
-    important (also on Sunday Times) - researching
+* The Guardian [3 outlets]: US Senate approves bill to speed up permitting reviews for energy proj
+    no AI summary: saving the rest of today for important news
+* AP News [2 outlets]: Saudi Arabia attacks Yemen's Houthis and intercepts more missiles and 
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [2 outlets]: Sri Lanka Insurance Corporation General upgraded to ‘AA-(lka)’ by Fitc
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* The Guardian [3 outlets]: US reacts cautiously to Myanmar genocide ruling as EU praises ‘critica
-    important (also on AP News, Reuters) - researching
-    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* AP News [3 outlets]: Russian missile’s crash in Poland was likely an intentional provocatio
-    important (also on Al Jazeera, Daily Mirror) - researching
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -105,39 +91,17 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 13 too small to look sharp, using the clean cover
+  photos: looked up 24, found 2
+  photos: 15 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 33 story pages for Google)
 
-Countries: IN 37, PK 34, BD 37, US 37, GB 36, IE 37, CA 37, AU 38, NZ 36, SG 35, MY 37, PH 34, AE 37, IL 34, NG 28, KE 34, ZA 35, GH 32, FR 34, DE 34, JP 8, IT 34, ES 34, BR 32
-
-Posted today's Top 10 round-up
+Countries: IN 37, PK 34, BD 35, US 35, GB 37, IE 37, CA 37, AU 38, NZ 34, SG 34, MY 36, PH 35, AE 35, IL 34, NG 32, KE 33, ZA 35, GH 31, FR 34, DE 34, JP 9, IT 33, ES 34, BR 32
 
 World Pulse not made this run: no AI available for writers
