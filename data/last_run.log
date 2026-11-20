@@ -1,35 +1,49 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 42/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 49/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 45 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
-OK   Daily Mirror: 86 stories
+OK   EconomyNext: 24 stories
+OK   Daily Mirror: 88 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 25 stories
-OK   Daily News: 74 stories
-OK   Sunday Times: 5 stories
+OK   Newsfirst: 24 stories
+OK   Daily News: 71 stories
+OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 11 stories
 OK   Google Top Stories World: 51 stories
-OK   BBC World: 36 stories
+OK   BBC World: 37 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 97 stories
 
-Biggest stories right now: Myanmar dismisses UN court ruling finding cou (9 outlets) | Takeaways from the historic summit among Trum (8 outlets) | Cincinnati Zoo’s famed Fiona the hippo dies d (7 outlets) | Myanmar committed genocide against Rohingya m (7 outlets) | 'Rotumba Amila' brought to CID (6 outlets)
+Biggest stories right now: Myanmar dismisses UN court ruling finding cou (9 outlets) | White House removes cyber-security chief afte (8 outlets) | Myanmar committed genocide against Rohingya m (8 outlets) | Rohingya in Bangladesh welcome UN court's gen (7 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets)
 
-8 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [2 outlets]: Police seek public assistance to arrest suspect wanted over Ahungalla 
+* Hiru News [3 outlets]: Sri Lanka rupee closes at 332.75/85 against US dollar while bond yield
+    important (also on EconomyNext, Newswire) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+* Newswire [2 outlets]: Air quality deteriorates in several areas; CEA issues health advisory
     important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
@@ -37,122 +51,74 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* Newsfirst [1 outlets]: Death Sentence for Two Men Convicted of Brutal Killing in Hikkaduwa
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Lanka Business Online [1 outlets]: Kaspersky detects over 27,000 attacks on gamers awaiting GTA VI releas
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Daily Mirror [3 outlets]: Breathing difficulties send 36 students to hospital
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [3 outlets]: 36 schoolchildren hospitalised after breathing difficulties in Maskeli
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Newswire [3 outlets]: 2,100 cannabis plants worth Rs. 1 million seized in Monaragala
-    important (also on Daily Mirror, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* AP News [3 outlets]: White House taps Kirsten Davies as cyber chief after outages rattle Am
-    important (also on Daily Mirror, Newswire) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: EU and Britain to agree steps towards relations reset
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 9 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code")
+    "code": 429,
+    "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* Newsfirst [3 outlets]: Over 20 Students Hospitalised After Suspected Food Poisoning in Maskel
+    important (also on Ada Derana, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* AP News [3 outlets]: Trump administration moves to have lawsuit dismissed in challenge to A
+    important (also on Politico, The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* Al Jazeera [4 outlets]: US appoints new cybersecurity chief after series of tech failures
+    important (also on BBC, BBC World, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, BBC World
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 8 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 33 story pages for Google)
 
-Countries: IN 36, PK 32, BD 38, US 38, GB 35, IE 38, CA 38, AU 38, NZ 35, SG 33, MY 36, PH 34, AE 38, IL 33, NG 31, KE 33, ZA 36, GH 28, FR 34, DE 34, JP 12, IT 33, ES 33, BR 32
+Countries: IN 37, PK 33, BD 38, US 38, GB 34, IE 38, CA 38, AU 38, NZ 36, SG 33, MY 36, PH 35, AE 38, IL 31, NG 29, KE 34, ZA 36, GH 28, FR 34, DE 34, JP 8, IT 34, ES 34, BR 32
