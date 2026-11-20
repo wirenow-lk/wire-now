@@ -1,40 +1,40 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 30/80 used today
 
-FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
-OK   Ada Derana: 51 stories
+OK   Google Top Stories LK: 38 stories
+OK   Ada Derana: 49 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 15 stories
-OK   Daily Mirror: 98 stories
+OK   EconomyNext: 19 stories
+OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 16 stories
+OK   Newsfirst: 22 stories
 OK   Daily News: 68 stories
-OK   Sunday Times: 4 stories
+OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
-OK   Google Top Stories World: 55 stories
+OK   Google Warnings LK: 13 stories
+OK   Google Top Stories World: 56 stories
 OK   BBC World: 36 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 98 stories
+OK   AP News: 94 stories
 
-Biggest stories right now: Trump, Putin and Xi to hold historic meeting  (10 outlets) | Top UN court finds Myanmar committed genocide (9 outlets) | Fiona the hippo dies at Cincinnati Zoo after  (7 outlets) | Central Bank hikes policy rate to 9% and rais (7 outlets) | Thailand’s Deputy PM to Visit Sri Lanka | Vis (5 outlets)
+Biggest stories right now: Top UN court finds Myanmar committed genocide (9 outlets) | Takeaways from the historic summit among Trum (8 outlets) | Sri Lanka Central Bank raises key policy rate (7 outlets) | Cincinnati Zoo’s famed Fiona the hippo dies d (7 outlets) | China and Russia release 'peace declaration'  (7 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: Oil prices rise as attacks on tankers revive supply fears
+* Newsfirst [1 outlets]: Sewer Leak Causes Road Collapse Near Borella, Traffic Diverted
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [2 outlets]: Man arrested in Katunayake with illegally imported goods
+* Daily Mirror [2 outlets]: Suspect in police custody dies after falling ill
     important (also on Newswire) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
@@ -47,43 +47,51 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Card refers to the suspect as a man, but the article calls him a suspect.; Card says the suspect was driving a car, while the article says he was transporting goods in a car.; Card uses 'illegal medic
+    cards OK (attempt 1, written by openrouter)
+* Daily Mirror [1 outlets]: 325,616 raids, 324,780 arrests under ‘Ratama Ekata’
+    no AI summary: saving the rest of today for important news
+* Daily Mirror [5 outlets]: Thai Deputy PM to visit Sri Lanka; visa-free travel deal on agenda
+    no AI summary: saving the rest of today for important news
+* Newsfirst [3 outlets]: Anthropic Ends Wall Street Debut at $97.17 per Share with $1.27 Trilli
+    no AI summary: saving the rest of today for important news
+* Newswire [5 outlets]: ‘Rotumba Amila’ brought to Sri Lanka from Russia over organised crime 
+    no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: Texas botches execution of Reinaldo Dennes as staffers struggle to fin
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Tears of joy, prayers for return home: Rohingya react to genocide ruli
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 rejected: the name/word 'Secretary-General' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* Ada Derana [3 outlets]: Haiti police operation kills 34 suspected gang members in capital
-    no AI summary: saving the rest of today for important news
-* Newswire [3 outlets]: 2027 Budget Second Reading vote today
-    no AI summary: saving the rest of today for important news
-* Hiru News [3 outlets]: Sri Lanka and Thailand to sign visa-free travel agreement for ordinary
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: MP Chamara Sampath’s bail request rejected over alleged Rs. 840,000 br
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: El Salvador’s Bukele expected to formalise bid for third presidential 
-    no AI summary: saving the rest of today for important news
-* AP News [2 outlets]: Judge says agriculture secretary’s religious emails were unconstitutio
-    no AI summary: saving the rest of today for important news
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    attempt 2 rejected: Place 'The Hague, Netherlands' includes 'Netherlands' which is not mentioned in the article; Statement that the ICJ is the 'UN's top court' is not stated in the article; Details item 2 cites 'November
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 3
+  photos: looked up 24, found 0
   photos: 11 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  translated summary into Sinhala (gemini:gemini-flash-latest)
-  Fact Base: 9 facts and 0 people saved
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+  Fact Base: 8 facts and 0 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
