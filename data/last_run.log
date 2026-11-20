@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 27/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 51 stories
+OK   Ada Derana: 52 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
+OK   EconomyNext: 17 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 19 stories
-OK   Daily News: 66 stories
+OK   Newsfirst: 18 stories
+OK   Daily News: 67 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 22 stories
-OK   Google Top Stories World: 56 stories
+OK   Google Warnings LK: 16 stories
+OK   Google Top Stories World: 58 stories
 OK   BBC World: 36 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,53 +23,78 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 98 stories
 
-Biggest stories right now: Top UN court finds Myanmar committed genocide (10 outlets) | Takeaways from the historic summit among Trum (8 outlets) | Riyadh’s Tallest Skyscraper Damaged After Hou (6 outlets) | Two Arrested in Chennai with 71kg of Heroin B (5 outlets) | Kushner says Russia is 'comfortable' with NAT (5 outlets)
+Biggest stories right now: Trump, Putin and Xi to hold historic meeting  (10 outlets) | Top UN court finds Myanmar committed genocide (9 outlets) | Cincinnati Zoo’s beloved hippo Fiona dies aft (6 outlets) | How did Anthropic's stock market debut unfold (6 outlets) | Central Bank hikes policy rate to 9% and rais (5 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* www.nationpathindia.com [2 outlets]: Cyclone Akvan Likely to Become Very Severe Cyclonic Storm by November 
-    important (also on The Hawk) - researching
+* Ada Derana [1 outlets]: 21-year-old goes missing after drowning in Badulu Oya
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: 38-year-old motorcyclist dies in train collision in Maharagama
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Sri Lankan Embassy issues special advisory to citizens in Bahrain
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Card uses 'citizens' instead of 'Sri Lankan nationals'; Card adds 'strictly' in what_happened; Card changes 'warnings' to 'notices'; Card says 'exclusively through official channels' in details; Card 
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 2, written by gemini)
+* Hiru News [2 outlets]: NPP controlled Soranathota local council budget defeated by four-vote 
+    important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* AP News [2 outlets]: Thomas Markle, Meghan's father, is competent to face child sex abuse i
-    important (also on The Guardian) - researching
+* Hiru News [2 outlets]: GTA 6 breaks records as sales top $2bn - industry estimate
+    important (also on BBC) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [3 outlets]: California targets Nvidia in China AI chip probe
+    important (also on BBC, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The spoken card says the judge decided Markle is mentally capable, but the article states an expert determined this and the judge reported it.; The details card says Markle 'was investigated' in the P
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 2 rejected: the name/word 'States' is not in the article; the name/word 'United' is not in the article; key_facts must have 4 to 8 points covering every main point of the article
-    -> no cards; posting with the site's own summary
-* Hiru News [3 outlets]: Central Bank hikes policy rate to 9% and raises reserve requirement am
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukrain
-    no AI summary: saving the rest of today for important news
-* Reuters [3 outlets]: Somalia orders UAE ambassador to leave, citing 'invasion'
+    cards OK (attempt 1, written by gemini)
+* Al Jazeera [2 outlets]: Asia’s stock markets dive as Anthropic debut fails to allay AI bubble 
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 5 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: looked up 24, found 4
+  photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  Fact Base: 9 facts and 0 people saved
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
+  meaning check: 15 stories judged by openrouter:openrouter/free
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 32 story pages for Google)
+
+Countries: IN 38, PK 31, BD 37, US 37, GB 36, IE 35, CA 38, AU 38, NZ 37, SG 35, MY 37, PH 34, AE 37, IL 34, NG 32, KE 29, ZA 36, GH 29, FR 34, DE 33, JP 8, IT 33, ES 34, BR 33
