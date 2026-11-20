@@ -1,20 +1,20 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 27/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 52 stories
+OK   Ada Derana: 51 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 17 stories
+OK   EconomyNext: 18 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 18 stories
-OK   Daily News: 67 stories
+OK   Daily News: 69 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 16 stories
+OK   Google Warnings LK: 14 stories
 OK   Google Top Stories World: 58 stories
 OK   BBC World: 36 stories
 OK   The Guardian: 45 stories
@@ -23,78 +23,63 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 98 stories
 
-Biggest stories right now: Trump, Putin and Xi to hold historic meeting  (10 outlets) | Top UN court finds Myanmar committed genocide (9 outlets) | Cincinnati Zoo’s beloved hippo Fiona dies aft (6 outlets) | How did Anthropic's stock market debut unfold (6 outlets) | Central Bank hikes policy rate to 9% and rais (5 outlets)
+Biggest stories right now: Top UN court finds Myanmar committed genocide (9 outlets) | Xi, Trump and Putin conclude historic trilate (8 outlets) | Fiona the hippo dies at Cincinnati Zoo after  (7 outlets) | Central Bank hikes policy rate to 9% and rais (7 outlets) | How did Anthropic's stock market debut unfold (6 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: 21-year-old goes missing after drowning in Badulu Oya
+* Hiru News [1 outlets]: Three Navy personnel honoured for rescuing 69 people during Cyclone Di
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [1 outlets]: 38-year-old motorcyclist dies in train collision in Maharagama
-    important (serious news) - researching
+* Ada Derana [3 outlets]: Haiti police operation kills 34 suspected gang members in capital
+    important (also on Al Jazeera, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [2 outlets]: Sri Lankan Embassy issues special advisory to citizens in Bahrain
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Card uses 'citizens' instead of 'Sri Lankan nationals'; Card adds 'strictly' in what_happened; Card changes 'warnings' to 'notices'; Card says 'exclusively through official channels' in details; Card 
+    attempt 1 rejected: Blurb states police killed gang members, but article says police reported killings.; Spoken says 'suspected gang members' but article says 'gang members'.; Spoken says 'major development' which is not
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 2, written by gemini)
-* Hiru News [2 outlets]: NPP controlled Soranathota local council budget defeated by four-vote 
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    attempt 2 rejected: the name/word 'Salvadoran' is not in the article
+    -> no cards; posting with the site's own summary
+* Newswire [1 outlets]: Suspect arrested transporting illegally imported medicines and cosmeti
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    attempt 1 rejected: Gender claim 'man' not stated in article
+    attempt 2 rejected: key_facts shortens 'Negombo Divisional Crime Investigation Bureau' to 'Negombo Crime Investigation Bureau'; key_facts shortens 'Katunayake Customs Preventive Office' to 'Katunayake Customs'; spoken cl
+    -> no cards; posting with the site's own summary
+* Hiru News [2 outlets]: COPA approves Rs. 65.09 million write-off of Agriculture Department lo
+    important (also on Daily News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Sri Lanka rupee closes at 332.75/85 against US dollar while bond yield
+    important (also on EconomyNext) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: SriLankan reclaims APEX Best Entertainment in Central and Southern Asi
     important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [2 outlets]: GTA 6 breaks records as sales top $2bn - industry estimate
-    important (also on BBC) - researching
+* The Guardian [2 outlets]: Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senat
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [3 outlets]: California targets Nvidia in China AI chip probe
-    important (also on BBC, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by gemini)
-* Al Jazeera [2 outlets]: Asia’s stock markets dive as Anthropic debut fails to allay AI bubble 
-    no AI summary: saving the rest of today for important news
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 4
-  photos: 10 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 9 facts and 0 people saved
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 32 story pages for Google)
-
-Countries: IN 38, PK 31, BD 37, US 37, GB 36, IE 35, CA 38, AU 38, NZ 37, SG 35, MY 37, PH 34, AE 37, IL 34, NG 32, KE 29, ZA 36, GH 29, FR 34, DE 33, JP 8, IT 33, ES 34, BR 33
+    attempt 1 rejected: the name/word 'Department' is not in the article; the name/word 'DoJ' is not in the article; the name/word 'House' is not in the article; the name/word 'Justice' is not in the article; the name/word '
