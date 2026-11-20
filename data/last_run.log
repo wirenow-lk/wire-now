@@ -1,14 +1,14 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 54 stories
+OK   Ada Derana: 51 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 21 stories
+OK   EconomyNext: 19 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 17 stories
-OK   Daily News: 64 stories
+OK   Newsfirst: 19 stories
+OK   Daily News: 66 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,62 +21,55 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 99 stories
+OK   AP News: 98 stories
 
-Biggest stories right now: Top UN court finds Myanmar committed genocide (10 outlets) | Takeaways from the historic summit among Trum (9 outlets) | China and Russia release 'peace declaration'  (7 outlets) | Riyadh’s Tallest Skyscraper Damaged After Hou (6 outlets) | Kaduwela Fire Claims Lives of Four Family Mem (6 outlets)
+Biggest stories right now: Top UN court finds Myanmar committed genocide (10 outlets) | Takeaways from the historic summit among Trum (8 outlets) | Riyadh’s Tallest Skyscraper Damaged After Hou (6 outlets) | Two Arrested in Chennai with 71kg of Heroin B (5 outlets) | Kushner says Russia is 'comfortable' with NAT (5 outlets)
 
-8 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [1 outlets]: Police constable among three arrested with ‘Ice’ in Muruthalawa
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: Blurb states place as 'in Peradeniya', omitting 'Dehianga in Muruthalawa' as specified in the article.
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* The Island [1 outlets]: Over 500 march for justice for Kavantissa, demand accountability over 
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* The Island [1 outlets]: Hasty arrests and tardy probes
-    no AI summary: saving the rest of today for important news
-* Newswire [2 outlets]: Sri Lankan Embassy issues special advisory to citizens in Bahrain
-    no AI summary: saving the rest of today for important news
 * www.nationpathindia.com [2 outlets]: Cyclone Akvan Likely to Become Very Severe Cyclonic Storm by November 
-    no AI summary: saving the rest of today for important news
+    important (also on The Hawk) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
 * AP News [2 outlets]: Thomas Markle, Meghan's father, is competent to face child sex abuse i
+    important (also on The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: The spoken card says the judge decided Markle is mentally capable, but the article states an expert determined this and the judge reported it.; The details card says Markle 'was investigated' in the P
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 2 rejected: the name/word 'States' is not in the article; the name/word 'United' is not in the article; key_facts must have 4 to 8 points covering every main point of the article
+    -> no cards; posting with the site's own summary
+* Hiru News [3 outlets]: Central Bank hikes policy rate to 9% and raises reserve requirement am
     no AI summary: saving the rest of today for important news
 * Al Jazeera [3 outlets]: Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukrain
     no AI summary: saving the rest of today for important news
 * Reuters [3 outlets]: Somalia orders UAE ambassador to leave, citing 'invasion'
     no AI summary: saving the rest of today for important news
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 5 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
