@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-20T14:00:03.610576+00:00",
+ "updated": "2026-11-20T14:55:33.246751+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
   {
-   "id": "e3fffb7fa9",
-   "title": "24 Stunden Warnstreik: Diese Betriebe im Norden sind betroffen",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWQ5YXhpandoNnhwLUhKS1VDUWk0bEVxRkY0Mjk0NkltUjg0X0dYTU5XNmpTeDdVcVpLdGE4d0FVbElPU05WYnZQcDdwMVN6UDIzNnl2QUVwQVhTS0o2UmRlV0VZTUxKQ3VBbUpNZ1lsX3VrdGlxbWZIbHZtRjBUSEoxV28tQmZ3aUZMcndlY0RyVTQxQUhiTFUwYTVKYmtoTkRCazg3UUZaWkZrOTZVd3pqNDZydEVn?oc=5",
+   "id": "8420b7e802",
+   "title": "Krieg gegen die Ukraine: Russische Marschflugkörper stürzen in Polen ab",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlEwRXZCQmVOSWxWMkIxOVlVdWFxS00wajIwTU5WeVIwdmFoMThRdGpoYl9uRW5VeUJBZjg2UHpycUZFR3JpMWRSZlBPRndjQUJ4bmFJZkRrZWpYNTdOUWtDNHQ1T3ZXOUpHN1c4NmJ4NXZtd3puRjlJUU1GY1AzdG1FVkR6MXZ3QTdTT2lhbjR5NFg3c3RPS3VjTnYzdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "NDR.de",
+   "source": "DIE ZEIT",
    "region": "DE",
-   "date": "2026-11-20T13:17:00+00:00",
+   "date": "2026-11-20T14:44:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3afacdc34b",
+   "title": "GitLab 19.6 führt Audit-Log für KI-Agenten ein, NGINX bleibt verwundbar",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeC02VU5DZDhYdnBJeWtDcENUWXFvTFZDaS1kX1hRZ1VSWHJHdHRlSUNkOWZXbjlOQTF1ZFBDWGVfbXJ5NU56WXdkeVBoVVNvWGQ4WXhnWU51LVM2LVZhckpxeUNRZHItVEQzMWZGai14b1ltVHFCV0Y2alRWbjlfOHQtOWo2dW1XX3o5eXdyelltVFBtSGlqSFNGcC0tUnBTTjJSU0h1LXlMdnZ2c2JwZkR3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "heise online",
+   "region": "DE",
+   "date": "2026-11-20T14:39:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -19,6 +36,74 @@
     "flag": "🇩🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "27121717da",
+   "title": "Neue Fortschritte bei Impfungen gegen Malaria",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHFCX1VMa2kzWGJ0bXhjaTNrOTFJYzZvRXh4M0VlYUtFaUo0QkpXTlh4WUd6b1djZzZyaVFZYmRoQU9YVUx1Nkd6YUVlVzVLcVhBX0ZSQ2Zick9uTWRwcmx1VUF6VjJSMzVXeTdSZUdQRXlxWUZKeTBqeEc3WUlFbkk0MlVISkdXZWdhSVpuNHQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MDR.de",
+   "region": "DE",
+   "date": "2026-11-20T14:28:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8a3fa755d7",
+   "title": "GBA beschließt neue Anforderungen an DMP Rheumatoide Arthritis",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFhQZjZ3Ymp2VDBVZHVBYXlSNmxrVDhyLXdMUnZPVnVDLVM2YktJamFOalN1RUFQZ1hfVW8waUFYQllYRUNxMzlfY3hoeWNsVGF0Wk5PcXJTQ2VOOHhRcXMzOW00clRaaGtUby05Z1ZYTTlOMlp2dEM2bVgtSW1XTUZGSUVMODRGbUNyWUJZRlc4RzhqNDAzR0lvQmRnQkowQ05ZdkVUQjZOM0pja0ZqWFQycw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AerzteZeitung.de",
+   "region": "DE",
+   "date": "2026-11-20T14:15:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5f9ec6819d",
+   "title": "Anthropic 10 Prozent im Minus nach Rekord-Börsengang",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaEdxNlZjOWRmeDlzRXB6SmNPUlBmc1dFcDd5Ujc3X2JIcjZZNnctVkNLRzdXR3U1X2pjaGh3WUhnbThaSkhhakpCMXk0cnZjY3BSakUxXzYxQVVGZWdFOEp0MlQteV9ZbjhhVGY1U0dsVjZUb0NvMU9NQmZFM2k4YXUyQnBBc0RCYldXUHJnR2tHOFlraHVXakNFemc5TkM5Rno2R3hCd056UnlWVVZHeVBoX3V0NURMZHFQRllSTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "FAZ",
+   "region": "DE",
+   "date": "2026-11-20T14:00:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "30eaeb15f9",
+   "title": "Nach Anthropic-IPO: DAX fällt unter 25.000 Punkte -- NVIDIA: Kalifornien verlangt Aufklärung zu China-Lieferungen -- Intuit, AMD, Lumentum, Infineon, AIXTRON, Siemens Energy, Goldpreis im Fokus",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVVzSVRlTmdIbzJTZHZSMWJpVkNIWXNHUWFaY082Yi1rdlRxREpoT1pQcGNmQ2x3b0dGUEUwY2R4TnVaU2Y2WUkxZF90M2NLREltVVVCYzBhbWNzZ282ejNELWZCenFKQXE1YXM4NWtYRjZhcFlLYzc5TU81R0xWNDZ3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Finanzen.net",
+   "region": "DE",
+   "date": "2026-11-20T13:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Tech"
   },
   {
    "id": "d849a72f4d",
@@ -38,6 +123,23 @@
    "topic": "Society"
   },
   {
+   "id": "6c35846221",
+   "title": "(S+) Wie die AfD die CDU zerstören will",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYVdyUGxodV9paU9oY2lYdHdxNVRYYzNjdTk1UkthMGFJNEtRcHo1OGk3T0d1OTBfeV96V2FDZ3BucnJXWGh0N29QbkUtWGRwcVRhOGNyQlI3d05GMVRfNzllLXlDTjNnbDFkZnFMNnFweDNkNFhMS3RJSzlvYklPRWxtTklLQ0pNQ2RvYjVGY1NWUmw1bzIyaGNoejVrUnJrS0Q1RGdEOHNpU1hvTklQT2xjQkZpbHhYYy0tZzR0eEtQOXN0YVpXQzBxYW5MSG1HT3F0RlQtVVAxS0VtZDBybGR1VVNjaWM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-20T12:57:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3476753492",
    "title": "Trump ruft aus Air Force One in Berlin an, äußert Skepsis über Ukraine-Hilfen",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYmxBZ1ZXNDI1NVB3YW1BZ0EzM3dRWHlPT1JNRlhORkdqY0pZbDBUNnlneUduazFBaFYtOTlNVlBqcElFZ1VGYUZBbENFZmllNlRCamxFNnYxQjAwWmNSM3VwT0ZJY0xCVlE4YlhaT1puSVdMWVJ4bkszbUFBdzhLUmszNGlCdUhmVTc2M2hzS0V0REpERXpMTWwxcVIzVDNRYnFIZE5VZHQtTmt4Y2k1TlNuLUJGZGgxM0tqTzhxRzVJSG1ESFdmbFhTaUJoY2RMTmdyNWE5ci1WSXlPVDlwN3Y0RQ?oc=5",
@@ -45,7 +147,7 @@
    "image": "",
    "source": "WELT",
    "region": "DE",
-   "date": "2026-11-20T12:48:18+00:00",
+   "date": "2026-11-20T12:47:16+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -59,14 +161,14 @@
    "topic": "Society"
   },
   {
-   "id": "767465c06c",
-   "title": "„Sieht nicht nach einem Versehen aus“: Zwei russische Marschflugkörper in Polen abgestürzt – während Manöver der „Koalition der Willigen“",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQemtZY0FwQm54V2txdEFyZWJzQ3B6dUJJOFRkQV93VS1MNUN6SFctTFZLdkE4ckJxU3Q3MFVXOHF1SVQ0SHNiRUw5bE9CMjUyMFpfeUQ2ZU5nTFY0djZaNV9xZUNvQVNfTUlERWxteU8zUGNZNzhjSjNqVWZScUtER1p2ODdzbUlObUZBUUtpX2pBZnJlWk92Mmp0Y0NPM2V2dmhSY3hpUEFoa2E1bUI1aFBob1pVaTlsOG45OHE5aG1FaWlDanVQQklKOXRRMlBURk5GeVU5ZlFoNWtzOVExRl9UMmRoa3JVS0lJaldjcDRHTG1pRUQxSGtmbTAtUXg3a1dFYzlWdkY4N0lTMXMtbnpUdmNjdw?oc=5",
+   "id": "5fa1b54961",
+   "title": "Gutachten einer Psychiaterin: Thomas Markle soll verhandlungsfähig sein",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPak11NHZPU1BkMWt3MUl5UkpzZlZQQW1IdjFxRGZDNWl0SkNHWVZwRXBhSmtyeFpMZ19YcFdXWFN6YUU5NUFmOTZxRC10cFVpN2NBUjBzQUhwQjd1UEZ2NUZ5R29qQTlGWU5yVWd5Uk90Z00xck15bjB2VlNMQ2FWS2dmWnNKMU1YUi1FUA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Tagesspiegel",
+   "source": "n-tv.de",
    "region": "DE",
-   "date": "2026-11-20T12:42:00+00:00",
+   "date": "2026-11-20T12:45:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -76,48 +178,14 @@
    "topic": "Society"
   },
   {
-   "id": "43697e8dfe",
-   "title": "Insolvente Warenhauskette Galeria schließt drei Filialen, unter anderem am Ku’damm – 400 Beschäftigte betroffen",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMGo1cWR5dEstY2czNzFyMDI0aEJCVkFYaVhTNldZNGUxVktvbXZKZUg0eU40bWhzYVZxTGJTMmV2QWVyYlNzQzljdTNERjl0RWJucGZjanVseUlBYmM2OVNEQnNsUUZwN0J0dzlkYUFlMkJfQ3FxTGJFMnRCTnRyMjRfUDV1cVQ0NC1EZXp5UHNmUXdBSHF5enBhczJJN24yV0hDaXE3aUFaSEJoaU4tc21fNDVVY3YwbE81UG9POFNaeTc0SS1HeFRyNVRhcVhCTThoNi1GSXNjQy1sQ2ZfN1hRN1FFTG15ODdUaQ?oc=5",
+   "id": "d7fc4c6c12",
+   "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEl0Y1hXTUhwbHZBU1JLM2ozd2cxVUNCQ0pHcFFkYkdpMnh3X05GY0dXUDVPVlBENzhPZkp6MWFUeWpDYlQ2c3hSc1FYa2lvQjQtajFtWHQ1Q0xySTJVNTJJUTFpSGpLMU1PTFhKUHdTckQwRTlPWldyUE1FS1ZjOUkybmJfN2wybXFZa3RHMXJWdlo0czk1QS1LMFEyVVJUQUNrS2c4dHlhUVM1UkhPY2Uyaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Tagesspiegel",
+   "source": "tagesschau.de",
    "region": "DE",
-   "date": "2026-11-20T12:42:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7a0b065d04",
-   "title": "Aktien von Infineon, Siemens Energy, SUSS MicroTec & AIXTRON unter Druck: Kursrutsch bei KI geht weiter",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hQazBLVTJuSC1Fd0VjLWxOaXVLSXVxWkVfQzJCdWM3VlpIVEpRVlJYdlFBV0VhQWg5cWV5RlgtNUR1aERlVDd3TVlpamJrMXQwUm9TMUZVTTNWTUd4UUVsRk8yU2dzd3Nyc1hfTnJGQ3JrRHVHWEZEZS15WXlVZFlLbll3VGRpdkN5QWphVm5PZjJxdENXbmNfaXNOc0NWeWNsWDhYTEEyWXhQQ1hSSW1R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Finanzen.net",
-   "region": "DE",
-   "date": "2026-11-20T12:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2407fdf102",
-   "title": "Sachsen-Anhalt: Keine Mehrheit für AfD-Mann Siegmund in Sicht - oder doch?",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVlkdElKRDRmQnhfNFNyR21HblZPbWszLWZ4YWVBZEdIaHItdUVxSUJrbHlyVzJuUF9wS0lpRGhsZ1pWSElrd293VExfeTE4RXNTWnlMSExHS29SaldwUlhKMDFPTXJSVHgyVDlpaVFzSHVrSEVZUWY2a1lWZHJTc0ZIQ3NJTjJFTjRSemV6TTFmcExLc1FV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DIE ZEIT",
-   "region": "DE",
-   "date": "2026-11-20T12:12:01+00:00",
+   "date": "2026-11-20T12:36:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -135,40 +203,6 @@
    "source": "Express",
    "region": "DE",
    "date": "2026-11-20T12:00:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5651761408",
-   "title": "DMP Rheumatoide Arthritis aktualisiert: G-BA beschließt neue Anforderungen",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWNXX0lKeEQ5d0JhQ0ZTWW9nM1dxeklSSXJpSGRacHZSZ0VTRWhfb0N0U1N5YTh3OUxWTEw3TEJLZ2FqSVRKZGhKREdVZnJjZDVrT0treDVab1lmSEpKTVkzQld4dFVVeWVETjZDS05lX3ZnM1VpTWdZT1pxc0RZNzlFOUk2aEJ6T2FrVHhLSmRPMTByOGhiVDJUc2QtcVhPejY5Rnk4cl9RZkFJblRnTkVteVcwenp6VjFlcDY1VjMwZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Monitor Versorgungsforschung",
-   "region": "DE",
-   "date": "2026-11-20T11:59:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bd27582d33",
-   "title": "Handball: Wegen Heinevetter! Thomalla verliert 124.500 Euro bei Jauch",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd19YMkdkMXJvcFdtZDBLRnRTcTEycTk1Vm43cEoxMmdoN2VfdzBlTDFabElibHY1anpKUXlPT1JNdkk1Wk5XT2xCNTF4eEwtV2FIWWpNNGx6aW9JTzlDT002Wl9fZE1UaHZpSms3NXo4bjhFNUUtQ1cyMGpXbktydFRvLXM0bjloX2RFek5ULXRlc1V2eml6NnNlb2NPWDU0NC1adlctTTcxV2pxRW9XUG5CaHVMNHd3M1hpbTBhQXVhZlo4ckxrZg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BILD",
-   "region": "DE",
-   "date": "2026-11-20T11:55:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -212,23 +246,6 @@
    "topic": "Society"
   },
   {
-   "id": "caa9f93ef7",
-   "title": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQak1oYzc3OXhBXzY3TGZ0Vmg2dngxSjd4ZjkyTzJNQS1KRjJDdWczb08wOUhRNlpNcmN4a1k2blNwb0tDQlg4Sm5XampuWEZjbElDZnlTbkdkZDdqUUxNM0gyTVN5dUgzcERzVEwzYjBqWUZYNTVzU1FQUUd0WTRnZmkzTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "tagesschau.de",
-   "region": "DE",
-   "date": "2026-11-20T11:47:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "13bd2080db",
    "title": "Nations-League-Auslosung: DFB-Team und Jürgen Klopp entgehen Spanien im Viertelfinale",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNak56Y2pvM093T1JDWEZGTHJ1dTBvRDlBWE15dG13aUgtenkwdi1rRHItb3h0MFZkNDE5UGdfVjA0dWliSzAwSnl4c19sV0h2SnhhTFJDeEtISVJGWGc1Z3ZwUFh0SGRyXzFiZERTSkVURFJQZGJwRnNlbThfQVM0QWxUbjF2YWVSdjVUZlZWS2FhVXZGQ3VhWEc2eHBqNlpodWs5U3VoeVozZWFOWUpDRWxTRWI4S19CSmhPYUpRZHZDZG9uR1NpZmI0bWpSMFZiVk5iSVphU2duVXBxMVE?oc=5",
@@ -263,61 +280,6 @@
    "topic": "Society"
   },
   {
-   "id": "bf7bace513",
-   "title": "Cannabisbedingte Hyperemesis: Ursachen und Folgen",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVDVWRGdNejVmMUFnSFB3akpsdEc2Y2VBQUpBM2NGYlJwWV85eHY0SU43MHZDdWVPRVE2UVliYmY1TjFXeVZuNVdvdktEUURFeTJmT3F4LUNxbW9PeW1jZk1pTDdFQmFvSHFvcWlfNlpkUHl0M2F1NmNPeDdfUVRubWs1cm5pQnZpSnVaT2h6YU9jVjFtbUFFQmFHZXI2czc2WU91SWZub0lTOXRXSjNHRktJQVFJV2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Medical Tribune",
-   "region": "DE",
-   "date": "2026-11-20T11:28:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6e4aba955a",
-   "title": "„Sie sind neu, wirklich“ – Jennifer Lawrence spricht im TV über ihre Brustimplantate",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVXJjdW1fZTRETU1fVm9XbFpKbUwzQXRVWE9ZdEMtZE5Md2h1TFlVWWFPNE1WRzk4WUZCS2lVcktYTU9la1EzSDd2bjg3eUdVd0g0MjZ0ZjI3WHJEbkx2bEFmYlBIWk9Nd1RBblhlX3U0SEE5RGFWYUdVRWZ2cHY2RW1FcTJtWHMwWjNiVTlvQ04tRUNyUHAtM2l2WjVjYmpZR2JPWTVPMV96b2FXc0tZdG1lR2JrLXVqSTYtM29wZC1aMEMzTldNTTJwck9SeHdkVGpvSDdrUHA5NG1ZXzQ3a2ljT3J3U2dwNHkzQ082SkU3NHJiQmF5S29aWVJjOVlPbU8zT0NrbTVfUnV0NG9fMw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WELT",
-   "region": "DE",
-   "date": "2026-11-20T11:25:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7cbf4b19a2",
-   "title": "Ukraine-Krieg aktuell: Russland übt Vergeltung für Krim-Brücke – Trump: „Friedrich, Putin will Frieden“",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjE1SjZXNGthT1Ffb2luNGdvdmJLTFdla2pLazJpNFlsT28zYVVRWGlIN3YzaGdXSTRycTBXQWoza25RSk0zNHczZHJOeDNJVmE1alQxVVVFNjhnazJJTl9XUUh5NlZuZmowdEF2U0V1bFo5VG4wZk54cnMwd0hwbVZfMVdZVzBVT0hQYVNELS10MU95ZThELWc5Tms2WUpMdDRLVmdjSFlHcUtqSm4wanFFb0FFRkdSZDFoS2MydXRxYjZC?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Frankfurter Rundschau",
-   "region": "DE",
-   "date": "2026-11-20T10:59:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇺🇸 🇷🇺",
-    "also": [
-     "United States",
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "37613c04c4",
    "title": "Größter Spiele-Launch aller Zeiten: „GTA 6“ nimmt über 2,3 Milliarden Dollar ein",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXppRkF2ZmZiSm1iQjBXWnQyN3MxZXZ2ZGVZeWV3UWx1QmM2bEhmT0tyRkkzUERzT0c3cU9aVk4zUXZMd2NmUDFWczVPbk10T1RjXzlOcVNaZ0kwR2tFQm5TbUlJT041QVNnQlVsc2RWMzk2aXVGZmRGcVg2NUVBMHc4SEFLT2xyZEt6VzNaUkdDaVpRcUJUYXktSDU?oc=5",
@@ -335,12 +297,12 @@
    "topic": "Society"
   },
   {
-   "id": "be69c64dc5",
-   "title": "WhatsApp hebt das Gruppen-Limit auf 1.500 Mitglieder: Was sich für eure Gruppen jetzt ändert",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWpOaG1BbVdjUF9EbWNGbmVnaE5kR3djVnoyNHVKTnBNdG5UcW5TaWV1TDNtaDhhVk14eWZUc09kVkoxeFFyYy1hS09xTzI3eDhvQ0EwYXliakJlRVpOSWJaRFlvd0xjQWFoeHRXYVlTbHZXdUQ5OWZ4QmRYckFWTE1HN2dNNlBvSjhSRnpuUWRNcWxsOHlBdVRZUEdxdXVyRFE?oc=5",
+   "id": "0ad2c74b30",
+   "title": "Hunter Schafer wird pragmatisch, zumindest in Beziehungen",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzU2eWNpUFZJTkhFUG85OHhXVTZuS2xDX01IVVBsRHd1SDFodTFzejhnM01hay03V3lab05nQkFZdjdaQ1dLUDI4OFdQVmFZc01lcVluY2swQVRGUmp3dWNZS1BoNE1EX2l0a0R5X3BlSENwWUd6ZzBYcWhnMUpFTzRHQk1Cc2tfckNCbEtrelQ3VDBNTWtzQ3A1MXh4ckxiOFIxQ3pHR0RQN0sxaVhLOTBwSmRRVHRYZjBvcDF2Q2NaTVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Netzwelt",
+   "source": "Spiegel",
    "region": "DE",
    "date": "2026-11-20T10:45:00+00:00",
    "coverage": 1,
@@ -349,17 +311,17 @@
     "place": "",
     "flag": "🇩🇪"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
-   "id": "0175a44a71",
-   "title": "Gen-Z-Proteste in Hessen: Aktuelle Meldungen im Ticker ➤ Demozug am Willy-Brandt-Platz gestartet",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORUdfNE9wMWZ5WVowUVRkUTNMZlZhLVVMa0tUbDlfU21ubW9CXzZ0RjBxX1RFckdqbV9GWlpwQ01YOGtJQTBqdWFaWFBkQTZoSTJLWUVSdG92Y29RVjNCUnNzbWxpTk03amZHQ0N5bVpna2VhNEZySTF1bWR5VERuT1NhXy10dUxUb0FSZ0plTkY2MGdTb2FCMHB4cWszalVBdmt3dUoxWnRSem5BSGtBMFl5MmQteVJ5VFJtSkIzdm9jdFJ5UUt4Xy04UlZjZTJBUC1wSEpJZXlwb2w5MEF5YnVzTkYzM3VRQ0hnejNB?oc=5",
+   "id": "e8989e660c",
+   "title": "„Die letzten 48 Stunden waren eine absolute Katastrophe“ – Experte rechnet mit Merz-Regierung ab",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOa2xvNGg1M00xYUhjbk1CRmllSlZWY3hGRnlQS1dTSVdHUVhEUkZ4dlZFWlhFRW1LNldKVWUtSUZiRUVmeWU0cFFaQlZUd3VTWDVKZHF2bU9vTG9zOG9abndQYmtaaDBjUlR4cE14eERtYU1TbWRZY2lvWVNFV2Y1M3FCajhpcjNBc2lMdXZReko5cnN6S1VuaWlvQmg5YjJBNkpLbWhKem5lcV90NlM4NWpyYmhMejNVUUltQ1dYVjNJTmNiSmdDUlJGUFlJWnNfWUF5VG5FVEJoNWRuUkxCa0czc1FsQWV4YjZnSUljTnp0eWdBSlFuMnlUazhNYU5YZDdWTFZzU1R5Q0U?oc=5",
    "summary": "",
    "image": "",
-   "source": "hessenschau.de",
+   "source": "WELT",
    "region": "DE",
-   "date": "2026-11-20T10:06:11+00:00",
+   "date": "2026-11-20T10:37:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -369,14 +331,14 @@
    "topic": "Society"
   },
   {
-   "id": "3bcc90a56a",
-   "title": "\"Ich weiß, was es ist\": Zverev gibt Update nach Schrecksekunde",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMnNyT0VPaGVWWkFWcExfYml1Vjh0UWxyNWxKRGxGSVl4UU50cmVJMDJPV3M3RlJLcjZ0dVcwUXBINmJ2cHFVVmU4eV81dnRZLUNjX1Nqc0ZxR05uaXQ0UHg0dTRoT3MtbHVLYmw4cTN6YVJCZGNscW1nQkZNLVhPWDY1TWFtczhzd2xzaTYyQUZScEROcmc5dHRtVXg3QzNUeXdSX3MwSEwtX21hNHItUzhjSmFQSlFFRW9jZjZiRWNhSTJmbUpNMFBvRWxOVW84T25DV3F2ZVhnU2tvYnNudUY3alJxT3liRjgyMVpR?oc=5",
+   "id": "78e43cd298",
+   "title": "Steuern: Wie das Altersvorsorgedepot im Todesfall zur Steuerfalle wird",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYnVfb1E0ekdkUUhaaGk0LVg5TmRBVTJnZjh2OHVaay12ampvYjZkNzktbTdDX0R2S2p0NDV1NlRTemk1WXRKTGtWODloa1I3SjM3N0dqc0l0LVVEMW1DR1YzOFVqTHBkclRtVmxvcG1qa1VIcUhYWlRqRjBHQzh6SjNmcW5oTHdUb0tMclZ2dFJlZWdOYmwxaV9FVlpTTnpGanYtNnZiUF81eFFtS0ZOQ2x0a3ZsZGY0aS1SdTRXa0RFa3ItSkRSZ2xxN1Bjc1BQX3pTTkxNT0ZSb29U?oc=5",
    "summary": "",
    "image": "",
-   "source": "Eurosport",
+   "source": "Handelsblatt",
    "region": "DE",
-   "date": "2026-11-20T10:05:00+00:00",
+   "date": "2026-11-20T10:06:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -386,21 +348,21 @@
    "topic": "Society"
   },
   {
-   "id": "bab592a56d",
-   "title": "Apple arbeitet an eigenem KI-Agenten für den Mac",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNX0Jab3lzUHFzODVmaDZKUzNyMS1FdFR0YUZoeG1vWmZXZkRyNkl5TVpHd0lGeXIzejBBZnU1d1hRd3hzdWpnSTdGZTJrZnM3QlQ4b1RiSnpiLUNxRmVvREtrVFRiblQ0ZzUtMw?oc=5",
+   "id": "cfdcaea00c",
+   "title": "Pikanter \"Verdacht\" um Jamal Musiala beim FC Bayern",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRnl6LVZmUEgyS0NOMS1pQzA0ZUItYy1DNy0xSmVDck9JS2VLamtlNXptQm53VkluSXA5cVZrT04tY1VQWFcwWTctUjRUX2N6dmZjODR6LUtiVXBJanNuTUhnME4xR0pXYXRYTkJaVlhJZnBuSk15MTl0TnpLQWVodTVqaWhlVW5vWGdVazhtUUhoMmhaMWtTVFdwc3RuS1hoNkkzMmw1NEhzS0Vid3U1ZkVndWhDdVhqaS1oRXBlNVJXY3JsQVpzTVNBdGtiZ2JlQWlsUHVONExqQU1R?oc=5",
    "summary": "",
    "image": "",
-   "source": "it-daily.net",
+   "source": "sport.de",
    "region": "DE",
-   "date": "2026-11-20T09:37:39+00:00",
+   "date": "2026-11-20T09:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "32dcee0894",
@@ -420,14 +382,31 @@
    "topic": "Society"
   },
   {
-   "id": "9cfda17b44",
-   "title": "Dax aktuell: Dax fällt unter 25.000-Punkte-Marke",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRGZPYnhOajJwZlRUd2JxSUZFaDIwaGJWMnExOEV6ZFJTd2NkSEFXNXFhNUdBalVyY0w5aVVXcF9lYXBkanRQYjJ6TXk4RFJHTGRZdm1BTGZHMXA4LWc5aHI1MW9FbjlKSzVyaS1Dd2c3bFo4NjNIZFE2OGw0cm5vRVg0V0t5NllrZEMzek1hZS1udXppRkt4NEd3ZEpvZ2xBU3VxZjc0MHhoMS1HNkIyZXZxLTVBZ2V5R2ZOWDlWaWI?oc=5",
+   "id": "d97e60db7e",
+   "title": "Urteil des Internationalen Gerichtshofs: Myanmar weist Völkermordurteil der UN als »ungerecht« zurück",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeU5DRkRqUlFXbmRkTVpoNUtoTjlEUGZZelNDUmJCdmJWT2pMZElkbjhweGs2TDJtTkFlNm9rS1dDalNqY1JpeXNvNnFRMUtJREtQbTJaRkFsbHpsTVBQbTI4VFF2MTNmOEV6V3JVWF82QXpvQVhnN2JsemVRMEtXNmhrZXhKMHBWOHowOXcwZTRsdFhYYzBzMmpYWjVhelVXUjZGNGVqNA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Handelsblatt",
+   "source": "DIE ZEIT",
    "region": "DE",
-   "date": "2026-11-20T08:27:03+00:00",
+   "date": "2026-11-20T09:15:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Myanmar",
+    "place": "",
+    "flag": "🇲🇲"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3bcc90a56a",
+   "title": "\"Ich weiß, was es ist\": Zverev gibt Update nach Schrecksekunde",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMnNyT0VPaGVWWkFWcExfYml1Vjh0UWxyNWxKRGxGSVl4UU50cmVJMDJPV3M3RlJLcjZ0dVcwUXBINmJ2cHFVVmU4eV81dnRZLUNjX1Nqc0ZxR05uaXQ0UHg0dTRoT3MtbHVLYmw4cTN6YVJCZGNscW1nQkZNLVhPWDY1TWFtczhzd2xzaTYyQUZScEROcmc5dHRtVXg3QzNUeXdSX3MwSEwtX21hNHItUzhjSmFQSlFFRW9jZjZiRWNhSTJmbUpNMFBvRWxOVW84T25DV3F2ZVhnU2tvYnNudUY3alJxT3liRjgyMVpR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Eurosport",
+   "region": "DE",
+   "date": "2026-11-20T07:58:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -437,38 +416,21 @@
    "topic": "Society"
   },
   {
-   "id": "64856e369b",
-   "title": "Marquez stellt klar: «Den besten Marc sehen wir jetzt, zu 100 Prozent!»",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckdqNFN5Q1ZuRm90LXJBcXdZLWFmSW52OE00QVplckdHMDRMOW1OaXlKSC0yZXI1dHJIX0daRENQRkdDMExwMjhHNk9MeWQ0Z2ktQ3l6WWNhZWFqcWlZZVpWT25YRG9pUlFqNk1aQ0Y5RGctYV9UX0UyRFh1b2w1VkxOLVJFamc?oc=5",
+   "id": "f1668fb8d1",
+   "title": "WhatsApp erhöht das Limit für Gruppenchats auf 1.500 Teilnehmer",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdE1QQjhIX0NjblpZNHlIVVhtOFpTNDhROXZRUGxBdU0wY3kweC1HZFAtOWpheWx1OHAxUEg5X0w2aDNGbUdGNXJ2YXlOUV9jWk1rV2dpQUUwZVJPRGdRTmN3bnhwalVZekt1ZUFjTklPSl9IdEJpYVloNjdRc2pmY28wU1dYWFdIa3hrTjRqcUkxb2huN3F1RGxGdnAtQjQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "SPEEDWEEK.com",
+   "source": "appgefahren.de",
    "region": "DE",
-   "date": "2026-11-20T08:06:00+00:00",
+   "date": "2026-11-20T07:37:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "ea088ee7e2",
-   "title": "VW will jahrelang keine Lohnerhöhungen zahlen – „Mit dem Messer in den Rücken“, sagen Arbeitnehmer",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPblp4M3BuNVhDUHRweUt4VUpORVZZNW83ODZHRzBfTGtRM2Nkazl6VmVvQmY5azhfb2tGa3ctVW1VZER6UkNpVDZoR09ncTdhclhvVF9FZy0xMmtZUi0wbEtGNHI3UDhMaFZSeFlPTzhPNWtVdVE4cmRtNmdWUEgxRC1rd2FuTlFRVXJmeXNBdzdvX0NhRnpyei01dWhSZUY4V0QwbHhSbG56YVlrc0U3UjlwYUYwdHhNZUxhT0xaYU1LRHRBZnNZV0hjSmNQdjdnbnVRbGdWNlh4cFpY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WELT",
-   "region": "DE",
-   "date": "2026-11-20T07:30:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "2fa91afad1",
@@ -543,14 +505,14 @@
    "topic": "Society"
   },
   {
-   "id": "34fd6dafe2",
-   "title": "\"Was denkt diese Frau, was ich für Optionen habe?\": Amira Aly reagiert auf Kritik",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE9jWTRKTzlqcTFSRTEtTkpzNzVnOVRvbE5MeDRYYmpaN05PLUItajhMLVNWbUlaRGdkY1AteUZXZUs0b3NYODEtQzFkWjhrZmk1SzcyWkc2OEhlWVRIYkphTzdFdVlZUnllZl9HUkk3WVV4Y2pIczJTTFdJcXZobVFZTUIzS0VnSmZNcVphd3N5M2FSTGZMRlp1VEJ0RGRWNmVoY0szbE9jdjJQYUNONklnZ0VMSkdVN0RhR1Ewc1hqRE5sYnRLNkJ6a2h0UQ?oc=5",
+   "id": "063a587348",
+   "title": "Olli Dittrich wird 70 – die besten Bilder seiner Karriere",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkE4aXJDZm9CTDJ3dnduSWxkOU1NWWRCMXFYLWptSmFVUy16Q0syOVRXLUp3YklCU1hVSEMydm1nV0IxejhpaW5KbW8tVUNmMENyNG1lTFBEY0xBWWoxa2FWMHZlcWoza1cwTFl4Vm1GZGFaYTBUSjQ5TzZjeVYtMG5lSTQ5ZVktZlRiTjFrMEg1dzBQSXNHN0VqR2NpaFBK?oc=5",
    "summary": "",
    "image": "",
-   "source": "T-Online",
+   "source": "STERN.de",
    "region": "DE",
-   "date": "2026-11-20T05:36:14+00:00",
+   "date": "2026-11-20T05:50:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -577,6 +539,23 @@
    "topic": "Society"
   },
   {
+   "id": "c5e768715c",
+   "title": "Ganztägiger Warnstreik bei Benteler und Diebold Nixdorf in Paderborn",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOHA5VmZSX1FRbDhnLVhwdktmX1lwSU5qUEJtYzNCYWNhaWhuYmJSRE10OEs3TmpWZ3p6aVdXSUhwNjNuRElDa2k3SUl6SmR1R3hHU3dSc0xQcTVlWXVwaDZYbEZBRTFrckROUlR5U0xQc2Rickg1UEowY1FCbmx4XzhfOUowc1l3YWN2V3M0Y04tOFNPXzFtM0MzTDFRNUdQZm1CVU53ZHlYUV85Smk1ZXE1ZFQ4U2VCdlJ1YWlwQnlrZGRhU3VjR0pGQl9CRzQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Radio Hochstift",
+   "region": "DE",
+   "date": "2026-11-20T04:58:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0c65e90379",
    "title": "„Bleibt hinter den Erwartungen zurück“: Reichlich Kritik an Koalitionsbeschlüssen – kalte Progression bleibt",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmpteWNWblZoSlkyY0dNaVl3NjlsTmZ2eEhRczRwcVd3dzRPQng4S3pFRkswbHZSZnpDTGY2UHJEYzZPU05JRXRfTy1UU1Z3Sm1BNm9qeUhGN2hHMXIyOEo3QTY1SkRwYlZqeGZZdlh5T3Yxd1lDdXVhWGp3QW5JWGowcnlfR0dRRjlGZkZXNFc0aHBXVXZyTjFuM09SemJ4SnFubXBvS1hUUnhKbEpCbXYxaTVjUUhxemxuR1kyNWI0YVE?oc=5",
@@ -592,6 +571,23 @@
     "flag": "🇩🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "cc1c34fa8e",
+   "title": "Neues aus dem Landtag Sachsen-Anhalt: AfD zieht Wahl des Ministerpräsidenten vor",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnLThnZ0ZLZjFhdHM2REtYQ1M4bGF1bEZaOXFibGN1cGxUUnI0TjNTb2YwbzBYajg2M0w3YkJFYzVTUEd4cDdJQ0JkejRMeFFsazJ6d2NaSl9INHR0Y2VKR0FVckRQZURHZTVQODF3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "taz.de",
+   "region": "DE",
+   "date": "2026-11-19T16:43:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Politics"
   }
  ]
 }
