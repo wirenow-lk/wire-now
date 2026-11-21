@@ -1,20 +1,20 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 72/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 75/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 38 stories
+OK   Ada Derana: 43 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 20 stories
-OK   Daily Mirror: 66 stories
-OK   Hiru News: 96 stories
-OK   Newsfirst: 16 stories
+OK   Daily Mirror: 65 stories
+OK   Hiru News: 90 stories
+OK   Newsfirst: 15 stories
 OK   Daily News: 51 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 11 stories
+OK   Google Warnings LK: 12 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 24 stories
 OK   The Guardian: 45 stories
@@ -23,27 +23,48 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 93 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | French police officers found guilty of racist (5 outlets) | Tech stock sell-off drags markets down as Ant (4 outlets)
+Biggest stories right now: Sri Lanka Supreme Court clears Prevention of  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Denmark says it thwarted Russian plot to assa (5 outlets) | States agree to UN talks aiming to regulate ' (4 outlets) | Tech stock sell-off drags markets down as Ant (4 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily Mirror [1 outlets]: Parliament approves 2027 expenditure heads for President, legislature 
-    no AI summary: saving the rest of today for important news
-* Daily Mirror [1 outlets]: SJB MP questions Namal Rajapaksa’s continued remand, cites Bail Act
-    no AI summary: saving the rest of today for important news
-* Newswire [1 outlets]: GMOA to begin awareness campaign ahead of possible trade union action 
-    no AI summary: saving the rest of today for important news
-* Yahoo [2 outlets]: Briton swims in Hormuz to highlight ‘environmental cost of war’
-    important (also on AP News) - researching
+* The Guardian [1 outlets]: International talks on controlling use of autonomous weapons collapse
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland
+* Hiru News [1 outlets]: CBSL raises SRR after three years to curb excess liquidity
+    no AI summary: saving the rest of today for important news
+* Politico [1 outlets]: The GOP’s unlikely new duo on Capitol Hill
+    no AI summary: saving the rest of today for important news
+* Newswire [1 outlets]: Third salary increase for all public servants and teachers in January 
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's 
+    important (also on BBC) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* The Guardian [2 outlets]: USDA, FBI breached by hackers amid spate of tech outages – reports
     important (also on Reuters) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -57,7 +78,6 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -67,34 +87,39 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 7 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 1 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 6 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
+    "code")
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 42 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 42 story pages for Google)
 
-Countries: IN 37, PK 34, BD 0 (FAIL), US 38, GB 35, IE 36, CA 38, AU 37, NZ 31, SG 30, MY 32, PH 29, AE 38, IL 31, NG 32, KE 0 (FAIL), ZA 0 (FAIL), GH 0 (FAIL), FR 33, DE 34, JP 9, IT 33, ES 34, BR 33
+Countries: IN 37, PK 36, BD 38, US 38, GB 35, IE 36, CA 38, AU 37, NZ 31, SG 30, MY 33, PH 28, AE 38, IL 33, NG 30, KE 33, ZA 34, GH 26, FR 32, DE 33, JP 10, IT 34, ES 34, BR 34
+
+Posted today's Top 10 round-up
 
 World Pulse not made this run: no AI available for writers
