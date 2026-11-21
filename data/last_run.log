@@ -1,123 +1,97 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 20/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 52 stories
+OK   Ada Derana: 50 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
+OK   EconomyNext: 20 stories
 OK   Daily Mirror: 82 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 23 stories
-FAIL Daily News: HTTP Error 429: Too Many Requests
+OK   Newsfirst: 24 stories
+OK   Daily News: 55 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 4 stories
-FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
+OK   Google Top Stories World: 49 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 92 stories
+OK   AP News: 84 stories
 
-Biggest stories right now: Budget’s second reading passed in Parliament (6 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets) | Trump says US to penalize firms building data (5 outlets) | Indian man sentenced to 19 years in US Sikh s (5 outlets) | White House removes cyber-security chief afte (5 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (8 outlets) | Gangster ‘Rotumba Amila’ brought from Russia (6 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets) | Trump says US to penalize firms building data (5 outlets) | Man gets 19½ years in prison for plot to kill (5 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* NBC Sports [1 outlets]: Drake Maye likely out for season with fractured fibula
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ars Technica [1 outlets]: Watching as a giant star swallowed its neighbor and exploded
+* Breaking News, Latest News and Videos [1 outlets]: Child with measles dies in Virginia, marking state's 1st measles-relat
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Yahoo Finance [1 outlets]: Nvidia stock extends $2.7 trillion rout as SEC probe reportedly invest
+* The Island [1 outlets]: Appeal Court stresses need to protect elephants as national heritage
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [2 outlets]: French police officers sentenced for beating of music producer Michel 
-    important (also on The Guardian) - researching
-    news search: 0 results, 0 about this story
-    read 2 articles: BBC World, The Guardian
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Fossil fuel talks deadlock pushes COP31 climate summit into overtime
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
+    cards OK (attempt 2, written by gemini)
+* The Island [1 outlets]: Journalism’s standing rises in Sri Lanka as the profession looks to th
+    no AI summary: saving the rest of today for important news
+* The Island [1 outlets]: Playing cat and mouse with criminals
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed grou
+    no AI summary: saving the rest of today for important news
+* CBS News [2 outlets]: Live Updates: Trump says next move on Iran may not come until 2027 as 
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: the name/word 'Capitals'' is not in the article
+    attempt 1 rejected: the name/word 'Power-led' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
+    cards OK (attempt 2, written by gemini)
+
+Top 10: 1 fully explained (1 new this run)
+  reader summaries from the website: 0
+  photos: looked up 24, found 4
+  photos: 10 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 failed: no AI available for writers (last error: AI error 429: {
+  summary translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    "code")
+  summary translation failed (no AI available for writers)
+  Fact Base: 17 facts and 2 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
 
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 18 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 35 story pages for Google)
 
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 33 story pages for Google)
-
-Countries: IN 37, PK 32, BD 37, US 37, GB 36, IE 37, CA 37, AU 38, NZ 33, SG 35, MY 37, PH 35, AE 37, IL 32, NG 33, KE 35, ZA 35, GH 26, FR 34, DE 34, JP 10, IT 33, ES 33, BR 32
+Countries: IN 37, PK 31, BD 38, US 38, GB 36, IE 37, CA 38, AU 38, NZ 33, SG 33, MY 37, PH 34, AE 38, IL 32, NG 33, KE 36, ZA 34, GH 25, FR 34, DE 34, JP 10, IT 33, ES 33, BR 31
