@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 33/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 34/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 45 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 21 stories
-OK   Daily Mirror: 88 stories
+OK   EconomyNext: 23 stories
+OK   Daily Mirror: 82 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 23 stories
-OK   Daily News: 52 stories
+OK   Newsfirst: 24 stories
+OK   Daily News: 53 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 7 stories
-OK   Google Top Stories World: 53 stories
+OK   Ceylon Today: 0 stories
+OK   Google Warnings LK: 8 stories
+OK   Google Top Stories World: 59 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,37 +23,31 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 90 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (8 outlets) | Poland says Russian missile hit its territory (6 outlets) | New lighting system unveiled at the Temple of (5 outlets) | Trump says US to penalize firms building data (5 outlets) | Man gets 19½ years in prison for plot to kill (5 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Poland says Russian missile hit its territory (6 outlets) | New lighting system unveiled at the Temple of (5 outlets) | Trump says US to penalize firms building data (5 outlets) | Man gets 19½ years in prison for plot to kill (5 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Two pedestrians killed in separate road accidents in Malabe and Mt. La
+* Ada Derana [1 outlets]: Two company directors arrested over alleged Rs. 4 bln fraud involving 
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [1 outlets]: Two motorcyclists killed in separate collisions involving lorries
+* Hiru News [1 outlets]: Bodies of Kaduwela fire victims brought to family home in Talahena
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [2 outlets]: Landslide early warnings issued for Kandy and Kegalle districts
-    important (also on Daily Mirror) - researching
+* Daily Mirror [1 outlets]: Appeal Court sets 13-year jail term for Hindu Poosari over rape of war
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newsfirst [2 outlets]: Budget Committee Stage Debate Begins Today
+* Newswire [2 outlets]: Navy seizes 460kg of smuggled Kendu leaves in Kalpitiya
     important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [1 outlets]: New court order: Why was BYD banned from selling its new Ti7 SUV in Eu
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -63,7 +57,7 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Blurb claims the court said the Ti7 'copies' the Defender's design; article states the court found 'similar overall visual impression' and infringement of design rights, not copying.; Blurb states the
+    attempt 1 rejected: In the 'spoken' field, SLNS Vijaya is described as 'a ship called SLNS Vijaya,' but the article only states 'Naval personnel attached to SLNS Vijaya' and never describes it as a ship.
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -72,24 +66,39 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 2, written by openrouter)
-* Newswire [1 outlets]: 66 Sri Lankan Peacekeepers receive UN medals in South Sudan
+    attempt 2 rejected: Blurb says 'on a Kalpitiya beach' but article says 'along the shoreline'; Blurb says 'the Navy thinks it knows why they were left' but article says 'suspects'
+    -> no cards; posting with the site's own summary
+* Hiru News [2 outlets]: Companies Registrar introduces additional service hours for pending be
     no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Araqchi says Iran wants diplomacy to end war, Trump says terms unaccep
+* Hiru News [2 outlets]: Teachers and principals announce island-wide sick leave campaign for N
     no AI summary: saving the rest of today for important news
-* FOX Weather [2 outlets]: Strong magnitude 6.7 earthquake strikes Peru just outside of Lima
+* BBC World [3 outlets]: 'He's a killer': Zelensky reacts to Trump calling Putin a friend
     no AI summary: saving the rest of today for important news
+* BBC World [3 outlets]: Man convicted of starting Palisades fire in Los Angeles
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    cards OK (attempt 1, written by openrouter)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: key_facts claims 'Meta built in Alberta' but the article only states Meta 'has already broken ground' on a data centre there, not that it is built/completed
+    attempt 2 rejected: the name/word 'States' is not in the article; the name/word 'United' is not in the article
 
-Top 10: 1 fully explained
+Top 10: 3 fully explained (1 new this run)
   reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 9 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: looked up 24, found 1
+  photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   Fact Base: 9 facts and 0 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 3 stories judged by openrouter:openrouter/free
+  meaning check: 8 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (5 with cards, 39 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (5 with cards, 40 story pages for Google)
 
-Countries: IN 38, PK 31, BD 38, US 38, GB 36, IE 37, CA 38, AU 36, NZ 33, SG 32, MY 35, PH 31, AE 38, IL 32, NG 31, KE 35, ZA 33, GH 23, FR 33, DE 34, JP 7, IT 33, ES 33, BR 31
+Countries: IN 37, PK 32, BD 38, US 38, GB 36, IE 37, CA 36, AU 36, NZ 31, SG 30, MY 36, PH 32, AE 38, IL 31, NG 32, KE 34, ZA 33, GH 23, FR 33, DE 34, JP 9, IT 33, ES 33, BR 32
