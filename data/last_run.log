@@ -1,36 +1,36 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 55/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 58/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 41 stories
+OK   Ada Derana: 44 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 24 stories
-OK   Daily Mirror: 65 stories
-OK   Hiru News: 100 stories
-OK   Newsfirst: 18 stories
-OK   Daily News: 54 stories
+OK   Daily Mirror: 62 stories
+OK   Hiru News: 98 stories
+OK   Newsfirst: 16 stories
+OK   Daily News: 53 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
 OK   Google Warnings LK: 6 stories
-OK   Google Top Stories World: 61 stories
+OK   Google Top Stories World: 66 stories
 OK   BBC World: 24 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 87 stories
+OK   AP News: 82 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Cost of living protests sweep across Europe (5 outlets) | Poland says Russian missile hit its territory (5 outlets) | French police officers guilty of Michel Zecle (4 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Cost of living protests sweep across Europe (5 outlets) | Poland says Russian missile hit its territory (5 outlets) | Denmark accuses Russia of plotting to assassi (4 outlets)
 
-5 new stories to post
+3 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Los Angeles Times [2 outlets]: Palisades arson retrial ends with conviction of man accused of sparkin
-    important (also on The Guardian) - researching
+* The Race [2 outlets]: Penalised Antonelli beats Verstappen with both Ferraris out in Q2
+    important (also on Al Jazeera) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -40,31 +40,8 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     gemini failed (The read operation timed out)
     attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     -> no cards; posting with the site's own summary
-* EconomyNext [1 outlets]: Sri Lanka central bank has no credit target, backs borrowing within re
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Draft National Action Plan on human-elephant conflict expected by Dece
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [2 outlets]: Anthropic's Tom Brown plans to donate to Trump's investment accounts f
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [2 outlets]: These dead pets were meant to be cremated - then their bodies appeared
-    important (also on BBC) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
+* BBC [2 outlets]: James Harden passes Kobe Bryant for 50-point NBA games
+    important (also on Al Jazeera) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -79,6 +56,9 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* Hiru News [1 outlets]: Dayasiri questions mandatory remand provisions under Anti-Corruption A
+    no AI summary: saving the rest of today for important news
 
 Top 10: 2 fully explained
   reader summaries from the website: 0
@@ -94,4 +74,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 42 story pages for Google)
 
-Countries: IN 36, PK 32, BD 37, US 37, GB 34, IE 36, CA 0 (FAIL), AU 36, NZ 0 (FAIL), SG 29, MY 33, PH 33, AE 37, IL 30, NG 31, KE 0 (FAIL), ZA 36, GH 25, FR 34, DE 34, JP 10, IT 34, ES 33, BR 31
+Countries: IN 38, PK 32, BD 38, US 38, GB 35, IE 36, CA 37, AU 35, NZ 30, SG 30, MY 33, PH 33, AE 38, IL 31, NG 32, KE 35, ZA 36, GH 24, FR 33, DE 34, JP 9, IT 34, ES 34, BR 32

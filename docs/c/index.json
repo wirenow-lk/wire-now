@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T09:47:38.062566+00:00",
+ "updated": "2026-11-21T10:42:45.546334+00:00",
  "countries": {
   "IN": {
    "name": "India",
-   "count": 36
+   "count": 38
   },
   "PK": {
    "name": "Pakistan",
@@ -11,27 +11,35 @@
   },
   "BD": {
    "name": "Bangladesh",
-   "count": 37
+   "count": 38
   },
   "US": {
    "name": "United States",
-   "count": 37
+   "count": 38
   },
   "GB": {
    "name": "United Kingdom",
-   "count": 34
+   "count": 35
   },
   "IE": {
    "name": "Ireland",
    "count": 36
   },
+  "CA": {
+   "name": "Canada",
+   "count": 37
+  },
   "AU": {
    "name": "Australia",
-   "count": 36
+   "count": 35
+  },
+  "NZ": {
+   "name": "New Zealand",
+   "count": 30
   },
   "SG": {
    "name": "Singapore",
-   "count": 29
+   "count": 30
   },
   "MY": {
    "name": "Malaysia",
@@ -43,15 +51,19 @@
   },
   "AE": {
    "name": "UAE",
-   "count": 37
+   "count": 38
   },
   "IL": {
    "name": "Israel",
-   "count": 30
+   "count": 31
   },
   "NG": {
    "name": "Nigeria",
-   "count": 31
+   "count": 32
+  },
+  "KE": {
+   "name": "Kenya",
+   "count": 35
   },
   "ZA": {
    "name": "South Africa",
@@ -59,11 +71,11 @@
   },
   "GH": {
    "name": "Ghana",
-   "count": 25
+   "count": 24
   },
   "FR": {
    "name": "France",
-   "count": 34
+   "count": 33
   },
   "DE": {
    "name": "Germany",
@@ -71,7 +83,7 @@
   },
   "JP": {
    "name": "Japan",
-   "count": 10
+   "count": 9
   },
   "IT": {
    "name": "Italy",
@@ -79,11 +91,11 @@
   },
   "ES": {
    "name": "Spain",
-   "count": 33
+   "count": 34
   },
   "BR": {
    "name": "Brazil",
-   "count": 31
+   "count": 32
   }
  }
 }
