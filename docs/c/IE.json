@@ -1,17 +1,54 @@
 {
- "updated": "2026-11-21T16:17:05.442821+00:00",
+ "updated": "2026-11-21T17:14:18.498331+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
   {
-   "id": "d3823e4b39",
-   "title": "Presbyterian Church abuse probe sent files to prosecutors",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZWlp4TEUzOWNkQXI2UV94TDlibGVheF9LQTNXa2NOUjlfUzU2dXhjZkplN0tNSERJVklKdnpaaEt2bW5WZDNCRGJfejIwa0hpOVNod2MtWnJlRF9zMGFJT0hPc3JOTU9iblRjSW0tOG5ZSXQ5bTVTbjNfSzlkczg?oc=5",
+   "id": "7399041955",
+   "title": "Live: Nations Championship: Ireland v South Africa updates",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2cyU0VkMTBkQnZfNVdjbDBCc2x0N0Vqc2QzSXFvSWRITkFUN25va2RTNFVvTjhveVZKVkZ3Rjk2Q25FNkZYaFg3ZjNoMjhkc1ZiSjZkaFdyOVRHVzFxd1RYSHoyZng1bWJOZG1hOU5HVXlFZ2hZWjJkcFo0Smo1NWd6dWItUHl6NDZINjZRMXVrR3hHUS1JOEI1MFRPN0hkVEs0?oc=5",
    "summary": "",
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-21T15:06:07+00:00",
+   "date": "2026-11-21T16:13:46+00:00",
+   "coverage": 2,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c8877703f3",
+   "title": "No four-point goal for league as trial rules approved",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWRqNGx3X2ZWM1FROUtRYnJFNmVDM3p5QWtwcXFOTi0tbGN2S205Q1laeDVtSzZXRmw0cFhoUVhNb3BibDhQWU51dlp0MnRCbGhoTjd3OHlVTHVGM1YyT1U1bGdyWlNnWHBQTUcycHhqN1Zfc2dFZGxVLU1nSXNBUUk3Ny0wZ01UVWttcXFWdW5vTjljaGh5UHRjMkFoUnE4YmRPbzBwR0c5UQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-21T15:49:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1c50b607cd",
+   "title": "Thousands attend protest in defence of Triple Lock",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UXzJlZnE2MUhkYmdVbXByNE5QeThWbzZJam9rcE1JbUI0Ul9lbXc5d0ZTekFtSzhLUlpTTVJSVnl1TGY1bEhPTkZnRXk3SUREdkxmMTdWLUY3M0NvRG83bmJUT2NxYmpWUWltOG5WTHR1M0ZF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-21T14:48:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -123,6 +160,23 @@
    "topic": "Health"
   },
   {
+   "id": "a350a948dd",
+   "title": "Varadkar says full return of Britain to EU unlikely",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEZLbnVxOVJYSXdnMGhzekZYd0V5OFppb1prTzhUa2lmQUVZTGhHMl9DMHpRUGRRbjNtcGoybUxUWFU2Sks1RkI1bS1fSzlPXzlUNW53ZW1kVTRsV3pLbzViV0cwLS1POGtwSUlfX09qVURJZENqX2lnRGFzbUZ4bjA2VkdwOFFyNW82MHhvN01MeEhYMDFhLVVUQUhZR3NB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-21T13:08:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c5311205ad",
    "title": "Parents urged to protect young children against RSV this winter",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX29aVkdCc3BtVHZNd0gxQ2ttTU8xdk5GSTl4RmZ6TzhsV0UwRl8tWW83bjctVk1xM25tVUswRzI0aE9MTWM2R0U2WjVtblFmcU9wS0ZLVmFNT0k4WFRFeU9IU0pNUmVVLVEzX0pXejdQeUVoYnM4ZmxwV3R2S19zZWxoODRFc0xtX2FEaE5tWU1WZW1VNFZSTExXMXZJdw?oc=5",
@@ -131,23 +185,6 @@
    "source": "Midwest Radio",
    "region": "IE",
    "date": "2026-11-21T13:04:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6331e67a3f",
-   "title": "Death Notice of Michael O’ Callaghan (Tullylease, Cork)",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HZVNrUEFhc2dPRkRvZDVSYjNHUkdNSU1iSklySWFBNzQweWt5bVRwMVNBbjlxZnQ4QzY4dlNBcTBXNDA2VDVvSGc3MV9uUE96eTF0bzJ6OFM5LXVpQjNHWEVBM0gyUzIwRm1lbEd2TUZqLUd1cXdXWk5n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RIP.ie",
-   "region": "IE",
-   "date": "2026-11-21T12:59:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -174,19 +211,19 @@
    "topic": "Society"
   },
   {
-   "id": "59b0ffdbc0",
-   "title": "Women speak about their battles to overcome cancer at Carrick-on-Suir fundraiser",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM3FEcUg3U2lvWDBRZE0wOEg3Mi1oNHlJcVp3ZVQ5Ti1OdEdoRGhQTXp5c0NaQ0NJY2JNeWxUa1NaNHZ0a3BqX2w0UHMtTkstWjRheFc0NGN0ZDA0d1RkMjhYUVhPNXJXbE1sU1ZLRHRLOFpDbXVWbHB0NDhzOS1keFN2QVZWYnBnQ242b3owN19IOWhyaGI1ZHBRTjhEdktPVWRDVGZaM1VkSGlrS0lWYklUQzlLdjJscVVqam5nSk9TLXNRUkE?oc=5",
+   "id": "79f182b970",
+   "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNvdl9DUkdXMllqTXdqM053Mmc1REdQZjVTOGlXY1JGZVNvSHRTeFhIZjJXYVE0OFZ3UHBPWDdkdi1TTHZWc3lrZkNPVXd6LTFmT3kxN28zclJOcTlXLVNSanl4UnRHNzhuVDNnenhLTXRqQ3RJRk1sNEJIVTUycVA1Zi0tNnhyNjJJV2JBaFNDdUZZY1J3Vi10MTBHMXd0RXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Tipperary Live",
+   "source": "Space",
    "region": "IE",
    "date": "2026-11-21T11:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ireland",
+    "country": "Japan",
     "place": "",
-    "flag": "🇮🇪"
+    "flag": "🇯🇵"
    },
    "topic": "Society"
   },
@@ -242,40 +279,6 @@
    "topic": "Society"
   },
   {
-   "id": "d4783cc6ad",
-   "title": "Henry Winkler reveals he was rushed to A+E in Ennis",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmRocDVoVXE5b3Q0SFBYR3k0bG9PUHlBay1yTnpjY3gyZ3h5VkdodGd2ak00MjJWSkdwaVRFM0UyZy04TWpjMEJyRzFXeTNBSzQybHBuM0w3bkVuMnhNX0EtWjZkR3phbHFQRjNaUG1ScFg5a1VvNmZnY3V5SVVnT0dkSGgxWHFiNFVzaWZDRy1CZFJCbUhyVXktelBHWl9RT29ocA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-21T08:07:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4e3044de38",
-   "title": "Irish scrum set for defining test against the Springboks",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3pOZWhJN0RjSmtBcGc1bmlCTnAtMGpPSTdoOWJ3SU9MZFg1OWJYSXFueWVxZFdLLW5ubzVBcTY2NUhORmRtbTcyallXYXppcllqektudkk5SkpkNjNnMndnTmlia3Y2S1A4TEYzM0xxZjhYVjZ1WTBjVl9teWw0MmRJVmVHLXpZSGhlZ1N1RURLQUJRRlQtMlNJcmkyakhPaVBnMFZYTVpzQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-21T08:07:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "903c41f318",
    "title": "O'Leary eyes full-circle glory at National XC champs",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaGk3enJ1ckRpQ2NmS0k1dlVEbTlUdkxFZ1hIWjl4UGgxYkxQWE81RlM0UDRMSEJ4cWVHcWp0UHFhenRTbng2U0ZxZ051ejhGS1k2VHRIWnRwUDdweVlocDM2SWZZcmdFczhLUlIyU1JjVzhZUFd4Nm5rXzJFU21uWEFWOVVhRjJ6TlNWZmpxNFM0RElYUWJrZUViR3A5NkQ0bTZ0NGRxZFo?oc=5",
@@ -310,6 +313,23 @@
    "topic": "Society"
   },
   {
+   "id": "3b71f5a8ac",
+   "title": "Govt urged to agree terms of reference for Omagh inquiry",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VOW1zaWZPN19zUmVENTJLQk01Z2RKbHdvVVhEeVNWRDBpM2UwSDJoX1pLdHRJdGRYbWR1UXJSUWxHakVyUFRpWVZWSXdWeTVBVVJ5ckljTmJac2t4a0FocDNxQjExV1ZwX2NXVUtneWUxTmtES1JsVWNhRXlhUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-21T07:00:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3742273320",
    "title": "Londonderry sets sights on becoming major film and TV destination",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cHVmcm01cVU5Qk9GVXZtS0xYVjVNbVVhdmtwRWZtMDdLckgwLVA4NDRXTmJfY3RWS3dFdXZaV2Z4WEc3VlhRNDV3WThhVEZEQUxtT2s5WlBWck0?oc=5",
@@ -325,6 +345,23 @@
     "flag": "🇮🇪"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "8d97f8be89",
+   "title": "Baron of Dunsany willing to sell family art collection to fund Navan rail line opposition",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXRIR095ZmpWWDlkUFlQRGFCV2pJblZTM3Y0TGNnS3RjbTZ1R3NzVWE1a0wtQjNHeXpJYzZrUHlEdnN2a18xU2loWENjdFZnZTUybG1FcnhGTVQ3RlZVZGJSVGVFMXBPY3g1Xy03NWdDSmxVU0c0Y25oUGNYUHZUbHF5ZWUwbmJkajVLX041VlRpcXRCN1BlSGxseExSbnF2MWd2bVZRUUUzZ1lGM0owZkZnWnNEYTVmNDBha0UxZUFPeVJjU3VLSTlZc0ZOM25IaktTdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BreakingNews.ie",
+   "region": "IE",
+   "date": "2026-11-21T06:09:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Politics"
   },
   {
    "id": "4f3ea64c8c",
@@ -344,26 +381,26 @@
    "topic": "Society"
   },
   {
-   "id": "0481b475e1",
-   "title": "‘It was really special’ – Irish Independent photographer Mark Condren presents President Catherine Connolly with picture at Áras",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZjZLbExIaUtXNFYyVU9wSjFzbFNsR0x4TFZMb2dQZ0ptNDZCaFp3eUxnaEtlWmVVVy05V0VrdTNtQkUydU05ZFhDV0pRTDF5QkZLdnJBbHZUQXUta1dXd0VWRTNZbS1ubERYY3otOGwzZXFZR2FZN0hQeFp5RFVmbm9zeC1iT2NsYlBHMHhRVlJLcGM0T3ZHRFA0TDNRQUlncmhmNVpZOVBFdHFNRTh0Sm9FRGVKZksxUExrcVFIMnhSVVdublViLWxwUklDYUdvZGhlLVIyVTRZUnZRbVJReE5yUkdwVHhDVkt6dy1FaFlZalNZVVFUcFpwaFgwU3FNS2ZndlFSUnNrcUU?oc=5",
+   "id": "b3f3bbd1ba",
+   "title": "6 Late Late Show talking points, including Henry Winkler's overconsumption of cheese in Cork",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZS2oyZEVSRFM4dzk3bTR2Z1FpT013V3p5Mm9zZldoVkptVU5WT0lwMUtkZ0JwZGh4QVcyblRCZlhyd2M4YjJXSzNoQ3NWMm5CdUpHV3V4MzBRa3ZrdE56NlVBSk5DUlltSy1hZURBUmJtRkdlbGNrYU9ZMXpXdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Irish Independent",
+   "source": "Irish Examiner",
    "region": "IE",
-   "date": "2026-11-21T05:30:00+00:00",
+   "date": "2026-11-21T06:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
-   "id": "4149ec36bc",
-   "title": "Several of Ireland’s biggest credit unions inform members of data breach after cyber attack",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOampNa21XN1lROHplX2tzcEdrUG1uRDBMQVhPcHpfazZ6X0hETVRfT1NJMmdvWmdiMVI4RUlDUkR0b25DSTZvTTdBLW9KOWxpanFQWEFDZjN2UzZZNHZ2Y205NVFRRHkyZkVIazNBS21VUzB0TWt3bUFCeHg4VFVuZ3BwcGE0VHo5eVN1SVo1ZXNxa3dTb1ZkdTU3TG1uUWpscV9kNGxKMEFIUk1ZSG1aVlFMVHZtNklzSFdrWW1XbFVYZERZQkl5V2FOdnlpbEQtZGpjTVJGdGpGSkZfcHc?oc=5",
+   "id": "ef191b1261",
+   "title": "Credit union cyber attack: Garda, Revenue and HSE staff among those hit by data breach",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVR2SS1ieVNOOVRScnczMUhJVTJQQ1k0UDFxMHNrN002T3BfTV9Zb3EwTGhhV1N5ZTNnN2RZX3U3TmlOeDZJSmRKQzZXNEItWU82TTNmc1pNX0dCZWFyY09EZmtOQlJSd0tMZXFpLXFPRkxkM1VWY2p1akhDMC1mVVFpQ0U0THNvV29TVjFtMXZDSnAyc0hsb01fN21rS3hnbVh1MzdUektxODVPazZWVmxtTkRReC0yeDlEdmI5c0ZadDlVdVB0YzBKM2V4N3dYRldDRTBn?oc=5",
    "summary": "",
    "image": "",
    "source": "Irish Independent",
@@ -378,23 +415,6 @@
    "topic": "Tech"
   },
   {
-   "id": "59f5b5f8e9",
-   "title": "Inside the mind of Rassie Erasmus — ‘Suddenly he went quiet. I turned around and he was in tears’",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY0pwQlNWVzJxSkk3S00tTG52azl4VW9PWWhYNEl2NEdib2NoMDU5RDhTMUlDNUk2dTFBRUNlVmtibGZfaDNQMW0wdXZLcGdRVU5DelZOc0ROSnZKSFFNUURZeHFQajBKb0pPakRKSlgwTmxVZmFZRkw1R1ZLbjMzZ2RyT1JMRjVFUmkxMzlUeG9qVkJsaG9zTnVnQmdtMExsdlNPNkZ0OVZhY2oxUWl1aFRvcnRXVHJCUXl3Y3NfTDNfT2Zpamd5RVY3THZHaTNlX1llbzBMa1NWdjN4MU1uNnNBTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-21T05:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ceae80a463",
    "title": "Retailers report gloomy GTA 6 physical sales, with disc-less code-in-box unpopular",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDM5cXZoNzBhcW95WkoxS2h5ejlobVcxejI0X1pjb2h5NVBRMlJIS1VTUC1Wc19Nd09WQ0RwOUk5WUNNMEZFZzc1WVNYVm5jc3FRWUlweDVMbjVWMW0xTWktbDZWUFRrUWhtZnluY0pwc3FMcnRqeTEtNEEyT3ZDN24wOW1La0dQcGswV2pTWFhOVmNEbjAxS2l3WWxzLUhrVE1sdTROLXVWakxrbS0yS2V4VXluWVRTNkNnTFFIMXo5OHNO?oc=5",
@@ -403,23 +423,6 @@
    "source": "Notebookcheck",
    "region": "IE",
    "date": "2026-11-21T04:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ab259bae79",
-   "title": "Aston Villa vs Sunderland: Premier League preview, team news, stats & head-to-head",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BeVJJc1NjUDI2UzhEYy1XQ0phazQ0RkJKZGxyaWhvR094alZOdU5SS0tnVmI4WU1BY3U3T1hUWC0ybWxvejBZSE5Jd2lMTkthNEtpS0JoTjlyYVhndGNxdlM4bw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "IE",
-   "date": "2026-11-21T03:10:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -487,14 +490,31 @@
    "topic": "Society"
   },
   {
-   "id": "111162a42b",
-   "title": "Man arrested following 'serious assault' in Co Kerry",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jTUlZd3pHQzlEeF8zalluakZ5dnM3b21feEdHNkNuZ1NPZ2JrR0piZ1lTTUZ4aHR0cmM2VVdwSnM5bzVBOUlybDhKdDZUX2tDb3dLUUhnd19uaTB5S1g5TnJ0U2ZpMldkS2g4ZDh4RUxIUQ?oc=5",
+   "id": "88b5e7cbc5",
+   "title": "Hurricane Rassie makes it a week like no other as South Africa head coach goes too far yet again",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU3ZmaGZUbTB1MVZYeWZKOVJfbkFPTk1ZUVdyWXVxSlJYZ2VyeWlCdURHOC1QaXZzenVTbTZzU1FkS1B0RVBaS2EtYVdqbkFlSm1kQ2lRTThUZmJpLWtMQ0RWNGVRYWY4T3dUU0FBS3BhNXM5TDM3YjBMRENPWXc0ZUtKNm9zWUNrWnlzRVh2UGVjaVBpRldlLTF3TGZfRVM5THpzV093TjF2b1JlVlNjb3ZwUzJ5RVRQZlpJMlpZbWhSME1JZGwxSjFCWkxzcmpRS1FLa1A3dXc5NEF5ZG5HSg?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTE.ie",
+   "source": "The Irish Times",
    "region": "IE",
-   "date": "2026-11-20T20:01:28+00:00",
+   "date": "2026-11-20T20:03:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8d99c77189",
+   "title": "Warning issued after bird flu detected in two dead swans in the midlands",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlBnUWVfZmhfdWF5ZElzb0ViVmV6b1hRRWY3aXRTOVQxT2dPU0tpWXBGX2pNWmVHRzF1WnNGNEJWYk5pNHNHMmRKajFwaXhoSU4tdGhfYmsxVGt2SFJmLTZoZV81NWNLOWxTRzZMQW5MekdhVlYzU2V5UEdlVDY2akF1RXExOE00TGxwaG5DNFd1cEFFRGJBRmtBNXFDTjdXWDY3aFMyMjdVTGdGR2JESkJfa0phdjZKSWVJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-20T19:58:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -538,23 +558,6 @@
    "topic": "Society"
   },
   {
-   "id": "3338a1a13e",
-   "title": "Experts recognise climate change as 'health emergency'",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Oem1UUWk2VjdndnJMQ3Y3SHBCdXpVcjR3QlBONlZEZjlBYXVTa2gxa28xR3ZxS1QzMzQwNWljM25ta3c3Rzk5aGdSaTd4X2pHV1p5WVpEek9sQmpDZlBZUGJFT3RMWUVZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-20T15:39:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "58a685a978",
    "title": "€364K Worth Of Cannabis Seized At Shannon Airport",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbGg5ZUFsYnVJanFqT0hIdWxhcURqN0d1amRtbFdaYWVXZ3ZzazdlM2h0ZFVMZ0VsbUhQTktjdTZKTS1HT0FoYy1oMmtsUl9FNTVJTzBmVFFuam1vR1NmSXJqUEY4LXJDTW5DeHI5b2FTR3gtV1dXd2VQdTZ4a2VYNU9B?oc=5",
@@ -589,14 +592,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "4878c710c4",
-   "title": "Mysterious Mercury planet to get a visitor from Earth after epic space journey",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHNmdzZyRTBHSkR2ZGoxUFY2bENGZUFSU2J3eUtuTHFybUd1Y1dhQm5jZE9kNUp4MndTZlZVT2ZDSVlMaWlPdWVwWmg5X1lZd1lRMGtFSFJkdlVKaEhJTGpoMEFUci1pTl9iNVM4NnJPWWxoX0VLMDhMWmdJY3RnUTgtdVRSaDBjLXo3YXdreFV0YktCZVc4OExEeGYtc0pWQkF4MWF5bmZJUWViNTdQT2dPbDhuOEI2Zl83MTFsZVg3NjNSSlFLcWRfQlM2Zw?oc=5",
+   "id": "020bc3a7ae",
+   "title": "Astronomers observe puffy star merge with smaller one",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpYUpvTnZBZm9aSXNwN2QzMDNxa0l1bXNYSWhfNjdCcVRLMGVkaVJsMDhoSWlucXQ5VFZ1TTEzVDJMellhNVpsSERzcUNQdkVhWlNNLW1OcGZWbUFYaW9fSTNETFJYMDczYW0xclZKdVp2Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Irish Independent",
+   "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-20T12:30:00+00:00",
+   "date": "2026-11-20T11:09:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -621,23 +624,6 @@
     "flag": "🇮🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "4ffec671b4",
-   "title": "Mary Robinson says COP31 draft agreement is ‘sad verdict’ on conference; claims AI has ‘gone far enough’",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnpKRGlMMHVKdTlGcnU2Njk1QW00d0VRaklyVFdKbmlVbXZqdzlLUWlGTnNxTnZKVTZiVjdMNXRlYzh5TU1Yb3F1S1VwLVdsVEMyc0tBUFFxZ1VRbGFqclBKTG85STFQUGlNOHBKems2NE1KOV8xNi14TGZCam44emdMZlBvMkl6eHMyckJfeVNORlpQd0ZrWXZnNndVSVZxckQ2czlad3g1YW1RbVJ4SmhRWU1kTDlQcGcwaGM2dXo0SFBmZ1JfRUlMdmVuZ0FaZmsxZkhwMjdlXzdEUmhybm04NXEyaFdCREE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-20T10:35:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Tech"
   },
   {
    "id": "387b225965",

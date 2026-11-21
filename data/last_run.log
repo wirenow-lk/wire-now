@@ -1,49 +1,49 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 39 stories
+OK   Ada Derana: 34 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 16 stories
-OK   Daily Mirror: 65 stories
-OK   Hiru News: 91 stories
+OK   Daily Mirror: 66 stories
+OK   Hiru News: 90 stories
 OK   Newsfirst: 14 stories
-OK   Daily News: 48 stories
+OK   Daily News: 49 stories
 OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
 OK   Google Warnings LK: 11 stories
-OK   Google Top Stories World: 58 stories
+OK   Google Top Stories World: 57 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 91 stories
+OK   AP News: 92 stories
 
-Biggest stories right now: Sri Lanka Supreme Court clears Prevention of  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Denmark says it thwarted Russian plot to assa (5 outlets) | Denmark accuses Russia of plotting to kill Uk (4 outlets) | States agree to UN talks aiming to regulate ' (4 outlets)
+Biggest stories right now: Sri Lanka Supreme Court clears Prevention of  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Denmark accuses Russia of plotting to assassi (5 outlets) | FBI investigating apparent hack of a key crim (4 outlets) | Two tankers hit in Strait of Hormuz as hawks  (4 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Bloomberg.com [2 outlets]: Wall Street Asks What Can Save AI Trade After Anthropic Wipeout
+* Newswire [2 outlets]: PM rejects claims of education funding cuts in 2027 Budget
     no AI summary: daily limit reached
-* The Island [2 outlets]: FBI reportedly investigating apparent hack of its criminal database
+* The Guardian [1 outlets]: SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I
     no AI summary: daily limit reached
-* Hiru News [1 outlets]: Sri Lanka’s Tea and Coconut production decline in 2026
+* Ada Derana [1 outlets]: Parliament approves Budget allocations for 21 special spending units w
     no AI summary: daily limit reached
-* Al Jazeera [2 outlets]: Tankers hit in Strait of Hormuz as Iran tightens grip on shipping
+* Al Jazeera [2 outlets]: Israeli strike on vehicle distributing food aid in Gaza kills three
     no AI summary: daily limit reached
-* Al Jazeera [2 outlets]: Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
+* Al Jazeera [2 outlets]: India’s opposition stages protests against Meta over account removals
     no AI summary: daily limit reached
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 3
-  photos: 9 too small to look sharp, using the clean cover
+  photos: looked up 24, found 1
+  photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini failed (AI error 503: {
   "error": {
@@ -56,13 +56,8 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers (last error: AI error 404: {
   "error": {
     "code")
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-  summary translation failed (no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code")
+    gemini failed (The read operation timed out)
+  summary translation failed (no AI available for writers (last error: The read operation timed out))
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
@@ -74,6 +69,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 42 story pages for Google)
 
-Countries: IN 38, PK 34, BD 37, US 37, GB 33, IE 38, CA 38, AU 37, NZ 32, SG 30, MY 35, PH 29, AE 37, IL 34, NG 32, KE 33, ZA 33, GH 27, FR 32, DE 33, JP 9, IT 34, ES 34, BR 32
+Countries: IN 38, PK 35, BD 0 (FAIL), US 37, GB 35, IE 37, CA 37, AU 36, NZ 32, SG 30, MY 34, PH 29, AE 37, IL 33, NG 32, KE 0 (FAIL), ZA 34, GH 27, FR 31, DE 34, JP 9, IT 34, ES 32, BR 33
 
 World Pulse not made this run: no AI available for writers
