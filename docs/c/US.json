@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:18:41.881468+00:00",
+ "updated": "2026-11-21T13:30:17.218217+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
@@ -11,7 +11,7 @@
    "image": "",
    "source": "The Washington Post",
    "region": "US",
-   "date": "2026-11-21T11:32:49+00:00",
+   "date": "2026-11-21T13:13:34+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -28,7 +28,7 @@
    "image": "",
    "source": "Mashable",
    "region": "US",
-   "date": "2026-11-21T11:03:45+00:00",
+   "date": "2026-11-21T12:51:43+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -36,6 +36,94 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "2362f5733c",
+   "title": "The GOP’s unlikely new duo on Capitol Hill",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVdzSjBZLU5ZZTlxTHhHQ2x6RTFleFdweXdtZTRCYWczeW8zQ25rSTlQTThYcm5VN1drbW5ib3gwN3dPck5qamN6V3cxS3Q4MzBpWmc2NGNyWlZFLXoxZkFZakx3Um9ybm1qZ3Fhdzk3SExTck1YdWdQQWFpRTNjQjIxUXV0dy04NnlqRg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Politico",
+   "region": "US",
+   "date": "2026-11-21T12:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7f8a9dd4ff",
+   "title": "More rain Saturday after days of flooding along Central Florida coast",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPME5mNHhCdVltWWxQQWxtU3BISnVoVmRIT0wxZm5Ed1lyenpQd1RZMkZiQl92TXMtNV9sZ3Z0b2VKLWVDMzJXVE5QVHE5cFNCMmR2ODg2MTJPUlhPXzhQSWVudXhXRG5CR1NXOHl0RF9iRUdsZmFROWR0QkNlZzc0MFB3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WESH",
+   "region": "US",
+   "date": "2026-11-21T11:07:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Weather"
+  },
+  {
+   "id": "f7db2f4e16",
+   "title": "Did Democrats fail Florida? Angie Nixon on ‘missed opportunity’ in midterms",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejJTZlFRenJFeFpvcU1kRmZsWDB2MVkyTmM3Q1pCRzVENWZENkF1NDFhczNiSzZYd2lWbXFCMGVUcDFRQmhsRTdxTGFuUUs4UFZYcEVlRkZIZ2FHcTMtMGhpLXJxTjVMbE9jUTNkZ3lucjhZRXBRVlpBM2EyN3RTZmpmeUt0N1JDMWVYVTJwMVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "US",
+   "date": "2026-11-21T11:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "319ed694ea",
+   "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFE2UFNMREttTXZEd0VvNW9BcXhvSUIzRUZSQXB6SGs2d2VoTWFnUC1YUW9Ic0QydWxLT0h4ekdkMmlrMVp2WkhoaThwaUsyYlh3RE5CQWstUEdJUWp3YlpOMWhJV1lieWdaOG9kTGM1ZnIxaU9TcWRUZUVTcHplN0pWeG5IYjBiWHVTeThRYWZJM0tkR3UyejA2bl9MdUoxUFU5ZXhxRUJtenVvVUpv0gG0AUFVX3lxTE9Nd3d2OXJsVmNORUd0UnN1VTlLU2Y5ZjFId2tkRXJjc2xRWnlZNGQ2eVNPUzVIU1NFeW1XTm9IblM0bkE3ay1IdmNXV2NPMURXdjNaTjd0aU5JT2c4azJld09sTExTZk9GX3liSHh5RlhZZG9lMjAyWVQ2a3hWbE5Ybm5IeUVOclJGOHRFRWdGWjZ2c2IweW1ha2ZYSmJwZV9va1lrbjl0MVNmc0VyMzB4Qlk1Ng?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Fox News",
+   "region": "US",
+   "date": "2026-11-21T11:00:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6924caa1e3",
+   "title": "Fears about toxic lead dust spur battle over US Army plan to detonate bomb-making material in Iowa",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13ZGhGOVZ3Y1dvb2FocF9uUnRWcHlsNWJYQXNHbU9yT2VOLTh6VzRwOGxhOFgzOVVWM0xkdlFYR1dVZHhsYVZRU1paM2JXZjA3MEFZMnRRTkhFZWZnUUFYSU15VkRpbWVmYUlnUThEMmZkbWtqWWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "US",
+   "date": "2026-11-21T11:00:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "c7bbc9da45",
@@ -76,14 +164,14 @@
    "topic": "Tech"
   },
   {
-   "id": "83d472c29e",
-   "title": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVE1oZEpHSTdqVU5SelRIUHB1c0xoWmRaTFBibFB4ck4xc1hSMUhvbGR0bUtVNVRjQl80dzlMQkpFcWs2TG0yYlB1NzlwUy1jMjBlcjNHcV9YZkFzU1FsSThZaWh0S2tYVEdRelB4MEQ4a284a2lDelVIdFRla2JzdGQxeTk?oc=5",
+   "id": "9f1fb87f44",
+   "title": "Second judge to block Trump's contested D.C. arch",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82Q3hkVmkyVk1FSnVORVdOdVY4Y3JwY0VVYThZaGIyVHpyeUJtYXZKaWVtUVJwV2dCU05ERTRxZ2prNl9WdjJERXZMZ2Jua1FtZmdLSDVQYjVleS0xVFQyUlYxNjZWcGlJ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "Axios",
    "region": "US",
-   "date": "2026-11-21T10:10:23+00:00",
+   "date": "2026-11-21T09:12:50+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -93,14 +181,14 @@
    "topic": "Society"
   },
   {
-   "id": "4590075d3d",
-   "title": "Harden passes Bryant for 50-point games",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EMUNCUEFTQmJnSzIwU2pQVTlfMXV0YVVHamRuVVdqOXBrWVpscGlleWNTY1p6TlVvMmYwQU5PVHN4RlVseUFJa1ZneEVYcjhKYjNBdGFON1hEOGtoR3AyelVwMEdDZTRucXRn?oc=5",
+   "id": "87ba495f12",
+   "title": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUc5d1VEOGhMcFN4Z3ZHSm4zYjNqMWxMUEkweWR6UVlrMUQzOHBoVUtzYllmWTBoblhOcjM3dm1nVE5MOXVLeWNKelh0OXVSSS1Ld3NoSnhSdk1YTkkwU01FQ0V0ektZMHVBSldWQlExRXBveWxId3JhSGZuc3BYYkhQaldZblB0SXRDbDFMQnFIa0xXWEtzOQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The New York Times",
    "region": "US",
-   "date": "2026-11-21T09:10:18+00:00",
+   "date": "2026-11-21T08:42:47+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -127,14 +215,14 @@
    "topic": "Society"
   },
   {
-   "id": "9f1fb87f44",
-   "title": "Second judge to block Trump's contested D.C. arch",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82Q3hkVmkyVk1FSnVORVdOdVY4Y3JwY0VVYThZaGIyVHpyeUJtYXZKaWVtUVJwV2dCU05ERTRxZ2prNl9WdjJERXZMZ2Jua1FtZmdLSDVQYjVleS0xVFQyUlYxNjZWcGlJ?oc=5",
+   "id": "edc29575f5",
+   "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXpLVFp3QzlQXzZuWFRNcWVmd3JyX2pma1lPemFJTHdqQVF4WWpSc24zNEc0UnNMWUNlemRMUnZjeVhZcTB5QTR5WFNlZG1aRl9EbVpWaUs5QkNIRjZQMkJPSFM5ajNkcWlzUmc0OXR6N19IdmtZNlU1SUZMRnZVUWI0eXZpZTVzalktQk9tYm40b3RVTGhBQTZMSzNlOEJlX1NCZC1ndndTaGdSSWVZTF94S2t4Q2JucUlRZXh1dVVxOWlqVjFwRGN2YlRrSEg4TFRDMFdQQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Axios",
+   "source": "Motorsport.com",
    "region": "US",
-   "date": "2026-11-21T06:11:33+00:00",
+   "date": "2026-11-21T05:48:41+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -144,14 +232,31 @@
    "topic": "Society"
   },
   {
-   "id": "edc29575f5",
-   "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXpLVFp3QzlQXzZuWFRNcWVmd3JyX2pma1lPemFJTHdqQVF4WWpSc24zNEc0UnNMWUNlemRMUnZjeVhZcTB5QTR5WFNlZG1aRl9EbVpWaUs5QkNIRjZQMkJPSFM5ajNkcWlzUmc0OXR6N19IdmtZNlU1SUZMRnZVUWI0eXZpZTVzalktQk9tYm40b3RVTGhBQTZMSzNlOEJlX1NCZC1ndndTaGdSSWVZTF94S2t4Q2JucUlRZXh1dVVxOWlqVjFwRGN2YlRrSEg4TFRDMFdQQQ?oc=5",
+   "id": "1e41e56411",
+   "title": "Palisades fire: Man guilty of starting one of California's deadliest blazes",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZ3pYbkYxT1JZNVVQa3dOV3VZbTF0Nl9NaVJaTUJrY05RaFdIYmRpZ1pNMk5ZQTFuMU5wdEVSVTFzSS1qVHpSVmNfdmU2OHRCVjJCX0JYZ0dIODA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Motorsport.com",
+   "source": "BBC",
    "region": "US",
-   "date": "2026-11-21T05:48:41+00:00",
+   "date": "2026-11-21T04:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "31eca76fed",
+   "title": "Virginia reports first measles-related death of 2026",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWVWekdCQ2dOMkJHV2pyQ1lnMlJZRFhpWWpYMU9oQ2lWX3hKWEhJSnd0OWNoLWJreW1aWF94U1BBVXp1UldtTm1MWWJRRFZRVDBrOWF3bHBxemxrOXZxQmhaU3B2UTdmQXZWNFBzTzBoMThWYmNmbHdrMkEtUFNha0NENXZxYl82d1ktX3oyVlptZWY2YTFCQkFn0gGfAUFVX3lxTE5ueU9JaEVtUlEyN2std3lYNUJ3UW9NaERvOXpPNzhWVFZlc3J0SjVUcFRDVzdGWndxTDNvcF94eU5sNkR6NW9hWjFOcEpXLXRIYWZMYWZJdVEzSDVQcE1HZ0hVTnlzM2s5SFZDaHZfUUZwdUx5Z240SlVYZDE5d2VfTVRoQTZKRTFtZi1XcHBOZ0l3M1U4ZEVJaC12aGt3VQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hill",
+   "region": "US",
+   "date": "2026-11-21T04:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -178,6 +283,23 @@
    "topic": "Entertainment"
   },
   {
+   "id": "34255d92f9",
+   "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGtFb3BuM05pTUg5S1ZialV2cklvU0ZYRmtYbXpZaUlFckhIWVhhRWhQLVJYNjk0Qm93dVVTRXlZZnVDY1Z4MEd6eGNJazlzVllLWmNnLVV5THJ1cVppM1ViWFBQZVExNkxvNVF0VFl5Z2w1UFE1aU9nVUhpWVJfbnZNSHFtQ2tQdzQ5ajdZcFpmRS1wdWFJeUpFa3VXX1hXekRSNGJhWjVfR3kyUHYtNVNxbGUzZV9JU2NsbU9zRHg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "US",
+   "date": "2026-11-21T03:23:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "40418602a3",
    "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNob0FOejNCM0laNy04Mm1BUmtjR2dZa1dkdnBjRVEyZXRmdWNYODU2bnNkUnZNNndCb3N1NGpSNTEwRHR1VmN4dWs0ZDRhTDZvM3Bwak85Zw?oc=5",
@@ -194,43 +316,6 @@
     "also": [
      "Russia",
      "Poland"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "34255d92f9",
-   "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGtFb3BuM05pTUg5S1ZialV2cklvU0ZYRmtYbXpZaUlFckhIWVhhRWhQLVJYNjk0Qm93dVVTRXlZZnVDY1Z4MEd6eGNJazlzVllLWmNnLVV5THJ1cVppM1ViWFBQZVExNkxvNVF0VFl5Z2w1UFE1aU9nVUhpWVJfbnZNSHFtQ2tQdzQ5ajdZcFpmRS1wdWFJeUpFa3VXX1hXekRSNGJhWjVfR3kyUHYtNVNxbGUzZV9JU2NsbU9zRHg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "US",
-   "date": "2026-11-21T02:36:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e225e396e3",
-   "title": "Trump defends Putin relationship and says he’ll stop US companies from building data centers abroad",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZlV2E5d0xOS3N5d1hyTGlHTk8tMjY3R2Y0SG91d0J6VlR4Q0htNjc2Qkw0MTZJTmNqbU5zb1FpaHN6S3RTWkt1UFpYaGYyMUg2cktPS1ltLUF6NDRJRDVNaHRCemg3ZXQ2VkRfa3Vhbzg4dmM3bW5mckJxMFN4YUh5QzRNOUw1YXQyaw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "US",
-   "date": "2026-11-21T02:35:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺",
-    "also": [
-     "Russia"
     ]
    },
    "topic": "Society"
@@ -253,40 +338,6 @@
    "topic": "Society"
   },
   {
-   "id": "59b5c860c9",
-   "title": "New Daniel Jones Rumors Uncover Buzz Surrounding QB's Surprising Colts Release During NFL Season",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTmJNRlk1QnFTenpjNE9UaEJiTVVmRU5Db1BXT0t6dGxBVXVzeF9DLTBONmpkVlNKcHRnNzdDeUtTRkVQc1hrX2N2OHJGeVp1QW5HdFpiak51Yk4xWVRJc0o5TzVpN3RmLUgxLUg5OXo5enl3MjYwRV9pUTBITTlPS2lMalZEdVpLMHNPcEFWREhEb2JtV1dTYTh2ZjA5anlNbXpSbkpLSFhxbS1RV1YxaUV0MUdsbXVHcWpkbTNxaEpIdWRpZlZ6UDU4bElmUHRxTlVHQ3NKSQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bleacher Report",
-   "region": "US",
-   "date": "2026-11-21T02:02:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "aea6031137",
-   "title": "Palisades arson retrial ends with conviction of man accused of sparking deadly wildfire",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGluYTNRdm5FZUZ6T0liS0RJV3I4Z1pMZElrLWRKS2ZVQVRwWlpMSS1UZlkxOGdCbmZwN3pVUkNtd1RRdnBUbjY0dkgzWlNqVGp2aWs0eDRoTEdrMEtfRWVnb1I2Z3drNE5FSmoyT005dVgyU3hNcTdWcldvSHVWa19SZVFiTmtKMEt3WGRtMDZiQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Los Angeles Times",
-   "region": "US",
-   "date": "2026-11-21T01:59:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e3d472ecfc",
    "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1hBdGw1anUtLVZ1cFNyVmJmX0liYVYxcGg3WEpaOURrSlJLWHZDSzlIbjFBM3ZaTlllb29CTERST2ZDaWVfWUxnRUJ5b19ybWs2dXp5NFRjUmU5TVlVUHYtYm5maDRxMUlpVFc0WDhyUEJFN1M2MjJGWGY0dXk1V2RHanl3S1pWU3J0Rm5CRDdjRXVJN2c?oc=5",
@@ -304,58 +355,21 @@
    "topic": "Tech"
   },
   {
-   "id": "115620eb84",
-   "title": "California State Bar opens investigation into former White House press secretary Katie Zacharia",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTWRGaHFweXVkdDhtVVlHWGZCdUdRMTFGbS1NS2lTbHhBbmYxRnJQN1NlY2FaNldWSWRKUUVobmQ1d0NKdXVEd1Nkb0tsaVZIOHN2TUljNzc0YmNyUHg3eXNya3pEMS0zc2VXNEZYWXpLR2diMThjTk1YUFB4WnliQk1zM2dWZGFtZTJURjBqaVN2RmZtTFdXUUt1SzhORXE0N0oteDl3Tl9JVEp2UW1RY0x2YzhLTkRJUnluclpCU2xhbkJ2UWdZdlAxUWlGdUlYVVJXWmlTMzlTeEptN1FRSWt5dm9RbVp6Nnc?oc=5",
+   "id": "9f56ddd5e5",
+   "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjBqVnVQelBOMS1QWFU4R0t4dEl2UFc0Q2lndlMybUhOcUlnaURLZnNlS2JPV18wckFEWXUtTjZkS1otMURicUFVd3RVX1dEZldsaVZZME1OTzFWTzBJZWtZTDhnNUgxRTJrUFR0Q1dDNXk3OS1pa3Q3Z3VOZnlfODRCTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Seattle Times",
+   "source": "The Guardian",
    "region": "US",
-   "date": "2026-11-21T00:04:15+00:00",
+   "date": "2026-11-21T00:08:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "94316eb604",
-   "title": "Mamdani reveals plan for closure of New York's Rikers Island jail",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hY24yQ0VKc3FYUVhGdzk3UG1jVk1JN05XTkRneEQ2RjRsQlBjWlVwcnBGeElOZDBQRFFWb3Njcy1JRlYzMmxpamVJNDZZN0pTczh4MlBrTndjdWM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "US",
-   "date": "2026-11-21T00:01:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c174fd96bc",
-   "title": "US Vice President Vance declines to say he would have ordered Iran strikes",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "US",
-   "date": "2026-11-20T23:45:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇮🇷",
-    "also": [
-     "Iran"
-    ]
-   },
-   "topic": "Politics"
+   "topic": "Tech"
   },
   {
    "id": "3497e7ce4f",
@@ -409,23 +423,6 @@
    "topic": "Tech"
   },
   {
-   "id": "87e48b4644",
-   "title": "Young child dies of measles, marking first death of year in Virginia, VDH says",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2MyaDhQMXMzYlNrM2E0UWhzZ2JjMGU4QjIwV1FKM0x3M2paN0hlaVFJcHdtZFdOLTlqUjZoN2Q0Y093QmRvYy1tNGc2azVRNFlyR0hPWE9PNHBxSlRPUTRoN0hhQ0JxZTVLcF93TzdfNThpUGhJWktNTmJKa0xROGhOdHJzQjVrZGJhcU1nLTNvMFRTZllUSzk2cHRaYkZwN0pNNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WJLA",
-   "region": "US",
-   "date": "2026-11-20T22:14:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "8a511b465e",
    "title": "Can your PC run GTA VI? The minimum RAM, GPU, and CPU requirements to expect",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3dKeF9hajJ0LURTb3ZReWY2dlNqM1ktZk9LWmdTeDIwT0FOUS1WSDgzYzNZYjlKVEpIRTJTNFJLRWYzOHZDdi15MTBxMnVkZC1tcWRob2pGbzlhNGcwcWRuejdZNElnVjEwQ1dqRkxfZ2NCQjNIWE10OWpOWWlDeHZR?oc=5",
@@ -460,23 +457,6 @@
    "topic": "Society"
   },
   {
-   "id": "9d1fcfd605",
-   "title": "Detonation of 5 tons of lead azide in Iowa indefinitely suspended by court order",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHVBUV9tTHFtaWp3dDRydVQ5YzQzWlU1VVo3WDJWVHdRTEpUbnZQLU5ETnhsVHE3eC1zZkdMVkhIUWwwdm9kNzA3OXo4R3Zwa2hzSm0wS0NEd3JGNVhSeEhVUmIxUFdPUTdxVkdXYm9hYW42S0tNNlY0V21Pd1JtTXo4RVpjNTFmMFp4LXl5amN3SW1rTWMzdnJKd3VBeFFwMmQ2M1o3bDRLeXU3dG9EdUdYUktkOXBrZkI0LVpIOUlrcUJVTFHSAc4BQVVfeXFMTVpITEt1dUtKOFVvUnF0akNpcVZRTU9RMmNYVVBaQ1BSMUlJSVAyYUY1Zmtlcm1pdXFiWjFYckgtY1JnM2Jrd2FOY3I5UFQ5d0NUWW1Yd1BwR2FTYXZLd1hEYlZ1eEk3UEFkRnZZWHlQdC1qY0JUX09Hb1MzdTZyRHpXRjNSSGRmbnA3TzRxUmhMRzYtR25pQ0o2MHVsYXo3RGNENnp4dS0zelpCNDFKeG5VMzNjbTg1MlpOVVpkOWVCRG5NT1B2NDB3WUtfc1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBC Chicago",
-   "region": "US",
-   "date": "2026-11-20T19:07:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "abb1578aa9",
    "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
@@ -490,26 +470,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4f102e84a9",
-   "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDNGX09hZ1Rsc0xUZjJ4N2RNUnNoSzltckFEdFliVmVidUk0WlFZTWlibzZUM1RZS2Njb2NleE5fVFBsRzFOd1Z6LVdqdFZIRUotV2ZKbmNCVVFpaVRQYUJpVG1FQzVUZm5KSGVvRVpkU0RBbmJraWVWcmlIODYyNDZIbVd0TU1BOUFabEc4SlhYRUdNWXRhaGFhcVB6UUZ5bFJEbWNtaUZQUdIBrwFBVV95cUxPdWRKbTVTZ0FJVFY2LW44Qk5RemZaVG5ieGF0aDIzX1ZiR1piR1ZBMmRCMmQwQXNGSGpNd0J6Wk5xUlF0NzVua0k2WDJVOUJ6LUFIenpoajNNQnJaTk0wTncwcmozazU1elJoNk8yRi05dkdTS2piNjEtTzBMcmtnYm81Y2VJRk1LTlNvWmZoaHdRSUZoRnh6cDNBNTYwSUR3dTk4VnN0X1ZfVmVwOGxR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "US",
-   "date": "2026-11-20T18:43:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇷🇺",
     "also": [
      "Russia"
     ]
@@ -568,6 +528,23 @@
    "topic": "Society"
   },
   {
+   "id": "72a6e3c833",
+   "title": "‘Massive breakthrough’ as new pancreatic cancer treatment can make tumors disappear: ‘We’ve never seen such a thing’",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEFFQ25xUV90ZTREMVdmZkd4MDRPTWlNVUxRNmtfS0tHdnV3R0E0WWRRVlpobk5LRDZYU2FEUHdqcFpkZlNlbHJ1YzFxMXRhV2R4ZG1rdUNwMUVVMUVOQnlBTWwxNENvVkhWUEhnWVBjSDhoSzByci1TSGRrcldFaW8xWWI3Sk5ENlA1VGdiSTNYUzlwLWVJa1ZTZG15MXZ1bVQ1bjZNRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "New York Post",
+   "region": "US",
+   "date": "2026-11-20T17:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "88f8b9251a",
    "title": "Yellowjackets Season 4 Premiere Confirms A Long-Running Fan Theory With Major Implications",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGxGTHZiVmVlcHpxTE50R2k2dW8wLVU0N051Z3VabkpDYmZKU2xYd1ZLYTBzS21OQU9ZR0Nsb3g1RTJEbzBZbmlDUkhtQ3U4dmQ3MHRfZmZBdGM1ZU05V2gyQnBuazZ0eG5qRGVEeHR4UkJ2aHRlNmJrcVJyRDZQZjhJNE4xMmFNdFR0U2NJTWhXSUNJcE1v?oc=5",
@@ -602,14 +579,31 @@
    "topic": "Tech"
   },
   {
-   "id": "abeafae6b6",
-   "title": "iPhone Air 2 dummy unit shows off new dual-camera design",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lZ1FtcktuQzlJVnZyZ3NfM3ZnRWY5OWVGXzY3eTlZTHRFcUVTdGYtODFpbTNDMEF6QVRycGlhQ3hjXzR1clpnb083SEVJNVFnVGwwdGxhd3ZYRkl1YUdzTFFMVEl5dTMwZFp2WVFGd2o?oc=5",
+   "id": "cca864ef9c",
+   "title": "Anxiety Rankings: Tennessee looks to avoid nightmare in Neyland, Big 12 living on the edge",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDh4ei1BRGNnMjNSSzVYSmVYbGE1bE5GektnU2QtRlRKbnZnaDRhSjhjLVowaVlJc0xhWllQVHFHVUNJVUZha195Ulk5MmE3ZzdTVG5OQ2xnTnE5QVlOVWNYQ1poNjMyamlzTjhsMmtiYlBMYzZVbllaenVyazU2ZU5qZ1JSUWpqX2ZsNmNWQnZmX3pIVF9F?oc=5",
    "summary": "",
    "image": "",
-   "source": "9to5Mac",
+   "source": "CBS Sports",
    "region": "US",
-   "date": "2026-11-20T12:56:00+00:00",
+   "date": "2026-11-20T15:46:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1962004c3e",
+   "title": "iPhone Air 2 and iPhone 18 Dummy Models Leak Months Before Spring Launch",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVkQxbzY0QkczdkM2UUhUTTltVkF4Y1hwUmFid1RGMjRSbmF4dDlGRlVMWm1fb3B5LXlzd2FYX1dqWjVhLTZobl9FY0ZXd3pRbkVoZkY1cTNKSG9TaENnd0tHQlBNRTczbnNvS1Zyc0wydzVP?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Gizmodo",
+   "region": "US",
+   "date": "2026-11-20T14:45:04+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -617,23 +611,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "025b0e31d6",
-   "title": "New pancreatic cancer drug halts tumour growth in 90% of patients",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "US",
-   "date": "2026-11-20T12:17:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Health"
   },
   {
    "id": "e8d8272f0b",
@@ -653,21 +630,38 @@
    "topic": "Society"
   },
   {
-   "id": "8e0f9d8d17",
-   "title": "New studies indicate possibility of detecting CTE through blood tests, paving way to test for disease in living patients",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMlpfdzlQWFJ6aVgzSTdYTEJJU3lDSkFxQzk5d2xvZW1yeE1WR3Iza3BqVFBWblJRV2h6ZnNXbXVfT2tTd2llaWhqOTM5ZEU2NlQ2WHNOT0VqRGNYT1BEMFVDcDVkcVd2T3hPbzdxcHJHRWJtUGJ5Q0ZnNzlwRHpZbksyQXdfYUVINFpMT2V6dWhFSWhoUWZRaHhIN2JGQ2xNWHlxNmMxSjgzNi1CRTBta2RiWWN3OFA0VE5QN1JQTzczZC1TWkVJeHJGV1pRZXJWTVNBdU5Ud3haSi1MZEpJbl8tSWsyOC1BbDNEUE1ZcFdyTlVMZnNXb3hielpVeEt6?oc=5",
+   "id": "48ae70f12b",
+   "title": "NASA says Voyager 1 has reached one light-day from Earth",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1JtQXczWnFranhEV1YyaWMwYVU1XzRvM00zSU9ZNGZzRHdicFV4MmVIWFFQZGFINEEzRE1nU1lJZWlNWmlKellLTk9FcW9WMTJPS3JtUmdRMFd5N1JZMjNsVmhFNmM0WUF2OHQzRXFTRmYzeVhRX0J2NjlwZEYtcjNzWXhRUk8zOFRFaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "space & defense",
    "region": "US",
-   "date": "2026-11-20T00:14:00+00:00",
+   "date": "2026-11-20T02:03:30+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Health"
+   "topic": "Society"
+  },
+  {
+   "id": "c8e462436f",
+   "title": "Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way.",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Boston Globe",
+   "region": "US",
+   "date": "2026-11-19T22:46:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   }
  ]
 }
