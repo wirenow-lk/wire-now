@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 37/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 39/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 41 stories
+OK   Ada Derana: 42 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
-OK   Daily Mirror: 80 stories
+OK   EconomyNext: 23 stories
+OK   Daily Mirror: 56 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 24 stories
-OK   Daily News: 56 stories
-OK   Sunday Times: 3 stories
+OK   Newsfirst: 25 stories
+OK   Daily News: 54 stories
+OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 7 stories
-OK   Google Top Stories World: 63 stories
+OK   Google Warnings LK: 8 stories
+OK   Google Top Stories World: 58 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,13 +23,13 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 85 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Poland says Russian missile hit its territory (6 outlets) | Trump threatens tax on US tech firms building (5 outlets) | Gangster ‘Rotumba Amila’ brought from Russia (5 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Poland says Russian missile hit its territory (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Trump threatens tax on US tech firms building (5 outlets) | Cost of living protests sweep across Europe (5 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Fire breaks out at scrap metal shop in Pannipitiya
+* Newswire [1 outlets]: Two youths missing after drowning incident in Nintavur
     important (serious news) - researching
     news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
@@ -41,39 +41,47 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: details[0]: Card says 'Police received the report at approximately 9.05 a.m.', but the article states the fire broke out at around 9.05 a.m., not when police received a report.; key_facts: 'Reported a
+    cards OK (attempt 1, written by openrouter)
+* Hiru News [2 outlets]: Kane out for next few months with ankle injury, Bayern says
+    important (also on CNN) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Guardian [2 outlets]: ‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Govt committed to creating the country that children dream of – PM Har
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: In a year of AI solving maths problems, Anthropic may have just solved
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* Hiru News [2 outlets]: Nvidia's share slide knocks it below Alphabet in valuation
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* NBC News [2 outlets]: Magnitude 6.8 quake in Peru’s Andean region sends Lima residents onto 
     important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [2 outlets]: FBI investigating potential breach of its crime database
-    important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* EconomyNext [6 outlets]: Sri Lanka Supreme Court clears Prevention of Organized Crime Bill with
-    important (also on Ada Derana, Daily Mirror, Hiru News, Newsfirst, Newswire) - researching
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -85,17 +93,37 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 rejected: the name/word 'Court-directed' is not in the article; the name/word 'Lanka' is not in the article; the number 2 is not in the article
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Saudi-led coalition intercepts three Houthi missiles headed for Riyadh
-    no AI summary: saving the rest of today for important news
-* The Guardian [3 outlets]: ‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbot
-    no AI summary: saving the rest of today for important news
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 2 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
   photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 9 facts and 0 people saved
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 7 facts and 0 people saved
+  meaning check failed (no AI available for checkers)
+
+Website updated: 150 Sri Lanka + 75 world stories (7 with cards, 42 story pages for Google)
+
+Countries: IN 37, PK 33, BD 38, US 38, GB 35, IE 37, CA 37, AU 36, NZ 32, SG 29, MY 34, PH 33, AE 38, IL 31, NG 32, KE 36, ZA 34, GH 24, FR 34, DE 33, JP 7, IT 33, ES 34, BR 32

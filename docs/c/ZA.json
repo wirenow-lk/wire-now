@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-21T04:50:23.066094+00:00",
+ "updated": "2026-11-21T06:57:49.492688+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
+  {
+   "id": "a608e0ea59",
+   "title": "Israeli researchers suggest the brain stem is the source of our consciousness",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11LXNFZm1aSWh1M3N1QWdPb3l4eUVITFVaTU1wUGdiSXZuR2p4OUR6Qm0zM25CR3lYRTF0anpVR3QxU0thZUtNTDVlbEdLSEpFel9tUDN5VFlXNjdRVWI3RktGbXhNTVk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Jerusalem Post",
+   "region": "ZA",
+   "date": "2026-11-21T06:30:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
   {
    "id": "3e7123a159",
    "title": "TheBodyPro | Quality of life, HIV viral suppression, and race: Time for a closer look",
@@ -19,23 +36,6 @@
     "flag": "🇿🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "4c884c44d3",
-   "title": "ANC fights to keep control of South Africa's key cities after election setback",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sc05QSVppcGhURzZ6WVlHcFpwX25WaU5ESmdzbFhtZzloX19sYW84dFQ4aHVwSVZZSy05Y01WQzRQdUFGMl82SXpvdUlqSjFNTTlmS3hvNVBMMDQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "ZA",
-   "date": "2026-11-21T00:34:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Politics"
   },
   {
    "id": "badd0db5be",
@@ -63,6 +63,23 @@
    "source": "Earth.com",
    "region": "ZA",
    "date": "2026-11-20T23:07:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ad357fb235",
+   "title": "Coalition tensions deepen in KZN as Mabuyakhulu faces allegations of behind-the-scenes lobbying",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0VYUm9qM3lkenJFbHBjTnJwd3RGUUhqYUJ6dkN2TzZCWTZKUUx0dm9TeTkxY2kwTzM4SGtwMEotVkxpNmNURm1WN1FQTGMyaGd6dGZQWDN3b0g3azQzaUF5Qk5yNUsweEdZSXd0Z0hKQ1o3UjVtTWFKTm1CMGdlbE93VDZCaWJfb29xYnNkTTNGb0NrSW80aG9oZUNvd0JzRkM0S01VR2VKandja1drU0dEUV9jQmNleDhHT1pVSk9YS00?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-20T21:35:52+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -157,6 +174,40 @@
    "topic": "Society"
   },
   {
+   "id": "8e87a63cd6",
+   "title": "Boks in good place on eve of Dublin match despite Rassie’s absence",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY1F3ZmpydWlkclZpckFHUjZPSDBTMl9MTFBubGdURG91MmNnZ3EwYnY4aFZZc3ptZGh0aUFhbHRKU3JIdXJSQXJaM3hRT050Wl9zWjZ4VTZ5Z29WVjVCc1BLeVFVTUR4M2I4LXNjSFM1QzlqdmFZS3Q1Yk9wVWV6N2d5TjlHaWtlbmFfMHF0U21icnBwdUtmcGZNbUN2RTh5S1QyTlloUGRram9uRXBuQi1pcWVkXzRRVThENjRRN09RLXdMM3h4WUgzbFM1d2FoT0M0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SuperSport",
+   "region": "ZA",
+   "date": "2026-11-20T17:20:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Sports"
+  },
+  {
+   "id": "e027b6c837",
+   "title": "‘DA’s offer is not a proposal but an insult’: ActionSA after coalition talks fail",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEozS3ZmbUpYVkJGaTUtd3paSG53YW81LUkyaU55Z25pTS02V2JZMDFRMEdxdkZhSWNxZ2tpc3JHajhvMVV4SU5MSVNaczNkdkNMZVE5M0lVN0xZU3hlOWN3bDY1ak9Ock1RWnJCMDJUZ1V2WjlDYTF2SW5RVzlyZWg3bU1MbnJyVTlISTgwZ1RFbVpOa2FJV1pNbm1uaVpGcFlncFEyQTc3blFKQXk1Ng?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EWN",
+   "region": "ZA",
+   "date": "2026-11-20T16:58:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "ffc138e495",
    "title": "Saturday’s weather: Severe thunderstorms in 7 provinces; hot and humid in KZN",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTFka3M1bUp5bERQaFBEbEFwQlRFSWRSaVNzemx4UlRHN3Nqc2h1c2g2djJNcnNLd0NFRXViWnljcDloUXZ5cGc4U2VOa053RV9jc3FxVHREMnhXZVdNVFJUWmVDa3lBbzFoalphQWdfak0xMjFWY0VwRE9OSnhUanpFWlY1Uks2TzV6ZXFsOE01RGJnY0l4TWxDa2VJa2o3cHBxRmZaVEdDQWxUS0JObHJTelZEOFh4RHNoU1ItVmw5UG5WM2lXX001Zw?oc=5",
@@ -191,36 +242,36 @@
    "topic": "Society"
   },
   {
-   "id": "e027b6c837",
-   "title": "‘DA’s offer is not a proposal but an insult’: ActionSA after coalition talks fail",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEozS3ZmbUpYVkJGaTUtd3paSG53YW81LUkyaU55Z25pTS02V2JZMDFRMEdxdkZhSWNxZ2tpc3JHajhvMVV4SU5MSVNaczNkdkNMZVE5M0lVN0xZU3hlOWN3bDY1ak9Ock1RWnJCMDJUZ1V2WjlDYTF2SW5RVzlyZWg3bU1MbnJyVTlISTgwZ1RFbVpOa2FJV1pNbm1uaVpGcFlncFEyQTc3blFKQXk1Ng?oc=5",
+   "id": "c45b8236b5",
+   "title": "Former Idols SA finalist shot dead; Boks’ late change for Ireland Test: Today’s top 7 stories",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXVlX3pVbVZ1aXJhWjVBdU9BRGJlM3RDU2xuN1JFU1BOd1FndHl3YVBOOGhDMmR2dmNmbXhiOUFnVDJOYklPM3dIQi1SamltVlhkMTRFOVZWNDVKc2NKRms3b3JQaHJGS1ZicEJpWDhuLU9aeGwwZWd3Z1VldU1peHlQYjMtY0p6R2pYOV9FU2IybnM4N3FrZWxqZUNzMTdzRFJfTThpMHppWXpyVmIyQlJwVm5OWXdPU0FmeGZHUGllVnRLZUJrSU1nSlM4bVRsSGdNOUZNSUU3ZEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "EWN",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-20T15:58:04+00:00",
+   "date": "2026-11-20T16:06:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "348c2c5753",
+   "title": "ATM questions DA donor ties as passport services extended to banks",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1o0V0g1c1owTXFnb2g1Wlk4LW9xdGVKUk9yejg0eVhCMVJCVjNTNTRQenhVLTk0NDVkbWVmOTFNLUFTQkFSaC1tTnIwc0VLM1E3VGZ2UEFBRGYtVnlmSVI4SVpBRlRWQlE3OWQyNTRjaGdKUVVpMXR4MDUxZm9pSjExcW9ZUWw2WVBVc0kxRTE0U2pHakVvREpId1pkS1Fpc1NOM1U4U2tpUTFMUld2NzFKRUxlQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TimesLIVE",
+   "region": "ZA",
+   "date": "2026-11-20T14:53:00+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e8eb2df71b",
-   "title": "A rift about 2,200 miles long is slowly pulling East Africa apart. Gases from a Kenyan geothermal field point to a source near Earth’s core",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVkVPOU9iMjdJSmtuekpSejc1NmVJcFRocTRoRjNWX2lKVHRhOG9nNUtCS3JJdFZneldlckpwUzNIZGYwN2VhS1pPZkRiNUdvQkd5ekg0V2duWS1yc0tjTEdiZlVsRmlzMXF2M1cxWWJSVDEtYUZfSk5ESTVYaXJudXJjTW9fNUVSSVh1U0FPRlVYT1U4Qy1XS1JwbHVRdlV2M1ZlLXYwakFUZ2g4eE9WWm1kdDZLMkpVQlB1ZXJIVXU4aEFsczVjb2x1bUl1bmJPRVF3b2JQTm45Y1FtZUNWOWlqcGsyQXVweHhhXzBwMTZJX1p2bWZQY0tqMmk4d0pockRsbldnUjhtR2M?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Futura, le média qui explore le monde",
-   "region": "ZA",
-   "date": "2026-11-20T14:03:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
    },
    "topic": "Society"
   },
@@ -293,21 +344,21 @@
    "topic": "Society"
   },
   {
-   "id": "b377c4ea4e",
-   "title": "Body of 11-year-old Anqobile Njiyela found after four-day search following Soweto floods",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUVWRjhXekNtTS1NeDBDT2NaOVRfOFlYZXEtYkZ5eHdRcF9OM0VvY3BoRG1ZYzYzRHZOZU90b0hkWXJ6ZzFJV0pNVElMbzJUanF5eUJmWWI1aFotdm1wZmxDX1NTcWF5bFJ2cFZQVVhvN2tVWHFFZGJ3MUNoLXdPYy05c0d1Tk9fYjhtX05CSHRaQmtnQ3h4b2NlMmJkdWNnekt6aWlwd1ZRWW5ra2R5ODJsRWlEZF9QY1ppbUtMenhIQ18tUm1VVDFlNktETzg1NFE?oc=5",
+   "id": "31bb8778ae",
+   "title": "Joburg EMS recover body of a young girl in Soweto",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd1ZFbzA2c1RjMGZXWWdwRl81UGV6LWEwSFhCYUxoVGhZcVN5c082UzBWd1BDU2hnTDc2RTI5UHppWlBPS3g4dFBPbmQwVk1qX1VwX3lSRDFVUjhCSGxCZWFCdGxkWjdtSUVsNHJ2RDBaM09ZUEt4WV9QLTNjYzMwalRjOUhOdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "IOL",
+   "source": "eNCA",
    "region": "ZA",
-   "date": "2026-11-20T11:04:07+00:00",
+   "date": "2026-11-20T11:55:58+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
    "id": "566b0bdf39",
@@ -327,36 +378,19 @@
    "topic": "Society"
   },
   {
-   "id": "7325bb7ad5",
-   "title": "Mostert replaces injured Nortje in Springbok pack against Ireland",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTFAyZlRaTmEwRUV1SWJTZlBZRVY1VllPWW5nM1RpRmh6ZlNPWmdPbUFNcU9QWWRsa3hRbGp3UFZ6VHhqOE9EZXVNNFlUQmxCZnhKV1BFZGJjSnhaRDNJTC0wb2NYWnZLTTFDZklYbURjR2pENEJkMENnZ2pveE5odWlqc3BDOEM3eTMzazlVVTAzR0lGTXlDNU4wakp1RUtPVmZFOUNKZmdJQU52eHA3R0Z4VElrV21rak1vUERKMm1yVDU1YXlCcXB4MGV5bUpZdHc?oc=5",
+   "id": "9468ea2098",
+   "title": "Springboks change: Rassie Erasmus 'takes a cautious approach' as star withdraws from Ireland clash",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclFCLWw5OUU5ei1TTnozeVM3RjREVC13Qm9TUVhNMHR0RmMzUi13cS03TFd2ekVqNVNvNThLaUc4d2g4LXZ1dlg2UjBLTkJZa0kwcFBHNF8xeFhaRDgxSVA1b2NnZ2YwRGFUb0E0UTlLQkFVTFlqMXVRYWVfZFNVUnZzRm50MUJTbmUzdVFoemRQVm0zSHQ0RlpTb1ljZW9welZrZDdWdV9GYV9FbDVicU1JODVMX2hEQWxIbGZFS1pXT3lYb2Y1dFdB?oc=5",
    "summary": "",
    "image": "",
-   "source": "SuperSport",
+   "source": "Planet Rugby",
    "region": "ZA",
-   "date": "2026-11-20T09:25:56+00:00",
+   "date": "2026-11-20T09:41:02+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "01d2df3bd0",
-   "title": "Rassie Erasmus: Sky Sports understands South Africa head coach running the risk of breaching suspension with watchalong",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZEk2dUJNSlRJY2pOc0RjZS1WcHc2OEl2cVM3Vkxlb1d1bnJSS1RzZGpPQTI5SjdlY0RQNW1xX21QenBWY09VMUxuMldqVHpZOU9BdmpwT3NrT3V6Nl9xQkZ3TGl6SDhkVFlmQTRrLVJxRDY5VVktbl9BTVg3Y0FiSk1oMndNMEVYc0pxcGlDZXMwcGx2UkRCOGllRE5DdGF2WUw4Smt2MHBuSzZVODZvQzhjME9ULWVValJ0UGE3d095bk5fZTRNdEJMNEdqcW8ybjk5S0hHYnVIM2NYUnFyTUVRVkU4RGMyR0d3OTdjVVBFTDUyVXZaVEdrWVg5RFk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky Sports",
-   "region": "ZA",
-   "date": "2026-11-20T08:43:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
    },
    "topic": "Society"
   },
@@ -369,23 +403,6 @@
    "source": "IOL",
    "region": "ZA",
    "date": "2026-11-20T08:19:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a17d26782f",
-   "title": "Former Idols SA finalist Tebogo Louw shot dead in Stellenbosch",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVZ2WFBnVkVlYVMxRkl4Mno3V1pnNjlqOC0zeDNGV0lnMU5McTB4YnJQWWxMeWpZS2JQaWJxbm51WXJHRTR2TGx0bU1fTHcyOXVNYWNTWERyQm1OeU5BVXNfZWtPc2h4Wnl6RG1CTUNJQXJBbEo2SjBKSXp1N1hocC1JN04tY0RsekdnSUlzcENabk9FeGlzY1JDZVBMRmduQ3pZSWlDUmloRGM4azNDU2RWOW8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-20T04:26:10+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -463,6 +480,23 @@
    "topic": "Economy"
   },
   {
+   "id": "e6d35c0ea0",
+   "title": "Walmart billionaire Rob Walton backs six African wildlife reserves with $29.2 million as conservation groups face shrinking foreign aid",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWmZDbG1Ya01nalhlenNPYlEzVHo3d1RHaUdyVmN4ZmV0VDBNTjdCNXNJYzg5SFVndnZiUFVEb3duMTJjaWs4SHAtQmxXX1JBanNMN1NBeEY4X2d3QXlBNUZYYnRCMUtrc0RZRmdHUHMyYnY3RVpTa2F5RVdySm9WR1NpNEJMQjIwWFVFV1Y5blhNeVd0UEpmQzJrNm1XMDVXa2haZ2hQc1BlNnRSVG9fd2NKdjVwdm96cWVGTHNMa1ZySTZhWUNEUkdMb1IzNzQ2N2M3aQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Business Insider Africa",
+   "region": "ZA",
+   "date": "2026-11-19T18:24:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c129748c27",
    "title": "Petra Ibum Adjah։ Three Important Facts Concerning Cervical Cancer in Nigeria",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4eXktR3lidDdTWGpDMGhTSDJDWU9ua09mM1dqSWs0WUlMT01admVMVWJsbV9xbnpjNThLMWtPRFNtVEJjZWlBYUFtdDBaR0tsbjlQdE5BanNTVjhXRExsMjFB?oc=5",
@@ -476,26 +510,6 @@
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "052f552fbe",
-   "title": "ICJ ruling on Rohingya genocide could strengthen South Africa's case against Israel",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWktUMDlEcGNKSTRoN1B1dUpYUlppdTIyVmQ1Y1RMUVBzQXhjMzkxb29raXA4MnpnclE5N2ZHeFNMeHQzMlN3VkZUdG1FUXlxRmtoM091anlEMG42OTNOeFFaOUxXaFp2bFluQjc2aTUybnRRRWVHaU1DZ0dsN3pHSWp0bDdyV0NIQURUZU1LR043ZVZNSmFYaWFkRkFCUE1Hcm5uVUtidExISUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Middle East Eye",
-   "region": "ZA",
-   "date": "2026-11-19T16:31:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦 🇮🇱",
-    "also": [
-     "Israel"
-    ]
    },
    "topic": "Society"
   },
