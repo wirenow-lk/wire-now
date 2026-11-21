@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-21T17:58:32.974056+00:00",
+ "updated": "2026-11-21T18:44:31.012091+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
   {
    "id": "34a6c34842",
-   "title": "Ontario Liberal leadership race live: Party to elect new leader after eight years in opposition",
+   "title": "Ontario Liberal leadership race live: Party set to elect new leader as Toronto convention gets underway",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXBzcnRKUnpLRHp0dTRkS2dpQjJHSzNYU3hsUzJKZm42UEhNSGxjV0pPd1RNbFVMNzExMDBiS2x1am5NM2VUc0I2SmJTbUpYakQtVzdEb2V5Yl9kbmFfbmJJRThfWFB1QjFLcjFmeFZaY2NfbjR4clZEQlhFai1TZ1NrelBmRENtbkpEeDdrM2JlWWdQb0JDVlIxcE9uRktTRmk4NG5iMzFXMXFMOVVieXFDTjRkR2MtWG12UEVKQmZ2QVk?oc=5",
    "summary": "",
    "image": "",
    "source": "Toronto Star",
    "region": "CA",
-   "date": "2026-11-21T17:24:00+00:00",
+   "date": "2026-11-21T18:17:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -21,14 +21,48 @@
    "topic": "Politics"
   },
   {
-   "id": "0e5ccbe253",
-   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnRNQU4xMkV3OFREeTVnNm5uTHl0a3VvNzZSUkp1MTBFOEc5UGYwc0U0enlrdkZoWWpZeF9ubEZuRWQ4MEUxTDh0MHJZQmtNZTRqWmNKT05TYnQ4OTdlOTJSekdNTzhzN0pEWHdNZm85UXQxMUgxLUxYVUxReGdiWHJQaFg3ZU1weUJ0VXJISVhGdnlBbk9mT1VPLUgxcTU0bWEyZmVYclNKTG_SAbABQVVfeXFMUGpMWjctTVROQmVxYkt5cklGRVpOdWYydUI2OU4yQ282bHhsMWJhTnhrU3UteUF6Nl9IOWFZRWhfcEdmNTRXd3JUc25BYnZnLWVPVDJSN05ZNlhMQlBFRzVZUXp6OVpTRV9lTzg4YmFQTW5OZEhXQVhmTWRPb2NVNmdhaFFuNHZ0WjFLclJFWDlQTXhOLXRBT3dOYVdyd0FMenhTZ2dFRjlaU3QzWlZNVmY?oc=5",
+   "id": "c3c9f14f55",
+   "title": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3VaVTRJN0JLcl9ZRHhiZkRQSUc3TmJwaGVpTHpBX2dNM1cyQnVZNl9UWVFQTEY4WVZNbW4wa1ctMmV3SVZSMWR2MWVtNDVWX2drblNETEZGZXZoZ0N6M1dkQ0ZjSWJ3ZEs4SEJ3ckJlTmhueUxFVkk2LTdPMkh6MmpHMnFocS1WMkE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-21T16:18:45+00:00",
+   "date": "2026-11-21T17:39:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6392787c90",
+   "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ19PZ05JQ2Y0ZTYtYkZNYjYtcHdLdHU5eUtYX2toeDBrY2MydTExa20wTVFjTTNKRnNUWk1tUTJOQ09VMVhfS0VqXzRaVmUzakRZcENNZlNhQUNEeEx6UE1ndUlDQXRnQklHc2xtQnhEVGttYnltUTQtdEd6YXREN1ZuVmlmZVJ4d0ZuaWtMWWJuT0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-21T17:34:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "4687d1e8e1",
+   "title": "Mexico detains top cartel boss El Chapo Isidro, setting off burst of violence in Sinaloa",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTFlMEtKYm1odmQ4dzRLQ0JFd3N6cnlhR1dDeTdhT1RoWHQtYzIxU2RJTDJDc1phM0EzN1duaHdvU2xBVlJqRmN2UHZtNjh1NTRoX25BQndKNTlSX2pIQm5hYkRlYmNxamQ3V0R0RzVhdEFvemdIQi02VGtkYzg1THZNeTY0VFZHQXQtcjhiX3FNbmwz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-21T17:32:18+00:00",
    "coverage": 1,
    "location": {
     "country": "Mexico",
@@ -72,6 +106,26 @@
    "topic": "Society"
   },
   {
+   "id": "6b3b8207e9",
+   "title": "Trump says FBI hack might expose Russia \"hoax\"",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qZGhVMnlWbTBqVTRJTU95ZjdFTHBEeDIyZHgtQ1pSZ3NCMDhUSGZZazZ0V0ptR0I2ZDZhSUhtUFZRNGRsN3dOMzRZenJHNGlidHB4QnBkYlVVcldoUi13ZjdlZ3g?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Axios",
+   "region": "CA",
+   "date": "2026-11-21T15:57:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4d79d38688",
    "title": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUw4cTVYRTY2bjROcGdCVThmMEJqaENWQmVaV0F3TGpOakQyT3RlYUZlYTJweWE5LWJ2Y25GRVBpVVgwcmZlekROMGQwYzgydHFQdzVTb3Bkc2JOd3hIUGpVTkpBdUpjNVF0c3IzX25NVlQ4OVNGdm1WTmI1a2JoNWwwajVCSkxFa3NHV1pNNnZBSWFzUXlTOUZ3?oc=5",
@@ -106,14 +160,14 @@
    "topic": "Society"
   },
   {
-   "id": "8ae6bf189a",
-   "title": "Toronto man on Canada’s 25 Most Wanted list arrested in 2026 homicide",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNl9CZGlWREtBTGItYmhPVFZvaDhJV0VfSGR0Tm9wR0lWTEtST1hkWVlwaktJVkFzZmV0ZWZpNHdva19NOTh4MktFVkRwZlFvOWc0YVBUSk9rRFBWWmsxMXduYWZZdzNza251ZzdJRGcyRGdlS3pJbzFpdGxtOXBwdVNiWDh4S3liQkpYRU1VdXJWMVQ1cUhwcFlHMGIxcl9fQ215WFpqZ3hEOXFkRk52aDBLWlRPQQ?oc=5",
+   "id": "a7c713d4fc",
+   "title": "Two more suspects charged in Markham murder investigation",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnpXUFVwQ1VLQ1U2N214OVAzSy1OczFNZ1RSNEJlb2R3dGl5RUZ2YmY1M2ZVdmpkVVhOeEtJVS1PcHkzejdEZmpDWHBFZnFOa2FGRVoyRmtVQWVIWGFySHRDS014SnpXZVBoMVItWmlDdzJFdm9udjZ4SmRwYUl3bDlyWTJ6NTM3ZjRPRk9xQ0Q3QXdTMk1UUzRVeWxnUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "CP24",
+   "source": "CityNews Toronto",
    "region": "CA",
-   "date": "2026-11-21T15:14:49+00:00",
+   "date": "2026-11-21T15:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -121,23 +175,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "b8aa271307",
-   "title": "Potential Terrorism Act Case Before Gander Provincial Court",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uc1NWR1pEdHdETFFLVzl1R21BTWZ3TWtCNmRuZlczMFZpSUpwaGM5VDdHXy11OC12bG9qQW11Y081U1ZJbXpQNjUzUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "VOCM",
-   "region": "CA",
-   "date": "2026-11-21T14:43:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
   },
   {
    "id": "484a764623",
@@ -148,6 +185,57 @@
    "source": "infoq.com",
    "region": "CA",
    "date": "2026-11-21T14:30:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2430833a64",
+   "title": "RFK Jr. vows to curb a measles crisis he initially underestimated",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "CA",
+   "date": "2026-11-21T13:56:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "15d21e931b",
+   "title": "Toronto man, 56, charged in East York break-in",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmFCUTRCcW9iRmRoXzFWckpBMTZ1djJIQUpyczBFTzNveUIxMWNKck5sVHB4czRCajBzd0RuRldLVi1WR3R5ZWpOWXFPX0JHTGhfdkNtcmhTZG15cUQ5OGMyeDNJQ3NZWlRrRVdBQklSQnFycG1rMUVDemNVU2dDTnk2T0tidjV0VWxZLQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CityNews Toronto",
+   "region": "CA",
+   "date": "2026-11-21T13:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dfd997248a",
+   "title": "Raptors takeaways: Barnes, Graves dominate to end skid with win over Pistons",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzY0Q1czNXQyNGF2YXFPMU1KcVFfMlpra0VzVHloSHZqT0R6bS1wcU05b185akQ3RV9tU1luZ3QzdVNCWVF5cXA0TVZxQ1NhU2lPaHhxOVBaNDNBQThEdDc1UVlGY2FwVmhBaERlNllMQkJ1ZmlkVVNoN015Uk1iUms0WGl4UTRiS1RLbUhjUWNqRU04TENrSERQZEY1TzNBOWhIUEFwck0zQi1laG5mVXNR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-21T13:35:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -242,12 +330,12 @@
    "topic": "Society"
   },
   {
-   "id": "bf079a3e82",
-   "title": "This AirPods Pro 3 deal is the one to grab before Black Friday",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWGNkX1JpbW1Bbk5sbmh2N21UbFAxMmNMeXZreTBlM0pPXzNLZklRd3lBaE9yWTJlNTQ0M0QyM2ZFdTdQRS1wS3NwYWNDMFpIUDBxa2JyemQ2c3FTaDJYRUlkVmd5MmhzT0xmMllXWmhtQlJleHN4MFNkRkhTV3V1Vnh1NWtvUnVEaHFqRHlmWQ?oc=5",
+   "id": "8fadd57dcf",
+   "title": "A funny — and not funny — SNL ‘Sister’ skit on elder care went viral. Here’s why",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTDhoSUJPRTRMMS1oY2tuWXRUcE5HS0xqSkROOTNfUlY5aTdsdHJteEdEbzFvVjQ2Rl9vcC1xOG9HU2NBODQ3YnhMWHdnMGJhTXNpTmZwMllLdTVCelJ2RVltX3lmNVloNEx4c2VDaTJxcC1WZEZzVTVnc00wMWktX0pTbmg4UFZNcU01TXAwdE5yTFZDZ2JOSWRlU2txSHlSRDRfYXRn?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC News",
+   "source": "National Post",
    "region": "CA",
    "date": "2026-11-21T12:00:00+00:00",
    "coverage": 1,
@@ -276,22 +364,36 @@
    "topic": "Society"
   },
   {
-   "id": "18d83c5f4b",
-   "title": "After Canada, the U.S. loses measles elimination status",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmthZEtFS3FuOW81MTZoUVhkYk5MOTY3TTNObVdfeGhkcFBWcVdERzB5bEdPSXR2b05sOWo1WG45TXhXTVV6NFRWaDUyVWdZR2h3ZjMyOTV0Z3hrbkNKNjM1SUdoektaWGxEYW1zUmVOdjJHOEtkeFE4cUdQSldJaGFRVmlFeHdGblYwVURUdVd4S0psemQwSENaZDdNelV1?oc=5",
+   "id": "5dd6a4db14",
+   "title": "Anthropic researcher says he used AI to solve math's greatest riddle",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnB5dlFHb1BpVjhJTnhMa2QxdHAxNjhEM1FwT1lONWV4bFJiX3hjV2ZsVE51WjlkOWh1RGZYU2ZVam9OVVB3T1oyWDRKYlQxcGhWaXV5WTR3SENfdGtVdWkxTTk0TmpHOGRhbTB6VVFkeDA2T0tHb1p2R2RMTjhUN3JIMFdXMXBUazd6b1A0ZGNNTDFrWFpZ0gGXAUFVX3lxTE85V0xZdUNTdG9weTdhbVZKUEprVlREZUNUSk9seFVuY1VXNFNsN0NJWDRuQWZNaUFEeFJGeUs3b0pjOUpGQWVUaGR3VFRYaE9BdUp1NkE2X1BXS2dYQkJrRE5qenVOU3lvZTNUY29GOFFnbTJYMXo1VmNTQTVVQXloVVRJYTBmamIzM0lxNE8teGVsalJVNGc?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "DW.com",
    "region": "CA",
-   "date": "2026-11-21T11:00:00+00:00",
+   "date": "2026-11-21T10:11:23+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
-    "flag": "🇨🇦 🇺🇸",
-    "also": [
-     "United States"
-    ]
+    "flag": "🇨🇦"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "5a678e0daa",
+   "title": "Off the Record: Europe shrugs as Trump's Yalta knockoff flops",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUlsZFVlSEVVZWN1ckZaeHdPVmYtT2hRR29sSDRkWURJZHF5Y0d2Y2pBdElxdHgtSENzbmVCZ3pMV0JYNkVKVWhMNG92TDJJMUNMZzJWZGplNHRpUlhXNU9qb21GSGVIZ0FrN1BYMWdtSHJfMU92ZzZGa25mQlV0ZDdvVVpjWTlPb2xUczZ1SElxM0JQOExYaC12cw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Euronews.com",
+   "region": "CA",
+   "date": "2026-11-21T10:00:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -313,82 +415,14 @@
    "topic": "Tech"
   },
   {
-   "id": "6a58ab4779",
-   "title": "US Agriculture Department and FBI hit by cyberattacks, media report",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWNDRmwydE9RdXZGWmY2bFlfaXFyazJYVUZqQmsyZmRVUG5VY2xSUGJRR1Ayc2FJclR5Z3EwUURXaFNGUkIxS296M3UwZGV6U0kyOVI2NDZ5bFRTVzk5TkkwcTg1OGJqSHdLUWNnd01ISEdzTWxnMzdEX2ZMNWEwQ3ZMbktvUW8yYWNrZERUeUJ5bFBTVk9YUVc4QWFadUFseTNUSUphWnFpNkxZ?oc=5",
+   "id": "d878acc8ee",
+   "title": "Blue Jays don’t offer a contract to Davis Schneider, making the fan favourite a free agent",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbTdfRVAtWUoxTnk2TVktcllxWmg5clZnRXN5UDJHcnBMZU5sTG8tSEVzSTBYMzR0clFQREhyRHpwMnd6X2xNc2hTbXlYQ1F3aENlYmJvWnJ2S2ZQZEhiMm9WMXNSNUFxRFpmaWZFXzllTzJpanlSeXhlRk9KNUxWczFoakc3YmtuMERNUWZOYkN1OHRYandpOTg5dEtXdlVsTU0xekZ4dHUzLXlISjJ5YWF1bXoyMTZkQjFfOTVDVjlBRWtRLTJYNkxweDMtRGtOYmJDeWRNZUhHYjN6VzA5a3JtTkVxYU4weWVUdWtaV3FyNTZhVXFxa1RlajhmWHFsbU9aNmgyckNwd1lB?oc=5",
    "summary": "",
    "image": "",
-   "source": "France 24",
+   "source": "Toronto Star",
    "region": "CA",
-   "date": "2026-11-21T07:01:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "bdb53aac08",
-   "title": "Blue Jays cut Davis Schneider, creating space for future adds",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMG9DQWd4VkM2Um85bnFNdHFjN0gxMkNmTVk5RTBBOGxhX21BWUVCQjBKdmVVTHBPZmRrMkhGYlFheFhWX2QtTFY1d2UxNHU4NzJvZDVkaWwzbmxqeC1ET1ZhcFM3TDB6OGptTTZLNmd5RURGOTRGMkM4Q2U1QS1RV3g3N1lrTlBsYjdFcGdVNkV0eVo4b0RIZzI1REFwby1fMFhR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sportsnet.ca",
-   "region": "CA",
-   "date": "2026-11-21T04:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9a67d8b79e",
-   "title": "Ottawa unaware of reported Hegseth memo on restrictions to defence co-operation with Canada, military sources say",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGxzRHktWG9YRkNnckV4akg0TGNxN0EzemRESl9feTAzcGI1S1dRaDk5cXZRMjdUMU40d0xaamhrQWxoMnkzWEhFUzdodWx2RVE2akFiSTRKRkRjSHVHM0ZSNkJrWG9JUVllRTQxR1o5c2hYUWdhbjF6VUFCTk45bER2S29YMTZMZ3R1QUd3NldwNk0tLVFITXJlY0ZUeDkyUFBwWTlnUFlSeExvZTI4MU5BUTRNdGN4LS05ZTVQZTQ0RzZBd3FR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Globe and Mail",
-   "region": "CA",
-   "date": "2026-11-21T04:06:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "478ef733df",
-   "title": "Barnes scores 29, including key layup, as Raptors end skid with win over Pistons",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjNaV2VFSzluel9xZWtkaHhfY0J0bVlXOHpRY1ZQWHFLZlRFMUk2TUx3dW9vaUZWcThFQmE5elNodTA3am1mRzhsOF9YeWNaV0NKN29sZXJDTUtqdzVCNVM5T0pOeGxDbG1EZERvWEhtVlVzYk1lSWZiX2xtdFFNOGxlWm5rSEhhX0ZFdl9aM3ZWeTJqZk40NUVzM2Z0S1BQcjJFUF9SMjZWM1NRaF9F?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TSN",
-   "region": "CA",
-   "date": "2026-11-21T03:32:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "feb865e7ef",
-   "title": "Whitehorse students get up-close look at space program from Canadian astronauts",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNemRJemxxM0tmamRZQ0oxQUVIdmQwRkpCQUZqWGo5V2RrVG9CbnJsaHJaVFY5MzZ4MG1JSWtSc0pmVmVFb1REcXBNclFSNW9mNFE1VzZMZEhXSnFXMzNfSFJiaWVPbUhuM2hybHY4VXJRWGdON3pHcnRDUUtOYmdWUGhmeFdHaGthQVFEVjQwdUJKVjZDM1NmZTVnOXZxYnVfYmY4T0gxWTR4UEhIanBWMWJwZGx4bjNFTDctUGNXYW9GZlI4UHJkS0tFb1NWT2ozREk2VlBrMnA2OW0zVmgxVmtFc3Z2ZlU2cWkxTUp0T19xN1Zyb0VvZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Spec",
-   "region": "CA",
-   "date": "2026-11-21T00:37:50+00:00",
+   "date": "2026-11-21T01:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -415,6 +449,23 @@
    "topic": "Society"
   },
   {
+   "id": "5d4e66049d",
+   "title": "Ford Super Duty pickup trucks begin rolling out at Oakville plant",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkFobnZlemZCRmVGelJTakpTVGZETHllT0Q2SDVpLVlQcUxwdUhsZGUzZ1BRVTFOa2d6eklSYVV3ZElEcWpoTjctQUp2SW5JVnVOSjNDZnZNc1FSMGc2OGZtRWJqdFpiVXpaLXRNcWJYTE5NTEk2ZHZ6dWpjS0RtVkxPR1NXSmEtZjVkVVI0WmppU1poU2drZGhqX0ltcGRra0ZhVFBrU21Tdm5wUlYzTjE0bFFnaTUtS3pjMW1yYkc1WFJ0Si01aw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-20T23:54:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "678ce9b69e",
    "title": "Doug Ford urges Ottawa to ditch industrial carbon price to save Stellantis Brampton plant",
    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGNlZUlDdXBtZUpOSUU1NFZkaUNHWk1NMlRoaUwzTDV4REN0YUNCTEV4ZkpDTHRrcFliZVFzcmZPYU9HREFjai13djJxdVh2Q0FhXzhNbFZWSFJGMzV6R2lRSVNGZVBFWmRldmhLWVJWTFF2bV9DZUVpaE9TamhJVFpTMXFibElEVnpYVG1SY0NxQ3VyQzV6T1BsdUNSZVV2XzBLZkJaRjZscFh4ZGhIX0hlUnlwQ1czUWxaV2JQcW1pWGJDREE0YnhCZmV4RmVyQ1JHdHVnbk0ydE1jRk9PVk93TS1NQy1iQUZGcF9fWmJvRlk3ZHlfOVE1QWtiVjFOYU44NThjVEhoU0VDZVhzaw?oc=5",
@@ -423,6 +474,23 @@
    "source": "Toronto Star",
    "region": "CA",
    "date": "2026-11-20T23:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "454158ea96",
+   "title": "25 Calgarians dead so far this flu season: province",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONE1RRGtWWjNsXzBqNnBvU0NHbVV4ZW91M0NOZ25RVGItUkU1NEpRcFN6d1h1a1Jkd25jZGRUQnJFQmJOTU5sOEhiUzlpbENYNjNWVWUyS2hiNElMa3dnSGlISkwteWFUd3ppSDUxUGs0bDNRQVlqX2Noc3JwdXl4ZDYtSFBqVkdLbENxVzB2Q0VlcW83?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-20T23:13:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -449,14 +517,14 @@
    "topic": "Society"
   },
   {
-   "id": "7e13f3f8c0",
-   "title": "Eight people facing combined 28 charges in series of distraction thefts in Toronto",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXFFT0hUUjBBSS0zNDdYeS1qMEZVWXFwcnVIOTNvOF9BZVJEMFFEN1d0d29WUjFBaHI2LUJycWNuVTZ6cVJDNEpyU21TeU83NzVETDhMR1hIY2hQZENfZGJkdDFnM2ExaVhhZWYySDNYM2Q4YndQeDA1dUY1djdNVUhCRUZfTVAtcmc?oc=5",
+   "id": "f95f4e46de",
+   "title": "8 people charged in Toronto distraction thefts that targeted seniors",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWZRSUtkWlhJMVNkdXRFYUZRLTFnVTZyTEs5Uk1MVG4tRWdscFdaenVjNlM0SWxDZDc2TEhUb3VoTlNtc2F4cXZWR1hQNXBtbkJoRUkzUnQ3T2lHajNtaG9nQmZBR1hnVVc3azl4T0RJaWgyVzVNMzRiN3gwZThDQWY5Y0dLbHNvZ1VYMnNqaUFsRFNJeUxXem1VV2lHbks0Y1M3V2dZYVhkc1FJ?oc=5",
    "summary": "",
    "image": "",
-   "source": "CityNews Toronto",
+   "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-20T21:56:00+00:00",
+   "date": "2026-11-20T22:24:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -483,21 +551,21 @@
    "topic": "Society"
   },
   {
-   "id": "b2eb1e2491",
-   "title": "S&P 500, Dow on track for correction as Anthropic retreat weighs on AI stocks",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81V3Fid29ldUZyRG4tYmRKTERxSWc2akxMWUNkOFd5S25lWGRiQUI4U01iMkdYZVVNTGxvSXhrVGE0elB3Zm5pcVJXS2FZN2s1RnVrc2MwUXVmckh3TlJDcFhLc3FNSnpxN2JxQWtRVHQ?oc=5",
+   "id": "0e1d3087bd",
+   "title": "Leafs meet with Rory McIlroy and his sports psychologist; cancel practice after 8 consecutive losses",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGJIbFlBUTRQc1g1SFliN0Z1dVJqcnFJN0VDa1hIcnNSQUlGU3E1WWl6VGpMZ3FIZ0FqTUxER3l0MjdWeVptVnB6LTAxbk0zS1V2UE85UmM2UHBpZkE5OS1PakUzMEVNY2JHeUlCdmkyUnBYTmYyRmUtcXRiZzdsUzBpZGdZRGd4VXowbnR2akxfS1dCVGlCam9fTDUtQW9FdVpGaHlheTR4a1U?oc=5",
    "summary": "",
    "image": "",
-   "source": "Global News",
+   "source": "The New York Times",
    "region": "CA",
-   "date": "2026-11-20T19:07:42+00:00",
+   "date": "2026-11-20T19:52:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "e6b0e329a1",
@@ -517,23 +585,6 @@
    "topic": "Politics"
   },
   {
-   "id": "b7364f2b7f",
-   "title": "Despite early start, Canada's flu season may be 'far from peak' as holidays approach",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15amZtczNMYmpqSjNGRldYQWVqc2ZrN2dyUWpCUVVCTENrYWNJVzdxd2x2MWo4cnVWMUNabko2MVYtWnVJMlBJdjRQSm02b2FOS3hVcHJNZUtaOEtpMVNKR0xFWXF3d3ZuRmFaN1dRMU5BVnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-20T18:22:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e3a90efd38",
    "title": "NDP calls for improved cervical cancer screening in Nova Scotia",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFBuX0kwTUVaR3lLTHd4YUtRSVdxUHE3dU9RWXprZ2Q1YTNsQzZKNjdFOFNPdWptY2lwYmdlZFVMTEVxYlptSm9xN0sya2drWFY1QXhIUzM5ZU9WREJRZkxYdURhcndlU3pCMU9hdmZKdW9mWjdQMU1INF9GdWxsTlFOS2FQSkI4cVRMc1VULVlZVG9feWFF?oc=5",
@@ -551,93 +602,14 @@
    "topic": "Society"
   },
   {
-   "id": "be527c8291",
-   "title": "One photo that captures the historic talks between China, U.S. and Russia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV19RNzBxTi1MRXc5Tmh4eldjYi1LVC1uVlZJUEUzV09BZ3lqaDRBX1JpNl9QLWF4Y0hDVE5mWjhWUnFScVVRRlNDWWxvUERTeE9vQnJFV3VHek5JWTNhTFI1Qk9zYWs2bzhma1FtVThjTTN3dkF2N1BSVTEyMmpxRjh3Nml0TENQVENkOHVOMENtYkw2NENVVDZxR0drUG83Y2RjbTRaMXNzcTBn?oc=5",
+   "id": "779c661e76",
+   "title": "Pegasus lunar terrain vehicle passes NASA design review",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GeEVyOHJrZ1d5V3VTakREdUJud003bGtkckRtZG1jYWVFVHgwanhyc3oxWEwxTXpnVXB4MlVVd1JfR01hT2FXdWN3Sk5iVS1uM2l3UHRHQXZQTVo0SUFEcU5aTk00Qkk4YWpjVnUyUU1GSm5lQmc?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "SpaceQ",
    "region": "CA",
-   "date": "2026-11-20T16:13:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇺🇸 🇷🇺",
-    "also": [
-     "United States",
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d8e851400d",
-   "title": "CPL Final preview: Snow Bowl rematch heats up Calgary",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWF9lSkxpUXFsUzc4dnFlYXBpeGtQaVZPczVWMWdMTHlMbU9mbk1OWGI5YzVmWHh5akJONnV3S0hyM28tRGRndzVqNEJmX1JfX1ZvVkUxY3FIT0NFMHkzaVVZbHBucWJiX0lXQm8zMmI4M1VRdmdDeWhPVnZFR1JkZ2wyS3NDNzFaRXl5ZS1zZE1JM1lLTmdTMGZiOWlhSzNJc1pmUmE0WE9jZmJZZ3JZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sportsnet.ca",
-   "region": "CA",
-   "date": "2026-11-20T13:58:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "62a0a86dae",
-   "title": "NATO condemns Russian violation of Polish airspace as Ukraine allies hold drills",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3hGTmdmR183eVRxdnRxa2xhSmEwNkpPcjM3WGx5R1VnbXl0RTY1ZGNnQ1ZLb0tjXzdtcG9wRm96Q1pfa2p6cFhDT1pFTlZmOVdKZl8zZkNLd3dlOUZBdlJ0THRqU2Q0SHdlMW95YWFBM2lEZ2JtdlVyTEVYNUZGX0k2aUlpd0FiTjR0OWF5bjhfSjM2c2paRVdR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Globe and Mail",
-   "region": "CA",
-   "date": "2026-11-20T11:35:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇵🇱 🇺🇦",
-    "also": [
-     "Poland",
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8db486cd95",
-   "title": "Opinion: Trump’s ‘new normal’ is history. Canada should be pitching the U.S. on restoring the old normal",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHVmWWVLcTIya3hpdjQ3MWY0Y1VLMXFQX1NzeXJqY3RXM0hlZ1puQ2F6NzI1aGphMHd6dTUzNmp5WnBVQzVWaGp6QVVPdEZsaUJ2VzJsTnRKYnVac1dIdkEwNGhRcXU3Snp0WEJXZWxNT2NMTW9WZmRJY09Jb2pvQy1yR2xaSmZKX1JjVWdVa0d4WUNLSTZSbXBkdmQzYy1neUVrUU9TVVY3S3J0cWRQNmU2U1BuWGtZamhvY19keDRxNFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Globe and Mail",
-   "region": "CA",
-   "date": "2026-11-20T11:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇦",
-    "also": [
-     "Canada"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "11e8f2196a",
-   "title": "The SNL sketch that started a million family arguments",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamVsMFVjRkwyRFprdmF3aWtJbXJhbEg1T05SMHBySEdNY0dMSzZKNzYwUG9vdDlLM05jYnkwX2ZJNGo2WW9kSi1JOVptYzVKaUJSUW9oYUJlNU43LVg5UGd2WmdiRW5CcmVyZnZ1eVZIbVZzaGlvOGdtU3Y1djRSdXZwNktYX0hiZEtDZHE2SVdxRkhqWUZlQw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "CA",
-   "date": "2026-11-19T18:43:02+00:00",
+   "date": "2026-11-20T12:22:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
