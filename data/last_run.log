@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 30/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 49 stories
+OK   Ada Derana: 44 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 22 stories
-OK   Daily Mirror: 82 stories
+OK   Daily Mirror: 83 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 23 stories
-OK   Daily News: 52 stories
+OK   Newsfirst: 22 stories
+OK   Daily News: 53 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 5 stories
-OK   Google Top Stories World: 46 stories
+OK   Google Warnings LK: 6 stories
+OK   Google Top Stories World: 52 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,44 +23,15 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 89 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (8 outlets) | Gangster ‘Rotumba Amila’ brought from Russia (6 outlets) | Trump Threatens to Bar U.S. Tech Firms From B (6 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets) | New lighting system unveiled at the Temple of (5 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (8 outlets) | Gangster ‘Rotumba Amila’ brought from Russia (6 outlets) | New lighting system unveiled at the Temple of (5 outlets) | Man gets 19½ years in prison for plot to kill (5 outlets) | White House removes cyber-security chief afte (5 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* WMTW [2 outlets]: Fiona the hippo had hat lodged in small intestine, post-mortem exam sh
-    important (also on AP News) - researching
+* Newswire [1 outlets]: Deadly day on roads: Four killed in Malabe, Mount Lavinia and Eastern 
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* EconomyNext [1 outlets]: Deloitte Sri Lanka examines Budget 2027
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: Long wait for Vice City: Sri Lanka ranks 114th in global GTA VI downlo
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [3 outlets]: Judge approves $7.25bn Bayer payout to settle claims that Roundup caus
-    important (also on AP News, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by gemini)
-* Al Jazeera [4 outlets]: Denmark expels Russian diplomat over alleged plot to kill Ukrainian ra
-    important (also on Reuters, The Guardian, The New York Times) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, The Guardian
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -69,18 +40,61 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 1 rejected: The key_facts state the pedestrian was 'hit him', but the article does not specify the pedestrian's gender.
     cards OK (attempt 2, written by openrouter)
+* ABC7 Los Angeles [1 outlets]: Jonathan Rinderknecht found guilty of setting blaze that became Palisa
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newsfirst [1 outlets]: Thailand’s Deputy Prime Minister Arrives in Sri Lanka on Official Visi
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [1 outlets]: ‘Home Alone’ reboot in the works
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Bitcoin falls below $60,000 level
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: Brazil ex-President Bolsonaro hospitalized with intestinal obstruction
+    important (also on Arab News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Guardian [2 outlets]: Trump turns White House press conference into a 2028 succession auditi
+    important (also on CBS News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'China-Russia' is not in the article
+    cards OK (attempt 2, written by openrouter)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: The 'spoken' card states he 'is linked to the killing' of Club Wasantha, omitting the article's 'allegedly' qualifier.; The 'spoken' card says he 'fled here on bail in 2023', implying he fled to Sri L
+    attempt 2 rejected: the name/word 'Lankan' is not in the article; the name/word 'UAE' is not in the article
 
-Top 10: 2 fully explained
+Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 2
-  photos: 8 too small to look sharp, using the clean cover
+  photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 9 facts and 1 people saved
+  Fact Base: 16 facts and 1 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 14 stories judged by openrouter:openrouter/free
+  meaning check: 7 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 36 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 38 story pages for Google)
 
-Countries: IN 38, PK 31, BD 38, US 38, GB 36, IE 37, CA 37, AU 37, NZ 31, SG 32, MY 36, PH 31, AE 38, IL 31, NG 32, KE 35, ZA 33, GH 25, FR 34, DE 33, JP 9, IT 32, ES 34, BR 31
+Countries: IN 38, PK 31, BD 38, US 38, GB 36, IE 37, CA 36, AU 37, NZ 32, SG 31, MY 36, PH 31, AE 38, IL 32, NG 32, KE 35, ZA 33, GH 24, FR 34, DE 34, JP 6, IT 33, ES 34, BR 31
