@@ -1,38 +1,4 @@
 {
- "2ce8ea0932": {
-  "topic": "Tech",
-  "country": "",
-  "place": "",
-  "what_happened": "A malicious cyber attack targeted nearly 200 major websites, including the BBC, HSBC UAE, Air France and IKEA. Hackers injected corrupted JavaScript code into Optimizely tools, affecting about 178 sites. The attackers aimed to steal credit card numbers and cryptocurrency and to infect Apple devices.",
-  "details": [
-   "Hackers injected corrupted JavaScript code into tools hosted by Optimizely, a digital platform used by major companies to customize online experiences. This malicious cyber attack targeted nearly 200 major websites, including the BBC, HSBC UAE, Air France and IKEA, as well as Zoom, CNN, Salesforce, GitLab, Equifax, Air France-KLM, Ledger and Peacock. The attack was reported Tuesday by specialist media.",
-   "The attackers sought to steal users’ credit card numbers and cryptocurrency and to upload code to Apple devices for further exploitation. According to security researcher Scott Helme, the attacker’s crypto wallets received about $7,040 within roughly nine hours on November 16. Helme first uncovered the hack and wrote about it on his blog Monday.",
-   "Most of the malicious code had been removed from the affected sites, Helme said. Optimizely stated that it identified and contained a security incident affecting some of its Web Experimentation customers. The company added that the vulnerable path was blocked, the injected code was removed, and customers were contacted directly."
-  ],
-  "why_it_matters": "",
-  "key_facts": [
-   "About 178 websites were hit by the malicious cyber attack.",
-   "Sites affected include BBC, HSBC UAE, Air France, IKEA, Zoom, CNN, Salesforce, GitLab, Equifax, Air France-KLM, Ledger, Peacock.",
-   "Hackers injected corrupted JavaScript into Optimizely's platform.",
-   "Attack sought to steal credit card numbers, cryptocurrency, and infect Apple devices.",
-   "Attacker received about $7,040 in crypto within nine hours on November 16.",
-   "Security researcher Scott Helme first uncovered the hack.",
-   "Most malicious code was removed from affected sites.",
-   "Optimizely blocked the vulnerability, removed code, and contacted customers."
-  ],
-  "whats_next": "",
-  "blurb": "Nearly 200 major websites, including BBC, HSBC UAE, Air France and IKEA, were targeted by a malicious cyber attack seeking to steal financial information.",
-  "spoken": "A malicious cyber attack has hit nearly 200 major websites, including the BBC, HSBC UAE, Air France and IKEA. Hackers injected corrupted JavaScript code into tools from Optimizely, a digital platform used by major companies. The goal was to steal credit card numbers and cryptocurrency and to infect Apple devices. About 178 sites were affected. Security researcher Scott Helme first uncovered the hack and posted about it on Monday. The attacker's crypto wallets received about $7,040 within roughly nine hours on November 16. Most of the malicious code has been removed. Optimizely says it identified and contained the incident, blocked the vulnerable path, removed the code and contacted customers. This attack matters because it involved many major websites and sought to steal financial information.",
-  "person": "Scott Helme",
-  "role": "security researcher",
-  "subject": "Cyber attack",
-  "single_source": true,
-  "sources": [
-   "Newswire"
-  ],
-  "mode": "full",
-  "made": "2026-11-18T03:23:55.386198+00:00"
- },
  "14d18905c9": {
   "topic": "Society",
   "country": "",
@@ -599,5 +565,40 @@
   ],
   "mode": "full",
   "made": "2026-11-21T02:45:26.202868+00:00"
+ },
+ "81135dd7ec": {
+  "topic": "Business",
+  "country": "Netherlands",
+  "place": "The Hague, Netherlands",
+  "what_happened": "A Dutch court issued a preliminary injunction on November 20. It blocked BYD from selling its Fang Cheng Bao Ti7 SUV in the European Union. The court found the Ti7 had a similar overall visual impression to the Land Rover Defender and that this infringed design rights.",
+  "details": [
+   "The source is a newswire. BYD, a Chinese electric vehicle giant, got a legal setback. A Dutch court in The Hague issued a preliminary injunction on November 20 after a design rights dispute with British luxury vehicle maker Jaguar Land Rover (JLR).",
+   "The court found the BYD Ti7 created a similar overall visual impression to the Land Rover Defender. It cited similarities in overall proportions, rounded shoulders, wheel arches, and window lines. The injunction stopped BYD from importing, manufacturing, offering for sale, selling, storing, or delivering the Ti7 in the European Union.",
+   "The restriction applied only to the Ti7 and did not affect BYD’s other vehicles. The Fang Cheng Bao Ti7 is a seven-seat plug-in hybrid SUV from BYD’s Fang Cheng Bao sub-brand. BYD maintained the vehicle was independently designed and did not infringe JLR’s intellectual property rights.",
+   "The decision was a legal victory for JLR, which sought to protect the Defender SUV design. But the ruling was a preliminary injunction, not a final judgment after a full trial. The court noted BYD had no concrete plans to bring the Ti7 into the European market at that time, and the case highlights increasing competition as Chinese brands expand."
+  ],
+  "why_it_matters": "The case highlights increasing competition between Chinese automakers and established European manufacturers as Chinese brands continue expanding their international presence.",
+  "key_facts": [
+   "BYD got a legal setback from a Dutch court on November 20.",
+   "Preliminary injunction blocked BYD Ti7 in the EU.",
+   "Court found Ti7 similar to Land Rover Defender.",
+   "JLR sought to protect Defender design rights.",
+   "BYD said Ti7 was independently designed.",
+   "Court said injunction was not final and no EU plans.",
+   "Ti7 is a seven-seat plug-in hybrid SUV.",
+   "Case highlights Chinese automaker competition."
+  ],
+  "whats_next": "",
+  "blurb": "A Dutch court issued a preliminary injunction blocking BYD’s Ti7 SUV in the EU after finding similarities to the Land Rover Defender.",
+  "spoken": "Here's the scene. A Chinese electric car company called BYD had a legal fight with a British car maker, Jaguar Land Rover. A Dutch court in The Hague gave a ruling on November 20. The court made a preliminary injunction. That blocked BYD from selling its Fang Cheng Bao Ti7 SUV in the European Union. The court said the car had a similar overall visual impression to the Land Rover Defender. It found that was an infringement of design rights. BYD says it was independently designed and does not infringe those rights. JLR says it wanted to protect the Defender design. The order is not a final judgment. The court also said BYD had no concrete plans to bring the Ti7 into the European market then. Here's why it matters. It shows more competition between Chinese automakers and European car makers.",
+  "person": "",
+  "role": "",
+  "subject": "BYD Ti7",
+  "single_source": true,
+  "sources": [
+   "Newswire"
+  ],
+  "mode": "short",
+  "made": "2026-11-21T03:46:17.154086+00:00"
  }
 }

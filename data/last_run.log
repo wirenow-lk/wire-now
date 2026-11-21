@@ -1,37 +1,69 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 30/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 33/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 44 stories
+OK   Ada Derana: 45 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
-OK   Daily Mirror: 83 stories
+OK   EconomyNext: 21 stories
+OK   Daily Mirror: 88 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 22 stories
-OK   Daily News: 53 stories
+OK   Newsfirst: 23 stories
+OK   Daily News: 52 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 6 stories
-OK   Google Top Stories World: 52 stories
+OK   Google Warnings LK: 7 stories
+OK   Google Top Stories World: 53 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 89 stories
+OK   AP News: 90 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (8 outlets) | Gangster ‘Rotumba Amila’ brought from Russia (6 outlets) | New lighting system unveiled at the Temple of (5 outlets) | Man gets 19½ years in prison for plot to kill (5 outlets) | White House removes cyber-security chief afte (5 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (8 outlets) | Poland says Russian missile hit its territory (6 outlets) | New lighting system unveiled at the Temple of (5 outlets) | Trump says US to penalize firms building data (5 outlets) | Man gets 19½ years in prison for plot to kill (5 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Deadly day on roads: Four killed in Malabe, Mount Lavinia and Eastern 
+* Ada Derana [1 outlets]: Two pedestrians killed in separate road accidents in Malabe and Mt. La
     important (serious news) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Two motorcyclists killed in separate collisions involving lorries
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Landslide early warnings issued for Kandy and Kegalle districts
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newsfirst [2 outlets]: Budget Committee Stage Debate Begins Today
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: New court order: Why was BYD banned from selling its new Ti7 SUV in Eu
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Blurb claims the court said the Ti7 'copies' the Defender's design; article states the court found 'similar overall visual impression' and infringement of design rights, not copying.; Blurb states the
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -40,61 +72,24 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: The key_facts state the pedestrian was 'hit him', but the article does not specify the pedestrian's gender.
     cards OK (attempt 2, written by openrouter)
-* ABC7 Los Angeles [1 outlets]: Jonathan Rinderknecht found guilty of setting blaze that became Palisa
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newsfirst [1 outlets]: Thailand’s Deputy Prime Minister Arrives in Sri Lanka on Official Visi
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: ‘Home Alone’ reboot in the works
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Bitcoin falls below $60,000 level
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [2 outlets]: Brazil ex-President Bolsonaro hospitalized with intestinal obstruction
-    important (also on Arab News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [2 outlets]: Trump turns White House press conference into a 2028 succession auditi
-    important (also on CBS News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: the name/word 'China-Russia' is not in the article
-    cards OK (attempt 2, written by openrouter)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: The 'spoken' card states he 'is linked to the killing' of Club Wasantha, omitting the article's 'allegedly' qualifier.; The 'spoken' card says he 'fled here on bail in 2023', implying he fled to Sri L
-    attempt 2 rejected: the name/word 'Lankan' is not in the article; the name/word 'UAE' is not in the article
+* Newswire [1 outlets]: 66 Sri Lankan Peacekeepers receive UN medals in South Sudan
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: Araqchi says Iran wants diplomacy to end war, Trump says terms unaccep
+    no AI summary: saving the rest of today for important news
+* FOX Weather [2 outlets]: Strong magnitude 6.7 earthquake strikes Peru just outside of Lima
+    no AI summary: saving the rest of today for important news
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 2
-  photos: 10 too small to look sharp, using the clean cover
+  photos: 9 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 16 facts and 1 people saved
+  Fact Base: 9 facts and 0 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 7 stories judged by openrouter:openrouter/free
+  meaning check: 3 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 38 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (5 with cards, 39 story pages for Google)
 
-Countries: IN 38, PK 31, BD 38, US 38, GB 36, IE 37, CA 36, AU 37, NZ 32, SG 31, MY 36, PH 31, AE 38, IL 32, NG 32, KE 35, ZA 33, GH 24, FR 34, DE 34, JP 6, IT 33, ES 34, BR 31
+Countries: IN 38, PK 31, BD 38, US 38, GB 36, IE 37, CA 38, AU 36, NZ 33, SG 32, MY 35, PH 31, AE 38, IL 32, NG 31, KE 35, ZA 33, GH 23, FR 33, DE 34, JP 7, IT 33, ES 33, BR 31
