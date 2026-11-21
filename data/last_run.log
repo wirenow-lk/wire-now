@@ -1,53 +1,37 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 34/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 37/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 45 stories
+OK   Ada Derana: 41 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 23 stories
-OK   Daily Mirror: 82 stories
+OK   EconomyNext: 22 stories
+OK   Daily Mirror: 80 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 24 stories
-OK   Daily News: 53 stories
-OK   Sunday Times: 4 stories
+OK   Daily News: 56 stories
+OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 8 stories
-OK   Google Top Stories World: 59 stories
+OK   Google Warnings LK: 7 stories
+OK   Google Top Stories World: 63 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 90 stories
+OK   AP News: 85 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Poland says Russian missile hit its territory (6 outlets) | New lighting system unveiled at the Temple of (5 outlets) | Trump says US to penalize firms building data (5 outlets) | Man gets 19½ years in prison for plot to kill (5 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Poland says Russian missile hit its territory (6 outlets) | Trump threatens tax on US tech firms building (5 outlets) | Gangster ‘Rotumba Amila’ brought from Russia (5 outlets)
 
-8 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Two company directors arrested over alleged Rs. 4 bln fraud involving 
+* Newswire [1 outlets]: Fire breaks out at scrap metal shop in Pannipitiya
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: Bodies of Kaduwela fire victims brought to family home in Talahena
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily Mirror [1 outlets]: Appeal Court sets 13-year jail term for Hindu Poosari over rape of war
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [2 outlets]: Navy seizes 460kg of smuggled Kendu leaves in Kalpitiya
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -57,7 +41,42 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: In the 'spoken' field, SLNS Vijaya is described as 'a ship called SLNS Vijaya,' but the article only states 'Naval personnel attached to SLNS Vijaya' and never describes it as a ship.
+    attempt 1 rejected: details[0]: Card says 'Police received the report at approximately 9.05 a.m.', but the article states the fire broke out at around 9.05 a.m., not when police received a report.; key_facts: 'Reported a
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 2, written by openrouter)
+* Hiru News [2 outlets]: Nvidia's share slide knocks it below Alphabet in valuation
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [2 outlets]: FBI investigating potential breach of its crime database
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* EconomyNext [6 outlets]: Sri Lanka Supreme Court clears Prevention of Organized Crime Bill with
+    important (also on Ada Derana, Daily Mirror, Hiru News, Newsfirst, Newswire) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -66,39 +85,17 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 rejected: Blurb says 'on a Kalpitiya beach' but article says 'along the shoreline'; Blurb says 'the Navy thinks it knows why they were left' but article says 'suspects'
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: the name/word 'Court-directed' is not in the article; the name/word 'Lanka' is not in the article; the number 2 is not in the article
     -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: Companies Registrar introduces additional service hours for pending be
+* Al Jazeera [2 outlets]: Saudi-led coalition intercepts three Houthi missiles headed for Riyadh
     no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Teachers and principals announce island-wide sick leave campaign for N
+* The Guardian [3 outlets]: ‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbot
     no AI summary: saving the rest of today for important news
-* BBC World [3 outlets]: 'He's a killer': Zelensky reacts to Trump calling Putin a friend
-    no AI summary: saving the rest of today for important news
-* BBC World [3 outlets]: Man convicted of starting Palisades fire in Los Angeles
-    no AI summary: saving the rest of today for important news
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    cards OK (attempt 1, written by openrouter)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: key_facts claims 'Meta built in Alberta' but the article only states Meta 'has already broken ground' on a data centre there, not that it is built/completed
-    attempt 2 rejected: the name/word 'States' is not in the article; the name/word 'United' is not in the article
 
-Top 10: 3 fully explained (1 new this run)
+Top 10: 2 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 7 too small to look sharp, using the clean cover
+  photos: looked up 24, found 0
+  photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   Fact Base: 9 facts and 0 people saved
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 8 stories judged by openrouter:openrouter/free
-
-Website updated: 150 Sri Lanka + 75 world stories (5 with cards, 40 story pages for Google)
-
-Countries: IN 37, PK 32, BD 38, US 38, GB 36, IE 37, CA 36, AU 36, NZ 31, SG 30, MY 36, PH 32, AE 38, IL 31, NG 32, KE 34, ZA 33, GH 23, FR 33, DE 34, JP 9, IT 33, ES 33, BR 32
