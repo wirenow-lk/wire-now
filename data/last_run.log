@@ -1,97 +1,86 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 50 stories
+OK   Ada Derana: 49 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
+OK   EconomyNext: 22 stories
 OK   Daily Mirror: 82 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 24 stories
-OK   Daily News: 55 stories
+OK   Newsfirst: 23 stories
+OK   Daily News: 52 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 4 stories
-OK   Google Top Stories World: 49 stories
+OK   Google Warnings LK: 5 stories
+OK   Google Top Stories World: 46 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 84 stories
+OK   AP News: 89 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (8 outlets) | Gangster ‘Rotumba Amila’ brought from Russia (6 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets) | Trump says US to penalize firms building data (5 outlets) | Man gets 19½ years in prison for plot to kill (5 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (8 outlets) | Gangster ‘Rotumba Amila’ brought from Russia (6 outlets) | Trump Threatens to Bar U.S. Tech Firms From B (6 outlets) | Sri Lanka Central Bank raises key policy rate (6 outlets) | New lighting system unveiled at the Temple of (5 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Breaking News, Latest News and Videos [1 outlets]: Child with measles dies in Virginia, marking state's 1st measles-relat
-    important (serious news) - researching
+* WMTW [2 outlets]: Fiona the hippo had hat lodged in small intestine, post-mortem exam sh
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* EconomyNext [1 outlets]: Deloitte Sri Lanka examines Budget 2027
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The Island [1 outlets]: Appeal Court stresses need to protect elephants as national heritage
+* Hiru News [1 outlets]: Long wait for Vice City: Sri Lanka ranks 114th in global GTA VI downlo
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 failed: AI did not reply with JSON: ''
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 2, written by gemini)
-* The Island [1 outlets]: Journalism’s standing rises in Sri Lanka as the profession looks to th
-    no AI summary: saving the rest of today for important news
-* The Island [1 outlets]: Playing cat and mouse with criminals
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed grou
-    no AI summary: saving the rest of today for important news
-* CBS News [2 outlets]: Live Updates: Trump says next move on Iran may not come until 2027 as 
-    no AI summary: saving the rest of today for important news
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Guardian [3 outlets]: Judge approves $7.25bn Bayer payout to settle claims that Roundup caus
+    important (also on AP News, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: the name/word 'Power-led' is not in the article
+    cards OK (attempt 1, written by gemini)
+* Al Jazeera [4 outlets]: Denmark expels Russian diplomat over alleged plot to kill Ukrainian ra
+    important (also on Reuters, The Guardian, The New York Times) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, The Guardian
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 2, written by gemini)
-
-Top 10: 1 fully explained (1 new this run)
-  reader summaries from the website: 0
-  photos: looked up 24, found 4
-  photos: 10 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  summary translation failed (no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code")
-  summary translation failed (no AI available for writers)
-  Fact Base: 17 facts and 2 people saved
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+    attempt 1 failed: AI did not reply with JSON: ''
+    cards OK (attempt 2, written by openrouter)
 
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 35 story pages for Google)
+Top 10: 2 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 2
+  photos: 8 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  Fact Base: 9 facts and 1 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 14 stories judged by openrouter:openrouter/free
 
-Countries: IN 37, PK 31, BD 38, US 38, GB 36, IE 37, CA 38, AU 38, NZ 33, SG 33, MY 37, PH 34, AE 38, IL 32, NG 33, KE 36, ZA 34, GH 25, FR 34, DE 34, JP 10, IT 33, ES 33, BR 31
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 36 story pages for Google)
+
+Countries: IN 38, PK 31, BD 38, US 38, GB 36, IE 37, CA 37, AU 37, NZ 31, SG 32, MY 36, PH 31, AE 38, IL 31, NG 32, KE 35, ZA 33, GH 25, FR 34, DE 33, JP 9, IT 32, ES 34, BR 31

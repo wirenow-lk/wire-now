@@ -1,11 +1,65 @@
 {
- "updated": "2026-11-21T00:15:27.047325+00:00",
+ "updated": "2026-11-21T01:45:28.890632+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
+   "id": "7281025b4d",
+   "title": "F1 practice LIVE: Las Vegas Grand Prix 2026 times, results & radio",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50cmVNcUdWb3QtR0hURTRBVWFBMlREMjdid3h4cHJWM0FqYU94Wk9IcHJNUWxoQjl3aXNKV2FxaFdSTHZZQlBfcVdIdDBVWWlyTnBQalhBSVE0aGEzN1JCY2cyN0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-21T01:46:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ff11d970da",
+   "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUpCRDBMYklDeHR1amlGZnVtNHNER0ZOR3JNeTR4Y0tFWEh4bkpHRDVGd0JYQU5INVc0MlVuc25EZDE4ZHFzZncwSEhvMWxqSUJVTlE3VFdLbk9fVUJvSk1YRzk5Tkxmd2VVT3g0Sm41T0lxMHcxdmFqM0NSd2FiU0lBd3ZHTDNETGpYc05FR2FRQlV0RWo1VkRRRmZMOGNDTUZ2TlpEdFBmUzIzSlBfcUJR0gG3AUFVX3lxTFAzNHIyMm9qVE5vazlISHVVU19JazZ2TE5CaVU3eFNtdWYxeC1DWHk0cWdhblBQVVY5cHdrdEdGM0dCNGVNci0wSXA4UnpBTW1hdU5XWHZyX2dvRW9ZTU91Q1BveTZpaUpFWWJBRjEwVElCQzBiYnMzcW9LLUNjUHZQSGRjZklhWGQ2dVZLZnFWSmdwdUlGWjN6Zks5SEdGdlVxM1VqMnVOZk12WmZsTDdWbVhmLU1XWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "GB",
+   "date": "2026-11-21T00:44:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "465d6af420",
+   "title": "NHS warns of 'alarming' rise in hospital admissions for high blood pressure",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVXeGhxSGpiYUVNbTdSY3dUS1FOTHJtakJCZjRoc1Q3eTQ4SnVyRFV6YzJEU1puOWR0bzlxSXJ1WVo5QkdmNDNOaG5Sb0JuZUQ5S3VQUXpQTzc4ZGRFQkNUSXIxUTUzZ2JTNUtteVlJQ2s3MFk0ZjQ1dkYwOEtzWFJuaFN4cFRBcC10WUx4UDF5aGY3QmRoczVoR21IUG1aaTBIWk4yM05vaVV0d3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-21T00:14:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "fa5a9727ae",
-   "title": "Harry Kane ‘out for next few months’ after ankle ligament injury in Bayern Munich draw",
+   "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVR4eXB0U3JnSVN1NEpZcTZ2ZG5XeGdYYzF5cTBzQ3FBZmFWOWo3NFVHVmljLXdKMVJHNnU1OV9NU2JKNzhKLVZrQ3pUMXFma3JGUzc5VThMRlp3MnM2cVZab05vbElJR0h2UVM3QWd4TWkwb1JlOHc3bTVDZHd0dWtNTFlRVlJyX3hZTEZINnBOSHRwUUk3RXZNRGhCMmY0NmU3TVRB?oc=5",
    "summary": "",
    "image": "",
@@ -21,26 +75,6 @@
    "topic": "Society"
   },
   {
-   "id": "a8bcfef777",
-   "title": "Donald Trump latest: 'Stupid' to criticise my relationship with Xi and Putin, says US president",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOWM4eFNZaGJVcG9nQ3ZuYXVzbmNCNXJ0blk2QWJ0MkxjQnRGa1pmTVk1cWotWk1NT2t2ZFR1Y1k3WlZTSi1JUUZlRHVBTWhfWjVOSGQwZ25WMGxqQ1FnVDNXRFJVQ3J0OUNVUUVWNzFIZWVxRTB0UVdWMXIwSjl0cmxHaFZMNVoxTzF3LXVHOHAzSUJudHVQSzJLSjdPMmttaGVRdnlTMnI4TTFOcjVSaFVoS3otMktNeUlTZnk5bEJQRHV4VnNUUw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-20T22:31:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "5a3256fad5",
    "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX1BRdHFGVi1MUlI3SUhwd2NLUGRuZ2RvZUdqaVdORnphZ0YyNUlyclM3UVZ2Yy1GbFJ6QVFRc0k5RG5odWhWdXl6QUQtSUMxVURTTGlTZDhRTHNua3dIQWpfa3o4ZXRxRjhPMWMwOGhOOXBLR0NnUDJGUXF0VFVWbTVyVWlWRzVaNDUwOVR4cWdoWGZ4SU1SWjZubWdjd2ppRDdHODRHZ3NONTVzWWNiNEZCeklaSGpRODYtZw?oc=5",
@@ -48,12 +82,50 @@
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-20T22:10:00+00:00",
+   "date": "2026-11-20T23:43:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "182f17061c",
+   "title": "Nvidia faces US regulator’s probe into its accounting",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-20T21:58:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "7d95e2f745",
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xSWxCMW52QnhtbnU0dFZncFo3eXZ0WkstTWV6SjNvbDVlRGZhbDdVM29qSTkyWTRGTU5hTzhsYklHRWU3R3k2eU4xX3IzVkRYaU1FQjZXUFZ1aGxLN1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-20T21:57:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Denmark",
+    "place": "",
+    "flag": "🇩🇰 🇷🇺 🇺🇸",
+    "also": [
+     "Russia",
+     "United States"
+    ]
    },
    "topic": "Society"
   },
@@ -66,7 +138,7 @@
    "source": "Financial Times",
    "region": "GB",
    "date": "2026-11-20T21:05:48+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "location": {
     "country": "United Kingdom",
     "place": "",
@@ -95,14 +167,14 @@
    "topic": "Society"
   },
   {
-   "id": "be81783042",
-   "title": "F1's new V8 engine agreed – five things you need to know",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXlTek9lUDNGU2JwQnZPSXotWi16Zm40RHRjTmh4TjBTbWJwV19lRUZ5MUl2VWd3QkR2bWtrZnRmeW1felBEcXBFLXBBZW5hQnF6WjNva1gweTNjR0I5X0RPVk9IRThnMnB6Wm45eG9hRXlRcDlac2RsamhhLXh1X1BqWmc4c1lYc2QzQXpmLTNtcDg?oc=5",
+   "id": "d0dbc18d41",
+   "title": "Ten arrested as hundreds join rival protests in central London",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWtGdE5oVTVMWlFiaVRWMi12YWxWQmhrS0sweGtfVVhRcF9mY3F5WEMwdmpuVUcyakJyS2RyY2hOejhaWC1UVzJQQ3BRalZOYXJwV1l3Ykg4SklIdmVramZwN3M3ODFuUmRTaHkwRnM1a01RZEY3ZVBCYmRoazZNVF9KdkIyZGs2ZVVHTzlaRGduUUVTVWM1U01BdFdQeFZwLW9mdjdoSFBKRVVjc3dPc25XMEw3VjBCZkE4OVpn?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Race",
+   "source": "London Evening Standard",
    "region": "GB",
-   "date": "2026-11-20T20:13:09+00:00",
+   "date": "2026-11-20T20:18:54+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -183,79 +255,29 @@
    "topic": "Sports"
   },
   {
-   "id": "42438af4b2",
-   "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONnNlY1pFMWkzR2V6bUdiTXdWdTJBVkFjSXl1cXNKaTZyRlh0YUlwbHJuYzlnTXB3XzdaelZGTmFRTHV3c2ZkVngydTZmSll2elBzRDBkeTJJQ0wyck9VY2FGLVVIdk91RXQzU2E5aXBDaXl2Tl9BYk5ZYk1SVndESGxvY2ZmcTZKWkpvN0h6S2J3QVJxYU81c21yOFZ4Rjh2Qzc0YktZRzJ4RVJ6?oc=5",
+   "id": "e103688050",
+   "title": "Trump defends Putin ties and accuses Iran of bad faith",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXFzU3JnZllJNUdtZU5aQkRxdWJlWTdSaVh5ZGE3NGhfVldGcUhiMUpfS1R6ZVZ0bDg5Y0Z6cTc4QldONmQtV3BIM3dVNFZqbEo4YlFnWWFYWkd4VEowUXViMzlnRW42S2RNZ1o1b1F5dnVFV1FEY3lhaGJjeWwyWHdxYjBpNlNIeWZLRHpWeDBrSkZyaHhlTi1paw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Euronews",
    "region": "GB",
-   "date": "2026-11-20T18:52:00+00:00",
+   "date": "2026-11-20T18:55:06+00:00",
    "coverage": 1,
    "location": {
-    "country": "Denmark",
+    "country": "United States",
     "place": "",
-    "flag": "🇩🇰 🇷🇺",
+    "flag": "🇺🇸 🇷🇺 🇮🇷",
     "also": [
-     "Russia"
+     "Russia",
+     "Iran"
     ]
    },
    "topic": "Society"
   },
   {
-   "id": "a4dae956c1",
-   "title": "Pontins owner fined £1m over death of woman at Somerset holiday park",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjMyT1FZdkd6c21fV21rRDhvWFZMWVo0N0tnU0p4UWZibWZOLTg3a0J0S1ZkZzAxWGxuZWJyc2Y4N3BoVjN2QVZTMl9WZHRxWFhzTXAtZDV1cm15ZTVvUDJjeHl1VnU3dy03Rm9IUlJOWldtZ0xiQzVoNjMzcDlZVmZXTklrV01pX2pIdkdtWVBqM0JsSU1qcjZjazRyemxEVWx3cDVvRTUtM0dPaDdYUldjZ081d2tBR3VZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-20T18:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7c68cacba0",
-   "title": "How monsters like Philip Young use legal swingers sites for abusive ‘hotwifing’",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFFGRkdIbnJCRmhkVzN1QnBWMEJPdzVRQzVXRVNRZmMzb3dMZkZhSTdJMVFBTDhIcGhnQXJmNi0xek5HSzJrZm5UeXFEQ1RNblZ0M0VwWkZiWmZpeUdCMmpZQVJWYlBwa1BIcmpRQ3EzcTI4eVJJZGpHdndTMWtpLUwtLVB5SzE2dldRdWE4YzZKQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-20T18:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bd72e48ce9",
-   "title": "Bristol students walk out as part of European youth demonstration",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWb3dXRkIzMXhtVzRRY2VzSzdrNDMxSTNCUFBucnBVVi1lVGhQaXpETGR4ckZER2F2aWprTnhhZUhYenhyZ2xQdHFHYlNNeWc4aVhDaHRadHpqcnB3WEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-20T17:28:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "94a6e99128",
-   "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+   "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5",
    "summary": "",
    "image": "",
@@ -269,23 +291,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
-  },
-  {
-   "id": "3a68b1d5b9",
-   "title": "'Light at the end of the tunnel' or 'halfway there' - NI businesses on new Brexit deal",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNDI3cjhHWXBlbFY4WUNwTXZfRWRWLTJkUjU0SVZHNG9vbjJ2c3laajJlMWx4NnNfOFpadGNIZFlWUDhuWV9qLW50cno4UXFCMzU5ZGxkS0lya3c0RGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-20T17:22:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Business"
   },
   {
    "id": "3d115ef515",
@@ -305,19 +310,19 @@
    "topic": "Society"
   },
   {
-   "id": "f44929169c",
-   "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWZnRudzI5cWl4QmZwOFFmWXZpbnV6Uy10N21IWE5mZjdYTW9zRWNLOFZfaDZvMHE1UE9zMzZLMGp0MjYzX3BFa2hWRnNtQVBKNUZZV21IczF1anQwaWc?oc=5",
+   "id": "1dc188b344",
+   "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVQ0OEJFWnl0cUx5WjE0TTRCYTBSRldLaXhhNW85SlZUTEtmaHB5MnVzQXI4MFB1a3REdEw0cUVNNTJxaGlWSTlkOWJ5VG1waEdwWW9WWnBUMXJkcEtYVmRfeXowNXFtcW53R05YVlhPVG9HTG9rMU5WX09sUnJXazlaWHZYdWY3M3lpLUxsdUVScXVPNXhyUWUtcmI3SXlOaVFFZ09yLS1oRVZwQ0Vz?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-20T16:29:18+00:00",
+   "date": "2026-11-20T16:44:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇬🇧"
    },
    "topic": "Politics"
   },
@@ -373,14 +378,14 @@
    "topic": "Business"
   },
   {
-   "id": "0179d0181a",
-   "title": "Mum's fatal BBL an accident - but risk of more deaths",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aMlFKalZSeDBYWlpxVUZWbExycEt2VXp4cktENUVHNllmTlFEeWdnaUdRQzB0QlhkWlVndi1jRUZpdDByRWxWRzRGV080bzNocHV2clJ4b0tpYU1mWWc?oc=5",
+   "id": "473a0a57b9",
+   "title": "‘The Hunger Games: Sunrise On The Reaping’ Sets A Rotten Tomatoes Audience Score Record",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG9vYWF1S3V1TElpNTZpSGltcGNtSEN5VWhGNmRITVRnaFV3WkxybUIycmJmcF9YZnRfelU5MFdJcU1EajcwWllKVk02MlVFMHUxNm1MMzU1UmNyc1dGVm9pZUVnRndDQ3hLT3N1SEZfRExsUlVWTGVBWnREV2lTZ1Vvc2pDZ3JlVlFpN1N4NDZpUFJnZTVHRE1XME12dnRrQm5vTkxSRnkteDFRX0FXUkFiMHZxQnhKdFA5ckN6bG5tdFBpWHB0TkhvSV91Y005?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Forbes",
    "region": "GB",
-   "date": "2026-11-20T15:51:40+00:00",
+   "date": "2026-11-20T15:25:42+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -427,21 +432,21 @@
    "topic": "Tech"
   },
   {
-   "id": "af9951993e",
-   "title": "'Presumed Innocent' Season 2 Release Date, Trailer Dropped by Apple",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGRmcHlWU0JoX0wyeVppR3BtYmo1MjluNTRUSHJSdFAtRldnLTZwa0FKUDItOF90RWlKYkl5T2hJcGdUN25fT1Q4S2I2czFPdzVQUkdHdEUwSGQ1NEVodkNhN3BSaUVDTG82ZzlzZXZDZjJ5YmFmRGUzYl8tZmFzTXd3VjBhWTlBUzN0MFZZWllYMHNkX1ZF?oc=5",
+   "id": "186bdf2bbc",
+   "title": "In a call to Europe’s leaders, Trump showed where his loyalty really lies",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOEVieTl2VmpybWJTQnpXZnN4TGJWWmZhWHduSUtzY2JWbmtjU0w2Z2hkekk5ajE0THVGSEFKbXZsWEgwTllXNmtxejZkTkp2TzJ5N0t2elZITnN3Mm1lTzZoMmdkY19RZGxjZTZGbDJKcHkxQkxjRmp4UmxsaWdjMEF1WGlUQ2xFbmtwWDdVcjRKTjYt?oc=5",
    "summary": "",
    "image": "",
-   "source": "Variety",
+   "source": "The i Paper",
    "region": "GB",
-   "date": "2026-11-20T14:00:00+00:00",
+   "date": "2026-11-20T14:28:39+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "United States",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇸"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
   },
   {
    "id": "33d5874b69",
@@ -478,23 +483,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "ca85e1b32f",
-   "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CQV9zR3daS1c4bEctR2d5d2pmUEJzMlFPZEZnTG8tdmZtc2tVeHBaMGNYbm5oRU5xamlTX0E1ZVMyUzBzODdNVV9WRWNTdklrcXNITDJIc2JTaFBSbWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-20T12:34:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "903e37c25d",
    "title": "James Bond hopeful lost role after making 'terrible joke' during casting",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXBVaUUwUGNEWUM0cFJsYkEybjg5bnlDXy1XYndVVTQ0T3plOExGSkZOVC0ySHFGa0paRXdaaDg4X3R3YktvRWw0dGVHRFpJcXZpQU9zekM0b1ZxcHM2cVJTZ2NFd0RnQnVUNTN3QmI5UHpFNXpKOXBpV2RyNDA5bXVHUHp5a1l1ZEUxOXBDU3pjT2gtTFRBLVBEU0lKRDA?oc=5",
@@ -529,23 +517,56 @@
    "topic": "Society"
   },
   {
-   "id": "39ad63b71c",
-   "title": "Russia hits 3 Kyiv bridges in major attack, while Poland reports airspace violation",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3hrR3FsNmpQYlVac3VVeGphWWV1dVhucmkyT290U0FLRjZEcXpRYnhhR2NiRlEtekRadzFZWjh3dnprb20xOGExSGdndFpBRkV6RUhZVGJtMkdoamtGbjlteXlEaWU5QzZEQXdfSWxJMmM0eGd6bkN2Z3hTMFA3eTJnUWdpQi1BZUY4X3JadGs3VURzVHdWLUZHZ0U5dFNMdm1KRmc4ekMySEdqNDNJcVpEY25Ydw?oc=5",
+   "id": "fd2d5475c7",
+   "title": "Britain carrying out cyber operations against Russia, says top commander",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzdsOURBVTY2RHhuNjhNQ0o4emFJaHRYWnMwTFNLSFNOc0dVdjhVMzg5cDNZUlFVaERDSzZpY05wVThHbnFWaWpQRURXbmhCS1dRNE1Rc3Nnb1lFX2Jqb1c2dWYtLTlmNHIzYlBQVzJNZWhNR2VObHdKRUhzcUs2bnMzUlMxT3ZFUGhucV9jbTVWc1F6?oc=5",
    "summary": "",
    "image": "",
-   "source": "POLITICO.eu",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-20T08:39:00+00:00",
+   "date": "2026-11-20T10:19:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Russia",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇷🇺 🇺🇦 🇵🇱",
+    "flag": "🇬🇧 🇷🇺",
     "also": [
-     "Ukraine",
-     "Poland"
+     "Russia"
     ]
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "68569be52e",
+   "title": "Fiona the hippo dies 11 days after swallowing zoo visitor’s hat",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdktkaGJtNXpqbHowSWxwUHF5OHhJdjNmV1A0aVV3bTRFNzFMYy1jWDBJNnpvR0xLVnl0UklieThONjBZbDVoT2J5VXVmM2Y0Ymh3TWxXSGR1WG14YkN1N3ZCNzluX04zbVU2ZDgwUmt1R1J1RjlmaGJmNFFSRTdtU1Zydk16ZlYxX2R3NnZlOGZ0WS1DRDRBMDZ5QVBtTF9I?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "GB",
+   "date": "2026-11-20T07:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "371060d7ab",
+   "title": "Calls for consent defence change after Joanne Young rape case",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByRUpxY3AxWFV2WVpPeER6VlpmZG1aTUZIemp2d2s3WDg0OXJwNE1NTWgzVml6MTFYRXBDWVc5M3A0MXZ4RkNKQ1QtNTRHTDc0RTRpNElhNHRHYVBrcVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-20T07:39:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -601,31 +622,14 @@
    "topic": "Society"
   },
   {
-   "id": "aa9a821d28",
-   "title": "UK’s long-delayed pensions dashboard now due to launch next year",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDVvbDBrNVd2aU9vRjFZR3EwZW1jazlQYXpRZ01hVTBfLUFJUnkxNktLUzhudlFoNWMtaVJxZlhoNzlKZ2VoeUhkUmZTSmxBeTJfLTJERms0dG5xT0dYRHRtSFhxTlQ4cGRrcU5PQVB6TnZ2SFRPRmN5MXZvRkl4ZFdwTlo?oc=5",
+   "id": "e850851b55",
+   "title": "Voyager 1 celebrates one light-day with a nice lie-down",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSE9uSHVCNlJSbEhDaldWalFSU1d2b3pONmhLLWVodEJmbHA1Tm5PZklQRmIwUk5jYXlLdS0wZ3BfYTNDRnpjUXA5cVYwOUJjSVZWcWQxY2o1MFVJRlVWbnFlQXo0WnhnUFdSeW1kZlVXVEdfMF8yUU5haUs1WEZaVUZteW15MXIyZ05ZVWVPWGZlT2VvUzFiNGgzNlY3a3I0bGh2ejFVS2hDZldET2Zr?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "The Register",
    "region": "GB",
-   "date": "2026-11-19T17:14:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f461ab77a9",
-   "title": "Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcFpXcUtlYWNUQzYtU2pFR3d0ZGZ6MHEwenU2U3Zfa2dDZUk0QWlQM0FaLUtkTVVJbHNOR19zUGl4Sjd2N01Uc0FYOVkwaUN5M1JJSnd6ZUZsQjlzUWJyTGRRMnhSRDJXa3RtREIxcndzZnVTSGlkX1V4OUZrR0Nnc2QyZUV4WXZrVVFIMlRvc3BNdnZGWVI5OXlnRV95c3hHdFNpMzJIYzVQSDFLb2JjdnNQTmpIVjQ1aEdHRkc2ODQ2VElQU29JaW5UUzRxQmViMXpYVnlCcVFpdURuQ0IzTmNn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Space",
-   "region": "GB",
-   "date": "2026-11-19T15:00:00+00:00",
+   "date": "2026-11-19T13:15:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
