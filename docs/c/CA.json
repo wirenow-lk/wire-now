@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:28:52.208300+00:00",
+ "updated": "2026-11-21T12:18:41.881468+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "CBC",
    "region": "CA",
    "date": "2026-11-21T11:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7ebd2ad4c4",
+   "title": "‘A wake-up call’: Experts raise alarm over drone incursions at Canadian military bases",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmFwaGNkaE5IRG9ka2ViY1l1RlFUZjY3ZnFJYXhaWF9GTm1lak1Cc1Npb0l1S3Y5UFIwb0lDWWxkbGNoLUJmVGVQdFNVNTQ5cUdqWjJuc0RQeWRvTEFQTlJ4dUlFZXA2dFZjMTJ3MkFLQkQwOGxEYXAwZlFlZjBNS1EySU1VSHVaSkhzVGVvU0k2VFUwNlphV0JjSEZkMUhTT2Vtajh0bE9tWlNudTY1TzZ2Y1lxOHpXc25YSmxqTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-21T10:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -109,12 +126,29 @@
    "topic": "Society"
   },
   {
-   "id": "3c5a5dbbdf",
-   "title": "Toronto police release images of suspect accused of sexually assaulting 13-year-old girl",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTnV6Tm9qci1saVN5SFFBNFh1Q3hndU5WUnpIbGdJUFo0V0o3NWllREs0c0ttcnM4TVdxQ3NOZXd4c0tWcVI3Q3J5STNUNkxvNHR0cmcwWndUX0hvN1h3WUpoSERtOFQ2X0luMGl3MVppMHFyYjZUMmxSU1A2RjN3anVkRVFoNERFRXZQWUtvMzg3WDhpYjFwMEdPUHJ0YUFlQTRSVHV0MHhtOFBKdXB6ZllwX1l1dkJfb3o1SnY2a1VlODVfZEd4MnpFOTdselpW?oc=5",
+   "id": "8da14ad08a",
+   "title": "Manitoba health minister concerned about U.S. measles cases",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWtUdGJ0cWVINmhac1g1UDNxc3AtdlZ2eG1CNjdqNkg0YXhHSkZPdW9hWXZWbXBNWFVyem9sN0k5ZmpaVlk1b0pUYUU1VWVqYTBvWWMta0xpZWhzNmNVWFVZcUZNakRmUFplYU9GdTJidGNIWUJBSnJyNGpmNGgxQTRYd21xbjhWMjltR0h3?oc=5",
    "summary": "",
    "image": "",
-   "source": "CP24",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-21T02:25:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "116439aa82",
+   "title": "Toronto police release images of suspect accused of sexually assaulting 13-year-old girl",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzZmaGZYakFHaGFDcFpQWThqbE1obi1oZUpaSTVMRmwyc1ByNGR4SmNKTTRSMk1FVk5CTWdoeERYWHJld0FndnBJX09DWGZrMmdzVktqSGZiNW5rM2ZvOG92RmNvM1ZrQTl5RVJmVjI4UTBqX2xXekpoR0I2T0h6WUdXeEhtU1lHLVlya3JNWWhKUXFnNERTcGpWTU10NW9SVTdoTk1iRUt3MWNSQWNna2RUVHVCdUxFWVc2WUVLRldFeWd1S19n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
    "region": "CA",
    "date": "2026-11-21T02:24:00+00:00",
    "coverage": 1,
@@ -126,14 +160,14 @@
    "topic": "Politics"
   },
   {
-   "id": "4dac2bee63",
-   "title": "Premier Lorne Doerkson tells his new cabinet 'honesty is the foundation of trust'",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWndnS0NzLXd5OWE4ZjRUNkNvaDlsZUdlYTlzM3BfMmNnTmFWZ0dFb0c2UXZmOUZKY0FkUHg5SFZvUF9nMDdSTTVZWlBCWmFrektVN1c0ZDJxVjc1VnVhbjFyaXBCN3h6QkpRT3NWaDh6V2JVOEluUmRBdTNrN0dvdzFmaGdzUXczdTZJTXFKUkg4QVd1SXN0a1FRY2k5Q0dENG8tZUdpU0pLVERXUGc?oc=5",
+   "id": "ced498ebc3",
+   "title": "Premier Lorne Doerkson sworn in alongside 1st B.C. Conservative cabinet",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGIwYnc1VkZFZDFHOE9faFo0M1Z5VkN2ejM0UDhWbThZdXJiemlDbW85cE1WRU5va1BVOFYzeVh1ZmliV1pzaUY3VEZIcWhLOTc3UmwwRTlvMmZJdjBfSWZ1WHU5UkM5ZXQ0OFlEYlM1dUZuNm1KdWZwdTZ0UDBpYi1pZDE0LVVNc1RkOWpHS0FMQmdBa085bVZLYw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Vancouver Sun",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-21T00:13:35+00:00",
+   "date": "2026-11-20T23:42:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -211,38 +245,21 @@
    "topic": "Society"
   },
   {
-   "id": "c2b21db74a",
-   "title": "Trump threatens to penalize U.S. tech companies that build AI data centres in other countries",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZklNaE5Lbkc0SGpFSFhKT1o3N2h2Z0JVM28zTEhqRE1vVGgtdVBDY2Q2elRTNmZJSkc1OVZhR2l4bm9oYUNySC10SV9FdDZicmFDeVZXWFlEMDU2WVotS18yVTBFQVNmakdCckFWR3J3ZE5zUHJpcWhUVGhUSW1NeGdYX1BRdw?oc=5",
+   "id": "d947bb911a",
+   "title": "Russell Brand Couldn't Remember Katy Perry Wedding Date During Sex Assault Case",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0dBeWxCaUxienlmZGY2bmdJb0paS2piTnk1NzJtanVGY0dlT0I2OUJSQWZVQ0FPTGt3VkZzdGtHVUM2NEp1SUpwVDIwY1g1R0sxa2xMdzJMc2JPUlpSTk9mSjVWOWJDMDU5VTN2TEZoS3BXdkVrajUxWXZGb1dibXVOOA?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBC",
+   "source": "TMZ",
    "region": "CA",
-   "date": "2026-11-20T22:51:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "28f306e44b",
-   "title": "Defence minister promises review of cuts to reserves, cadet training",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckVlaVJCc05wR0NyWHY4RWg4dGRWMV9GTVZaSkhlOThWLXhuN3lOMHVQVThVVzdGTExjSVd6NmpvQ1VmRktwcE16Wmp6cDZtYVVxSWlUMG1SV2hBbE9lVzlCYjB2SUVFQnI4ODJ3a05oa2xSRFhNTGNzXzgydHVacG5DTm0xcUpXZG1zWnJPdWZpM2pQQmRoNmgwdXZnU055bDJXcWFWLWxmcEdwZFdtdm51VlRUYkxUZ2ZYOFBLeFo4Sm96?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "National Post",
-   "region": "CA",
-   "date": "2026-11-20T22:21:57+00:00",
+   "date": "2026-11-20T22:50:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "3ea6d145f2",
@@ -279,40 +296,6 @@
    "topic": "Society"
   },
   {
-   "id": "8da14ad08a",
-   "title": "Manitoba health minister concerned about U.S. measles cases",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWtUdGJ0cWVINmhac1g1UDNxc3AtdlZ2eG1CNjdqNkg0YXhHSkZPdW9hWXZWbXBNWFVyem9sN0k5ZmpaVlk1b0pUYUU1VWVqYTBvWWMta0xpZWhzNmNVWFVZcUZNakRmUFplYU9GdTJidGNIWUJBSnJyNGpmNGgxQTRYd21xbjhWMjltR0h3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Global News",
-   "region": "CA",
-   "date": "2026-11-20T20:32:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "e18e59d52b",
-   "title": "Baywatch's Erika Eleniak says OnlyFans has her 'calling the shots' after money woes",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSDg3ZFVMOXh6cjZKRU10bDlwcS1fZ2hpSGtheVpCeGtHTE1zYnM1aHJlZVAxV2hYanJVQXlwUzVUdzEtWUY5U1hSTTM2T0lEa0xjaG5lZ2R1NTBBdDhHX0pnRHI4UkV3eWd0bHJRNy1SZW9BUzZKZkRqV05sa1BCeGFOUmRPQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-20T20:26:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "94865c7a65",
    "title": "Hamilton hospital introduces AI tool to reduce unnecessary cardiac procedures",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0pDZGcwUlllY2ZzYXF4amdia1BUaDlUdVJZR3liekx3S1YzZU9JOWVIOTlWSG8wZDZBYmhma0tLQ0gzRHY4VWRSUWplRmk2YjV2QzhVOFVqNi1FQTQ3MmNuX1FLdEFYOHFQNl8zM0pRMmQxVTBPSzAxb2V2SGNPVldZd0VJUnItTkZjTVd3dWpEUUlRZVRIR2FtcURqemhqekE3bHZqTi1PSGs?oc=5",
@@ -328,23 +311,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Health"
-  },
-  {
-   "id": "62f8d29e6f",
-   "title": "Voyager 1 reaches one light-day from Earth",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83R3lYS1VvelhzZUlkLWhCVVc4N2dJdGxoUGU5UFFZaUxpMDJrNVNWSExrMDVGVXhKTTVqSlp6R2VtU1Q5amxlb25yWkh6d28?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SpaceQ",
-   "region": "CA",
-   "date": "2026-11-20T19:35:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "9509371d68",
@@ -377,26 +343,6 @@
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7a214d30ec",
-   "title": "Trump says he's working on a 'fair' trade deal with Canada",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnhUTGphX2ZKNEFtY1lycnBybW13Y1lRZ2JZWGZDT1J1NHBuT2FWSDI3MGVvSnExb0dVRndtaW55MldUWHc0TVNDM05paGJkbXJXZ1NGMV8tZGlydy1JT1lDOFljLUw0V1FrakFPOW5FdHRIUFdxUzZMOHNsWkNhOW9FR2wyeF9fanc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-20T18:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇦",
-    "also": [
-     "Canada"
-    ]
    },
    "topic": "Society"
   },
@@ -473,38 +419,24 @@
    "topic": "Society"
   },
   {
-   "id": "c1c1545c2e",
-   "title": "All five of Ontario’s education unions now have strike mandates. Here is what that could mean for students",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbkM5YmFZRmJtZE9fMjJjUmFOcEJqcTZDZkswcl9seU1PeXdqeEtvX1p4d2dMREZUZjc3UmVfTm9VcjVhRHozbVZBeXNYaTlnZk50ek9EbGstazFldjZfZl9Wd2l0ZU5pRFIyQXZGS1RpN3VtYm1zc1BkRmI2YWplSzNlWjRqZjlSVEY1VGJSSENnZlY0d2VZdTlYRnNnS0dPSnp0Zi03OUxaUWxpWU10dUVhTzF3SjFaa2tES1dJZ2wzN3cxSFlDaHVmcnVrTnB4NVpUdjVQSktxdkY5?oc=5",
+   "id": "66b5f3adf4",
+   "title": "Trump trade adviser hurls insults at federal government as Canada-U.S. trade talks heat up",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXQ1QVNMZzhxM05tSXFiQl9xTmNMTEkyck1kNkl2WWs4bDdSOG5IM2NjbU5SdWh5WWF5N0NFVm90QUgwZ25mS0JXNGduZGllTTJNdUJ4eVFiOVpTQTJDTzVCODNlNmtNeFhSZUpsd3JNN3FMbm5TekdaUFpKeTBfcU1SQnlEQVZQb0tLdTVTUjhzanNQMjRWVGhIeE9EejVQamUwRndLaG1lb3VEOC1UY3FfaHFLSW1LREMtQVNCd3VURzZzeW5rUG13?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "CP24",
    "region": "CA",
-   "date": "2026-11-20T16:10:29+00:00",
+   "date": "2026-11-20T14:49:54+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "United States",
     "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇺🇸 🇨🇦",
+    "also": [
+     "Canada"
+    ]
    },
-   "topic": "Society"
-  },
-  {
-   "id": "b484d59e7f",
-   "title": "‘Guys, this is f–king stupid’: Tempers fray at committee on Bill C-39",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTU0UzVfRXlxeWR2WVY2dTBUZ0R3SklHSnJZbGhhNVdzeC1GeVlieFVDbnRWNGRyV3pHME1UMjBhTGJqcjdhZXBvcVMxWUNoR1lNSXhtVzhKVC1UTzNPZWcyYkpnVnBLTmRST2pvLU5RdVZnVmNpQnNzYWNHaHRWeDBGSFFhUVRZT1RRTmdGeV9sV0tLanNNVE0tejg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "National Post",
-   "region": "CA",
-   "date": "2026-11-20T15:49:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "2a8904ca1f",
@@ -575,6 +507,78 @@
    "topic": "Politics"
   },
   {
+   "id": "779c661e76",
+   "title": "Pegasus lunar terrain vehicle passes NASA design review",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GeEVyOHJrZ1d5V3VTakREdUJud003bGtkckRtZG1jYWVFVHgwanhyc3oxWEwxTXpnVXB4MlVVd1JfR01hT2FXdWN3Sk5iVS1uM2l3UHRHQXZQTVo0SUFEcU5aTk00Qkk4YWpjVnUyUU1GSm5lQmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SpaceQ",
+   "region": "CA",
+   "date": "2026-11-20T12:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "62a0a86dae",
+   "title": "NATO condemns Russian violation of Polish airspace as Ukraine allies hold drills",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3hGTmdmR183eVRxdnRxa2xhSmEwNkpPcjM3WGx5R1VnbXl0RTY1ZGNnQ1ZLb0tjXzdtcG9wRm96Q1pfa2p6cFhDT1pFTlZmOVdKZl8zZkNLd3dlOUZBdlJ0THRqU2Q0SHdlMW95YWFBM2lEZ2JtdlVyTEVYNUZGX0k2aUlpd0FiTjR0OWF5bjhfSjM2c2paRVdR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-20T11:35:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇵🇱 🇺🇦",
+    "also": [
+     "Poland",
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3d728eca61",
+   "title": "Ontario Liberals to select 3rd new leader since 2018",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFk3TVY5YWZGTlBwSFNpMFJodjdNaWJrS3lHN09iXzBtYV9BVEkzOHM1WVFuVUEwM0RtdlJfSzZ0SXhDcUxTNk9UcGpBVEI3dGRpQllhNlFlMzRPcGtXQXFBOEM5N09sa3lhUnhvU3k4Mjl1NU9IVURSVkszc0RRek9EQWk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CityNews Toronto",
+   "region": "CA",
+   "date": "2026-11-20T11:29:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fc1f165f1e",
+   "title": "Two more Ontario educators’ unions vote to strike as contract talks loom",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMm9BVzExOEdqbFJ4bzF1S1NkbkdHWFQtQ3JJYk83Nm05YjZuZGVPRnBZSEVibzhTblJqNFA4cFZPLWp3bFgtRzk4SnRzSnh6OERYb0lwMjVTNW9QT3VmeW9PVHptVXdycHl6a044b1o2c3JtUEVTYkdqcUtNYUJSTmV1WFcyeUNJczk3MEkxZGpoa0VHLUd2REZmSkZrMDNBVF9tejZzMVBwaC1uUkc2eVVtaUZORmhiU2htQ1NpT0YxcWNWT2JQTV8tUWcyS3JLQ0o5T1p5X1RoZmdMaGRERVA1amR6bERBaC1QUzJrZDdFeDY5VGxERg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Toronto Star",
+   "region": "CA",
+   "date": "2026-11-20T10:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f0fdfd848b",
    "title": "Alberta legislation would give province control over bike lanes, cities to foot removal bill",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1SXRCRm14bVUxczB0d2xpRi1kYmlZMTN2UjJqaUgwOFVOdHZUazh3MVA1SnMtZ1I2N2Uwd3h2cWRqLThXNV9NQWFvVTBQenJNX29YeGYtQTIyN0s2aktLUFUydjlYbW1aTVJLcGxSS3Y?oc=5",
@@ -600,6 +604,23 @@
    "source": "Yahoo! Finance Canada",
    "region": "CA",
    "date": "2026-11-19T21:42:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c2ddf41f48",
+   "title": "MPs clash over Sunday sitting as marathon study of Carney's major projects bill continues",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWpBeEM5bDBUeXJmNzhRQnowQlBTS0EwdThsVUNocGxfdXJyR19zN2FpTGtEeTNXS2dQUHRXeWpHOUdGLUlJRmxNSnJ1TGxqRWJPUGhCS016VEFxWmZteVZoTm12UkM4S2pjc3BjSEM4Z1d0UVNTWWYzOC1uQ3ZKVTdmdUpsMFBLMDhMc0hoeER2WlAxa3BWTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-19T21:20:41+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",

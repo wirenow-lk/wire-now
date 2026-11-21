@@ -1,12 +1,12 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 60/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 67/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 45 stories
+OK   Ada Derana: 39 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 25 stories
-OK   Daily Mirror: 65 stories
-OK   Hiru News: 96 stories
+OK   EconomyNext: 20 stories
+OK   Daily Mirror: 96 stories
+OK   Hiru News: 100 stories
 OK   Newsfirst: 17 stories
 OK   Daily News: 53 stories
 OK   Sunday Times: 2 stories
@@ -15,28 +15,47 @@ OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
 OK   Google Warnings LK: 12 stories
-OK   Google Top Stories World: 63 stories
+OK   Google Top Stories World: 69 stories
 OK   BBC World: 24 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 84 stories
+OK   AP News: 90 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Poland says Russian missile hit its territory (6 outlets) | Denmark accuses Russia of plotting to assassi (5 outlets) | French police officers found guilty of racist (5 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Two company directors arrested over alleged R (5 outlets) | Trump seeks to penalize US companies that bui (5 outlets) | French police officers found guilty of racist (5 outlets)
 
-8 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newsfirst [1 outlets]: 21 Students of University of Jaffna Arrested Over Clash
+* Ada Derana [1 outlets]: Seven-year-old dies after parapet wall collapses in Balangoda
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [4 outlets]: No tsunami threat to Sri Lanka following 6.8 magnitude earthquake off 
-    important (also on Hiru News, Newswire, Reuters) - researching
+* EconomyNext [1 outlets]: Sri Lanka plugs $50,000 import advance loophole as banks, Customs tigh
+    no AI summary: saving the rest of today for important news
+* The Washington Post [1 outlets]: RFK Jr. initially downplayed measles. Now he must try to reverse its s
+    no AI summary: saving the rest of today for important news
+* Daily Mirror [1 outlets]: Rs. 1.66 billion spent on 72 stalled education projects
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur sta
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -53,79 +72,75 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Daily Mirror [1 outlets]: No tsunami threat to Sri Lanka
-    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [2 outlets]: Sandpapergate fallout: Warner and Khawaja hit by surprise decision
-    important (also on Al Jazeera) - researching
-    news search: 0 results, 0 about this story
-    read 2 articles: Newswire, Al Jazeera
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+
+Top 10: 1 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 5 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini failed (The read operation timed out)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  summary translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: Diesel leak reported at Bloemendhal fuel storage terminal
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* EconomyNext [1 outlets]: Sri Lanka rate hike aimed at curbing oil spillovers, anchoring inflati
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: French policemen convicted of racist assault on music producer
-    important (also on The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Migrants caravan in Mexico walks towards US border
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 2 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
+    "code")
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 42 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 42 story pages for Google)
 
-Countries: IN 38, PK 33, BD 38, US 38, GB 36, IE 35, CA 37, AU 37, NZ 31, SG 30, MY 33, PH 32, AE 38, IL 30, NG 32, KE 34, ZA 35, GH 25, FR 33, DE 34, JP 7, IT 34, ES 33, BR 31
+Countries: IN 36, PK 32, BD 38, US 38, GB 36, IE 37, CA 38, AU 36, NZ 30, SG 30, MY 34, PH 30, AE 38, IL 31, NG 32, KE 32, ZA 36, GH 24, FR 33, DE 34, JP 7, IT 34, ES 32, BR 34
