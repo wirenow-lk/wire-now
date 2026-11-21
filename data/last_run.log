@@ -1,125 +1,79 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 75/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 43 stories
+OK   Ada Derana: 41 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
-OK   Daily Mirror: 65 stories
-OK   Hiru News: 90 stories
-OK   Newsfirst: 15 stories
+OK   EconomyNext: 18 stories
+OK   Daily Mirror: 64 stories
+OK   Hiru News: 89 stories
+OK   Newsfirst: 14 stories
 OK   Daily News: 51 stories
-OK   Sunday Times: 2 stories
+OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 12 stories
+OK   Google Warnings LK: 11 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 24 stories
+OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 93 stories
+OK   AP News: 92 stories
 
-Biggest stories right now: Sri Lanka Supreme Court clears Prevention of  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Denmark says it thwarted Russian plot to assa (5 outlets) | States agree to UN talks aiming to regulate ' (4 outlets) | Tech stock sell-off drags markets down as Ant (4 outlets)
+Biggest stories right now: Sri Lanka Supreme Court clears Prevention of  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Denmark accuses Russia of plotting to assassi (5 outlets) | States agree to UN talks aiming to regulate ' (4 outlets) | Judge approves $7.25bn settlement for Roundup (4 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Guardian [1 outlets]: International talks on controlling use of autonomous weapons collapse
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: CBSL raises SRR after three years to curb excess liquidity
-    no AI summary: saving the rest of today for important news
-* Politico [1 outlets]: The GOP’s unlikely new duo on Capitol Hill
-    no AI summary: saving the rest of today for important news
-* Newswire [1 outlets]: Third salary increase for all public servants and teachers in January 
-    no AI summary: saving the rest of today for important news
-* BBC World [2 outlets]: Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's 
-    important (also on BBC) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: USDA, FBI breached by hackers amid spate of tech outages – reports
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+* Hiru News [2 outlets]: Honda and Toyota recall 1.6 million vehicles over Takata airbag ruptur
+    no AI summary: daily limit reached
+* Hiru News [2 outlets]: Government plans new apartment projects to tackle Colombo housing shor
+    no AI summary: daily limit reached
+* EconomyNext [1 outlets]: Sri Lanka central bank to get marketable bonds next year to mop up liq
+    no AI summary: daily limit reached
+* The Guardian [2 outlets]: Princess of Wales speaks about impact of cancer diagnosis in BBC film 
+    no AI summary: daily limit reached
+* The Guardian [2 outlets]: Federal judge denies request to release man shot by immigration agents
+    no AI summary: daily limit reached
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
-  photos: 7 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+  summary translation failed (no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code")
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+  summary translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
     "code")
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 42 story pages for Google)
 
-Countries: IN 37, PK 36, BD 38, US 38, GB 35, IE 36, CA 38, AU 37, NZ 31, SG 30, MY 33, PH 28, AE 38, IL 33, NG 30, KE 33, ZA 34, GH 26, FR 32, DE 33, JP 10, IT 34, ES 34, BR 34
-
-Posted today's Top 10 round-up
+Countries: IN 37, PK 34, BD 38, US 38, GB 34, IE 36, CA 38, AU 36, NZ 31, SG 30, MY 33, PH 29, AE 38, IL 32, NG 31, KE 33, ZA 33, GH 27, FR 32, DE 34, JP 10, IT 34, ES 34, BR 34
 
 World Pulse not made this run: no AI available for writers
