@@ -1,49 +1,68 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 58/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 60/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 44 stories
+OK   Ada Derana: 45 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
-OK   Daily Mirror: 62 stories
-OK   Hiru News: 98 stories
-OK   Newsfirst: 16 stories
+OK   EconomyNext: 25 stories
+OK   Daily Mirror: 65 stories
+OK   Hiru News: 96 stories
+OK   Newsfirst: 17 stories
 OK   Daily News: 53 stories
-OK   Sunday Times: 4 stories
+OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 6 stories
-OK   Google Top Stories World: 66 stories
+OK   Google Warnings LK: 12 stories
+OK   Google Top Stories World: 63 stories
 OK   BBC World: 24 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 82 stories
+OK   AP News: 84 stories
 
-Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Cost of living protests sweep across Europe (5 outlets) | Poland says Russian missile hit its territory (5 outlets) | Denmark accuses Russia of plotting to assassi (4 outlets)
+Biggest stories right now: 2027 Budget second reading passed by 97-vote  (7 outlets) | Sri Lanka Supreme Court clears Prevention of  (6 outlets) | Poland says Russian missile hit its territory (6 outlets) | Denmark accuses Russia of plotting to assassi (5 outlets) | French police officers found guilty of racist (5 outlets)
 
-3 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Race [2 outlets]: Penalised Antonelli beats Verstappen with both Ferraris out in Q2
-    important (also on Al Jazeera) - researching
+* Newsfirst [1 outlets]: 21 Students of University of Jaffna Arrested Over Clash
+    important (serious news) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [4 outlets]: No tsunami threat to Sri Lanka following 6.8 magnitude earthquake off 
+    important (also on Hiru News, Newswire, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
     -> no cards; posting with the site's own summary
-* BBC [2 outlets]: James Harden passes Kobe Bryant for 50-point NBA games
-    important (also on Al Jazeera) - researching
+* Daily Mirror [1 outlets]: No tsunami threat to Sri Lanka
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Sandpapergate fallout: Warner and Khawaja hit by surprise decision
+    important (also on Al Jazeera) - researching
+    news search: 0 results, 0 about this story
+    read 2 articles: Newswire, Al Jazeera
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -57,8 +76,43 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 429,
     "message": "You exceeded your )
     -> no cards; posting with the site's own summary
-* Hiru News [1 outlets]: Dayasiri questions mandatory remand provisions under Anti-Corruption A
+* Hiru News [2 outlets]: Diesel leak reported at Bloemendhal fuel storage terminal
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* EconomyNext [1 outlets]: Sri Lanka rate hike aimed at curbing oil spillovers, anchoring inflati
     no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: French policemen convicted of racist assault on music producer
+    important (also on The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* Al Jazeera [2 outlets]: Migrants caravan in Mexico walks towards US border
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (503)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 2 fully explained
   reader summaries from the website: 0
@@ -74,4 +128,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 42 story pages for Google)
 
-Countries: IN 38, PK 32, BD 38, US 38, GB 35, IE 36, CA 37, AU 35, NZ 30, SG 30, MY 33, PH 33, AE 38, IL 31, NG 32, KE 35, ZA 36, GH 24, FR 33, DE 34, JP 9, IT 34, ES 34, BR 32
+Countries: IN 38, PK 33, BD 38, US 38, GB 36, IE 35, CA 37, AU 37, NZ 31, SG 30, MY 33, PH 32, AE 38, IL 30, NG 32, KE 34, ZA 35, GH 25, FR 33, DE 34, JP 7, IT 34, ES 33, BR 31
