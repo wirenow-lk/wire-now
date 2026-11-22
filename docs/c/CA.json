@@ -1,24 +1,44 @@
 {
- "updated": "2026-11-22T02:27:46.983066+00:00",
+ "updated": "2026-11-22T03:22:47.787299+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
   {
-   "id": "34a6c34842",
-   "title": "Ontario Liberal leadership race recap: Navdeep Bains named new party leader",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXBzcnRKUnpLRHp0dTRkS2dpQjJHSzNYU3hsUzJKZm42UEhNSGxjV0pPd1RNbFVMNzExMDBiS2x1am5NM2VUc0I2SmJTbUpYakQtVzdEb2V5Yl9kbmFfbmJJRThfWFB1QjFLcjFmeFZaY2NfbjR4clZEQlhFai1TZ1NrelBmRENtbkpEeDdrM2JlWWdQb0JDVlIxcE9uRktTRmk4NG5iMzFXMXFMOVVieXFDTjRkR2MtWG12UEVKQmZ2QVk?oc=5",
+   "id": "7ea11df5c0",
+   "title": "Stabbing in downtown Toronto leaves woman in serious condition",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0ZIVHBjcUFUYWt1YXM0UlktZ1g1RDdQWkg4cXBpLTlKRkptWHNpaGxfNVFob2l1NmxtMVBVUVdlQUY5c1NjLUdNSUdlU09mZ1M1LVQ5R2NocDZhb0tseWpKRmVZZTV3V2tqb1pfdnNyUTJqU21OUlFfTFRCV2wzeEM4T1NiOExwWlBZVkV2NGNFYlVGOEFwRWM5TXN6dlE5RTJLUGhhSVc2M1R4ZUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Toronto Star",
+   "source": "CP24",
    "region": "CA",
-   "date": "2026-11-22T01:09:00+00:00",
+   "date": "2026-11-22T02:32:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Politics"
+   "topic": "Society"
+  },
+  {
+   "id": "bb4b3dda4d",
+   "title": "Canada unaware of U.S. changes to military cooperation policy, McGuinty says",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wRERidFV2N2tWYWZrYW1KNU1HT25Lbkp1eEhnT1dDOF93cXNRd181eGhrMTBudkNoRk8wM1hIcGtOQ0Z6SldfLUgyTE1pVzU4b0NiZjBXeVVCWUpmekJfTE9pLVM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-22T00:37:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "25d8303f3b",
@@ -38,6 +58,23 @@
    "topic": "Society"
   },
   {
+   "id": "09ffe35561",
+   "title": "Ontario Liberals elect Navdeep Bains as new party leader",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2tGMVBodWxsQkNwVGRyMndQV1cyTUJQRFZrSVN1S1E1VkdieGV1SFdhSXdNZTM5cFpVUm5mbjdQcFlPWlVlX25UWXphVWRoY0p4LThTX3FOVmMyMWJXcWdKUWRCMUl3QTlrOGdfdk13N05iR3czZmpjZHBCQzlSbGZFQzc5SjQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-21T23:57:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "06e8012a1f",
    "title": "2 former Montreal police officers charged in misconduct investigation",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRVpSbjlEVkFuM3hTQXN1QUJKYkF4azFmNEROQlQ3ZjRVa3JXUExYY0JmT0VjRjhZQ3duSTVGOTR3SUxEd2VNZXlsWnBZVEVUTDVhMzZkem1pbm1nWDNCN0ZWZGZDRkI5RjNrdlFSV29TNVAxQXpHcEN6RURqNGwyQ2dqcGJlWDZ3MU5SVktn?oc=5",
@@ -53,23 +90,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "32da3de264",
-   "title": "Oilers get reality check in loss to defending champion Hurricanes",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0VhRDg3eHA1WmoyU2NJZGd6UnVnVHlDUEp3Yjh6cjlRdEF5bDF5WUZ4X1RGZW41TkhRSWpjbjRma1ZQSERQSjF4Nnhydm5RWXV6RnVGYS1nY1ZiT2FXYzV2bksxOXg1Y2gxWkNtaW0yaHRYMlNxbnVuMDBibmd2dVpYT3pfYy1PNWxUZDhVYkxvQnVRWmlrNWg2d280MGZ0NElfVHZn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sportsnet.ca",
-   "region": "CA",
-   "date": "2026-11-21T23:39:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "c62185e434",
@@ -89,14 +109,14 @@
    "topic": "Society"
   },
   {
-   "id": "c3c9f14f55",
-   "title": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3VaVTRJN0JLcl9ZRHhiZkRQSUc3TmJwaGVpTHpBX2dNM1cyQnVZNl9UWVFQTEY4WVZNbW4wa1ctMmV3SVZSMWR2MWVtNDVWX2drblNETEZGZXZoZ0N6M1dkQ0ZjSWJ3ZEs4SEJ3ckJlTmhueUxFVkk2LTdPMkh6MmpHMnFocS1WMkE?oc=5",
+   "id": "f7218f9e67",
+   "title": "Canadiens vs. Flyers: Game thread, lines, and how to watch",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXV5UkVTZnNvc3NkendhV0JHYzFVZGdwZDdSRWE1Ymt0eWZnQ2JfSjhDREVHc29UV1prV1VfaEZvR0FWMXh3UnFZbW5tQ3E3NXVSZzFZcXlrNHdoX05wWXp4ajJuU1dDU3pLWDZkWWZVeUlBUjZTczdwWFZUQldERm5hdGZwdUhUMHlfUjBQcEdIelZrTU81bVdzc1F1UzVsRG9yb1hzOU82WXlPbVh3?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBC",
+   "source": "Habs Eyes on the Prize",
    "region": "CA",
-   "date": "2026-11-21T22:45:10+00:00",
+   "date": "2026-11-21T23:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -140,14 +160,31 @@
    "topic": "Society"
   },
   {
-   "id": "7589fecd13",
-   "title": "‘Near-zero visibility’: Fog advisory in effect for Toronto and parts of GTHA",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWpKcXYyQnFWWHBjcWhQZE1kdzRoRndDTngyQjd4SEpHaDBQQjJaUEJqbGtVbjVHUEF2cS1wY1FaZXBOV1hHQnFfX0ZfSkVFSGN2QTVtM3dBbjFyQjZfV1pTcjJwaEFDZmZTS1NjUTJPclluZE40ZXhUVmgzWHNJNHNXVFhHcTB1WUVZTUlSaW41UWJ3U3ZmTkpVa0dlZEZDYktYclpIWWlzTVNWakNtaHZKQWMyM0dXM0ozYQ?oc=5",
+   "id": "4687d1e8e1",
+   "title": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTFlMEtKYm1odmQ4dzRLQ0JFd3N6cnlhR1dDeTdhT1RoWHQtYzIxU2RJTDJDc1phM0EzN1duaHdvU2xBVlJqRmN2UHZtNjh1NTRoX25BQndKNTlSX2pIQm5hYkRlYmNxamQ3V0R0RzVhdEFvemdIQi02VGtkYzg1THZNeTY0VFZHQXQtcjhiX3FNbmwz?oc=5",
    "summary": "",
    "image": "",
-   "source": "CP24",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-21T21:56:31+00:00",
+   "date": "2026-11-21T22:16:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Mexico",
+    "place": "",
+    "flag": "🇲🇽"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "55d7bbbe6f",
+   "title": "GTA 6 Review Score Discrepancy Has Fans Debating Its Metacritic",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDkwbGFjME9JMnRsalctNTRLQVhFRTRmR195ZEhvZldDRnZXUjdwdExkOGVhY2MtSmJrSFBHYnVJUVp4Z2xqZTFzeWhPUm5wS0Y4QTdqd040ZXNfdktZekxvamgtVjE4OXhra1JUTUx6VUhtUWdNSERscXN5MEl4RA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScreenRant",
+   "region": "CA",
+   "date": "2026-11-21T21:58:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -199,7 +236,7 @@
    "source": "The Globe and Mail",
    "region": "CA",
    "date": "2026-11-21T19:48:16+00:00",
-   "coverage": 3,
+   "coverage": 2,
    "location": {
     "country": "Canada",
     "place": "",
@@ -259,23 +296,6 @@
    "topic": "Tech"
   },
   {
-   "id": "ad480523f7",
-   "title": "Alberta's Smith says amendments coming to proposed bike lane legislation",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnV3OS1VZVNZbVVJMWljc053ZktMMDlzREtYV1F6QXc1Yl9lanQzRjZHeHNkS1J2QS1hRFpmRnVFM2FVdTZGODNLdUhpejZrdFM5c0lRQ2pKQ1cxTG54Vzd6RWo4UldvNzhGemJlNWF1a2xlc2NiQWRsUUNyc0p5eWJHUDdLb0h6MlpjRGVjNDExdEk4b29ObkVLX3RhTkxLOWZIdW1Qemo1SkdYWGxRR3I5V0o1eERq?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Castanet",
-   "region": "CA",
-   "date": "2026-11-21T19:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5d6c9caf61",
    "title": "New documentary: Princess Kate speaks candidly about how cancer changed her body and mind",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0pPOVJUVUdQQWhvYTZNVXhDR3ZDdHRfY2pYOUlFalU5WVlVTzdRYmpyNm02LWs1VEI2b2hzaEZTR2s1MTN0NWwyU3NZdDF6Zm9oOU92aTk3cWl3dHdZYlVacnRzTHFTU2tjSW5jb3ZWQm93SjA4YWpoUVpLVmxIOWZCYVRwQjJvd0lMS2tCbFhEWmRSMnp2TG5uX21jaTkyaFBSaW9oX1lpVUJRZndSVDhNTGw4VmdHWHpjWEpTZzRIZw?oc=5",
@@ -310,23 +330,6 @@
    "topic": "Society"
   },
   {
-   "id": "c39e19ebfc",
-   "title": "Saskatchewan reports 11 avian influenza cases in 2026 so far",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNV9yWi1idkhCVy1RemdLYVBXQlRoSmJHa203YmRlQ1RteGFjTkRaTVhmd2dCYXptX1E4WFdrcmRJOW0xNlpvSllNb2wwUXNFRUw1YjQ1RVJ1WFNsY2NTR1hldnhPZDFJOG93VlhTRVZoaXZ6OWdGUWRGR2RtNDFsNzNfT1lXdzNJampxMUdkaGlsQlZoYXo4VWpnYl9FT3dXOFJpSA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DiscoverMooseJaw",
-   "region": "CA",
-   "date": "2026-11-21T17:31:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "eae398f29b",
    "title": "Space station visible this weekend",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vdHY2akNuYi0tcE9CcUxLU0pBMmwyUnVGemdxOTlRU3lXSWU2dEp5Ym1MUFhMcWVEcWdFM0hkb0x4bmR2SnRkYmlNdk8tc2hKYmdFempBOGlXY2JKM1B5Ukw1ZFZ3UkF1QmlEOHJsT29CbTVmMXQwVlFDcHVndw?oc=5",
@@ -344,19 +347,19 @@
    "topic": "Society"
   },
   {
-   "id": "89873aa65b",
-   "title": "Katy Perry and Justin Trudeau put on united front in Italy after Russell Brand's shock marriage admission",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYi1ib2g2TW15d1c5QmFDYzlSVU0temE1RmZjU01meTRXcVhQQ0pfMmxPRWtULXJxSU1tdVlTWVpVNWVoUHVYaHBGeFBBZVFvQXNuenZ4MmtQZExOU3FlMWFYVHNIOGVLLVdEZE4tQmE4RTY0V1pUa004eFM0UmRQclJmR2E3MERKemVIRWhLWk9UYWd3X01Fb1NEVWxhSS01bXdzQ3N5Qkc4QmIyQ25yenpzLU9EUUdkQ3hvWlRLcmV4Vi0zaDNlczNoeTFrS0RVd09sY0RDYlFFeW9HaU10X1RObkR5WFFW?oc=5",
+   "id": "4d79d38688",
+   "title": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUw4cTVYRTY2bjROcGdCVThmMEJqaENWQmVaV0F3TGpOakQyT3RlYUZlYTJweWE5LWJ2Y25GRVBpVVgwcmZlekROMGQwYzgydHFQdzVTb3Bkc2JOd3hIUGpVTkpBdUpjNVF0c3IzX25NVlQ4OVNGdm1WTmI1a2JoNWwwajVCSkxFa3NHV1pNNnZBSWFzUXlTOUZ3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Page Six",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-21T16:13:00+00:00",
+   "date": "2026-11-21T15:50:52+00:00",
    "coverage": 1,
    "location": {
-    "country": "Italy",
+    "country": "Canada",
     "place": "",
-    "flag": "🇮🇹"
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -378,19 +381,19 @@
    "topic": "Society"
   },
   {
-   "id": "6fe7afe0d5",
-   "title": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1NGaXhMWmRTR1hiOVN5cW95M1A1OEVPSUNDTEg5Um95b2ptUlRVdTkya0JxVDd6VUZlQW5CbzVOUkVUcl90R2RtOUJnWDZaMmJDMGF2M0dTYk9WZ2Fnc3FOY2lwZzRCZGQ5U01EVEZMNVVDNF9FZkQtZUxzZFJ3NmdvTXVScVBLT2VwaVZLMzFoWlBLbmRLMDVrMVZvY1FrZUViMmUzbWFVdGI5M2kySTRkMWR2eWc?oc=5",
+   "id": "e2dd9381f5",
+   "title": "Environment Canada reissues yellow fog advisory across GTA",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VbzhHQjA4NDNnZ00tdXlGQlRHSXd0NGxCZ25KazRwQ3gyRmRleEtEak9oY2VwU2haNldnTGU1Tjk2VklsOGhTUHdJUVB5OGNXMkNIZjJteFhNZWlFS0hTSzRRcnZXamd4TWRlbXZvekMwdU0?oc=5",
    "summary": "",
    "image": "",
-   "source": "Euronews.com",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-21T14:20:35+00:00",
+   "date": "2026-11-21T13:26:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Mexico",
+    "country": "Canada",
     "place": "",
-    "flag": "🇲🇽"
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -539,6 +542,23 @@
    "source": "CBC",
    "region": "CA",
    "date": "2026-11-20T22:11:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ec94e93c32",
+   "title": "Retraction: Pharmacogenetics of morphine poisoning in a breastfed neonate of a codeine-prescribed mother",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGNkdFdlR01BUVJJUzNOQ2RsRjlIdUNYcTZPajRMODNra3ZUVXA0YWRqVTlCTDN3MUd4MjgxUUtxbGtaWFJDcXAwNjZoZkZWOFZaSHRhc2s0VDVSVDZUYW02OHJmN3FRaTJQVERPMENLMkRCRXhWZTNkQldGNmphY3VBVnJnVkNTR1BKdlU1ZXpGWS14YkQ0ZkE2RXpiMUVDaWF1MkVWeTFMaW5kRnRoLUNiZFlBWHlqcFcyWFRGZFB3TFZlQ3JDSjA4akxCbzJXelNF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Lancet",
+   "region": "CA",
+   "date": "2026-11-20T20:45:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",

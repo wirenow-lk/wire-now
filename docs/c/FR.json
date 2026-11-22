@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-22T02:27:46.983066+00:00",
+ "updated": "2026-11-22T03:22:47.787299+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
-  {
-   "id": "e85619fcdd",
-   "title": "EN DIRECT, guerre en Ukraine : le point sur l’attaque par drone d’un cargo russe en mer Baltique ; la Finlande soupçonne un hélicoptère russe d’avoir violé son espace aérien",
-   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPcVVjVU10d2E0ZjczYk52ZXJrYXpFWkR3WUQyUGVGTUZpREJ5cm9OSWsxTjJrTTlFTHNvd2p6LVNFVERzWWRJcmlGbDF3R29Rc1FnaXBwZDNSUUFmZ0hJLWNiQjhHVU9QclhNZGxqRkFiNjk3UHlyUDZmdlpGbF9uVjVKVW5iQjhiVjQ1d0N0TmhsRkVXbFZtQ3hwY28wWE5Hak44UzljcUlUV29pcE9RUnlsdlE4MExuNkUwZ2p6SGQ5OEFFbWpGbWc2Vng0V2Y3RS1SelNlbzdYb0xWZlc1YU5vbmUzY3Z6cExSTHJJdGZxVzNHNEs0dGVScUVWT1pCa0hNZ1E3MEFSbUN2S05YQUJBYmFpcndKUGhZQmZ0UGxLd2hBUmpXREVBQUV1OXMwbjdTbXF5cl9UOXNEczIySHNCVXZwVTRMOC1Cbjg0Ml91OUxhZ1VmUEJTWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-22T01:26:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
   {
    "id": "46decf3f42",
    "title": "La montre connectée Garmin Vivoactive 5 passe à 159,99 € pour le Black Friday 2026",
@@ -46,6 +29,23 @@
    "source": "L'Équipe",
    "region": "FR",
    "date": "2026-11-21T22:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7b3ddbc8af",
+   "title": "Colère sociale: 150.000 manifestants en France d'après l'Union étudiante, le ministère de l'Intérieur recense 82.500 personnes",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOeDdRaXNBWjBGNUprYUdLRE8yZV9CX3kzQUo0aktOajVtVU5Ca21SN0l0MUVTakJtMjdVYWx5VnBjb0dIR1dyS0h0NXg1b3A1elQxWG5IQi1ySlE0LWhMR0pxQUZzTS1KbFpjQXllUHdmOTRXaWNWM2xkeE1IZEh6NUZ1RUEyT1pULXZsY3BJb2taRXFNWmNGX1V2bGFFb252QkczX3ZXVW5zUXFPM3VIb1dXSVJ0Ykw5Vm9Xd0Via1ktM3FqeFNrQTYzaW5KWUNCQjV4WXFlV2J3QjBRS0tLY05QLWpRS3dCV09XR2R6dVpGR1luVzlFUHFXUjE5N3dZaFJqeFp0bGc4TnR1Y296WkRPbTQ5NENmdGlCSVl6N0k3U0stQkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BFM",
+   "region": "FR",
+   "date": "2026-11-21T22:38:14+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -100,23 +100,6 @@
    "source": "Le Monde.fr",
    "region": "FR",
    "date": "2026-11-21T20:00:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "505061efde",
-   "title": "La SNCF défend ses agents après le déraillement en Normandie",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbnFnQVk2Sl9EVUZKQTRkSWh5RXFjdWl1c3NZQ09mMWNZcmhweENHdVdsV0E3VnRjX05JSEM3d0FieF9Zay1Vd0VjRE11UUpCM0NDa3JUMlV3WE1WWFU2SEs2WWtfLUc5b3E0bjhfX01rM2FZQUNRRW9FZXQ4TTZpV05hdlg0OXNDbUhKYUpFLUZ1dEZaZThPMHQ3ckoxUnBUbG5ocjA0MDlRZUdWMjB4bzJhQ1NVazExMEZB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "20 Minutes",
-   "region": "FR",
-   "date": "2026-11-21T19:26:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -228,14 +211,31 @@
    "topic": "Society"
   },
   {
-   "id": "062867bc5e",
-   "title": "\"Je prends acte de l'impasse\" : François Ruffin retire sa candidature à la présidentielle 2027 et souhaite \"bonne campagne\" aux candidats de gauche",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUHh5Tm5FZTlSaU4yaFhpX2RkRWotYU9DMEdxLUNYYVdrM2kwanNIV2NmVWxUbHJqdmNFaW44YkhzLTZaNWVpTHFxNHY4Uk5CNVNKaXhQUlZFOTBPOUpyNDBkN0tYM0d5T1BIdC1WZGZUNGVaVkF0UG1XQjNBWWRwNTRGVjJHZTdlV2k1bzRYNFJaUktvVldLdHItTnpzTUEyejlWS1ktdzVrR2VuS1RqUHFWMEcwRDJxbXBrQjc3d0lnYVA3OUVXQU5oT0xmOElKYVRpSTYxZWpDaVZlc1R4WGlacWJ5OS1lS0xrUEtQRkU4YkhaYkR3a2lJc1YxeXVqaHJTYVRKdWxIazRTOVlTZzRhaXU?oc=5",
+   "id": "ab5ee1889d",
+   "title": "Guerre en Ukraine : L'Otan défendra « chaque pouce de territoire polonais »",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnM0WmVQTnBQdjhOS0swbDU0ZFh4LWpBRUdUNXRoVURya1pScHQzaUJHUlBPbDhzS3ZhdnBpR2ZBN0VOQm0xZlVVRWZSSWp2SXlhMWdGcDRUa1k5dXlsMnVDWVdxNThHbmk5WXdiZUFNOEcybnA0T1pOSFUtLUl4M0phejlrWHVPa0drRGkwMFk0a3YxVnVKY1F0bU5OZkZFMGsyYW44amJjeDlUN1g2aTh5bnJyV05r?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTL",
+   "source": "20 Minutes",
    "region": "FR",
-   "date": "2026-11-21T17:09:00+00:00",
+   "date": "2026-11-21T18:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2e1e810840",
+   "title": "VIDÉOS. 3 300 manifestants, cortèges sauvages et lacrymos tous azimuts : un samedi dans la confusion à Toulouse",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORzI2MVdYdjZ6UWI5VkVrVXZwOUl2THlWOXhMZ0dGTjFZRV8xbk8tV2pfVzNfT2J0T1JtWnRDRkZwTk85QmlDWjJPNGRJZHFGR0VUcWpyQkNNNmNxeHJ0VjJDSDZZSkNMVi1WRkVtZ2pDMlhBU1pZUi1hdXZyUWo2MGdqdk8yaTFoOVZQZTVmRzhKM3pGRW5PNzNjMU1lWktWMi1qS0ltbWdkbUFaendZU1AwcEtSWnlfQlBJVnVWckFRcFgtYmVSYzB6cDB4dGM0M0hVbmx6RmVGNnhDV1VfeEhjRW5TeThIbUtZNnZLY24tazY2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Actu.fr",
+   "region": "FR",
+   "date": "2026-11-21T17:37:42+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -245,14 +245,14 @@
    "topic": "Society"
   },
   {
-   "id": "a6a1e185d0",
-   "title": "Promenade féerique, feu d’artifice, dancefloor au pied du Château-Neuf… Revivez le lancement des Lumières de Laval 2026",
-   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPMnNkM2dXVnNsUmIxNHlLa19hQUFXc2d5TGNCTVdBeVRpQ1VRdUViMDB4X0RoUzRGb1FjMzI1MDVqQ1ZVbFkxMUFuVjFhNG9qbkx2b2RJRFFqa1d4bjZfUU9xQVpvOW15RVU4NWdyV3BxVnZkQ1JrUXJhUGlkazdHbWtfQ1R6ejlHQkl4M1o5MmRzN1pIR25Cb05yeW4wd2hkejVlNGlYVF9qUzlQRmFCc3pvS2dUNFNsU3dvdndsRlRuc0s5WmZuSGdKaGs0NE5HelRoQWpGdU9WTFlVc2Y0NGRjcVVxQkUzYjNBcUY3Y0JxRjJTaTNsU1BubmtLaVdMdjlsQTR0c1RZSjFMVHR6NVRXT1M1T2NqdWgzQ2VZaWdmNkRxd0FtNGNLbkJYOFhOYWdjWE5kQVVQbnplVUw3NUNiY0NGcTZQ?oc=5",
+   "id": "062867bc5e",
+   "title": "\"Je prends acte de l'impasse\" : François Ruffin retire sa candidature à la présidentielle 2027 et souhaite \"bonne campagne\" aux candidats de gauche",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUHh5Tm5FZTlSaU4yaFhpX2RkRWotYU9DMEdxLUNYYVdrM2kwanNIV2NmVWxUbHJqdmNFaW44YkhzLTZaNWVpTHFxNHY4Uk5CNVNKaXhQUlZFOTBPOUpyNDBkN0tYM0d5T1BIdC1WZGZUNGVaVkF0UG1XQjNBWWRwNTRGVjJHZTdlV2k1bzRYNFJaUktvVldLdHItTnpzTUEyejlWS1ktdzVrR2VuS1RqUHFWMEcwRDJxbXBrQjc3d0lnYVA3OUVXQU5oT0xmOElKYVRpSTYxZWpDaVZlc1R4WGlacWJ5OS1lS0xrUEtQRkU4YkhaYkR3a2lJc1YxeXVqaHJTYVRKdWxIazRTOVlTZzRhaXU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ouest-France",
+   "source": "RTL",
    "region": "FR",
-   "date": "2026-11-21T17:00:54+00:00",
+   "date": "2026-11-21T17:09:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -321,23 +321,6 @@
    "source": "Diverto",
    "region": "FR",
    "date": "2026-11-21T15:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "10a8917413",
-   "title": "Face au barrage policier, des manifestants contre la vie chère déterminés à contourner le dispositif à Poitiers",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcklOZ3ZLY0NLSFZYbDR5X2Q2WWU3YkJUZlhBUjRMQnljMHJiRERGbmp4RTR5RjRWb2g5NUJmek9ETmZsWWNxSnpVQm9BSlh0REVBTjQ1UGFyZVhuTmU5VS1NeTQ5QmtCaWdLMVIxVFZRcDBaNFlNbTR6bHZaMVZxc3ptYVI1WkduZjFsclpPbWlYamVXN01LbTA1anMwdHF3WkM3NzN6dUd3dHl6ZDJGVUNiLVVXeHp3dllyNEhkT0wxRkhlbHgyZkFUZXlfUjhfRlppbk4tNHFwN2wtZWY1T2ExNnhtVzQtOC1iQUtRRzhSay1NamdZNGhR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "lanouvellerepublique.fr",
-   "region": "FR",
-   "date": "2026-11-21T15:03:17+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -449,14 +432,14 @@
    "topic": "Society"
   },
   {
-   "id": "333f77386f",
-   "title": "Anthropic ou le pari de plus en plus vertigineux de l’IA",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlFnV1E4UHJTNi1OUkVhSUZkLVFxaks1QUk1OGdlY2JEdG15eXBfTWVOVHdRN2tYazJzX1dXaDBzVmhuc0RtWkNJX05aVlg5T2lRMmFaZk5uVjJYWVIwX3NjNkVlVVA1aDV5U3pRMTA4eG5vd0NfeFF5eDVvVFNiWDVaLTBWQkNMUmo4UGMtTVJNQ2lJS01nZ0lTSDdNVC13Y0VVNTJlZTJ3cDNpcjNLb0lQTEFOZU5rbi1wZXlCcw?oc=5",
+   "id": "c9bc8469cf",
+   "title": "La campagne impossible d’Éric Zemmour dans l’ombre de Marine Le Pen et David Lisnard",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb2pBZm5ZS2U2NE9YM0xNQ09QTi00c05XRy03Q01oTzVTQm5pc3d6a3F2eVF5OVlSa21wNWIzZVF3RWdwOVZ3dXF1VDFMYWJSTkVZZTJKc3VRWmE2NGxwOG44azB5eXBVQUhWcEJQdzZfcDV2QjlmVFIweW9DRUh1djl3MG5XWE9pV2hsX3VKUGN5M2ZKYVJXSXZkY1cwMEVMVFllaG9oRDZjSEd0dE1UXzNqQlRfQWtkU1NhNG42YjNuS2R0NUwxbjdkT29aYy1BMHducWdhcUtsZmZX?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Monde.fr",
+   "source": "Le HuffPost",
    "region": "FR",
-   "date": "2026-11-21T10:30:10+00:00",
+   "date": "2026-11-21T07:30:03+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -515,6 +498,23 @@
     "flag": "🇫🇷"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "81c78e7310",
+   "title": "LOA : ce qui change pour les automobilistes à partir de ce vendredi 20 novembre",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWVLcVRnU0hPRzJJSWJURV9xSmg1aUVETVJtV0RCaXNVSTlXeFk0UEtIdTl4WTNuRTZDdGI1ejYzY08xQ0taQWp2aVpvdHgxUUJrN1dqUy00RDlqeFFBRVBmQTZlUUVNbVctQnloOUVMNE11dnlTYk1iTnJpZ292bU8xWEk0RVFVUS1nMnVIaERHT3FkeElPZC1CWE9meEZxT21SRUdFTGE1b3l4ZHl0MlJjMjg3NUM1QU9TYUZR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Figaro",
+   "region": "FR",
+   "date": "2026-11-20T15:38:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
   },
   {
    "id": "277ee8abbc",

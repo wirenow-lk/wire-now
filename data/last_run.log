@@ -1,53 +1,72 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 24/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 27/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 33 stories
+OK   Ada Derana: 30 stories
 OK   Newswire: 20 stories
 OK   The Island: 8 stories
-OK   EconomyNext: 9 stories
-OK   Daily Mirror: 75 stories
-OK   Hiru News: 86 stories
-OK   Newsfirst: 15 stories
-OK   Daily News: 18 stories
+OK   EconomyNext: 10 stories
+OK   Daily Mirror: 70 stories
+OK   Hiru News: 72 stories
+OK   Newsfirst: 14 stories
+OK   Daily News: 16 stories
 OK   Sunday Times: 72 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 10 stories
-OK   Google Top Stories World: 70 stories
+OK   Google Warnings LK: 9 stories
+OK   Google Top Stories World: 66 stories
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 83 stories
+OK   AP News: 64 stories
 
-Biggest stories right now: SC clears Prevention of Organised Crime Bill  (6 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Bahrain says Iranian attack causes fire at in (4 outlets) | Fairly heavy rainfall expected in parts of th (4 outlets) | FBI national crime database suffers suspected (4 outlets)
+Biggest stories right now: SC clears Prevention of Organised Crime Bill  (6 outlets) | 'El Chapo Isidro': Mexican drug lord on FBI's (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Bahrain says Iranian attack causes fire at in (4 outlets) | FBI national crime database suffers suspected (4 outlets)
 
-7 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Sunday Times [1 outlets]: One year after Ditwah, Maspanna fears yet more landslides
+* Ada Derana [1 outlets]: Public sector trade unions to launch islandwide protest tomorrow over 
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Sunday Times [1 outlets]: CID to probe Kavantissa death as doubts grow over conflicting reports
-    important (serious news) - researching
+* ABC News & Headlines – Australian Broadcasting Corporation [2 outlets]: VIDEO: Endurance athlete swims Strait of Hormuz amid war.
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Body found inside building near Nagawilluwa Railway Station
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Sunday Times [1 outlets]: Public sector trade unions on the warpath; Govt. faces salvo of strike
-    important (serious news) - researching
+* Hiru News [1 outlets]: WHO warns against using antibiotics to treat colds and flu
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [2 outlets]: Doctors announce two-hour nationwide trade union action over Budget 20
-    important (also on Sunday Times) - researching
+* Hiru News [2 outlets]: Parliamentary Committee reviews Sri Lanka’s tariff policies and trade 
+    important (also on Newswire) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Blurb uses 'reviewed' instead of 'discussed' or 'held discussions'.
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -56,51 +75,26 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 failed: AI did not reply with JSON: ''
-    -> no cards; posting with the site's own summary
-* Sunday Times [2 outlets]: LLD brings diverse ventures under one vision
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Sunday Times [1 outlets]: ONLINE 'Scooby-Doo' at Kids' Curtain Call IV
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [2 outlets]: Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: Claim 'The US and Mexico have been working together more because of pressure from President Donald Trump' is not clearly stated in the article; the article mentions Mexico stepping up efforts under Tr
     cards OK (attempt 2, written by openrouter)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: Details claim the building turned into 'smoke and heat,' which is not stated in the article.; Details and key_facts say officials urged people to 'avoid panic,' which is not in the article.; Blurb say
-    cards OK (attempt 2, written by openrouter)
+    attempt 1 rejected: the name/word 'Isidro'' is not in the article
+    attempt 2 rejected: the name/word 'America' is not in the article; the name/word 'FBI-wanted' is not in the article
 
-Top 10: 2 fully explained (1 new this run)
+Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
   photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 17 facts and 1 people saved
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 7 facts and 0 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 1 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 45 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 46 story pages for Google)
 
-Countries: IN 37, PK 33, BD 37, US 37, GB 36, IE 37, CA 35, AU 36, NZ 31, SG 32, MY 36, PH 27, AE 37, IL 33, NG 32, KE 30, ZA 33, GH 24, FR 32, DE 34, JP 4, IT 34, ES 33, BR 32
+Countries: IN 36, PK 33, BD 37, US 37, GB 36, IE 37, CA 36, AU 34, NZ 31, SG 30, MY 35, PH 27, AE 37, IL 33, NG 32, KE 32, ZA 32, GH 23, FR 32, DE 34, JP 4, IT 33, ES 33, BR 32
