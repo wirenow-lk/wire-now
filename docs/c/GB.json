@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:37:04.816099+00:00",
+ "updated": "2026-11-22T20:28:47.971544+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
@@ -11,12 +11,32 @@
    "image": "",
    "source": "TechRadar",
    "region": "GB",
-   "date": "2026-11-22T19:34:20+00:00",
+   "date": "2026-11-22T20:07:14+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "479cecb35b",
+   "title": "Russian cargo ship leaves Finland’s territorial waters after drone attack",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "GB",
+   "date": "2026-11-22T19:55:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇫🇮",
+    "also": [
+     "Finland"
+    ]
    },
    "topic": "Society"
   },
@@ -76,14 +96,14 @@
    "topic": "Society"
   },
   {
-   "id": "81a2ee6fdf",
-   "title": "Woman ‘repeatedly groped’ on tram in horror broad daylight attack - as cops release CCTV in hunt for suspect",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02RmwxeDN0Rm55Qkk1ajNoa2dWSW9uMkpMUmhlTmVNNUxKSFBLa2djLVF6ZVdoTjBvMkZUSXV1YlRVa0Y2WVZrRk8zYlNoRExzSnVnNmVhZGxmTkJ6VWZqaEtMdG5oQmZNdzYtTGFUQUcyUXU2?oc=5",
+   "id": "b3ce7cb7e8",
+   "title": "COP31 climate talks fail to reach deal amid fossil fuel and money rows",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WNzlGb3YyV2hqby14R3poNFFyVnU2cWhfUFhpNjZwWW03Q3NpSDdqcGkteTh4MDN6UE5sYWNNcGNSNE5lWlhPNHZuemYzdmNrTFBEbWZNTWlJd1g5b3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Sun",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-22T18:04:00+00:00",
+   "date": "2026-11-22T18:17:59+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -93,14 +113,14 @@
    "topic": "Society"
   },
   {
-   "id": "18ab2f28b5",
-   "title": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm50ZjJub3NFR1hNeTBfNTVpUm9sWG03Zi1zZnpiWDJDQXNtOC1DckFxRlp6QW94MXV3YjNzRVBEYnNqTmN0NzVVWk9xcU9wem1DYXotSGQwNldTdXBuc0ZSWUNEdlAycUtUcV9pcXdrS3g4QTV5c3ZJcHNhM2JTdkhldVhWcXJaV2hvX2FEcTd6Ui1CeEZGWWlGWGI5ZFZtRnB2R3p3ZnZHQQ?oc=5",
+   "id": "81a2ee6fdf",
+   "title": "Woman ‘repeatedly groped’ on tram in horror broad daylight attack - as cops release CCTV in hunt for suspect",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02RmwxeDN0Rm55Qkk1ajNoa2dWSW9uMkpMUmhlTmVNNUxKSFBLa2djLVF6ZVdoTjBvMkZUSXV1YlRVa0Y2WVZrRk8zYlNoRExzSnVnNmVhZGxmTkJ6VWZqaEtMdG5oQmZNdzYtTGFUQUcyUXU2?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "The Sun",
    "region": "GB",
-   "date": "2026-11-22T17:43:00+00:00",
+   "date": "2026-11-22T18:04:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -127,39 +147,23 @@
    "topic": "Society"
   },
   {
-   "id": "d40b95e0ec",
-   "title": "Drone destroys Russian warship at Libyan naval base",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFVVdXoyRUNFc2hHMUNLZlBwMUVQd0pfV0syTkpjY2N2ZUtWUGwwVVdETjBWWWVpdG1TNUN5YTdKbWJWX08yNTlxNllnUkRNTWZ0cU1WS2ZlZm82Zi1ySlpWcE9yWXhrWWVmaHpzUGFQN1dvWDNCdXhhV0lVdnp3QnVHOHRfUU52MkpueDVEdUNmdHVvRXF3SkpXSnZqcWRCMFYxYg?oc=5",
+   "id": "ab5d7accd0",
+   "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFVTX1ZRdG95VXVFbTBCdEVjNDQxeUJCSC1zczMtNVJtSTNsX1Z4NkJFUGowNW1xNjNJUlJ3NkZuazFqM183NUhueGF0LU5xUzZocnFNR3N4WEktS3Ezelo3YldkT1I5dGMxYW1BZFZQNTVOQmlxMjM2cmlONjhhbEs2ZnJIRk9Rc1dHaXVJSzJuSlNibVNlOWp5ZU1qSGdYcE9adA?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-22T16:40:00+00:00",
+   "date": "2026-11-22T16:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Russia",
     "place": "",
-    "flag": "🇷🇺 🇱🇾",
+    "flag": "🇷🇺 🇺🇦 🇱🇾",
     "also": [
+     "Ukraine",
      "Libya"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "041b8c52b6",
-   "title": "Hull City 2-0 Brighton: Oli McBurnie scores late double as Tigers end winless run",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lUlBid2xSV0Rjakh1Q29OQjNITmlhUmI5NXlCSjZ5ZzR3c1ZJT0lWM1N2X3VvWWtBLWFiSWJ6U3FBREVoMGxWajl6ZWI0andFMXhqR1dLY2dWdF9JVGcyVjRlQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-22T16:39:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -189,6 +193,43 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-22T14:19:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3b7810d481",
+   "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0hJT3p2a0J2MnhVZHRCZ1ZSaVpER0lOUVJaUXJRZ2J5LXJvV3ZRcWVMRzB1a2VzSDF0enZUeWhiUTdMOGVwdXczWFRrTXJsZGNtSldiVFRhbUJ1bE5zWlo2dW5GZ0JOZjhGTktXZGxNRnN2RW9ZVm81dk1ISGNURVNpUW4xTm9TcldtYTVB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-22T14:07:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧 🇧🇪",
+    "also": [
+     "Belgium"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9c962f1cec",
+   "title": "Hull City 2-0 Brighton & Hove Albion - Premier League result and reaction as Oli McBurnie nets twice in injury-time to seal win for hosts",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWViSm5rREZEeXJ0SERKeEhxSm4zRVF1U1VNaGJ3V04zRDN6ZGk5aU5QbHYydE14akdvVmxpVUljVHowZ0pHWlJzdWoxVmZRVUdNdjczQUZ4M3Z5cS1Zc3VQQVZQbjlTSjFYNmtOYS1YN3BGeTF2dEI2MGt2UEZlS1R4ZGpGcWpYVXFYaFRyYWZpRjlzLWsxS09wTWh0ODhrNTh0dU8xZ2FydTEzbDVQbFJqSUlJbUN4NktGMmd3dWNBYnB2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TNT Sports",
+   "region": "GB",
+   "date": "2026-11-22T14:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -269,9 +310,9 @@
    "topic": "Society"
   },
   {
-   "id": "f7df63440a",
+   "id": "aa4a0d9dae",
    "title": "Nations Championship: England will not get carried away by win against All Blacks - Matt Dawson",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnd09wcnduQldIdGVoZnpXd0lDTl9DTDh0RFMwbUN2NjN6eXV6XzdOcVp1R2tfTVlhS09hMmU0ZG9OXy1rdzJCbzNLMFBVTW1YR1hpMXN0X0JtT3dyQ2VJUE9zQkNTOVFfSzlTRlFuaw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZblcyQU9jZGx1Wl9vZ182cVRkcmVYa01VODhuc3k4dFBiSGZRZDFDS0NRYnZCSW9Gc2xrX1lfY0tPZGlwbU5Xb3l2UDZ1Rld2UDJoc0J2MUlNNm1DbEVLYkFxSzJWS1dwSVNiRg?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
@@ -282,26 +323,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "771e093b82",
-   "title": "Sanctioned Russian vessel attacked by drones near Finland",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTER0aC05WWd6Yms5V2tJeUQyQTRuVFp0dGVHcERCbERJdmU4WjJqdEVYRVlnSEd0SDFfVm5USnBBZTZiWU1rb0RoWjhlOFZHVktlVktaVG9kbHpaZHIyVlZvRXZtLXlyX2k0QjQ5a0dUaDlON1JiakM1UW1uLXlMUS1pUWg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "GB",
-   "date": "2026-11-22T12:24:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇫🇮",
-    "also": [
-     "Finland"
-    ]
    },
    "topic": "Society"
   },
@@ -374,40 +395,6 @@
    "topic": "Society"
   },
   {
-   "id": "28b05ae569",
-   "title": "Las Vegas GP: Max Verstappen wins wild race as Ferrari's Lewis Hamilton and Charles Leclerc collide again",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXE3Y2lfVnJfX1dUdnRkVlNHY0N4Q2NtRHV3MERRTzJhZ3llc3pwQ2dlTTNqYVFJbDZBV3hwaFM3VUJ0ZFZwNTVONnlnek9fcGRPbEhiQ0Z0MXRrWnA0WHZ6RVlBZ3pDZkRQZG1Eb2lPdkEwMnIyODRTV083NG5OMS1xd1NFQTE1R01XZ0RVWjdrbkY1eEhZdk9XQ2tVTU45UUVjalNHaVB2QlVZcG9FZXplWUNHeXpzQk9VaWZZdWJEZTJiV1N6dFpyTmI3NjYzcFdQQXQzSlU3Znlxa2tJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky Sports",
-   "region": "GB",
-   "date": "2026-11-22T10:29:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f3bb14c15f",
-   "title": "Miliband says 'all options on table' for future EU relationship as he's quizzed on new deal",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95UGp2cVZNU1dRbnhhb1Z6N0oyTjd0Vk1COUE4QnFULXNPVndBS3dSY3FUM2JYdmNYWHN4VC0taG9wVnpuNDFtdUZaUHE2Y2d6YUxRODVR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-22T10:14:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b036bb6193",
    "title": "November full Moon: First of four supermoons to light up sky",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TMEF3cTMteS1kcV9yV0gycEN1dVpEMGp1ZGVLdWVDdl8weDFQX2l5T2VqUkxNNjNEVGFLc3BvdWxNSmVDVVA5NjBPUndkQVdLcTVNbDI4dWRQQTVlWkVpM253?oc=5",
@@ -433,6 +420,40 @@
    "source": "Autocar",
    "region": "GB",
    "date": "2026-11-22T09:31:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a1c211be03",
+   "title": "South Korea education minister resigns over exam cheating scandal",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMVl9QWGNPV05lRkhnQTFlclpiWERGUnBreS16amJ2S2pnQXA1bDQ5cEtVTTF1UWhMWnZOOTJxMWp5Y0pxOV9tYkhGVFhZZF9sQXAwaFpXUUNxNmlQYkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-22T09:20:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Korea",
+    "place": "",
+    "flag": "🇰🇷"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "b11c616cea",
+   "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcExQYjA4QUVIWnpzQkN5NkswajI5cHNjR3hfUWNtS2tYZEV5UWxlLS1ndjhXbDFlWHFaeWl2dmtkandnYmJDM0JsU1NQbUZXZzB4VTVYQmRwWTlnWVBjODdRWHFmRk83d0xXRHhBeDFEMk5vTnhROU1telNtb0ExdHVlTGYxUUtnc3JrdnJMNXRmVHdzMVFTV1l5bU02MTQyWFJJNnBhSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-22T08:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -509,23 +530,6 @@
     "also": [
      "Russia"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4df6d895ad",
-   "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zT2syaXZxMTdLN19MalBDaDJTQ2psckxWejdoMEdFWmxjM2hES0xEbFhBTFFvSkRXRDdIVzltU2dfU2dESkotdU45dTJpNFNRaDc0U243VS0ycDhXTlE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-22T06:01:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
    },
    "topic": "Society"
   },

@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 3/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 9/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 56 stories
+OK   Ada Derana: 54 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
 OK   EconomyNext: 8 stories
-OK   Daily Mirror: 44 stories
+OK   Daily Mirror: 43 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 14 stories
-OK   Daily News: 20 stories
-OK   Sunday Times: 81 stories
+OK   Daily News: 67 stories
+OK   Sunday Times: 82 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -20,44 +20,40 @@ OK   BBC World: 34 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
-OK   AP News: 89 stories
+OK   Reuters: 99 stories
+OK   AP News: 71 stories
 
-Biggest stories right now: What's next after no deal at COP31 climate ta (9 outlets) | Russian cargo ship still on fire off Finland  (6 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | Dozens dead after a boat carrying funeral mou (4 outlets) | Sri Lanka and Thailand sign visa exemption ag (4 outlets)
+Biggest stories right now: UN climate talks collapse without a deal (11 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | Why has the COP31 climate summit failed to re (5 outlets) | Twenty-four dead in Nigeria when boat going t (5 outlets) | Russian ship hit in Benghazi by suspected Ukr (5 outlets)
 
-7 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: PSCs appointed to look into Covid human remains disposal, Youth Commis
+* Daily News [1 outlets]: TUs to hold ‘National Day of Protest’ today over pay issues
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* USA Today [1 outlets]: Seattle leaders condemn ICE arrests on jetway as passengers boarded fl
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* NBC News [3 outlets]: Delta tech issue delays Atlanta-bound flights ahead of Thanksgiving
-    important (also on AP News, Reuters) - researching
+* CNN [2 outlets]: San Francisco braces for massive tides. Mayor urges residents to recon
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [1 outlets]: Sri Lanka Envoy calls for stronger Indo-Sri Lanka Economic Ties
-    normal news - one-paragraph summary
+* The New York Times [2 outlets]: Democrats Clinch 258 House Seats, an Election-Year Record This Century
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [1 outlets]: ‘Convenience Fee’
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: Liverpool thrash 10-man Man United in nightmare start for Pochettino
-    important (also on Reuters) - researching
+* Daily News [2 outlets]: Coast Guard contains oil spill
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [2 outlets]: US Army to detonate tonnes of unstable explosives in Iowa despite cour
+    important (also on BBC) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -71,34 +67,14 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: Democrats capture at least 258 House seats in largest sweep since 1992
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
+* AP News [4 outlets]: In their own words: Leaders at UN climate talks discuss why negotiatio
+    important (also on Al Jazeera, BBC World, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     Google reader failed (503)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: BBC World, Al Jazeera
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -111,6 +87,7 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -121,14 +98,24 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
+  photos: looked up 24, found 0
   photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
@@ -136,4 +123,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
 
-Countries: IN 38, PK 30, BD 36, US 36, GB 34, IE 37, CA 36, AU 36, NZ 32, SG 28, MY 33, PH 24, AE 36, IL 29, NG 29, KE 27, ZA 33, GH 28, FR 33, DE 32, JP 10, IT 32, ES 33, BR 32
+Countries: IN 37, PK 29, BD 37, US 37, GB 34, IE 36, CA 37, AU 35, NZ 31, SG 27, MY 31, PH 26, AE 37, IL 27, NG 29, KE 28, ZA 31, GH 28, FR 33, DE 33, JP 9, IT 32, ES 32, BR 31
