@@ -1,59 +1,42 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 27/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 30 stories
+OK   Ada Derana: 28 stories
 OK   Newswire: 20 stories
 OK   The Island: 8 stories
 OK   EconomyNext: 10 stories
-OK   Daily Mirror: 70 stories
-OK   Hiru News: 72 stories
+OK   Daily Mirror: 69 stories
+OK   Hiru News: 78 stories
 OK   Newsfirst: 14 stories
-OK   Daily News: 16 stories
+OK   Daily News: 15 stories
 OK   Sunday Times: 72 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 9 stories
-OK   Google Top Stories World: 66 stories
+OK   Google Warnings LK: 8 stories
+OK   Google Top Stories World: 61 stories
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 64 stories
+OK   AP News: 84 stories
 
-Biggest stories right now: SC clears Prevention of Organised Crime Bill  (6 outlets) | 'El Chapo Isidro': Mexican drug lord on FBI's (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Bahrain says Iranian attack causes fire at in (4 outlets) | FBI national crime database suffers suspected (4 outlets)
+Biggest stories right now: 'El Chapo Isidro': Mexican drug lord on FBI's (6 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Bahrain says Iranian attack causes fire at in (4 outlets) | Sri Lanka Supreme Court clears Prevention of  (4 outlets) | 11 dead, over 180 hospitalised after drinking (3 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Public sector trade unions to launch islandwide protest tomorrow over 
+* Hiru News [1 outlets]: Two arrested in Maho with ice and heroin
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* ABC News & Headlines – Australian Broadcasting Corporation [2 outlets]: VIDEO: Endurance athlete swims Strait of Hormuz amid war.
-    important (also on AP News) - researching
+* Newswire [1 outlets]: Suspect arrested over assault incident at Borella pedestrian crossing
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [1 outlets]: Body found inside building near Nagawilluwa Railway Station
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: WHO warns against using antibiotics to treat colds and flu
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Parliamentary Committee reviews Sri Lanka’s tariff policies and trade 
-    important (also on Newswire) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -66,35 +49,44 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Blurb uses 'reviewed' instead of 'discussed' or 'held discussions'.
+    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* Hiru News [1 outlets]: 221 new officers join Police STF after completing basic training
+    no AI summary: saving the rest of today for important news
+* Newswire [1 outlets]: Construction of new Kuliyapitiya Post Office begins at a cost of Rs. 2
+    no AI summary: saving the rest of today for important news
+* Hiru News [1 outlets]: Six DIGs transferred
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Overturned boat carrying mourners to funeral kills at least 24 in Nige
+    no AI summary: saving the rest of today for important news
+
+Top 10: 1 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 2
+  photos: 12 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 2, written by openrouter)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: the name/word 'Isidro'' is not in the article
-    attempt 2 rejected: the name/word 'America' is not in the article; the name/word 'FBI-wanted' is not in the article
-
-Top 10: 1 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 7 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code")
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
-  Fact Base: 7 facts and 0 people saved
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 1 stories judged by openrouter:openrouter/free
+  meaning check: 13 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 46 story pages for Google)
 
-Countries: IN 36, PK 33, BD 37, US 37, GB 36, IE 37, CA 36, AU 34, NZ 31, SG 30, MY 35, PH 27, AE 37, IL 33, NG 32, KE 32, ZA 32, GH 23, FR 32, DE 34, JP 4, IT 33, ES 33, BR 32
+Countries: IN 36, PK 34, BD 37, US 37, GB 36, IE 36, CA 35, AU 36, NZ 31, SG 29, MY 36, PH 27, AE 37, IL 34, NG 33, KE 31, ZA 33, GH 23, FR 32, DE 34, JP 9, IT 34, ES 34, BR 33

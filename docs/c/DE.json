@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T03:22:47.787299+00:00",
+ "updated": "2026-11-22T04:28:14.216047+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
@@ -11,7 +11,58 @@
    "image": "",
    "source": "RP Online",
    "region": "DE",
-   "date": "2026-11-22T02:09:24+00:00",
+   "date": "2026-11-22T04:18:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "003126d863",
+   "title": "Lynch-Syndrom: Welche ASS-Dosis schützt vor Krebs?",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFhMOFVQbnJFRm5kWXIzVThVc19LOVdJVW5PNl9lV0xWT3ZRLWJFWDlKNklMVUdJWXpTYjJURTJxaXpyZ1ZFM3hac2hhR1FZdWZyVVdrTWhjelVuQ3RicmhRcGZfNFBIWlIxMlU4MF93OXkzUnEtY09OMHlRR1JlYndIODBiVGl5RU9WMXg3WGhaZXBDam4tUW5pV2FWWXhobmFVenFWSzZOc3RrYkpjaUJVMG9uZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ärzte Zeitung",
+   "region": "DE",
+   "date": "2026-11-22T03:58:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d1a574a5e7",
+   "title": "Druck auf Klingbeil und Merz: Söder-Vorstoß! Mehr Geld für Bürger",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNmxlTUdidDZYVDlGb19IaGZ4S1BaNi1sXzhwamdTMVJkRUdfSEFIcWk5bmdmSnNhY0t4UHVLeHptWXpwNjh4Qm9lbDRqTURKZW9lZjdHSHlpQkVUaEpkdlp5c0hyN0ZGQnRkenFSV3UtaUhEN3hYVkpvaGw3MkVMMFBXY2dOR3FqRzEtM3I5RThvaUhqRU9CaGc0aXlHeDdWWHNqNm5iamdNOUdFTzF2OXZyTll3eXNLcWFTYUwyYWZUUjkwaHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BILD",
+   "region": "DE",
+   "date": "2026-11-22T03:51:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "36d735d661",
+   "title": "Formel-1-Liveticker: Das Rennen in Las Vegas live!",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFVZOUd5RkFpeDNkcXZGWWh4cGtLWDFpSm5mNWlFRTN1NFJmQVJJNk9xTksxcm1LRjMzVGVhQXFlTEtvd0FUdm5vWC1QcjVYUlJha09GMGV1dDRCOUFMZFFDcUpEWWxKMGxqU1l5Q2pvdVNzaFhuZi1zdktCNFBsUElrVHVsUk1lZy16dGxYc1lRakxMTWVacTB1VVB0NWs5VEFQNlJPdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Motorsport-Total.com",
+   "region": "DE",
+   "date": "2026-11-22T02:59:42+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -34,6 +85,26 @@
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6162feb7f1",
+   "title": "US-Präsident: Trotz scharfer Kritik aus den eigenen Reihen – Trump nennt Putin erneut „Freund“",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdC1EVmlZbVZFSUdVU3pxV1dFOHFvdEpGazFIS2pwVEdES0F0cllXa2M3UWdiWjBPZnF6T2V3aEJMcFhCVzh0WGQ0YUhtbFRpbHVXa3FBaDFCamQxQV8zbmg4c09yQktLT1BmQXVEbzQ0bWFkR09VLVhKT3NsSFExZUlMZzl0TzRIdFJqcS1XcFhLYmE5ZG9HMlRaTVg0VlFsWXoyUlByY3NZc3Z1QmlwYmVQZ3pQRVdjMHVSU2tzYVBFcVlqN090UUpsNW02V1Nja3JRLU5pRHg5dnJFM3Z2aUtaelVPZndmSEJNeUw5bFFELVNBeWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-22T01:25:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
    },
    "topic": "Society"
   },
@@ -140,23 +211,6 @@
    "topic": "Society"
   },
   {
-   "id": "6a73c61588",
-   "title": "Maite Kelly auf ZDF-Bühne verwirrt: Kerstin Ott muss zweimal eingreifen – „Habe nichts genommen“",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmFVMFJlVzRPSHFHRjNPSkV1bjNBSXZkUktnNFAwSGNJV2ZGZXlNUG5hbFFwaXBkNkYyRlBTN0I4d0ZXaHdfeFZOVDFxRzNUOURtT2JCRldlNVd0V3BzRGZtWXZsM25kMVRLRjRVSmtCOXhVT0NpOFpMbjJ5c0tpSExjV1FTMi11c3BaVC1RQ2RSOWktNVJTbFVjQS1kVnBIYnpVaHlsdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Merkur",
-   "region": "DE",
-   "date": "2026-11-21T22:03:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e702578ab5",
    "title": "Drohnen greifen russischen Frachter an Moskau evakuiert Crew vor der finnischen Küste von brennendem Schiff",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0gtQWV4QUhkbkpSR0RqRV8tU0Nab3BBdUdjSUxpVnk1RTk5bHpYeTRkWnZWRnJMeTh2V2tNaDVGRDgxdGc2ejNUaXBGZU55c0Y1dllXS09sSFFtRFJQaGN0dXlKWEpqQTg3OUxQNndwYXpQNXowUGVBZUJEbFc4RGRIYmM1TEI0SU9OOGI3MmxkSzFtVTNydFFIS3lCZGEzd0JVYXR6Mm1lWlNSNW4wamM4T25JbkNLcVpCQ3U4YnF3ZFc1TlF1bHd6N3AwbFRiVHY4T0RhbDI5Wm5NQzhsN3BRUUFfdGc1cGhreTlMS2NEalJvMEFENQ?oc=5",
@@ -182,23 +236,6 @@
    "source": "lübeckverliebt",
    "region": "DE",
    "date": "2026-11-21T21:25:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f47fb8b7b0",
-   "title": "Zur Galerie Damals und heute: Der Beautywandel der \"Die Rosenheim-Cops\"-Stars",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMTVkaEhmMGtjQVZDU0tJdzdEaEpKY09Nb19kb0w1eVdablQ2ejdIcl9tbDdIdl8zSHp2ZUp4RUsxMW5hdlExRHlXdmtmaGJCMGdLdTl0aGNDT05aZUI4Zm56VDNSb2hqdEF4RGo1aE1UUWJTQ0tWVy1kWDZ0Y3dtbl9pUDRnN1RhWHlkdDduOVRLUG1TMzVvVmpkc3FDTVF1MC05dDhYblpYbGFuRHloY1B5c244LUxuS0pvU2h6QXozLUVQenRzXzdR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GALA.de",
-   "region": "DE",
-   "date": "2026-11-21T21:07:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -276,14 +313,14 @@
    "topic": "Society"
   },
   {
-   "id": "657912a2e6",
-   "title": "BVB springt gegen Gladbach an die Spitze der Bundesliga-Tabelle",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmM5VmdWWmRpQUFweklueXc0aW5OTjVLYmhvLWdfZWJQanItdVJJYk4tRjJQRVlSREFhcWEyUnBDZWpGZ19UQy1QMFNKNTAyZXlDSGhRRzEtSktvYkpnU3ZfMjl4N0hrNDhNYkQxN2lTb2pBdlh1aUNncW4yMGsxZlc2eTJiUGxMTHk2RzltamxIbmFHTDRyOXhLVXpMUjlZNWU0dENSZkh4UQ?oc=5",
+   "id": "1ca154a7c1",
+   "title": "Kunstsammler und Multimillionär \"Mick\" Flick ist tot",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeDN0bF9sekM5b19tWDBiT09ydndzZUs1eklhb2JKbE1xYkdBX3VPNHBiSEVnWTluNUtmbEhMM2E2al9uWVZpWmdpNlNmZ0dLQkR1RndDY05FV0hIMkFGc19vUFhHWHdZSXJzaVZ5ZkV6dnI5TW1LQzl6S2duLTFYOWhaTjVlOEtzMGhhemd3Wm5FS1h6N1FSdzM4UG5QU2NsMFRsbk0xMm5kdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "sportschau.de",
+   "source": "BR",
    "region": "DE",
-   "date": "2026-11-21T18:00:00+00:00",
+   "date": "2026-11-21T18:30:59+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -318,6 +355,23 @@
    "source": "Raumfahrer.net",
    "region": "DE",
    "date": "2026-11-21T16:51:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7e2b502c0d",
+   "title": "Sie haben „Ja” gesagt! Die Liebesgeschichte von Anna Rossow und Dominik Stuckmann in Bildern",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUQ5Qm1kWmtRTWRHUHNsQXZXTThmSVFLZWpza1A5Nkl5cnctblBxbmNURTliXy10dHdIaWhRVXNtZ0kwY1hlTGpqVWJ0bTlIVmZOclRxNXZISGpBMFVJRUlMN0JwUlpyYUFocWVkeFBaN3pPbkZ5bHNtVDRvSGdodW50bThJR2lqTHV2TFZZT0JxNVRVMllGRERvYlZ2WXZGV0RhZWExX2Q4Q2ctQjNub0ppdTN4R3lEMUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTL.de",
+   "region": "DE",
+   "date": "2026-11-21T16:47:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -395,23 +449,6 @@
    "topic": "Society"
   },
   {
-   "id": "859a7bb357",
-   "title": "Björn Höcke als AfD-Landeschef in Thüringen wiedergewählt",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUs5eG91NVlWbVNzV2pVbndSdENLYlVxNlFhRTRQZlFkRHNsaEJrY0c5dG4td2dibElFQ2V3b0VkMVRVSnRDOFFSUEUyRGxRNlp3aDd5cVY0dlFsQno4dG5zMV84ZzFJQ1YyQzFSVXI5cHdSZWlXYzJjbDVOdXBFMGYyc2dkQjlJVUtfb1JDeXJySUNaOWN0NjJiZEk0UTluUHRNUmdWMDI3VTZfaFlLWXgzZDA0SzRJODBIa182SG1xWVJjbVZRaVNR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Spiegel",
-   "region": "DE",
-   "date": "2026-11-21T15:27:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ca09ece049",
    "title": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZzNhU0R0MkdnejV2VFZ5QVhxaGh3di00bUE3VlJuaUZJcm1GekRKYU42Rmc5LU8td0JyVEZYb2wzUlhHbzJtWnZYSEZsc0xHbWpjcE1CcTJVby02Vl9ndmJHanN4MjRhRmg3SVRzY1N0VC16V0JJNmtMb1pnaFVFX25GZEN1RnhwZU1xYzl4VQ?oc=5",
@@ -446,40 +483,19 @@
    "topic": "Society"
   },
   {
-   "id": "196cecffe0",
-   "title": "Sachsen-Anhalt: AfD zieht Wahl des Ministerpräsidenten vor",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXlqVkxGSk9hdzVjVkUyOEJSdUx0b2dmMndPYk45ZC15OXJscUdFazZtR3dCUERxVlQxbzdsc0tTZlpyRmdHNWt6MXk1M2JtaHVvSnMtbmJ6Zk1BR0NyX2RZUENkZUJZd3ZKMEZxYkxfaUg3eXhwOVdfTmdudnVXaElkSGQtUVk2cDdGSWFxNjY0bGdhQks4bnBlSkl0ZEhlMUJPUzk5dU4?oc=5",
+   "id": "7f8d91fca7",
+   "title": "AfD-Landesparteitag: Höcke bleibt AfD-Chef in Thüringen und will Alleinregierung",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVlRNW5WVkgwTzBMTlBqVjhUMHYyN21YR1BBV2EtT1JRSWZkek9LbmF6VFE1TEhLN0tJSXpPN0NRMVhHZDNhdnJTbFFFaEExREdydFVoODBrZnhmOS1tYVhFS3lNempfQXFiS0dDVEtHMEZzV09MZzNIT0pjeXpFcWlLR09kNDgwcWx0NmtKTUI4OXNtb0oxdk95THJpUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "derStandard.de",
+   "source": "DIE ZEIT",
    "region": "DE",
-   "date": "2026-11-21T13:05:00+00:00",
+   "date": "2026-11-21T14:03:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "dee8eb0db8",
-   "title": "Trump verteidigt Putin-Beziehungen und wirft Iran Unehrlichkeit in Verhandlungen vor",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3lVc2JvLU9HMVZpQTIzVkF6ZzdLX3dFUXBWbmx1bzEzWjg2ZkFHMnVUekZUc3p2NUNSUHZmaTRhMEMzN0VTQXVSdW8yLWxvSENad1Z5VmJvWlNvY2VOX1Q5a3hzeDdCakY0akFCdEdZaGR5TjhTWm41VlFBQXpEUGRDN242OF9STDRjbEVZZkd0VWpkWDE1dnpRNXZyYncySFRZQ0pNRFppVVF1UE9yc3VDTVJHcWN6Q2tr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Euronews.com",
-   "region": "DE",
-   "date": "2026-11-21T13:01:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇮🇷",
-    "also": [
-     "Russia",
-     "Iran"
-    ]
    },
    "topic": "Society"
   },
@@ -492,23 +508,6 @@
    "source": "Finanzen.net",
    "region": "DE",
    "date": "2026-11-21T12:59:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cfed53ca38",
-   "title": "Experten diskutieren Maßnahmen zur Vorbeugung von RSV bei Kleinkindern.",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUVjd2duTTlxejJ2SjVzWURHN2lWQjN3amVsNE0tcUIycUo1MFd2N05XUVdVdG05ZVN5aHB2VG5EVGpOVVFUR3IwWlJmc1NQdkt3bFh4X0dPdGh6c1IxeXZQSUJreTVmMDhIWVp6SDlhNldPSUlNd0RqR3doMnJsc1pJaEpZckRlYnY2YW90WnpreHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vietnam.vn",
-   "region": "DE",
-   "date": "2026-11-21T11:48:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -535,21 +534,21 @@
    "topic": "Society"
   },
   {
-   "id": "0f9011bd98",
-   "title": "Rheinmetall Aktie News: Rheinmetall am Freitagnachmittag tiefer",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTc3TGx3SC12NG1CQjJYZ1ZrY0RQWWx3dS1pWnllWnczc3ZJMFZWSUdXT05JVGtFTGVoYm5ZcXhrNXNUcjlVcy01WGpfa0Q1bXBwWXRUODFZcnIxVXptcEhiekZCNFVjaFhqeEcwV3lMX3ZuMXJ5dzBUeS16RV9ONGFaSU1QbjJsbGEwX2FkWFVaeDFWNTYtbTZSYw?oc=5",
+   "id": "e96bbf8ad6",
+   "title": "Rabenschwarzer Börsentag: KI-Firmen um Nvidia und Anthropic verlieren stark an Boden",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWHEwcUJuWmhzTS0yOFNXSk0zaUh5UVM4dTNWMDJoaTkwY0ljTWNHZ19pWnVzMElNOWxKTDlTOHQtWG9TVmRENEZxRzZpdzNpR2EzM0sxbDlHQjk0aUQ5cWx3YTVNOWllNkN2Y3hkbi1fZTd1ci1NdHlBT2hNRHkzRmpfRlFzalg1SktsS0t2T1lRT043NzA3SkhDU3FTOEZ1Vk9QMTBOTEZKbnliQzlMZVU4QzhXd1h3dERzU2NNbjg1RFlmV2l6eDAybGpab2FEZnczdWtJYzRzNEp5VWJ1NA?oc=5",
    "summary": "",
    "image": "",
-   "source": "finanzen.ch",
+   "source": "Neue Zürcher Zeitung",
    "region": "DE",
-   "date": "2026-11-20T15:29:00+00:00",
+   "date": "2026-11-21T01:13:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "1dc0388d20",
