@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:32:23.292627+00:00",
+ "updated": "2026-11-22T11:27:51.647413+00:00",
  "code": "BR",
  "name": "Brazil",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "UOL",
    "region": "BR",
    "date": "2026-11-22T08:33:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0ad9c1250e",
+   "title": "Fim de benefício fiscal nos Estados faz empresas repensarem localização de fábricas e galpões",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVWhBelIxZXdsX3RxeXZ6QjlTaGJTdTB1VDZfVmEyTDRySnhPVkJXTWYxQXB0aDlhT1BZSjRMRVhMMm9RZElzNndCenNOSks4WndSN19VU2dvQ0dhS01IQlpRLWxONTBIQnV2MkkxS3dKR0RvaDRwMVBWNHd0TWZIb203SlBSRURidm9Yb2prYzFGajg3MHREZmdjdnJFS1kybWlzem5sZEF6UG9NZTN4anphQzZvS3NiYk1TanV6al81RjBmRjdRcVl3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Estadão",
+   "region": "BR",
+   "date": "2026-11-22T08:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -72,6 +89,23 @@
    "topic": "Society"
   },
   {
+   "id": "fc01fb9bb8",
+   "title": "João Emanuel Carneiro dá 'spoilers' sobre 'Avenida Brasil 2' e fala sobre arrependimentos na novela original",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeEZINldvQjZkalVyT0ppVDU1bmtJMnVhTnFTS2ppdXJyTlBxNHA2TUFtYkZaa19vc1hDMDh1YlluU1FOQ3JadHFYdmhRbTBQSFlkVy15dDJuVV9OeDJvT2ZwYnFncFBfX25QY3V5Zzk3X2JCb2wySzFNaUVMWldGRU9lQThPYW41WXA3Z3RTS1MwWHRQeEZudVQ4czAwcHppOEZ0SXV3UTdyNlZzVmp6eGdtNmZNdWdoMmIxYy05SE42RzRuck9lUVBBb2JmUDFWakVWd2g0NlZMa0x4M3NucW5XT3BYWW1IeUdjOXpXVklxdVFPN1ZGM3NYMjNqYmVWZlHSAZACQVVfeXFMUE5iS2s5clVTTkgxQnBMZDJCaW0tQVdNeVBfVzlLbHExOHdGMV9xd09yNE9VbmszYTdBb2llVDRlSi16Y0hoQTRZaFNQNTMzcldib0RHR1hVMUVEOXhyeUZGelVHcmcyUV9ubE1ZcXE4TkpaTXVtOVRDdmVXc2dQY0N6b2VXVVZlTWN5ekt0QUw1SncyMFp1R1RtTVNZNS1VTzJCbWNLb3dNSkZmR2cyVWthQlJsM2taQ0YtOHY5Nld2SnUwQV9NajdjVjYydGY2S0gzdTdXU1pjcHp5YktwN29xYURmMG1MNEtvQ2VyMUdXTmZTM3FIaG0yVnJHQjE5S3ZiWlJxdVhoX2UxR05NMkQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-22T06:30:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c01773247b",
    "title": "F1: Verstappen vence GP de Las Vegas e garante 75ª vitória da carreira",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1NkNDlBeG5tcDhYeHRnZGVVaDFLY3RGazlPLV9WbVdXOEE2emxCVUFyYjRWdlZCSldJWkRhS1RmUlhGSWw3cm5mVTFxd293dTlPUE9SX0hPUkY3WWpNUG56b0JoSGYwWG5uaU52NTAwazN3TDRPcHVuaXZ1VnY4UkVITHdFbDhFVjBkd01jUUJ3X3gzT2w1dEhZY1JFLUF5MHoxaUZkWFF4T09sTlJUUmNVZ0cxb0stX3FUTUpyZw?oc=5",
@@ -106,14 +140,14 @@
    "topic": "Society"
   },
   {
-   "id": "cf713fa61b",
-   "title": "Por que EUA não querem que empresas construam data centers em outros países",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjhuVFRLN1RTczItdnZVZFhLa2Qwb0oyR0drTHpmVm1KbDVSQnRoMU01clR5NlJYb25wY0xMNWFENGNQd2NmLS1hRWF2NUZoZGdwTkcxcGV2RUNtUkFtVE1nQ2pZekdDQVVFV0gzMG1KMWNQYTgxUkJqa2Ntek85ZnRxMExwdzRRX29kaHU0anVZajhlVjhSdVRFR3RteG1BMjB3OEJ3TV9qbGltRDhFZURXa1dNQUNJOXBWMVEyNVVrNVdQamttNWR4OA?oc=5",
+   "id": "7cf0bb8783",
+   "title": "Show de cultura e explosão de cores! Veja os trajes típicos do Miss Universe 2026",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjVBYUFCcFdiYWx1MDdTZTJ6Q0ZEYVJ1VWl1dmp5bDNuMXhVS3pQTllONFBPTUtkZ2R1OVNkbVpKWVR6TTN4OEdCX2M1N0lkVXRhRDBZTkpqZHFuRmgteHVydGhKVjFzSXBCLWNsdnRET09idU5YUXlEa1JpOWl6bENuWE1Eak9YX1N5M1lzcE5hbm5UTUpCbmg3WHJOaWJnel80c3pnd3lfU1ZybThxeW5WRWEyWDBmU2xZdnc2WDlQZ3lwVmZMUV9mc00?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "R7",
    "region": "BR",
-   "date": "2026-11-22T04:54:48+00:00",
+   "date": "2026-11-22T03:39:07+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -123,14 +157,14 @@
    "topic": "Society"
   },
   {
-   "id": "7cf0bb8783",
-   "title": "Show de cultura e explosão de cores! Veja os trajes típicos do Miss Universe 2026",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQjVBYUFCcFdiYWx1MDdTZTJ6Q0ZEYVJ1VWl1dmp5bDNuMXhVS3pQTllONFBPTUtkZ2R1OVNkbVpKWVR6TTN4OEdCX2M1N0lkVXRhRDBZTkpqZHFuRmgteHVydGhKVjFzSXBCLWNsdnRET09idU5YUXlEa1JpOWl6bENuWE1Eak9YX1N5M1lzcE5hbm5UTUpCbmg3WHJOaWJnel80c3pnd3lfU1ZybThxeW5WRWEyWDBmU2xZdnc2WDlQZ3lwVmZMUV9mc00?oc=5",
+   "id": "a8232a46a1",
+   "title": "Chitãozinho e Xororó anunciam aposentadoria dos palcos",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2RwX1J0ODJsUWhLallKZmVESlEzOUZTeE9vcDQ5SW43Vk1hdzhZbmpuMi1vajJzNF9QdWNRNGlkcS1kM2FHSVlNcmZNdm55eW9GNmt2Yzh0SjY5eHR2WVdYZ1QtMmdaOHlfb25KajVmTlY4bDY0UXBsSl9YUldtUnA2ZGhScXNyMElZaEdMQlJHQzlhVVU4ZDY5b2VlYTF5eFFBR1lxQXlFTHZwcWxUZNIBvwFBVV95cUxOQUFkNl92cmFQdUE0bmVic0hHTXlwOS1aVlM4TG9FcTV4Tmw3Z1IxQU5PTktyS0NkUUIzUHB1TmxPekJrM0hXSl9PQ09CUkN6aFNKU0ZCYUpPWTU2Z1IxbjgxUkhfeEwzVlNhSXRWNy1DREdmTzdTMGhIWGFiZG5WaWxfdG9neXoyejIyYWtxUHR1dXliVVFPajBEX0pQQlZPaHFwTEVHOGdmY2J0dk1oblhwMlVtc01IRFVSM3Y1SQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "R7",
+   "source": "G1",
    "region": "BR",
-   "date": "2026-11-22T03:39:07+00:00",
+   "date": "2026-11-22T03:18:18+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -242,6 +276,23 @@
    "topic": "Health"
   },
   {
+   "id": "e36a57e63e",
+   "title": "Tornados e supercélulas: entenda como está a situação do Sul do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGxTaEhZNVJzOElHVUZBQVNVTUItaGhTTzd0ZXpFUGNIRkhoUzc2QlE3aXNDa0JDbVNLNjg0QXNQSHg5ZlNKZll4SHgtYVJKd2dZdlExUDB5eHFfWklaazJfbTU3OHlqQXlua2VNbVpnNENxZDY2NlBkMmM2UjZkR1IxT0lrUE5PSjFtUHFBUnduYnljZ2dvSzRlcUYtVGRyTVBDSlg1Xy1vSHpXMjhGTlFR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN Brasil",
+   "region": "BR",
+   "date": "2026-11-21T23:21:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "61708f3357",
    "title": "Ao confundir alhos com bugalhos, PF deu a Mendonça o papel de vítima",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRW1pZjVxR1BRZ3hTNThuZ3hhZmVwNnQzRWQ4SW9KcFY3dlZGTDRuUXJZOWh2eDdjQ25ISl9ub3c4aEtLRFUwZW9hMkUzQ0tzQURpMkoycEktelN0ZENTT3Y0bTl4SzAzY000UkVkRjNjQ0hzTHdlbHV3TEVkbnFtSEM0dUZrSFh1UGRwTl9WM2cxenV6ME5fNEV6bS1WSkJhTWFlZWNVbkxBYWYxM3dBMk9FRXpycDVIRnJITjZPZ9IBxAFBVV95cUxPa0NVZVhZTTQwZzVHd3ZhNTdJbWRfandyVTM3bUMtaUdBS3dJalFPNmdBQzJ6c3JXV0VubnlEM2hMYnNfWjhfTzRiWFU3cFlHS3lISzBYTmdHN0RqYVV6LVRTaUNNQTF3R3RWc0UzazB2VFhGNUpLOGFfcUdDOGJURnJ1WnZGZGdQMW5mWnpVcGxuVE5qNFVDY2ZmZ2I2Ulk3Q1FpRHdYTGVUbDljN2l6QkRBZDRiVE9Sb1JsVEdBcnJRbHRZ?oc=5",
@@ -267,23 +318,6 @@
    "source": "O GLOBO",
    "region": "BR",
    "date": "2026-11-21T22:23:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dcbca1a903",
-   "title": "Sobe para cinco o número de mortos em decorrência do temporal em Tupanciretã",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1NhSHhrbnlMQTduZVRjYW51LXBncU9ycWRFSTlINTJuN2NxV2tVQjVzNHB2OVlZdWh5LVIzM1hDdzctSE9SM2gzbjI4MkR6dFNLX3ZGZnFjSFQyd1VDN3FER0xTazJ5NUpWdURGZXRJLTEyaTFEbnhydFppUzMzOTZDbk5EN0E3aDVqTGdqR3FDSXBJWVhLeWVTQUdGMnJIRlVNbTVVQ1ZvVEZ2c2hoOGFUWnVMWWhSeE5JbFhYS2FKd3o5NFlpT0xYY0ZQVE5lcnJtTjZCQkQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Correio do Povo",
-   "region": "BR",
-   "date": "2026-11-21T21:52:36+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -327,14 +361,14 @@
    "topic": "Society"
   },
   {
-   "id": "3d8292821d",
-   "title": "Paraná tem dois tornados em um único dia, confirma Simepar",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3dMUXlXUDZTXzZRZmNOQ0o1X0prbzgtTlI2VGRsRkh4WFh2ZjhhcE1hc2NjQm5RemdDaWlEaXBpbU42c0VOdTVuOXd1Ti1QZ0xuTjFST09CUW9CTlhMVEV2eGlkZ1RDSXNveEpvLURsY29keHFKZkVyV0I1S3RxbVJUeWhkM3I0M0FidjRLM1JJSTJYX012bnh2LVoxdWt1TmNiSl9R?oc=5",
+   "id": "f5a16befaf",
+   "title": "VÍDEO: Moradora flagra rajada de vento que causou queda de pelo menos três árvores em região em que tornado foi confirmado, no Paraná",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOVUJZd2xjYkwtZjRzRmdqb2VoMlJfYjd5YTRsQVFEX2ZHa2ptYXNSTTNIeXdIMjBKMkplUjc2SXZHbVZwX180bEE2X0NPOUczODhYMGExeFlaMDFyazBlZGx5dnMxN1FxRXFaQlhTblZKMVVxbW1WVmdIckJ5dVExUGRSU1J2anNOZXBJcS1MelZnNnpOZ21mQ05na1dtaHVVdUtOcUw5U1RvdFJaUm1TTEM3MlJEQURXeFdOek0wTkxfWFNqUjRieFd3VGNRUm1rTzF1UnIwVkVXTGZDUGxUNUo0Z2R5S1Ztd050Q29ERUUtVHhmenJQcUpMa2VzaXFBa2dqNU1rMUtzQ3RsbzBabTNqcHhVbUdyMW15cW5JRC3SAa8CQVVfeXFMTjJmYUQ5emRKYmdpUWNLMXZranpCX2NnVnAxeWNqR1BDenNhdFdjX0x0UjhPbmhnQnRGTFdfLS1ZdkJCX2otbTZUWDEzQnpiWXlQOGw3SXl1eGdYYmk5NmE0ZHZLVU5WcU8wbDVDN1RsN2NnVXZyOVMyYzJ2NlFBVHlNcDJGVWlmY0Y0cHNudVpKTkVyd2dGaXE2VTNxYmxlbHJKOE5JZDh5UkpmT1VrX2Jodk5iNThhSnR4ZzhyVkZtbERBUUdYaHpISG9wUFo4VTdTbjc5aFhrcGRsa2RueHJnTV8tdEpZdThtZG15X19lTERGQlB4WHo5RUhTcVlDMWM4RjJBMkpVZVdORG1IdXZvbDl5ajJLVE93b0tnUV8zNE13UlZDUmhiZ0Rfd2RZ?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "G1",
    "region": "BR",
-   "date": "2026-11-21T20:49:31+00:00",
+   "date": "2026-11-21T21:09:31+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -352,23 +386,6 @@
    "source": "G1",
    "region": "BR",
    "date": "2026-11-21T18:34:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "51c6383b67",
-   "title": "Xsbel emociona ao mostrar carta de Gabriel Félix para a filha: ‘Lembre dos momentos felizes’",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUNDMGk0UFlqV1dtMUJGVENYVU53U25rTHNRVENfRkJRSFF0Y0d1end2LTEwUWFSWEwtVjliUFZzRDRGYjdfaGlrQms2RXBVeGJFT2cyc1ZLZHBkWkV3cTlGOUlwUC1BaV9HWWNTQ0RSRUVhZWszRVdjR3pXR2dBeTZrTmRsdC1zeE01Wk5tSW5za2xhMDk1MkEtS1lkbmozdHE1Wk1zZ1BzY1lXSG5oMzZheFB0UVhSelpsYWg5RDdXaTRrNXI5SU1XWEtuVE1r0gHWAUFVX3lxTE5jdTJlM1FHa1BwZFdobHNiRmh2UVNLOG1ZdjVlM0tCWXdyOV9zMlRVQkVqWHdXODlWc0FaTFh6VHdVeVJjdGd4ODhLMUVRMC1udkpTVzRSVjR5UkVfQTR5eGRxbmszT0tsUFNGdk1oZWN1dGNfY2JQQktDX1FRc1lrbEV3OXU1ei1GOXFZVDM5Q0pjdk1RNDBHN2N0V0F6Z2tjRTFEaGJZdV9mbE5XUkxUb05Ga1dFWVZXOTdaSWp4UE43X0t5Vl9FU2xhUkY0MTgzUTFHQ1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Estadão",
-   "region": "BR",
-   "date": "2026-11-21T18:25:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -432,23 +449,6 @@
    "topic": "Society"
   },
   {
-   "id": "9ad0a2c231",
-   "title": "Adriana Esteves aparece pela 1ª vez como Carminha em 'Avenida Brasil 2'; saiba como será o retorno",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV216RjBBMVdMUlhmcjdEdnpoc1loaTlnZHNHS29ubmJHVjkwMEhuMUF2dVptNXVyN21CTG1fUHhrTlBpa3UtOEV6U0dFeEdzWnFYRnpFYXBiYzNDYVZvOHV6dGdYM1ZmdTBFNS1Mb3pFaVd0djFoQjd0Uk12Z2ZLNDk3LVJyOTlmNm1IQ1ZMeXpsLVRiYnNlbnY3Y2FncVZUMG5DWVV3ZjdKVjdKRzc1UW9GbjBGTG0zMUpZcjlkQVUtOUhDRzVqa2liUWp6QThtN2tYTEF5YVZIMlB1SnFMUA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "UOL",
-   "region": "BR",
-   "date": "2026-11-21T14:03:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "388085bf13",
    "title": "GTA 6 sofre ‘review bombing’ no Metacritic, mas recebe avaliações positivas de compradores",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjVKZURaMUFNTUtmNHBpVzRndmlVZ2VwbXl6UDFMbTdVRnRXTmJaSXRraTRiY3lJSzRXLXF1dV9vMGc0VDYycUMzUm5kZVRVWUlRSlI1VkNLZ1hkTFJFS1ZocWd2Uk03MGFlbnphV2Q4NWtNMTROdE45QjdtU2FxcXBVRmlralNSSmkwS1hEeWFwQXBZb0RVOXo2bUFycF81TE5JNS1MQ3RoaVl2UVdYekJmWTJFcG9kWGJZTUVtUnYyeWcyeVFOYUFn0gHPAUFVX3lxTFB4Y3Eya1BkQjh3bnFvWm1qX1U3OFJHV0RDTFF3NzBnbl9XZVNyMGVoZHh5bXBQWWpaeU1vZWdCbWxUSS1JVGEzNWk0OEtLNk9KX3dnYzN2ampmMFVjYnR5Z3BfZ1doSDRMTTNqOWJ1aWFTbGlTZHRIYjROeWl5TkYyOVBpaklCekdSdlBXekdQS3lxd2p2aDlDakJid2N3MUVPNzI4WHpSUmZ5T0F5NnNhSGJpUWJjdGwtdEdNSG1FQTlUTjdQalVWWVNlTjY1QQ?oc=5",
@@ -466,21 +466,21 @@
    "topic": "Society"
   },
   {
-   "id": "72f58a07eb",
-   "title": "Exôdo de ações tech anula ganhos do Nasdaq com temor sobre IA de volta",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbW90WmZzV3drblhxbnVkbXhVWVpSZ0V2TkdCaUdCQUxLamM3TmlFTFFsQnJ1ZllmY1NSSXNlMGw1aU45OVB5YkhDVEdpTXVoS1ZCa1NXd1dsdXV2aU1EYkdwcXZ6TkJfVWxaTUdjNnZ2UXp3elFzYjFqUG9LQmw2TUdWcDZQVGFpWllTNmQyRGpjLTlGWTBMdkI5QW5jenhCdU53RWdaQXZkNmJDLUZXOE1oa2JGUnJNcnp4SFo0MFc?oc=5",
+   "id": "be0d36f7c6",
+   "title": "Cresce pressão por substituição de Tarciana Medeiros no BB",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2J0Z2tReC1kbXdPZGN0bEtEM29UM0Q3bVcxY3hvN1pMUHVEczlfcjEta0xXYmJzTTdnUTRVRWl2YnlWUnhJVV91LW1CUHNXQ3k0NlduWEw3XzNkZDR1Sl9YZ2s1X3pERDNCWXVjQ0xDZVU0WGI1RnRUZnRRUHBRX29xV2M5U0pQX3hZTW5laFdCTFpmTy1Hb0llU3BJVFlJUGNJZ1pVNDZfS1U1MDE1bWtvRi1pbWZtNXN3?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "Gazeta do Povo",
    "region": "BR",
-   "date": "2026-11-21T07:37:58+00:00",
+   "date": "2026-11-21T13:18:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
     "place": "",
     "flag": "🇧🇷"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "360f898fd7",
