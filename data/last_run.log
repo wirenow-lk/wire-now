@@ -1,112 +1,64 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 21/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 22/80 used today
 
-OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 36 stories
+FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
+OK   Ada Derana: 35 stories
 OK   Newswire: 20 stories
-OK   The Island: 10 stories
-OK   EconomyNext: 12 stories
-OK   Daily Mirror: 75 stories
+OK   The Island: 8 stories
+OK   EconomyNext: 10 stories
+FAIL Daily Mirror: HTTP Error 429: Too Many Requests
 OK   Hiru News: 86 stories
 OK   Newsfirst: 14 stories
-OK   Daily News: 18 stories
+OK   Daily News: 17 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 9 stories
+OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 78 stories
+OK   AP News: 76 stories
 
-Biggest stories right now: Sri Lanka Supreme Court clears Prevention of  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Brazil ex-President Jair Bolsonaro taken to I (4 outlets) | FBI national crime database suffers suspected (4 outlets) | NASA astronaut shares stunning photograph of  (4 outlets)
+Biggest stories right now: No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Sri Lanka Supreme Court clears Prevention of  (4 outlets) | Two company directors arrested over alleged R (4 outlets) | Cost of living protests sweep across Europe (4 outlets) | Indian man jailed over plot to kill Sikh sepa (3 outlets)
 
-5 new stories to post
+3 new stories to post
 
-    reddit: Reddit not reachable from here
-What people are saying: looked up 1, 0 stories with Reddit discussions
-* Yahoo Sports [1 outlets]: No. 10 BYU survives upset scare against Kansas with triple-overtime wi
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* NBC News [2 outlets]: Princeton neuroscientist detained by ICE at D.C. airport after leaving
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* ESPN [1 outlets]: Navajo Stirling knocks out another ex-champ in Jirí Procházka to cap F
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* DW.com [2 outlets]: EU and Indonesia sign landmark trade deal from palm oil to pharmaceuti
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* AP News [2 outlets]: Man City's 14-year winning run against Fulham ends as Chelsea thrashed
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 503: {
+* The Island [1 outlets]: US, Lanka join forces to crack scam networks
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini:gemini-2.5-flash not available (AI error 404: {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
   "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* The Island [1 outlets]: CEJ demands halt to move to release lands inside Ampara forest reserve
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
   "error": {
-    "code")
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-  summary translation failed (no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code")
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  summary translation failed (no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code")
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 42 story pages for Google)
-
-Countries: IN 38, PK 34, BD 37, US 37, GB 36, IE 37, CA 37, AU 37, NZ 33, SG 32, MY 34, PH 26, AE 37, IL 31, NG 31, KE 32, ZA 32, GH 24, FR 32, DE 34, JP 5, IT 33, ES 33, BR 32
+    cards OK (attempt 1, written by openrouter)
+* The Island [1 outlets]: NPP only government to conclude IMF programme with dignity — Bimal
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'Chapo'' is not in the article; the name/word 'Isidro'' is not in the article
