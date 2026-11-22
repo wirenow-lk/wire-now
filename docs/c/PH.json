@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:29:26.607410+00:00",
+ "updated": "2026-11-22T06:28:12.215224+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
@@ -12,23 +12,6 @@
    "source": "Manila Bulletin",
    "region": "PH",
    "date": "2026-11-22T04:26:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7ddc9f30c1",
-   "title": "Hybe Sweeps All Grand Prizes at 2026 MAMA Awards",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTl9wMWljVjZnTVJUMkkzcmlnWThJVEdRM0xYaUtWS0dLN0E2NXZrUnhQZDN5U3d1dU9OTzJRRVBXNlVBVGN4NW9jNmVVYU5JQzhMOHV3TzRoMjJBaUpVS1FTOGEyWVlNb0FzUVhkUkoycV9zYmkxNkZVbXRGTEVlUXRqbDd5TzlZUXBKMGt3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "조선일보",
-   "region": "PH",
-   "date": "2026-11-22T03:11:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -55,6 +38,23 @@
    "topic": "Society"
   },
   {
+   "id": "b1857820fd",
+   "title": "Peasant group hits Marcos for downplaying opposition to Pax Silica",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnl5SEFySWdfWktyU0w3SlVMQTdHY0ZtLThjRTN2bEl3LXZTV0t4SER6N0ZFOTZaU3ZOUnNvT2lLT2d4RWV3amVfSHowdVRmM3FBalFjdnBzMC05c20wYm1QWFdab1pxdGdRVTBrYl9tODVEX0ptUnY0VkphNUNxX1oyeVY1T1R3MWdnWUxINWltSnFIT0Qxb1NjMU1EQlhNY3ZraEQwUdIBrAFBVV95cUxPZzZwNXU5RS05dE1DeWJOQ3dxc0dGQVdnWVNBY1NlT1JHakVYWVIwVUJ0SEhPcmxUdkNSa0tTQk9HbkRucVhIajJ6aW1ObmxGRXJCZkVJV0J1V1ZDWlRNZUNuQ2NybjNlOTlWZmZaZVRScmRfZm01TVNwVmZ5MThCS2QyRk03S2ttMXBJOG9pSTdFcXF5eHZLMFhZY3BseElCT1pQNEdvcXgxdHNY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Inquirer.net",
+   "region": "PH",
+   "date": "2026-11-22T02:44:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "04de65872d",
    "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QjJ2YUJJRUpaNkVLXzNvZnNJT3p0YnlSTU4yY0tabm1BVExWTnRBSC1XTUo0bmV0aTFWdFpFYVowVGc1TENTQXgxeHJOcjNCb2MzcW5OekxEajhqNGtF?oc=5",
@@ -63,6 +63,40 @@
    "source": "Nature",
    "region": "PH",
    "date": "2026-11-22T02:29:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b39ad990cd",
+   "title": "Movies at 30,000 feet: Hollywood's high-flying market",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nSlMydzlxMFlGeXBDU3N6U2k2anZYVjJtMFBsRl9sM21fV0lmbUdpcUtiSXN1cUlyUnpaZi1DUmdYS1g1NEVsQ1AyV0t0QkFPNEE5ZE1LdThGSG9fOVQ3SGlMVG40NWFLS3FhUjhhaUtkLTd6TEJuWE1n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AFP.com",
+   "region": "PH",
+   "date": "2026-11-22T02:14:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "398a36f2ac",
+   "title": "Coron, Cuyo forecast to have ‘dangerous’ heat index on Nov. 22",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTi1EdVl0Sm04Q3FIRDJicENaN3lsUllraFE0YW9yS0xfTVBYMHNWMjZVWDhPNjFPeUR6ZlkyU2lRczJSOHhodUxqdEtnNkd2M3hYeHp5QmFPdWpjcGg0bk85OFo4OXRCZlpRZ2ZHT0Y4a1RNbktaMFN2Y3ZyMmdFU2FmRG15NnB1ajk0cnFyTXV4eFU3UERHRlRLejJLUkZWMG02MmJ30gGrAUFVX3lxTE1ETVFSWVMyQ1BBelFrNHczNmJDNTBpVDBBSkdhck9PNHRFZzVEd1RkWHlkb2czc0dpMy1wdWRSOXJmeEJmZGpTd1hVUGpRSVdSR28zdlNVN2xYTkNFd1JvN2VUc203T0tDVnB2TWJGTUlpRUxZM1pmUTRWd0ttLTdVc2x6dFFsdWg0amo1X2J1QTFIQmc0R2pVR0QyeWpCZEk2czhoNV9LVk10Zw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Inquirer.net",
+   "region": "PH",
+   "date": "2026-11-22T01:38:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -121,23 +155,6 @@
     "flag": "🇵🇭"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "d09ef7dd26",
-   "title": "Luka Dončić Shares What JJ Redick Told Lakers at Halftime Against Kings",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tZ3gwSEVTU0RRODdGQTlxYVVuLV9Wa0hqaGVrSXNXUWNfeExvc3Q5ai1wTWF3MldjeExXZl9WWFB4SG80NDAyWDlBelgyQ1o4TFFaRmxDNDRvYzlWSDVTQnRKcDJkSlByRDd6Y2pxbkxiR3pHZlFIQkN0cU8yUHM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "PH",
-   "date": "2026-11-21T21:50:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Business"
   },
   {
    "id": "1cbb6cb155",
@@ -208,21 +225,21 @@
    "topic": "Society"
   },
   {
-   "id": "f83aa67c47",
-   "title": "'GTA VI' blows away entertainment box office sales records, according to Rockstar Games",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhHRDI3N3ZoZndFelE0RXZnTzRMN25kVnNhS19MZ1lLX1Rzc1B1TEk0RGlDSkJjV2Q0TVBXeFAwN0RaOE9yODcxYWxMWVF3bDdLaG9XQnFxMFpuT0Fma0Fnd1diUVhfR3dIMjBNYVZEaDRFRC1wdUpwTDRQNnd0bVVhX0oyZ2U1WGstODFxRWFjZw?oc=5",
+   "id": "ae63a1ab5c",
+   "title": "BTS, ENHYPEN, BIGBANG & CORTIS Are Big Winners of 2026 MAMA Awards",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONllrVlZyOWdaZjkxNGNFSzBMcElpRG5HZnNyQXJoZkdUbHptZFJnVXA1NWFyTFdGWmRSNDd3SVY5WnhQblZtM2wwdkJRbkRLMGh3amUzQ3cyRXFWVzd4Y1VNLTdhdHg2UWVTNjRZM1I2OHZCTWIwMHF4TzYxbThCRHVvQTVYTVZLYmtWeE11OTJJaWdTRmhONmIxcw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Mashable",
+   "source": "Yahoo",
    "region": "PH",
-   "date": "2026-11-21T17:54:11+00:00",
+   "date": "2026-11-21T18:31:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
     "place": "",
     "flag": "🇵🇭"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
   },
   {
    "id": "1390092cdc",
@@ -279,14 +296,14 @@
    "topic": "Society"
   },
   {
-   "id": "24e4fea6a4",
-   "title": "DMW: Slovenia to open jobs for Pinoys",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2U4UEZBMnJaOExZMVh2TDFNeXRxUGVqNDZMYkFRY29LNEFQZ1dpNTZxTzd5c1hMWjk5RDMtRkZ0VEVZUG9MYlNoaWJ1a3hNQUVDZ1lVOXIwMUxjZDdVZ21yRkdSbWNvN2FYRmhWR043LTRDVXJuU25lZG9CcEp4RHM2Z3piNknSAY4BQVVfeXFMT3RHTjNUUlZVYzJDV1VxVmVoZU9ldDVJMmhJQ3FaYXR3SGdVM2lQUDVHMWRUemVkTXhJTUFMMFBNbFI1ZFpJdmNUVnRXQXNVOHhSVFVaeGNCZ05OSVE1Z2RSeGpyc0NNMXYyNkJwWTRWNHdyQ0lxcWRwd0d4VmVJM3l2b2NMZlRrQ2YxV01Cdw?oc=5",
+   "id": "5cb49c73dd",
+   "title": "The Lost, the Last, the Least...",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95clNGNmJkTWN6ZWc1OVdza3R4TUxNZGNnNkJTZGhrUnhBeDhnVGNwcVVpVkpkdlRpRzZJdG1hQWRKYXZpcVRRZm9xanpzSmtnTzNabjNGeXBfMmR5S3FOS2dCRkJQeEFHMDRlSURn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Philstar.com",
+   "source": "Daily Tribune",
    "region": "PH",
-   "date": "2026-11-21T16:00:00+00:00",
+   "date": "2026-11-21T15:30:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -296,31 +313,14 @@
    "topic": "Society"
   },
   {
-   "id": "65001fc547",
-   "title": "2 Masbate bomb attack suspects nabbed",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHdpNUluYnBZMlRPcmp0cV9RUkJTQ1RHU2JlM0dZZ3pHc2ZrZXZzUkgxRVIyaHZDUmw1c25YTjVRcFRlbmo3WFZ1cmEyR1dubDB0NDR2bWRMYVFrQzFiN3F5dmVvUG1oWmFSRWY0UlVUd0E5ekxqYlZtWngtdGNuYTByM24zS1JqMHRvTDVWbXRod9IBmAFBVV95cUxNRUxIeGozOFdqdG5rQjdHT0xXZHJFdmdkTnpuN0VXbmhuTjU1MGpvanphTmJwSldWZUNNdXBrdXhmYTZ2dkl4LUJ1dENaLWFLLU1jNWZYcjh2ejFXdHhuQUhoRnR3c3l5WVVHYUNIeWpoSXlfUHd4Mkt1Y3Y5SDdGLWw2RU85V1FRVDdmUUJOaUdlMjJ6dXlDcA?oc=5",
+   "id": "7b3481b7a7",
+   "title": "Lakers’ Coach JJ Redick ‘Lit Up’ Star Center for Effort During Win",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzN3QjVIZXNiUmRiYUpaYThOWnhLN0hqZnVLV3JWZDRfQmVxU2l2d2VQQ09NS05ydllBUU1RUTNfekFvR0VFVjItV0Q1bEp0NWF4RDNRWlFSWDVLeUVTT1FOMnpDLXVWZnk5SWVSc3hWMldBM0lieGZXTXJCMWJDX2VScmFrTjA1S3ZOUU02Xzk0b1hNTzdlMDgxT0hxVktXS2FpYkdQd0lmMkh4b1J5VV9n?oc=5",
    "summary": "",
    "image": "",
-   "source": "Philstar.com",
+   "source": "Heavy.com",
    "region": "PH",
-   "date": "2026-11-21T16:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3edd8cbf60",
-   "title": "How Meghan Markle and Prince Harry Are Coping Two Weeks After Thomas Markle Sr.’s Arrest",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWR5cGw3MHNsZk9pV084c1duWVFPSURQYy1mZWlVQ2FWSGphT0FSMUVhWFYwOVVuVkpMNVlycGVZR092MEF3aGw3VGJ0X3Fha2E0TkoxcjNJeHBURFdmZ0wwdW9PdlBUMWtsakpEOEJSQ053XzBUSjV5cU1WNnB6V2hWMmZtUGExV1RFMXdFT2F6WVhfaUdjanZTR3pPMVo3Y29Malk2Njg1U3hWcWww?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo",
-   "region": "PH",
-   "date": "2026-11-21T15:46:04+00:00",
+   "date": "2026-11-21T14:29:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -345,6 +345,23 @@
     "flag": "🇵🇭"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "3b339791c9",
+   "title": "‘Perception Of Video Games Has Shifted’: Long-Controversial ‘GTA’ Scores Massive Marketing Campaign",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOE5vUnNhaXZGRi1POU9vc0FscTVURldzUzZvZVBqazFDQzJlRURJaTd6b29yeW1XSktoY1ZKam1Jb19ieDVFeEZKTnk2SkctQTBtNmxScW9jSUJBWFVPd0xfQ3JEaGJHOWFQNG9uVzZDc0l3WGozTV85M0JMenRVUDdUcW5Ha3VXTXhSNmE3Y1cxVWE0eXlkSmU1X1NISkktN05uT2x2YUQzcklQM3pZME1EZzBpeGd6RDFfakM5SVZScVhpX3NXVzdQOFBBdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Forbes",
+   "region": "PH",
+   "date": "2026-11-21T11:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
   },
   {
    "id": "b07a72031e",
@@ -398,21 +415,21 @@
    "topic": "Society"
   },
   {
-   "id": "2daf6b1482",
-   "title": "Wired headphones are making a major comeback — here are the best pairs to shop now",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vSEVIQUtZQWlyNjhZeE9ySkhpR1ZaQUl2YWJQdDV1R1JWNmhFWVRubHdtUWlzRUZLYURndzZNYXZpY0JVbG5fWEl6WFh2Mlkwb1c1Xy1JUVFvT3NJRzAyNzhUanpLQTdXazBaSHFmeDVsRGZ2akZOUEJ5RDY?oc=5",
+   "id": "4d7ee73746",
+   "title": "Smart feted for AI voice enhancement service",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDV3RC1Td1dGM19VUk1HN1BmcWRQRG41THRxdVNnNDNLMG8teC1wLU9oMWIxY2tHS1dzelJPTUFjU0kwN1ZoaVMwZHJEUGRVYS1xdDNjYXVwdmxwXy1DRFBiVzNPZ0JNWTN0bmJvT04yLU1nZjZ0cW5uTk83bXZ0dWh4ai1CTjZobE80WUY4ZFU4R3NQdkYwNlVmdjVuMUZ1ODhHSNIBqwFBVV95cUxQQ0JwREhZM3l2U3BHWjRVOVRndVFrZVBJejVPNXhMY2VHNTBHY0FSRmZDYnJ6ZHNDUzJRbWdtSlVfMWdzSjd2ZWVBYWpaQlhBRm0zTG9jaFdwWFpQeGNIREYzOEhSYktRSU9VRTVxUjJ6UzUtVUhiMC1QMjdKcUhzWm5vRG80XzhUR0JSV0V3OEluelRqQW9RS1ZpclhicGxNbXktbm9UY2N5Tlk?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC News",
+   "source": "Philstar.com",
    "region": "PH",
-   "date": "2026-11-20T21:05:00+00:00",
+   "date": "2026-11-21T02:39:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
     "place": "",
     "flag": "🇵🇭"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "cb323b7900",
@@ -430,23 +447,6 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "099ef4758b",
-   "title": "Dengue fever: Mandaue wants to inspect private lot near school",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3FQWXJxamJySUdsVVB1WDc1eldMbDgzQU9RbkU4YmlJbWxLYVBJN29UM2ltLTRJaG1DVGN1V256WUVtQ2lORWJacGE4LXdrMEdVOERSdnJFYjVqNFlOMnhWTXhVOHNGUE9hdjJ4Q3dTNGJfVWtzODRiY1VXVzFtVjh3MUFYOUw2T0lway15LWlHbDZMcFF1bzZZWUlHa0hqNjBFc01R0gGrAUFVX3lxTE14cFlERHBJbW9lN1hhdERyWkRtZW5WdTFpcGdYdUtHZzhOYVNleFF3TjFLcFB0QldyQk1uUmRXZkNXS0E3Y1VEcXI0b21BU01pSDJ2SU9tY3lEVUV0dVVlT3ZmbGxRUTZyNmZPeFVMNVV6V0FqQk9YaWs1TE9wc2tPR3hSUjhxSWkyMDFEVFQ0UEQ1NjhMQ1lKaTQ4UXZRVVNhVEhiUGtjOUhEVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cebu Daily News",
-   "region": "PH",
-   "date": "2026-11-20T11:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Health"
   },
   {
    "id": "5cd55ebe4e",
