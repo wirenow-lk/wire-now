@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:57:43.618170+00:00",
+ "updated": "2026-11-22T18:44:26.415487+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
@@ -12,23 +12,6 @@
    "source": "Herald Sun",
    "region": "AU",
    "date": "2026-11-22T17:28:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d9fb96c02c",
-   "title": "A young Egret flew 38 hours nonstop in Australia, now scientists are tracking birds to monitor bird flu",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQVByLUw0cjlOTFFqcnUxM1JfR2NwNnJ5RDZLbS1xTHk5SnNZVkNTT1hzZnBwYWlsY3ZpbUdvSFBqNWZHdlQ3RUpWR0lhbzF0MUx4WlIzQkRTU3Q3ZkFIMVFsSXlpb2tuMEcxdHlrUzVWNk5NeWFsRzA5VFVJS3ZGeHlYTUxtcHdyQ3hzTFlTX1JpWEU4bzdIdzJTWVhGdEVPNFdJRWI3MVFrTXFIZXF0M3BoREJYT19GMlRYMzZqWF8xV3dxSXRrMVJtNjViQ1Y2NHZ2WWc1QmF4MzdrclRFVVA5dW42bnpSTEc5N25EREQta1dKMXM1SE9BLWlEdy11Q0xub9IBigJBVV95cUxOdkU2TDUwRFhLSXZpVnhGT0MzWUcza2VtdUZOcGg4ZHY1cXFhMTJ0d2l1bHZhQ2dTRDN2emJ3cmJuSHQ4ZG9oUnZfcU1PS0FzVDVMOVZydk5CYmp4cmd2bFFVQkJ3NjlkWEFjMUZlakZvanhYY1JmZE5oazZnWkNsaFZQWm9qdkhScTItcTRSODNvVHhCWlBHYnJaLVRCSlBwWC1aYi10cEhFTHRyT19pNWN2YjZ1Qzltc1poQUhMTjdwZkdoYkc3QXoxQXI2VHdlM0MzXzRkcmFOeFRzMnI5MGJNdW93cndybGljUmVjRHRGSGc5WWtha0RwTGw1aHMtVkREZHd6SWc2UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Economic Times",
-   "region": "AU",
-   "date": "2026-11-22T16:04:39+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -72,6 +55,40 @@
    "topic": "Society"
   },
   {
+   "id": "de89dc5850",
+   "title": "32% of postpartum women report needing mental health care in survey spanning 16 states",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGFjU3RHOXRzLXBoNjQzUm5kT0RZX2g2R1loREhmNlJYdjdMcmx2ZVo1dDY0X3VjWURFcnZpY2VCVXZzLXpJYTFUNlp6X0tUeWV4MkFSdWZqYUhZUUVoaHVlWmozd0xfak5zNVRuMnFLaVFjbGh1WXlSM243Q1d6OUZRU2Q3WjV6?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Medical Xpress",
+   "region": "AU",
+   "date": "2026-11-22T15:30:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "72bcb10c90",
+   "title": "Bowen takes blame as COP31 climate talks collapse",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVy1lUDRFVDJKUDRwSFJLTDhNTURwZjFGajJFLWd5UHd6ai1lVUpkY3BmaUJFZ3dZRE04VldOWHFhOVRtRGZEamZtcDF6Y3pBMXI4U25sdVBpUkEtdG5taVlXS0NxNnpZQkZ4dlo0S1NrZ3RaTUhGMGtlazAtb3NtLWEwTW00VFl5RHVKakgtM0F0NndOeEFYWklDOVlzTDBVOUVHZTJUN0ZUTUhtaVdOUnJzbTBSbF9tZ1JFLVFhMktCeElOWS1mWmNkYjFwMkdYZldZNXVBSmhpa2dfUlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Australian",
+   "region": "AU",
+   "date": "2026-11-22T14:39:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f305b5163d",
    "title": "Thermal IR from Sentinel-3C shows WA’s land and sea",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEF6UklsWGdJang5VjVyZVlqVFhJZEpHMDRlNVBXTEpDUWJ0RER3YWN4LVJNcW5xWmJuZFdTUXppa1lNajBiNnFGMC1XTThFMkpzRXRTUTc2a2hRaFVJay05TE5kWEpzMEwtODkxOW91U0puRm1FMnlyajRsU1hyb1RlM2I5cV94MUE4Ng?oc=5",
@@ -89,14 +106,14 @@
    "topic": "Society"
   },
   {
-   "id": "2a36ea5ebb",
-   "title": "COP31 deal failure 'very disappointing', Chris Bowen says",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3ZqYU83M241RHQxcUIzaHlmZkRfWlZEOUxYV1dRcXNKbFBveUxGTXJBdk5mX21lQ29VR2w0czNyVUJ1dGZ2am5QQ2pEN2xPR1BDeHpoSGZRTk9ZeWZVNzF3RUJpdFUxODBodmZYQU1tSGczb2dxbk9tMjhweDNIcG8yNk9ObWk4MDhkRjVpeXItbHBndG1HTXRZdUNTYlpWRTRRZnVKTHc?oc=5",
+   "id": "ae4d1907b9",
+   "title": "Physicist Builds a Black Hole From Logic Gates, and It Leaks",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmtRU2lnSFRLYkFWOW5ON3ByNUlnclNMN1ZJdXVxc0xpdVpJaGVhNjZOSVhyTHM2VDdYUXhBeFFWYnRUT3ZzQTdiUzQ2SEpiUHhnTUR5R0VlYzZJZHNyellwRG9lWks4YWhON19BalEzVTNsV0U5S2UtUU16amlDVUpzblk5eUxJX0s0VjNJTUhrZ3NFTlhWenNRRXQ5ckV1?oc=5",
    "summary": "",
    "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "source": "Around Prague",
    "region": "AU",
-   "date": "2026-11-22T13:43:02+00:00",
+   "date": "2026-11-22T13:45:52+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -114,6 +131,23 @@
    "source": "Around Prague",
    "region": "AU",
    "date": "2026-11-22T12:47:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e10942d184",
+   "title": "And the winner is: Chicken green curry pie crowned Recipe of the Year",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGV6dHM5WlduQldnbmFFQ1pHREc3SFFNS2lDdW1UcVJXNURlQ2JZMUU3WndQelA4cExXVG82bF9tSzY2MDBYY0F1QnBYOEJhNDdkbGVmN1pPcDJ0REY5dzZ4Ukdpclk3bUlfZkFkaXlqR3FjY2doSUtnU1JCV1JEeURJN3o1U1B5OHZHcXAtUWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-22T12:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -160,23 +194,6 @@
    "topic": "Society"
   },
   {
-   "id": "294535b64f",
-   "title": "A Physicist Built a Black Hole on a Chip. Then It Started to Leak.",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYS1xVEk4YzdkQ0VpbGltWEt1cEJ4SWdwVFFJUUsxamRoV05hTE85TERuSWxXNmRvYzNOdUhqX0hrc0t1emtmZzh4MDk0UnFvajgzaHVXWHlEYW04T3E0UG5DQmdYb1F4S3d0bGV2Q012b195M3lFWFZTeDJEUGgtSTZ2RndoZ2Vsazc3bUNod2FtdEJjRUUtOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ScienceAlert",
-   "region": "AU",
-   "date": "2026-11-22T12:04:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "efc39784ac",
    "title": "China on verge of eclipsing US power in Asia after Trump stumbles",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWjZpVTBnclA0ZUl4dnZlX0c1aXNuTmtYeU96S0t6SWt5ZS10Z2lNQklvdXdLRi1tSDdESDBwSHdabXpYRDk4cmJpaG9HZ21KbURVRi1zZGJVajBDZklqZ3VKWkdhVXYtUDJpVHk2bS15cXg0amdFUUtJQVVsbzVaVm9KNUE2aUs0RWs1N3dmWmw3bzQzdS1FUGJCajdIMldqUnlEUjAwTWtreXFNR1RMbDAySGRqc25WUGpRWl9YWkM0Wlk5ekh1Yg?oc=5",
@@ -214,23 +231,6 @@
    "topic": "Politics"
   },
   {
-   "id": "5d82b3fc32",
-   "title": "Newspoll: Voters lose faith in Albanese, Taylor now preferred PM",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOajRBZkdGVzZkZEM5SVZycUp5QWxmWE16Qjl1UXhJTWxnblE0dWNHSDF2bUY1dm5RQUpUUkFObndSYWQ4cUZza0JVYTUzVEJFeEJ1ZTRnd2IxbHlKYk5ybW5hWGxlSnJ5cEI2TmlBVzVSNjNfYUVoMk1CelZBSklyWWRjY3U0LTBqRURRdVVQZ0wtNnphRjFMWkJZeG5WNGtrc0hqT3ZCLWpNdWpGRHRHVTVtai1LSjdFbVpETlZWQm92aktsdkdkb2hZQV9idFRLaDY2eUlfaWZXTm5rN3pHSFRycEZGOHpLcjVPcG9vRDZ4RTRpOVppejRYRER5ZlRnbDJlNHREZjBnYjMtS0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Australian",
-   "region": "AU",
-   "date": "2026-11-22T10:33:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7959b77caa",
    "title": "Wallabies still have a pulse despite nervous moments in win over Wales",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3hOZE9iOFFpd3dvZTBocVpJaHdRdjk5WlR4UFR1UnB1M1IxTGNtWlJJUF9oU2dUX0xrLXprajU1ck9ab1RiclBrSjJHMjFmZUVTMENCNGdjc01LNVdONFpUOS1IVU5kOXNGd3lmWVdXRjRMNXhtbHNxRDdnVlQyWlRCT1p0eDZKVkpWbXBabG5wYmFmb2dCbFE0TUZWWEtXakdKclNOSGdGdw?oc=5",
@@ -265,21 +265,21 @@
    "topic": "Society"
   },
   {
-   "id": "2db05542b2",
-   "title": "Big AI warning as parliament draws to a close",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMGhHOF9NT2c2ZEVQYVo5TFk5RlJpUDNsZFlfU0RVX1FTWll3ZFE1RzBGbm1nd205eEx3cFd0VGZ5eDhoRHhmM3dMSElhN21sNnRMMzBjbm5BbXpWcWEtd0RFQ0Y4VDQxNXdha1o4QmdGbVRiOHBTWGo3TmRwdG5rSGU2MHgtbmpIaVNCSUZMOFNFNy0ySmFaMUFDSnJwZE94cldVVm5DRXRDeEI3NWYtN1lOU3JwbXJZZDRFaTdaeGwzdklCZ3dkQ2lROG1GNEZXZW8zZktYSGhtclg1Mzd0M2hSd3c4WVNTLThydHZXWE43RmxIeVBXa0doVGo?oc=5",
+   "id": "ace598834d",
+   "title": "Four charts reveal how the PM built the biggest, best-paid office in 13 years while slashing crossbench support",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZmoyWWEtSnpmNFFLMm9icF9NYkhEMXQtOVhuREx4YzRtT2NzR2pCMTZTNG5FNmo1bUI1SnpGdTBVUmlQR0ZtNGZDVE9fbmltVWhwQ1NjMWpkTzZ6bXE1TDFKZVEtOHliZmRCMTBFUkd6LU50dE9sS0o3MGN5OFpzYWQzLS1xV3VnSnE4LW9RX3pBVTBxU2NEd0VpcnN0TDdRYmhRcmo1WEZXZml6ZWp2WmhfWWdlTTY3LTJsNWtCRTdTV190dHZwaldKMEhMUGlaMnRqNUpJcmdmSEUtX3ZVWHRpVTFuNXdvU0kwRDlLQ25GbmlwRGt4R25QUjRCTzBTX2xldA?oc=5",
    "summary": "",
    "image": "",
-   "source": "News.com.au",
+   "source": "The Age",
    "region": "AU",
-   "date": "2026-11-22T09:56:35+00:00",
+   "date": "2026-11-22T08:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "705aebbfc0",
@@ -299,31 +299,14 @@
    "topic": "Business"
   },
   {
-   "id": "4274741241",
-   "title": "Husband charged with murder after wife allegedly stabbed to death in Slacks Creek home",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUkVROTJQOXFnaGE2MExiQ1dJNTFxbjZ2ZDRtSHRYQnVEaWdmVmhSdk9Bd1BfM3M3YXhKNU1PTVhJa044YnVBX01FRzhqZ3BoeWNRU2tEMGZpelFTd3R1b0lfUmJzZ3FaUDNoVjBwM3RYWHZrUkJ1Y3JsanFnRHVEQndNdWt2bXBkQjdwRFphQnE0Nm5hOVJIVU5aRVlsZm1tU3VNNlVuUTFSa09PWF9sVldlS2FMT0x1LUI3Z3hvY01kTjdCMXpQRW5vdHpVLTJvbjVtVG02M19sSDRaU3BJcE9ubTJRb1YwdmZyVXlqdjFSbFNuRlN2X3puVDgtOC16T20wRmZwRlQtS0NIaExBWUtWbw?oc=5",
+   "id": "4992c5da9d",
+   "title": "Project Emporium: the David Jones buyers pitch revealed",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNR0RtUWtEd3FHdl9acWFIZS1GUTZvUVBLc24wWHdVV190SldaZGxlYmJ4alI4ZndXZHFZQVhmOTJ1Um9Gb1pVZTV5QmVfb1FCUnRzTGhzVXB3eGFwbmRDcThXYk5MWkYwc3NiX0F6MmQ0eHJzLXhuSzBkalB6NlI4ZEdQZ3NJV01ySnJwWENUVWI5akxBbDg1dFBkTkZSbEFwcklUNlFYMzBKQ2lNOF9NT3ZZTHI4d1VKZlpDWW01Vm1TVUstaVhFRDdjTEdnYlJ0Sk1GelRiWk9aN282MW1fTHZxLUFVTVhBTU5wR2dOdFBBM191ZWliOHphZmpETjBOR0E?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Courier Mail",
+   "source": "The Australian",
    "region": "AU",
-   "date": "2026-11-22T07:43:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6d836b3a3f",
-   "title": "Get down to the WA Day Festival for a final night of fun",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0Rkb1BFZmlvYW1aV1drZHV3Qm1XaVpwYlpRd3hXaFdSUkRGQTF3TGNPSGZraG1YVXM1TEcyOEZQTXp3YXg4eXBaNmlVR1R3ZlhDd25waHJQTGZJR3pIcVF1Y1lIaTk1anpXSGVEMXZzcGZ2bWNDS1JxNHoxMHFRZ2xJRTVvSlN3eUt3N04wQVJ1aklMRmlhd1dMdzlJZUtpTGItTFlmR3dJcUw0OExxU08xZ190UHU2dlE4UUoydGlfcE1UQUhn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PerthNow",
-   "region": "AU",
-   "date": "2026-11-22T06:38:00+00:00",
+   "date": "2026-11-22T06:21:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -348,23 +331,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "4992c5da9d",
-   "title": "Project Emporium: the David Jones buyers pitch revealed",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNR0RtUWtEd3FHdl9acWFIZS1GUTZvUVBLc24wWHdVV190SldaZGxlYmJ4alI4ZndXZHFZQVhmOTJ1Um9Gb1pVZTV5QmVfb1FCUnRzTGhzVXB3eGFwbmRDcThXYk5MWkYwc3NiX0F6MmQ0eHJzLXhuSzBkalB6NlI4ZEdQZ3NJV01ySnJwWENUVWI5akxBbDg1dFBkTkZSbEFwcklUNlFYMzBKQ2lNOF9NT3ZZTHI4d1VKZlpDWW01Vm1TVUstaVhFRDdjTEdnYlJ0Sk1GelRiWk9aN282MW1fTHZxLUFVTVhBTU5wR2dOdFBBM191ZWliOHphZmpETjBOR0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Australian",
-   "region": "AU",
-   "date": "2026-11-22T05:50:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
   },
   {
    "id": "71d87aa32e",
@@ -418,23 +384,6 @@
    "topic": "Society"
   },
   {
-   "id": "fcc1b187eb",
-   "title": "Chloe Pink Describes Abuse After Cricket Screen Appearance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVJaelFvNnRYcVFUUDRXU29fNVJVbXlfbDR6SWV5bEV0RWNrLWd0MkZfSFNkbnlzeUo0Zk5KTm05WjI3WnZoUHF2dmZfZU1Sa3p0em1HNGpEd1hkTlhtMmdoT0hQT1Y0YlJXcFBvNGZxM1lTQVVsX0drc182Mk5BOG1HTFpPcG9LcU4taTNn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "JournalArta",
-   "region": "AU",
-   "date": "2026-11-22T02:56:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Sports"
-  },
-  {
    "id": "26b33a2a7f",
    "title": "Smith’s hero’s welcome on return from Sandpapergate hell",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOanp4c2lqbUpxeUVySG45a3pxTGs5WHFza2Zob0FjWXBJbVdtdmNmdEFTaHRjcmRpUHctaksxY04zVVlyaWtFb3FWZkJIYU1zQUppS0NLeVZLR3Z5cGhxaUlkN0NpQ29FRjlacUVWek5OVk4xcEpsRFIwWnp3WDc0VkF2MjJNMHRIWDhjajR6dWNfM0lvV19POWNnYVhheUtyY1dKWlc4bUpGUGVuLWxIbVdwR0dJVzJndkdET2t0WWZOLXF5WjRZLW5DQ3RyNi1teFNiZUNYS3ZFZkd2X1JvVUdMQkNlVERRaU5HdXN3?oc=5",
@@ -459,7 +408,7 @@
    "image": "",
    "source": "The Australian",
    "region": "AU",
-   "date": "2026-11-22T02:32:11+00:00",
+   "date": "2026-11-22T01:35:41+00:00",
    "coverage": 1,
    "location": {
     "country": "Mexico",
@@ -537,14 +486,14 @@
    "topic": "Health"
   },
   {
-   "id": "493ce218b5",
-   "title": "Usman Khawaja: story of ‘outsider’ who plunged Australia into crisis",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmJ3UmdHdHFEejNOZ1JoQ0tUY1EwVUFTTkNvUlQ4SGpJN2VlVjREX2t4WndqOHRlYWlCSmI4RnBKV2xzTElIYnE5S29ST3hHMEFtTTNkZHFZcHNOSEJ3X1FSNkpvd1hSQW1nX1BXNF85U0x0NHFLRmQwMzdtOHhyY3ZmWHZ3bDBVOUNPcmRuMTlhTG1mcWRHbmV3?oc=5",
+   "id": "1d501ca96c",
+   "title": "The science of 'old person smell' and how shame sells soap",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDlJM1hKa3pZVEV3LW1OeHFkNkJEM1ZCUldha18wdFdIaXNjY1NKYktTb2R1ZGw5Vm9md3A4VDl2VTBJY2pSMkl1Q3B5dTJYSE16Nm5wdEdWUDIxXzBvLVdRNHNKWXR4d1E3VEFFamx4cTJSLWJOb0RJVGhPM0RyR3pWM280V2VZcFJQejVFdENXektSdklj?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-21T19:20:00+00:00",
+   "date": "2026-11-21T18:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -562,6 +511,23 @@
    "source": "News24",
    "region": "AU",
    "date": "2026-11-21T18:01:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "86e20cad70",
+   "title": "‘Hype, opportunity and threat’: Spy chief warns of foreign interference threat in data centre boom",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcUo4WUU1c0RURk1ISWFKY202dHBRQVNzeUlDM05mM2lSeXRGUWpmNGk2elpGUHl1RHdHaWxRczdrRGg5RTRpbnBzR1FEUjA5SFVaNXNCVmxKNk5QbW4ycGxySUliWlZlODlmQ3ZHQmtyc0RDX042QTQwZmNidzVhZnlKSW5EeWxsRjE0MFlpalNWaDVHYVV3Y3c2YzdaZjVTNWZBU0dlLVBjZTZzeFRrekVoSjdjeFJiMW5DYlNPMmJjSy1UWXFiOUlTU01kdVBTRVhYRTRZV1dlZUVSNThGRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SMH.com.au",
+   "region": "AU",
+   "date": "2026-11-21T18:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -622,31 +588,14 @@
    "topic": "Society"
   },
   {
-   "id": "187326316d",
-   "title": "Albumin treatment may improve outcomes in selected patients with cirrhosis",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlBKWFhyb1dBOXBLbzNBWGNCTjAzRWhNUGs2RHVQejJTUENNdHNBTTg1ZzN2VWNyNUdScDJPZHEwcGZSV1dFVWJTV2ZIT29od1haSzZRUEZQeHlGYzV6N0FJVEg0M0pOODQ5aE5QQTNqRXB5TkNCN0syLXJEaWNGQkQ1cmxMWTNyWV9HT1h4YzRvTm5ldEl4eVVTU2p4WG5fSDNJUEJIZ25WbW5mdEl0Y3Z5TWR5V2tmbHc0eHdwWQ?oc=5",
+   "id": "71d9bfb72d",
+   "title": "New twist in Wests Tigers pursuit of Jamal Fogarty",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0hkZTd2MnJsbTZDVDVuMXhhRVVGbVdmbHNXVzltWDh0Z1VwYW1ibDdkMzRQcG1pN3UzOVRqb0VWV042UHpLdzZNM1BHVUcxRmNFQl9kX2R3Z1BpMzlLVjNTMDdfN19BX3dlS05kRTJMVHhyaTJaX2F0UTNPMnhrUGJOcGtadDljMmtFOFp3?oc=5",
    "summary": "",
    "image": "",
-   "source": "News-Medical",
+   "source": "Zero Tackle",
    "region": "AU",
-   "date": "2026-11-20T21:12:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "6d3ddf9df4",
-   "title": "The argument for standing in queues, talking to strangers and slowing down",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHhjOWdET3RZZkZJcE5WWFhiZlVfWU9uMWxlMjNVV0x0WXkwbUE3TVJlT08zbDJzWkhFMTFZRno0dDRsVVdxTjBWYVNoMHhTQV9UMUE2ME51MkhwX2MxUFZVaGEtYUMwdW1pMUlSR0JGQWdJQkZrMHBfSzNvR2JtODc2T0RFeG1lVjQ0b2Q0Y3RySEpmREJ3YUxwby1jYnE5M0ppRkJ3dUNXemp1Vk91NQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-20T18:30:00+00:00",
+   "date": "2026-11-20T23:10:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -654,6 +603,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Society"
+  },
+  {
+   "id": "7e6327b524",
+   "title": "New Cedars-Sinai center aims to advance the treatment of gastrointestinal and liver diseases",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXdMWndSWXJOYkRaTnhacFlBUTByODc2d3FPQUtDalBCaHdtTnY0NWJOWm1NWGdUb0FvODFLSHM2aUFaTHRRNEJpT2xXMGk4RnVVcFFwQWRTTmJ1RHpXTFdMd3plSVFwZk1TR1djLWNqSmRVQ3FIcFpQbm5zMFVvX3BGQ0JKT0JvWE1QMTdZM19ISlZaLVhMNDBrTW9BLXR6NlludUZWVmVPSDlmN3NhcjlWWmgzYzZGRlRIWkgyX2dCdjV0am5zeUt2cUd0eUhKUnFEdTVxdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News-Medical",
+   "region": "AU",
+   "date": "2026-11-20T22:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Health"
   }
  ]
 }

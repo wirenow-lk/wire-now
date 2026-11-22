@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 55 stories
+OK   Ada Derana: 56 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
-OK   EconomyNext: 7 stories
+OK   EconomyNext: 8 stories
 OK   Daily Mirror: 41 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 14 stories
-OK   Daily News: 13 stories
+OK   Daily News: 14 stories
 OK   Sunday Times: 81 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,52 +21,79 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 91 stories
+OK   AP News: 90 stories
 
-Biggest stories right now: Countries react as COP31 climate talks collap (8 outlets) | Russian cargo ship still on fire off Finland  (7 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | Sri Lanka and Thailand sign visa exemption ag (4 outlets) | Russian vessel hit by suspected sea drone at  (4 outlets)
+Biggest stories right now: No to a 'COP that greenwashes fossil fuels':  (8 outlets) | COP31 climate talks close to final deal, says (7 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | Suspected drone attack causes explosion on Ru (5 outlets) | Russia-bound ship still on fire after attack  (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Dilith Jayaweera takes global Sri Lankan entrepreneurship initiative t
-    no AI summary: daily limit reached
-* NPR [1 outlets]: International climate talks end in disappointment
-    no AI summary: daily limit reached
-* The New York Times [1 outlets]: F.A.A. Says All Delta Flights Through Atlanta Delayed as Automated Sys
-    no AI summary: daily limit reached
-* The Guardian [2 outlets]: Indian opposition party’s youth wing warns of more Meta protests after
-    no AI summary: daily limit reached
-* Al Jazeera [2 outlets]: Bruno Fernandes says contract talks on hold as Man United battle poor 
-    no AI summary: daily limit reached
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 6 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
-  "error": {
-    "code")
+* Ada Derana [1 outlets]: Two dead, one injured in train accident in Trincomalee
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* FantasyPros [1 outlets]: Fantasy Football Week 11 Player Grades & Start/Sit Advice (2026)
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* WDSU [1 outlets]: St. Tammany deputies: Crossbow killing suspect admits to killing woman
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The New York Times [1 outlets]: College football Week 12 winners and losers: Jesse Palmer, Curt Cignet
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: US intelligence chief says Putin is 'not America's friend in Ukraine'
+    important (also on Politico) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
+    gemini failed (The read operation timed out)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
   "error": {
-    "code)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
-
-Countries: IN 38, PK 30, BD 36, US 36, GB 35, IE 36, CA 36, AU 38, NZ 31, SG 28, MY 33, PH 26, AE 36, IL 31, NG 29, KE 28, ZA 33, GH 28, FR 33, DE 32, JP 9, IT 32, ES 33, BR 32
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: the name/word 'Lankan' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 failed: no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (429)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -75,8 +102,19 @@ Countries: IN 38, PK 30, BD 36, US 36, GB 35, IE 36, CA 36, AU 38, NZ 31, SG 28,
   "error": {
     "code": 429,
     "message": "You exceeded your )
-
-World Pulse not made this run: no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
     "code": 429,
-    "message"
+    "message": "You exceeded your )
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 7 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
+
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
+
+Countries: IN 38, PK 31, BD 36, US 36, GB 35, IE 36, CA 37, AU 36, NZ 31, SG 26, MY 33, PH 25, AE 36, IL 26, NG 29, KE 28, ZA 32, GH 28, FR 33, DE 32, JP 10, IT 33, ES 33, BR 32
