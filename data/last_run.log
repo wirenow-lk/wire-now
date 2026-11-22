@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 33/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 34/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 29 stories
+OK   Ada Derana: 30 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
 OK   EconomyNext: 10 stories
-OK   Daily Mirror: 72 stories
-OK   Hiru News: 87 stories
-OK   Newsfirst: 10 stories
-OK   Daily News: 16 stories
-OK   Sunday Times: 71 stories
+OK   Daily Mirror: 43 stories
+OK   Hiru News: 95 stories
+OK   Newsfirst: 11 stories
+OK   Daily News: 14 stories
+OK   Sunday Times: 77 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -20,67 +20,118 @@ OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 98 stories
-OK   AP News: 81 stories
+OK   Reuters: 100 stories
+OK   AP News: 85 stories
 
-Biggest stories right now: 'El Chapo Isidro': Mexican drug lord on FBI's (7 outlets) | New draft deal aims to avert collapse of talk (5 outlets) | University of Jaffna launches internal probe  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Dozens missing after fire at Indonesian facto (4 outlets)
+Biggest stories right now: New draft deal aims to avert collapse of talk (5 outlets) | Fire at confectionary factory in Indonesia le (5 outlets) | University of Jaffna launches internal probe  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Verstappen wins in Las Vegas for third time i (4 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily Mirror [5 outlets]: New draft deal aims to avert collapse of talks at climate summit
-    important (also on BBC World, Daily News, Hiru News, Reuters) - researching
+* Daily Mirror [2 outlets]: DMT assures uninterrupted services despite cyber attack
+    important (also on Newswire) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+* Ada Derana [2 outlets]: Advisory issued for severe lightning
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Sunday Times [1 outlets]: Stable opening stand: Sri Lanka’s jinx or ordeal?
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [4 outlets]: Verstappen wins in Las Vegas for third time in four years
+    important (also on AP News, Ada Derana, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Princess Kate cancer documentary ‘Heal’ Sets BBC, NBC and internationa
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [1 outlets]: Three suspects remanded over alleged gas cylinder repainting racket
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: Rafael Nadal a near-unanimous selection to Real Madrid board
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* AP News [2 outlets]: UN climate talk negotiators go into second day of overtime while at od
+    important (also on Al Jazeera) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: AI did not reply with JSON: ''
-    gemini failed (AI error 400: {
+    gemini unavailable this run (AI error 429: {
   "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 2 failed: AI did not reply with JSON: ''
+    "code": 429,
+    "message": "You exceeded your )
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Department of Motor Traffic website hit by cyber attack
-    no AI summary: saving the rest of today for important news
-* Daily Mirror [1 outlets]: Workers’ protests planned for tomorrow, strikes on November 30
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Protective metal railings installed along hazardous bends in Nuwara El
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Bitcoin rises over 2% to more than $60,000
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Rare Titanic items sell for record-breaking sums
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Washington governor, union denounce ICE arrests of travelers at Seattl
-    no AI summary: saving the rest of today for important news
-* AP News [2 outlets]: DiBernardo’s ‘Olympic goal’ lifts Kansas City to its first NWSL title,
-    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
-Top 10: 2 fully explained
+Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 12 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: 13 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check: 3 stories judged by openrouter:openrouter/free
+  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 47 story pages for Google)
 
-Countries: IN 37, PK 34, BD 37, US 37, GB 37, IE 37, CA 35, AU 37, NZ 33, SG 29, MY 37, PH 27, AE 37, IL 32, NG 32, KE 31, ZA 35, GH 24, FR 33, DE 34, JP 10, IT 33, ES 34, BR 32
+Countries: IN 37, PK 35, BD 37, US 0 (FAIL), GB 35, IE 36, CA 37, AU 33, NZ 33, SG 28, MY 36, PH 27, AE 37, IL 31, NG 31, KE 32, ZA 35, GH 26, FR 33, DE 34, JP 13, IT 33, ES 33, BR 33
