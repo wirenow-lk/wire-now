@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:45:34.197016+00:00",
+ "updated": "2026-11-22T08:46:28.009661+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "AsiaOne.com",
    "region": "SG",
    "date": "2026-11-22T05:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "31ba63d467",
+   "title": "MPV catches fire in Yishun carpark, 2 other vehicles affected , Singapore News",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KNWlJU24ySXZybjMtd2M4UzNBYURFZ3AtdW91dGFZNmlxVVBXMmtJaVloWURjcXR1dll4bUdWVlpFLWVZQVZvNzFMeHNnZTI2Y0JYMUxMT1hhWEJ6eVJoNEFNRTVJYWpR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AsiaOne.com",
+   "region": "SG",
+   "date": "2026-11-22T03:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -95,23 +112,6 @@
    "topic": "Society"
   },
   {
-   "id": "a9f9bafcee",
-   "title": "Vaccination rates among Singapore seniors more than double over past 5 years",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1F5R205UUFBQUNQWEF5UXdVNmVvNEhPLUNkd2U1Vkc0dXc0X2VTS0JmbHh4amJaZXVMV2Q4dWdJSk5zVVYxd2FWRk5QNTFPZDNYb0swVXR6cXBZM0RYQjJEcjdMOTVPaFN6WkNuYmg5cmhMOGdJQklBV2w0b3BHRFpfQ0NSdG5zNXY4TzVDeGMwRmtfV0RTN1MtODBCYUtJcnZ4V1pjdjNBM1dzR3h6SWlPaERGNnNFQ0IzN19JWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-21T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "af953b88c3",
    "title": "Chinese electric car brand JMEV shuts down S’pore showroom a year after opening",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1JVNFBfc1FZUzFOU0R1ampHSWtqdjhaTnRGQWd0T3NLM0pGcndUN3ZmQTVNRkNGUkNoMTBDLWcxQi1ScVdrYUUwSndjeUNVY0xKUVd5T1hlVGltOV9DNU1WN1lkTk1zeEZiUXZZd29USk5PM3FvQzQtb3lnZUFnbUFoQ0NCSmN0bmdHVG1RWTdJMFlDNUVid20zRU5YdWxzV0ljZkk5bGctMm94WUsyTTlMcjBsSTdyaVJZd2h1SzM?oc=5",
@@ -125,6 +125,23 @@
     "country": "China",
     "place": "",
     "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a9f9bafcee",
+   "title": "Vaccination rates among Singapore seniors more than double over past 5 years",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1F5R205UUFBQUNQWEF5UXdVNmVvNEhPLUNkd2U1Vkc0dXc0X2VTS0JmbHh4amJaZXVMV2Q4dWdJSk5zVVYxd2FWRk5QNTFPZDNYb0swVXR6cXBZM0RYQjJEcjdMOTVPaFN6WkNuYmg5cmhMOGdJQklBV2w0b3BHRFpfQ0NSdG5zNXY4TzVDeGMwRmtfV0RTN1MtODBCYUtJcnZ4V1pjdjNBM1dzR3h6SWlPaERGNnNFQ0IzN19JWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-21T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
    },
    "topic": "Society"
   },
@@ -159,40 +176,6 @@
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8aa5694be4",
-   "title": "Man City, Enzo Maresca at a crossroads after Premier League stumble",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1dJZ052RDRPTEZ5YURVamJDQ2J0cHRyNnpXQmFQWk9lY1ZJMmU2NnFTTFB1bzlZdG8xQ25KdERyZ0ItcTBpTklsdmNyRFpYQVd6eElDMVY4dFZyQ2ltZG9PRV9rTEptN2MtUElTSXJMQ1FJUFQ1dkRyRWo1SXpHTDZhNVhsME8tS0RRZ05MRTVhYjFPeEgtSlJURUNVQm1qMHpaTjExbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN Singapore",
-   "region": "SG",
-   "date": "2026-11-21T16:48:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9ff361d519",
-   "title": "‘GTA VI’ to supercharge Sony — but not so much in Japan",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50cW1Sc1NDazVQV0tIdE5Dak9lNlVzblRZWkhwWXJVM0g2OXdHS3hJTTJVbWxxTDYxWC1jbjZmb0NhYnFmRFNjLTFMR0FzZjRyVlZzUzFEUmpPU1pVUXZTZ3JfV2ozcVRtMWZnRDJhaE5Lc1pnbEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Taipei Times",
-   "region": "SG",
-   "date": "2026-11-21T16:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
    },
    "topic": "Society"
   },
@@ -282,23 +265,70 @@
    "topic": "Society"
   },
   {
-   "id": "5acf31f68a",
-   "title": "Some US-China bifurcation may be inevitable, but Singapore still has room to navigate: PM Wong",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcG5YQWpjYUlFcFRpdjl5NlNJOUozRXFfcVpwNTBmdnFwaGhsaFZFUzVPSnZPS0c1QW1fclRGR05IUUJDNXdGcHpEWXd5OVJRZ2c4Zk56cmp6MUttd3VIWjdpd2k5Smc2U3M3QlBwUVlDUXE4aHpuRGwtX212ZE5yaUMwdHd6bXJ0QXpiNURrbEJfU1ljaFJzZnY3T2lhcWFON2tYNk83SVFDR2c?oc=5",
+   "id": "debd4cb3b7",
+   "title": "Grand Theft Auto VI download frenzy drives US internet traffic to record high",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWJJMEFoRzR4LTJEMlVzcFRFT3RtdF9lVThjNDVSWFN1aE0teTNtWW9QdVBnQlM1TFF0SXpEY2xhckF6Tng3Q3RJb0N0VlFlUEdnZnMyU0FqdmlEWTZKbml2aHYzQVp3c2FOV3owZXRkUDlibThQX2tTVXhJQnQwZ3RoSll3T1M4OVFBNFZBdUEzdmEwMFRNQjNTMTRvd0VmOE1YTlBpUmFLVTJWcEhVYVNkSHg?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNA",
+   "source": "联合早报",
    "region": "SG",
-   "date": "2026-11-21T10:00:00+00:00",
+   "date": "2026-11-21T11:53:16+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
-    "flag": "🇺🇸 🇨🇳 🇸🇬",
-    "also": [
-     "China",
-     "Singapore"
-    ]
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "9ce2a519f5",
+   "title": "YMCA’s Youth For Causes portal, associated database hit by cybersecurity breach; more than 13,000 may be affected",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3NXQm42ZG14QVY4WGFjZG9QcWZFb3dQdHpkeDVkbTZmZlZuSU5GZGZZelhhOFNja0J0LXRfay1HZERuS3BYODhucFh0V08wTXN4eHEyaGhvSVF1UEd5NGhfN1NPY2xidEo4ZDJvem8wWFFBa1NreFg2SGhac0RsSVA3a2xvYTdqQ2FxQ0VsSE5TWDVaMUhoaA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-21T11:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "b2a61d514c",
+   "title": "ICU death at KTPH: Daughter responds to hospital’s clarifications, flags ‘inconsistencies’, Singapore News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT05qZDN4TE1HdzhUUUR2UXE0alRlRmg4V1IyWkNyNXRHczMwbWVDNG1wdS1SUXdCRkhlSlhqZHVmSnA4eGZ1T1hjT08zNUgwYnNVeGcyZmNFVWM2UnlRTkVNZTFRazhJd2drelZfS09wOUU0MXdvREFiRC03SjZhbnp5bkxPcGFBRElLSGdVQ3lCaW1RSmFlVHNnSmx0Z2ROajM5LU94VTQ4TUpsZk4tSjMxMA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AsiaOne.com",
+   "region": "SG",
+   "date": "2026-11-21T09:31:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "2ca16c4a42",
+   "title": "Man Utd XI vs Liverpool: Confirmed team news and predicted lineup",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWUg0Ulg4ZE5LZFQxM01wSnUxWXpDbDIwUnZTMGZPQk9NSWpqc2NUM2lQbzZiMmg4X0E5Z2phSElmSzdJOHNTLURUU0xUT1FMdGFYekprRmxudGtxd215UDE1WEtEazJRZUtMYzZ4emRLenRCUldBM09TeUNKaGNQejZRVm5DSnhWWmJvSmt0bWQxOWEyMnBseXZOb01tejJHakJLZ2hIeGhPVGJ3Y3RQTFhNTmN1cDlmWmFlQXd4Q2xLVW1FYUVTeG1JR24wSDhzRHVBTkNQcTZkekloNGZnN0hjTTFWdjky?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "London Evening Standard",
+   "region": "SG",
+   "date": "2026-11-21T09:25:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
    },
    "topic": "Society"
   },
@@ -391,26 +421,6 @@
    "topic": "Society"
   },
   {
-   "id": "6462d93ded",
-   "title": "Singapore, China set to conclude over 20 deliverables at upcoming top-level meeting: PM Wong",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTy1wMTRaa3FmTVI1T0ZRbjlBZFR3WXg4V01Bd01wdF9RWDl5UDNMcUZ1NW1Gck5hNlRwS2t1aDZULTluUXRvSjJaZk4tQlR4Y0dDcGxBbDNXeEtHSlRucGsxbmRfbTJkN0VIVkdyMzVzRXhiSlIzbHZuOUlQelJPTUNVT2prNU5JeDFB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-21T05:11:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬 🇨🇳",
-    "also": [
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "57412fdaf7",
    "title": "Rohingya in Bangladesh welcome UN court’s genocide verdict but say they want to go home to Myanmar",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFVYcWNwQ0xOX0lzNzA3bENRN1RUYWNnNllOZXJvLWR0cFFVV2NHTFc4VG9WVHJkTlZQcFNYVnl5UmxsREdVZW81b2lXeUN3T2Z6LWhLc0loeF9QNTZ2R25PeFFpM1ZrbFZpcU5iRzdnSFZYSU9QVlFkM2tza0RBLURXVmRoT3RrbTY0TnpPLVVUQjQ?oc=5",
@@ -431,6 +441,23 @@
    "topic": "Politics"
   },
   {
+   "id": "b9929032fc",
+   "title": "PM Wong meets Chinese Premier Li Qiang, says over 20 agreements, initiatives to be concluded at JCBC",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUkhYMDh6SW9ySGJVZ0g3N0RUbHc1MW82eFVnLTllM0V6X283WFF2bmNyN0tLdGVHQnZNNGJ2aXQ2dEk4aWxtc3dNUmRMVnEzV3lXT0lpUDRwWlEwZlVwU3RGMWpZUk11X0RGWE92Smd6d2drWGZqN0JtY3ZKSmtEZzc0Wmhqb3hWbHI3WWJLZWhUSE5jM2U2eENkak1rV19CUVM2RHAxZ1paMFEtNDBuTW95ckV2YlpINEJXaTdCbXE5SmNoekMwc2dHbURpZGZtemdKUURKZHRRQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-21T03:31:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "34ae805d99",
    "title": "Nvidia faces further blow after shock US export permit data release: analysts",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0FpWUJNQWpiZkw4Y21obm5jT09mamIyQjIyVFZSajR0MHFWdk9kTXV2dGVLNWZRYzliOG5BNmpTOXdPaml2QTBQMm5YeGpKYjJ4RDR1Y3RieEhJMklpaGtjWU1Sel9wLUxrSGlPZWU4V25rbVBQbjFxS0JEbkx4bndFVXZsb3FOVlRYdTJDTWhrc0xSUkx3dWJkMDc5dWFGbVNCMjdmY2RlNGU5OExWaGVPTEJNVzRaTHdTY2lXNVNwN0hYUUHSAcYBQVVfeXFMTTRIZWNhODVCNmVJcW5GSGhvWlQtRV8xN0xHQklvbk90cFJmUmVHU2o3RHZMWUpubW9FNGRKbnZZdDJwOEY5YjBJU0RGUHY5UFkwblRPYUZ4X0J2U1hITXl3SDY3dkRYUDI4Y3pDNkk3dDktcnZmS0lmUmMycnphbzBQSHhDM1lRcUpsaFcyMVhYN1FiY0ZYQXNWb3VFaHdqQ19OQXB5YTJ4MXYwU2FmR0dnUlRsSmJCdi05ZWVzcmR0UXR2SDdn?oc=5",
@@ -446,23 +473,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "91afd6726c",
-   "title": "Researchers uncover the mechanisms of adhesion formation after thoracic surgery",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUg0dzlLR3lCc1NHcFZmS2Nlc2lhWGRoT1RwMDNYeFlBcy15aC1XMGo1SGtfakMwUUlob0ludW4yT0VxZzkwUjNTTnZwYlhHbDhrZTBwM1JPLWdfVmc4YVpZeTVyTF82UmNVMzUwRzZKY0dZVnQydk1pc0U0d1pWaVBMLURLbHg2MzlmWWJuMS1FaWMw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Medical Xpress",
-   "region": "SG",
-   "date": "2026-11-20T20:20:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
   },
   {
    "id": "a8bb43a663",
@@ -486,6 +496,23 @@
    "topic": "Tech"
   },
   {
+   "id": "c733a3a668",
+   "title": "25 Times Employees Made One Job Look Surprisingly Difficult",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52cVluV0V3WENicy11OU11ZlFLSTZsRTVwSDR4TGdLNENhV09DQ1hpY1o2aWNyUXRlWkxGMFNUUDNJT3Y5SlZEVk14VkhpdVR3V1BJVDljdGp2NXVoN19EdU16LWo0SHBQUkZFR2FTenVjTVlBeUx3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo News Singapore",
+   "region": "SG",
+   "date": "2026-11-20T13:15:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3cac130c8f",
    "title": "Fluorescent polymer nanoparticles combine cell imaging with light-activated cancer therapy potential",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0teExMSDZnSWcwOENZdjVST1ZySm93SzJWWWZmeTJWSlNyenRNQU1uLW1iTS15NWNhVTRKYTR2Mkk4TjcwZzBVUmlhVXc2d2c1eTY0ck52SzBibjNPSDJZMFFLdWtmaUR1Q25SOENtWQ?oc=5",
@@ -494,6 +521,23 @@
    "source": "Nanowerk",
    "region": "SG",
    "date": "2026-11-20T12:21:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b807e02e69",
+   "title": "Youth groups call for Najib's house arrest to be suspended, announce third anti-graft rally",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYTVRUmtNbE9WTU83bEpxNzVzSWEzeFh6cWl1dFhPUEh0Q2lJN3lia1ZfQzk2RDlZTzdFT2dfdVRNNUlWWEh1OFR3VTZLUjZsZ2FxS0g0UEN4dFV6alNmbGMyVWZHVkVZSDJuR2w4MzVEa2JvZ0VCWUp3enZqV3dBdFVlUERkM29Qb0pLYTU4aGRNTHJRWEY0aHpwLW1RandvYVp6UGlzMGFINUNqNnFlRlRBQnEwMzlSQW90TG5vVU1KNnFEb2FHRTln?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Malaysiakini",
+   "region": "SG",
+   "date": "2026-11-20T09:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
