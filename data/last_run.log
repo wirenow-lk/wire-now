@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 19/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 56 stories
+OK   Ada Derana: 54 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
 OK   EconomyNext: 7 stories
 OK   Daily Mirror: 43 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 14 stories
-OK   Daily News: 68 stories
-OK   Sunday Times: 82 stories
+OK   Daily News: 69 stories
+OK   Sunday Times: 81 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -20,49 +20,48 @@ OK   BBC World: 35 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-FAIL Reuters: HTTP Error 429: Too Many Requests
-OK   AP News: 82 stories
+OK   Reuters: 96 stories
+OK   AP News: 85 stories
 
-Biggest stories right now: What's next after no deal at COP31 climate ta (8 outlets) | IMF Executive Board to consider Sri Lanka's s (5 outlets) | Fire at confectionery factory in Indonesia le (5 outlets) | Russian warship sinks in Benghazi after suspe (4 outlets) | Democrats win largest House majority since 19 (4 outlets)
+Biggest stories right now: What's next after no deal at COP31 climate ta (9 outlets) | Fire at Indonesian candy factory leaves 3 dea (6 outlets) | Democrats win largest House majority since 19 (5 outlets) | South Korea education minister resigns over e (5 outlets) | IMF Executive Board to consider Sri Lanka's s (5 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Breaking News, Latest News and Videos [2 outlets]: Equipment outage in Atlanta causes over 1,300 Delta flight delays - AB
-    important (also on AP News) - researching
+* CBS News [1 outlets]: Natural gas pipeline fire near Ward, Alabama, prompts shutdown with no
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* ESPN [1 outlets]: Steelers WR DK Metcalf ejected from game against Eagles
+* Daily News [1 outlets]: Sri Lanka eyes economic transformation as Budget 2027 targets capital 
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* CBS News [1 outlets]: Ossoff's expanding coalition in Georgia fuels 2028 presidential buzz —
+* IMDb [1 outlets]: Taylor Swift Cheers on Travis Kelce at Chiefs Game With Kylie Kelce, D
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* AP News [2 outlets]: NCAA College Basketball Rankings: AP Top 25 Basketball Poll
-    important (also on CBS Sports) - researching
+* ESPN [1 outlets]: NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's g
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: Can climate diplomacy build on the collapse of COP31?
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* AP News [2 outlets]: Tarik Skubal agrees to record $450 million, 9-year contract with New Y
+    important (also on The New York Times) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal
-    important (also on France 24) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -74,38 +73,29 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 6 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 7 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
+    "code")
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
 
-Countries: IN 35, PK 30, BD 37, US 37, GB 34, IE 35, CA 37, AU 37, NZ 29, SG 27, MY 32, PH 27, AE 37, IL 29, NG 27, KE 26, ZA 30, GH 28, FR 33, DE 34, JP 9, IT 34, ES 31, BR 31
+Countries: IN 36, PK 31, BD 37, US 37, GB 33, IE 35, CA 36, AU 33, NZ 29, SG 29, MY 31, PH 27, AE 37, IL 30, NG 28, KE 27, ZA 28, GH 28, FR 33, DE 33, JP 10, IT 33, ES 30, BR 32
