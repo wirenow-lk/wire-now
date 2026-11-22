@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:28:14.216047+00:00",
+ "updated": "2026-11-22T05:29:26.607410+00:00",
  "code": "BR",
  "name": "Brazil",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "O GLOBO",
    "region": "BR",
    "date": "2026-11-22T03:00:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ce7f66c287",
+   "title": "Flamengo é campeão brasileiro na casa do Palmeiras após jogo digno de final",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDFzeWxEdTRuZDlkc1BWeXdhQmc0R1dvQXpwWlpuOUxGNk1SbVliN1lGU3lzWmFxUi14ODZfbWotcmZlTWlKWmhKdHJQcmwxaFpod0RmNE9EVEpKYXBtX3ZkOHpaaTJEMVpIRXItMnVrM1J6OG1heDV1YzYxanpiSUVUeF9BWk5iS1A3d1dSV2JkMVJTT2hYTVFXa1ROOW9TNHp4R0todEk0ZHYydzNHYzdkdFo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "UOL",
+   "region": "BR",
+   "date": "2026-11-22T02:25:07+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -123,23 +140,6 @@
    "topic": "Health"
   },
   {
-   "id": "343caac185",
-   "title": "Flamenguistas comemoram título brasileiro na sede do Botafogo, e evento acaba em confusão",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWXloTHNORlpaSEpPamhvQk9sYkRnYWJvajYxdDZ5UHVwcGI5VG9heXFtUkFqd3pDT0ppU0xyRFVFV0lSU0NRVlpha0h5RVh4Q0VYYkVZMnF6WnotQnZfbkVVRG0xa2g5cXVMVkp5MnpGYUZaSUNaTUY5R2Q1NmdjbFVQNzFSdnVhTGFvLVQ3R1ZKQ3lubWNMemI5MkVNUlBudTJaTWFQLTBBMFI0NmNJMFdOMGc3U0F6blVPWjZZVUlUX0xVMURCNjNoNGhSSnR5TUVvMmxRYXMtQXVWMXRLc1NTdmlqV3dLNWFEWU9JckF0eDlac2l4dl9fS0R1MFVUSS1SeXV3UdIBlgJBVV95cUxOOFZiZmlNZEs3V1RFOUNTcVNabE1KRHBBMDZDOGJESzYxUmUzR2ljYkxxZzZvbWdvOXFXU0hwekxER1JGNm1jcWpSeTJRdk9oQnktaEdfZ3RPQ3lrUnJpSnlheENVazh2eDlaNDVXNUs3SnhnZkFVY19PUjBWZG1CSDQ4YnozTEdhUDJnRFVLRUpNdVdJeUlPbzA3WkNpVmRFbnVJYkZMNlBRUTlJcG1ZdHJJeWtZb2xTMGNfemotV2ZVTEtjTUJ2c0hUN1hmRVViVGVlNU5iRjZvcjR1eW5UamNjMi1JWDNMZ0pHLUo1WnE5eHR3dWMtM1MzY1pVTTFuNGxoNVlaaHUyc21EbnV0bUZZZk94QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ge",
-   "region": "BR",
-   "date": "2026-11-22T00:44:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "701a4ea006",
    "title": "Morre aos 103 anos Joe Wallach, executivo que ajudou a consolidar a TV Globo",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXhNNURaZlJzaW9TTWhoREJTaFRZY0pIV29RY3Bfd0RxSnU0TURmYThaLWtqbXM4cDZTc3lMNXU2REEzVWMxMjdFbXlQSEdKQkNreGl4Y0RoQXZqa2ExdEdLZkt5eV9IUFZXRmpwcUQwc0hQT20wemprZ2wxTzZnaXZiZWFud18yaFVybWVrR0MzMEdoYUVPZzI2Vzg4bnNwclZsbWRzNWtaR0FqLUdLSkdOYmVjTFhkNTNUWm1lX1JDeEs3dndPTHpIc3ZsRElRNlZJ0gHiAUFVX3lxTE1lSXJsaWl2b3UwelR1WlAxT1hEaWJSeU1OYzlnNjA2X2pzaXkxVC1TZ1gwUmdRaUJqX01HRmV6WVlRM2tTUE9NTHBLYzFDaFVHUXRqNWFzckVNMDFEeC1PMTRnbVUwTXlhZnlKSWZWWmFMLXUwWkVDOVhvR0NvZVVPX0tYb2xEMmRKZkFJUzU3aUNIQkp1aEhwY2t4cnBVZlBzSTdUT1l4ZnhZVWpjOGc2Z1JrYnNOVDRVM3dYeDE3SENaa3lURkRZRmVFWDJOc04tMDJRckVtT0ZxRlNNd04wemc?oc=5",
@@ -208,14 +208,31 @@
    "topic": "Society"
   },
   {
-   "id": "a3cae4ac15",
-   "title": "Notícias - CGE",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtSmVDYXRYakxfOFFZUHZNYXJWLUdyNk9UNDhQRHMyR2Noc3hUeTBxekl1NDJnMlRfS0JTYlRvLVBNdTBhVEtyVkFlUzZ2OURfV2tUN3U1Q2NZdw?oc=5",
+   "id": "d28519f29c",
+   "title": "Rio chega a 38,2°C e tem previsão de pancadas de chuva neste sábado e no domingo, veja a previsão do tempo",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdnVYR2w1eEZsYUtvQXZTWW9XZjlrcXdyWC0zS0Jpc1lubExrY1BmZlNJX1JVLUFHbUhZY2N0emE4aXA4aGJFU25lNzNZa2tMdE5FUmUwYV9WQ3Q3QkE0enJoancwVWhQTDBuajM2Vk9tbmdVUmhlMW9hZmhaZUdMN3hVcmN5SjcwcnVSX1Nmb05mQzNKTm41VklTYkd2eGc3WWxsMW5NME94Q1oxeTE0OGItV2dsdWJWUlk3aFBvdExvdkc4YmdyaXNSUS15ejB6RDNaTnhXVEV4NC0zdW5wSkVBYkpmcldtOGkzWEp2MNIB_gFBVV95cUxPLTQ3ZUlUUFcyV2x1MGs3aEhuMkUwY1RnN1dIU0RHWU5reXl5d0h6ckw0aXF3R0Z6OVg2RTBvcnlqd18ybHR1OTlfVU85WDVsbGlOaUJhc3dzOHprcS1pTUZxRjZZdUZRWGxjM3lMUURmSnVxUFFwTDJVcWoxUHpXUnJaLXNOc2N2b09XZXVlOTM3R1BuNnRZbGlKMEVLNi1WZ2ljdk5DUUk4WmhHd1JRY3h5S3BTUHJiN09QZ2JTbkpuUFBDeXZwczBvTXR3NWtPSzdMTDROckFWX3F1cFFnRC1GSXhxckU3aEw5LS1lN1EtMlN0bEZPYWNtYUs3QQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Centro de Gerenciamento de Emergências",
+   "source": "O GLOBO",
    "region": "BR",
-   "date": "2026-11-21T22:11:51+00:00",
+   "date": "2026-11-21T22:23:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dcbca1a903",
+   "title": "Sobe para cinco o número de mortos em decorrência do temporal em Tupanciretã",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1NhSHhrbnlMQTduZVRjYW51LXBncU9ycWRFSTlINTJuN2NxV2tVQjVzNHB2OVlZdWh5LVIzM1hDdzctSE9SM2gzbjI4MkR6dFNLX3ZGZnFjSFQyd1VDN3FER0xTazJ5NUpWdURGZXRJLTEyaTFEbnhydFppUzMzOTZDbk5EN0E3aDVqTGdqR3FDSXBJWVhLeWVTQUdGMnJIRlVNbTVVQ1ZvVEZ2c2hoOGFUWnVMWWhSeE5JbFhYS2FKd3o5NFlpT0xYY0ZQVE5lcnJtTjZCQkQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Correio do Povo",
+   "region": "BR",
+   "date": "2026-11-21T21:52:36+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -250,57 +267,6 @@
    "source": "CNN Brasil",
    "region": "BR",
    "date": "2026-11-21T21:43:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bdb4c234d6",
-   "title": "Fla repete 2025, deslancha na reta final e supera Palmeiras pelo título brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcUV1U1l2bkxLVUdNSGFXTnM2RkxRbEc2UE1Xb1RndkdCZS1ub1JCUGlON3NMNUtSWHdQZGQ5cHk3aGlNLUs0OS15Z2J0dUp0bFV0Mm1lbVJPdVZOU1NxbzE1UTZ4amYxQ05PanN4M3FTYVJIMmx3NTVMWDZqR1BMNVZGZS1LY2JoLVdIdjZ4NXRfNUNSSTd5V21uWmNRdkRKZHdfMGhUNHZPM3NkQzg5em5aSEpkZGNjTHhTd2ZaQlU3bVl4RUFUTHJoREg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Folha de S.Paulo",
-   "region": "BR",
-   "date": "2026-11-21T21:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3c23b6931a",
-   "title": "Rio foi a 2ª capital mais quente do país neste sábado, com 37,5°C",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXR1TmxmSXprMmd6Tm1LLU54MjFKYkdmRGtweE11VHZaNEFMWGpqLXduRVM5TUxqNmVhVEZPS3BaRWRGOWNSc0xsbUg1elFudVFYSXJ0MTJ1U3NZU3JqWl8yVElCbHNYaXQ5ZzdXXy1aWGFNMWphd20zREYySlEyQjVXeVZ6ZlHSAZYBQVVfeXFMT1ktVG5hX2tSSnJaY3ZkYTBjSF9oeEVRc3p6M1pBVmFwYUhONTZwcVFEak9VR1RfZkxucDVGREczVndLMVd3bXZsMDVUV0JzZ1g4cXp2M1REQWRUa2VvV3BCWlZWdzMySTdRVGxETUZic3hlQkJCY3YyUEdjbmRveVh3MUFZNk9UOFRRWG1majlBTzhCeVB3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "G1",
-   "region": "BR",
-   "date": "2026-11-21T20:24:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1276d7659b",
-   "title": "Pacote fiscal não é ajuste; nem bom nem primeiro passo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2RHN19jQU5iZGF1WnFJNXdZazBpbDhWYm9WZXVjMjlUQ2xfdTRjbzVXb3BrZXE4STFNQkJpcXdacWtOVmJlODBmU2NIeTZiLTYyclozeVB0bFNBZFVFMVVYTENRMDFPQUI0eVBmS0Q3RlVQd3V6OWZ3dzJ5QzBvWkFyUXg2aDJobW5jLWVqMFJxY1MzNThsaDNXck1pcnFGUUxka1l1QTFDNmk5SUduaXZ30gG3AUFVX3lxTE1uenFCRXM5VGs3Y0k0QkdobWtjNGNaUEs0VUp6cl8yWXVpTVpJVTBSYlBzbDM5WG9MX0JxdVRpVzRDdl8zdFc3MTlQTThiYWJFT3hpeFdFYVdWSTlpNnBVSDZKT3A4MS10OENUODV1N1psT2s2cWlCdUNNanBTLTRXdDZNVGtZa25ReWxWOXh4WFU4dElNRHpyTGJ0MkZOblNHZU9Wanl6Mmo3QlN1TERSa25PSVNNOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Estadão",
-   "region": "BR",
-   "date": "2026-11-21T20:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -395,14 +361,14 @@
    "topic": "Society"
   },
   {
-   "id": "112f88c89a",
-   "title": "“GTA 6” bate recorde e se torna o maior lançamento da história",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0tQaFotS0RMOWRyWFc4NVhaNjduUHFuekFSWVFSa093OXJyb2lIR1JQQVZ5RDhvdC1La01BSWxYbUY3aERvRENXUlA0bng5cEwwd0U2ZnNIRTUzVGNIVWFSdTYzQ2d2My1nTlE5cUtfeGdzb3NLLVp6UklEbnNGbVNTV0pQQTJZNTVCWjR1QmZyYkg4Y2NiV1V3?oc=5",
+   "id": "7a196e292c",
+   "title": "Fala de Flávio contra resultado da eleição motivou Moraes a apreender passaporte",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUItY2xYMkRuTFRabmtldHUtQl9DOVJOV3pRREFObEtsSTF4cGo4NE1yOGNwYjJMNE1GSk54Qy1HMEx0NzN0ek9faldrRjFOR095YmNYY2xCX2FjZVBveWlzTmxtdXp4RHpqd3Nwd2ZuQm5SSmR4VXlBSUNHaTVlTVdEekZQak54a1FsM0JTVTlFcXhIcHhwTjAzT0tGUDltMWdtMENoSlAyV3VCUm53dnRuU282UzZxU0dPZ21Dekc?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "Gazeta do Povo",
    "region": "BR",
-   "date": "2026-11-21T15:02:42+00:00",
+   "date": "2026-11-21T16:08:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -412,14 +378,48 @@
    "topic": "Society"
   },
   {
-   "id": "1bd89239c8",
-   "title": "Duas mulheres são resgatadas em cânion de 280 metros de profundidade na Chapada Diamantina",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0Zqb0NXQi1SWkZQUXhjQjVwbTNkWVJRYnZyeF85dm8tQzh3aGVXdFhXM2J5NEhMcERjRFFKV3FicU03MU9Qd2NGTlkwVXJTUGV2ZWNNLURyeXhUWGdna0pkb3ROQkdZaHpKLXk1a3ptZmRzY1NZSFFNV2Jad1dUQXBQVkdmQThXNmZBSlJfaGJvTnRpRXhObWtnOGcta21QMU5VdFNiR2bSAbcBQVVfeXFMT2lkcVNGSnB1S3dNYTdKRTgzV09Bb1U0b25ncjNMYWwzMk9ITTIwLVNENVBRd3IwQ3VPQW94akdVc0Q5R25lbmJLMmxPMUsxUVdiV2QzUG16WjUtSlZydzNtSXpWTktPUEI5cHBnalEybEY1ZmFQcmZUdE9jMm9HbGhFV2M0bGFJaVVkRC1LSWMxckdLWlIyYlM2RmJFVjVua0JhUnFIVHo1SkZFWnFKT09PMk9FeTBv?oc=5",
+   "id": "9dc85277e9",
+   "title": "Fluminense disputará sua 12ª Libertadores e fica atrás apenas de Flamengo e Palmeiras nesta década",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT1RYYmFONUx2ODQzWHdmeC0zc0hUZ1liTkVFdTRFTy13NV9JSC13MmVlQU03a3lOUzU3Y0xBbmRwb2JHdWtMX3V5MDNBaDI2N2FqWkloVnVKYUg4c2dldXl1YUduOVRUNUtmYl9QckxYUlgtZGlCWEZESXJrUV9QOWFxaGQwNlhnU1YtRjkxeXlXdHNoSVE1VDVpbnMwbzNvN3pkSGg3cEVHcnlwUzhlSTlBUUIwQklpcmVfdHpfSVJGbEJKZ2JTRWpaZFFsSWo5T0MyckExQ0dmQU5nNmNGeEdBS1d2YWM0bHhfNHFBS3F6OTJwYkkxQk9IbTFid9IBjAJBVV95cUxNMENuMHFIdElnMnNOdUE2QkFpRUg3THRySTFua0hWMjNqRGpQblpDd3FXcUNyT0g3RkU2endGM2c5NTN6TEFTbDBGbjZJNzFHUGtpb0V3VTgwUE40aE11SWx0QVBPYldvQ19QTU82dE9yNHdzX1IyTDNfWjMxYWlGSXpXOFRodkNPRzAyWnRlb3c5aEM2TEswM0VxVHo4aEtCblc2SE53aUFjQXlQRHNMa3hpdTZHbmozeld1bUxPOEZrd3BycFJwNDNkRXVzRWpmeENWLU83Y3NNdVgtd1hrWXJ6ZDB6c3NkVEJ1cVVQNU1CUmhZSG1rZG9mRS1ySWpiQ0xkd0RQRTlsN1VK?oc=5",
    "summary": "",
    "image": "",
-   "source": "G1",
+   "source": "ge",
    "region": "BR",
-   "date": "2026-11-21T14:20:21+00:00",
+   "date": "2026-11-21T14:59:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "097107b51e",
+   "title": "Tati Machado anuncia o nascimento do filho: 'Nosso primeiro encontro'",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2p1M0MtRVhxdGhwcUMyV09ORFZBVjYxS3hQMzJ1dVNoUkxORC1HTC1VM0d4akRXbExqajhRTXMtNThVR0QxVFlCUEZMa19zcWFhZm9xT1NBR2JnU2UzTnprU1ZtU3E3UHF4YTcwSXp4MlVMQjlWQjdQS1JlbkljMVpRd2E0Mm5EOE9kRkRsZTZReG1BMzVlWlRRajdRRGc0ekQ4NmhSQ2pUb0dpY0FDOVg2WUg0TDVyM0hRT3haLVI2UdIB0AFBVV95cUxQaDRkSHdGXzk4SnBUN1EyNi14UVZ4eGJGZEQ4TXBiV200aHVVMlBKMEJVdEM1STBCYWRwbGxZQ00xWWlyUEFnMHNFMWpPeW9STmdFNUloeklQU3hUNzNBN0cxc1dYcVpaZVhueE55RVVwZXphMHBoMENNOEQzWjFIUi1pNjVKeXN4Nk9JcExZNjdEcXZybVJtRG82QTJFTHVLbnh5eEt2MnhzZzZ2dXU0cWN2TFQ2SDVGSTFSbHhzQ3BVQ1VaT2lUcXZiTTJXdHZE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-21T14:00:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "388085bf13",
+   "title": "GTA 6 sofre ‘review bombing’ no Metacritic, mas recebe avaliações positivas de compradores",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjVKZURaMUFNTUtmNHBpVzRndmlVZ2VwbXl6UDFMbTdVRnRXTmJaSXRraTRiY3lJSzRXLXF1dV9vMGc0VDYycUMzUm5kZVRVWUlRSlI1VkNLZ1hkTFJFS1ZocWd2Uk03MGFlbnphV2Q4NWtNMTROdE45QjdtU2FxcXBVRmlralNSSmkwS1hEeWFwQXBZb0RVOXo2bUFycF81TE5JNS1MQ3RoaVl2UVdYekJmWTJFcG9kWGJZTUVtUnYyeWcyeVFOYUFn0gHPAUFVX3lxTFB4Y3Eya1BkQjh3bnFvWm1qX1U3OFJHV0RDTFF3NzBnbl9XZVNyMGVoZHh5bXBQWWpaeU1vZWdCbWxUSS1JVGEzNWk0OEtLNk9KX3dnYzN2ampmMFVjYnR5Z3BfZ1doSDRMTTNqOWJ1aWFTbGlTZHRIYjROeWl5TkYyOVBpaklCekdSdlBXekdQS3lxd2p2aDlDakJid2N3MUVPNzI4WHpSUmZ5T0F5NnNhSGJpUWJjdGwtdEdNSG1FQTlUTjdQalVWWVNlTjY1QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Estadão",
+   "region": "BR",
+   "date": "2026-11-21T13:33:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -446,14 +446,14 @@
    "topic": "Society"
   },
   {
-   "id": "02d4384c52",
-   "title": "Nasce bebê de Tati Machado: \"Nosso primeiro encontro\"",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUG1TMmJwUVkyQWc4aWdxRml0Qm1QZXZpQmxWalpYVExzUk9kdkhScFAzem5ZdDBENHpvUkpWdEd6bjVCQVVwUHluNXRHakxUbk9BWVM2dEc0TGpJNHgxZThTUEZwVzRtakFBYWlEaTZiUnpfYWFPN1drdm1PWF8tYnRBVXhDckR4UlJJXzlVZUIyaERQaXExQlNodFZ1Zw?oc=5",
+   "id": "0ec3b829b3",
+   "title": "Quem tem direito a receber o 13º salário? Primeira parcela deve ser paga até dia 30 de novembro",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNVRoQl9sQTg0T0RYeDl4Z0tKN1JVM0FiZGZYeHZmVmlQOXJWbGJCRHJEOHdVSEVPQlhxYlJVY2RIdmlsYzByV0tYTzhTVC1RdjBMS3lld0JEdHgwM3ZyX0ozc0pMZ1dYSkdZazJmVmZBZkhmQnJya1g2ZzJPem1RdUhGMU4zakRtd3ZkMXppeDJMd2tKQUttaWJwTHdCLWMxU0xlQk5KRmktYlBWelBlUHlER2YwY2xjM0tQTzh5MXdyNnZXSXpNT1JCdGNZMFYxdkVkZjdkeDNHMnlITzBydA?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "R7",
    "region": "BR",
-   "date": "2026-11-21T13:11:03+00:00",
+   "date": "2026-11-21T06:07:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -514,23 +514,6 @@
    "topic": "Society"
   },
   {
-   "id": "d8783552d6",
-   "title": "Defesa Civil apura microexplosão após estragos em cidade do RS",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmtKY1VBVTZmSnF5SVFRYlJvOEotX0hnU1pVREJSRXF3X1QxQzBubHY1eFpJZUFqdlhZcEVxS1Y4VHhtakVlT00wSkFOc196RnMtX3ZJWEFORFY1eG5FTEY4R1dkRWxUaEp5aFFHTTkwbGQ4YXV5eGcxU3BnZThORW85UE82UlNWS1lQbDB5N3RvZ21XQmZFZ0QwaGQ0U1daUGhTVUkzSGxJUm1k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN Brasil",
-   "region": "BR",
-   "date": "2026-11-20T23:32:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "074b833601",
    "title": "Queda das ações em Wall Street reacende dúvidas sobre o fôlego do rali da IA",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdzJjQlQ4YWJlS3dTNEtTUlFIajd0UDVJX2JkT0pYWVVNZlNjRzBFeDJyeGhDNkRwUVFNX0FvVk8wQnJFUkd6ZWU3NF9IbDdSUHFsbjRucXBrMDhlZ0drb0JzZVR4NUR0SHloclM5dkRjdXRHaktnRWdTWUxFcDlSZTMwMTNuMklOTTVSTEM2SzRjS0g2emhLUG5hczBVaDdxZlZtZUJESFdtZzA0RVNhTF9YXzFEVGw5bzhnc0czTzVkeUxGbWp0OWlSRE9kNzRnVC1F0gHiAUFVX3lxTFBob0xyNElPeHhJTWJuaGo3MW0wbXgtWlRYcU9sVTVZT3RaRWVoWHZuTTVOaGNwTWdfUEZnVm5aWHlBLUZyazVOX2FRZXlucmIxNFFxTTgtb1F3SGJCZXNXd2ZsRXljSk15YmwxRTNLOGJQS1IxUDJGTVNWaS1nMG1kVEd1aldfR21PaTZNSUhmTjcxVFVoWHU3SFBwajdOeUxmNFBoekl4THdYaEhUeGxXc09WY1g5VU9PUUVJbmRPeUxhaEtlWkJoT21LUlp0SnFnQzloTFpJc2VJcHJvMmh4dFE?oc=5",
@@ -544,6 +527,27 @@
     "country": "Brazil",
     "place": "",
     "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9dd7fff375",
+   "title": "Trump elogia reunião com Putin e Xi Jinping e diz que tem \"ótima\" relação com os líderes",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYVRoRXEwbWRSMWtqVEM3OVZMTkR2ODliakdNUzVBM1I0a3Q0dm82Ym5QbFZWd1JoUVJhSTVJaUt0Q2p1RXNSWTdKU0VjTGg0S3pjeWxMUWRHUmwxNWRsQVU2Z0pEVkdQQjk1OXAzMTZzdS1NdXhKSnNySERhaVdPVzdWZ1d4dnV3Mk8tTEtDclFTNklfUjhlN0syR2lCTGJudjY1UnRldk9VdDNiTTB1UHJsNHJuQjJEMllJRlF2emFRZHN0N3Rvb0R2VFY3bnlzcnpDZTdtLWtPQVFMQU1DUU41SUZWZXllOC1wSExNYklwZ9IBgAJBVV95cUxOMk1oV0xobDd0aW9EVC1Ucjd6cUpqVk1NZTZFZ1RlMjlfOUpXV29SRmxwdlNLbS05ZmpaZHVyS2N4Ry1tQ09NN0tvRWlEVTdNRnpSTUcySXFOWk1DYmhsbURBaUpXMDhfSGhQZjlJWGsyYndKTGZHc2c3T0lZTHNEQ1cyN21UOExWdDBDa1laU3Y1bDJmdlhNOW5hZ05aV3htVUxQd2I2NkJxdkhLVXkyYWZjM3hIRGhFTDI4X09NRldRVS1jUFItZmswSEdrMjEtRWk5NmRPcmdWeXdWNWhRUEVkOUd2QjM1T2FVZnpnOW9uM0w0RHd6U0Y4SlZSRDZ2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "G1",
+   "region": "BR",
+   "date": "2026-11-20T17:39:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺 🇨🇳",
+    "also": [
+     "Russia",
+     "China"
+    ]
    },
    "topic": "Society"
   },
