@@ -1,18 +1,18 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 56 stories
+OK   Ada Derana: 55 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
 OK   EconomyNext: 7 stories
-OK   Daily Mirror: 40 stories
+OK   Daily Mirror: 41 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 12 stories
-OK   Daily News: 14 stories
+OK   Newsfirst: 14 stories
+OK   Daily News: 13 stories
 OK   Sunday Times: 81 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
-FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9658
+FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
@@ -23,21 +23,21 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 91 stories
 
-Biggest stories right now: Countries react as COP31 climate talks collap (8 outlets) | Russian cargo ship still on fire off Finland  (6 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | 'El Chapo Isidro': Mexican drug lord on FBI's (6 outlets) | South Korea education minister resigns over e (4 outlets)
+Biggest stories right now: Countries react as COP31 climate talks collap (8 outlets) | Russian cargo ship still on fire off Finland  (7 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | Sri Lanka and Thailand sign visa exemption ag (4 outlets) | Russian vessel hit by suspected sea drone at  (4 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Guardian [1 outlets]: (3) ATP Finals tennis: Alexander Zverev v Carlos Alcaraz in the final 
+* Newswire [1 outlets]: Dilith Jayaweera takes global Sri Lankan entrepreneurship initiative t
     no AI summary: daily limit reached
-* The Guardian [1 outlets]: It will soon be too late to regulate use of autonomous weapons, warns 
+* NPR [1 outlets]: International climate talks end in disappointment
     no AI summary: daily limit reached
-* Newswire [2 outlets]: Sri Lanka and Thailand sign visa-free travel agreement
+* The New York Times [1 outlets]: F.A.A. Says All Delta Flights Through Atlanta Delayed as Automated Sys
     no AI summary: daily limit reached
-* AP News [2 outlets]: A suspected drone strike hits a Russian vessel in Libya
+* The Guardian [2 outlets]: Indian opposition party’s youth wing warns of more Meta protests after
     no AI summary: daily limit reached
-* The New York Times [2 outlets]: COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels
+* Al Jazeera [2 outlets]: Bruno Fernandes says contract talks on hold as Man United battle poor 
     no AI summary: daily limit reached
 
 Top 10: 0 fully explained
@@ -66,7 +66,7 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
 
-Countries: IN 37, PK 30, BD 36, US 36, GB 35, IE 36, CA 35, AU 36, NZ 29, SG 28, MY 33, PH 26, AE 36, IL 30, NG 28, KE 30, ZA 31, GH 27, FR 33, DE 33, JP 8, IT 32, ES 33, BR 32
+Countries: IN 38, PK 30, BD 36, US 36, GB 35, IE 36, CA 36, AU 38, NZ 31, SG 28, MY 33, PH 26, AE 36, IL 31, NG 29, KE 28, ZA 33, GH 28, FR 33, DE 32, JP 9, IT 32, ES 33, BR 32
     gemini failed (AI error 400: {
   "error": {
     "code": 400,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:14:30.606248+00:00",
+ "updated": "2026-11-22T17:57:43.618170+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
@@ -12,6 +12,57 @@
    "source": "1News",
    "region": "NZ",
    "date": "2026-11-22T16:40:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "12eebf67e9",
+   "title": "COP31 climate talks collapse as EU and others reject deal",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkVqdndnY1hBZmFWVkpPRUgwZ2dIWFdhN3BxWW9fYk12UE14TnJSUi1oTXVvT1lRazBFRmpnV0FyemhKcEgyam5TTy1mUkJ3NnZ6Zk1uSkFYX1NTN0RGcHdVTkVIMkZEcWdLVFR3Q2Q0N0VBMS05TmJCcU42WjFsUUxMMm1fU1IwMjJ0SUlRdzVmZGVKck9sc0hTUUdfSE0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-22T16:30:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5d2f4fa6de",
+   "title": "'Nobody wants to close a pool' - councils struggle with proposed rates cap",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZDM0UUdrdkdzV2JBcGY3b181RlVOcHlIS3gtTlBseFlFS2QzOS1OZFRfYXhZdURKNkx0NXFoVjVFQnBkY3dFUzUtZFYyMk9CZ1Juc1NCdkY1RjB0TTlHQnpldld5cWpmdUlPbGMxT0NWcUtjMFlKaU9FY1JJN1FxMmI3LWY1THJyVE9mb3NLdFRqYlZEY2lNNXpoTnRwbkZtU0xta2docmc2ejFHVWVhQzFrRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-22T16:15:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4226c79750",
+   "title": "Fonterra seeks permission to dump millions of litres of raw milk",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlJzcUt6d0RfaF9fdUs5akNLcEdLMzU5eVR2cmh6M1F1N25KWW02Wmc1NVpWQmlLcXRmblExVkZDc1A3NTY4cmIwQjVZZF9faXV1VFJzdnItZWRiMC1xeEMxNDdZT3pFR3pIemVTTndQREl4NE5tVW16bExPMnhCZ2FNY1M4eWNEcEtWT0trTU42Y2JlWFladDZDQkVmVGE5ckRYVnVLMWVPREE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-22T16:14:15+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -72,23 +123,6 @@
    "topic": "Society"
   },
   {
-   "id": "a7ddc65560",
-   "title": "The tiny ‘off-the-wall’ cabin that stunned House of the Year judges",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEpYNDlHdUgzVmxWUGNsb09RWHVMS0R1NXl4OFA5U3YzQU9uR2tzXzY4NFZtYVJsdGxqUk5HaUFzTEJWdTJVZVU5MldURzBBdXVfdGhVTkFjekxlZ3RDWU5vOXZzRVpZYWdVUGxjbE1xcE1rSk5tenRkdkl5RkR2UzlhdFBMbW9JNWJWMzNwWV9scFBBRGY3THdEVjBYeGFZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-22T15:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c5f6c545c2",
    "title": "He’s lived in Oz for 23 years and has heart problems. Now he wants to come home – but the pension rules are a minefield",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObE80RlI0SGZPMUw5a3J6cTlmZThMMHhCUWFES0dOV2NEV0hyRHdLNVBiTDZGd1VFdVV2OXdsV1lEYnhHVEtUdTlYTXdySkgzTWo0a1ZpcEYzNGkwT3dPQUpWWXcwcFlILU9Pa0RxTENYU0ZzQW1DaHFZZVduQ3ozZk1wR2RmNW9yR3J6d0tnZkF4eXMxUmJBclBoQ3dmZ3FZM1NTVjEwWjdUck9EWHhDR3llWUxFMGY4TU9qVVpwMThnNE10TFA4Z3JOMUE4TmNO?oc=5",
@@ -140,6 +174,40 @@
    "topic": "Society"
   },
   {
+   "id": "11e0026613",
+   "title": "Travel Insiders: The one photo you need to take before any trip",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNczFtYUlFOFFDVFlNbHktTnBWSHF3bGRpRHN2U19QTWtxazd4bzduaXlwVHcwOUtLczJrNDhjUjdOZS0zOUg4a05abFVGdFJteHhnWmRHRmRVZmFRWFNWMWFFZWxmTzVhQXI1WHUtcjRNUU5jQk10WDV2ZHRoTVg4cVp3MnFodHN0QllQQUZJQXRMaU0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-22T15:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6b811991ae",
+   "title": "Singer asks fans for prayers after being admitted to hospital",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM3BVRy1GNm1pV0xialFiLUQ5OHZuUDd1dV83dkl4QXk5TEZDRTc5LTMtQnRiQjZuc0ZjRmtNWWhJTmsyZEJKMXNjeFFmUGktSzl3M2FmUENYU1R6bkpvOEtfS3dUZ1lNQUNEZmhQVDI5cGdpYUVIRExIenFFSkJucmxLaG1fUzhUYmdHZHJEZmdxd1N2TzZFM21HM2ZHZzNRNThiZ19JMHVfbVRZS1Bzei1oa20xY0FBTzNNSlpfeFI1emVfWWE5RUpQOHJjR1hy?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-22T12:19:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Entertainment"
+  },
+  {
    "id": "1e91b51ae7",
    "title": "Who skipped work for GTA VI? Dutch staff, young men, and US soldiers",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkpxMEg5VGpKSFhobTdvVWtqVzQxZ09TMklFOFBHUzhlRGFLdWdWNWtRclBnckk0R0NnbUlZZjlaYlc5SmUwN3UyZmxiUkVDQnU1dFdTTUdaY0lsTEh0OFVJdFlSUFdDSUNCX0RaWnNKTTFaSDE3WWROTUhBbjlSeFh1ODAyaEVnVktJVS1fNVBpNjJCZUE?oc=5",
@@ -156,6 +224,23 @@
     "also": [
      "United States"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "28a7bbedce",
+   "title": "Rahui placed over Te Whiti Riser in Lower Hutt, after death of woman",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3lNU2pXVHktVkxPZVhDdVV0RVU1cVNmc21wMVNvYTRXV2tFQnpLU0FjX25pcUo0LVBsRFdaT0gwT240WmZnWHRZd05MQXVnTlkxd2swYU9fSXNLT20td1Z4bFlCeWtXZzZBZGtIY01VRlVLbVllQUFsdHEyRXU5WEloSWxKTVAyMGZlM0NjcTZfRWt0ajBXeFhiNFhWSnhCTlk4VHhn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-22T11:35:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
    },
    "topic": "Society"
   },
@@ -211,57 +296,6 @@
    "topic": "Society"
   },
   {
-   "id": "dfc1315148",
-   "title": "Bizarre verdict at the end of this home renovation; one we did not see coming",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEpVYUlnNkFXaml0OW9xdXBVX29kekI1cDRlSUw5a1VCeU5mMjVYSXNjR2VvNGp3WFFhSWVZbXNodENXMXVnbU1pVk05c25pQUtrWHljTlRlS0xOcDRBaU51eXFWWnRvXzJjbExoSGVTdG1tclRrdjZ0bEUyQ2NPVG9OOUxfaUUtY2F6aHh1WHJhZnhvZG5RbFhWUmJ3M2Zoak1PcjdZQ19GV3B0M0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-22T07:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a3717b3633",
-   "title": "'I live in constant fear': Teen victim in Ponsonby bar rape was targeted by pair",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUlRWbUFKdURDUnFxQ0FZSk1IWXFfaElwaDFJbk9yU3JGalJJLUo0TGhjakU0V3N5TC1CM0xQMnNYQ3hmYVVzQWd5d2hMbFlDRnpubFlHUDNaZWVSeVRWMDY2QUZqN3JyVk9ialA4VUdGTWFsakhLb0lwc2pYNWdjZGFJZzlBSTVHbzl1YmcxV2V6ZEFTMVBNTEg3Z0hHUHU4d0JobFN4TDN6cnRJLTh4YVZkLTZGMXo1bVB5WXpLQTVLQVZQOENpeQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-22T06:18:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cc90d3be02",
-   "title": "COP flop: Scientist warns countries are losing faith in UN climate summits as deal talks stall",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR0R3alZJVHZ3U3FHU1NzZktnYTQxU0dVcFpBQ0h4UmVmRHhwdDVEVWltc2plZTI0S09Wd0RFT1BQdk1sYzFGdzdXaUh6YW5NdWJTanRlU2tib3BfWFlPTUZUb2FHWWNGRkZ6Qlp3M3VQYkdCM0RvYmxVM0g5T1h1d2FYcHl6MjV3WFBDNWdyY0ZDc0ROSE9wR0pLMHowaVowRlc5T3pmX09rdmNuenNkb0EwUE9DUUZlc3FCQlphTURmZEJ0azlkTVdWYUdQWU9MVkZwcUExVGYyOTh2ODlfME5n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-22T05:48:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "521ccce7e3",
    "title": "Fuel leak forces Liam Lawson to miss Las Vegas Grand Prix start, ending top-10 streak",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmJKVDhwNWxiZjU4aEs0NkJHQXR5Ums4c01kdkZzSTN4bXZfZmxJLUpIdjRoaERlQTljQlBtc1podU1LT2h1UHgxb3laUmsySWVMbC1xV09ZX2QxUVA1Y2Npa3BCQ1RjZUJ4ZWhJU0tuLW5SRXE4R01UZFBJTmZZdmUwc2NfcjlvRVJHcjF3VlRzNzJxVmw3RWE0WThvTmNNd0otT3duMEZuZ25LTmxzY2tUT0R5eWVFMFdQbUlB?oc=5",
@@ -279,31 +313,14 @@
    "topic": "Society"
   },
   {
-   "id": "8b2024e667",
-   "title": "'An entertainer to his very core': Dai Henwood farewelled by family, friends and fans",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnpLUzhmQ1JrV2syMl9KUTBkamJ2Znh2d1paRVVvamFmVHB2MGZWV1BBVUtNTFRtYzZQbnVSeHBtbkctT01SMHNEbC1MMjdPSk9FSFc5MmNiNWQxNmRrd2hyX1p0eFF3b0dGcHVnVU9jbFZPVWUzSGtKNGVnZ3Q4M1YydG9rREt3SExkdnhWQ2RUenpQTU02Rjl3endzNFFXelVGYi02OERVa2xxWmpOaGJ1SkVlekNreVE?oc=5",
+   "id": "de83c13d5d",
+   "title": "Motorcyclist critical after crash with police car on Auckland motorway",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVlvVVF3OTF6a0lDZWo2RFdiWkN4TktRODI4NnpkczdENnVqRFVpa1pHMzBmN29jR2p6OHhPTXJZckM3ZGlOMzM3M0NJSmhhMnFJWU5hZENxdTV6UFduMy1iemV6MXNQaTZuY2xiRC1NNnppNUlWNVdVYjAxaF9ZMTNEam1lLXR2RDRiYngzS3RZSlh0YVIwREFaWFVxWjljVWJFNVYyMlRvQURvWVZiWmxNX3ZPY0lmNWtSaFZjM2VpMENOYlo0WXpDWlY2TFhuNkZ2blhkQnY?oc=5",
    "summary": "",
    "image": "",
-   "source": "RNZ",
+   "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-22T05:16:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7d5b76c122",
-   "title": "Motorcyclist critically injured after crashing into police car on motorway",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEZBWTNvQ09YN0ZQMUd5UlZlQmNaZDI4UWtUYzY5U0V6NFl6Um9PWEh6QjliMERULWNTU0YtV051NWp4ZFJ6Vk1PdUM0VFhKd1VSRGhMaVRTa3IwdmhVcHgxemxOZjhPQlhtblR4dWtMelVmTlY4OFlMY2J1ZmlQb1hOVDhzYk9zVldEUHhiUDU4MWFZQWdteWFxbllERFZKNmxRVkhKWnVKUWZPc0RlN0ViTnUwYmd5NXo2cEp5NVRDYXlHNmc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-22T04:28:05+00:00",
+   "date": "2026-11-22T04:38:33+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -311,6 +328,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "982d011968",
+   "title": "'An entertainer to his very core': Dai Henwood remembered in laughter and love",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanowYWNCWlg0WEhNS1BiQUF4RGVJOTdoVHVxbmd5YXV3bWZTVmhfVEUwOGZZUlNvNnU4V2tBYXNGVEwxZUF0TmkyVkN1SkV6d2dFWnNIZWg4MHNzMUxhakVEWmhtOUhHNi1SaXJmSzB1TE9hdEVIRUVycjBudFpGODJHdlZJaDdYM01yZ2FleVdlUEUyNktEZHVlVzF0YVZlQVNNRmszWUJlN0dFTDNRTw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-22T02:38:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
   },
   {
    "id": "ceba9eac72",
@@ -364,23 +398,6 @@
    "topic": "Society"
   },
   {
-   "id": "0f5963678e",
-   "title": "2027 Miracle Mile: Loucasso, Leap To Fame, Captains Mistress",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcS1xRFk4RUE4YUppN1ZXc2pBc0d2UENKdFlmS3NWdnh1RnpjbjhTUzh4Y19QOFczZHl2b21uSWdQOS1nQkNyaXowSFNfRkpEb2dGV2lkVUNIWWxCLVBZUW1WQUJLeDRjYVphcTZnZmdHN0NFbDZ0ZFFJSkNMUVFsOXRQYVAyVi1jNmlQVkx5RHZjZ1NMemIzVGhvanJ3WkUyQ1l4cjV6UU5VanZqN3BIYlF3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "racenet.com.au",
-   "region": "NZ",
-   "date": "2026-11-21T23:18:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "24e3b802a0",
    "title": "Erin O'Hara: Why is type 2 diabetes on the rise in young New Zealanders?",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPR3pfa3ZWdWx4U2lPaGJBbmh2eklFa0pMLWs2ZEpNTkxkWmNyRGJkZnJ3dUVGM3AyeGNvVC1yaXFqZlZyVUp1bWhnRG14Mi1fcnljcTh1ai1FekxRM0VDUDE0MUh1VktZRDVVRi12eGFDa2IyUXQyekNtNEZLNl9HbkljNzA1V3pwN0NWZDZ6REk3Tjd5M3p2cnNNWkpOb2lSTVNkN1FQNjUyR0lmREtZbC0zUXNQMUczcHc3VWhtRmIzVkl5eEJ3eHpCY3dSYWhONWZYQUNFRFEwalFOTFdpaUJnamFUeXNiR3JqZTZRb3dMR3k5N0hyXw?oc=5",
@@ -398,14 +415,14 @@
    "topic": "Society"
   },
   {
-   "id": "a4aedf0b8e",
-   "title": "Where the winning Lotto tickets were sold as six players win big",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlgtOTdLcm9FV080TU9nWjc0NDJtdk94dXF6NWY3LWdiMmJBV1ltSzV5VjBqb2lXQkJ1V2s5MnVINk80Zi1GT2tkWlJJY2owNnp3ZnFlZ2s1Q1oxYnNfTVNIaUFEckZsWjQydWU5SUFnTS04cFBqODdwX09UdTVQb1o2d0R2cldfc1FaaVc2S2RBUWJubFZvOEtoSU5IcFIt?oc=5",
+   "id": "53eaefb541",
+   "title": "He built a life around his MS diagnosis. Then he found out he didn't have it",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcUtJX1RCY2Z2eU9LOWJKNmlrVTJmTEg2c3NnZFRMZmFsdHY5X0g4V2xQX2JYbkZWZk5JVGtHVGdCY2FOQ2dJU2k0NTFWMjdZRmNMRnJqNTE0VnRrYUFQQ1p3M2I1M3dmeG5VWVR2TDltRjFzNmg3dFZtei01NURabWYwanAtbzZZYkR5TVhJelhpenN5a0VhLUlFcmRhVE9vc2xBYmpiM1p4UjJmWnZWRDAyOHZ1c1RlaERFZExLRDJnVFF0ZGFyNFBhaUJxYVFfODhjdG9SdDVoeUtL?oc=5",
    "summary": "",
    "image": "",
-   "source": "Stuff",
+   "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-21T22:36:20+00:00",
+   "date": "2026-11-21T17:06:10+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -499,6 +516,23 @@
     "also": [
      "Australia"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4a1df95049",
+   "title": "'Sheer luck': Woman pays for breast scan, finds cancer that mammogram missed",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZlZXY09lVXJ1dkZLLUQ5VUo1MVRSc0dVSFBHX0J5Q1BWRlhXUExqSUw1RFVwZGF0OEMwb2s3LUFxMzZ4YnhVYkFqZUt0UHZpdkJfa2x1V2hUeUJwa1lYU29vblJsTGxvZFBhdlFVRk5KN29DYmF5aDdmU09sNjZ2Q0V4VXdZZTlpUUMzZnU1djVWRjhmeURPLVRJLXZpT3ZfUzhwNTg2UmFHd2F2Q2FXeWFlYVlLRXU1TGFvSnlORmkwcEdLWC1xaHJpM0ZSZWFTT1lxU2tTeDhxMmJGa19MQTdzclRsYzBFazVXYnpwM3pXZVdmV2paNElyN1NkWDhxbEVzazFUc1EzR2xNZG1Oamp2RDRDQVI3SjUwZHZ2RmVwSEFqZFdjTjJ3QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-21T04:02:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
    },
    "topic": "Society"
   }
