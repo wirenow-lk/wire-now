@@ -1,12 +1,12 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 22/80 used today
 
-FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
-OK   Ada Derana: 35 stories
+OK   Google Top Stories LK: 38 stories
+OK   Ada Derana: 34 stories
 OK   Newswire: 20 stories
 OK   The Island: 8 stories
 OK   EconomyNext: 10 stories
-FAIL Daily Mirror: HTTP Error 429: Too Many Requests
-OK   Hiru News: 86 stories
+OK   Daily Mirror: 75 stories
+OK   Hiru News: 87 stories
 OK   Newsfirst: 14 stories
 OK   Daily News: 17 stories
 OK   Sunday Times: 2 stories
@@ -14,36 +14,36 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 10 stories
-OK   Google Top Stories World: 70 stories
+OK   Google Warnings LK: 9 stories
+OK   Google Top Stories World: 63 stories
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 76 stories
+OK   AP News: 80 stories
 
-Biggest stories right now: No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Sri Lanka Supreme Court clears Prevention of  (4 outlets) | Two company directors arrested over alleged R (4 outlets) | Cost of living protests sweep across Europe (4 outlets) | Indian man jailed over plot to kill Sikh sepa (3 outlets)
+Biggest stories right now: Sri Lanka Supreme Court clears Prevention of  (5 outlets) | No tsunami threat to Sri Lanka following 6.8  (5 outlets) | Fairly heavy rainfall expected in parts of th (4 outlets) | FBI national crime database suffers suspected (4 outlets) | Trump orders contractors to check with White  (4 outlets)
 
-3 new stories to post
+5 new stories to post
 
-What people are saying: looked up 0, 0 stories with Reddit discussions
-* The Island [1 outlets]: US, Lanka join forces to crack scam networks
-    normal news - one-paragraph summary
+    reddit: Reddit not reachable from here
+What people are saying: looked up 1, 0 stories with Reddit discussions
+* AP News [1 outlets]: Immigration officers make arrest at Seattle airport in ‘distressing’ s
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* The Island [1 outlets]: CEJ demands halt to move to release lands inside Ampara forest reserve
-    normal news - one-paragraph summary
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* ESPN [2 outlets]: No. 4 UCLA QB Ty Dieffenbach carted off with injury in 3OT loss to Mic
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Sunday: Fairly heavy rainfall of about 75mm expected in several areas
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -52,13 +52,39 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 1, written by openrouter)
-* The Island [1 outlets]: NPP only government to conclude IMF programme with dignity — Bimal
+    attempt 1 rejected: the name/word 'Lankan' is not in the article; the name/word 'Sri' is not in the article
+    attempt 2 rejected: Blurb says 'about 75mm of rain across the island' but article says fairly heavy falls about 75mm likely at some places in specific provinces/districts.; What happened says rain and thundershowers expe
+    -> no cards; posting with the site's own summary
+* The Island [1 outlets]: Showers about 75mm are likely at some places in the Central, Sabaragam
+    no AI summary: saving the rest of today for important news
+* Ada Derana [1 outlets]: Six DIGs transferred with immediate effect
     no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: the name/word 'Chapo'' is not in the article; the name/word 'Isidro'' is not in the article
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    cards OK (attempt 1, written by openrouter)
+
+Top 10: 1 fully explained (1 new this run)
+  reader summaries from the website: 0
+  photos: looked up 24, found 4
+  photos: 8 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 8 facts and 0 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 43 story pages for Google)
+
+Countries: IN 37, PK 34, BD 37, US 37, GB 36, IE 38, CA 37, AU 36, NZ 32, SG 32, MY 34, PH 28, AE 37, IL 32, NG 31, KE 32, ZA 31, GH 24, FR 32, DE 34, JP 3, IT 33, ES 31, BR 32
