@@ -1,18 +1,18 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 77/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 55 stories
+OK   Ada Derana: 56 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
 OK   EconomyNext: 7 stories
-OK   Daily Mirror: 39 stories
+OK   Daily Mirror: 40 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
 OK   Daily News: 14 stories
 OK   Sunday Times: 81 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
-FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
+FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9658
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
@@ -20,63 +20,53 @@ OK   BBC World: 29 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 97 stories
-OK   AP News: 88 stories
+OK   Reuters: 100 stories
+OK   AP News: 91 stories
 
-Biggest stories right now: Countries react as COP31 climate talks collap (7 outlets) | Russian ship attacked by drone in Baltic Sea  (6 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | 'El Chapo Isidro': Mexican drug lord on FBI's (6 outlets) | Russia-bound ship still on fire after attack  (5 outlets)
+Biggest stories right now: Countries react as COP31 climate talks collap (8 outlets) | Russian cargo ship still on fire off Finland  (6 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | 'El Chapo Isidro': Mexican drug lord on FBI's (6 outlets) | South Korea education minister resigns over e (4 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [2 outlets]: Paolo Bulgari, jeweler to Princess Diana and Hollywood stars, dies at 
-    no AI summary: saving the rest of today for important news
-* Ada Derana [2 outlets]: Borella driver who assaulted pedestrian confirmed as cannabis user, me
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Sri Lanka successfully hosted the eighth edition of Raid Amazones
-    no AI summary: saving the rest of today for important news
-* The Washington Post [1 outlets]: The health discussion you should have when you get together with famil
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Dozens drown as boat capsizes in Nigeria en route to funeral
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Canada’s PM appears next to Trump impersonator at press dinner
-    no AI summary: saving the rest of today for important news
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+* The Guardian [1 outlets]: (3) ATP Finals tennis: Alexander Zverev v Carlos Alcaraz in the final 
+    no AI summary: daily limit reached
+* The Guardian [1 outlets]: It will soon be too late to regulate use of autonomous weapons, warns 
+    no AI summary: daily limit reached
+* Newswire [2 outlets]: Sri Lanka and Thailand sign visa-free travel agreement
+    no AI summary: daily limit reached
+* AP News [2 outlets]: A suspected drone strike hits a Russian vessel in Libya
+    no AI summary: daily limit reached
+* The New York Times [2 outlets]: COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels
+    no AI summary: daily limit reached
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 6 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini failed (AI error 503: {
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+    gemini:gemini-2.5-flash not available (AI error 404: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    "code)
+
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
+
+Countries: IN 37, PK 30, BD 36, US 36, GB 35, IE 36, CA 35, AU 36, NZ 29, SG 28, MY 33, PH 26, AE 36, IL 30, NG 28, KE 30, ZA 31, GH 27, FR 33, DE 33, JP 8, IT 32, ES 33, BR 32
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -85,22 +75,8 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+
+World Pulse not made this run: no AI available for writers (last error: AI error 429: {
   "error": {
     "code": 429,
-    "message": "You exceeded your )
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 8 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
-
-Countries: IN 35, PK 31, BD 36, US 36, GB 34, IE 37, CA 35, AU 35, NZ 30, SG 27, MY 34, PH 26, AE 36, IL 30, NG 30, KE 31, ZA 32, GH 27, FR 32, DE 34, JP 8, IT 33, ES 32, BR 32
-
-World Pulse not made this run: no AI available for writers
+    "message"
