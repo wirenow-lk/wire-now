@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 63/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 66/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 46 stories
+OK   Ada Derana: 51 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
 OK   EconomyNext: 6 stories
-OK   Daily Mirror: 47 stories
+OK   Daily Mirror: 52 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
-OK   Daily News: 17 stories
-OK   Sunday Times: 82 stories
+OK   Daily News: 15 stories
+OK   Sunday Times: 81 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -21,91 +21,111 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 87 stories
+OK   AP News: 90 stories
 
-Biggest stories right now: Russia-bound ship still on fire after attack  (7 outlets) | Three dead, 36 missing after Indonesia factor (7 outlets) | 'El Chapo Isidro': Mexican drug lord on FBI's (7 outlets) | COP31 climate talks collapse as countries fai (5 outlets) | Russian ship attacked by drone in Baltic Sea  (5 outlets)
+Biggest stories right now: Russia-bound ship still on fire after attack  (7 outlets) | Three dead, 36 missing after Indonesia factor (7 outlets) | COP31 climate talks close to final deal, says (7 outlets) | 'El Chapo Isidro': Mexican drug lord on FBI's (7 outlets) | Russian ship attacked by drone in Baltic Sea  (5 outlets)
 
-5 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: A rare species of mushroom with an unusual shape found from Hatton Wal
+* Hiru News [1 outlets]: School student missing after five drown in Bentota sea
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [1 outlets]: Three-wheeler catches fire in Hanwella
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily Mirror [1 outlets]: Kavantissa’s cause of death must be established through post-mortem: M
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* AP News [2 outlets]: Confusion at climate talks as final deal offered doesn’t mention fossi
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily Mirror [1 outlets]: Government Dental Service must focus more on prevention: PM
     no AI summary: saving the rest of today for important news
-* Hiru News [3 outlets]: Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
-    important (also on POLITICO.eu, The Guardian) - researching
+* Daily Mirror [1 outlets]: Oil spill from Colombo Port tanker pollutes Muthuwela coastline
+    no AI summary: saving the rest of today for important news
+* The Guardian [4 outlets]: Cop31 climate talks break down as key deal rejected
+    important (also on Ada Derana, Hiru News, Reuters) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* INDToday [2 outlets]: Two More Bay of Bengal Cyclones Likely: INCOIS
-    important (also on The Hans India) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [3 outlets]: Miley Cyrus weds drummer Maxx Morando in California, People magazine r
-    important (also on BBC, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [2 outlets]: Israel's Eisenkot condemns arson attacks by Jewish settlers in West Ba
-    important (also on The Jerusalem Post) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 9 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code")
+    "code": 429,
+    "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* Al Jazeera [3 outlets]: NFL’s Jaylen Harrell hospitalised and investigated for assault in car 
+    important (also on AP News, The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, The Guardian
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 10 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 47 story pages for Google)
 
-Countries: IN 36, PK 34, BD 36, US 36, GB 35, IE 36, CA 37, AU 34, NZ 31, SG 28, MY 35, PH 27, AE 36, IL 29, NG 30, KE 31, ZA 29, GH 28, FR 32, DE 34, JP 11, IT 34, ES 33, BR 32
+Countries: IN 37, PK 33, BD 37, US 37, GB 35, IE 35, CA 36, AU 0 (FAIL), NZ 30, SG 28, MY 34, PH 25, AE 37, IL 29, NG 31, KE 32, ZA 30, GH 28, FR 31, DE 34, JP 11, IT 32, ES 33, BR 33
+
+World Pulse not made this run: no AI available for writers

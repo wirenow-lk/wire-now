@@ -1,54 +1,85 @@
 {
- "updated": "2026-11-22T13:29:42.763629+00:00",
+ "updated": "2026-11-22T14:25:26.169607+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
   {
-   "id": "1e91b51ae7",
-   "title": "Who skipped work for GTA VI? Dutch staff, young men, and US soldiers",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkpxMEg5VGpKSFhobTdvVWtqVzQxZ09TMklFOFBHUzhlRGFLdWdWNWtRclBnckk0R0NnbUlZZjlaYlc5SmUwN3UyZmxiUkVDQnU1dFdTTUdaY0lsTEh0OFVJdFlSUFdDSUNCX0RaWnNKTTFaSDE3WWROTUhBbjlSeFh1ODAyaEVnVktJVS1fNVBpNjJCZUE?oc=5",
+   "id": "165e46f5b7",
+   "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEE4NUltcjNEanlFdFRDREg1Z1BnV0VoazBVN05WRDQxek01TUhvazM2cDFETGYwM1hTVTBWNmd5YTRDREZwQjVDcEdHY19mN210S3E0VmdhNVJfREczVTJCTnNMT1prMWo2dzdqa1pOeEZSUGo1NkVLSUlsZkhoOWVQbw?oc=5",
    "summary": "",
    "image": "",
-   "source": "EU Perspectives",
+   "source": "Phys.org",
    "region": "KE",
-   "date": "2026-11-22T12:09:04+00:00",
+   "date": "2026-11-22T14:00:01+00:00",
    "coverage": 1,
    "location": {
-    "country": "Netherlands",
+    "country": "Kenya",
     "place": "",
-    "flag": "🇳🇱 🇺🇸",
-    "also": [
-     "United States"
-    ]
+    "flag": "🇰🇪"
    },
    "topic": "Society"
   },
   {
-   "id": "80a2d7f7d3",
-   "title": "PS Oluga orders removal of paybills from all public hospitals",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXI5SnVkZmlsX0hFYWdUbF96aHdUMlZPaUNNOVhPNUxrZXBwU0xMMTQ5UEw0alloaXl4aW9SVzdNY2dSQzJKQWltampoWmJvSFVxNm04RVNsWkhqd0c0NHM4aXlpNjZNWHI1cTN1RUsyVTdpTGxST2VPY3V2VnVhYzBZbzBBMm9EeFdjQ1Z6ZVNJUXdHZ3lUTWppZUxIVFRLRjNn?oc=5",
+   "id": "3d25e038ab",
+   "title": "South Korea education minister resigns over exam cheating scandal",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnlNVUJETDVtZmgxMG5vMlo5U0hhOEpaQnlxakJUMUNNNTREazVpWmlDYkFmSThYWTFJeVNfTDVwNkVtTWZEQzZBcjhxVTlkdFVRU3V6WkctLVJHRmlTdEJHZEM2ZFhPWmc0TEswUFoxdGtzMUx1d1ZyNTdZZ3BzQldUQ3Z4WmVtMzc1LWpNcTdoUng1bGl6enRLQUk?oc=5",
    "summary": "",
    "image": "",
    "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-22T11:58:00+00:00",
+   "date": "2026-11-22T14:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Korea",
+    "place": "",
+    "flag": "🇰🇷"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "df23363c62",
+   "title": "Can Pokémon help revive Japan's earthquake-hit Noto Peninsula?",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXU1OV9Ob0pQSUhiaF9nd01OYUJ3V1VvNXhYbnJkdy1uVm1acjE5ZUtqeVNjcjZmeG1KZHQ2MDRlb0VwRktVMGxZNWFMOFVqZ1F2WDlELXJ6NDE5ZkJpd1Q5cHBKT2lQZUhQQ1Z2SFR0TjMxMTByTjdzNWVBU3kxQTVHMVpKeTdYdlZaUEJJYk9hb0VxbWg4cUctN1dDYm9TMHVlVjRR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "KE",
+   "date": "2026-11-22T14:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6568de6a2e",
+   "title": "Court rejects bid to inspect State House over church construction claims",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVlQaDZsUV96MUE4bFJSbUJMRDBtb1l1R21TczJ6TjJSZGtLQUp1YThJZS1fRS1jT05QckRibWdTX251eHhwZGNVYlU0ZG51NDdJSUVVQW01OHFSbDc0RWVDS0FNWmtOc0x2ZlhNVXRyX1pScjVBRjlMQVN0UzNrdVEtZTlSSF9Dam5HeTlBRnVGSW9ZLXQ2UVhGVGtmQ08yVGUzYUtMaFNHQm9xMEYwWWFZOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Nation",
+   "region": "KE",
+   "date": "2026-11-22T13:57:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Health"
+   "topic": "Politics"
   },
   {
-   "id": "f50fd473eb",
-   "title": "Scientists investigate 2 'peculiar' galaxies pulling each other apart — Space photo of the week",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORElHX2cwSWxVZlFEeENwYkViVDMtWnJtVUtESFZJREEyenROME1PQmpRVElrLVVhdENPUk1fR1hEVU9welNUNVFreTV3UnVDVFpFTW9kNXpOM1I1bHZmQ1RXYVFCRFVKS2ZiNlFEdzVmZ0tfQ3ZHOVFidHJ6aERsQWQyZFhlYWMtX3N6RTFaVGR0Ym00eVk0aE53cG9TQjNMaXpnU0s2RWRxQTg5d3ZiNGU4b2l3ZWphelVEeDRNVzFVcHVPbldoSnNXVnFxc2Z0akE?oc=5",
+   "id": "d8309a5498",
+   "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3FXVThWc25NcVVWMFZDNmdKTlZWRWFMREstSS1nd2VBd0VBaDM0blBuSzlYUWdBMkM0TzBaVG54RVlnbzRVLTFlekZ6NHpEZ21hdFJLckl4VEhKdWxEMG51R3dKNXpmaTlwV05nM0hPQ0FoOWkxckZZazdNUUZRcEoxZXVPMG9Jb1pvVmNCT2tuam1PVlUxYml5NUM1aTRMci11enpCZi16Q3lJMmpGMGtSbldqUDd1emh3Y3hTYjhZU1ZLY2FwQnBlT2RTQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Live Science",
+   "source": "The Guardian",
    "region": "KE",
-   "date": "2026-11-22T11:00:00+00:00",
+   "date": "2026-11-22T13:44:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -58,14 +89,99 @@
    "topic": "Society"
   },
   {
-   "id": "01d16a9e92",
-   "title": "We found 14 tablet deals worth shopping ahead of Black Friday: Shop iPads, Amazon, and Lenovo",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqM3pxLWxxRVpWUGlkX0lRTFlwTmVNSTJrcjk2QzdBQTQ1eXNTSUlOMGVObGlqY3QwdWtrRDZ6STJ2SG54TXhVZ3RGVW5uQ19vSWlPYmk4LW1odjNLUmtrUko3WjBYNm43NkNNUmZhUXlYZU01WjZ1ZTZBbE8?oc=5",
+   "id": "7e2c4ecbff",
+   "title": "'It's quite a smooth transition'- Markram on stepping in for Bavuma",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVTdRTV9wR0RGVkgweWJQbG1ZMFl1ZGRFWGVKY2gtTkhyV25lSks0MEFJZGEtanEwbTJOVUtDYWpGWWJhU2I4elVzNWhtNzJKUUgwTDE0Y1kyRE1jdzBkc29tM3NxdmNWYkhlNWh6RTlCRmhTNUxDaVVNQWFKYjVTejQ1WW9tNUdxV0ZnMGxMLXV1c2NnX0xJUzJ0eEc4SkZBMzBfcThLTDN2VUdjTXVKY0RabTZ6eC02OVdPWg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Mashable",
+   "source": "ESPN",
    "region": "KE",
-   "date": "2026-11-22T10:13:56+00:00",
+   "date": "2026-11-22T13:40:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1ed77a1919",
+   "title": "MDG party denies state funding claims, rules out joining Gachagua’s opposition",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS25tbWU5ZEFrck1YZVVBQmQ1aG9CdzAtTnAyZGhaZlNFWVBKbnd5U1gzOVAyek5NVnRaaUU1c3JPZkJpMGRnRmM4d1hVb0xiYl80WUV2NmtBNldsYjhWYnV0TXRyRDZXNGc3RklPSVVSUEM5YWR5R2tERUdwakJXREx3eWFlNTg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-22T13:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "a51de91826",
+   "title": "Andoni Iraola demands 'complete performance' from Liverpool to ruin Mauricio Pochettino's Man Utd debut",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2FpS1RoRWRmZS1Cdzd2dmpTc1RORkI0OEFYYURPejhrN0duUUVWZ2swdmx2dVBFcG9yRjczelhXaFE1TXZnbU9GTWNZWVJjMVd5d1hBSkpEczY5TEJoY0lxNHl2dGFCYjRrczBFTWpZeENvT1hRMmhBWkFDbWVZU3hmRVNIX1lSRFB6RFZCaUVWSmJwbXRaVHhPMnFvSjdWOGRLRkd1bFFqVnpzVVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "KE",
+   "date": "2026-11-22T12:25:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "38776771e4",
+   "title": "Murkomen warns politicians against ethnic politics, IEBC attacks",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczZoVTliUjB5M2s2bEJvQ0FCXzBTb0VzNEk1ZHdCMGZybkE3VE1NYjVVMEYxUlpVWWs1b0Q2azFBMFAyWmxwWXZURE1GRExUV0NncFREVG1EejRjdHRFSGVuV05zczVQdnA5bldPRFJBeFhTeW80TDRUOG5STEt2SDdDOERERjVVRzFoVEthWmFpR0RMNXFwY25YWkZNR1FCWlRVRmpYbjQ3RWQzYWJocHpkR1dHTkF1TjF1VGFBczg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Standard",
+   "region": "KE",
+   "date": "2026-11-22T12:01:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4f24c4d0e1",
+   "title": "Bruno Fernandes speaks out amid Juve and Milan interest: “Talks over a new United deal are on hold, I can leave immediately”",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVmFvWTJBMDhUUXF0aTQ3TlpGWHNMTGp6ZTFoZHk3bWZ0WjcxS3paUjRTaWdDUGJaWkFMdVNWdmJsMkE0WE9EUU00N09kQ2FsbFpfQ2VzNkFZenRaYVhQY3AzTUpFemUwcGtfeTBfcHVyQ1JRUnNMb25hZk5JcFZfVTJHWnJULTFpZmx6dzE4N2gxV3MwQXhSQU0wYmdtd1V2YTM0U1YzZzJMQkhST1pYRDJpNmRfWnMtSEJ1bHh5c01oWlNRbjJSR0tXa0lRWTNZT1BnUWZWaWtTNVQ0RlR2Sk52d3NsekRrdUhmaXVxQ2JjMEpaZTI3d3lFQmt1dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "KE",
+   "date": "2026-11-22T11:11:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bb204afc96",
+   "title": "Arsenal facing nervous wait for news on David Raya injury",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDVBblhPSW41S0FZZnlybDdSaVJnMUpqRjZ4YjJoRWh1cGZuSDN2Z2JjcDZTMlFkQ3BqcTQ3X0I2MVcxZWNTY0ptcDJVY0QwWTRVNjF1WjFIRnBVS243VzhRT0wwRWxQS2RCSENoTTRpcUZnSWFvcEh1c3JfaFFYQ2pPY2JDRGN3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "KE",
+   "date": "2026-11-22T10:48:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -92,19 +208,19 @@
    "topic": "Society"
   },
   {
-   "id": "0dbb0ec7d7",
-   "title": "KWS deploys chopper, drones in search for missing Aberdare hiker",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUZKdWYxYnJlUXVLcTFocHhWY25vcnNzUHc2Qkh6QnR0dlVhTWhjbFp6bDFrVzNldUhXQkVSNTgzdERONDhwNU9ZOEN5YmEyTUNWblJJTHRkaTFtR1RrcEFjenNLVUY4VWQwNEVfMWlvb3lSRTQtbTAzNElpMlBVTW5WWlNDODRyeGhkQ3Y2TUtnY09YM1Z0a19weDJ3Q0lPWmlFbkxHY2hpR2d6S3Z2UDlJQ0hJalREbkdOM3ViUFI?oc=5",
+   "id": "a5d6a87ac2",
+   "title": "Fuelling the future: The Grattan Fuel Plan for Australia",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHo1aG9VeXpUZWJKOVNNdS1MTFYtZG12UmNjV2wzc0o1MW1JaUhTR3VibERYUlYwVllsV3U1eTMtYnB0RFJwUUdVVnZ6Nm9HUUxzUEQ4MVFmUGRJY2VLSlVrbC1oMUxiX3ptZ21DVXhqTEJFYzdXMnBnSjJOQzRDRnRhOUhxV0J3WktHVXhBWQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Standard",
+   "source": "Grattan Institute",
    "region": "KE",
-   "date": "2026-11-22T10:07:28+00:00",
+   "date": "2026-11-22T10:05:16+00:00",
    "coverage": 1,
    "location": {
-    "country": "Kenya",
+    "country": "Australia",
     "place": "",
-    "flag": "🇰🇪"
+    "flag": "🇦🇺"
    },
    "topic": "Society"
   },
@@ -126,23 +242,6 @@
    "topic": "Society"
   },
   {
-   "id": "1df3f37b41",
-   "title": "Ruku: Why I want to replace Sakaja as Nairobi governor",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmNYckpVc1lBeV9USXRCX1l4S1B6N0FnQ2laanh2OXVoUW5sZXBtdjRaMzNMTHhaWG1JRld3NEtsbEtvbnZvbEJxN0NSMDNPNVZNdnpIMW13Z0ZrNnNPd3d2TkFDcHpGaHR1V0h2RUR3aTZCQVpKYmtiRTctWU91R2R4aHJXVmlva3Ytc2xB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star, Kenya",
-   "region": "KE",
-   "date": "2026-11-22T09:55:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0e757df71c",
    "title": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjFDUTE5UTU0VDM4bnJJNV9PZThIcGZGdW5GcmlvLUVaRUNzZmNDSnFfdjVzLTBtRlJuZ2NJbzhOcmhNVDZlTGNqTG93TlJpakRGZUFENXJwazdBVVhkMEx3UEpnMmVjVHBLYWJ2SndWNmZnQ0tmUU5ZQ2hFSTJSb3ZlNWkycnZOZXRtejBZLVZPX0wwRUd4LUE4QklkTHB5OTRCaV9vUEE3WE9TSmJDVHdJbVJaWTQ1UW5fcFhaMzZYNElxMlFN?oc=5",
@@ -150,7 +249,7 @@
    "image": "",
    "source": "The Guardian",
    "region": "KE",
-   "date": "2026-11-22T09:50:00+00:00",
+   "date": "2026-11-22T09:49:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -194,57 +293,6 @@
    "topic": "Politics"
   },
   {
-   "id": "d0117bc626",
-   "title": "IEBC admits tech delays as opposition questions election preparedness",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUpQSzBDb2tGR3lLX1VSbmh2eE9Ick83TUNPWkxSVk5YZTRaN3QxdEN0MmZYMFdzRDNWZGdfRThqV3Vrc0kxREVDeHpkNkxrQTcyekFINmdPLTNGR0hfc09pT0dobGdfLS1BNnlkdUo2ajB1VTlIM0lhQm1sb3lhRzhIbThqUi1NczJ2d1gtcktqV0dYNmJ4MEhjUzFxbkdyaGJUODRIeFlOaE1rNHpxMndn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star, Kenya",
-   "region": "KE",
-   "date": "2026-11-22T09:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "a653d109b4",
-   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdE0teVV4UUp2eFpoYkdCYXVTZHFuSk9fYXpna1RHM3dheUo5dks3dDF0cjVySDZ1T2h4MEg1VlBJbW5EcENlZnNoc2dnOFk1ZWdwMDNvUUNSZGM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "KE",
-   "date": "2026-11-22T08:46:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f367bbba07",
-   "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56Qm84WmQwLVpvVkNEX1RVM0FoUGdqTWk5MzJhdC1JVHFxMU1zMVdzaGRWalBCc3Rzd0tKUC1WaVJMLVdCRUw5RC1oWmhENWJZZXgzWlhhZnVrVVhQRHJOaGl6QnhXanVHNVJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "KE",
-   "date": "2026-11-22T08:41:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "95525975b5",
    "title": "Ruto in Congo for high-level diplomatic talks on regional peace",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHB6UU9rS2lIQVNNUEhUSXU2WlM4aERPZ21BbEVXZWxMOEZMdVFrU21KYVkxbC1LVFJlaHVuMXk4QmRDM21ZSXh4RXRvMjI1WW0wdWFUdFJyaXI0TnNINnpCNWUxbjh5ZG5xVnpqTnFWUngzN1FyMmF2SXZ0VHY0RWdLWHMxVHBKSzlMR3pqR2RYblJXOWJ6NmRsNXdFWXNfeF9WMTVEZktIUQ?oc=5",
@@ -262,31 +310,48 @@
    "topic": "Society"
   },
   {
-   "id": "1731b5ad6e",
-   "title": "Duale defends SHA cancer cover as patients complain over top-ups",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNjFtZmZMdlVEQXlhSmdRanlpZUNURHMwdFllMkItYkJCcmc4OXl3RmdNeXBfdnVOdXJnS0pzaUZ2Wm9mQUl4TmN5VTMwRFM0eWlYTjdFTHRkeWN5cy1jZ1Fla093Zjg1Y09PdHlQTGpCS0JQeXY4UlVzOFd2bW9hN2NaeEpNMkQtaHZmUFd6T2ZGVU5uYkQ5cDlPRDRVelJFSmFfMlYxeEE5c0s0UnI2TVFObFc5V3U2dWl3TEo1T0xzcEVDUnVpSmtESERmY0RSQ1pz0gHYAUFVX3lxTE95X0JPeFpVck5kQTBZS2Z5VmxzdUI3aWl2M0w2TmpBdm1mWTA5MlUxT3k1Vlpwdnh4N3VMcDFWX2xmREVtVXZucENKclFvSklmRzVROEhvaWRnMjRHVWFuMTJjUkhzSjhRekpDLUNUU1RtYVE0RElBbjhkWS1IT3ltampzdEI2TllsVTdfRlpFd200OFk3UWdQUHdpYnpmRlhKdENOazNCUUw5TUFHTWF1SEo0RlgzOURiWTE4T3dLWm8wbmlWQmpRTDd2RC1SZUF6cm1WMFF3Zg?oc=5",
+   "id": "48b35a9ad0",
+   "title": "KWS deploys helicopter, drones in search for missing Aberdare hiker",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV3o0dFdEb1FIQVRrWERsTDlfRkEzbHpfT0J4QWxfZFJ3S0swOEtsR2FRN2o1VDNCcmVaRjktTDlQUUZSWTQzR1BJVFI2Z2c5c2lla01INXdKM2ZoUU05TWp5eDVyVHl6Q09iM0NoZnVhWTU0WndxdUJobFRndmFrTEVIVVZnd2wzbkdTYXNTLXZDdnZl?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Standard Media Group",
+   "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-22T05:43:11+00:00",
+   "date": "2026-11-22T08:12:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Health"
+   "topic": "Society"
   },
   {
-   "id": "94a6e03e48",
-   "title": "‘We have the money’: Diaspora Kenyans promise Sifuna Sh100m",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzNuT1ZDbFpjVFFGYkFxOFYxcENGNEtPY2Npai1kbkRTV09JbDVTQU5tVkhacDJWV0hHazV1dFRuRG9adnBmSVRiYTEtVGVsaHhneTc5Sk1LaVFUcnNPZkxxb1RIbFJrVVhVc3V4V1F6S0Z0a2NFZk5ITTJFal9jcEtJOTA4UzVTckdoOQ?oc=5",
+   "id": "71f92240f6",
+   "title": "The Rafa Benitez curse Xabi Alonso could suffer if Chelsea don’t find an identity",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNjdlN2JnNHJFQktseGhIWU5nWXlQeU9teW10d09ua3k4aUE3ekkzNTRscmlyaDZfSk5jUktLdFJ1bndGVGlJRzBtVkZ0ZVB5LVY1bjF1TnVmMmZFRVdyeDZYUjF2LUJCTmtIbmtMTUNvNWZOU1NxSU56UlBtQmJiVXFCQWtUZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star, Kenya",
+   "source": "Yahoo Sports",
    "region": "KE",
-   "date": "2026-11-22T05:12:30+00:00",
+   "date": "2026-11-22T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2e2c525b54",
+   "title": "How America tour has become part of Kenya's State House campaign",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2ttRmRiMzVMTDZna3ZjMDh5UmpndThoZXFGSE9HRHpvMlpwMDM1VGJNWVFoMGlBa1lFeGtiWC1jS3VZTUp0S2k0SmNxazJhZTNTMnVtaUxJZlpWMUhISUFPdEF2RmZUS0NNVG5YT1NzbjBIUkE0NmJYckpINjNPZWlZdmFzOEdEYUhvQTVDeE16b3k1cnpfR0lnUlFHRDJrSGJEWHdWb3F1MGFVNHNZdXF5QjhlUE5ua1FwMWlUb08?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Standard",
+   "region": "KE",
+   "date": "2026-11-22T05:25:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -313,23 +378,6 @@
    "topic": "Society"
   },
   {
-   "id": "f0886c82ff",
-   "title": "Arsenal Goalkeeper David Raya Goes Off Injured Against Newcastle United",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHdob1M2ZnhoV0NmRXM5aGNjaTdJdUJOamNaT2JCREFjTF9WbjVscVh0QlFKb2pWRmR4Zlh3cWI0bi02dUFkYktaRG5HcTFsU1pCTWJFZHFJX0QwT1RrNDJpOEtETkQtYVBpQnVFMWx6bWZXSDBySk1nX00tRmxFeThGS1VPaUNHTnFr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "KE",
-   "date": "2026-11-21T19:13:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2e7331a5aa",
    "title": "Kenya Cuts HIV Infections by More than Half, but Children Lag behind on Treatment",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMV84ekNIMWFIRF9TZk93Yzc3b0R1OVpuY0wzd1AyZ3NrdlVvTFhBQnF2c2RnbFFZakNHc1NPSVpKOVByTHo4QWNTLTNMa0xpUFFHaE51dU1YaE9SMjU5TkY1REVDUXNTbGtweHA4enE1Zi1KMFJjX3BMYkUyZTc0MGFsUEZ3Y2VkaVlZVVlwRlY3eS1CbWxWTVhqcmJQSVdsZk9OSzBNWWF6Q1ZSSERxWHVjdWpmdUU?oc=5",
@@ -338,23 +386,6 @@
    "source": "Health Business",
    "region": "KE",
    "date": "2026-11-21T18:20:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "76687edc3b",
-   "title": "Emegha And Lavia Get 7 | Chelsea Players Rated In Disappointing Loss Vs Leeds United",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2t6dFM0VTM1NGNlVGhoQXJpNnVuVlR4NnBkczluX2tDc2ZRZ1IxN1B2Zmg1dG4zVmsxQkJ6QzNkcEdPTl9yZjFKVmFoSTJwdmRiRW5GelNiUzRTNUJsQkhCVGo5TWtpX1IwSXVjZkhfekZjVjg4VUM2YkxSYlNLWC1naWtUZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "KE",
-   "date": "2026-11-21T17:44:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -389,23 +420,6 @@
    "source": "Xinhua",
    "region": "KE",
    "date": "2026-11-21T16:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e03622b312",
-   "title": "Virgil van Dijk sends warning to Liverpool team-mates ahead of Manchester United clash as Mauricio Pochettino era begins",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVQzZ3ZLYUt1RHZpUzNNQTMyWmlBbllIU1hVYkc5bnZrLVpnbVhya01vekZMcXBqc08xRUZSbm85elJId0VvcHFhYWJDOGNJel9QNWNTUXVyazJyS1QxZDd5TUxENG0weVFkMXNGSmxOUmFvNnI3bzJpSHBfbWUwWHFkdDd3RnEzVmZiVVFYaXZQNDNJYTlPMVhBcXo5bThiVXZYbUJpSnc1UVlvU1RYRGI1dDRidw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Goal.com",
-   "region": "KE",
-   "date": "2026-11-21T14:18:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -517,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "e8eb2df71b",
-   "title": "A rift about 2,200 miles long is slowly pulling East Africa apart. Gases from a Kenyan geothermal field point to a source near Earth’s core",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVkVPOU9iMjdJSmtuekpSejc1NmVJcFRocTRoRjNWX2lKVHRhOG9nNUtCS3JJdFZneldlckpwUzNIZGYwN2VhS1pPZkRiNUdvQkd5ekg0V2duWS1yc0tjTEdiZlVsRmlzMXF2M1cxWWJSVDEtYUZfSk5ESTVYaXJudXJjTW9fNUVSSVh1U0FPRlVYT1U4Qy1XS1JwbHVRdlV2M1ZlLXYwakFUZ2g4eE9WWm1kdDZLMkpVQlB1ZXJIVXU4aEFsczVjb2x1bUl1bmJPRVF3b2JQTm45Y1FtZUNWOWlqcGsyQXVweHhhXzBwMTZJX1p2bWZQY0tqMmk4d0pockRsbldnUjhtR2M?oc=5",
+   "id": "e3234a9085",
+   "title": "RDF ARMY CHIEF OF STAFF ATTENDS 43RD EAC SECTORAL COUNCIL ON COOPERATION IN DEFENCE AFFAIRS",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3pubWRhdWV3VWtTZXdSc2RfLVdPblRncUdLd2dTc0ZhUjRBN29EUHpSa2lJaXp3Y3ZjNnJRR2lacTNBY0FGT2RTRDVTOVppWWlaeHpsSHR6T25iVzNfU3pXM0U4eEtoTGNnZWJzcUdRUzV6MGlCT2JoTUFPeE5lTkVXbDc1WmRwTnBYOUVhMFdraFN3cmdZVXBQcGJGRW1MVEZDSjNmbzhpNmZUbEh1amwzTnNlT2VGLWNzS1NENlZsS01tUjViT1VZbkRuNmhremV3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Futura, le média qui explore le monde",
+   "source": "mod.gov.rw",
    "region": "KE",
-   "date": "2026-11-20T14:03:31+00:00",
+   "date": "2026-11-20T15:15:49+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
