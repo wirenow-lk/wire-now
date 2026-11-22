@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 14/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 19/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 56 stories
 OK   Newswire: 20 stories
 OK   The Island: 9 stories
-OK   EconomyNext: 9 stories
+OK   EconomyNext: 7 stories
 OK   Daily Mirror: 43 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 14 stories
-OK   Daily News: 69 stories
-OK   Sunday Times: 81 stories
+OK   Daily News: 68 stories
+OK   Sunday Times: 82 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -20,36 +20,41 @@ OK   BBC World: 35 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 96 stories
-OK   AP News: 69 stories
+FAIL Reuters: HTTP Error 429: Too Many Requests
+OK   AP News: 82 stories
 
-Biggest stories right now: What's next after no deal at COP31 climate ta (9 outlets) | Fire at Indonesian candy factory leaves 3 dea (6 outlets) | Twenty-four dead in Nigeria when boat going t (5 outlets) | IMF Executive Board to consider Sri Lanka's s (5 outlets) | US intelligence chief says he trusts Trump’s  (4 outlets)
+Biggest stories right now: What's next after no deal at COP31 climate ta (8 outlets) | IMF Executive Board to consider Sri Lanka's s (5 outlets) | Fire at confectionery factory in Indonesia le (5 outlets) | Russian warship sinks in Benghazi after suspe (4 outlets) | Democrats win largest House majority since 19 (4 outlets)
 
-4 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: Popularising electric vehicles in Sri Lanka
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Washington Post [2 outlets]: Spacecraft enters Mercury orbit for first time in more than a decade
+* Breaking News, Latest News and Videos [2 outlets]: Equipment outage in Atlanta causes over 1,300 Delta flight delays - AB
     important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* NBC Sports [1 outlets]: DK Metcalf ejected after two personal fouls and two receiving yards
+* ESPN [1 outlets]: Steelers WR DK Metcalf ejected from game against Eagles
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Reuters [3 outlets]: COP31 collapse, 'El Chapo Isidro' arrest and South Korea's AI cheating
-    important (also on BBC World, The Island) - researching
+* CBS News [1 outlets]: Ossoff's expanding coalition in Georgia fuels 2028 presidential buzz —
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: The Island, BBC World
+    article too short for cards
+* AP News [2 outlets]: NCAA College Basketball Rankings: AP Top 25 Basketball Poll
+    important (also on CBS Sports) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal
+    important (also on France 24) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -59,8 +64,6 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -78,17 +81,7 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
+    Google reader failed (The read operation timed out)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -103,17 +96,16 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "message": "You exceeded your )
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 6 too small to look sharp, using the clean cover
+  photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
 
-Countries: IN 36, PK 28, BD 35, US 35, GB 34, IE 35, CA 37, AU 36, NZ 31, SG 27, MY 31, PH 27, AE 35, IL 26, NG 27, KE 26, ZA 28, GH 28, FR 33, DE 34, JP 10, IT 33, ES 32, BR 31
+Countries: IN 35, PK 30, BD 37, US 37, GB 34, IE 35, CA 37, AU 37, NZ 29, SG 27, MY 32, PH 27, AE 37, IL 29, NG 27, KE 26, ZA 30, GH 28, FR 33, DE 34, JP 9, IT 34, ES 31, BR 31
