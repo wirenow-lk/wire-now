@@ -1,17 +1,119 @@
 {
- "updated": "2026-11-23T18:20:11.197871+00:00",
+ "updated": "2026-11-23T19:30:53.620023+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
   {
    "id": "b80eee9588",
-   "title": "DIRECT. Yannick Jadot annonce la création d’une nouvelle formation politique après son départ des Écologistes",
+   "title": "DIRECT. Soupçons de fuite à Beauvau: Jordan Bardella assure n'avoir reçu \"aucune information\" de la part du préfet Hugues Moutouh",
    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYmhzT1ZqUXYzdjVmWGJZekZYSk1PUnpXUGFvRWhCOHh0LXF1LTNyaEJza3hWeXNrd1UxSlJ5Q0J6Q2pTdnlCc2JYc2E4cHYzWC1Jd0MxeUZWYmd3SURPWElrVnlLbThMQnl6eG9kT0I0ZG9RRXhoMUlocUF3QnhRNUxOOGZRN01wQWxxTlRfMVFoOUU1VURfZmVTR1g0YWJHUHBkZ0Jsa1NVRmo5NVVjdm93ckpLck5uZ3hyYm9XaDY5LTF1aUlxXzRrT0dDc3ZhUGFFcmxNZnNZNFhDNHRVVl9yZHJXNG9FeHJHMXFuVlRacy1qdkJnU2U5UXBZWlYyN2ZrMVpXOWN4cnBITzItT29NSFlhc2lvNHhNcw?oc=5",
    "summary": "",
    "image": "",
    "source": "BFM",
    "region": "FR",
-   "date": "2026-11-23T17:36:48+00:00",
+   "date": "2026-11-23T19:26:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Jordan",
+    "place": "",
+    "flag": "🇯🇴"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ad8229a865",
+   "title": "EN DIRECT, guerre en Ukraine : après les attaques de Kiev sur deux navires russes en Libye, le gouvernement de Benghazi demande à l’ONU d’enquêter sur la présence présumée de forces ukrainiennes",
+   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNZ1cwVzdJaUtFTW9hX1NLZVdMMG52bU5DeDI4Q29ac3JHTll1UFJoODRscnNxdEpEM3Q1cVlYSko3ZG92WW40NmJ4UHNBdXpuaUZuZTdqYkIyazNrWDBjNmlNVTJtU25qOUszaHB4ZDNYNGV1dFZZV3lpVGVnY1ZqUVVkTVlLbEt5MVpZRmNsaFI3QjJORFg1MWNIMEdObVUtT284WFVPZURwcmMtZnktbFJkLTBJS3VuaWFQMC03NjYyNnpUdGhCNmtwYzZweTl6QlpNR0dJUUxsdmhyY1JRUVVKMWExUjl4MG56UEFkZUNOM0pqaGcxSHlZel9FVGFydTBiMDg0Y28zQ3lLMGNDZHYtN3hiTGJTRGNpRGJSdld3Q1pXS2R0S0JjOWlicWdMbldIQ01rQTFWY1ZWM3h6eE5xdThBU21JdUhVOXhJanJ5XzljbjZzR0U5NHpUNTdqUVozbHVrWnNwQ3ZraHo0SE9QbjNTdDE4Vnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-23T19:02:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "009ab83ff9",
+   "title": "Climat : indignation et appels aux réformes après le \"terrible\" échec de la COP31",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUZmREpMcV9SYlN3VU9jM2MtOFQ5MG03cFlMRnBiUmFNeGVKeGhzMzBMdlR0dXc3SmpBcUtkU3FGOEZDSnowS1NsZXlkVzVsbHFlMm9jdDU3N0NxVGg1TUg2N0wwWmU2TDVzZHNYWjZrMUsyc0R3SHFvODUtSjdkbzdmYjRFRkRCLVZ1d2FObFl1emIyWXV0RWZ0MmdyMWlOUnc2YmduenRaWUhRUVNCbVZ5ZDRHTWEwb2xpNzZialRUc1hkU1hDazhvQzNNM2s5NVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Orange Actualités",
+   "region": "FR",
+   "date": "2026-11-23T18:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ae6a241da0",
+   "title": "Grégory Alldritt victime d'une lésion à un mollet",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1VuaEJUeVZSTGM5S3pGYU1GSHJ1RmJHbllLbkN3bktfaUNSaTlsRENZOWp4cDc1VXZqUm5SaHNVN0NQZXc5dWo0bG9sd2NLU2I4TjRBU1JLZGQ5UkN6Y2V2YkE3Q2RhalQ2ZDlqb3BTZ3FGbU9GMWtSNEVseldSSGhVbDl3dDIwWkRLODNZLS14NmQzUDd0MEtKbk1TUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "L'Équipe",
+   "region": "FR",
+   "date": "2026-11-23T17:21:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b7033743f9",
+   "title": "L'Otan est prête à se défendre sur \"chaque centimètre\", après des révélations sur un projet de satellite nucléaire russe",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWlZBYWhrSUFzX3k2ZXFZM1ZFazBpbzlCWHotVXdwV3QzajlHY0trclZLUmplOHpkSEttMEJPY2ROMHJrcGtMUjczTU1Zd09TVURLMi1DWVpUeUZJRHR5WUxhSFgzMXQ1bXRNcEdubnZVRmVaZG02V0FBUTJtVWt3VW9SaElQTFZCWkRvRFBlVWtRRDVzZF9pcUJSTlMySEFTT2NXVkk2UEJocnZBU2ctRjFaNUh5NGJUVElKRGItRGVXajI2VmVHeC1NT3lNNzdBdlRSeEVZU2ozbUlUUTVBSGc5SGQ2eGwyMzBnalJRUjRRSFVxSzc3LURiY1BvUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "franceinfo",
+   "region": "FR",
+   "date": "2026-11-23T16:46:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a94f4d16dc",
+   "title": "Alpes-Maritimes : l’agriculteur militant Cédric Herrou interpellé et placé en garde à vue",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXIwR1B1V29zZU9LalA4NUF0bUdKNzc1cG5wQ0ZfdnpwWmxkT0VfSkg2NGk4S090MVg1RlB0blFTQnRfVGIxaXc0cFVHTy1ncGRRX3ZidjhVWWtlQlREMXBkcGFyRzlmZUR3RnlpNExQdk9jZGc1cXIzOUt5S0tFVFg4T2k3Q0wxdHZnV1hOTlpWTE0tMmd2R2ZUNUZmc2szUGxyam9Gamp1QzA5amdFbC1vRjUtaU5yQy05Y2NsWDQ2Vmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Figaro",
+   "region": "FR",
+   "date": "2026-11-23T16:32:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9e633d4cdf",
+   "title": "Le baril américain de pétrole tombe sous les 80 dollars pour la première fois depuis août",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVF9KQUljSmF4cjcxWjlWT09tODBkUWJFWEZCcG4yb3Ewb194WHdKakJHdmgwUmRRYW1xa2QwRUpJcHQ3R1NvRVF4eFdYM2cxMkkxUHRRZmR0d252c0NpWUtrNVhRXzFxakl1OFN1VW9IMzU0ZFR0bGNmYk1DalZBc0t3U3JMdFQ1dzVJeXZlSUlDQ3RjYzlLN1F1N3ozRk1jemxZclVuY29qQU9nVURmMWFWV3hfQ1pJaE5OMmJka3dOS1RlQ1JCYlRTV3lqOE0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Figaro",
+   "region": "FR",
+   "date": "2026-11-23T16:24:02+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -38,14 +140,14 @@
    "topic": "Society"
   },
   {
-   "id": "1a4688aca7",
-   "title": "Arrêts de Peugeot en endurance puis de Citroën et Opel en Formule E : les raisons du séisme Stellantis",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdm9sMmNzMjFRM1VqdVNlM1R6U0NLWDU2d2NNWHI2U3EwOHFrMnF5dW5xc1VtbzBVdUR3REJPbkFoeFVlS3JwZU1UemNrMTBtbmZ1b3FuSE40VzBKRXk0cU1Xc2s1Y2pRTGMyNENrLXVEU1ZGVEVRdGNGcGN3MUZYa2ZibE1nQXEtWmxkVlZid3U4MUw2eVZ1N2hnd2lLa2otREtkbXY5RUtwajZMczRlVXp4U09GX0xOb2FMbmRwMkluNHkwVW1CNnNZOU9aTTJvWENwWmprSEVHdm9qX0tScGIxX0w?oc=5",
+   "id": "608df19853",
+   "title": "Grippe : 57 % des 65 ans et plus vaccinés en France, 75 % en Angleterre et 85 % en Corée du Sud, et l'écart s'explique",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQjNZdVJSaXRUNlBvM0NSTGhNTjNoTldISHFRT3g0bmlnWWxJeG4tRGtNc3NSUXg3X3NxTzBTWXltMjdUeXZobF9PTHh0SVNobjdkY3pJbk1keEF4YUFHQ2pzTkV5Z0JIU3dkdDRtM0dmQ0JUNF9DQkRGd3dFVWtiTlo3YWozZ1Z6b1JLbDlGaXFNai12UEJPY1ZRa3MwVkdVLWQwVm5nMVRrMEtHTHFMTk9ELXlpcDNUcHpDQkxhXzJXZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "L'Équipe",
+   "source": "JeChange",
    "region": "FR",
-   "date": "2026-11-23T15:55:21+00:00",
+   "date": "2026-11-23T15:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -55,14 +157,31 @@
    "topic": "Society"
   },
   {
-   "id": "608df19853",
-   "title": "Grippe : 57 % des 65 ans et plus vaccinés en France, 75 % en Angleterre et 85 % en Corée du Sud, et l'écart s'explique",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQjNZdVJSaXRUNlBvM0NSTGhNTjNoTldISHFRT3g0bmlnWWxJeG4tRGtNc3NSUXg3X3NxTzBTWXltMjdUeXZobF9PTHh0SVNobjdkY3pJbk1keEF4YUFHQ2pzTkV5Z0JIU3dkdDRtM0dmQ0JUNF9DQkRGd3dFVWtiTlo3YWozZ1Z6b1JLbDlGaXFNai12UEJPY1ZRa3MwVkdVLWQwVm5nMVRrMEtHTHFMTk9ELXlpcDNUcHpDQkxhXzJXZw?oc=5",
+   "id": "8a96e4bea4",
+   "title": "GTA VI : le pirate qui avait dévoilé des images volées du jeu vidéo en 2021 et 2022 condamné à sept ans de prison",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUmtGU2IzVENacEdGV2daVGkwWGpocFJDbVl0akFac1RQYy1NVlIwSEpCYXl2RGNKb2xvVHlLUE9tdzRESGJqWFhyZlE5SzJULThPc1VtRm40XzlsdGlrakdZYTlxUnNiYTFvTmNYazR4QUhYVjI3YVdxUFNGb1Jfb1RkYnFDVzcyMmliekJVQ0VxNGkxU2NKYWszNXNPRGVVM2F2QkxPMjNhR25RMURTUi1yZkt2VFd2ay1yaElPR094cHhheXZiZG5QOGFLY3FnTGZnU1JYaWZZVHh6aFh2NlkzQ0RPZDRWSzF0LWpnQ0UtM29w?oc=5",
    "summary": "",
    "image": "",
-   "source": "JeChange",
+   "source": "Le Figaro",
    "region": "FR",
-   "date": "2026-11-23T15:54:00+00:00",
+   "date": "2026-11-23T15:45:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7a05e31377",
+   "title": "Accusé de gommer l’origine juive de Bérénice dans un opéra de Mozart, l’Opéra de Paris otage du révisionnisme politique",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDZEQUg1T2NaVDhMb1JOOVRSeGlDVFl6ZFROS1RSV294dF9JSTVlR3gwN1hyQXlORTc4SDNEblNIRHd0WE0yY3A1bFp4eXQ4SUxDWFh5YmsyR2RxblkzdDVYeGsxRWdKT2FROVdqaVR0RXpBOWdoZElVR1d6MFViOEpObjZFUjhoYTdoSUxEUnoydWRybUcydG92cHV0RXFlM29iUmpSOENmN3JpdTZFOEtNTTJtamtfN0xGRHVSdXhaVzNpaE1WN2FHR3BrMkZUWTdnd0xFM1lLdVVSQjdB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Figaro",
+   "region": "FR",
+   "date": "2026-11-23T15:24:36+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -106,6 +225,23 @@
    "topic": "Society"
   },
   {
+   "id": "5ee7c2b8b2",
+   "title": "Le couperet est tombé pour Peugeot : Stellantis débranche le programme WEC",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmxDaDZkZ0lZZEFDMm9IMDJVSlJpdml6U2ZfbktmMmdJQWlnQnI1aHNVQmt5bGdLbWFvNXVNbm5aRFFSQU93SS1YcTRqVXdCZDBGMWRqTmRXS0hEODVQTGtCU01pYnI0clc0WXkxcjBUZkVIR1VXZ1NReklnaUpnQm9reW0xSWVUdmFGYjZ2ZW0zUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Motorsport.com France",
+   "region": "FR",
+   "date": "2026-11-23T15:00:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a9f39035cc",
    "title": "Quand Doué pourrait-il revenir de sa blessure au genou, et à quel niveau ?",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmZRMjhCSTY5RU1LTEZLXzJPN0RoOVJOMGFyVnNlaEotdXZOQUxrSUxuUmM3MGNPOGJya29fWE9SQUlVRkw4UWtNS0lRbFowekRybUlXMjVGX2piakpWbFBWYXJGdGZieFVDeW5UWjhMaXczV0tqdlJ4WUZ2VnZ6YVp1eEN5TEt4TGJFb09ZNlhabnNOaWlPcnRsRUJXRjh3STRxVVNmNHBGOENIYXdURFJNbnlBSDE3UEViSFV6b3RBc3Jlb2d6MHhDVzdLSnEwODN5UUl3angweGVZ?oc=5",
@@ -123,31 +259,14 @@
    "topic": "Society"
   },
   {
-   "id": "4b58dcd992",
-   "title": "Grand Paris Express : Valérie Pécresse juge « très compromise » la mise en service de la ligne 18 avant la fin de l’année",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNb2RESzVoOWpfY0kzMU1wR2pYeXlGMEplUndjMEhDaDJ3Wk9jemQxaWZ4YzdUU2hld2REdDZmc21MNUtyRE1Ba2VSME1IQUpFTnhDbDRkckpIUG53Q3Y4d3p2d1dKVFMtNk1NUjFIRERYM29YcFZ0M2tQT3lDeE9CWnFyNEFDekFSa2R3WE9EZUhILVlSZ3RtWDZreTJQMHBrVzRiZWsyVHgwM1NiTjJOYm9jaVBLSVJ1LXo5UVBlcmpkZDkxME1OVUpDTGt6LVRtbXM1bjRVWjJBS21OMF96WjlOS1hxck9qNDZsZkhtNF9JRWFrS2tzbXBFWDZaRllWMldiSHMxQmFuekZtbkQxTWxR?oc=5",
+   "id": "cd0484e69d",
+   "title": "Malgré le scandale d’espionnage, Jensen Huang réintégré à la tête de Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZlZBcXV1eHNKZExHNElKUHN3bm9GTUhaWGZoYUFWZ3JKRU96MzFmbHJoU3M2Rm9ObEVadXJPWHVuWUYxaGRXS3lMUUFkbUNaVlF0eTRFdEtqTXVYNUJjQWxpcVc0enFaMlVHM0V6LXZ4M3YzYUZ1MkloVi1TTld2enZEbUQtcm5GM2VvTnlKM0FudkVKTzc0YW9PLWdDa3hsaWlPbHpIN3dncmsxX0VvVWRtTE5qTVNsLWlBZm9ZZXFEY2ItSjM1U05rRFBBSDZfRlNOaEJaV3ZDQVk5NHZpbWF6UXZ3MnlySGtB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Monde.fr",
+   "source": "Le HuffPost",
    "region": "FR",
-   "date": "2026-11-23T14:35:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "799fe46a0d",
-   "title": "Nvidia annonce la réintégration de Jensen Huang comme PDG, onze jours après son départ lié à une affaire d'adultère et d'espionnage",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeUd3c3NCaXBIYzNVdmN3d3MwczV1c2tyRFhFOW9TRm9Ib041d3ZWdGlhWGk5ZkY1SzZBS2tORlhVRHA3UDJQc3I0N1dJallQZU16bG91VnVTalM1UV9QVldwdDdUSDE1eEJzcGw2YVlGT1VpaFhMc2h5cjBMLXFiQlE0YXRYTGc0OTV2a3pRT05Mc0haWTRRd3Q0cC0xMUxjTTg3d3JvTm9HNXphX2F4Ny03MF9TWkZRUmU1WDJoaHJza045SGJDNHM0SVVQZVU0bzF3UnBPX0QyVHJvVlVkaWxCM0hILXBENkk2RkJEN0Z6ZDhCclQ2aFdFd29xZDNEWG9rWlo2VVFMV1NHQjRBbHowSQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "franceinfo",
-   "region": "FR",
-   "date": "2026-11-23T14:20:26+00:00",
+   "date": "2026-11-23T14:22:27+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -155,6 +274,23 @@
     "flag": "🇫🇷"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "84900abc3f",
+   "title": "QUIZ. Miss France 2027 : comme les candidates, passez le test de culture générale",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSU9Yb2VjcWJSWWI0TmZXQVpIeG9jVzZ0ZGtSYWt3MXFuaWpfV2o5Nmdmd0dUQXZaY1ZJRHpucDRXV2VfTXB5LWNDTF9RVzkzRjdVS2VYWWdjNklKQ21xT1c0cFVuNVA1WVNEM3UtT21vTVcwMHZfRDhCa3Jzcmk2Wm5rZnhFNFpzWDBtWk5lVzRyLWNDYWc4UlAwR01pczVmaUk3MHhzTEktYVRONlpfWGF2ckV3T1VuZTBwYzA1b0JpSFF3aTU0RnRKdWJ6RFNYT0VjcGNvOUhKTEhIbkw2UFVn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sud Ouest",
+   "region": "FR",
+   "date": "2026-11-23T14:15:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
   },
   {
    "id": "09e76dcdea",
@@ -174,19 +310,36 @@
    "topic": "Tech"
   },
   {
-   "id": "8a190e060d",
-   "title": "Guerre en Ukraine : Comment Kiev a-t-elle mené son attaque contre des bateaux russes en Libye ?",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3FBX1BRMHpsUGxubHNkSGM1SnNFdUw1UFhsWlhxa1dtOTNodEpZNTVlM1NGRFhmM1lYQVdZVXpqYjF4TnM4TXJWSVhsS3VMRWZGeWRjZUY4bTJ6c3htV29hTkdPSkdKT2pydlNYXzQxRjUtdTVtTlFoWWxacjQ3TmVkU3QtLUY3aXFHXzM0OVNoYkVuR1lseDgwbDFzbm9qUWVUUUtsbjlyamhUVzYxVmlvSm51bE0?oc=5",
+   "id": "6745f5e89f",
+   "title": "L'édito de McGeever / L'éclatement de la bulle de l'IA pourrait remettre les baisses de taux de la Fed à l'ord",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOeTdBWm9aTmp3dU9SZ1UwR3N4czBwMnV4NUJSQmtjVlBzbEF2TEtfNnBoS0M4bnVuQkFiY3g1cGJXbThpRjJhRUxJZzJJWUt6eG9aaXNRT09lWWdBUV9fZVhCYnZvdW15Nk1QY0VvVHI2OVBrQThVVkJqWGNzaExtWURUU2lPTy0tdHBreGU5cnIzY3NnNEtxRXliNVQyU21WYUs1WTMxek5EOFp2UjFjaUREU2F2VEtUS29rNm1DTGlsb2xNUzgtMXF6TkJ4TFFKazY5RjVuWm0taDJjMllzblRNNVNNbUc2WEFMQWRHNTI1azVieVZIYUZhQ2xOWlJXdXRHak9iT2h6TnA3VmtIWUtfNGYwMVN2Qk5lVjgxR24xZ9IBpwJBVV95cUxQSFYwZ29ZcENOZFBRWTQxZG42V3B6NUNfUmh0TVUzM1oxNmExeWs2X3pOMDJHZEZpeTZCRjNGVndkYUNYZWRVaWZtblJ2cWVTZDJwQUUzd3V5ald5R3dTd2ZFS2RUdUJuU2lmdEdLM1daVDRfMjhxZjNvUmItclJVaEFYMmxUQngtSXJUZEw5UXJtZGV4WkVxdl9xWkt1eVpCelhFM3g0aEVkYVE2NW81Qk9WQUdudVQ5VDhCYWUybFF4cGRpdUdVMUhtdmptMjdMMHN6WndsZ0ZicFZtMkFZbFQ1eUZIWDlYc2Y5LVFNZEREZFBwYnUzNWhpYkxiTmVkMXVuZzlpYzBzVWhvajNMaEhuTmtoZW5EcGphNmJKVDNkUkozUVQ4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Boursorama",
+   "region": "FR",
+   "date": "2026-11-23T14:01:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "69d8181f8c",
+   "title": "C’est quoi cette marche contre le racisme qui s’élance de Marseille ?",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2p0SXNkSWdVVm5LSXVCTnM5UzNDY0VodEpVMW84amVYNmpVSDRwSWl0bjVSTE9ua2pkRXJjVER3MGQ3aXR5bjlQVlF1YVFJY2NUczdrMTZlU092N1QtQkc2Qkkxa0o0MUJCZ05ZOEtySG0tbWFteEVXLXVyblEtYVBjUTBPRlBUdF9QSjFjaXhHbzV4R0F2N1JhVkxjdXM5cThrNzU1TGZ3RmhoR1Y0ZXNCX0hiNnpRVURGSnhiV2RNNzNp?oc=5",
    "summary": "",
    "image": "",
    "source": "20 Minutes",
    "region": "FR",
-   "date": "2026-11-23T12:51:00+00:00",
+   "date": "2026-11-23T13:55:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ukraine",
+    "country": "France",
     "place": "",
-    "flag": "🇺🇦"
+    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -208,31 +361,14 @@
    "topic": "Society"
   },
   {
-   "id": "f7d0eca621",
-   "title": "Les enquêtes sur les déplacements d’Anne Hidalgo en Nouvelle-Calédonie et en Polynésie classées sans suite par le PNF",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVjFGSlExc2l2blBZMkpaNkFLVFJYTmpfcExLSjZ5eFduQm5hTzk5NHJmVk5RaXlkT1hXejFuWTZpT1ptR1NrY1M0U0RhUGgtQ2FXNGF3SHNjN3hrTWtHZy1PcWlwYTFfTjFRUkM3NmVCOTBTci0wMXdaRUhRb2FfVWZtd2lVcG1nc3o2X2EyM2dUdmFjbXoyWUUzX0p1SmhMcDJkMWRoR0RLelFIZUN0endHVTRoc01DNUdiQ2RiZWdYcVpyYjVIbnBLWFpiN2hoT3FzYzNSUVFJOFNfSGE5Z2ViRlNRMlZ1WlZZYlhja1M5VFh2ZUNPT2FZSmRiNlNXeE1jOGsyOFdQYTdzcVdNR3Itdw?oc=5",
+   "id": "a6db7a8ecb",
+   "title": "Les enquêtes sur les déplacements, dont un en Polynésie, de l'ex-maire PS de Paris Anne Hidalgo classées sans suite",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc21KWjhNRUZZSjQ1b1Bnc19rdE9mVkdsaDJidi1pZmE0aURuY1I3ajBIVk4zQk01b0o1Yl9rMlNqRXV2bnpoM0haRzRzNDYtSnh1TFVLeGh3WHhINEdqOERLeXU1RWUwX3JMZm00V2pGcjNidlhsVEJDcVlQRWEyR2VuS2VZcERFUkg5bGp2UWRoVnNyUXJnYmZHS2hSVjI0dzg1SENWMFA2MU5jcFh4aHdaN3Z0cExLdGRTamdHcEpIdVlLREp6WDIwczY0UFBwdHNxZ28tYWJ2SXlNc0xKR1pZOUNCN3d6YkJPeG1CTjduMVNV?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Monde.fr",
+   "source": "BFM",
    "region": "FR",
-   "date": "2026-11-23T12:30:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e98a224231",
-   "title": "Aéronautique : derrière l’aide de 350 millions d’euros annoncée par Emmanuel Macron, le chantier-clé du successeur de l’Airbus A320",
-   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQakxpR1E4bnNlVlA4OWd2Qi1qdjY0U2hQT1Z0MXdaR0JZNDFqLW8tVzBaT3Vhc0VmWnZza1Z1Mjk5WmVVOGlaVnlPbmVxeWZWY09OVFNHb1JHbEJlRUNWN0hCYjhYbHdDa2lkMUxmdk9NcUpWY0lyX3hZRVF1QjNPMjN4UTMyQzdUNHF5S09MOHQ3MS0zUEN3cndUZVpRaGl3cEZPRVo5eVpVV1c2M3JYaEhiSnJrOWxCbTJ4WVhyNjhfa0RpWFNqMjkySnlGdTFMaWtaODhZSW5Oc1dtSEkzdUY5aUVYTWhlRWRwU0NoNW5KalJ0b3ZqOFhIX0ZCc1d5WmxzMzhWdmtHbzV6bkhHWHJoRGZvRElBYUJuYTJSZ3VWNXVXTkJ1N2NkQzYtSHQ5WEFjRw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-23T12:18:40+00:00",
+   "date": "2026-11-23T12:35:51+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -276,23 +412,6 @@
    "topic": "Society"
   },
   {
-   "id": "9a557f10ce",
-   "title": "26 communes charentaises reconnues en catastrophe naturelle pour les mouvements de terrain",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaERxRUN0c1lLMkF0ZVU3VXlHWVlYNjN1NXl6MGxES05zdzRoZUdyc2tLTG5VQzU1dGUzMjI1b2c0d0sta0JVME5yeXhyUjA1NW1qc2E4R3RJZm1uNWtaZU9iYV9EUDBLRGo5QVRWa09GLWxXZ0hUOGpPY2RVOUxFQVlNTE5fN1JUZFM0YncwaGRnR2tlZkxBS3kwdjdGekZGZTl5cXNoUENDYkxsNVIyN2l4ZkdEa1hGUk8wbkFfTVZWRno5akx4RDJVdGMzN0pJRFdhc3dzU0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Charente Libre",
-   "region": "FR",
-   "date": "2026-11-23T11:52:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "41818d92a2",
    "title": "Le Cac 40 se redresse avec la tech américaine, la dette française se détend malgré une activité en contraction",
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaGdtRVZ1dWQ1NnVDSk1iOHR6UWhnWmNFVE1rNktSMVZDUTNpenVUWU43VlR4MEJybHg2NWRFN0RzZVdaMDZEakx5WUlyVGE1bXNJc2Z5YmtZbWRVYlVUb3d2TWdFaEtvdkx4Ukh3XzdWcElxXzhiVkRNTEVGUy03bWExZ2tQcHBOQ296RlozckZVcGZOQ1hvSUhmV1NyTHVSQjJPa0RBd0RwdVVXYmFIOWxUeHlSd0NkLWR5blFXMVY3Slk4QVFnbk5lVF9SN0I2Mmw0NTRDelc1eFUxV0RQNTBIQTV6NXZRR3NfWFFydWJ2RFB3NkU3eUxIbFhNR2dHcXQ3c3d3UlY3Zlo0?oc=5",
@@ -327,108 +446,6 @@
    "topic": "Society"
   },
   {
-   "id": "b482a92317",
-   "title": "La Russie envisagerait de stationner une ogive nucléaire dans l'espace : une arme capable de neutraliser les réseaux satellites",
-   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNVnFWVTdfbXRMSTc3RTNiN2xRRUN6emZ1MlRiN001VFpEX19WSzVabWZzMmsyXzJ0eHB6algtZURTWTAwOFg3aDVReHFjSjU2V0NEUEFvam9NQ2pPbWcwcktsS2hFVDRrSktXSndPYUQwdzJrWFZfUDNFOGVELU11LW1BMmFTakxpZ21rWmFBd2dJYWJUS1RDZFhGbGVQNmt3ci1vZHVtZTRrR2Rfb1pVSjVNbFNjSGFOUFU3YVRqUmROT2p0d3c1WWpaaVpfSXdBYWJGTl9Od19LS3AzVGNCWUJ3bk1GZUlLYXhOMnFhdEZwUEk0MExaM2FmNzhJanJOZlBkR1c1Z3FNVnh4c3luMkhiNDZFQ0lHdHJ2d29ZdklIRGV1d0lUVjUwUmkyX0ZjOGpnSEJhQjVSRXBUa2xtcjlvRVRZZ3hKbFBFeTNn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "La Libre.be",
-   "region": "FR",
-   "date": "2026-11-23T11:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "748b6b60be",
-   "title": "8 changements face aux Bleus : Erasmus bouleverse sa composition d'équipe pour la finale !",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVXJyT2pGN0tTMUF5a0dLcnhNYTVNbDZBbEh4TktDSFdaNGl6MHRmSzUzazl5aC1hXy1wdTdJRHdlTnpOSW5WaTZEQU1JYUJyVVBTZjlFeHRfbktjbnFmZWk2UWd1VGY5c09OdE43U2FtYW9VWW4wNEVMTGp0VlRkcWVhVWt1akxuQWN1cVVVcmQ4NVQ4UlotM1ZDR0xUT2lwTUVPVk9UN216ZXFjWl9qSF8taVE3Zkk5UzlFTElOLXU5bVFVdVIxZmRpRjl5LU51XzUxckNsOVNoLW5DQUF4U0hoWWI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Rugbyrama",
-   "region": "FR",
-   "date": "2026-11-23T11:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e4fbed6e3e",
-   "title": "« Il a été mis en joue et menotté » : le militant écologiste Cédric Herrou à nouveau placé en garde à vue",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZXlaS3plaDhzbjROcGxfcXFrQTluZHJVYUlUaTZRUEdNMG5QeE5sWF9RenUzcERuVE1ic2FEaDd4eGJDVV84Uy1ZMm92Z2Nfdm9Qb0NXR0F3aEZkeHRpUTdsVjd5QmVuT2xvaHE0a3R5VW9ZUEM1Wk5aNEdKR05RTXNUVzNBRHc4a3h1ZERJZ2puTmgtb01MYUlxcVNnS0R6cUt5Ujk2RUtVUTNvT0JOWnBoZ1NKUF9pZjVJSDgxRXI1TFpiQ2JOWG44V0ZfZi1iQ2g2OTAtNTZjYXpWeXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "L'Humanité",
-   "region": "FR",
-   "date": "2026-11-23T10:07:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2bf8b51f74",
-   "title": "Miss France 2027: découvrez quelle candidate a le plus brillé au test de culture générale",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHFrVGJjeG9BUTJxcXhsNGZCUnNTTUk0UVBnSjVjVmtQQ2YtRXNkcTNqTVVYaFBBUmtRd2lxeGRCM0ZDWmU2TU1KaGRCT05XNkdjcjVnYmpyRGI3cDJJeUhyd0tjMVVBMnpVdm9mZ2dZbEFfdVFFR3lUaTVaS2ZWSjdZcWo3R0FnZFI5S0lEY3p6TExlbFg0S3JLbU5TdS1pYzd3QnRZUUQ2a0RrVXVPdXVTLXRNaEVDLUZzaTcydXVuOWNVOUhjZjMxYTh1SnNBblJWTw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BFM",
-   "region": "FR",
-   "date": "2026-11-23T09:50:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "34afb67585",
-   "title": "Gemini 4 Neon, GPT-6.2 Astra, Qwen4-Max, Olala mini : 15 nouveaux modèles d'IA et un podium rebattu cette semaine",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0FlVEtwMjh3RDFQOXBRdEl0LVBOUUlVT1RSVzk5SG9aOE9ScDBCZlFybFVnNDVkcGV0d1g4MlNhVEtMSTJ5Rm5KQmFUbGV2bk0xdHdqVEh1ZXlEcExuTElBM0lnUnF4ZTd1TVF4NU9QZzd0WVQyRkhWVXRBTGNlUjFvNjcyYTFKNFRaQWJhcjdpOWVTV1NTWmE5bDRpWHJtR2ZsRXNWdld4Z3MtUUQzcGFKSnpORXlzNGROaEN1VkNhQ3V5OGpSR0JoUXNhQVc4bEtfRmQzUGM2dFdJaktWVWhSLWdlWmlSRjljbFFrVU5YZWRtemRnZERXSHJidkU1ZGFQVjV6QkdNVHNK?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Frandroid",
-   "region": "FR",
-   "date": "2026-11-23T09:11:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a852a1b35e",
-   "title": "Accusé d’effacer la judéité de Bérénice, l'Opéra de Paris se défend en invoquant la « liberté d'interprétation »",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeE81b3pjeVUycWstQ2RROTZqcHRMbm5ESDRhQ3lOMlAzcUpkN1FVVUdDUVQ5bjFZZlVnRldzX3FtRW4xejBsUHl4dW41anVmQ0llSnNvN0w4WGthaFhMOWFXMUNZT1ducEZ4YlNSbG8zYk1xZEhrVXFrTmJEdFRXbzI0bklCcmJaUTBEZ0E2bFVWaHZGaFVndV9sZ1hWN1pzN2VYc2NGTWFqc3UwSmplRHlKbXRMdzZEOXdScVo4czVMaGVxY19XaUpNZHcxWFJreWY5TV9nR2F6TFoyTlB4UHJ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-23T09:08:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "80c5635bbf",
    "title": "INFO ICI Normandie - Quatre personnes, dont un père et ses fils, interpellées après le déraillement du train Rouen-Caen",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONFBZUVVtN1FBZkxJZ2t2T28tLUlJaTIxaHhsaXNTbDBvTExicEc3Y2gwMnZzRWxBUnMyQXJ2Ymw5X3NwMEVnVXZRUFVmc21IZlZNRGU5Yy1Sb295eEJyU2R0WGxqOEkyWkpvYlZtMXVhSlBlZFpLMUFMR2pFZF9QQUg5N2NhdmhXMGYxWXpWc2ZWTGNoZkxjcVJjbWl1cVpDdHRHb0tCVnpHRTRJNWozaFAyU01DTlR0ZHRvUFRrdWlsLUh3MG1IZUZHZzViOWM2WjZRay0zQzVDN1NmZXlHVW9mTWhZMVBFSWdmVVVoVQ?oc=5",
@@ -446,23 +463,6 @@
    "topic": "Society"
   },
   {
-   "id": "9e2c295966",
-   "title": "Fiasco de la COP31, Ruffin courtisé et un préfet soupçonné d’aider le RN",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjNuSFYtc2lPSHd5YXFwajBDUFo5Z3RuMGNtYkROMUVoZWNialNBQnlRZjVqT2Zqa0VhenczbVo2TXhaeWVuS19WMVZVVzIxNTd2V2l4ejMxNExZM3ZBV3pJZ1BUM2xLLTh0WHpuZkNndE5tUVFmb282cTViaWhSZTljMzUxYVNFUWxsbzEzVWNjS2xOMGdKckE5aEFETktNZ1l6aFBsNi1DdEp3MWUxSFhFQTJwWjA1d1FiNEdTQWFIdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "20 Minutes",
-   "region": "FR",
-   "date": "2026-11-23T07:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "12a8685fcc",
    "title": "Prix des carburants : voici les tarifs en France ce lundi 23 novembre 2026",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnJqTngtaUJuMTlTUThLYXR1akJ0WnYzUnJ5VWhjd1RQVGlhOVVTNVJPVTBVUUVHenpJaDBNVEg0QllqTlJZZ2taR0RKVk9XSVlBMTNWOWpLVzFqR2UtTldiUEIzbElRdXZwNTFoY2RwY29sMDc4Sm0zSVUtR0FpT0JHNm52UnhCVXl4TnJ3VjZudmxVR0RCeTAxdFFNbkFYdVl3ME90QTgtWjRkdDRiZ2hFQV9yZw?oc=5",
@@ -471,6 +471,23 @@
    "source": "Roole Média",
    "region": "FR",
    "date": "2026-11-23T06:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4ddd51cae7",
+   "title": "Emmanuel Macron chez Airbus : coulisses, temps forts, annonces… Ce qu'il ne fallait pas manquer de sa visite à Toulouse",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjcwU1N5UXlXQW9jV0FrUFdidkpoYUJTejJKaVJyZmxuRV9MTlkyUWg2UzhNNmlRVmRCWXpZSjBqcXdWMUdPaUNWa2JXRjBSLTFHejEzQk9JZXpPRjZyYmQyTEFlVDgzQzdUUHdhMDREbHI4bUNUM3E5cWhadHlxdXYzY1ZnZUFFUVRSczJJQzdpSHhFSkVpeE9xellNeGRrNWFXWDhFLTdkV0FKRVAwQW9KaE5JUlRpVmpRS3FNbkgyUXVVN1ZockFlOWx4RWhXOEFHdFo0R19uM1k4YTRDMDR3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Actu.fr",
+   "region": "FR",
+   "date": "2026-11-23T06:24:27+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -497,14 +514,14 @@
    "topic": "Society"
   },
   {
-   "id": "38252a1994",
-   "title": "Une seule injection, trois ans d'efficacité : le traitement anti-cholestérol qui suscite l'espoir",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMEtHVEF3NkhCYzUyMWJid0ZYQVpTdkJvSFZiRU5DWk5NVTJHVWt5OTBnTERZTDZKOHZrWHJLTmtkU1BwbUJDbGxTd2xEZEtQMGJOdG50Q1BuMVM1ajF3cE9VQldxckVwVjJfTTQtS0YxQmFGcmM0QV9oeXNVcERwWmZUQlBhdmxqNHNlT1Q1ZGFET3NILUh1emxjMHgzblc5V0hycWxDeG94ak9pMDBTX09UR29jR2E0RlFpSWliRG1JU3dTTkpxSFFlY2FjUC1KYXpOZlpHcy1jYTNwWFFITGF3?oc=5",
+   "id": "1f2c98ce18",
+   "title": "Black Friday Samsung : moins de 500 € pour le Galaxy S26 ce lundi",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHRKSWRvbC1KX0RLUXNTN0JVWk93Ml9BZnVrbmpuSlNKSWREcnJkZjlTdWEzMlJFbFRJTHo1cDR2czB1aTVSVThVZ0R1TTdIUUVFTW43djFLaDdXYTdHRnFnSEdOLWZJMEpmbUZlbjFkM2hyMEJuNTZudGlRdVNhU2VxUGxxYVhHbVBSaDh1VS1DMGRIZkdOVmJBUzZqeWsyZU9xM2ZkTS1uY0RjWmZ3Q3VuMjIyTmlC?oc=5",
    "summary": "",
    "image": "",
-   "source": "Futura, le média qui explore le monde",
+   "source": "20 Minutes",
    "region": "FR",
-   "date": "2026-11-23T04:28:00+00:00",
+   "date": "2026-11-23T05:17:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -514,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "8a011150ef",
-   "title": "Mexique : l’arrestation d’un baron de la drogue entraîne de violents affrontements au Sinaloa",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFhBeWlWdEdVd21sRjEzN0FwbHE0cXF3NmFPYXZOc3VMV1BfOTJ4dTFwa0lUMmhsLTZDakF3U0djZGJubmZ4OW9ROUQ1bnRISVptalY1Qk5QRGJVeDVXelFmNFFXd0hoZDFfVV9BWDRHenAtQ0FVMXRza3JGZlN1aVN4TzhfSlZaUWJiUEs5aGZETGg1SnRKZ3hjOTA5NmsyRnl0VFVMWUhiRExDbXNWbF9TdmF2bUhxYjNZUVVKNnQ0THJqUWRBblJrTHFSaGdUT3lHOA?oc=5",
+   "id": "6d9e7c0cab",
+   "title": "Les trois objets volants tombés en Pologne sont des missiles de croisière fabriqués récemment en Russie",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbnE5S21CelpWS1Nnb253N09HSl9MRmltU2x2SkxhbDZZdk1ZenFVMnNuRUpJQzloUGpYS3l2dG5OOHFYYTdkaWhsMEVPb1JlTVJyX3hGZ2o5ZGVTRDVzel92azk0STZ6eVpyY0tKM1JaZnV4YW5nTi00OURhSXJjYllBbmM5VVp2QW5tc0M2eUs5cUlpSHpiR0ZwMGJ5cmNiMmhoM2U0anlDYWthQktOXzI1bE5JaDJZdTg1amF2T3RkMVd3Zk9ialR4UDlhN2dJSVBCYXgzcWEzT05lZmhnMEhaZkpkWWhLY1dVc3NxTEtxOVN5WW81ZVZneV90WDhTSDgwbTFWbkZqNnpESWI3NA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Figaro",
+   "source": "Ouest-France",
    "region": "FR",
-   "date": "2026-11-22T17:08:46+00:00",
+   "date": "2026-11-22T21:16:26+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -531,48 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "a18ce1ab32",
-   "title": "Black Friday : voici le TOP 7 des meilleurs PC portables en promo",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDZEYWg5aFBBMjFQd0VFbm9aQTdvRjQtTEJVSmx1NDdlbEZTd2RGRlctT0RtSkJqMk9ieFdwN3ZZZXVSNGN3Ml84dEFNcjlJQ3k3SUlVUG9zYzlyVU8weU5NZ3U2bWVLbHhmVk5ub1BRTk11VHZ0WDBhalpfVUNwS09WbTJDWjBOOEFGWXFfSTM5dFpWYUNUeWNoR0hJcEItYlpxR00xWHpXY3IydERaOTBJLW92TmQyVVNn?oc=5",
+   "id": "58b2dabe62",
+   "title": "Virginie | Un jeune enfant meurt de la rougeole",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR015bWlHN1J3T2ExamhJdlVta0p5d2VWQWJZOVB5LVh3TE16ai04WHJQNTVQWjh4YTl0c2ZWSkswRUtSQjBSNlVFSnZ1Vy02VC1aRGs1aEZ5NHh0MzFNelFDMXl0MW5sZFpfNTZaZ1FfTkZVZU9tVEFuZm9qX3FRcWpRbURHcHBqM3h3MG5YUUY5aDhBVXZaeFRMVGdkY2JCYTI5a280dG5abmUxaWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Frandroid",
+   "source": "La Presse",
    "region": "FR",
-   "date": "2026-11-22T14:32:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5f02bdf1ec",
-   "title": "Les maladies cardiovasculaires dans le viseur de la Haute Autorité de santé : « La prévention doit être validée par le patient »",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdUdRWnl1V094YmlDLWhuX29fZlRWR3cybGhSX1FZVS1xMlhUaGZrd1k0STlNM28waURud0NFVUozNllqUi1ZSWU5c3ZtMURFd2ZlS2J1d2VCcjk5YzZkOUtLNXFTRTRQaWc0TFR6eEJCbG9ORjFEVmRrNGhaQjNVdENXR2VnbFNiazRDRXEtU29ka2tjTndQX21NYVBrWWg0dThrNDFidUU4UWtKRkdjNm04QzlTbkhLalBKSGRycXQ3czNhWnZjYWFpaE0tbWM0NjhzR0xacHA1d25CUTZfOWJUZHppU3lKNTVQTHdPdTBidXA4REtsRw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sud Ouest",
-   "region": "FR",
-   "date": "2026-11-22T12:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cd398a9863",
-   "title": "EN EXCLUSIVITÉ-À l'instar de SpaceX, Anthropic a mené un processus d'introduction en bourse atypique, ce qui a",
-   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQS2RManBFTWlLSXB4dTRGa2pyMHBFZ2dUVkdvVURPM2UtbE1nNk9nVXVoVzlxNC1jRzlLelFjM0t1SlZqX0NjYUFNTGtNdjNXSjluQ1JMUWR2cVpWT013NmZnNld3RVZPbFhJNWRhekdtSkUzR2hELVI5RjJKTHlkdkVNYUhobk9Hcy12ekF2aHZJalQxR2oxQlY0aEZ3WjhsU0JXZ1hBT21jSjZkZ2FhbWtheUU0VTVENUZ2aWtza2x0OU00aVU1WFNGNXUtNkpaR1N3eHRxbEtpbDRNbXg1SGg1cEt5Y2xha3VVWUNMSzlSd042dDNBeF91bExZOEhXMExlVzIwYnlEdmZ5TzBTdzc2VHo5RWdOTVVDSWF5c3d4aUdHSi03OWoyMnozaEp6LVJmQ2doTdIBvAJBVV95cUxPQXM1WVdURUdSSU1YVVFTV0UxaTBPLTM5amZQUE45dGxBQ0VTd0V4R0Rrb0NUWDhhQUtnQUl0VjVTeEJrbjdXdDNtZnpnQ1ZQZWZ2ODJDRjVIOVhTWFFmYWQyVmR5SGUtZ3ljam9tc2tmbjI1d05VeFpMZ2tBaE4xMVVTT1QySTJUalRVaG4xWHNGV3FmTC1jLWhLdHAwbUZyMWQwbW4taDUxa2dGTmFPRURUWDBucUNVb3QyWndqdmRUNWlPcE9GZTVpNVozQVhXbXNCUTRyYUZBb1QzTXpmUmVBMFdJZXczc0tJdlVzd0Y2Rm95OWxVbnItVG5KbXVTd1J4blUxTHo5Um5JNXFSbWxpZDFkamlMMDkzTzdxUnNodmY0SjQ5QnlpMlNWaUdHVVVUc2loQjJJcTNK?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Boursorama",
-   "region": "FR",
-   "date": "2026-11-22T11:01:18+00:00",
+   "date": "2026-11-22T01:09:24+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
