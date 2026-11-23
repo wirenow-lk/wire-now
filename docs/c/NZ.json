@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:10:14.673058+00:00",
+ "updated": "2026-11-23T11:16:44.970583+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
@@ -11,7 +11,24 @@
    "image": "",
    "source": "1News",
    "region": "NZ",
-   "date": "2026-11-23T09:26:36+00:00",
+   "date": "2026-11-23T10:34:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dc3554103f",
+   "title": "Exclusive: Remote Pacific island evacuated with a day's notice",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakRxejUwOFYxTHduaC1OSktjZ0ZfZG03QXlyclY1YmhzbEVPVFZRRVNkNl82cXI1R1lNdDJSLW94b1lLRFh1NWNDRWZDakx1UnZyTlZHZkFJQnhERFpQdnVDbFdRWk91QXo3cHdkUWg4Uy1kU3RFa0tOQnFfUFhXM1QtdnJQZGRiYWZob1l1Z0lIN21CWWYxNHlNVG4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-23T10:17:19+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -28,7 +45,7 @@
    "image": "",
    "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-23T09:00:00+00:00",
+   "date": "2026-11-23T09:11:53+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -75,23 +92,6 @@
    "topic": "Society"
   },
   {
-   "id": "3eb2247b6f",
-   "title": "Chiefs captain Luke Jacobson signs with French club ahead of final Super Rugby season",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2lva3dsdU1VNkZTc091eUFDd1VBNjQ0aFhOQzYyMzZwa3AxY3l2WXQ1bXdwSENWRG9QZ3pOWU9zbEFCWmFxZjVyNUt2Rl9BR2tVeU5PU0lZRXF5UDN3QjFIOU0zWktZVzROeUFJR3NVU0lEdEh5M00yZnE3M1lGWWN2MGtLNnJPRTJESGhXR3kySF9Gc1J1M0hTMVRLXzdSUExja1RPTDYtZkhnQlY1TjNKTVRoQUtf?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-23T07:56:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Sports"
-  },
-  {
    "id": "67076699ec",
    "title": "Hutt Valley locals concerned over potential pool closures as council tries to balance rate caps",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY0M1dlU0YjEzSU1pNklTNVR0aXJqVW0ta2l4SEVmQkFyQWpDNUR6OGUzcWVONkF0QWNZUUxOYmdRYmJkX1BFZm5GdVg3X19SemxDMlVyYmFURldEcExQVFROMWV5amktem5WbnBQUGdHQUtkbGpwbWVPVEVwZmlnYV80ZTZJSzNsM095R20zd1JncWhxdUJpeHgwRUhYX2Nta1Q4WmFETXc5cXVydjRjWmpwSk9qdTVlOGN4ZkkyS3dpQXhkTENPbjktQWlkTHFXNlpZeg?oc=5",
@@ -124,6 +124,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Society"
+  },
+  {
+   "id": "d711e2679f",
+   "title": "Waikato water company has a barge on stand by in preparation for El Niño",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXVDRm1ZaU1SckRZV0tVMDl6aW9mVDQ0a1NBZHFWSVVmcDRmaGI5aGpzeDN6Q2l3MDlLckVCdWU5U0ZER05SWlRtZ29CUEpwOTVuTzZIOURKWGdoTVprWmI1X0djR1VCa2U1OVIxeUh5eDdzVkItdFBKa1NXSnFBU3hjTEd3R1VCMEZkLTVDZnBTcGxmOGxySXk1b0NrY0tJMDdaVVMzM0pmLUJTdjlxeW1TeDdlUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-23T06:09:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Business"
   },
   {
    "id": "46a452f5b5",
@@ -160,23 +177,6 @@
    "topic": "Weather"
   },
   {
-   "id": "8d43455a13",
-   "title": "Alarms raised over cybersecurity incident involving accommodation booking system",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0pETVRhbEFYdnRicVlrTElmQ2pTLXpmWUZiaVYtYmZKR2tDNjVCcWFjUU90S1FmQThZV2hxYVRKci1YckpXVjJaaDZYTUtQYTVrYjlmQjlKZzlZcFY1VkVBZ1ZiUm5nVXFkQVFxSldFdTVRNk1ZR3JnVks3c0NRVWdkLWItQ2lBdUpxV24zMU5UenJrS19xRllkOTdKYlphbzVwZlJSOEY4cWI3NXE1NFIyNEFYZU1JbmxSX3Z6bw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-23T05:23:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "fd64229295",
    "title": "New Zealand and India play out stalemate on stubborn Basin Reserve pitch",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGkwTXdVQngyVjJPT0VVM2t0cWpha0JSQncxNzZzYXVJRnZZMFUzZWVnVUtUenByeXdBemZCbEQwZkd0cXBOd3lJZTlvYnRqOUhmVUJxNEZ2U3lGVnVXdVYtbE92bGVldVpMRHdfRldaWEpKUkhGR25pTVZQWDlLb2xyZ3B0RmdrNDRlbkMzMEk2Ml9jZnZZYkFaUDZLUGg4MTktSFZDTnlWSDItdTc0STlxZVNzV2Q2dkd2SFl3?oc=5",
@@ -197,6 +197,23 @@
    "topic": "Society"
   },
   {
+   "id": "192e538374",
+   "title": "'It's going to waste' - poverty advocate appalled by Fonterra's plan to dump millions of litres of raw milk",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORGZ1SWR3TzVoSHc2djZiVWRobnhJWWZtM01yZU5VdERDc1NLZUtyd1BDQ085YkpsX01DdUJTN2tkaDhVbGhLcWhEVGRKMDNzaXNQaWxGajVqVWhxYUxZRjFTYVkwNVo3bmszcjhsV3NUS2ExcWJpaktITmt6LTA1X3BmMFE1Yl9fQzJiTUZNWmZaUWRSN1VIWHV6RU8yZVc0SlJGbS1YRmU2QkF0eUN1aERjTllOUWgwYldQT0lrb3dsQVd3bTZYOGowaDNDanBUWjc3VjJCM0JPQkE2a3R3TWJSNFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-23T04:12:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f09d29a8e0",
    "title": "Expert roundtable: The big questions hovering over the All Blacks after Twickenham travesty",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbmx0T3hOdnBDYnhhcUVyMGtodXozTUFlc3U1c04za0VlQnpjbmxnVzJ6M0stZWM1NG1JYkh0U211N0ZKR044VzVXY0wxNjhLY3piR21FS1djMjBvbWVFaDE0NXhXeFdlMFdGS0xCZVd0T05BQ1BSZUUxSmVwT2xNeWJzYmVyVVpxUUYzVzk5bjVKczhNZURmbVF1cExJWThzMS14RUFMRTZBcGgxN1NvVVpxX3BtOHd1WUwzVkc3NTRZRE5QSVY0WUs5c0tfaXVOVW83SURXM0o2dS1BM1A4Vg?oc=5",
@@ -205,40 +222,6 @@
    "source": "NZ Herald",
    "region": "NZ",
    "date": "2026-11-23T04:04:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dc3554103f",
-   "title": "Exclusive: Remote Pacific island evacuated with a day's notice",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakRxejUwOFYxTHduaC1OSktjZ0ZfZG03QXlyclY1YmhzbEVPVFZRRVNkNl82cXI1R1lNdDJSLW94b1lLRFh1NWNDRWZDakx1UnZyTlZHZkFJQnhERFpQdnVDbFdRWk91QXo3cHdkUWg4Uy1kU3RFa0tOQnFfUFhXM1QtdnJQZGRiYWZob1l1Z0lIN21CWWYxNHlNVG4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-23T04:03:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "192e538374",
-   "title": "'It's going to waste' - poverty advocate appalled by Fonterra's plan to dump millions of litres of raw milk",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORGZ1SWR3TzVoSHc2djZiVWRobnhJWWZtM01yZU5VdERDc1NLZUtyd1BDQ085YkpsX01DdUJTN2tkaDhVbGhLcWhEVGRKMDNzaXNQaWxGajVqVWhxYUxZRjFTYVkwNVo3bmszcjhsV3NUS2ExcWJpaktITmt6LTA1X3BmMFE1Yl9fQzJiTUZNWmZaUWRSN1VIWHV6RU8yZVc0SlJGbS1YRmU2QkF0eUN1aERjTllOUWgwYldQT0lrb3dsQVd3bTZYOGowaDNDanBUWjc3VjJCM0JPQkE2a3R3TWJSNFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-23T03:59:43+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -299,14 +282,31 @@
    "topic": "Society"
   },
   {
-   "id": "0723577d47",
-   "title": "Morgan Stanley agrees to sell Bluebridge operator to Partners Group",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX2NEQWdQMXVjWE1hdllvZ0w1OEFtTXgwMU9PbHhxRGwtZ2EzdUpqZlAxNFNuOGkzcXVSeS1makZIaGlkTUs3RUV4Ykk5elNKVFh2Wkp5eEtGeWphS0NhdDVKQ3Q1SDl4dFJ5aVdTVlhYTHJRcW1DNFNrTmQtbHMwRC1neUxlZ3YtRmNWZ2lkYXlzTDN3SU5KLTdvR0NhQUxxdl93MEl2TnRRS1NVbWtGeDVUUF9jWUhGQlE5M1EyQjlwOFBYR09ZQzk2TQ?oc=5",
+   "id": "1ebace54f4",
+   "title": "Molly Meldrum, former host of Countdown, dies aged 83",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc1hvcW80c0dQYThSN29vQXJwV0kydGpxQ01IV3ZDTHFXQjJTOXpaejJiejJRZHcwMDB4MGFoU1FOZ3hiWElac3hmd0IySFhBVjhVLUduMFBXRm5lRlpFdGhwY09NcEpoTTVxa25tOVlPdldFSnJkOGZUR3BWYUxfeGFUNV9LMXMyRkc4cw?oc=5",
    "summary": "",
    "image": "",
-   "source": "BusinessDesk",
+   "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-23T02:50:00+00:00",
+   "date": "2026-11-23T02:29:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "72a33fff9b",
+   "title": "'Moe mai rā, Julie': Former Silver Ferns captain dies, aged 60",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDQxZ0dsVVRTVXMwTHcwdks5dGFYdld6MVFxRDZsLTNQX25iUlRvaTRISkZJV2NzWUJiZGs4Nk13MHp6YzhlZkp6TWNLZzF5RjdnWTdCaFZvYUNuUzdad0NTR0Jlc0hZeDVVXzJ6RDYwd21YelJ4SVVUWjJRXzJtblBsWkVQX3RZNkRRUXlfLXVNWWdaUUFpTFBB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Newstalk ZB",
+   "region": "NZ",
+   "date": "2026-11-23T01:48:00+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -384,23 +384,6 @@
    "topic": "Society"
   },
   {
-   "id": "30caf9825e",
-   "title": "Air NZ is betting on Christchurch, but will the regions benefit as well?",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdUlWWHl1OV9MX2VjTG1GcmVuYmZTdHVYMzVFZFZJdUNYa0h2YkxnOE1tZGRxSDNKeDA1a1dSUUM3M291VWs0VzN5LUstWXJiS1ZuV1Y5QjdDTU5wZU9Ib1VhM0pJU3NZdnNlb3hIdTVTaFl6amJlUVNhYk13d3JIeWtPREQ0VWlPTTRJWTJiS2pJdkt5ZnRBTXVZMVlONndGUWwyRjBhTnVMQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-22T22:28:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2834a62112",
    "title": "Injuries reported in Bay of Plenty crash, highway lane blocked",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1phQlltTmhwOHA2SE1OYjE3WWVnYjVHN00tODdoWHlZU3l0aFJHbGFhc1I5UGw0aV9jMVQ3NTM2QWtBSk0tR2RwVDhjbmFoWkE3UVJGRGMyVG1hQVBiNWxDN3VMUThQa001cTUtNW82bEtCSTVhVHhSU1JpVmRQR0o1N0k1RnZ4VC1VbFVVRlNPWFBpY0ZqRURucnVldw?oc=5",
@@ -426,6 +409,23 @@
    "source": "RNZ",
    "region": "NZ",
    "date": "2026-11-22T19:55:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "521bafb6b5",
+   "title": "'Run out of petrol': Sir Graham Henry discusses mounting pressure after Twickenham thrashing",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRVVDX1ZCZjlmT18yRFpvRVRsVnJNZTNzOHNvNC1LaDF2bkwxLXhZTnMtaEdsaXg4TnJqWm9WekptcDNBUXNMUmFPaUpuNllfRGZZSERMVmVJc1Z1TkFqdS1sNDRZUGRxcVFsbERqdkpYQ2E2OER5U3g1ZzhkTV9teTRNdnJHbGJqR1VXM1dWdmJ2ektCanhoS1QtUmJrUERsVDhUTWphcUNVeTc5cnBoTGpXWUhTRjNfSTgtNzg4em9QTG5iSjl6bkk3WGFnaGpqb2REZGpuNkF3cXlyZHgxRVF6d0Nnb3hyQlRMVE5hZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Newstalk ZB",
+   "region": "NZ",
+   "date": "2026-11-22T19:31:00+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",

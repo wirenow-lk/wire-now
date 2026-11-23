@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-23T10:10:14.673058+00:00",
+ "updated": "2026-11-23T11:16:44.970583+00:00",
  "code": "AE",
  "name": "UAE",
  "stories": [
-  {
-   "id": "4edd6b36d4",
-   "title": "Wall Street set to rebound after AI stock sell-off",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXhpd01xVDBQSlFMWUJzZktLSGh3WXZ0b3JfRTdwSEV4Rll0bjlIc3FfM3MwemllQlRidmpiOEpUbHJBQzZ4YU1ZOFNhMmVpMjBWc3RULWppdmxLZVdERHFTLXJHSjU3aTFWcmFrakkzS3VpTDFkSE45Vk1TbmszWUhzcVM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "AE",
-   "date": "2026-11-23T09:54:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
-  },
   {
    "id": "a34e65f8fb",
    "title": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)",
@@ -28,7 +11,7 @@
    "image": "",
    "source": "MLB.com",
    "region": "AE",
-   "date": "2026-11-23T09:19:36+00:00",
+   "date": "2026-11-23T10:32:16+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -38,22 +21,57 @@
    "topic": "Society"
   },
   {
-   "id": "73eb0504e3",
-   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
+   "id": "54a5abb647",
+   "title": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Bloomberg.com",
    "region": "AE",
-   "date": "2026-11-23T08:36:57+00:00",
+   "date": "2026-11-23T10:24:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c5fa8d9e0e",
+   "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "AE",
+   "date": "2026-11-23T10:01:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Russia",
     "place": "",
-    "flag": "🇷🇺 🇱🇾",
+    "flag": "🇷🇺 🇺🇦 🇱🇾",
     "also": [
+     "Ukraine",
      "Libya"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9309c7a8ac",
+   "title": "North Korea’s Kim Jong Un Welcomes New Envoys ‘Friendly Toward Us’",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk1UUEVZa1NJYlRPZ2FDSEo4OGRzQy1wTDVpdEZ2M1pkX1Izd2p6MHNmcVJJN0VUQmx2VU1QWFQzdGhUektURTQxbHY4MjN3Qy1pazF2VDdXaUpmVEdlR3ROV2ZDUmlmSmVCbnhwVGhUQjFkeVd2REk1dk1OUFgxVVBIZW5KUTN4azNBRFJhZGxPU2c5VHVhMnB4TWN4UFVIWnJ1TThR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WSJ",
+   "region": "AE",
+   "date": "2026-11-23T09:26:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "North Korea",
+    "place": "",
+    "flag": "🇰🇵"
    },
    "topic": "Society"
   },
@@ -92,24 +110,38 @@
    "topic": "Society"
   },
   {
-   "id": "c506d803c9",
-   "title": "Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5",
+   "id": "a8b5fc5367",
+   "title": "Pochettino’s De Ligt gamble proves costly, but Manchester United’s problems run deeper",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Forbes",
+   "source": "The New York Times",
    "region": "AE",
-   "date": "2026-11-23T06:02:45+00:00",
+   "date": "2026-11-23T07:37:49+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "UAE",
     "place": "",
-    "flag": "🇺🇸 🇨🇳",
-    "also": [
-     "China"
-    ]
+    "flag": "🇦🇪"
    },
-   "topic": "Tech"
+   "topic": "Society"
+  },
+  {
+   "id": "efb5c17ef9",
+   "title": "49ers' Brock Purdy beats Vikings blitz, hears 'MVP' chants in Mexico City",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDA1X3ZjU0NoUndMNmtBSGZFR0tlVF8tMTRnRUxVLWxRbUlxRTNDcUo5X3k2LWprRTdCWlhPbXlpZk55RHdVcWlvMmJUTlZXclV3dlBpbXFDSWprUkJ1WVVMRnBLZHM0ZU9MWXJ4YzNWTTd2NktmZUxDTzlmSjZreWdKU3NRbVZlTUdsejFSRUdmX01DcXNfeHlhWHhwdTYyS0dsVi1GbjZrc1JVQ0pIMQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "AE",
+   "date": "2026-11-23T07:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Mexico",
+    "place": "",
+    "flag": "🇲🇽"
+   },
+   "topic": "Society"
   },
   {
    "id": "845f599c23",
@@ -127,23 +159,6 @@
     "flag": "🇦🇪"
    },
    "topic": "Astrology"
-  },
-  {
-   "id": "2fe287f970",
-   "title": "It was the NFL’s toughest test. Then the San Francisco 49ers made it look easy.",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHpsZmFib0tGYks5NDhLWjlVWEYwNDY1dlJVT05zMVJKNENIZ29pRElOV3lIdWlmQmYyM2Z6NURKVG5yQUVVYzYtZDNKcndqR2pZSVppeFlzMjdIcVUzYUY5VWZOQkRJZGVJUmJxMVowY3pacFM0d0dibTc3RmE1cUR6TzIzbUs4LUZsajEtd2NPOTZSdzVYQVJsbDhrNzlOM3F4R2p2VmszQ2gyMmYxREVn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBC News",
-   "region": "AE",
-   "date": "2026-11-23T06:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "5d90065834",
@@ -195,6 +210,23 @@
     "flag": "🇦🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "12daaa8c8d",
+   "title": "Holiday travel: Dual storms threaten Thanksgiving plans from coast to coast",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0FTRURJUnZSODNwREctUGJma3Brd1hpLWVvZi1WSUhRYkVVdV9JZktZR3NqVVNNck5TWnV4akdIOF8zWU5ycDJzV3FUdkRHb19mZHFRTWFDTm9iYkV2cUdsRzJZVHNlbUZaNEpTQi00ODliMVk2MjFnMjVUOWNqVFpwZjBpcXRVZEhsR3l5VndUbmk4SnpGNg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "AE",
+   "date": "2026-11-23T04:57:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Weather"
   },
   {
    "id": "50b732bceb",
@@ -265,38 +297,55 @@
    "topic": "Society"
   },
   {
-   "id": "54e27746c3",
-   "title": "N. Korea leader highlights ‘sovereignty’ in ties after Trump no-show",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUVvZEhNUXJTdzctZERHcEhwajlxdGFrYjRRaWpNSFFyUTd2RWtUcmJsZ0kzMlpXVURKTUUtUjZ6TS00dVBDdVBLLWxhV0dwRy05VkgyY1BmZEMzejR0TERoQk9MM2J2U3VGLU9JMDZrcjZaTUpkYXR2aHlUdTgyZEV4aDNtN3FzRWU4NUl2V3FjbTdEYklTa2g4ZnlFZS12VmhsNUJn?oc=5",
+   "id": "78c998a944",
+   "title": "Kodak SlideTag Is a $35 Blind-Box E Ink Photo Display and AirTag Alternative",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmk0TVJ4OWt5REhmbmU0UVkxaXZLV2puUGVwREJLNGNDeTlJc3ZndU5YbmtMaGpEOEZxdXk1UDhUNmNUSFBjOTZadlhPdjZJMF9rTkJTZlBBUVdaVjR2SUl0NmI3U04tbWF1d09xZVVnc1RDMkk0M05xMHRLU0dYd1VmQ0VHX0NzUEJLUzllT2I3TFhpbVdncjAwUU9ic1NOR0trTC1oMldLcHlua3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "PetaPixel",
    "region": "AE",
-   "date": "2026-11-23T03:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c6db6594ba",
-   "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM25SaW5pNDVza3pBT2hhdTNDVmFpLUl6RjRrZV9oeWFuc05PaW8zSHNKUmYwX3RSS0IyUDQtc2N5WGY4a3pJQVF0Q2xBclk5YzBiWXFOYTdsLW9hbkVac0pJSy1jdlBrMVlWbml1SE0zcGRDblNKWkctRFZ2NFZlVTJ1SnVDclNqNGdVYkRNNnVtbW01Zzh5UmxkeExMNVNLcGRpYjN0RmdqdkNKUUExUnQ2Q3I?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Verge",
-   "region": "AE",
-   "date": "2026-11-23T03:00:00+00:00",
+   "date": "2026-11-23T03:01:58+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
    },
-   "topic": "Tech"
+   "topic": "Society"
+  },
+  {
+   "id": "b1a98a7da6",
+   "title": "Galaxy S27 Ultra buyers reportedly need the 512 GB model or higher for faster RAM and storage",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWNaYXNRUmZibXNOS2ZTci15V0ZldW9qVXpCbFBNV3BtRElJekNGNnFZbEpJLThEb1BGN1hlRzdCNXNhNWJzUmZZVk5NV094NHdYeWI5dnp3bkJnTmNZTklvWno3NWs3ZmdSVUVUUmtGVDN5WWNRNF9fX0lfWXdjLWtZX1AwN1lYTkhTZldSUG9nMnphVm1YUGlBLTE2bGVzRlJSN2ZodEd4QUQ2TWFTWmQtcW0xaG9qNmZLbEFOclNGMVZRMEg1bko5QjIwRlp0bFE3QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Notebookcheck",
+   "region": "AE",
+   "date": "2026-11-23T02:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3471c87c07",
+   "title": "Bay Area officials rush to protect SFO, other key infrastructure ahead of expected flooding",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTF9IeG1ILTZrTmUtbl9yZ3JjUWZXakhhNGJXTnpmTHdEUC1jZjdkckFXeG42Qi16OVh2TjJIcU5BQ1ZFcWM4S29MNy1NZDlxenp5cWRPSjNWTnBtWXA3c0FSYUg5WVpCZk9kd084SEZzb2ZLSTRkUG50RnFYajg1UWxHcVlPUXhsZTBlbTZJeHhCVG9ZY0lwM0JuWHJVcmx5MGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS News",
+   "region": "AE",
+   "date": "2026-11-23T02:48:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Weather"
   },
   {
    "id": "b5dd91b2b4",
@@ -316,14 +365,14 @@
    "topic": "Society"
   },
   {
-   "id": "116099903b",
-   "title": "Levitan’s DFS Cash Lineup Review: Week 11",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lbm9aR3ZzY2p6TEI4OExUekhIaWpRQVpUeDBWUTlYX2RfbXVtbUxZN0FVYjNMNUhFSDd1bjlONTZuNG5lQVN4UFV6QmlFTWY1dkl4Q3NpeXByeTc1U1FlcjYyZE1OVGhCbHd3TXg0N3B6NUN4RGNnN0pB?oc=5",
+   "id": "1f89c34611",
+   "title": "GTA 6 at 60 fps on PC may cost less than expected, Geekerwan estimates",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTNaeGxuNlpFcThMWGJ2ZEx6ckNsOGhhdmhJbWtIREFhYjMyMzZ1LUVKZjhRbXZ0QXR2LVJ3NDB1Wnd5YlhaNDBFU01xbFY1ZFVRV0w2SFM4VUF2Tmx1N1I0TDBqWldid0VucG43OExKd040eUZCUDZSb0pjWUh1YUt2RWMzNWNRaTEyOWdYWFVKWjJkakRZOS1FTzdZRklGQkxqdDJMX0p2NnRQZDJYT2RESHM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Establish The Run",
+   "source": "Notebookcheck",
    "region": "AE",
-   "date": "2026-11-23T02:35:45+00:00",
+   "date": "2026-11-23T02:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -384,38 +433,21 @@
    "topic": "Society"
   },
   {
-   "id": "56be4ebe6c",
-   "title": "Box Office: How Lionsgate Marketing Reignited 'Hunger Games: Sunrise on Reaping'",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanQ3aUxaaENyaW0tTUlQd1hVdzR1bFRsWDJnOFd1b01NNlZsUU9ZdndDbEl2dzhWZl92V2dtN1Z6STFES2Fsc0dGTnlKOWRsRVo0Nkh5cHluUERORVAxUzZ6aXJhWjE2c0dDWTdFY0FyYmhtc3haamh3RldTM25icUJqdGhBMEppQ3pLSW1vZWJGWHdHdjR3YUs3MlhVZw?oc=5",
+   "id": "7fd045f97d",
+   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uX24yRlJuUGQzV2xNVzd4Rmt3b0oxbl8zajhpSEUzdUczX1JZSXNrVHNXOVBGT1ZGVnROODJITUZoMUxMNDk1MmVPQWtzaGVja0dXQjRoTU9HTFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Deadline",
+   "source": "BBC",
    "region": "AE",
-   "date": "2026-11-23T00:24:00+00:00",
+   "date": "2026-11-23T00:08:00+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
    },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "6e3f737cd0",
-   "title": "Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXQ2N0kxSWllQ1FHMUl3Sl9kS0hjRnN0cVk5aTVSRTZfWG83MFhyMUJHLTZ6YTNIVGVpWjREVGhMSW5mWVVRMjJsR0djRWZTUXMxbXRJNXUwVGJyTlZRVGZkUU9HV0ppWDhDQXBWZl9yRDJLSTNvQ1h4TGRPbTRhcGRYWlZsaVRMQ19feFprSGprdmZrZm1UdlJB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "AE",
-   "date": "2026-11-22T22:25:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Health"
+   "topic": "Tech"
   },
   {
    "id": "a711f77784",
@@ -438,53 +470,73 @@
    "topic": "Society"
   },
   {
-   "id": "8a67a1cb72",
-   "title": "King tides could cause flooding this week, officials warn",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2d3WjZBY19OR1c5c0IxRkhuV1ZPOHNhZWpoTzkyekV3M3ZCcWE2SVNlNmNveEFRUWNMOUFNLUdTMHoySkdBQkl6OElBSDJVTHVleThwYlBSMmFJN2tXNFVGeXM5YnVjT2doeEdHUjN0Rm9XZm1BSDlWal85eVZCdXQzWEk1RDBYc1o5TnNtdk9NTGNWMkZKbThuQmVDSC1VY0wwQdIBuAFBVV95cUxOcEQzZkR6V1hfN2hMeFhXbGgzanlscmdZZFlaalNzSGN2LVdpSElkOGtxSF9WaFFuZGN1MjBjSDJJcVZCN2I0T0pUUmxIRUR5LTlkeVJuZUlmMHdnUmM2YXk4aUpfZjJBQ0EyUllIbjA0RWdUVndNTHpHQnFSUGl4Mk5pLWxOMUpSQjhncFRUcElyNk9tZkFycTNZcHQ3bmM3NWtkMDFhaVVRT2tlYThodTZTV0w1VTc5?oc=5",
+   "id": "fa883d98f8",
+   "title": "Japan-Europe joint probe enters Mercury's orbit",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmFSdzJIX3hQODNpVl9rYk9QN1dBZGhLWlRYYTBIZ20xV21OSERXU3NjeF9OYXFBSGtTazlXRGk2ZG5UbDJLNnRXanlfS2VNTHVYTjlRWXBJeFJWSkFuTGRGMno5ejRteTdmdE05Wlc4QkszNVh1NWRuai1aZm81UndScExCaFhwMzZEZlF4OFVnQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "OregonLive.com",
+   "source": "Japan Today",
    "region": "AE",
-   "date": "2026-11-22T20:08:00+00:00",
+   "date": "2026-11-22T21:28:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1482adac1a",
+   "title": "Virginia Foxx concedes after recount in North Carolina’s 5th Congressional District race",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTM3RmJaLTdxQ1RLeGxVYzZ4YnhYZE9vUkpCMS1qamV4dGdMWmhweHlON2lJLUdPUUtmTEltMFIyTE84WEpTdEoyLTFGZmZhQ1RLTEY1S2lyTmI5MUtWTlEwbVBSNVdnam5DTGFnekptQ0dmbUg3Y3RRR3FJbWF3Z19Oa0dMOVctQXdSSTBNRjdsdWphdlBQV25PZ3BCWFh4ZXBvazhSaWNvajRGX1c2b21R?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WXII",
+   "region": "AE",
+   "date": "2026-11-22T21:07:11+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
-   "id": "18c1bc4d51",
-   "title": "Thanksgiving travel forecast 2026: storms on both coasts",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVZHV1ltWXRUMFBvVGo0bF9YWWZhSWJFQzNQYTFDRzl5Z1ltZmg2elhPVUZPdjVTUFZyTEY5cHFMcmlTa3pEZDBRblZYNjJFbU9zb2NWc01qb0ZPVkRSdWNXT01jUzZYdUhxQkRodDZxeGlwY0cyclpiZkxsWE1senpuUEZORXFBZ0RQSlVEcmZUcVpwR040SF9zMHB2YjA?oc=5",
+   "id": "479cecb35b",
+   "title": "Russian cargo ship leaves Finland’s territorial waters after drone attack",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Weather Channel",
+   "source": "Al Jazeera",
    "region": "AE",
-   "date": "2026-11-22T20:03:00+00:00",
+   "date": "2026-11-22T19:55:45+00:00",
    "coverage": 1,
    "location": {
-    "country": "UAE",
+    "country": "Russia",
     "place": "",
-    "flag": "🇦🇪"
+    "flag": "🇷🇺 🇫🇮",
+    "also": [
+     "Finland"
+    ]
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
-   "id": "4a2f0da601",
-   "title": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVLVGtJMVRtaklNSHA5bVI5eW5jUkFTRUJhTXkwQ2xDTWdyVkNRR0p2c3VJdnRXSkRxaVRCSTVGMDZWeVI0cVJfR2NqbTBzcmNTckp4d0ptNndyYTd6ZlJWTzBqYzFjX1NpemtjdXBMeWRwZmo4WkJaX2N5S0QyMmVweWdyTnFVejdNcXdaSmNJVy1sTDd3d0k5UkJuUQ?oc=5",
+   "id": "e21d6ad9da",
+   "title": "Trump blames $6 trillion stock market slide on Democrats’ midterm wins",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUG51bENLRzF5YU9KMW9ZbGZSOGE4M1JPOGpBSXZDRFIzeGFBWTBQZEdtX1h4M3NjUDNXXzY0WGh6WTQwWU9Qc1FyVTZ5TlV2a1BOVWZiMXRNZ1YwUkxRdDdDUzdWYlN3dHZBVkFmVHVvdkd4Z3MtNjN6YzdVOW9hOFVuSdIBiAFBVV95cUxQNVdNTGpobjVUb2hiNXV4LW5pVTZMSzNuRXpvSTFBc1pMWGg5OU8tdlB2Q2ZlcnR5WElWYTd6cU9TRWwwUWhyNkRqYjl1ZlNWakE1d21zNnVNY3pzS2ZkSWgzVFV1YnJlWjRyYk5OOEJNZ0pYcVRpSFRFNWpBcWo5b1VzNi1ZcHZF?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBS News",
+   "source": "The Hill",
    "region": "AE",
-   "date": "2026-11-22T19:48:00+00:00",
+   "date": "2026-11-22T19:46:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "UAE",
+    "country": "United States",
     "place": "",
-    "flag": "🇦🇪"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -523,21 +575,21 @@
    "topic": "Society"
   },
   {
-   "id": "79f182b970",
-   "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNvdl9DUkdXMllqTXdqM053Mmc1REdQZjVTOGlXY1JGZVNvSHRTeFhIZjJXYVE0OFZ3UHBPWDdkdi1TTHZWc3lrZkNPVXd6LTFmT3kxN28zclJOcTlXLVNSanl4UnRHNzhuVDNnenhLTXRqQ3RJRk1sNEJIVTUycVA1Zi0tNnhyNjJJV2JBaFNDdUZZY1J3Vi10MTBHMXd0RXc?oc=5",
+   "id": "b140e452bd",
+   "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE9nZW91QzA5bW9Ickc5TTFFdkh5RnFjWVJDbE1ERGpLSkxqY3hjS29fYkNpQ3VKRHBwdU01d2dUbGd2dEdnUHpyTmI2X043VEhPVGxzU2M4YTVLUXBya0J1RERna2FrWGYzdDBZU056d0dDd3Zfbm5Hc0o5SkprQ21YY0cwWEZRQW1xYWdFTHBtc3RRRUhfSXBLU3RnaDRKZHR6NzNXb2tWM0RnTFRJQ1VYTkxhM2sxd3ZzV0FISzdTelNwVldTaDFOMWkyaGxNSmc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Space",
+   "source": "Variety",
    "region": "AE",
-   "date": "2026-11-22T16:20:11+00:00",
+   "date": "2026-11-22T16:16:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Japan",
+    "country": "UAE",
     "place": "",
-    "flag": "🇯🇵"
+    "flag": "🇦🇪"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "da67bfb572",
@@ -574,40 +626,6 @@
    "topic": "Society"
   },
   {
-   "id": "71bb50b71d",
-   "title": "Six Products And Services Google Discontinued In 2026",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1loQUlEb05CR0ZyTTFRY1hnZFJFZXJKYUhBdGN4dml0dEgzYUZVR1JicWJzZmhoNjVqMVY1U3owTmoySWppVHg3OTRhMlgyTFpCbEtXcV91cm41cWdsSmt5a2ZZc0liMHEtem9OMS1OSEs4VUhBWTZQbll2TmZmQ3Bn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Engadget",
-   "region": "AE",
-   "date": "2026-11-21T23:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "03cbc847e6",
-   "title": "I Sifted Through Best Buy’s Black Friday Sale to Find These 8 Standout Deals",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGU2Y1JsamRTVVBZejVmY3VpcW90YTVyaU1kbnV3NFUxLVdRUmZUbGtxTzd5eGpabS12dEVTSU13Qk1UZlR3d1djZTBlcWNZRi1PcTJJTFBsTVVjaEdoQWhCWE5EUmNFdzBScndrT0dpd2JIRlBCY3lEQU82MExRcjNXd1BXRFVjZzZLejlQVEJsM050Q2FsQl9HWGQtMGcyaWRQQjlERW9jVE9JaGpvbkRpZXBnNGYwU2x3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Digital Trends",
-   "region": "AE",
-   "date": "2026-11-21T16:36:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f392c69688",
    "title": "Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2JGZWZ5YnBaN0tfT1hfRkpGTTVUNmxXYmttQUlaLXl4ZVMzeUlZcnBhTlExWXlkdXVuQ2FaMjVQa3pBdmhrMUllN2toZkc5WXEzX0lXMGhUNHJaQ1VNMjZJQU1NX0psWUR2bTJlY0dPTUVwZU9WVGpSMW9rUWpZTUdsMzlILUdwc3NIbWExS3BoUy1xVkZrb1VZcElVLTF3ZXVSQ2R0ZnVhbU1iSHpXbmNoZFh0dkFId1E?oc=5",
@@ -621,26 +639,6 @@
     "country": "Russia",
     "place": "",
     "flag": "🇷🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "319ed694ea",
-   "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFE2UFNMREttTXZEd0VvNW9BcXhvSUIzRUZSQXB6SGs2d2VoTWFnUC1YUW9Ic0QydWxLT0h4ekdkMmlrMVp2WkhoaThwaUsyYlh3RE5CQWstUEdJUWp3YlpOMWhJV1lieWdaOG9kTGM1ZnIxaU9TcWRUZUVTcHplN0pWeG5IYjBiWHVTeThRYWZJM0tkR3UyejA2bl9MdUoxUFU5ZXhxRUJtenVvVUpv0gG0AUFVX3lxTE9Nd3d2OXJsVmNORUd0UnN1VTlLU2Y5ZjFId2tkRXJjc2xRWnlZNGQ2eVNPUzVIU1NFeW1XTm9IblM0bkE3ay1IdmNXV2NPMURXdjNaTjd0aU5JT2c4azJld09sTExTZk9GX3liSHh5RlhZZG9lMjAyWVQ2a3hWbE5Ybm5IeUVOclJGOHRFRWdGWjZ2c2IweW1ha2ZYSmJwZV9va1lrbjl0MVNmc0VyMzB4Qlk1Ng?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Fox News",
-   "region": "AE",
-   "date": "2026-11-21T11:00:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇷🇺",
-    "also": [
-     "Russia"
-    ]
    },
    "topic": "Society"
   }
