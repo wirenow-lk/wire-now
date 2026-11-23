@@ -1,48 +1,40 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 37/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 40/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 62 stories
+OK   Ada Derana: 64 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 8 stories
-OK   Daily Mirror: 46 stories
+OK   EconomyNext: 11 stories
+OK   Daily Mirror: 59 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 20 stories
-OK   Daily News: 74 stories
-OK   Sunday Times: 34 stories
+OK   Newsfirst: 21 stories
+OK   Daily News: 76 stories
+OK   Sunday Times: 0 stories
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 7 stories
+OK   Google Warnings LK: 6 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 37 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 99 stories
-OK   AP News: 84 stories
+OK   Reuters: 100 stories
+OK   AP News: 79 stories
 
-Biggest stories right now: Countries react as COP31 climate talks collap (8 outlets) | Indonesia factory fire kills 24 as rescuers s (7 outlets) | Fire rages at Benghazi port after suspected d (7 outlets) | Democrats win largest House majority since 19 (7 outlets) | South Korea education minister resigns over e (6 outlets)
+Biggest stories right now: Indonesia factory fire kills 24 as rescuers s (8 outlets) | What's next after no deal at COP31 climate ta (8 outlets) | Democrats win largest House majority since 19 (7 outlets) | South Korea education minister resigns over e (6 outlets) | Russian vessel hit by suspected Ukrainian dro (6 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [2 outlets]: Oil holds in tight range as Gulf attacks sustain risk premium
-    important (also on Reuters) - researching
+* Ada Derana [1 outlets]: Over 10 vehicles damaged after car crashes into parked vehicles in Jaf
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily Mirror [2 outlets]: Police to step up traffic operations ahead of festive season as road d
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [1 outlets]: Kawanthissa’s death: Minister rejects news report attributing cause to
+* Newswire [1 outlets]: Ambalangoda fishermen’s protest: Fisheries Ministry clarifies action t
     important (serious news) - researching
     news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
@@ -57,9 +49,41 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Hiru News [3 outlets]: Showers expected across several provinces today
-    important (also on Ada Derana, Newswire) - researching
+    attempt 1 rejected: Key fact says the Ministry Secretary attended discussions; article only says he invited representatives to discussions.; Blurb says talks led to solutions; article only says measures were initiated ai
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 rejected: Place name mismatch in spoken field: 'Ambalongoda fishing harbour' does not match article's 'Ambalangoda Fisheries Harbour'.
+    -> no cards; posting with the site's own summary
+* Daily Mirror [1 outlets]: Two Russians faces near death situation in the sea off Hiikaduwa
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [3 outlets]: ADB approves $200 million loan to boost MSME financing and resilience 
+    important (also on Hiru News, Newsfirst) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Minister acknowledges shortage of waste disposal vehicles at local aut
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [3 outlets]: Yoshitha Rajapaksa, former Navy Commander plead not guilty to corrupti
+    important (also on Ada Derana, Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -67,48 +91,43 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 rejected: the name/word 'Lankan' is not in the article
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: what_happened states charges were read out by Judge Ravindra Premaratne, but article only says charges were read out in open court without specifying by whom; details[2] states Judge Ravindra Premarat
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 2 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
     -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: 19km road linking Nuwara Eliya to Horton Plains to be renovated
-    important (also on Daily News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [2 outlets]: Sri Lanka sees sharp surge in vegetable prices, impacting vendors and 
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [2 outlets]: Manchester’s Co-op Live arena evacuated after ‘unknown substance’ rele
-    important (also on Al Jazeera) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
-    read 2 articles: The Guardian, Al Jazeera
-    attempt 1 rejected: Card says 'The Guardian showed footage'; article says footage shared on social media appeared to show concertgoers coughing.; Card says 'many' of the more than 50 assessed reported eye/respiratory sym
-    attempt 2 rejected: Place name 'Wembley' is used instead of 'OVO Arena Wembley' in details, key_facts, whats_next, and spoken.; details states police 'will now fully understand' but article says they 'will now begin to f
-    -> no cards; posting with the site's own summary
-* CNBC [3 outlets]: Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of 
+* Al Jazeera [2 outlets]: New Zealand’s Mitchell, Phillips frustrate India as first Test ends in
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: Burnham to tell MPs 'landmark' EU deal could make next decade 'much be
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 9 too small to look sharp, using the clean cover
+  photos: 8 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  Fact Base: 8 facts and 1 people saved
-  meaning check failed (AI did not reply with JSON: '')
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 49 story pages for Google)
 
-Countries: IN 35, PK 34, BD 37, US 37, GB 35, IE 32, CA 36, AU 37, NZ 31, SG 30, MY 33, PH 28, AE 37, IL 28, NG 28, KE 26, ZA 31, GH 25, FR 32, DE 32, JP 6, IT 32, ES 33, BR 32
+Countries: IN 37, PK 36, BD 37, US 37, GB 34, IE 32, CA 36, AU 36, NZ 32, SG 32, MY 33, PH 26, AE 37, IL 28, NG 27, KE 29, ZA 31, GH 26, FR 33, DE 33, JP 6, IT 32, ES 34, BR 31
