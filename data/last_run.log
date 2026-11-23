@@ -1,17 +1,17 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 78/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 76 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
-OK   Daily Mirror: 73 stories
+OK   EconomyNext: 20 stories
+OK   Daily Mirror: 77 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 21 stories
-FAIL Daily News: HTTP Error 429: Too Many Requests
+OK   Daily News: 78 stories
 OK   Sunday Times: 1 stories
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 4 stories
@@ -21,72 +21,69 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 89 stories
+OK   AP News: 92 stories
 
-Biggest stories right now: Jensen Huang reinstated as Nvidia CEO, board  (10 outlets) | Search continues for dozens missing after Ind (8 outlets) | Russian warship hit by Ukrainian drones in Li (6 outlets) | Democrats win largest House majority since 19 (6 outlets) | COP31: What next after UN climate talks colla (6 outlets)
+Biggest stories right now: Jensen Huang reinstated as Nvidia CEO, board  (10 outlets) | Search continues for dozens missing after Ind (8 outlets) | Why did COP31 climate talks collapse without  (6 outlets) | Russian warship hit by Ukrainian drones in Li (6 outlets) | Democrats win largest House majority since 19 (6 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Fire breaks out in apartment complex at Ward Place
-    no AI summary: saving the rest of today for important news
-* The Guardian [1 outlets]: Video of ICE detaining father and daughter while boarding flight spark
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Karannagoda, Yoshitha Rajapaksa corruption case hearing set for Decemb
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Trade Minister warns chili importers against creating artificial marke
-    no AI summary: saving the rest of today for important news
-* The New York Times [2 outlets]: Two Major Cybersecurity Firms to Combine in $44 Billion Deal
-    no AI summary: saving the rest of today for important news
-* Reuters [4 outlets]: Trump says Nvidia board made right call on Huang reinstatement
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Police investigating bomb threats against schools in Germany and Denma
-    no AI summary: saving the rest of today for important news
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+* Newswire [1 outlets]: Crocodile linked to deaths of two children captured and released into 
+    no AI summary: daily limit reached
+* South Asian Herald [1 outlets]: From Colombo’s Floods to Climate Finance, A Wake-up Call for Sri Lanka
+    no AI summary: daily limit reached
+* Daily Mirror [2 outlets]: Fire breaks out at hotel in Borella
+    no AI summary: daily limit reached
+* Daily Mirror [2 outlets]: Diesel spill hits Colombo coast
+    no AI summary: daily limit reached
+* Daily Mirror [2 outlets]: Softlogic Life puts Sri Lanka on the map as Asia’s benchmark for Digit
+    no AI summary: daily limit reached
+* Daily Mirror [2 outlets]: Sri Lankan marine biologist Asha de Vos named Fellow of UK Marine Biol
+    no AI summary: daily limit reached
+* Reuters [3 outlets]: AI rally set to add $2 trillion to Nasdaq-100 as Huang returns to Nvid
+    no AI summary: daily limit reached
+* Al Jazeera [2 outlets]: Israeli strikes kill at least three, including UNRWA worker, in Gaza
+    no AI summary: daily limit reached
 
 Top 10: 0 fully explained
+bot inbox: <urlopen error [Errno 104] Connection reset by peer>
   reader summaries from the website: 0
   photos: looked up 24, found 0
   photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 50 story pages for Google)
 
-Countries: IN 36, PK 36, BD 37, US 37, GB 35, IE 34, CA 35, AU 35, NZ 30, SG 33, MY 33, PH 26, AE 37, IL 31, NG 29, KE 32, ZA 32, GH 29, FR 33, DE 34, JP 6, IT 33, ES 31, BR 33
+Countries: IN 37, PK 32, BD 36, US 36, GB 36, IE 35, CA 35, AU 37, NZ 29, SG 32, MY 33, PH 27, AE 36, IL 30, NG 29, KE 33, ZA 32, GH 29, FR 34, DE 34, JP 6, IT 33, ES 32, BR 32
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
 
-World Pulse not made this run: no AI available for writers
+World Pulse not made this run: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message"
