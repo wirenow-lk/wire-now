@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 24/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 54 stories
+OK   Ada Derana: 56 stories
 OK   Newswire: 20 stories
-OK   The Island: 9 stories
-OK   EconomyNext: 7 stories
-OK   Daily Mirror: 43 stories
+OK   The Island: 10 stories
+OK   EconomyNext: 6 stories
+OK   Daily Mirror: 42 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 14 stories
 OK   Daily News: 69 stories
-OK   Sunday Times: 81 stories
+OK   Sunday Times: 80 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -21,64 +21,22 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 83 stories
+OK   AP News: 79 stories
 
-Biggest stories right now: What's next after no deal at COP31 climate ta (9 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | Democrats win largest House majority since 19 (5 outlets) | IMF Executive Board to consider Sri Lanka's s (5 outlets) | Russian vessel hit by suspected Ukrainian dro (4 outlets)
+Biggest stories right now: What's next after no deal at COP31 climate ta (9 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | Democrats win largest House majority since 19 (5 outlets) | South Korea's education minister quits over e (5 outlets) | IMF Executive Board to consider Sri Lanka's s (5 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* CBS News [2 outlets]: Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in Nort
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [1 outlets]: Confident Sri Lanka meet B’desh today
-    normal news - one-paragraph summary
+* BBC [1 outlets]: San Francisco is enjoying an AI boom, but worries about a crash are gr
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Yahoo Sports [1 outlets]: Jaguars vs. Giants live updates, score: Jacksonville brings elite defe
-    normal news - one-paragraph summary
+* The Island [1 outlets]: B’caloa HC sentences eight EPDP cadres to death for Chenkalady murder
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [3 outlets]: North Carolina win gives Democrats biggest US House majority since ear
-    important (also on Al Jazeera, BBC World) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, BBC World
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* AP News [2 outlets]: US Army plans to invoke emergency provisions to detonate bomb-making c
-    important (also on PBS) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -87,13 +45,35 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+    gemini failed (AI error 400: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* ESPN [2 outlets]: No Big Ten football teams in AP top 5 for first time since 2021
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* PBS [2 outlets]: Lawyer: Father and daughter detained by ICE at Seattle airport were tr
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [1 outlets]: 1,100 acres of reserved forest allegedly earmarked for release: Activi
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -102,24 +82,9 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    attempt 2 rejected: the name/word 'Lankan' is not in the article; the name/word 'Sri' is not in the article
+    -> no cards; posting with the site's own summary
+* The Guardian [2 outlets]: Trump hosts third crypto gala for meme coin amid conflict of interest 
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 6 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
-
-Countries: IN 37, PK 31, BD 38, US 38, GB 34, IE 0 (FAIL), CA 36, AU 33, NZ 31, SG 28, MY 31, PH 27, AE 38, IL 29, NG 0 (FAIL), KE 28, ZA 28, GH 27, FR 33, DE 32, JP 14, IT 33, ES 31, BR 0 (FAIL)
