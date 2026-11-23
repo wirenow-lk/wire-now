@@ -1,68 +1,102 @@
 {
- "updated": "2026-11-23T13:55:47.976151+00:00",
+ "updated": "2026-11-23T14:57:09.866338+00:00",
  "channel": "@wirenow_lk",
  "bot": "wirenow_news_bot",
  "sri_lanka": [
   {
-   "id": "93c7c450df",
-   "title": "Today’s News Digest – November 23",
-   "link": "https://www.newswire.lk/2026/11/23/todays-news-digest-november-23/",
-   "summary": "",
-   "image": "",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T13:49:11+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "6ee2390246",
-   "title": "Trade Minister warns of price controls if goods prices are increased",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXZNNXNobG1Tc1dCX1Fra0ZHcUFEcTVlTVRSTjN2djVTcXhYMGZVR2NmV1dfbjVFTkJHd2JTdm04NFdISDdaYUUzVXFCVzJlbjcwTUJWbXlOMWIycnl1UWUtdXUzVmtmRzh3SEExZ3FCamZZeV8xUExWWk9GSExpbERDR3hvbkNXVGU4Rkh5bDNqTTJKZmtSUkZQZ2xjR1hsTDVrVGNaUlh3czc1ZEltYUJUS2NpMEg4VzY2Y3FiS2tpRnVZeTRfdHh3?oc=5",
+   "id": "ea4d3bf850",
+   "title": "Nvidia shares surge over 33% at opening as Jensen Huang returns as CEO",
+   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOa1V5ekczTmNhRUJsVVkwbUREQlNBbi1qR1JYUnE5Y1Mtc1pfM1RZR2gzeXh4S2xNcDFwaGMyY1lneFcwQmQ2QlB5SWlUOHZlQVp0elBmNWl4U2hGMG1DYS1wZlY1T09BQlZmVkphSTRNSDFGZ2ZweENBUXhlOHF4T2VBdHpuSEdiVkthMS1OcjNibkxkaEd5ZlczSWh6bW1QTmFYQjV1WTJpQTBwQVZOU1NSM0RWWmJmdlRRY1lFOUZYUlR5SmxXRi03dnpBZTdHTVdZMnpvb3R6M1lLY1VncVZ4c2k0U1RoTnZvUF9zeFJWWlpSNTVIejRMNmNsbTB1YjBRS29FTzZvSGp3d0ZtaEJBOVRROERfQzd0RUt4aERab3N0QWgtalowQ1lWUmFwSkd5TGNQdXNvYmRjcEE5Z3lRYUFvTVd5NXRESlZrNkRVejA?oc=5",
    "summary": "",
    "image": "",
    "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:35:30+00:00",
-   "coverage": 2,
+   "date": "2026-11-23T14:49:53+00:00",
+   "coverage": 7,
+   "topic": "Tech",
+   "location": {},
+   "more": [
+    {
+     "source": "Daily Mirror",
+     "title": "Nvidia reinstates Jensen Huang as CEO",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdmszMExIQkF4NUk2eXFIcXN2VFZyOFBvWmpuU0ZadFViWW1naHdQc19IM1BvVTNLTlhpUmhDRGhQdTNVOXZDbzNveWFCZHloelc1M2NRYWRkbDllM1AyU1U5NmI3cjZ2ODZmUklmTDNGNFN6aDhiUE9TUXFiWlM4NlJEN1ltU3k4dmsydHZNemd3b3M?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "7c660c8cca",
+   "title": "Island-wide trade union action unsuccessful, says Deputy Labour Minister",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01cm81M0ZoUkFEWnFoYUJNZDY3ZjNtOFJVbnZsb3dvbEhtOVpKb3h0U3U3OEg1OHhTVTZEbGF6Q3NHcGZCWmdz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ada Derana",
+   "region": "sri_lanka",
+   "date": "2026-11-23T14:48:53+00:00",
+   "coverage": 1,
    "topic": "Politics",
    "location": {
     "country": "Sri Lanka",
     "place": "",
     "flag": "🇱🇰"
-   },
-   "more": [
-    {
-     "source": "Ada Derana",
-     "title": "El Niño conditions in India may push up prices of some imported goods – Trade Minister",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NRVQ3U0g3SjN1OVk3MjFFblRvXzVQS1lKbnREaUtQRm90d3ZvT0t5MzlWMTdPZ1ViRVRBbWQ1Z2RMem5yeHdz?oc=5"
-    }
-   ]
+   }
   },
   {
-   "id": "a34e65f8fb",
-   "title": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TVFgzbG9pbXI2TFpEY0ZXMng3SExBOFlXX0Y0OExEZWp4dmNLMU84UzE0MjgtU20zLWZobm5ZZVVHTGhqN1VtRG52MUFCaU9QNGkzbWFxTUkybUtlX1AzVw?oc=5",
+   "id": "980258bbea",
+   "title": "Government plans to establish trilingual school in Colombo",
+   "link": "https://www.newswire.lk/2026/11/23/government-plans-to-establish-trilingual-school-in-colombo/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261123_200615_Gallery.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T14:36:39+00:00",
+   "coverage": 1,
+   "topic": "Politics",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "Colombo",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "fd547c766d",
+   "title": "ADB approves $200mn loan to boost MSME financing in Sri Lanka",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWVnVlM5clJsQ0ZBVU5XdVBNUWhWeW1BOVVDb19XZWlPNGpEcXd1OWtTdndTeTRmVm55eVRKVndVazM3U21QNU5GM2ZBeEJhUFg3dlM3aGlxbkdvbm9zYllUanptcUNuelFGWm83YTVkZDQ4cHdVR0pucFk4cThPVDROMWJ3Q0pGMUx0RENwX0pZVTdEN3Jz?oc=5",
    "summary": "",
    "image": "",
-   "source": "MLB.com",
+   "source": "EconomyNext",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:19:42+00:00",
+   "date": "2026-11-23T14:08:10+00:00",
+   "coverage": 4,
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "fa5880776c",
+   "title": "Tarik Skubal’s Mets megadeal is Exhibit A for both sides of MLB’s brewing labor clash",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3pzTEl6N01pUVVzbzRoZDl1a2ZOSXo4UDFRTXNSMDVjQU9ZNkRJQ2Y4NlcwZnpCQkdVcVBSblBIQnlOSVZNYmtpQ1U5YU4xb2IyTWtpQllCcTV5QW9nZTJxQm1RTHdWTzR2TkhPa05jbjlkb2cxaS1KZUY2VWRVeFFCc2FOQVVzVEt4YTYxNGEtQkxMd1JIZUZXOUFUa2Z6OEdDWklmb0t2Zw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "sri_lanka",
+   "date": "2026-11-23T14:06:08+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
   },
   {
-   "id": "1a608a6b5b",
-   "title": "Foreign Secretary Aruni Ranaraja to be appointed next Sri Lankan Ambassador to US",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiOG5Zakx0aUdBVWs5ejhwNWZkTjNsYlFhUjM4SWV1dVJGZVFvVXEtTmVzZldVSnpZWkdzOFowQzB6dTlKaml3?oc=5",
+   "id": "52c12e746a",
+   "title": "Sri Lanka Names First Woman Ambassador to USA",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDJiRllWaXB6WWFxTGQ1X2VhQ0V5RzhFZk80ZjlKX3R6eGJtemI2ejZLR2R1bEN1aGhGUjhXSm52UEFxeWx0NE5SWWcwQlhtcElzdFRNRFpUcjh0bDV2OGx2YjNhbENlS18xd3k5aUFsQm0wOF9fM2twTWxPZDlVX05Pem1qdFI4?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ada Derana",
+   "source": "Newsfirst",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:18:49+00:00",
-   "coverage": 3,
+   "date": "2026-11-23T14:01:00+00:00",
+   "coverage": 1,
    "topic": "Society",
    "location": {
     "country": "Sri Lanka",
@@ -71,57 +105,46 @@
     "also": [
      "United States"
     ]
-   },
-   "more": [
-    {
-     "source": "Newswire",
-     "title": "Aruni Ranaraja to become Sri Lanka’s first female Ambassador to the US",
-     "link": "https://www.newswire.lk/2026/11/23/foreign-ministry-secretary-aruni-ranaraja-to-be-appointed-sri-lankas-ambassador-to-us/"
-    }
-   ]
+   }
   },
   {
-   "id": "8aed43db5a",
-   "title": "Don Toliver concert evacuated in U.K. after ‘unknown substance’ released in crowd",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMDJOZlI5ZWFCS3pFRDMwOEp3MmIya0RjNVBnRnlHM1VKVGszeUlYOENYRkNhbXN1VWR3TXhXLVhxVFpzWUllNkhnX2xuekFmRUtvZklYV05ucUNET2dFbktEVm1kbkNadjR6WnRSWTYyQWVTR2VwODdxWW5TNkItY2VNQjlHZWphWDB5NnRZdTJEVmg0V0JKMDUxM0EtR2U4VE9Rams2V2lheEJ1VllpOVQ2d3hKMUc1YWRFRUxocw?oc=5",
+   "id": "a6b4a4ad05",
+   "title": "Exclusive | Will Smith’s $42 million Calabasas compound engulfed by enormous fire",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjBQSHFfRG5WSmhsNXhnWGVyU2t1NHdEdHZkc21rc3VMd1FCcENyXzVmTkQwLWtCc0lrZTRMT2RGS21EWUJYU2NwYmdyR0xhdW5VMVg3eDdOMVB5c3p1b1I1SjVZLXkzUTFrTWdON2lHMVQtTmtiSXEtelpoUURZSElXaFRVbUI1a1lLUEo5eTI2dXpwd3FadkJIVUlIbUdGb0pzTGVJSnFKa0ZxVUZVUDZJbW8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Page Six",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:45:00+00:00",
+   "coverage": 1,
+   "breaking": true,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "66f307a64b",
+   "title": "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2pNUkN4LXZiQlIySy1sZ01UeXBHQmc1M0hxVWNRcVQycmY1UnRRQlFmdUpycURZbUNhNXY2RzJxREMwRW5Za2lucUt2blJneG5NcHFCSUFUamoyREhfblh4T1hzZXd2SGQ0NS1mTDhfc1hQTEpiS1hRS0VpcEUzSUFBX0NCNWhzcUNueWlFeTNTYnpnal9VbnBVVFJiZzBtSDBnblcyZFdwWWYtOVZ1dHlBQ3RHbHA0MUE?oc=5",
    "summary": "",
    "image": "",
    "source": "NBC News",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:17:47+00:00",
-   "coverage": 3,
-   "breaking": true,
-   "topic": "Entertainment",
+   "date": "2026-11-23T13:40:22+00:00",
+   "coverage": 1,
+   "topic": "Weather",
    "location": {}
   },
   {
-   "id": "59a41152b6",
-   "title": "Central Bank says 70-pct gold loan cap limits risks as pawning grows",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXFDYUhHVk9IUlR0VXJtbjNsZ3ZSWXA5V1JWZFBwOTdoQ3o1T0IwVWNNVnF3YTA1TWNNSWRjbmdrWkU2TVBzOVZ6eW94dG0tYWtJZy1FNGtuLUxhRlhFeFg5WlI1TGtMTDVEMWc1Wk1SSF9sNF9uLVlvZW1VZkZKWVpFYWV1MUxra05rNHBRQWJaMFNtYW5IOFp3WEdia1JKY0E?oc=5",
+   "id": "f3a202d2da",
+   "title": "The Army plans to blow up 5 tons of lead azide in Iowa despite outcry and legal challenges. Here’s how we got here",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVNnp2MzhFMUp4MGhZTktXaFFvUnJmSTFwOUJBNmZkWXY1N0VFVmdSODdQTTdFbUZib09XcnVlMHhOdlYzbFA0OFJnYzN1MU9pSXRpeER1NkRNRDNLWTRZdUh2SVYyNnI1VTNNSDhsQk9hWjA?oc=5",
    "summary": "",
    "image": "",
-   "source": "EconomyNext",
+   "source": "CNN",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:16:56+00:00",
+   "date": "2026-11-23T13:00:15+00:00",
    "coverage": 1,
-   "topic": "Economy",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "321f9e8fd3",
-   "title": "Stocks making the biggest moves premarket: Zscaler, Truist, Nvidia, LuxExperience & more",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVBOMTAxQW1BaE9lVmJjMDJ3dFgta0pfS3pUcFA4UEVjR1dGTnZOWUQwc09pQUlOeURWR1RqWEZ0OWlGYmpyUlM3eVFFcmxkVEx3SjFWNm9udXJuMUNNNXdmRUw3RVZjN3hJRTdLc3IxMTJzQVFwWk1YeVl0UExqLTZRVG7SAYoBQVVfeXFMUHpQdG4wa1JHdm85UkkxSkNrWXd1VlFMSkhEVWlBZ2pJNm92bXE4RG5EWG5yT2hzQXZzSjZHdHNGZWlITjZWczJBT2JOOWpBbzBiLVdKT3NpT3FSZVQ1bTVyWWc1X0l1SWZBMkt6dWFZTVB6cmZHRC0wWnRrZ0xLWmdNSWZUZVZHc1p3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNBC",
-   "region": "sri_lanka",
-   "date": "2026-11-23T13:02:00+00:00",
-   "coverage": 1,
-   "topic": "Tech",
+   "topic": "Society",
    "location": {}
   },
   {
@@ -135,6 +158,19 @@
    "date": "2026-11-23T12:32:48+00:00",
    "coverage": 1,
    "topic": "Entertainment",
+   "location": {}
+  },
+  {
+   "id": "d7a8b33cec",
+   "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQy12LVpnTUFERk5qZVVBOHZ3UUpheWJST1o0UWxVaTdRaTJWVERPNVJhMGY0eE5iQy1tTlVKQVh3Z2JVTjF2ZFRpVlZ2RFQ4ODFzaHNFUTYzUTd0eFpjU3dicUVUUWtwTDhDVnJOZ2hQUk0xTFBVVHIxVldtaUZUbDJYckIzeEZ5VVUzajcyOGV0aTNRX25PZEZjaUFiSXA0OEpKM3VBcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "sri_lanka",
+   "date": "2026-11-23T12:28:00+00:00",
+   "coverage": 1,
+   "topic": "Society",
    "location": {}
   },
   {
@@ -181,21 +217,37 @@
    "location": {}
   },
   {
-   "id": "2cc48af38f",
-   "title": "Sri Lanka hopeful of securing RCEP membership: Foreign Minister",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmpTeUtjVHFuelF2N2poVmI2NElKMVJwRmFHR2JqWGhCRkl6UkZzRzluX0NlajRTOTdWX2VoN2hqWTdBc1psRy10MkQzbVZhcXdRdzRPLUM3YnhxZkMwTkVUYklaeXFPU1M3c3ZQZ2Y3ZV9HcU40RE91ellVREtSY1hNWEdHTHViSDQ5bF9tcHlIMXBrbmEyUmEtZ21SYWdLQWwxXzZoNk84WVBsUnpfM3FNcVM?oc=5",
+   "id": "59c863c73b",
+   "title": "Virginia, Oregon sue Musk’s AI company over sexual deepfakes",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3BDN2l0TEF0R2NnTGd1Ym9nek9tdWgxY0I4bmJ4OFhoYnlNVjZUdGRUakxMbndHNE5Pd2d3RXVUeW9RYl9QYThoN1pIWGhkd0s4MmQ5NE1aWDR2OHpNZTRuX2FtYW80cC0tNkdqNDE2OGdhQmxmRE5jaHh5Y3F1cHBkYlQycnNiLVlFUFBocHhucVd4R21RcHJXdWNONjg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Mirror",
+   "source": "Politico",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:56:00+00:00",
+   "date": "2026-11-23T12:00:00+00:00",
+   "coverage": 2,
+   "topic": "Tech",
+   "location": {},
+   "more": [
+    {
+     "source": "Reuters",
+     "title": "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images and videos",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnVxU21QWWFOSHYzcW1sajgxS25DUndFTGd6dTh6UzdyaFR5U0QtMWlROWIxZ01IcU0wNG5FLXRaMWZoS1o0dHhEUUFiaDItWFVIbE01S1pTbDZxYVZGN1hMaHlNYXBZck84N3JPaW1xcW5VMHdNeFBHSWZmRVN6MzlHZjdEcl8wTkVERGhBU3M0dVBXSHBFUHNpM1pCc1Q0MV9HTWlveVJSV1hiSEFaWjJDMEI0b2p2bzBIZEdrampIVFlVWEE?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "ee4486786c",
+   "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1Pa3puQ1RUS0xLT3pTdTBrdUc0Q0J4TkFqMW81cXpOdUpQSU9LV2wtNlJIS19wOG9uMEVEUlZkZUNIQXJBcXdNeWdaV0JiXzF4WGluNWtSaVU4T09reFVtYkc0dXJOZkFLXzFMUGNzOVl1SHRVaG5PR3dvVnpwR3VTbGJibEloRHVzcjQxYWc5UWxZdWR5OWdmdGE5UTh0c1NSRF9vc09YUk1aVHNFNmFVZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg.com",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:53:55+00:00",
    "coverage": 1,
-   "topic": "Politics",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
+   "topic": "Society",
+   "location": {}
   },
   {
    "id": "003be79c8d",
@@ -209,30 +261,6 @@
    "coverage": 1,
    "topic": "Society",
    "location": {}
-  },
-  {
-   "id": "d07e664b73",
-   "title": "Government Spending Must Be Properly Planned to Meet 2027 Development Targets: Presidential Secretary",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPak1MUFZOd2pjQlFDWkRWLWZuLUl3LVQ3RFRtY3VvaXNqZnhfNzJIN2ZUcnFjTUJSWElydVIyaVlXSmZXWE9XSHRDbWswRUN1QWZFekVoRElfcHBCclBreGJKT2N6T1JfWFJGa3MxM2Z3aVJNNGRCNUQyRkhvRFVzQUdLSEFrRlM0WEVrTWRFM1I1UkwtUTZkaGF1VmZJZFZtSm5mUFRKYnhUc3VJY3pmVV9lcmxPYndFMnpCVW9ObC15TC0yYUVGT1hBaFVyODJNY1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Newsfirst",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:49:00+00:00",
-   "coverage": 2,
-   "topic": "Politics",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   },
-   "more": [
-    {
-     "source": "Daily News",
-     "title": "Better Planning and Spending Key to 2027 Development",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUFFcXc0NmhqdjBBNjR5M1JoekpjNHdrcjdDTkw0eHhDbWVtcDB0YU5vR3haRHhuN21VVjhMNV9JZXhjclVjS1ZuUWkyQTRQRWFoNVNLODdaa1FFYXJsMkZwRkhfOWJINmdYVEQ3RnhkTVZPWVF4V2RoY1JqV0tSN3NPZUtLanR2Yms5RUt0Z2I4dGVWczRjbF9hWm9uQ3V1ZktCMU14bE4yYjg?oc=5"
-    }
-   ]
   },
   {
    "id": "ccbe7b3b0a",
@@ -264,56 +292,16 @@
    ]
   },
   {
-   "id": "b8e9c3e9a8",
-   "title": "Nvidia stock jumps as DC makes stunning u-turn on Jensen Huang",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVpaTEFMb19XbmlqTzZRaUtlWGk0TE9wa25vdXF0R3JpRHM4azRDSmxYZ09WYm13RlU0bDlKYk9JR0tqVEJtQkpubV9pcWROeGllektrMUcxYm9ZWkFPMENIMkdSWmlYRWRKUm9pX1RsV2VHaVlBalkweHhNNXg4dDUxZENWbFh3ODFOZFpHLWtPZ0JwZWFyZS1sVV85SElkUDFRZXB6THdrWVJxZmZlM1dXR0hTYlpyLTc0ZVJnbDRtMFRY?oc=5",
+   "id": "7fcb017962",
+   "title": "Ridley Scott's franchise adds female-led 'Blade Runner 2099' TV series",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREFSVVpvV1A2cVVnbUlJOFFrLWZUemwxV2hQRjVJMVZ4WncxaUhsVmVjNEM5YmlwY2JmOFFKdjJFREF5X1R0Q1dTMXQzVEVwTnMtV0xHa0FsTXhsZzdTcTZtd1hlYkJxRWtkTUsyVTBVTzNGRU9WT3UxRGdtbFl2Q3lNQW1lM19UeGdRZVdDMGFvOXdUc2s4dENlYUJPVlo2UmpLbVZockI0UE01dEFNNW5SZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Finance",
+   "source": "Reuters",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:34:19+00:00",
+   "date": "2026-11-23T11:10:50+00:00",
    "coverage": 1,
-   "topic": "Tech",
-   "location": {}
-  },
-  {
-   "id": "fb122c95f1",
-   "title": "This proud dad of a lesbian just defeated a powerful GOP congresswoman",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjVpR05lSFlqWmRZbF84dGNnRVVXME42Y1dBT2VWU19IcF9VblRhOVhpQk9MMkRfOENneU80SHJ3aEhrLTlLc1ZabHFxaDdHZ3Z2Y1hOVkdIYWVtb183MWdheWgtSUpFQjlMMExCdTZJZzJpc0k4V3R1MGVQSlFaZWpnMW9ocm9memtXNHA2ZFVrVVRrR252NUdrMDBuSmQtaWpDV3Y3R3FQUkxFUEFLOG9DUEdyQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:33:11+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "66348af6f8",
-   "title": "ICE airport arrests: Attorney says detainees have pending asylum, no criminal record",
-   "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQNlNhZlkwU0x3a1o3TzhrLWJldFczb3l6WEdEZmxGWGdPWkNjODF1c2UxdHpRSllUMm5lcVhzWW1ON1pFd1NudmxIV2IyUm5MSmFQMk1YZnc2Wkl2Ql84ZDBRWGJ6U2hQSm92SEFLa3daaXFiZlBNSkR5b0pyY0RJX1Y5T19FVUdhdng1QU9mM19Ld1VhYXlweDQwMUtlY1NTVTJTcngyRElFSlNWd2ZiNmhRZGQxVkttVUhkOXQ1YVVVWGc0a2ZJaTRBUWNibmE4YkVXV2h4elRETWk3Mk9wVVBqVUdPSDNUVkh2U3Z2RlU0TXFheHduZlJZeklZdkxlbUFMc29SSXRicmJheTZoc2I3NXBacXhTTTNla2Y3emowTjVUVmNNZUFDZmxfN2ExcDVNTl9JaHp3N0UwUzk5eHJpdzQxU3E2cENFZVhCVWMyMFFkcjRHQURFNE1yMHI4LXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "KOMO",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:16:05+00:00",
-   "coverage": 1,
-   "breaking": true,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "e011577b93",
-   "title": "Thanksgiving travel forecast 2026: storms on both coasts",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmw2TEtLbnNjV0ZOWC11YXYyc2hzU2hHM3JZWDJqcEh4bGFoOE9VRk54S0xxSWdGRTFId0JIb0RmZU9ZOXEyWGw2dGVvRWVuMUtRemVjX2RQZVdiV0hDOENfVWw3TG5uUUpSamRPZkp6R3NGWjkxR1NfanptZkdDRUYwUHljMHZzWm94dU9tTGpzY1JpMlVMLTlRV3JHT2M?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Weather Channel",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:05:00+00:00",
-   "coverage": 1,
-   "topic": "Weather",
+   "topic": "Entertainment",
    "location": {}
   },
   {
@@ -330,14 +318,14 @@
    "location": {}
   },
   {
-   "id": "f7f78d73a6",
-   "title": "Red Wings’ return in Dylan Larkin trade brings team’s direction into view - The Athletic",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVlndWx5NWZ5bW5wNkh1NTgteEx4X2dhVUxGYUsyYWVDUjRWd0xwa1RpSXBXZHBMWXNncllrUzh2eVJNR05xYkc4VGl2UHliUUtqam1MdmhiN3puWTNaek85c3JxYkVoLWttdDM1NG9sdFRIR1F3T3VJb1BxLWxYd0lMWTRTdVlYOVh1WkozQUtybUFnODI4bmllVnVZZ29IQ0wyYg?oc=5",
+   "id": "8585737b18",
+   "title": "Samsung Galaxy S27 Ultra could debut with a brilliant new Galaxy feature you'll love",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44LW5RN2hIX1Nsenluc3FDaDNydFhSMVptOC1PUmpiaGtsTFk0UVVlSEpUUHZqSDNpNnE5dkR4blhDS3FXWlBLdFF2aTdjcFBlSUdJV3paRWJnNDRFZC1WWXRhOF9KQnBrdWtZY1RZM1hfbUVkVHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "PhoneArena",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:29:02+00:00",
+   "date": "2026-11-23T10:28:08+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
@@ -354,26 +342,6 @@
    "coverage": 1,
    "topic": "Society",
    "location": {}
-  },
-  {
-   "id": "0e4d753002",
-   "title": "DNC plans 12 presidential primary debates starting in June",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVG5LZ1dUb1A5TkIxQkwyc2RuYzVLbEl3WmZzWlFqdnctODYtaXgxOENTLUJUTmRkWUlXMjZOY3o1Z1lPVW5pcml0TjJPNEc5NTlQaVlNRVQ3dDNrcjBUeVFobUNDS1NpcFdBV1lIWGM5Y2s1YXZRNThZakhYSzd1VkE2Yk85d2NWRVFIczZDMk40a21Yekxr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Politico",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:00:00+00:00",
-   "coverage": 2,
-   "topic": "Politics",
-   "location": {},
-   "more": [
-    {
-     "source": "AP News",
-     "title": "Democrats plan 12 debates for their 2028 presidential primary, with the first in June",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORGE1Z0o0bFp6aHVKel9xNlhhaEdEWUpua3l1Y0dQNzZmVGQzaU5pTTVYT1RmS2FKRnd6R1ZHaVVaOGp2bUpTU1FYQVE1enFQcDVJMk9ENUNNWDNpUE8xdnByT3YwNG92Z1BxVXl3RFFvNlhoOUkxWURCUEVUcGdBZmJSUzMxWnAybG9UQ0ZBZFhJZjRHczU2bk5MRzJnSXVSQnFRUzIyVVlrR0JJ?oc=5"
-    }
-   ]
   },
   {
    "id": "6732273a2c",
@@ -412,19 +380,6 @@
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOVd4dm9OSTY0RGZqT2NEUWRIQ0puNHRLSmd2RHhhQ3hwbEoyZWVHRkIzREo1Tnh0ZTlaeHBSd1cwYUxYQTktcmQzOFhHakl2WnlLc2FNc05nZ0RYSW5EUE9DT1dabmNva253cEpmU0pCZjN0eVJGS1pvdFB2SW9UdjhvSlNWWnVTaGxlcUJRcXh6VjNoS0RQQ0pPbzJFcmhwQ1oteDc1Z1U0QnhmT2s1ZEN0SklwV194M2VvY19jRG5XMlJvWVE?oc=5"
     }
    ]
-  },
-  {
-   "id": "4e2fc56849",
-   "title": "Fields of graves: Hidden deaths reveal scale of Ebola disaster",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlE5NnFHMFEzZi1GQmhXQXlJWjJDTEl0aVNEb1VNdHZQRzJSWXpUUndSRkV0WXpjR1M0eHQtRFFrX0ozOTJDTTNBNDBsLWlzNXdOVDl5M1FwNC1vSllHaExHeVVjZGxCWmNMTndLX3pqT1NScWVXSHdRaHdlRFBVblFMRWY0c1lpcGJEakpaZUkxT3FDZUNHMDluVVFjZkZUMTZ0SHNSbGd0UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "sri_lanka",
-   "date": "2026-11-23T06:00:00+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
   },
   {
    "id": "5d90065834",
@@ -470,14 +425,14 @@
    },
    "more": [
     {
-     "source": "Daily Mirror",
-     "title": "Trade unions launch national protest against Budget",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU1maGNKa3BWaDhXaDJyeExFMXE5eFZxeGFELVM0Vy16WjZFQ2psclE4RFI4cDJYRUpoSFNJRzdYdVp6OHItem9yLVcyOGxMSEE1ak16ZERaZmFiaDhTQXV6Tk4wY1FXam13MDU5S0hzb25NM0xSMHI5SnJ5UnE0bUVSSXJfdDdIcGhmSlZwQnpraUFIVm41Uk1TZTdPQmpIcG1hSFRTU0RIUno1LUE?oc=5"
-    },
-    {
      "source": "Hiru News",
      "title": "Trade Unions declare National Protest Day today",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFdVUm5waWN6ZEdKa1BSODctZnpiTkVoRzdmelhTY3ZQbEhQcml0dlJMaU5wdy1fWG5UaURod09iUW5TdExVS1hYeG5HVzZmYTBhY2c1QUJBcEpqMXh1YzRzRzA4ZVNXc0FoM2J1RXcxSWtTeVJ5dTMzWDJ3YkxvYlBhdmlTZFVWV0E?oc=5"
+    },
+    {
+     "source": "Daily Mirror",
+     "title": "Trade unions launch national protest against Budget",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm92Y29jd0FHdkFCdjh5Y3dzNzdabU9EX2dDakk1SlBGdURRbF9IMmRPVUYwTEZYOVZfaXowT1hSVnhPZkRKNXU2clA3clp1LTJ5aDZPN0c3SzVDZFVweUdxejlCeUNUT2Fobk9GMjZBQWE3c29MWng4SHpBY3ZfNFpJdGxUZTY0a05iOFlLckFaTEUtYzJhaEhNNFhkcFdZLUY0b2NB?oc=5"
     },
     {
      "source": "Ada Derana",
@@ -492,49 +447,75 @@
    ]
   },
   {
-   "id": "b6df9771ee",
-   "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0hhMW1hbERPLXpIdnpDNkVPYzdWOW5rWmZkSGFRTkRnclBSWkNwT1JUSkxya1ZYeVFQRXcyOVVwQ0MzMkZPREx0V1c0bkptUk4zUU92dnY5N0ppd2hqMEF1aDQ5TnN4WGZKMnUwc2dRSWFUMm16Vmo0QkNwYV9TUzhyN3ZGUTdIYmtIcG5SM1hjaVFKZFd3RGtYbTFFb3J0WEZVSFgyZlBBMWFpV1JXVWt1dHZPQXJLZG0tNmVneUN1OUx4cnc?oc=5",
+   "id": "1dc7fdac22",
+   "title": "Amtrak train derails after ramming 18-wheeler stuck on tracks amid holiday travel chaos",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWpsa0Y3M1VxYURGcDlSV2szQXEwOVhtYXppUWxmRnNuMUhPR05aRVVGaXY4Uk5RYzljeXoyVTN4dl83Ml92OEtxVDlibmREUGxKeW9HMkdCN3lndzFkaVZpUnhOLUd1NS0yOHMyS1o4blFQVzQzeDlTOGpKOGFZX1gzT3dsbTBqS1IyQnF6emJCSVF6bFdtSkVkamtCTS1X?oc=5",
    "summary": "",
    "image": "",
-   "source": "KSL News",
+   "source": "New York Post",
    "region": "sri_lanka",
-   "date": "2026-11-23T04:46:18+00:00",
+   "date": "2026-11-23T04:45:00+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
   },
   {
-   "id": "2c87f27926",
-   "title": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding - ABC News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkhFTW83YmxzSDJ1WEhfN3hKTUc2MndNdWlCMzFNR2hxLXo5SmdobFJMWGZSUzA4ejdmOTZOYkZCUDIwU2ZCVmplWDNTY0R2YU0wcGd5ZUZCSVdMUU1rV1BSSDJTa195TWhfYVIxaXQ3U1N1c0tobU1JbHdWZWw3Y0tMc0NPWUI0QUgyeEk2LXZvc196Z1ZQeC10REFGbXpmNHQzNmRyUS1RWWhp0gGyAUFVX3lxTE5FXzJ6V0VIM0EyakROV2UyclZBdklMQXRMbUdyWlgtRVFVOWZZekdtR3dSSHBpOGxBYVp6ZFZQQm9LbmgwQW5xQklJdVpuUFp4MVVLaGZwYW15dEpvUG80OHA2U0dIWHhOLWhxeHdBdnVidVZTWkFjZ2RwRXpsSHJENnhuY213elpHRHl0WFFlSDlwdThqWGFYZEFuQkpJdHBPTkJwYl8xeW1ydjVhUzJyRXc?oc=5",
+   "id": "d5e47efb5f",
+   "title": "NHL EDGE stats: Larkin trade boosts Canadiens’ Stanley Cup chances",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlIwMHFYdURFZHlYN2xLTnRMejQzRktEUU8tRUJHLWpZVEllOUlLYkZNUUxDNHI1aktvTVNSd3A4bDROUVllczB2MkF1RVhmV3p5UmFPYjJWZElKZ0xoSGpxaUZVMmxEYkpvbFpyRTRQWW1GWWxpZTNLMFF4eWdRbjh4c0RmZ01heGpHbjVOSEdOdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Breaking News, Latest News and Videos",
+   "source": "NHL.com",
    "region": "sri_lanka",
-   "date": "2026-11-23T02:55:32+00:00",
-   "coverage": 4,
+   "date": "2026-11-23T04:16:58+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "edc92f42de",
+   "title": "Astronomers Find Signs of a SECOND Earth-Like World in The Space Beyond Neptune",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmJEUUN5SXNrNUFIMUl5amhOMnVfYllNZ1o5c2dIbEFlMjN6aE1FQWpMVVhYZVBURFBvb0VDV3dpRjZPY1hiWnRMNkdaTl9YeTRjYkRqaUp1VUV3US15RzhQSkYzX3lONXJCcEhKNjB4ZnZsbmFISllBdFhIWG5JMWgwSTUtdFYtN1NSZ3UzRzd1NjQ3UllJR0l0RGxJNF9MUEVsYXpma2phY1QwcW1FUlRadnlrS0dkUS1j?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScienceAlert",
+   "region": "sri_lanka",
+   "date": "2026-11-23T03:19:20+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "880214d745",
+   "title": "Spacecraft enters Mercury orbit for first time in more than a decade",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFlwcTlDbXJJY1RSOG5nMWJMSnA4SUhIbDFXSzk3VzdfeEpXMkJRSGJRU0I1RWJTOXhWZDFiRC1WemZOZjRMVGpCWU5wS196RnZkTHFJeWo4SGlYbWlsd1hBMkxxU3VTdUJrUDBWdm9UaFFZemU0SWtQdUFxR0ZoMWkzdVZjY3FBeHk0LVdaYTlxdklOVXRJTkJ1UVc3T01JVzVRNXhqaEhLc2F6anN5NDJZcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "sri_lanka",
+   "date": "2026-11-23T02:45:00+00:00",
+   "coverage": 2,
    "topic": "Society",
    "location": {},
    "more": [
     {
-     "source": "Ada Derana",
-     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBReGlNTmNIU0I0cHVvUWFJMjYtS0ZUd3dZRE1UdklvWXFWWXpJWUhmdWNlYm1yNUhJTTl3S2xyTUdFTE96cUlz?oc=5"
+     "source": "Reuters",
+     "title": "Spacecraft begins orbit of Mercury, with a glitch reported",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY19EQkgzcWxJMDg3NUxKeFRER0NLRlRsTFN0TGJEelRLZ2xhYi10MTgtNm93R1FOblRBMDRUbTZkaUpORFl1bWVTYlh3bThiQzJDeUZLZkpaTWJ0QlpMV19HVHFzbzZzZFBtN1BzVUVsNFRZcFFka2dlRDNIZEFDMWt2TG5BNWhQZkdPUWhEUnp5UUNKbUJSeTNDd08?oc=5"
     }
    ]
   },
   {
-   "id": "fdaa650e6a",
-   "title": "COP31 break down over how to fund vulnerable countries or shift away from coal, oil and gas use",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTlkbVpicGx0UC1OQWpfSGJVUTV4bGdnbnNLTzY0cVVSUGM4SnQtZEo3UEJzTlZSTnMxWGEzU2VodWdkOHdqNEdaUTZ3N2V3d3FXYlVJRXB6RDJwSFZKVm1WRmw3dERkNnZzdEJQN3hLN0NHSDlkNG13S3QzYmM5OUhEampWOWgxdUIzUUpBQnNPY0N0WDcwUUl3ZUZqUllRRmpIb1VvTEJ3ZGh3X1EtRWlZZDZ2OWYwTzdIT3FydVU3S0RYRkI3THZfNmNaTWRpbElCZ3JNY3gxcTFVMndnTzY2MEM4Vmx1NTFTbDJOWnLSAfABQVVfeXFMTlFtZFdLYUJfUF85X05hMElHaWNJUHNPWDFxa0xKX1pwOGVFck5yUXJzTzJ4N2lYbkptZjVrSVpTbVlWWnQ2bmRJQjlrbllCOHkxV1BWS00wQXlRQWYzU1JQVTc2T0Z3ejJJUXFRUVI2Vl9WOEdaWWJYb1VKWjFRdTJ4VjAyN3pUM1MxNUh2eXFEU1o0UFhWRHRMWW8tbmxmNktWbFZRMHJYUFRvV3dtTGtXM0J1UWRqa2JMMmg5Sy1nYVpBaERTeGNEX21zdTV1QXRicVFGWnpBcTBrNlAtNmlnRlhFTG1NbDdxSGZyTUpa?oc=5",
+   "id": "878c237e06",
+   "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5",
    "summary": "",
    "image": "",
-   "source": "DW.com",
+   "source": "Yahoo Finance",
    "region": "sri_lanka",
-   "date": "2026-11-23T00:29:25+00:00",
+   "date": "2026-11-23T02:24:00+00:00",
    "coverage": 1,
-   "topic": "Society",
+   "topic": "Tech",
    "location": {}
   },
   {
@@ -564,19 +545,6 @@
    "location": {}
   },
   {
-   "id": "3f1a985190",
-   "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning Two Oscars",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaE1jYW9FWGpxUHVfR21wajZfcU1hTFppMUd5MWxheHpWWlJwR0QzWTdPMm13Q2VVMWlrTzJYbW5rdnBTcHV4XzdyVk1fOWlGQ2ZYSEZpNXl4SzllbDU4VktILXhwZHROa05jeHRxRllUY0Zqd3dDSGNHRVphcG81UnVSQVlCVkFvUmdiQXZtZExhczE3dGVYeFdPR1Axc1ljV0NPaVB4cjBJMjlwTkUyVXNwOW1MbTR6cVR4ekZrLWNndw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hollywood Reporter",
-   "region": "sri_lanka",
-   "date": "2026-11-22T21:43:27+00:00",
-   "coverage": 1,
-   "topic": "Entertainment",
-   "location": {}
-  },
-  {
    "id": "f88c3fa1db",
    "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVVlY2JXaFRVTkdvVXZaR0hDRWlFbHdSdU40NjA5Q25SS25TY29BYkl5aTNPN1hFTFVHVGtmTllHcG9EQUQyV2hFVUxILW9EZUE4V2FYTF90WTRWVDRGZUdoLXZLeW50NGJpYUszeWpWcTQ3bmExNk1zSmdvUGR2SVpsOGlQcTJPT3l6RGo2STlSMGoyUktTR3VRZGxWajVEc1o5eDZlRUo3Z2VzNVpKSjNnSFhjQ0NQ0gG-AUFVX3lxTFBsQjg2RnZfX1ZodV8xaVc2QlRxVjBpM2xnQnkwb3RJNWNJNXQySlNlWGhSR0VaLTI1SFFEQ0tRWWRwSGlxemRVMGRiRWtJakFkT0R1RUw5U2Q3UUFpS1ltVDdQdlV0STk3b3A0VU5pa3ZqSzQtNzVwaVd2RFVmV2lVZVNLUEpUN0NhcjlmQm83b1RRUldKUExZaGx2c244bU1Fc3VnOG9MSy1JOUk2N3NzTWFlRHhJOHVWSVFHLVE?oc=5",
@@ -585,19 +553,6 @@
    "source": "Al Jazeera",
    "region": "sri_lanka",
    "date": "2026-11-22T18:11:07+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "c6b1eae033",
-   "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15dnJIemlDSWJUeldNVXV2RmRrUmpYOUxZM2JtcEdtVGlLa2NlSWZUaVFNbGVjVEZ5WXUxRVd1cnB0ckxJNnZWbnBtNXN2QVZJQ1k4UGoyYkd1RVdOS09qMy1qSHVYRDNLamUxdjVqUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Phys.org",
-   "region": "sri_lanka",
-   "date": "2026-11-22T16:40:01+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
@@ -616,14 +571,14 @@
    "location": {}
   },
   {
-   "id": "143889eebc",
-   "title": "Egg producers agree not to raise prices during festive season – Trade Ministry",
-   "link": "https://www.newswire.lk/2026/11/23/egg-producers-agree-not-to-raise-prices-during-festive-season-trade-ministry/",
+   "id": "f82be3c9b3",
+   "title": "Harsha de Silva questions whether original Stanley Kirinde painting at Foreign Ministry was stolen and replaced with a fake",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNLTM5cDRoQTRoUUZGaTZ2TmxYZ0ZRd2N5dkFxVXVIQVZ5emNmcVNyNTZVdTdOanBReXZ1M2p3dF9xOEcyLWtGS2V6VF9Fa3NqRnFsQW56azVNcGdac2RvTDZUQjNSa0VNMjUtNXNPVTU4Y1hWN0RSemFVbU1xOFJsbnZqQ2J0Wk1VYWo5RUJDb2xuUGJ6SEFfVno3MmNldHg4UG0wVjRicnd0ZjhuSEZ5eWJEV1ZaX3RRaFFDTU9qeHcyN3h6T1BrQVRFUjNhdEJIN25TbHdPdnRIeFVQOXhIU0RIYjNsVlMtckpJVFZLVG84YWc?oc=5",
    "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/1000019537.jpg",
-   "source": "Newswire",
+   "image": "",
+   "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:41:59+00:00",
+   "date": "2026-11-23T14:29:47+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {
@@ -633,65 +588,170 @@
    }
   },
   {
-   "id": "9860e6f5ef",
-   "title": "Maximum class sizes set at 30 for primary, 35 for Grades 6–11 and 40 for A/L, Prime Minister explains new education framework",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObEdJaUkwS29PZkZ3U2NHa2ZRV2plZnJBQzlKVjBJMWo3Qk9XZEFydTFvQ3VKOXdDMmFNY1RhakQ3b0hzYm1OUDhESHhKVzh6SWFzN2M4WnB4SlFxSWRKdk9NV0RtbkZGRUxFWlhacGhVQTR3MDVtcmlkODJsaTREY0JRdkVLeDFDb1pOVm5lX2EzWC1UbGMzMk5oNS03Zkk0TVlHeVB0aFBzdmQxOVhFQk5rclVDZTNDMzVlT3NHTzJrODF1MkNpTFd0Ymd5TzBsc0hTY2hOQzhSQjFUVEEwaFRwRGZEanM5cjJOOHpYTVVJNUhlSEstYUhkNV9wRENlclE?oc=5",
+   "id": "1ee3747117",
+   "title": "Procedures announced for 2027 school footwear voucher programme",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85TFlfdUM2TU1FNXBIQ2pqcWhRd2RSS0lPX0JlZGZHOGRRM3JiY0lqX0V5bGhCdDZVZUtEc0NyZTBwc2FkblpB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Hiru News",
+   "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:35:30+00:00",
+   "date": "2026-11-23T14:31:49+00:00",
    "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "b41b6f4fe5",
+   "title": "Dancing Through the Decades returns to City of Dreams Sri Lanka this New Year’s Eve",
+   "link": "https://www.newswire.lk/business/dancing-through-the-decades-returns-to-city-of-dreams-sri-lanka-this-new-years-eve/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Image-2-1-scaled.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T14:34:13+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "55047aef59",
+   "title": "Aruni Ranaraja to be appointed as Sri Lanka’s Ambassador to US",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaV9hYWh3cjg0N0xiSG1qUGVrZVd3Z3VEb3RIMVlqMi0xMFhhb0tVZ0ZGQU9JR3lGeVk5dE5WT0RURmZLbXRMQk9kUjRxUVlaWjZiS01QXzRpRGlCWS1TOXMtdFJDTWZla1dOWmJoczZWN0p2NWlaLUd2TW95b2xQZVp4OXdmZnhlUzNUZHlBUU9IU2pOWG1oTm9NaEc4MTdMcDhNWVBzcEZkcDNLdXd0c1dzRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:51:00+00:00",
+   "coverage": 4,
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "more": [
+    {
+     "source": "Newswire",
+     "title": "Aruni Ranaraja to become Sri Lanka’s first female Ambassador to the US",
+     "link": "https://www.newswire.lk/2026/11/23/foreign-ministry-secretary-aruni-ranaraja-to-be-appointed-sri-lankas-ambassador-to-us/"
+    }
+   ]
+  },
+  {
+   "id": "7b0db230e5",
+   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jOG9ydHBscFFlNlFfSUZyMEU5MS1hZU03c1pEU1l3YWJkOEFlZHFyZE1zdWsxM0F6YUpPaWhSR1JVdzA2NVZiTTYzQi0ycnRLTm9mVlE3eXBYT3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:02:05+00:00",
+   "coverage": 7,
+   "topic": "Society",
+   "location": {},
+   "more": [
+    {
+     "source": "Newsfirst",
+     "title": "Democrats Clinch Historic House Majority Of At Least 258 Seats, The Largest Since 1992",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGI2QnpUNTdQc1hxRWw4Y0xlaUc3cHhRSF9wRlB6c0UyTzRfSDBiNl9vQTRiMXppVzdLRFBFazZRNHAyVXpEVkNvR0Ewc1ZDSmZISjRBeTBqUWVMRzJraXNnTlU2ZEVqUE5BNDNUNW1MWHBwMzhXdDRVbFRLVlNsNlhnQXJTM2g5a2xIVEw5RWpTZW51UGFScnN0LXNkdHlHZVZzYmdGSDgzS0NhTzlUM1JzTkFVSUhueGVWcHdB?oc=5"
+    },
+    {
+     "source": "Reuters",
+     "title": "North Carolina win gives Democrats biggest US House majority since early 1990s",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzZjY0pNZnpnUmtsZ3RudXpZeDh4TnlWZDFIZHBvUk0tbVlxREhydk5zRTJhX0lYcjFXQTNNTzBtOFM4NlNhTE9DZnl3SUZiM3RpTzRzZTJ4aURMSUJCdDRGb0l2MWh5MFJmTWgwS1k4Ql9vTGh1eWVGbEw3WGVCS1UtTkNGVVoxS0EyZVl3Vmw0UThpTlVUWWN2WlNyaWR6a1FYYlJZaWl1MlAyQ01OSEcyY3hMai0zUWdfUUc3MkQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "59a41152b6",
+   "title": "Central Bank says 70-pct gold loan cap limits risks as pawning grows",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXFDYUhHVk9IUlR0VXJtbjNsZ3ZSWXA5V1JWZFBwOTdoQ3o1T0IwVWNNVnF3YTA1TWNNSWRjbmdrWkU2TVBzOVZ6eW94dG0tYWtJZy1FNGtuLUxhRlhFeFg5WlI1TGtMTDVEMWc1Wk1SSF9sNF9uLVlvZW1VZkZKWVpFYWV1MUxra05rNHBRQWJaMFNtYW5IOFp3WEdia1JKY0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EconomyNext",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:16:56+00:00",
+   "coverage": 1,
+   "topic": "Economy",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "09359e15df",
+   "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2U0YkM4bXY0M3RNUzhqbHMzemFXQVhwb2dVRmlEdmgtUHR5YWwyNVdHQ3BlVjFTODVOVEhhWmdfVHlkTHoxUnhhWV9haEtGcVp1anJXWW1jYUNfRGUzWkRrRzNEY3IzR1JWZHNuN2ExY1BuOE95aklEUVRIT1Y3bndHUlJTSFhtbVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:08:05+00:00",
+   "coverage": 1,
+   "topic": "Tech",
+   "location": {}
+  },
+  {
+   "id": "d07e664b73",
+   "title": "Government Spending Must Be Properly Planned to Meet 2027 Development Targets: Presidential Secretary",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPak1MUFZOd2pjQlFDWkRWLWZuLUl3LVQ3RFRtY3VvaXNqZnhfNzJIN2ZUcnFjTUJSWElydVIyaVlXSmZXWE9XSHRDbWswRUN1QWZFekVoRElfcHBCclBreGJKT2N6T1JfWFJGa3MxM2Z3aVJNNGRCNUQyRkhvRFVzQUdLSEFrRlM0WEVrTWRFM1I1UkwtUTZkaGF1VmZJZFZtSm5mUFRKYnhUc3VJY3pmVV9lcmxPYndFMnpCVW9ObC15TC0yYUVGT1hBaFVyODJNY1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Newsfirst",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:49:00+00:00",
+   "coverage": 2,
    "topic": "Politics",
    "location": {
     "country": "Sri Lanka",
     "place": "",
     "flag": "🇱🇰"
-   }
+   },
+   "more": [
+    {
+     "source": "Daily News",
+     "title": "Better Planning and Spending Key to 2027 Development",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUFFcXc0NmhqdjBBNjR5M1JoekpjNHdrcjdDTkw0eHhDbWVtcDB0YU5vR3haRHhuN21VVjhMNV9JZXhjclVjS1ZuUWkyQTRQRWFoNVNLODdaa1FFYXJsMkZwRkhfOWJINmdYVEQ3RnhkTVZPWVF4V2RoY1JqV0tSN3NPZUtLanR2Yms5RUt0Z2I4dGVWczRjbF9hWm9uQ3V1ZktCMU14bE4yYjg?oc=5"
+    }
+   ]
   },
   {
-   "id": "db7f1b7aa3",
-   "title": "Sri Lankan, Indian armies train jointly for counter-terrorism operations in ‘Mitra Shakti 2026’",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Ib1l6QkhEdVVaOEotRWRDLVdDQTBrYm40ZnlLSVNrQ3ZBbElNZkNuYU9ITEVKZGVsVmRBVUU2YWZuUFhFOThR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ada Derana",
-   "region": "sri_lanka",
-   "date": "2026-11-23T12:58:49+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰 🇮🇳",
-    "also": [
-     "India"
-    ]
-   }
-  },
-  {
-   "id": "b24a947b79",
-   "title": "Democrats in the South hope to ride blue wave and bomb cyclones could dampen Thanksgiving: Morning Rundown",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEQ4dFBYSVNyOGpQN3NVSkpGOUluWllHWm9TUndiYWFBMGRhaGFZc1A3YkVfZDN6bnlJSjVuQWtObnVjRUxkbzdzUUl4ckF3X3Y0bkY4djl6WlZaWTdVbDlVUzdlQTFxM01nVzVFTk5pbHVqeUN5MUM0d29MREpERmRnenNtcEN1YWQzLXNpazZUQXdrbUhVRjZlQW0yckxrRDluWXROXzYxYTF4aWZxM3ZrMmpSSExf?oc=5",
+   "id": "8aed43db5a",
+   "title": "Don Toliver concert evacuated in U.K. after ‘unknown substance’ released in crowd",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMDJOZlI5ZWFCS3pFRDMwOEp3MmIya0RjNVBnRnlHM1VKVGszeUlYOENYRkNhbXN1VWR3TXhXLVhxVFpzWUllNkhnX2xuekFmRUtvZklYV05ucUNET2dFbktEVm1kbkNadjR6WnRSWTYyQWVTR2VwODdxWW5TNkItY2VNQjlHZWphWDB5NnRZdTJEVmg0V0JKMDUxM0EtR2U4VE9Rams2V2lheEJ1VllpOVQ2d3hKMUc1YWRFRUxocw?oc=5",
    "summary": "",
    "image": "",
    "source": "NBC News",
    "region": "sri_lanka",
-   "date": "2026-11-23T12:04:21+00:00",
-   "coverage": 1,
-   "breaking": true,
-   "topic": "Weather",
-   "location": {}
+   "date": "2026-11-23T10:37:03+00:00",
+   "coverage": 3,
+   "topic": "Entertainment",
+   "location": {},
+   "more": [
+    {
+     "source": "AP News",
+     "title": "12,000 evacuated from Don Toliver concert after an unknown substance sickens fans",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF9wZGJzeldVR0VNSFhrdlZIejJFNlJ2TUtHZ3B6bkZxeDBUYndRRWlzRzhCa2s2ZHZ5bENJT1lwM0ZiWTBUblhtRWdBVmkxY2lUY3JRanZ5ZFZRMFlnTDVyb2twY0dNUXRVbHRlV2xkLVo4QkZRQ1BJZnZfMWRQS0FDLXB5Tzg5d0tVQW5fQVhRSGZHRVNxVUlLaVZpbURURFNBWnN4bVlJRUV6cndB?oc=5"
+    }
+   ]
   },
   {
-   "id": "01238907de",
-   "title": "Sierra Cables public stake rises to 49.72-pct after Rs1.23bn share sale",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlE4NTF6NG5nQm1uWk5WR0xabG1CTEFuZ25uQzBOYUJLWUZTdmU1SnlYWEtBNEVjV2lGYkFGYUlIT3pUa3VtS0hhc0IyU3RNS2JkWTVsVjY2cFVvdXlpWmNONGRzZXdrTWFiNFpaUTFJdlZmSUc5bF94NWgxdVAzbnY2M0NMcmFuM2trUVJ1ZmplTHB5RjJDOXEwdE5DVHcwb0k0c3dR?oc=5",
+   "id": "4e69160125",
+   "title": "‘My name was poison’: Donny Osmond on fame, failure – and his friend Michael Jackson",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNclhzWWN0YVhWQnlXaW9KOTQ5WDdGemxWMjNERVdqYnM3S1pMODUzSktUYXlVUVRtWGJfU0pSNHJid0xPUlM0U1NOaWtqdnZQcjAyRE5weF8xMFpGd1U5dURLZFZXMWpPcnFXY01URFlBd3I0UzF1Rjd5RmE2NTlzTlpib1ZPZ0pTUEpoVldtcjZZdDJaanJXVWQ1UTQ4cktPU05hSGNMeVIzQkhz?oc=5",
    "summary": "",
    "image": "",
-   "source": "EconomyNext",
+   "source": "The Guardian",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:07:30+00:00",
+   "date": "2026-11-23T05:00:00+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
@@ -727,51 +787,17 @@
    "location": {}
   },
   {
-   "id": "b97be97bc3",
-   "title": "Chamara Sampath, Deputy Minister clash in Parliament over Ella tree-felling allegations",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUlVOWmN5Z3AyYXhPbDRNTTQtUi1GWmV3TEQzNFRaanhudFZXTi1oQ2IxYlUycTMtdlI0ZmNvUkZUQzdOdmNqdk5VbV9HOW1vTE5rOGpidHFzaGVCYUFKNmI0eVpoOWdiN2tRb0xHY05ybmN0cGFwRF9Xa1RsWHQwWG1lbTlwU0pVTm15NHZHWkhSbWw0bHVsS2N0bmp0UzVOamJ0TVUzb0JBZHNYbnVtakhvUldzYnJsTUpfZ3RHZmRTLWRxQmJVZ0ZoWHg5S0ZOQl9OTg?oc=5",
+   "id": "9335651444",
+   "title": "Man convicted for role in Tessa Majors' 2019 NYC killing released on parole",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOak5USVNXZXBfZDNGRDl2NTZwQ3pmcmFqdjFYOHIxeDgzWld0TjVaSjNtcTJYdURMbU1HZkhuc1Z0VEJLZktkc0FtRlZJdVd2UGJIMlJsMjVZZDBSNjJoZlVKTEM3MmNKQzUtb1dQN1F3U1Q0S1RBVFJqbTBMWi1lWTlCSzRVeE45eXUwRXI4bkxaSjVwbXfSAZsBQVVfeXFMTnB6RGY5Ykx5S1JUM3ZrNURQZkM1ZXFhempRcmZWeEZvX2lySkJGY3pSUzlsbWxuV2hKLTFIc29Pc3RfNGVkZnEyWWRkaHlCSURYZEkzVUtiTFVNbXRNZ1lEY1E2UXlGZnJ1bU9xWEVVakpIYUNRTGYwRmJEQWxZRUZnY1NqbHhTcC1iekFDTWpVNUJzZWZMRFZ6Ync?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Mirror",
+   "source": "Fox News",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:51:00+00:00",
+   "date": "2026-11-23T02:34:57+00:00",
    "coverage": 1,
-   "topic": "Politics",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "a872129e7b",
-   "title": "Pillayan Remanded Until December 7 Over Batticaloa Murder Cases",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0x6Q1JvdXh0T1NRTTdURmJLX2F2U0N6Nkh6QTVOOU1pMUJpRklSRHBGa2lUVHBaaW1mcXo0NUd5ZUZKam13TE9YV0hFV185RlpqWHk1VW5mT0FESkNhS1hFX2pPalpZXzhWVU5BY3JFRXVYUTNnWUlLWnhLVGR0MngtYWd3Q19IWUd1MTNSMDVhY21EWlhZREhvWjZLXzJ1?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Newsfirst",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:59:00+00:00",
-   "coverage": 3,
-   "breaking": true,
    "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "Batticaloa",
-    "flag": "🇱🇰"
-   },
-   "more": [
-    {
-     "source": "Hiru News",
-     "title": "Pillayan remanded until December 7 over five alleged murders in Eastern Province",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkdXeEFXX05zME8yT3ZlaXRJRThFNTVSVkFjWkEta1duQnpucXdPQXZ6TlpwREoyTGV2c1ktUE1rR3Y3M3hNUEQxU3Btb0xlYWlRZF95RVFxS3E0UDM3QVFibGNXLXRYeXNoak40Mm9iLUFMMlJtaU9tcmpWcGtVdDY3VndlR05QVFIxWG11Y1VaOEpOTUVnNHVlOHlPUWR4WnZJcjVwRGJKclIycjdEV2w3Tkd6Zw?oc=5"
-    },
-    {
-     "source": "Ada Derana",
-     "title": "Pillayan and two others further remanded until December 7",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OMXpjR2VROUcyeFVQM2tNUlNrWV9qWUY4RE9HMkpvTmlhXzEydkhVaGhWSDA5dTlxdUk1M2VOdllTa3ptSHZJ?oc=5"
-    }
-   ]
+   "location": {}
   },
   {
    "id": "4410b11247",
@@ -797,43 +823,18 @@
      "source": "The Island",
      "title": "President meets Thai Deputy Prime Minister",
      "link": "http://island.lk/president-meets-thai-deputy-prime-minister/"
-    },
-    {
-     "source": "Daily Mirror",
-     "title": "Sri Lanka, Thailand exchange visa-free travel agreement",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZktySlAtVHFyVEdSTnBpRzJ2d2JhWTE1RTdiSEZkOEt3NnMxdUpudGJYcU43VVFPaWpvM3YtU19tU0I1YmdXdEgySDB6NjBDSmpEVjhDR3gzRGFVX2NxNjVhSmNBV3c5RTJEMkZzY01FT0tjbkhSZGFjdEFlQWhfVWJNcG9idmR4M1FkY2JVaDdxdkJGaXB0VS1jemJqalJoWGwtOTd3SWhTT2tkZ3Q1MjR3?oc=5"
     }
    ]
   },
   {
-   "id": "880214d745",
-   "title": "Spacecraft enters Mercury orbit for first time in more than a decade",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFlwcTlDbXJJY1RSOG5nMWJMSnA4SUhIbDFXSzk3VzdfeEpXMkJRSGJRU0I1RWJTOXhWZDFiRC1WemZOZjRMVGpCWU5wS196RnZkTHFJeWo4SGlYbWlsd1hBMkxxU3VTdUJrUDBWdm9UaFFZemU0SWtQdUFxR0ZoMWkzdVZjY3FBeHk0LVdaYTlxdklOVXRJTkJ1UVc3T01JVzVRNXhqaEhLc2F6anN5NDJZcw?oc=5",
+   "id": "4e2fc56849",
+   "title": "Fields of graves: Hidden deaths reveal scale of Ebola disaster",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlE5NnFHMFEzZi1GQmhXQXlJWjJDTEl0aVNEb1VNdHZQRzJSWXpUUndSRkV0WXpjR1M0eHQtRFFrX0ozOTJDTTNBNDBsLWlzNXdOVDl5M1FwNC1vSllHaExHeVVjZGxCWmNMTndLX3pqT1NScWVXSHdRaHdlRFBVblFMRWY0c1lpcGJEakpaZUkxT3FDZUNHMDluVVFjZkZUMTZ0SHNSbGd0UQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "Reuters",
    "region": "sri_lanka",
-   "date": "2026-11-23T02:45:00+00:00",
-   "coverage": 2,
-   "topic": "Society",
-   "location": {},
-   "more": [
-    {
-     "source": "Reuters",
-     "title": "Spacecraft begins orbit of Mercury, with a glitch reported",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY19EQkgzcWxJMDg3NUxKeFRER0NLRlRsTFN0TGJEelRLZ2xhYi10MTgtNm93R1FOblRBMDRUbTZkaUpORFl1bWVTYlh3bThiQzJDeUZLZkpaTWJ0QlpMV19HVHFzbzZzZFBtN1BzVUVsNFRZcFFka2dlRDNIZEFDMWt2TG5BNWhQZkdPUWhEUnp5UUNKbUJSeTNDd08?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "931105d5fb",
-   "title": "The so-called ‘Bloc’ wants power. They’re still figuring out how to use it.",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNTlVM3A5a0RaMGsxVlJxZE5rVHJPRUNvQzh0NU1DS05pdWhSUUk4SVltczdxWjNDdm41Y2hFdGs1TVY4SnhtN0hsbzItNlVqS1RmTTRIaXpINGp4RC1CN1lhV0dCRk9fWUtTMG9GNEFWT2I5czJZeTVkM3VjWkJBRGZ0bFc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Politico",
-   "region": "sri_lanka",
-   "date": "2026-11-23T09:45:00+00:00",
+   "date": "2026-11-23T06:00:00+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
@@ -856,34 +857,133 @@
    }
   },
   {
-   "id": "c21017fcd2",
-   "title": "Gold climbs more than 2% as dollar rally pauses",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5",
+   "id": "618705ae0d",
+   "title": "Nvidia reinstates Jensen Huang as CEO, reversing board’s earlier decision",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczVreF9DOENyNGNIdUQ5cTFWbHRuLU9fZEVOZGRXR1VXZmdtOFg2aGx3ZzlhSy1pTW1uVlFVb1h2TkI2R09SdEFUc2E3c19kazVQQk44d2NWMDVjc0N2WkN5QnhqSXZXM1JZcEk2YWpOeU1pZUtOWDB2Y2kyV1B6ZkEzTkd2NjZwaUt3UlBxN0F5bXFlT0NKSk90MWNJZWQwNEFCc2tuY1Q4Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T05:49:00+00:00",
+   "date": "2026-11-23T14:19:44+00:00",
+   "coverage": 9,
+   "topic": "Tech",
+   "location": {},
+   "more": [
+    {
+     "source": "Reuters",
+     "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5"
+    },
+    {
+     "source": "Newswire",
+     "title": "Nvidia reinstates Jensen Huang as CEO after Chinese spy affair controversy",
+     "link": "https://www.newswire.lk/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-after-chinese-spy-affair-controversy/"
+    },
+    {
+     "source": "The Guardian",
+     "title": "Jensen Huang reinstated as Nvidia CEO",
+     "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+    }
+   ]
+  },
+  {
+   "id": "6395622000",
+   "title": "Peliyagoda Fish Market to be transformed into world-class facility",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QYWtQQy04NnlTZ0t3bk5IY3RwcGg0THpDX19jdk1xRUZHQzdaRUNKZTYwQ0xEX0pnTnU0UXdHbS1nZDJhYXpj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ada Derana",
+   "region": "sri_lanka",
+   "date": "2026-11-23T14:23:18+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
   },
   {
-   "id": "c0a47a0185",
-   "title": "Oxford College Of Business Earns Dual National Recognition Among Sri Lanka’s Best Workplaces for Women and Parents In 2026",
-   "link": "https://www.newswire.lk/business/oxford-college-of-business-earns-dual-national-recognition-among-sri-lankas-best-workplaces-for-women-and-parents-in-2026/",
+   "id": "fa2e052b0b",
+   "title": "Sri Lanka to face Ireland in ICC Women’s Emerging Nations Trophy final",
+   "link": "https://www.newswire.lk/2026/11/23/sri-lanka-to-face-ireland-in-icc-womens-emerging-nations-trophy-final/",
    "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/OCB-R6II8572-1.jpg",
+   "image": "",
    "source": "Newswire",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:26:49+00:00",
+   "date": "2026-11-23T14:33:50+00:00",
    "coverage": 1,
-   "topic": "Business",
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰 🇮🇪",
+    "also": [
+     "Ireland"
+    ]
+   }
+  },
+  {
+   "id": "2cc48af38f",
+   "title": "Sri Lanka hopeful of securing RCEP membership: Foreign Minister",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmpTeUtjVHFuelF2N2poVmI2NElKMVJwRmFHR2JqWGhCRkl6UkZzRzluX0NlajRTOTdWX2VoN2hqWTdBc1psRy10MkQzbVZhcXdRdzRPLUM3YnhxZkMwTkVUYklaeXFPU1M3c3ZQZ2Y3ZV9HcU40RE91ellVREtSY1hNWEdHTHViSDQ5bF9tcHlIMXBrbmEyUmEtZ21SYWdLQWwxXzZoNk84WVBsUnpfM3FNcVM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:56:00+00:00",
+   "coverage": 1,
+   "topic": "Politics",
    "location": {
     "country": "Sri Lanka",
     "place": "",
     "flag": "🇱🇰"
    }
+  },
+  {
+   "id": "f4ec079377",
+   "title": "Sri Lanka rupee at 332.45/60 to US dollar spot, bond yields rise",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjN1ZGNKX2NuNk5kSlBtRGJOaUlEUUMzWTFBcWs5Nm05NnB6cXI0Z1l1dDhrTnRLSVIxUERvVzY0alZDTFpwR2xVMTZJbG95aFp1cENxdzVjdlBoM3lrYVR3TGJnVDRWcy1UREpOT25KbmhCSzhMcGlseVhSc3BxT3k1a0wxazAyZ3Q0SjUwX1h5a3VYT1FXM291WQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EconomyNext",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:16:56+00:00",
+   "coverage": 1,
+   "topic": "Economy",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   }
+  },
+  {
+   "id": "a872129e7b",
+   "title": "Pillayan Remanded Until December 7 Over Batticaloa Murder Cases",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0x6Q1JvdXh0T1NRTTdURmJLX2F2U0N6Nkh6QTVOOU1pMUJpRklSRHBGa2lUVHBaaW1mcXo0NUd5ZUZKam13TE9YV0hFV185RlpqWHk1VW5mT0FESkNhS1hFX2pPalpZXzhWVU5BY3JFRXVYUTNnWUlLWnhLVGR0MngtYWd3Q19IWUd1MTNSMDVhY21EWlhZREhvWjZLXzJ1?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Newsfirst",
+   "region": "sri_lanka",
+   "date": "2026-11-23T10:59:00+00:00",
+   "coverage": 3,
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "Batticaloa",
+    "flag": "🇱🇰"
+   },
+   "more": [
+    {
+     "source": "Hiru News",
+     "title": "Pillayan remanded until December 7 over five alleged murders in Eastern Province",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkdXeEFXX05zME8yT3ZlaXRJRThFNTVSVkFjWkEta1duQnpucXdPQXZ6TlpwREoyTGV2c1ktUE1rR3Y3M3hNUEQxU3Btb0xlYWlRZF95RVFxS3E0UDM3QVFibGNXLXRYeXNoak40Mm9iLUFMMlJtaU9tcmpWcGtVdDY3VndlR05QVFIxWG11Y1VaOEpOTUVnNHVlOHlPUWR4WnZJcjVwRGJKclIycjdEV2w3Tkd6Zw?oc=5"
+    },
+    {
+     "source": "Ada Derana",
+     "title": "Pillayan and two others further remanded until December 7",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OMXpjR2VROUcyeFVQM2tNUlNrWV9qWUY4RE9HMkpvTmlhXzEydkhVaGhWSDA5dTlxdUk1M2VOdllTa3ptSHZJ?oc=5"
+    }
+   ]
   },
   {
    "id": "2b0ba33d59",
@@ -899,35 +999,6 @@
    "location": {}
   },
   {
-   "id": "3b2dd4fb77",
-   "title": "Sri Lanka’s national inflation rises to 41-month high of 8.5-pct in October; transport leads",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcDRmdHFPdU1UM0tvVU40VEVnOVhaVG1mOXd2NlZFTWZxek5DVDI2dzRaRzIyUnBFWldOX091ZDZPM2o3Zzd6Z29rbURJdHB1MkdRd0NiU1lVVVFMVDZWX0FHRW5zZ0dfMk9KOTdpb0tyUWJnc2lSSUdRLWlHM1VwSTdRMGFsN1F1dnFmVmpzb1RZYmxjSEJvSEFxd09Tejg2RGM1YUdSelphcnBRVXQyaG9EQ0VtLVlBc2VrUzBucw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EconomyNext",
-   "region": "sri_lanka",
-   "date": "2026-11-23T12:12:26+00:00",
-   "coverage": 3,
-   "topic": "Economy",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   },
-   "more": [
-    {
-     "source": "Newswire",
-     "title": "Sri Lanka’s inflation rises to 8.5% in October",
-     "link": "https://www.newswire.lk/2026/11/23/sri-lankas-inflation-rises-to-8-5-in-october/"
-    },
-    {
-     "source": "Hiru News",
-     "title": "Sri Lanka’s national inflation rises to 8.5% in October, driven by transport and non-food costs",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnkzeEp4RjFFWW8zTE9DZzNrMkFPWFlWamRRX082bkhXVHVLdE1WeUhaeWVpUW51aWpuX095SjFJaThXb3NlZUNjejVOdGlybUowc0g3bkVSRVV0aDlMSUJYUUhSdkpyaGJKVFJvTE0wNU5TbVBsYVlGSlRodjE2bnhwRGItbzBzakF3eVJuUFJsOVNET056RTZQYmNuTk9MR3lzWmR0S0JaY2NZQ0o2bXd1SUlyZnhDOXpRdnBlbm13MFFWbEE?oc=5"
-    }
-   ]
-  },
-  {
    "id": "5d76c5a124",
    "title": "1,100 acres of reserved forest allegedly earmarked for release: Activist cries foul",
    "link": "http://island.lk/1100-acres-of-reserved-forest-allegedly-earmarked-for-release-activist-cries-foul/",
@@ -936,19 +1007,6 @@
    "source": "The Island",
    "region": "sri_lanka",
    "date": "2026-11-23T00:06:48+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "c2875a8226",
-   "title": "Under-19 Division One Tier B Final: Defending champions St. Benedict’s and St. Joseph Vaz in clash for title",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVXYyQk5wXzNNSFpFU2tHM09WNkJLTEtCMF9kQ00wNDJDZXlrVy1tc0QweWFuczYzWm1ZSHRRVGFLTnlrOVJ5X0ZyN1piMUtMRURTdi01RDEteVZzWXpqeXM2SU1SV21mLU1XZWlJOVR6VlBtcGJrZnVYUU9ZWUp4VUNvUHhvNHFFM3BvenRGWTBnbFA5OVIxWVhBaW9zY3ducjdhQ0s4YTZLVE1rQjB0R29HM0l0U2NrRnFkVDE2MnVYdUtHOTRpV0RSTHFHeG5JbWNHaEhzUkY2amxRWDFyaVZRdGJBdmN1WVh3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Mirror",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:23:18+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
@@ -987,77 +1045,75 @@
    }
   },
   {
-   "id": "020a7921db",
-   "title": "Road accidents claim 2,463 lives in Sri Lanka so far in 2026 : Police",
-   "link": "https://www.newswire.lk/2026/11/23/road-accidents-claim-2463-lives-in-sri-lanka-so-far-in-2026-police/",
-   "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot-2026-11-23-180309.png",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T13:13:52+00:00",
-   "coverage": 1,
-   "breaking": true,
-   "topic": "Politics",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "7ba4b1fdbc",
-   "title": "Court to deliver ruling on bail application of lawyer accused in Ganemulla Sanjeewa murder case on December 3",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOU9QSjRNa29aYlRhLVNpSTk2b21JYUsxZ3B5clFpRjhpejZPRTRYTl96bHVpWk5FOHVPV21XbnNuWnVCSHhWTW41TFlvXzRQT2tYdUx6b1ZoNklIUy1hM3lfX25lWEo0ajkzSFR4UGFkRV9PcUVvZWk1TEZaaS1wNFhmUng0X3dZcUlZTmlpaXVqT2ZmMUotVzBMbnNFRzRSNTkwaFhHZzdHdnZXeGQyemFkYkpfMFlfcTEwMlZWN0E0VUFZWm5EMTZfQWowOVdkTU9iOXNFY1k3bDVu?oc=5",
+   "id": "cb19347e15",
+   "title": "Trade Minister warns of price controls if goods prices are increased",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFY0NzdqWFpKUng0dXhubjk0enpmZUY3cnlBbXpjNU9oRVUwaHpWVkNfRGR3Ni13VXdJLXRZSF9WdDltZUtxTDdGUHFnUlVtMktiQUdyS2lYRGNHS3hqcnJqeW5faGEwcUxzLUFGb1BLSXhHYklBcHkwbnFleHJnZDhvZTRoOVhJalMwNFp6Z1NuaG1mQ0c3enRvdlF2d2hWazdUNnA3WVVVZw?oc=5",
    "summary": "",
    "image": "",
    "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T12:56:15+00:00",
-   "coverage": 1,
-   "breaking": true,
+   "date": "2026-11-23T14:19:44+00:00",
+   "coverage": 2,
    "topic": "Politics",
    "location": {
     "country": "Sri Lanka",
     "place": "",
     "flag": "🇱🇰"
-   }
+   },
+   "more": [
+    {
+     "source": "Ada Derana",
+     "title": "El Niño conditions in India may push up prices of some imported goods – Trade Minister",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NRVQ3U0g3SjN1OVk3MjFFblRvXzVQS1lKbnREaUtQRm90d3ZvT0t5MzlWMTdPZ1ViRVRBbWQ1Z2RMem5yeHdz?oc=5"
+    }
+   ]
   },
   {
-   "id": "82ef32f8c0",
-   "title": "Sri Lanka’s Dr Asha de Vos appointed Fellow of UK’s Marine Biological Association",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41THg0dUdMOHRiUjZaRWJXRklqSHJXNnF1dUpZamJqckxnbnByenVKSUtLNG1MTXM3a0gxNHZmQUZEaHFjd1ZV?oc=5",
+   "id": "a847d9704b",
+   "title": "Sri Lanka’s garment industry gets green boost through EU-funded project",
+   "link": "https://www.newswire.lk/2026/11/23/sri-lankas-garment-industry-gets-green-boost-through-eu-funded-project/",
    "summary": "",
-   "image": "",
-   "source": "Ada Derana",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/1000019556.jpg",
+   "source": "Newswire",
    "region": "sri_lanka",
-   "date": "2026-11-23T12:08:46+00:00",
+   "date": "2026-11-23T14:04:19+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {
     "country": "Sri Lanka",
     "place": "",
-    "flag": "🇱🇰 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
+    "flag": "🇱🇰"
    }
   },
   {
-   "id": "8db53fb537",
-   "title": "Sri Lanka lawmaker questions central bank rate, SRR hike over debt costs, SME hit",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1l5QmJMR2tiTW9hMENieTVDMnJvSlFUcEJzWDVUSlF4SDB1ZktNeW5xX0JMVmFzS294QzNkTEN4Y2ZvMjJMbDN0bGs1TTNRRTlMbEtQUDkwbUdqck1SWDhoTHpQdmV4NmpScXBiWDFweVMtTGhxNC1xMmdrUjJVOGhMV3ZVZHJvUXJDMVdlWThPUlMxS0F4SENYbk84LTJxSlNUTG5BaFE2aUc3am5PUg?oc=5",
+   "id": "b97be97bc3",
+   "title": "Chamara Sampath, Deputy Minister clash in Parliament over Ella tree-felling allegations",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUlVOWmN5Z3AyYXhPbDRNTTQtUi1GWmV3TEQzNFRaanhudFZXTi1oQ2IxYlUycTMtdlI0ZmNvUkZUQzdOdmNqdk5VbV9HOW1vTE5rOGpidHFzaGVCYUFKNmI0eVpoOWdiN2tRb0xHY05ybmN0cGFwRF9Xa1RsWHQwWG1lbTlwU0pVTm15NHZHWkhSbWw0bHVsS2N0bmp0UzVOamJ0TVUzb0JBZHNYbnVtakhvUldzYnJsTUpfZ3RHZmRTLWRxQmJVZ0ZoWHg5S0ZOQl9OTg?oc=5",
    "summary": "",
    "image": "",
-   "source": "EconomyNext",
+   "source": "Daily Mirror",
    "region": "sri_lanka",
-   "date": "2026-11-23T12:11:15+00:00",
+   "date": "2026-11-23T10:51:00+00:00",
    "coverage": 1,
-   "topic": "Economy",
+   "topic": "Politics",
    "location": {
     "country": "Sri Lanka",
     "place": "",
     "flag": "🇱🇰"
    }
+  },
+  {
+   "id": "01238907de",
+   "title": "Sierra Cables public stake rises to 49.72-pct after Rs1.23bn share sale",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlE4NTF6NG5nQm1uWk5WR0xabG1CTEFuZ25uQzBOYUJLWUZTdmU1SnlYWEtBNEVjV2lGYkFGYUlIT3pUa3VtS0hhc0IyU3RNS2JkWTVsVjY2cFVvdXlpWmNONGRzZXdrTWFiNFpaUTFJdlZmSUc5bF94NWgxdVAzbnY2M0NMcmFuM2trUVJ1ZmplTHB5RjJDOXEwdE5DVHcwb0k0c3dR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EconomyNext",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:07:30+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
   },
   {
    "id": "2f99a3744b",
@@ -1077,17 +1133,61 @@
    }
   },
   {
-   "id": "77e5698ec0",
-   "title": "Veteran athletics administrator and former middle-distance runner Oliver Fernando laid to rest",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMjFDWk1zZU9qVS0yTHVrTndzQ2pPSkdlakFjVWEtV2gxdGRYT3BRcnhtZlI4TUtZR281NjBrS01wUEtkbHBHd1NrQnRQc1lHVzRYM2ozTC1sNzhhODFtR1gwQzAtZ2JqOW1BSlpXZXBsaTd5eXNUbzF5T3VfVDBrcWI2SGdhQ2tsRkRoT2k0RW9JSDlrUVdLdkl3c1JaQUtfRV9kalN5TEFrUy1HSFlSVi1VcWNGaWFfZ2g4c0dHb2kyMmhaMWJoUmU4b19NaWkxel9vWUhhN1JNQU5xcnc?oc=5",
+   "id": "d41d0e7848",
+   "title": "Advisory issued for severe lightning",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLeDdlY0t1OEstR2FnQzdlbE5XRDcxZ29KYWJWSzBTSmNhdm9ZS0ZBUlVqLXRWTU1sQWhmWS04SHdIWkhNNTRn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ada Derana",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:54:31+00:00",
+   "coverage": 1,
+   "warning": true,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "f63f70e176",
+   "title": "4 new apartment complexes to provide homes for 2,286 low-income families",
+   "link": "https://www.newswire.lk/2026/11/23/4-new-apartment-complexes-to-provide-homes-for-2286-low-income-families/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261123_194651_WhatsApp.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T14:01:07+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "9c5531b9c4",
+   "title": "Zimbabwean Pastor Uebert Angel arrested over sexual assault",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2tFdkJ3em1kaHR2M0NhdTdmVnpCY2RQbHl2d3RJTnU1RzB2TEdaZjBzYVZYNGNid1JRRzZJTnNzNnNsZ1RXNk44U1I5ZlhRaXZFcnNwdXFpX3FhWFNFSjlrUzRxUDlaYVNhWkI2QXB2U1NRUjFOTnN2ZXROeHVPdVVKUzZGSnVZc1VmUnpWMmF4T3lVUlh1bFlCQmhsamxfQTEzMUxTTkNIZlVnZ3AxbA?oc=5",
    "summary": "",
    "image": "",
    "source": "Daily Mirror",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:23:18+00:00",
+   "date": "2026-11-23T10:27:00+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
+  },
+  {
+   "id": "8db53fb537",
+   "title": "Sri Lanka lawmaker questions central bank rate, SRR hike over debt costs, SME hit",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1l5QmJMR2tiTW9hMENieTVDMnJvSlFUcEJzWDVUSlF4SDB1ZktNeW5xX0JMVmFzS294QzNkTEN4Y2ZvMjJMbDN0bGs1TTNRRTlMbEtQUDkwbUdqck1SWDhoTHpQdmV4NmpScXBiWDFweVMtTGhxNC1xMmdrUjJVOGhMV3ZVZHJvUXJDMVdlWThPUlMxS0F4SENYbk84LTJxSlNUTG5BaFE2aUc3am5PUg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EconomyNext",
+   "region": "sri_lanka",
+   "date": "2026-11-23T12:13:08+00:00",
+   "coverage": 1,
+   "topic": "Economy",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
   },
   {
    "id": "7cd63bf532",
@@ -1107,60 +1207,6 @@
    }
   },
   {
-   "id": "77264e50b1",
-   "title": "Supreme Court concludes hearing on Nuwan Bopage’s fundamental rights petition, verdict deferred",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlpZYjZNVkI4THRDcnNTVmlXbEQ1VGxjQ002cS1GSmlyQ3dvUmZaWFJRd0RxNENPT2JLWDFZdE5jeHg2WENtSG42dm80aWU5SjZxa2xqSkc0ZkdzaVpWV2JDakMwcUJVaW5iVWFqbnpJbW40Q1lfU0FCMGJQRTVSSm84SzJLNEM0bGhfcU5lUThhckFyVVdtd3I1OFJlOThMZUtZYVMxcXJTd0FtaXJWUWtEblNSQzJHMG9VZFRKekNraFRySlFn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hiru News",
-   "region": "sri_lanka",
-   "date": "2026-11-23T12:23:12+00:00",
-   "coverage": 1,
-   "topic": "Politics",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "f07b6dafee",
-   "title": "Postal service exceeding revenue targets but remains unprofitable, says Deputy Minister",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZERZRVZmekdxTVVpNFQ1NVVjV2tYcW9xMzZFOGdqRW5oYk5RQ0tUQ0NmRU1tZUxTUU5OYlVyQzhrLVEweVJn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ada Derana",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:28:43+00:00",
-   "coverage": 1,
-   "topic": "Business",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "ce760eba2f",
-   "title": "Sri Lanka rupee closes at 332.55/60 to US dollar spot, bond yields rise",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOElwRy1GM2FvYmpqTmFuOFhrd3hDSGFQQTdKQkJQckVaZzJfYU9uNVhZOUxnZU1nWWhWeTdob0NHd3hfT2hWVE1aamRRbFJ1dXF0aXU5WUpfMW9NUDllTXp1SEdJLW9oZEFVeVQ1c1NUYWJDQkJGYmtGR1JLWkR0VkpPZnNpVGpyMllWZkJEQnlYLXQwdmhmZENuWV9RdVE2QjdveQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EconomyNext",
-   "region": "sri_lanka",
-   "date": "2026-11-23T12:08:27+00:00",
-   "coverage": 1,
-   "topic": "Economy",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   }
-  },
-  {
    "id": "72f65bf8c5",
    "title": "Jaffna Uni clash: 21 students remanded till 26 Nov.",
    "link": "http://island.lk/jaffna-uni-clash-21-students-remanded-till-26-nov/",
@@ -1174,36 +1220,6 @@
    "location": {
     "country": "Sri Lanka",
     "place": "Jaffna",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "3561235020",
-   "title": "Dilshan Mendis: Coach with the Midas Touch",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUTBpa2s3bXpFWGFVOXh6eEdhR2pVWDQ0eERYWFI1eHo3d1J3MEJMUjVEVzRTM1RuaE4ybzJBVHA5SFdBdmZ2TkZiWTRfN29PTzdSOE92djNWOEV5T2ZJaVlsS1A0MEtzTzhvcDNEOXoycHVRQWJ1OVhHbHZuem5QZTFsSzhNWG1fU3NvMFNVd1BEVzBLem9R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Mirror",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:23:18+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "066d8ce0d2",
-   "title": "Sri Lanka Pushes Ahead with GSP+ Discussions",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVi0xTjJBNXdtVXNHemZzMzYtdkxNMm5VY2RsQVhtODgzUUdwMXBnRzY4SF93YmlzS281Nk4yRnNVYTF1Nzk2ODdPTHA0a2h5MXVUU2JDd1JDV0Q3MmVKa01INVg5YjU4N21xcEw0R0pQZGhUb1Q0Uy16WndSMzZyMWpnbnR6dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Newsfirst",
-   "region": "sri_lanka",
-   "date": "2026-11-23T06:57:00+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
     "flag": "🇱🇰"
    }
   },
@@ -1225,56 +1241,111 @@
    }
   },
   {
-   "id": "ce70ea8110",
-   "title": "Colombo District ‘A’ crowned 2026 junior national netball champions",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1hWU29FZlFlLW1Ud1ZuOEU5X0ZzNWs1dF9EZjZkSVNZeHU1a21LbmNZZ3NhVjkxSkpjeXVEV1E4S19nUWlvdWVHVzFCWGZ2SUQyZWZHWkFEd1FFR2NjRDY2eGk4OVhEd1NRbXROb3RCclROY2VsZzZKMDZRZU5OT2tac3lnblBKaWJWbTZLRmdlazhRUC1Lb1BObktDN0VMVF81OGhRbngzOWs?oc=5",
+   "id": "72f14d12bd",
+   "title": "Maximum class sizes set at 30 for primary, 35 for Grades 6–11 and 40 for A/L, Prime Minister explains new education framework",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUHN1N1p3U25ONUNlTUR0U2gwSXhBc3ZwZlJFa0h4Q0JOSk5UQ3NOcHdrZ1JhWlNxSFNNYkJoTTRKVHA2LUZIb0JhT284SWFlNTVQd0pVRzJ2Sko5R3lHUWhkVW5KcXRQOXdIMmEybldlcVRtVUFLVGVYS21jM2NaVG1MTV9ROUF4aWJXMEpkd2ZEbUR4RnRBc3l3ZmxfeTJpc2drUjZ3MVI1Mk5CN21TNEt0ZVpydUpkaVo3UDVjSlg2a1BpOC1qVDVPMEUzM09GbHluUzdYR2ItNmxwellmSm5GODg5SUJacjAxVFJn?oc=5",
    "summary": "",
    "image": "",
    "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T12:06:52+00:00",
-   "coverage": 2,
-   "topic": "Society",
+   "date": "2026-11-23T13:52:30+00:00",
+   "coverage": 1,
+   "topic": "Politics",
    "location": {
     "country": "Sri Lanka",
-    "place": "Colombo",
-    "flag": "🇱🇰"
-   },
-   "more": [
-    {
-     "source": "Daily News",
-     "title": "Colombo ‘A’ Junior Netball National champs",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUdzei05RVRUclJVaWZyS1pMU3NVZ3F1eUppRVFET1h1bHE4NlVfOVVSSU91Q1lJUjUzYWk5bzdweDd5TWFWYzk1VnNKd2dia1B0YXM5VUtNU1hDUHFPNlYwV2g0aV9NM1F0YjhvVTFkYnAxOV93THU3RF9Id1l5bHcwei12TzhIVFRrQ3BLWURaZw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "bc405fd5da",
-   "title": "Duo arrested with five elephant pearls in Matale",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiQm04Umx0cUYyazl1a3dyelBYM2lHMjN3X01iSkJjbXBYNTZnejg1VEhpaEZKbFI3V0c2Y3dDUzVvRGNOaVVR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ada Derana",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:28:42+00:00",
-   "coverage": 2,
-   "breaking": true,
-   "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "Matale",
+    "place": "",
     "flag": "🇱🇰"
    }
   },
   {
-   "id": "16b99edad4",
-   "title": "Sri Lanka stocks close down 0.60-pct, turnover Rs1.05bn",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGxORGJmWW84alZ2dy1GNzhzSjFKTE1weWM3c19QMkUwTDRoUUdQX25OMV9US1d6TUFkbjB4UER4RzF0TnM2RUFEd3VBaGpldWpkSl92dlRaN05LZnhoZ1NnRHlLd1doVGV5eFh1OVhYSjVVWXltNVFWVWJTV1podkkyQTdyV0dLMElFNW81VQ?oc=5",
+   "id": "118dc7f86e",
+   "title": "Heavy showers above 75mm expected across several areas tomorrow",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OZnpsR3JyUzQzSXJJemtaaFl2b09hTV92WU14Q3NDLWhTTmVBMTM1UmJMSklfd1FMeFJFdEtWM2JGWFo3WDJR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ada Derana",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:54:16+00:00",
+   "coverage": 3,
+   "topic": "Society",
+   "location": {},
+   "more": [
+    {
+     "source": "Newswire",
+     "title": "Heavy showers expected across several parts of Sri Lanka over next 36 hours",
+     "link": "https://www.newswire.lk/2026/11/23/heavy-showers-expected-across-several-parts-of-sri-lanka-over-next-36-hours/"
+    },
+    {
+     "source": "Hiru News",
+     "title": "Showers expected across several provinces today",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUdSa19uQ2VycE9rTmhTc0drcnVNZkFYSTFqU21DQmQ4YXo1ckxJRGdKeUh6VF9lNFlZRkNjZ1BELUYxVDhHYUN4TFUxVlF3MjNmWlJ2UG9adFlYdXJNRTk3VTIzdXNJeWhMbnowcDd1WUoyOWRRcEgzV3IzX3FuT0JiX3gyS1UwUUxHVzdn?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "93c7c450df",
+   "title": "Today’s News Digest – November 23",
+   "link": "https://www.newswire.lk/2026/11/23/todays-news-digest-november-23/",
+   "summary": "",
+   "image": "",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:49:11+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "db63e8b883",
+   "title": "Harsha proposes Asian Ocean concept",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3BNa3pRVGVwUDZWZ0gwMHRvZmVNMEJDYThpaVh5dXFsd2llMTdlTmFqSWxyLWNYakRYMTZCeTZCbmdHbDU4ZFdzd2MyM2ZaQ3lUTVdWNXpOS09nRzRrTHFPeTE1eE1NUWt4Z1NlODZkanBZbFVYZ3hoaFg2VWdrUUFiU2g4bmdTX2c5QUd3WEw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T10:19:00+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "3b2dd4fb77",
+   "title": "Sri Lanka’s national inflation rises to 41-month high of 8.5-pct in October; transport leads",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcDRmdHFPdU1UM0tvVU40VEVnOVhaVG1mOXd2NlZFTWZxek5DVDI2dzRaRzIyUnBFWldOX091ZDZPM2o3Zzd6Z29rbURJdHB1MkdRd0NiU1lVVVFMVDZWX0FHRW5zZ0dfMk9KOTdpb0tyUWJnc2lSSUdRLWlHM1VwSTdRMGFsN1F1dnFmVmpzb1RZYmxjSEJvSEFxd09Tejg2RGM1YUdSelphcnBRVXQyaG9EQ0VtLVlBc2VrUzBucw?oc=5",
    "summary": "",
    "image": "",
    "source": "EconomyNext",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:53:04+00:00",
+   "date": "2026-11-23T12:12:26+00:00",
+   "coverage": 3,
+   "topic": "Economy",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   },
+   "more": [
+    {
+     "source": "Newswire",
+     "title": "Sri Lanka’s inflation rises to 8.5% in October",
+     "link": "https://www.newswire.lk/2026/11/23/sri-lankas-inflation-rises-to-8-5-in-october/"
+    },
+    {
+     "source": "Hiru News",
+     "title": "Sri Lanka’s national inflation rises to 8.5% in October, driven by transport and non-food costs",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnkzeEp4RjFFWW8zTE9DZzNrMkFPWFlWamRRX082bkhXVHVLdE1WeUhaeWVpUW51aWpuX095SjFJaThXb3NlZUNjejVOdGlybUowc0g3bkVSRVV0aDlMSUJYUUhSdkpyaGJKVFJvTE0wNU5TbVBsYVlGSlRodjE2bnhwRGItbzBzakF3eVJuUFJsOVNET056RTZQYmNuTk9MR3lzWmR0S0JaY2NZQ0o2bXd1SUlyZnhDOXpRdnBlbm13MFFWbEE?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "066d8ce0d2",
+   "title": "Sri Lanka Pushes Ahead with GSP+ Discussions",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVi0xTjJBNXdtVXNHemZzMzYtdkxNMm5VY2RsQVhtODgzUUdwMXBnRzY4SF93YmlzS281Nk4yRnNVYTF1Nzk2ODdPTHA0a2h5MXVUU2JDd1JDV0Q3MmVKa01INVg5YjU4N21xcEw0R0pQZGhUb1Q0Uy16WndSMzZyMWpnbnR6dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Newsfirst",
+   "region": "sri_lanka",
+   "date": "2026-11-23T06:57:00+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {
@@ -1297,17 +1368,64 @@
    "location": {}
   },
   {
-   "id": "db63e8b883",
-   "title": "Harsha proposes Asian Ocean concept",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3BNa3pRVGVwUDZWZ0gwMHRvZmVNMEJDYThpaVh5dXFsd2llMTdlTmFqSWxyLWNYakRYMTZCeTZCbmdHbDU4ZFdzd2MyM2ZaQ3lUTVdWNXpOS09nRzRrTHFPeTE1eE1NUWt4Z1NlODZkanBZbFVYZ3hoaFg2VWdrUUFiU2g4bmdTX2c5QUd3WEw?oc=5",
+   "id": "6797148fdf",
+   "title": "Nighttime Closures at Ingurukade Interchange from Today",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEU4dE9URjhpeXV2SmY4TF96SVdsdUp0XzF0d04tX0JBbTkxUEJYSmc0aHVhcG1WclUyRG5HOUNIVURieFA3THp2SkxWXzJuelo3ZmIybXFKM3ViLVVWa2RmN29XcGlOU3JPd1pBaXUwNDI2dkFFMmFaRWRNTTRqRlZKNjRoZDJUbEVxUERXLUtqMWg4b2dNQk1rOW1lbk1NVUk2Qm93Rkw3bzlxMS1Z?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily News",
+   "region": "sri_lanka",
+   "date": "2026-11-23T06:19:13+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "143889eebc",
+   "title": "Egg producers agree not to raise prices during festive season – Trade Ministry",
+   "link": "https://www.newswire.lk/2026/11/23/egg-producers-agree-not-to-raise-prices-during-festive-season-trade-ministry/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/1000019537.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:41:59+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "793effc437",
+   "title": "Army rowers dominate Defence Services Championship",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNnVqY3p2OVZESGVSVmVfUl8zRml4c0dSbEdZYlcxTk5SRTBhb0xYVDgzbmZfTHA3cnRpRW8wdV9hZWlVS1VwblJnTDZWWVFoWVpkNmdnMmx5d1lWdGliTXFEWFJ1d3ctV09FRURjMGJuTnhuZFFiaEJkWFNRaEVGRXpPS19NQklUbW14NGhrOUlOLVdtajNHeGtYbDZwZlloWFBNZQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Daily Mirror",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:19:00+00:00",
+   "date": "2026-11-23T10:05:00+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
+  },
+  {
+   "id": "16b99edad4",
+   "title": "Sri Lanka stocks close down 0.60-pct, turnover Rs1.05bn",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGxORGJmWW84alZ2dy1GNzhzSjFKTE1weWM3c19QMkUwTDRoUUdQX25OMV9US1d6TUFkbjB4UER4RzF0TnM2RUFEd3VBaGpldWpkSl92dlRaN05LZnhoZ1NnRHlLd1doVGV5eFh1OVhYSjVVWXltNVFWVWJTV1podkkyQTdyV0dLMElFNW81VQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EconomyNext",
+   "region": "sri_lanka",
+   "date": "2026-11-23T10:53:04+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
   },
   {
    "id": "133f2f9137",
@@ -1323,96 +1441,6 @@
    "location": {}
   },
   {
-   "id": "6797148fdf",
-   "title": "Nighttime Closures at Ingurukade Interchange from Today",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEU4dE9URjhpeXV2SmY4TF96SVdsdUp0XzF0d04tX0JBbTkxUEJYSmc0aHVhcG1WclUyRG5HOUNIVURieFA3THp2SkxWXzJuelo3ZmIybXFKM3ViLVVWa2RmN29XcGlOU3JPd1pBaXUwNDI2dkFFMmFaRWRNTTRqRlZKNjRoZDJUbEVxUERXLUtqMWg4b2dNQk1rOW1lbk1NVUk2Qm93Rkw3bzlxMS1Z?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily News",
-   "region": "sri_lanka",
-   "date": "2026-11-23T06:19:13+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "25b302ab50",
-   "title": "Heavy showers expected across several parts of Sri Lanka over next 36 hours",
-   "link": "https://www.newswire.lk/2026/11/23/heavy-showers-expected-across-several-parts-of-sri-lanka-over-next-36-hours/",
-   "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/10/Rain-1.jpg",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T12:41:19+00:00",
-   "coverage": 3,
-   "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   },
-   "more": [
-    {
-     "source": "Ada Derana",
-     "title": "Heavy showers above 75mm expected in several areas tomorrow",
-     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XTzU5SzdOOHA0dzlIdVpRN25CaEN3NUMzRGMwcXR1OFQydURvOTBtNEhKS25zbW11cW9LbGI1MnRuZWF1N1Vn?oc=5"
-    },
-    {
-     "source": "Hiru News",
-     "title": "Showers expected across several provinces today",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUdSa19uQ2VycE9rTmhTc0drcnVNZkFYSTFqU21DQmQ4YXo1ckxJRGdKeUh6VF9lNFlZRkNjZ1BELUYxVDhHYUN4TFUxVlF3MjNmWlJ2UG9adFlYdXJNRTk3VTIzdXNJeWhMbnowcDd1WUoyOWRRcEgzV3IzX3FuT0JiX3gyS1UwUUxHVzdn?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "3c00197ade",
-   "title": "CSSL welcomes Budget 2027, calls for stronger digital skills agenda",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGVxRU0yQlF5LUtTbEJ0dVEwR1k5aTJCaThuZ2NvX0tKekE0WGcwX3B4cHNxWUdHZFVJemdPTmZobFFZcmJVMkE3aHJBN2RhbEFzVEIxQmlHUDVvQ3dIREMzenJzaUxIWDRiWkZGSmtvT2JqV2hMdERHYUlMN1hIRm9qZ0lGOC1rUWNPdDQ3ZTl3LWRfM3NfWDJ1OXRoZlZuOWktSDBDZ05CZHNOd3hZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hiru News",
-   "region": "sri_lanka",
-   "date": "2026-11-23T12:06:52+00:00",
-   "coverage": 1,
-   "topic": "Tech",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "d41d0e7848",
-   "title": "Advisory issued for severe lightning",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLeDdlY0t1OEstR2FnQzdlbE5XRDcxZ29KYWJWSzBTSmNhdm9ZS0ZBUlVqLXRWTU1sQWhmWS04SHdIWkhNNTRn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ada Derana",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:28:41+00:00",
-   "coverage": 1,
-   "warning": true,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "81a1524e97",
-   "title": "Foreign outflows from Sri Lanka rupee bonds continue for fifth straight week",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjZ4Tk5NT3B6ZFdhekQ3bHdEMkVvdDRGUjdoT1Z6UEJqRUI1OGtudEdHbHBpU2M5S29KZDFBekt3RU5CV1JXTzdONWdfY2JUbzZ0WDFuVFJadWhHUnlSVTJjU05uQ0ZlWWwxcm5kTkRyM0tJQzZsNHozM0FHQUNjLXRQeHg3UFM1RGI4cjFnYk5hZkMzVTFjd2x3VVJyZmUydXAwSURYNHE4YzJV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EconomyNext",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:53:04+00:00",
-   "coverage": 1,
-   "topic": "Economy",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
    "id": "fc24471541",
    "title": "Three Bills to be taken up during Budget debate",
    "link": "http://island.lk/three-bills-to-be-taken-up-during-budget-debate/",
@@ -1423,40 +1451,6 @@
    "date": "2026-11-23T00:00:22+00:00",
    "coverage": 1,
    "topic": "Economy",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "0bde0e4482",
-   "title": "Sri Lanka must learn to save its rain",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2RiVHFscnVKdFRkZDBmd21HRFZXNTQwaWg1QmMycWdneHkyM3RLcU5Cb2ZKMDBSd3JjeFRxNHZMWWhWZ2liaDJaZWdBOG9DbTdFQUwxbVg4ZExMZzI1SDJNUGlRY25RSTQtVUlOY1A1eWlZQURiZW9KZkJUSElMNXRNMk5iNkhuRWZVWkp1b2w0dFk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Mirror",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:05:05+00:00",
-   "coverage": 1,
-   "topic": "Weather",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "17628f69c1",
-   "title": "ADB Approves $200 Million Loan to Boost MSME Financing and Resilience in Sri Lanka",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOS12Q2FIYW44bTI4NmI1cGhPU1l0aENCSEZ4UzNPVnplVG90VGJJWTVqWlZUTEd5cG5idW9DNGx6bV9wN0YwRTcyOTlMSWZSRHJaQmpxanhkY1hEenZqNzJsYlVQTW1VRllnWFpObXNLaGlGd2IweTVRcHR5S1JCcGF6N3RWNVkxTTJ4M2NpSjhDVzlIS0MxSnRwZU1fRG5td2ZxNjc3MGNybDdKWXpjSm03SlRNZzNf?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Newsfirst",
-   "region": "sri_lanka",
-   "date": "2026-11-23T05:59:00+00:00",
-   "coverage": 4,
-   "topic": "Society",
    "location": {
     "country": "Sri Lanka",
     "place": "",
@@ -1484,16 +1478,17 @@
    ]
   },
   {
-   "id": "9183aceb2a",
-   "title": "Teardrop Nation Takes Sri Lanka’s Post-Independence History to New Audiences",
-   "link": "https://www.newswire.lk/business/teardrop-nation-takes-sri-lankas-post-independence-history-to-new-audiences/",
+   "id": "7ba4b1fdbc",
+   "title": "Court to deliver ruling on bail application of lawyer accused in Ganemulla Sanjeewa murder case on December 3",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOU9QSjRNa29aYlRhLVNpSTk2b21JYUsxZ3B5clFpRjhpejZPRTRYTl96bHVpWk5FOHVPV21XbnNuWnVCSHhWTW41TFlvXzRQT2tYdUx6b1ZoNklIUy1hM3lfX25lWEo0ajkzSFR4UGFkRV9PcUVvZWk1TEZaaS1wNFhmUng0X3dZcUlZTmlpaXVqT2ZmMUotVzBMbnNFRzRSNTkwaFhHZzdHdnZXeGQyemFkYkpfMFlfcTEwMlZWN0E0VUFZWm5EMTZfQWowOVdkTU9iOXNFY1k3bDVu?oc=5",
    "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/ZImage-1-3.jpg",
-   "source": "Newswire",
+   "image": "",
+   "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T12:09:44+00:00",
+   "date": "2026-11-23T12:56:15+00:00",
    "coverage": 1,
-   "topic": "Society",
+   "breaking": true,
+   "topic": "Politics",
    "location": {
     "country": "Sri Lanka",
     "place": "",
@@ -1501,53 +1496,51 @@
    }
   },
   {
-   "id": "dc1400e614",
-   "title": "Public consultations on labour law reforms begin in the Southern province",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEdGN2tXS0lfUVFGb1Z4dEJjN3JFUkc0U2NRWGJnbjJXYzNGdHhDeTQtbm9sYkVzbkJjbm5keTF0SnhMTHJKbW9JeXJidTBfcmNlNE1mUHhkREprZ2VuaDd4R3JVbHlMR0lsUWhsZGR3eVhXVWFlbjQ1T0ZyZnROMnV2WmV3Y1gtLTQ5UVNCUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hiru News",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:37:28+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "6bc26d5746",
-   "title": "DMT website hit by cyberattack; appointments unaffected",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sY041MDJSZTR2d2ptMy05MHhFa25TQTFMaER2OUVjZTdILTU4MVdBQ0tuMkhmWjRkS2NkZ1pTSm13MllmbVZ3?oc=5",
+   "id": "db7f1b7aa3",
+   "title": "Sri Lankan, Indian armies train jointly for counter-terrorism operations in ‘Mitra Shakti 2026’",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Ib1l6QkhEdVVaOEotRWRDLVdDQTBrYm40ZnlLSVNrQ3ZBbElNZkNuYU9ITEVKZGVsVmRBVUU2YWZuUFhFOThR?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:28:41+00:00",
+   "date": "2026-11-23T12:58:49+00:00",
    "coverage": 1,
-   "topic": "Tech",
-   "location": {}
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰 🇮🇳",
+    "also": [
+     "India"
+    ]
+   }
   },
   {
-   "id": "793effc437",
-   "title": "Army rowers dominate Defence Services Championship",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNnVqY3p2OVZESGVSVmVfUl8zRml4c0dSbEdZYlcxTk5SRTBhb0xYVDgzbmZfTHA3cnRpRW8wdV9hZWlVS1VwblJnTDZWWVFoWVpkNmdnMmx5d1lWdGliTXFEWFJ1d3ctV09FRURjMGJuTnhuZFFiaEJkWFNRaEVGRXpPS19NQklUbW14NGhrOUlOLVdtajNHeGtYbDZwZlloWFBNZQ?oc=5",
+   "id": "c0a47a0185",
+   "title": "Oxford College Of Business Earns Dual National Recognition Among Sri Lanka’s Best Workplaces for Women and Parents In 2026",
+   "link": "https://www.newswire.lk/business/oxford-college-of-business-earns-dual-national-recognition-among-sri-lankas-best-workplaces-for-women-and-parents-in-2026/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/OCB-R6II8572-1.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T13:26:49+00:00",
+   "coverage": 1,
+   "topic": "Business",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "6f879a0038",
+   "title": "MEPA to claim compensation over Colombo Port oil spill",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHBwU0FLVEwwOHRxQVB2UXRsSVUtRW9TSFlwNm82MExxckVmT1ZNMUJHWk9LR21VY2dlY196Y3J2RGd1X19KRlVKdnpPa3pUb0ZkYjMyUUk1YkJXYldnRTc0T0plSGZpQ01fWFEtMG95RV8wM3dmb05IaGZ3TjJPTnphcTg5WnFabENBMVRUOGs4WWVCRGZjajI1dmJCLVlfczliWnVoeFZxdw?oc=5",
    "summary": "",
    "image": "",
    "source": "Daily Mirror",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:05:00+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "f7566bbdb9",
-   "title": "Oil Containment Barriers Deployed After Colombo Port Spill",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0JqeWRtZUVoYUdZellOZy00X2hjNjdBdTkyaE9VUFVIUnM1NWs5YjFseGxhSm13OHN4dWNyeWlxZmtQVHNTMFRfZ0dIaHBNSzRoNzEwYURlYmJuZmlpTWpuQTdlNUFyVHJUaXJ6aFdrVUk5d0VyNWo4cEVZRzRxcTBNaW5WWmk1ZE9hczB2V3JFdXdQTC1TRzd3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Newsfirst",
-   "region": "sri_lanka",
-   "date": "2026-11-23T05:54:00+00:00",
+   "date": "2026-11-23T09:48:00+00:00",
    "coverage": 4,
    "topic": "Society",
    "location": {
@@ -1557,9 +1550,9 @@
    },
    "more": [
     {
-     "source": "Daily Mirror",
-     "title": "MEPA to claim compensation over Colombo Port oil spill",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTBWTDdSdTdyZS1Sal8zY1BZY2hJTDNqNHR3ei1VbEppdDJENmpyRWdBaDA5MzBuUWVoS2o0Wko4UEt3UHloOFhMckh6TDVVNVdwSDhqWEdmNWExS0s2WTRaVG9zVmxmZElhSUpnV2E0djNEdVExYlkwV2lQd2lFVGh3dmtMRVJKbE84MVk0eGR4ZlhZdDlJdEpIY2tJNkJWU1RIUUFwV2U4QnJEVEUyTTJn?oc=5"
+     "source": "Hiru News",
+     "title": "MEPA to assess environmental damage and recover compensation over Mutwal diesel spill",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3FidEZQS2ZzS1VnUjZEYnMwcU8wUl9YOFFYem43Q3gtQWxDdTRfWW1GTVgzeGFIbHl5Wk41Z1hNRUwzOXcwRGJicS14YzdqcmNzNWFSbExkQkJhd2xhMFFBam5xRzkyQkJXTGphVWNTVTlKeGpkeUZGa0w2Q29yT01QYzBMbUZMekZPalQ0dEsxUjZTMmlLY2lsZ1NaLUdVVG1GVGJiY05fWlJvVS1Z?oc=5"
     },
     {
      "source": "Ada Derana",
@@ -1567,11 +1560,28 @@
      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tbzNtUlRxUENzYmlyNl93Z29kUjhRMjFua0VhZ0xlNWFNWWFmc1R5WFZJOUFGRXFkbnRZTlZNSnNMdHdhd3BN?oc=5"
     },
     {
-     "source": "Hiru News",
-     "title": "Oil spill from Colombo Port tank pollutes over three kilometres of Mutwal coastline; clean-up operations continue",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUFF1V2JkaHY3aF8yU2RmM3k1a2VVZlc3VG1NWGxhS2F6eENwNG1PcEViRFNfdjZwcVppczZCekFVSTJkZ1hFXzRZc0wwZEp4MTl4VTBReFdnSjBiYlVfNENCMDgwdFVvSmxOM09JTkdBdlAzOHlPTkJORmh2QllUemdrejlSWHBDVnlOclBraHhQV0NZT3ZubkhxblBYa1plUVVxcVVUU0M1VlZfNV9wWlBuT0NzRklEbFIwS2d5ZnMxUkNlemJYUzN0QTRxYVF5Wm4zOTJTY1JuMGpDMEFWdg?oc=5"
+     "source": "Newsfirst",
+     "title": "Oil Containment Barriers Deployed After Colombo Port Spill",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0JqeWRtZUVoYUdZellOZy00X2hjNjdBdTkyaE9VUFVIUnM1NWs5YjFseGxhSm13OHN4dWNyeWlxZmtQVHNTMFRfZ0dIaHBNSzRoNzEwYURlYmJuZmlpTWpuQTdlNUFyVHJUaXJ6aFdrVUk5d0VyNWo4cEVZRzRxcTBNaW5WWmk1ZE9hczB2V3JFdXdQTC1TRzd3?oc=5"
     }
    ]
+  },
+  {
+   "id": "81a1524e97",
+   "title": "Foreign outflows from Sri Lanka rupee bonds continue for fifth straight week",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjZ4Tk5NT3B6ZFdhekQ3bHdEMkVvdDRGUjdoT1Z6UEJqRUI1OGtudEdHbHBpU2M5S29KZDFBekt3RU5CV1JXTzdONWdfY2JUbzZ0WDFuVFJadWhHUnlSVTJjU05uQ0ZlWWwxcm5kTkRyM0tJQzZsNHozM0FHQUNjLXRQeHg3UFM1RGI4cjFnYk5hZkMzVTFjd2x3VVJyZmUydXAwSURYNHE4YzJV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EconomyNext",
+   "region": "sri_lanka",
+   "date": "2026-11-23T10:53:04+00:00",
+   "coverage": 1,
+   "topic": "Economy",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
   },
   {
    "id": "4f50e48821",
@@ -1591,17 +1601,16 @@
    }
   },
   {
-   "id": "f81d8ebc77",
-   "title": "Amber lightning warning issued for 17 districts of Sri Lanka today",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMXRWa2hBWm1QajE1UTFlMEtRd2hGeVB2OHBsQWM2bEV4TEtsZDM5bkJZcmRQbzM5Qko4ZGJ0N2ZMWlI1ZWM3clBXUy1yUGlOVlo5LWEwS0lIZ25vNTI4eDhCY290ZmE4clMybU9NU1Ryb3hNN0VYdVF6ejVKbnM4QWVHUFlNSEd1cDJFbDBsWHFwemZTQTF2bnh4U2VhTTMybGFTNA?oc=5",
+   "id": "77264e50b1",
+   "title": "Supreme Court concludes hearing on Nuwan Bopage’s fundamental rights petition, verdict deferred",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlpZYjZNVkI4THRDcnNTVmlXbEQ1VGxjQ002cS1GSmlyQ3dvUmZaWFJRd0RxNENPT2JLWDFZdE5jeHg2WENtSG42dm80aWU5SjZxa2xqSkc0ZkdzaVpWV2JDakMwcUJVaW5iVWFqbnpJbW40Q1lfU0FCMGJQRTVSSm84SzJLNEM0bGhfcU5lUThhckFyVVdtd3I1OFJlOThMZUtZYVMxcXJTd0FtaXJWUWtEblNSQzJHMG9VZFRKekNraFRySlFn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Newswire",
+   "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:52:48+00:00",
+   "date": "2026-11-23T12:23:12+00:00",
    "coverage": 1,
-   "warning": true,
-   "topic": "Society",
+   "topic": "Politics",
    "location": {
     "country": "Sri Lanka",
     "place": "",
@@ -1609,27 +1618,32 @@
    }
   },
   {
-   "id": "fd66a013b9",
-   "title": "Denver Deheragoda breaks 14-year-old rowing record at Royal-Thomian Regatta",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUwzZFZjV2ZtUVAwWGdJUTBXME5WWUs4RnZteXZ4cmxRN2w3OEdBSUNLZEZXRzlIR2RwN3A5N2tKOHVROXA2VHppZy1QcUpjMkhHa3BFWmxSYmR0c1JOeWI3dmVRSHRNVmV5dEZkNkRRUVZJQmdKZU41bG5sVUx1VDk1b0lWTHFXdGFmRmw0dkk5VkV0X0F5Uzg4a1Etbmx0c0d2QjdLUi12bmE1VHVpd19YVQ?oc=5",
+   "id": "020a7921db",
+   "title": "Road accidents claim 2,463 lives in Sri Lanka so far in 2026 : Police",
+   "link": "https://www.newswire.lk/2026/11/23/road-accidents-claim-2463-lives-in-sri-lanka-so-far-in-2026-police/",
    "summary": "",
-   "image": "",
-   "source": "Hiru News",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot-2026-11-23-180309.png",
+   "source": "Newswire",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:23:25+00:00",
+   "date": "2026-11-23T13:13:52+00:00",
    "coverage": 1,
-   "topic": "Society",
-   "location": {}
+   "breaking": true,
+   "topic": "Politics",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
   },
   {
-   "id": "9273a762a4",
-   "title": "Man’s body found dumped along Alfred House Avenue in Colpetty",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1saDVSTUgxZzI4ZW5iTUUxVUhuUWFFQWlieVJncTQ1U0hYOHZiOEk4WnNVRDNsXzdaaW9mOWJTZFFfLUxrSEMw?oc=5",
+   "id": "4c70f04d9f",
+   "title": "Card fraud victims foot the bill as region shifts burden to banks",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFBualh1cF9EQ0Rua0NhZDFkV2ZaZjlqTHFsUzE2TXFQOTdpaGJJRXI0eEFtNWwtWFJQaGZZbjk0dlZOa2ZFRXVxVW9pclBxVnpOZmVXcHh1MXBPT3ZIQlFSWXBVRTlMRUxKVnBmOWNLRlZrNjVMUzRDQWY5alRxd3ctazl6cDdQYWFXdERRc21USHg4OHNITmlWSXp2VWJadmNJVnN1R3loaHVEVFFLckZKZU9hT0c5TFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ada Derana",
+   "source": "Daily Mirror",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:28:41+00:00",
+   "date": "2026-11-23T09:20:02+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
@@ -1652,43 +1666,6 @@
    }
   },
   {
-   "id": "78d1a4b572",
-   "title": "Diesel spill hits Colombo coast",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0h1enN6XzdnR1RMM0NERTIzeG1GTkJLeFhmNDZyWXhUNHJEX2lKWHU2TFloRDFRd1R6cjBMVUFIODg4LWlEZE8wRlgwWFBEd3Q1aGNYM2dPa0dSSTdTOGVkMzl6aXo3Tndod05yWFZsaDNsTGhWOG5vUFlrNGJhVW1NcUwwY1B0Q3doUGVrdWQwQzg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Mirror",
-   "region": "sri_lanka",
-   "date": "2026-11-23T09:56:51+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "Colombo",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "18ef5ac8a2",
-   "title": "Democrats Clinch Historic House Majority Of At Least 258 Seats, The Largest Since 1992",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGI2QnpUNTdQc1hxRWw4Y0xlaUc3cHhRSF9wRlB6c0UyTzRfSDBiNl9vQTRiMXppVzdLRFBFazZRNHAyVXpEVkNvR0Ewc1ZDSmZISjRBeTBqUWVMRzJraXNnTlU2ZEVqUE5BNDNUNW1MWHBwMzhXdDRVbFRLVlNsNlhnQXJTM2g5a2xIVEw5RWpTZW51UGFScnN0LXNkdHlHZVZzYmdGSDgzS0NhTzlUM1JzTkFVSUhueGVWcHdB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Newsfirst",
-   "region": "sri_lanka",
-   "date": "2026-11-23T05:43:00+00:00",
-   "coverage": 5,
-   "topic": "Society",
-   "location": {},
-   "more": [
-    {
-     "source": "BBC World",
-     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-     "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
-    }
-   ]
-  },
-  {
    "id": "0aa8cfd236",
    "title": "Sri Lankan-British Doctor Ben Maruthappu Named British Entrepreneur of the Year",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObDRLbHBncjdtYjdhbVdtMDZSZ3JhckowbUI1M1RrMjZtQl9YbkNaeUZLZVpWTHZ3YzhRZmlfNXhYdGZPeHdnYXllU2s1eUdMVkd2NUJZd0hRNDVrcHdzUWFpLTN2Y3NzMWQwWGZBQkRhXzg2MGNhcGFZUWtnWHQ2aU5idGh6Y0hBNnBHTDJXeHRHM2hNdV8tSkU2NU10bVNtRzRjLW5pdjN0SFVoYXBKclNjenNfTExsRVNQeTBXSkppRDNINkx4dTRSMG9vUVE?oc=5",
@@ -1709,40 +1686,58 @@
    }
   },
   {
-   "id": "c54141173b",
-   "title": "Rs. 2 trillion capital spending in 2027 to boost businesses and jobs – Treasury Secretary",
-   "link": "https://www.newswire.lk/2026/11/23/rs-2-trillion-capital-spending-in-2027-to-boost-businesses-and-jobs-treasury-secretary/",
-   "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Harshana-Suriyapperuma-1.jpg",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:49:58+00:00",
-   "coverage": 1,
-   "topic": "Business",
-   "location": {}
-  },
-  {
-   "id": "6c332319ff",
-   "title": "New device developed to prevent trains colliding with elephants",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPanhxRXhSalBneGJ6SUg5bU1HZXpOdXhtaEpSRDl5OVZ2WDFGSU8xMU5BZFV1ZzU3Q1JBQ0txZ29uQkRBa05FbjVjS2ZpLURaMm91TjZacDU5eExpQkNISlBXRlRFQ29TQVlOS21PVVczTzVvNXQzbjBSc0l3MnZsVE42Tnp4V1lOdERoRXZMalZzNThycEh2dERPR3JhSHpjQzJJ?oc=5",
+   "id": "ce70ea8110",
+   "title": "Colombo District ‘A’ crowned 2026 junior national netball champions",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1hWU29FZlFlLW1Ud1ZuOEU5X0ZzNWs1dF9EZjZkSVNZeHU1a21LbmNZZ3NhVjkxSkpjeXVEV1E4S19nUWlvdWVHVzFCWGZ2SUQyZWZHWkFEd1FFR2NjRDY2eGk4OVhEd1NRbXROb3RCclROY2VsZzZKMDZRZU5OT2tac3lnblBKaWJWbTZLRmdlazhRUC1Lb1BObktDN0VMVF81OGhRbngzOWs?oc=5",
    "summary": "",
    "image": "",
    "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:23:25+00:00",
-   "coverage": 1,
+   "date": "2026-11-23T12:06:52+00:00",
+   "coverage": 2,
    "topic": "Society",
-   "location": {}
+   "location": {
+    "country": "Sri Lanka",
+    "place": "Colombo",
+    "flag": "🇱🇰"
+   },
+   "more": [
+    {
+     "source": "Daily News",
+     "title": "Colombo ‘A’ Junior Netball National champs",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUdzei05RVRUclJVaWZyS1pMU3NVZ3F1eUppRVFET1h1bHE4NlVfOVVSSU91Q1lJUjUzYWk5bzdweDd5TWFWYzk1VnNKd2dia1B0YXM5VUtNU1hDUHFPNlYwV2g0aV9NM1F0YjhvVTFkYnAxOV93THU3RF9Id1l5bHcwei12TzhIVFRrQ3BLWURaZw?oc=5"
+    }
+   ]
   },
   {
-   "id": "6395622000",
-   "title": "Peliyagoda Fish Market to be transformed into world-class facility",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QYWtQQy04NnlTZ0t3bk5IY3RwcGg0THpDX19jdk1xRUZHQzdaRUNKZTYwQ0xEX0pnTnU0UXdHbS1nZDJhYXpj?oc=5",
+   "id": "82ef32f8c0",
+   "title": "Sri Lanka’s Dr Asha de Vos appointed Fellow of UK’s Marine Biological Association",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41THg0dUdMOHRiUjZaRWJXRklqSHJXNnF1dUpZamJqckxnbnByenVKSUtLNG1MTXM3a0gxNHZmQUZEaHFjd1ZV?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:12:38+00:00",
+   "date": "2026-11-23T12:08:46+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   }
+  },
+  {
+   "id": "e79eb4b090",
+   "title": "SRR hike to cost banks about Rs.12bn a year in forgone interest",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFBSNlJZX21sR2R0dEE3QUV2c0ZTX0pNSFNjdHVCVUc3aU1zMldHT2pGLU5zakQ1X0lfSmd5SVRZNFZoQmQtUGxUdjhQSnZpZ04xMHpZNEJOZzVyYjZ3dU5naVRpQ2h4X3AwemxPRFBLNmhPU0YxX25DVXZRVDg3WGtxX0NoZzBQSEtlWHdfQVZCQTl5QUo1eGs0a3RZOExVVTdOMnVTTG5TY0FrdEpVU25zN1Y0Yjg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T09:20:02+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
@@ -1765,41 +1760,48 @@
    }
   },
   {
-   "id": "dff41d403b",
-   "title": "Traffic Alert: Ingurukade Junction Interchange Closed for Ongoing Highway Works",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHVTOEZTWGU4QWZRZ29TQlRUOXRsZzlnTHNuYVcyZ09jbkhLTnlFNElXTlp1S1psNWlma25ocUNjdkF1bGhWMzdfUVJ0UV9Bc2diNnQ1LWZtcXIwb1BsdDNkWkZtQzFQbnB5aHpHaDRNSG4xUTVEUVhHX29lUHEyLTFnRF9uYUg2SUpBYUJMbEpOcXZfcmVzWXR4dFBnY21MREhUeHZsYXNZQ3Z1cS1WYjllYms?oc=5",
+   "id": "3c00197ade",
+   "title": "CSSL welcomes Budget 2027, calls for stronger digital skills agenda",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGVxRU0yQlF5LUtTbEJ0dVEwR1k5aTJCaThuZ2NvX0tKekE0WGcwX3B4cHNxWUdHZFVJemdPTmZobFFZcmJVMkE3aHJBN2RhbEFzVEIxQmlHUDVvQ3dIREMzenJzaUxIWDRiWkZGSmtvT2JqV2hMdERHYUlMN1hIRm9qZ0lGOC1rUWNPdDQ3ZTl3LWRfM3NfWDJ1OXRoZlZuOWktSDBDZ05CZHNOd3hZ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Newsfirst",
+   "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T04:33:00+00:00",
+   "date": "2026-11-23T12:06:52+00:00",
    "coverage": 1,
-   "topic": "Society",
-   "location": {}
+   "topic": "Tech",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
   },
   {
-   "id": "e4ed209d27",
-   "title": "Nearly 1,200 schoolchildren affected by Cyclone Ditwah to receive free spectacles",
-   "link": "https://www.newswire.lk/2026/11/23/nearly-1200-schoolchildren-affected-by-cyclone-ditwah-to-receive-free-spectacles/",
-   "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Schools-tudents-specs.jpg",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:32:30+00:00",
-   "coverage": 1,
-   "breaking": true,
-   "topic": "Weather",
-   "location": {}
-  },
-  {
-   "id": "745c732669",
-   "title": "Art must promote peace, empathy and respect for diversity – PM Harini",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2WElLMUg5VWJTdlRWZUdPSm96UHBTT2hMYTMwRU42NFoycU04SkExV0pYOHhycWw0RzlYTzhSMk5PVDR6djdn?oc=5",
+   "id": "f07b6dafee",
+   "title": "Postal service exceeding revenue targets but remains unprofitable, says Deputy Minister",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZERZRVZmekdxTVVpNFQ1NVVjV2tYcW9xMzZFOGdqRW5oYk5RQ0tUQ0NmRU1tZUxTUU5OYlVyQzhrLVEweVJn?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:50:37+00:00",
+   "date": "2026-11-23T11:28:43+00:00",
+   "coverage": 1,
+   "topic": "Business",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "02f38254c5",
+   "title": "CHC plots 50-hotel EKHO push from wayside rest houses",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDlueEJEOWNBYl9aNHJBVEJMbjBNN0JNbU1fVzFqSUY4NldtTWlUaVhCZDBZd0U5NVkyT2hfalhGUG5JUzRQajZkVEl0emFJaUZ0aTF4d25vY09NbnE5eVh4cDI0WGpVY0lwMk9zeUZDZGdUUlVsNTJtT05FQVZqOS1TS3gwRmZPcG1wRmV2WnNpaDRQTDhicmhIdWQyeGpteFlMY0QzZG5odw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T09:20:02+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {}
@@ -1822,34 +1824,17 @@
    }
   },
   {
-   "id": "91d87d33ef",
-   "title": "Sri Lankans spend Rs. 560Mn daily on alcohol",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0NiZ3I3VDJuWk13WXdWa1dEZkZQTVUyZlo2Q1ctdDhLUUlsc1hUd3dfZTlfSm5DNGJ3MzZjOGxHYjFuaUc2MnA3V3YwMERMTXRoSFFMUlV2MU9nWFlhZEJ0ZFFRRGVmYmlaM0FSeF84ZGRDTVhCOEs5NVozdUVqSl9vdkpWVEFOeE9XN2l6V0RlS3lsaXlVOFA3bHR5dVUtNHVj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Mirror",
-   "region": "sri_lanka",
-   "date": "2026-11-23T09:56:51+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "5ec06aa903",
-   "title": "Government Begins Reviewing Outdated Websites Following DMT Cyberattack",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbE9kV0lXSDV2Tl83Rkt4SWNidElOZUJSdVJQSjJsVWRRU3pKWVZqbUMwNE1VUjJsVVpfY0l6aWlrRTZteGRIbGJJUDhmRlNBVnZjMnFLR1FxYWNHVUlRNE1PbFl5YXhZMmxCZzg4TGR0SDVXQ2lBUTFEcThfZzgxR2tnOWhXWVlCRkFBaUFGZDlIOUE1c1VMTFpvV2VHNlN0LUJxMmNvMTJhOEE?oc=5",
+   "id": "dff41d403b",
+   "title": "Traffic Alert: Ingurukade Junction Interchange Closed for Ongoing Highway Works",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHVTOEZTWGU4QWZRZ29TQlRUOXRsZzlnTHNuYVcyZ09jbkhLTnlFNElXTlp1S1psNWlma25ocUNjdkF1bGhWMzdfUVJ0UV9Bc2diNnQ1LWZtcXIwb1BsdDNkWkZtQzFQbnB5aHpHaDRNSG4xUTVEUVhHX29lUHEyLTFnRF9uYUg2SUpBYUJMbEpOcXZfcmVzWXR4dFBnY21MREhUeHZsYXNZQ3Z1cS1WYjllYms?oc=5",
    "summary": "",
    "image": "",
    "source": "Newsfirst",
    "region": "sri_lanka",
-   "date": "2026-11-23T02:28:00+00:00",
+   "date": "2026-11-23T04:33:00+00:00",
    "coverage": 1,
-   "topic": "Tech",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
+   "topic": "Society",
+   "location": {}
   },
   {
    "id": "d51ae2a056",
@@ -1869,37 +1854,47 @@
    }
   },
   {
-   "id": "54b3ec9d30",
-   "title": "“If Namal is jailed, his wife will enter politics” – MP Archchuna",
-   "link": "https://www.newswire.lk/2026/11/23/if-namal-is-jailed-his-wife-will-enter-politics-mp-archchuna/",
+   "id": "dc1400e614",
+   "title": "Public consultations on labour law reforms begin in the Southern province",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEdGN2tXS0lfUVFGb1Z4dEJjN3JFUkc0U2NRWGJnbjJXYzNGdHhDeTQtbm9sYkVzbkJjbm5keTF0SnhMTHJKbW9JeXJidTBfcmNlNE1mUHhkREprZ2VuaDd4R3JVbHlMR0lsUWhsZGR3eVhXVWFlbjQ1T0ZyZnROMnV2WmV3Y1gtLTQ5UVNCUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Newswire",
+   "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T11:19:03+00:00",
+   "date": "2026-11-23T11:37:28+00:00",
    "coverage": 1,
-   "topic": "Politics",
+   "topic": "Society",
    "location": {}
   },
   {
-   "id": "9d5973cf9f",
-   "title": "State institutions urged to strengthen financial planning for 2027 development projects",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BLXhaV1VCc1NadTlqc0FvZkVmSFFzNGtTdm44TnowcE4ySWp2eG9SakpsSTRQa1VPMG8xZXlHc3Bpaks5OTRj?oc=5",
+   "id": "721e52f545",
+   "title": "Red onion and egg prices surge in local markets",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BYUpKajRINnFEZm0xZFRzLWpGemx1Zi1kQ3ZKekpGWDVOa29MOEhmWWRoc1NscWJRd21LNGdnVFhJVFpweVI4?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:25:32+00:00",
-   "coverage": 2,
+   "date": "2026-11-23T11:28:42+00:00",
+   "coverage": 1,
    "topic": "Society",
-   "location": {},
-   "more": [
-    {
-     "source": "Daily News",
-     "title": "Better Planning and Spending Key to 2027 Development",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUFFcXc0NmhqdjBBNjR5M1JoekpjNHdrcjdDTkw0eHhDbWVtcDB0YU5vR3haRHhuN21VVjhMNV9JZXhjclVjS1ZuUWkyQTRQRWFoNVNLODdaa1FFYXJsMkZwRkhfOWJINmdYVEQ3RnhkTVZPWVF4V2RoY1JqV0tSN3NPZUtLanR2Yms5RUt0Z2I4dGVWczRjbF9hWm9uQ3V1ZktCMU14bE4yYjg?oc=5"
-    }
-   ]
+   "location": {}
+  },
+  {
+   "id": "d5c4ecf6a0",
+   "title": "Sri Lankan Rupee appreciates slightly against USD",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTg5dnR4aVVzRml6S1VfMmV1T2ROaldYYUVYd1hma0pIQVZnRW5tSEdlbHVUcE9FQzNMaGk0MFdtUGY5MTl1LXpuZ2JBVlpwNzF5NXhVRU5jTjdZRU5SMEVqU3pBVnlDOUVGZ244UjRZcG1DSWtsWk1NdlNuanI4LWJaajd3d2FVUnNEZWZYTUF1N0FNVkFZOXhJUzNwU19DRlBN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T08:42:00+00:00",
+   "coverage": 1,
+   "topic": "Economy",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
   },
   {
    "id": "6f5552a223",
@@ -1919,34 +1914,21 @@
    }
   },
   {
-   "id": "fe618f96b3",
-   "title": "Sri Lankan Rupee appreciates slightly against USD",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWo2aTRwdkFYaVZ4ZS1RN1d2c1ZHMGs4UUJqYjBndFVRYmZ0VUlRbkdkX083RndjX2dMOElRT3J4Z1o5Ml9tY3pMM01XbjRlT1YwbXJRamxYNjlXQXI1eHpwVUZRYkVCNGh4ZFBFVG1lUFNRVjlHX1IteDA5aEVCekdudlJGY0htTXZzYzNYQVNMbHgxOXJpb2NuRTI3MVdDS0hNUjVvSzFRaUk?oc=5",
+   "id": "5ec06aa903",
+   "title": "Government Begins Reviewing Outdated Websites Following DMT Cyberattack",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbE9kV0lXSDV2Tl83Rkt4SWNidElOZUJSdVJQSjJsVWRRU3pKWVZqbUMwNE1VUjJsVVpfY0l6aWlrRTZteGRIbGJJUDhmRlNBVnZjMnFLR1FxYWNHVUlRNE1PbFl5YXhZMmxCZzg4TGR0SDVXQ2lBUTFEcThfZzgxR2tnOWhXWVlCRkFBaUFGZDlIOUE1c1VMTFpvV2VHNlN0LUJxMmNvMTJhOEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Mirror",
+   "source": "Newsfirst",
    "region": "sri_lanka",
-   "date": "2026-11-23T09:56:51+00:00",
+   "date": "2026-11-23T02:28:00+00:00",
    "coverage": 1,
-   "topic": "Economy",
+   "topic": "Tech",
    "location": {
     "country": "Sri Lanka",
     "place": "",
     "flag": "🇱🇰"
    }
-  },
-  {
-   "id": "d58622bcf5",
-   "title": "3,000 Houses Built Under Housing Assistance Scheme to Be Opened Today",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1l5RnpTM3I3blQ5clJmb1JzcWJvcUxRRE1yWGR4VVgtdnVhQmRYWmowZ3o0N0ZKQkVsNEtaeHdjcXBhczZXS1RaSWU2WGg5WEFiNXpfTnF3RTE2a09hbEpST2FCYThUUWlvXzBGT3daOEVpbmg2MWhTOXdmX0JPU0xqdktGVGR0eFAyUGJISnQzN0s4a1F3b3Qzb1p3czRVV0t4UlFqb24?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Newsfirst",
-   "region": "sri_lanka",
-   "date": "2026-11-23T02:27:00+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
   },
   {
    "id": "511e5a6f09",
@@ -1966,52 +1948,64 @@
    }
   },
   {
-   "id": "a69b429d6a",
-   "title": "Justice for All tells Parliament proposed anti-terrorism Bill is unworkable",
-   "link": "https://www.newswire.lk/2026/11/23/justice-for-all-tells-parliament-proposed-anti-terrorism-bill-is-unworkable/",
-   "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Justice-for-All-PSTA.jpg",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:03:16+00:00",
-   "coverage": 1,
-   "topic": "Politics",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "1da2bb9ef1",
-   "title": "Varna wins National Silver and Top Ten at CNCI Achiever Awards",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGM2SGMycGE3WjdqQlN1WHpmZDF0ZUQ4dmdVWTF4NFQ1VGh3U3FmSWR1LTdta1ExX0pLV0FBc3JEcnpzQlFic3Z4azRDT1hHMGFSMm4yYnBxUlNZeVdHOVdNMEdiRU13WmNjYVI5aWZCcl9lLVVkWXduYnlEN1BlVUdoVjc0UDNBVzdJUXdOV2ltYjhsazNMV0RZNkxvcVA0LXJvdDlxM0U1UQ?oc=5",
+   "id": "fd66a013b9",
+   "title": "Denver Deheragoda breaks 14-year-old rowing record at Royal-Thomian Regatta",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUwzZFZjV2ZtUVAwWGdJUTBXME5WWUs4RnZteXZ4cmxRN2w3OEdBSUNLZEZXRzlIR2RwN3A5N2tKOHVROXA2VHppZy1QcUpjMkhHa3BFWmxSYmR0c1JOeWI3dmVRSHRNVmV5dEZkNkRRUVZJQmdKZU41bG5sVUx1VDk1b0lWTHFXdGFmRmw0dkk5VkV0X0F5Uzg4a1Etbmx0c0d2QjdLUi12bmE1VHVpd19YVQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:08:58+00:00",
+   "date": "2026-11-23T11:23:25+00:00",
    "coverage": 1,
-   "promo": true,
    "topic": "Society",
    "location": {}
   },
   {
-   "id": "e93c65e84c",
-   "title": "Strikes unjustified amid three-stage public sector salary increase – Dy Minister",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9QTl9wZElhenhuTTM5NjlLT00tbzZ2MkFQRlVIMmhNMjh1b0hzRFc2RERLSzRaNnA3bG9LMzh1TUwwMmtXY3BV?oc=5",
+   "id": "bc405fd5da",
+   "title": "Duo arrested with five elephant pearls in Matale",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiQm04Umx0cUYyazl1a3dyelBYM2lHMjN3X01iSkJjbXBYNTZnejg1VEhpaEZKbFI3V0c2Y3dDUzVvRGNOaVVR?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:23:15+00:00",
+   "date": "2026-11-23T11:28:42+00:00",
+   "coverage": 2,
+   "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "Matale",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "9183aceb2a",
+   "title": "Teardrop Nation Takes Sri Lanka’s Post-Independence History to New Audiences",
+   "link": "https://www.newswire.lk/business/teardrop-nation-takes-sri-lankas-post-independence-history-to-new-audiences/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/ZImage-1-3.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T12:09:44+00:00",
    "coverage": 1,
-   "topic": "Politics",
+   "topic": "Society",
    "location": {
     "country": "Sri Lanka",
     "place": "",
     "flag": "🇱🇰"
    }
+  },
+  {
+   "id": "335b54e550",
+   "title": "Under-19 Division One Tier B Final: Defending champions St. Benedict’s and St. Joseph Vaz in clash for title",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMXlmMXpCRmtWRWJibW5vN3pFWXRRYUpLZUlZRFowLUhxNGRVMk9sUjhUNDFRLXJsS1F1cUZvYWEtUjhMemxEeGtsUktyTEt6T1hPb2x0bTFiQ2FpQ1hVb2NiN2M2Zmp3aFNGdVE3alhSazJmenhaTkp2MW1QNnpqcnJiTlA4ajM2VElrYnZkamp2RXVXWWo1a3AyWjdPVTNtM3RBRUR3b2tieDUwR1NFNk1Jc3N1LUdpS1lVbWZDalBwWXRDbHdKNmViRnpzNERWYjFQSU10bkg2RkVORjdVM01Hcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T08:41:00+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
   },
   {
    "id": "806ce72982",
@@ -2035,21 +2029,17 @@
    }
   },
   {
-   "id": "e5bf148d4d",
-   "title": "Committee Stage Debate of The Budget Continues for Second Day Today",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmdZSjlIUWJoR1N1QnU4NnNYUFIwRWJwemZaOVlvSXRDVE5PYVFybmtFVEhsNDZyNF9iNkl5S0tvRGRJYnhQRU5IOVFnd1dnbWpRd3JvazFiOG52eVpFREJ6cmN1QWVMNDdTT3drc1k5aGYxMEYtMGNfVTBrXzNHU3lDZG9STENOTzN6V0UtTmIzaDBjX05JM1FYVHRGUHFuRWxraExn?oc=5",
+   "id": "d58622bcf5",
+   "title": "3,000 Houses Built Under Housing Assistance Scheme to Be Opened Today",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1l5RnpTM3I3blQ5clJmb1JzcWJvcUxRRE1yWGR4VVgtdnVhQmRYWmowZ3o0N0ZKQkVsNEtaeHdjcXBhczZXS1RaSWU2WGg5WEFiNXpfTnF3RTE2a09hbEpST2FCYThUUWlvXzBGT3daOEVpbmg2MWhTOXdmX0JPU0xqdktGVGR0eFAyUGJISnQzN0s4a1F3b3Qzb1p3czRVV0t4UlFqb24?oc=5",
    "summary": "",
    "image": "",
    "source": "Newsfirst",
    "region": "sri_lanka",
-   "date": "2026-11-23T02:26:00+00:00",
+   "date": "2026-11-23T02:27:00+00:00",
    "coverage": 1,
-   "topic": "Economy",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
+   "topic": "Society",
+   "location": {}
   },
   {
    "id": "39df671a57",
@@ -2069,51 +2059,61 @@
    }
   },
   {
-   "id": "78a4e843c5",
-   "title": "‘Did Someone Steal It?’ Harsha questions authenticity of Foreign Ministry painting",
-   "link": "https://www.newswire.lk/2026/11/23/did-someone-steal-it-harsha-questions-authenticity-of-foreign-ministry-painting/",
-   "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Harsha-news.jpg",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:28:23+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "61e971363d",
-   "title": "De Villiers claims ball-tampering from first 2018 Test",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObTlraXF2TEZUODNqdEhnLWpQYXlIOGNhUl9RR2lPZFdhSmFUeFdtVlpZb05YQ3BpY2FiSXZHQWwwbTVELVNmN0p2TzRqZzNPVl91RGRRbTUyaUZMYWV0M0tUV2gxRnA4MGZEXzZUVkNMWTFnYkFhNmJZZ0N6NkRiRFR1dWRsWDVQS3NxYXp3MUQ3RW5SUGc5Y0h5bkM?oc=5",
+   "id": "6c332319ff",
+   "title": "New device developed to prevent trains colliding with elephants",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPanhxRXhSalBneGJ6SUg5bU1HZXpOdXhtaEpSRDl5OVZ2WDFGSU8xMU5BZFV1ZzU3Q1JBQ0txZ29uQkRBa05FbjVjS2ZpLURaMm91TjZacDU5eExpQkNISlBXRlRFQ29TQVlOS21PVVczTzVvNXQzbjBSc0l3MnZsVE42Tnp4V1lOdERoRXZMalZzNThycEh2dERPR3JhSHpjQzJJ?oc=5",
    "summary": "",
    "image": "",
    "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:08:57+00:00",
-   "coverage": 2,
+   "date": "2026-11-23T11:23:25+00:00",
+   "coverage": 1,
    "topic": "Society",
    "location": {}
   },
   {
-   "id": "c5d8ac5c8b",
-   "title": "Sri Lanka’s inflation rate surges to 8.5% in October",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9KTm5kaUpwSlNEWEFiTldFeTFyWHlheC1VV0NISGs5Nmp5TW0wRDZaWVlRZmhmeGpiVGdQSXdBNlc0aGFzcEVn?oc=5",
+   "id": "6bc26d5746",
+   "title": "DMT website hit by cyberattack; appointments unaffected",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sY041MDJSZTR2d2ptMy05MHhFa25TQTFMaER2OUVjZTdILTU4MVdBQ0tuMkhmWjRkS2NkZ1pTSm13MllmbVZ3?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:03:12+00:00",
+   "date": "2026-11-23T11:28:41+00:00",
    "coverage": 1,
-   "topic": "Economy",
+   "topic": "Tech",
+   "location": {}
+  },
+  {
+   "id": "f81d8ebc77",
+   "title": "Amber lightning warning issued for 17 districts of Sri Lanka today",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMXRWa2hBWm1QajE1UTFlMEtRd2hGeVB2OHBsQWM2bEV4TEtsZDM5bkJZcmRQbzM5Qko4ZGJ0N2ZMWlI1ZWM3clBXUy1yUGlOVlo5LWEwS0lIZ25vNTI4eDhCY290ZmE4clMybU9NU1Ryb3hNN0VYdVF6ejVKbnM4QWVHUFlNSEd1cDJFbDBsWHFwemZTQTF2bnh4U2VhTTMybGFTNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:52:48+00:00",
+   "coverage": 1,
+   "warning": true,
+   "topic": "Society",
    "location": {
     "country": "Sri Lanka",
     "place": "",
     "flag": "🇱🇰"
    }
+  },
+  {
+   "id": "7d74000d27",
+   "title": "50th National Sports Games: North Western and Western Provinces Win Beach Volleyball Gold",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcWtoSTE1OXJsTG05eFBVdW0zUmpOYUVxYmRScllzNWRNanJGZ055ZlpyYkNSM0VXN1JGWklCS3pHUjlYeHQ5TFBWX1p2QlNLOUl3N1I3TEo4eTBiR251cS0wcmtTLVNyUnV0QWVOYVdGVmNPSHJhMUdhSHBOclBTTVUySFFUWVBFcmZRc0NrLWM3dGRtVFBWMFRGdF9nUjRLcmlpWlRWVkRsbEd3UVFSVVY4LUZnSlNpWG05RS1QUXQ0ckk4QlBxaW9kbFlkUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T08:37:00+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
   },
   {
    "id": "5731a63e87",
@@ -2133,16 +2133,63 @@
    }
   },
   {
-   "id": "5dbfaea457",
-   "title": "Local authorities lack solid waste disposal vehicles",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbDNxNC1ZenRYaFpfbHBUVXZHVkRRNXBTZmlNY1lyMFFydkc5OXUtREdCamZYN2QwTF9iWm01bE5GNWFFam52TGIwd0xiUWY2ZDZuQzFDWDdMWHdwXzg2QXNnd2w1ZUlWODRCb3F0TnkxOFhNVktnZGV3YmVjSEtadWhGNkw2c0FsMmFHdUt6elVOUndwWXdIRzZZZGlMMlpJLXhJZFpnSU5kQ3lkNDZfN0R3emhmQjBsZW9n?oc=5",
+   "id": "e5bf148d4d",
+   "title": "Committee Stage Debate of The Budget Continues for Second Day Today",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmdZSjlIUWJoR1N1QnU4NnNYUFIwRWJwemZaOVlvSXRDVE5PYVFybmtFVEhsNDZyNF9iNkl5S0tvRGRJYnhQRU5IOVFnd1dnbWpRd3JvazFiOG52eVpFREJ6cmN1QWVMNDdTT3drc1k5aGYxMEYtMGNfVTBrXzNHU3lDZG9STENOTzN6V0UtTmIzaDBjX05JM1FYVHRGUHFuRWxraExn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Mirror",
+   "source": "Newsfirst",
    "region": "sri_lanka",
-   "date": "2026-11-23T09:56:50+00:00",
-   "coverage": 2,
+   "date": "2026-11-23T02:26:00+00:00",
+   "coverage": 1,
+   "topic": "Economy",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "f309323fdc",
+   "title": "Confident Sri Lanka meet B’desh today",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWZfaURtRlh3SWMwODJ6YU81RENBeDRHbDZUZkRGdFpwbUtINUpvbUwtWUNYbUUtX25RSExNME5XSWNZY0VpMVVjb1VkTXZXSWFKaHViNWtJNDZzeHdsOER6bGVBWi1fMzhYRzVUaFVEY2pwR3kxLWRqLXdhNC1pZkIzMWxzWU44VlEwNQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily News",
+   "region": "sri_lanka",
+   "date": "2026-11-22T19:50:15+00:00",
+   "coverage": 1,
    "topic": "Society",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "9273a762a4",
+   "title": "Man’s body found dumped along Alfred House Avenue in Colpetty",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1saDVSTUgxZzI4ZW5iTUUxVUhuUWFFQWlieVJncTQ1U0hYOHZiOEk4WnNVRDNsXzdaaW9mOWJTZFFfLUxrSEMw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ada Derana",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:28:41+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "c54141173b",
+   "title": "Rs. 2 trillion capital spending in 2027 to boost businesses and jobs – Treasury Secretary",
+   "link": "https://www.newswire.lk/2026/11/23/rs-2-trillion-capital-spending-in-2027-to-boost-businesses-and-jobs-treasury-secretary/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Harshana-Suriyapperuma-1.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:49:58+00:00",
+   "coverage": 1,
+   "topic": "Business",
    "location": {}
   },
   {
@@ -2168,7 +2215,7 @@
     {
      "source": "Daily Mirror",
      "title": "Sri Lanka, Thailand exchange visa-free travel agreement",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZktySlAtVHFyVEdSTnBpRzJ2d2JhWTE1RTdiSEZkOEt3NnMxdUpudGJYcU43VVFPaWpvM3YtU19tU0I1YmdXdEgySDB6NjBDSmpEVjhDR3gzRGFVX2NxNjVhSmNBV3c5RTJEMkZzY01FT0tjbkhSZGFjdEFlQWhfVWJNcG9idmR4M1FkY2JVaDdxdkJGaXB0VS1jemJqalJoWGwtOTd3SWhTT2tkZ3Q1MjR3?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2ROanlCUDdBT2w1aEpRRU9Ma3ZfNVIza3lNdWFHRXNHenZCRjBtSzZlRER1M1EwU3JBUG02X1NGaktnUEN1Q3hvLWxiVFRrZjg4dDR5RzVLbi03Y3ZpNXVRbGE4RTROaElMdUl2ZGhmcEVjaWpGbjNLZmRIcTVubmZLSm9JUVBBN1RGY1pFZnpCb29ROXBiN2FHYTJNMHhWX0ZTUGtmSFcyQQ?oc=5"
     },
     {
      "source": "Hiru News",
@@ -2178,72 +2225,55 @@
    ]
   },
   {
-   "id": "f309323fdc",
-   "title": "Confident Sri Lanka meet B’desh today",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWZfaURtRlh3SWMwODJ6YU81RENBeDRHbDZUZkRGdFpwbUtINUpvbUwtWUNYbUUtX25RSExNME5XSWNZY0VpMVVjb1VkTXZXSWFKaHViNWtJNDZzeHdsOER6bGVBWi1fMzhYRzVUaFVEY2pwR3kxLWRqLXdhNC1pZkIzMWxzWU44VlEwNQ?oc=5",
+   "id": "303dfac9d2",
+   "title": "IMF’s seventh review of SL’s EFF scheduled for December 2",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcm12d0ZNRVlJek9rMUl2OTl5eFJUS1k5eGpWM3dhUGRZWTNVRzV5SkczcDRJTGJ3UGZBN3lMSzlqalFfZjBwUlRlUUpqMUVxRzltR2p4SXI1T29BLXY2YlhtMS1LVDhmNGthb2JwRjlZVDlNMXVpT1BpNlItUTV1SFUtb19wUS1XemVxMzktbXh1TTlGZ1VKZU1FVkJ5WjlCcExpTVo5b0dZU1k4dDdj?oc=5",
    "summary": "",
    "image": "",
    "source": "Daily News",
    "region": "sri_lanka",
-   "date": "2026-11-22T19:50:15+00:00",
+   "date": "2026-11-22T19:49:34+00:00",
    "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "0f03583c6a",
-   "title": "Zimbabwe arrests preacher Uebert Angel over sexual offence allegations",
-   "link": "https://www.newswire.lk/2026/11/23/zimbabwe-arrests-preacher-uebert-angel-over-sexual-offence-allegations/",
-   "summary": "",
-   "image": "",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:02:13+00:00",
-   "coverage": 1,
-   "topic": "Society",
+   "topic": "Economy",
    "location": {}
   },
   {
-   "id": "085591bb06",
-   "title": "Marikkar calls for direct SriLankan Airlines flights from Europe to boost tourism",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUJyNlZqSjVpaWxtT045ZThtSkMtcXA5X2RhYUx5QTNDUEE4RThGY0ZpVUZnRTRtZmhsVzRfMzdTWERZdDZfVlVYYUVrbjhaTDNtMTl2Z3dCQmRWWmtjUkJMeVpjX0o1VGRkbVBybEVpMVFMWnBUMFhrcUJkQUx4RUo2NFRfcGctN2VWN3ZDbTMxRVNIR1dpd1A4dUh5WV90VWdBV2pNNFdhcFJJdmxCbnhIZTNxZXE3Q0tn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hiru News",
-   "region": "sri_lanka",
-   "date": "2026-11-23T09:36:40+00:00",
-   "coverage": 1,
-   "topic": "Business",
-   "location": {}
-  },
-  {
-   "id": "7becaf4a05",
-   "title": "Asian stock markets tumble as AI bubble fears mount",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51SlhWWEM0SmdMSGc4SlNPdnY1UzNNNWFBRGc3aTZ5NDVBT3djY3pUVlFaV2ZSTDFERjd0YVBtalpGbmR5OWhv?oc=5",
+   "id": "745c732669",
+   "title": "Art must promote peace, empathy and respect for diversity – PM Harini",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2WElLMUg5VWJTdlRWZUdPSm96UHBTT2hMYTMwRU42NFoycU04SkExV0pYOHhycWw0RzlYTzhSMk5PVDR6djdn?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T09:48:12+00:00",
+   "date": "2026-11-23T10:50:37+00:00",
    "coverage": 1,
-   "topic": "Tech",
+   "topic": "Society",
    "location": {}
   },
   {
-   "id": "36b93672de",
-   "title": "Smartphones linked to concerns over sleep and productivity",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVAxZm9xV2ctbE83aHh2SDY2MzFtQ1VjeFlwOWxnYVJWbXJ6TlE3UDZpWGxNUGZodmZjMkJRQ3RrNWtZSWZtZTdESDJaWGRiY21SY0lOU2VURGNMRG1haGcxcXNtNXpjVW5XcWgwUjhnVGVsX3R3aDNWMUFITkRVS1NPWUluVHBHRldnd0d3anhMbnViSTdrQUhvenNnYlhmRDQ5Nzc3aDk4TTdQX2JUV1Uzemx0Tzg?oc=5",
+   "id": "e4ed209d27",
+   "title": "Nearly 1,200 schoolchildren affected by Cyclone Ditwah to receive free spectacles",
+   "link": "https://www.newswire.lk/2026/11/23/nearly-1200-schoolchildren-affected-by-cyclone-ditwah-to-receive-free-spectacles/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Schools-tudents-specs.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:32:30+00:00",
+   "coverage": 1,
+   "topic": "Weather",
+   "location": {}
+  },
+  {
+   "id": "6f535fe9e5",
+   "title": "Dilshan Mendis: Coach with the Midas Touch",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYThmTEtRTndXdzlSVlpudGp3MENRRVFxT2hsZXlrZnFJV0lGbnZkNEFCSUJQaUc3WXJVcktmOVB2ZkFHeFRUTzZ1TWhLanc1eUVMOXctYVBiLWNOd1EyNVVsU204RkU0WWN4MmtiT3Q2MkFreUFERG5XUUtJZzl1aTdfRzAwcjhjUlF5X2ZUOA?oc=5",
    "summary": "",
    "image": "",
    "source": "Daily Mirror",
    "region": "sri_lanka",
-   "date": "2026-11-23T09:56:50+00:00",
+   "date": "2026-11-23T08:29:00+00:00",
    "coverage": 1,
-   "topic": "Tech",
+   "topic": "Society",
    "location": {}
   },
   {
@@ -2267,100 +2297,16 @@
    },
    "more": [
     {
-     "source": "Daily Mirror",
-     "title": "Sri Lanka, Thailand exchange visa-free travel agreement",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZktySlAtVHFyVEdSTnBpRzJ2d2JhWTE1RTdiSEZkOEt3NnMxdUpudGJYcU43VVFPaWpvM3YtU19tU0I1YmdXdEgySDB6NjBDSmpEVjhDR3gzRGFVX2NxNjVhSmNBV3c5RTJEMkZzY01FT0tjbkhSZGFjdEFlQWhfVWJNcG9idmR4M1FkY2JVaDdxdkJGaXB0VS1jemJqalJoWGwtOTd3SWhTT2tkZ3Q1MjR3?oc=5"
-    },
-    {
      "source": "Hiru News",
      "title": "Lankans to get visa-free entry to Thailand from mid-January",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaldsSjlRVnU2b3ZPbFhnREVoUUs0NThzUUpwc2ZxbHJBQm0yVEpNejBnOHFEWWJzcEVMdFd0c1ZNYVBGTmNfYnRfZlRvMU1jbXZob3g1dDRYRFl6c2x3REpfdHc5OEQzdVVUdGdJWUNrZEJIa3ZmWVlqTTdtWDU0cVl2MTFmNjN0WlUtNncxUVpTeHBXVjVKdTJXQWhNQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "303dfac9d2",
-   "title": "IMF’s seventh review of SL’s EFF scheduled for December 2",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcm12d0ZNRVlJek9rMUl2OTl5eFJUS1k5eGpWM3dhUGRZWTNVRzV5SkczcDRJTGJ3UGZBN3lMSzlqalFfZjBwUlRlUUpqMUVxRzltR2p4SXI1T29BLXY2YlhtMS1LVDhmNGthb2JwRjlZVDlNMXVpT1BpNlItUTV1SFUtb19wUS1XemVxMzktbXh1TTlGZ1VKZU1FVkJ5WjlCcExpTVo5b0dZU1k4dDdj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily News",
-   "region": "sri_lanka",
-   "date": "2026-11-22T19:49:34+00:00",
-   "coverage": 2,
-   "topic": "Economy",
-   "location": {}
-  },
-  {
-   "id": "cbd37a6793",
-   "title": "ICC World Test Championship 2025-2027 Points Table & Team Standings",
-   "link": "https://www.newswire.lk/2026/11/23/icc-world-test-championship-2025-2027-points-table-team-standings-7/",
-   "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/FB_IMG_1795424478105.jpg",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T09:02:30+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
-   "id": "84d1c00bff",
-   "title": "Artist Pala Pothupitiye opens Phoenix Art Museum's New Gallery for Lankan Art",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXQzRkp2aGZoV213eWNKa0phTk96Q1lKc0piWTVVZTE2MFR0N1lJbWxsZ0toQVBoWm10emFRZnl5WTZxMm1wbmpwOXZDWmRoUnVuLTB2LWxiR1kzWExNY3hhVTdxT0RxUFFBWTYxb3JMZmhrWl9kT1Q4SXV1TU9iRDV4aDZfV2NGdGdpN1N5ZWZuZVNEMk1MaHlWWlBjTy1iOHhPUU9ZNWhtR19EV2x6Y1ctNzQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hiru News",
-   "region": "sri_lanka",
-   "date": "2026-11-23T09:26:34+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰"
-   }
-  },
-  {
-   "id": "4aa762a589",
-   "title": "Sri Lanka-France Business Council to host wine evening, fashion show",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOURRendYTnQwSml5N2I2clpXYU9mZnRYLThtNDFIY1NndEFkaWV0TDMtcC1RdHRhOEZFZm5XbnhlVUhZQ1hrZkl6MW5oZzJPbkNaT3V0eGtXQ0d3MV9CUFpsd2R3QWkxYVp2MnZOTm15b3Jnc0dZNGRaZ1BwZFNpTXpSZmdkRUxKNE9hMUlxNXd3ZnZqY2dRSTdjcEVtdkgw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EconomyNext",
-   "region": "sri_lanka",
-   "date": "2026-11-23T06:33:45+00:00",
-   "coverage": 2,
-   "topic": "Business",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "",
-    "flag": "🇱🇰 🇫🇷",
-    "also": [
-     "France"
-    ]
-   },
-   "more": [
+    },
     {
-     "source": "Hiru News",
-     "title": "French-inspired fashion and fine wine evening set for 26 Nov.",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSFNSWUt1OFU0Y1lsY0wyMkQ0OTdaMS1lZU8tTjFVdElZOVdzMW1ERTFwdWlRVWdDX25qUG5jSmpIMzZIWFpoVDczNzk2S18yUG5WbTFpREJVMHNUV1ppOXB4Z3dkQ0JaLVJBSzB3S1dUdW00Nmh1Z1NWQ0hhY09KazU0X015X0dvM0paZzNrb1JjaEFrN1RPUUVWd1NUOUhyOERKQW1Zdw?oc=5"
+     "source": "Daily Mirror",
+     "title": "Sri Lanka, Thailand exchange visa-free travel agreement",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2ROanlCUDdBT2w1aEpRRU9Ma3ZfNVIza3lNdWFHRXNHenZCRjBtSzZlRER1M1EwU3JBUG02X1NGaktnUEN1Q3hvLWxiVFRrZjg4dDR5RzVLbi03Y3ZpNXVRbGE4RTROaElMdUl2ZGhmcEVjaWpGbjNLZmRIcTVubmZLSm9JUVBBN1RGY1pFZnpCb29ROXBiN2FHYTJNMHhWX0ZTUGtmSFcyQQ?oc=5"
     }
    ]
-  },
-  {
-   "id": "da94bee61a",
-   "title": "Renovated Galadari unveils new Radisson Blu identity",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWG9aTGw0N09HdnFQYWgyc3I2ZS1Qby1vVlNubDJ3SkNPeG9QTUgtbkdRZUV0ZnZtMkN3OXlqXzhBUW9SOHNDS3lTdFl4Tk5qcHF2MEdtd1pCSUpYNThqamw3NU9Sdy1nMXA1YVdqZ081QndSb0JGa3VfNEhUOXNkNWpDSk5VSDhzWVh5QVd0bktGZmtrd3pzUlp4dW5QUjcxekRENFN0U3RxNDBsZHZB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Mirror",
-   "region": "sri_lanka",
-   "date": "2026-11-23T09:56:49+00:00",
-   "coverage": 1,
-   "promo": true,
-   "topic": "Society",
-   "location": {}
   },
   {
    "id": "abf7557812",
@@ -2383,21 +2329,64 @@
    }
   },
   {
-   "id": "769014ec35",
-   "title": "RDA begins installing safety metal railings at hazardous road sections in Nuwara Eliya",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qaGxQcnppSE9QSU9GUkl3TV8zd3FReExhMnlla2RnMlVWTklfdWhsMTRGWWVrT3JhTTRqRUVJWFo0SHJaUmdF?oc=5",
+   "id": "1da2bb9ef1",
+   "title": "Varna wins National Silver and Top Ten at CNCI Achiever Awards",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGM2SGMycGE3WjdqQlN1WHpmZDF0ZUQ4dmdVWTF4NFQ1VGh3U3FmSWR1LTdta1ExX0pLV0FBc3JEcnpzQlFic3Z4azRDT1hHMGFSMm4yYnBxUlNZeVdHOVdNMEdiRU13WmNjYVI5aWZCcl9lLVVkWXduYnlEN1BlVUdoVjc0UDNBVzdJUXdOV2ltYjhsazNMV0RZNkxvcVA0LXJvdDlxM0U1UQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Hiru News",
+   "region": "sri_lanka",
+   "date": "2026-11-23T10:08:58+00:00",
+   "coverage": 1,
+   "promo": true,
+   "topic": "Society",
+   "location": {}
+  },
+  {
+   "id": "9d5973cf9f",
+   "title": "State institutions urged to strengthen financial planning for 2027 development projects",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BLXhaV1VCc1NadTlqc0FvZkVmSFFzNGtTdm44TnowcE4ySWp2eG9SakpsSTRQa1VPMG8xZXlHc3Bpaks5OTRj?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T09:07:42+00:00",
+   "date": "2026-11-23T10:25:32+00:00",
+   "coverage": 2,
+   "topic": "Society",
+   "location": {},
+   "more": [
+    {
+     "source": "Daily News",
+     "title": "Better Planning and Spending Key to 2027 Development",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUFFcXc0NmhqdjBBNjR5M1JoekpjNHdrcjdDTkw0eHhDbWVtcDB0YU5vR3haRHhuN21VVjhMNV9JZXhjclVjS1ZuUWkyQTRQRWFoNVNLODdaa1FFYXJsMkZwRkhfOWJINmdYVEQ3RnhkTVZPWVF4V2RoY1JqV0tSN3NPZUtLanR2Yms5RUt0Z2I4dGVWczRjbF9hWm9uQ3V1ZktCMU14bE4yYjg?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "54b3ec9d30",
+   "title": "“If Namal is jailed, his wife will enter politics” – MP Archchuna",
+   "link": "https://www.newswire.lk/2026/11/23/if-namal-is-jailed-his-wife-will-enter-politics-mp-archchuna/",
+   "summary": "",
+   "image": "",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:19:03+00:00",
+   "coverage": 1,
+   "topic": "Politics",
+   "location": {}
+  },
+  {
+   "id": "0a99d08555",
+   "title": "Veteran athletics administrator and former middle-distance runner Oliver Fernando laid to rest",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTRiYV9RYmJrb0xuMGZEcW9SVTAzS0F1VVN5b09vTzR1bG9nNm02S0hWRXNlUGNvOHg1Q3o0VFpsM0J3ckZISEthcmZ3R3BoTmdhRngxZlQxRHRlLV9UTnR6aGFWdGI5ZXdvZHBWQ1dGMkZDcW1ZMDhGSG0zc0VSU0JQZjJmWkduckVPSWVHVnMyZkpKUGRsMkJ3QmppbmFHNkcxYWR2MVF2YlVORDF4aERRZ2xQajdaQlBvYzBuZVBzSVpEN2ZZVllSSF9vNDJ6Rk1ueXdR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T08:25:00+00:00",
    "coverage": 1,
    "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "Nuwara Eliya",
-    "flag": "🇱🇰"
-   }
+   "location": {}
   },
   {
    "id": "bce0f60356",
@@ -2414,41 +2403,75 @@
    "location": {}
   },
   {
-   "id": "661398e5fa",
-   "title": "Kandy-Colombo main road to be closed at Kadugannawa overnight",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTQxTEZiMV9oMlUxVGpYeHZDT253RTNrMWpTdzRGTUsyUDBPWFUwd3BIZTJ2M2F4M0dXSXVyUjBBNDFNOEI1TDB2MzU3RXJ4Z3YyS01oU2V5d2NRaUFqUGtyQ1d3WGhUbU9ROGwtQ29mMTVwM0oyMTVjTUxFZ1hLOW00NFo5dWlCYjBIbDFPYXlEN0tTVWJNTjdlQ1E?oc=5",
+   "id": "61e971363d",
+   "title": "De Villiers claims ball-tampering from first 2018 Test",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObTlraXF2TEZUODNqdEhnLWpQYXlIOGNhUl9RR2lPZFdhSmFUeFdtVlpZb05YQ3BpY2FiSXZHQWwwbTVELVNmN0p2TzRqZzNPVl91RGRRbTUyaUZMYWV0M0tUV2gxRnA4MGZEXzZUVkNMWTFnYkFhNmJZZ0N6NkRiRFR1dWRsWDVQS3NxYXp3MUQ3RW5SUGc5Y0h5bkM?oc=5",
    "summary": "",
    "image": "",
    "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T09:10:34+00:00",
-   "coverage": 3,
+   "date": "2026-11-23T10:08:57+00:00",
+   "coverage": 2,
    "topic": "Society",
-   "location": {
-    "country": "Sri Lanka",
-    "place": "Colombo",
-    "flag": "🇱🇰"
-   },
-   "more": [
-    {
-     "source": "Daily Mirror",
-     "title": "Colombo–Kandy main road to close for seven hours tonight",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPallVcEhkQkZhRlB1azRRMHRRcXg2MzVXUG84V0dHWEVNNjN6WVVkbDd6MFUtZkFLakticmo2WFRIVlhJOG8wVFpXbzJjZ2R2R0R4aGhQMlZKUTVwU09TRFJWRmFlRGJXS3loY3UwUkFyR3I5bEJiNTV2OWt2bzc1Z0NPdHQ1dVBxYjltcGgxd0hjTU9oRFpHR0xObThNR2wxWFZMNTZDN2hCT0E?oc=5"
-    }
-   ]
+   "location": {}
   },
   {
-   "id": "233d4377a8",
-   "title": "Verstappen wins in Las Vegas for third time in four years",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mbmlFeWlTRnNHTGRUaW5Ld2wtNHVnM2JJd2ppVEk1QXVmMTlXUDlxWkc3bXdQX1R3SVZJTGsyZ3puakF2TGN3?oc=5",
+   "id": "e93c65e84c",
+   "title": "Strikes unjustified amid three-stage public sector salary increase – Dy Minister",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9QTl9wZElhenhuTTM5NjlLT00tbzZ2MkFQRlVIMmhNMjh1b0hzRFc2RERLSzRaNnA3bG9LMzh1TUwwMmtXY3BV?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T08:58:56+00:00",
+   "date": "2026-11-23T10:23:15+00:00",
+   "coverage": 1,
+   "topic": "Politics",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "a69b429d6a",
+   "title": "Justice for All tells Parliament proposed anti-terrorism Bill is unworkable",
+   "link": "https://www.newswire.lk/2026/11/23/justice-for-all-tells-parliament-proposed-anti-terrorism-bill-is-unworkable/",
+   "summary": "",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Justice-for-All-PSTA.jpg",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:03:16+00:00",
+   "coverage": 1,
+   "topic": "Politics",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
+  },
+  {
+   "id": "8ebc2ac965",
+   "title": "Two fishermen killed in Trincomalee train accident",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDJJMFVial9jTWhMZ2ZPTldFOTVUNkE1Rm83LUtWdGJ4ODc5cUtObEpxUm55enV5QlBRNEtJMFEwWGN4ZVJlSWdrbkJMWm9QM0tUR1BYNFRsQVZqbmVBMW5sakhuaFpGSm53Zm00QnZPeXpsdjdUMFQ5Q1FTdnRRNkI3MXZuLW85QmhoTmtXRTlPMk9CbUItNkpFdDV5X25LZk1kYg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Mirror",
+   "region": "sri_lanka",
+   "date": "2026-11-23T08:17:00+00:00",
    "coverage": 2,
    "topic": "Society",
-   "location": {}
+   "location": {
+    "country": "Sri Lanka",
+    "place": "Trincomalee",
+    "flag": "🇱🇰"
+   },
+   "more": [
+    {
+     "source": "Ada Derana",
+     "title": "Two dead, one injured in train accident in Trincomalee",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0tWXVNUm5pRnN4TjJxS2RDUWdyaXJqYlM3bFhNMnRzdnVCalZyTTFqVmd6VGR6bUxjY0hybFlwUTJfZFR3WUhJ?oc=5"
+    }
+   ]
   },
   {
    "id": "6bff2e8265",
@@ -2468,179 +2491,154 @@
    }
   },
   {
-   "id": "5303b93659",
-   "title": "Wasantha Karannagoda and Yoshitha Rajapaksa plead not guilty to corruption charges",
-   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNHowOV9OV3dkZGUzbHdEX3BjRjQ1akdDQThxYk1vSi1fV1NMNGE2b2o2d00xNXdJRGJYZXJyUFUxR0h0QzlzbXlJM3FwdmxZY1pWX0dYSmdlU19TV2FWZHZEakdyUDhnV0dlYzBnb2pNdFJVOWdkclhRbENENlpVajliRTFGbzJHMndlSG95WndkQnFyYmNTdWg5M2tEZjhtNm1BZXJJdUlIMWtoTUJFbndoSXZkR0prSzFfajlUSXAwT0tMZUZfN29OMGc5SC1MQ2hQRWV1VV83bGtsMVB2RFY0SjI2RTUyUFlWa1lnZ01wMzA3Y0Z3ekttZzJWNm5ybk9hTlYyelRDblZiNWJYa2xRSXkwWDZzZVkzVUVweTFPT1VOUXNDdm5KWWlYTmdKWjhKaHEtdERueXp4SkszMC1vdWpkR3M4WVBxcWtrSDkyckU?oc=5",
+   "id": "085591bb06",
+   "title": "Marikkar calls for direct SriLankan Airlines flights from Europe to boost tourism",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUJyNlZqSjVpaWxtT045ZThtSkMtcXA5X2RhYUx5QTNDUEE4RThGY0ZpVUZnRTRtZmhsVzRfMzdTWERZdDZfVlVYYUVrbjhaTDNtMTl2Z3dCQmRWWmtjUkJMeVpjX0o1VGRkbVBybEVpMVFMWnBUMFhrcUJkQUx4RUo2NFRfcGctN2VWN3ZDbTMxRVNIR1dpd1A4dUh5WV90VWdBV2pNNFdhcFJJdmxCbnhIZTNxZXE3Q0tn?oc=5",
    "summary": "",
    "image": "",
    "source": "Hiru News",
    "region": "sri_lanka",
-   "date": "2026-11-23T08:58:32+00:00",
-   "coverage": 3,
-   "topic": "Society",
+   "date": "2026-11-23T09:36:40+00:00",
+   "coverage": 1,
+   "topic": "Business",
    "location": {}
   },
   {
-   "id": "6bf19c9906",
-   "title": "Four STF personnel injured in train-jeep collision at Midigama",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85Z01YZ09WZDcyNXc3X0ktRVNOd0F4cG5QT0lrXy1oNGNtaU1SaDNfSUFpaE1WYkdUeDJfaXhmWFo4U180UkVz?oc=5",
+   "id": "c5d8ac5c8b",
+   "title": "Sri Lanka’s inflation rate surges to 8.5% in October",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9KTm5kaUpwSlNEWEFiTldFeTFyWHlheC1VV0NISGs5Nmp5TW0wRDZaWVlRZmhmeGpiVGdQSXdBNlc0aGFzcEVn?oc=5",
    "summary": "",
    "image": "",
    "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T08:53:10+00:00",
-   "coverage": 2,
-   "topic": "Society",
-   "location": {},
-   "more": [
-    {
-     "source": "Daily Mirror",
-     "title": "Four injured as STF vehicle collides with train in Weligama",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2RMcG9vVGh4ZWVVNG1qT0RYdDdvOElSZmdGYjBfeHBvQ2RHMk5XUFQ4QUdKOHpLa2pMSkJDNHVMdmNjamN4anZzMWNBMmp6VlVySDlaeThMWjAwSlQ0bF9UaUZvdUk5Wkc1enVtTFZnQXFmZEtMbzZ6bzdyRDlndEQ4RFBDRFd1UTRwSzVUZVV6UjlKbmx4YWJhaVY1Z1lhdS01djdWUFh2MzhMWThvNQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "4c70f04d9f",
-   "title": "Card fraud victims foot the bill as region shifts burden to banks",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFBualh1cF9EQ0Rua0NhZDFkV2ZaZjlqTHFsUzE2TXFQOTdpaGJJRXI0eEFtNWwtWFJQaGZZbjk0dlZOa2ZFRXVxVW9pclBxVnpOZmVXcHh1MXBPT3ZIQlFSWXBVRTlMRUxKVnBmOWNLRlZrNjVMUzRDQWY5alRxd3ctazl6cDdQYWFXdERRc21USHg4OHNITmlWSXp2VWJadmNJVnN1R3loaHVEVFFLckZKZU9hT0c5TFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Mirror",
-   "region": "sri_lanka",
-   "date": "2026-11-23T09:20:02+00:00",
+   "date": "2026-11-23T10:03:12+00:00",
    "coverage": 1,
-   "topic": "Society",
-   "location": {}
+   "topic": "Economy",
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   }
   }
  ],
  "world": [
   {
-   "id": "f1abf2755a",
-   "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "id": "2cb2f93d81",
+   "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+   "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+   "summary": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
+   "source": "BBC World",
+   "region": "world",
+   "date": "2026-11-23T14:54:03+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Mexico",
+    "place": "",
+    "flag": "🇲🇽"
+   }
+  },
+  {
+   "id": "77ece09923",
+   "title": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "world",
-   "date": "2026-11-23T13:38:55+00:00",
+   "date": "2026-11-23T14:41:12+00:00",
    "coverage": 1,
    "topic": "Society",
    "location": {
-    "country": "United Kingdom",
+    "country": "Russia",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇷🇺"
    }
   },
   {
-   "id": "39259fd637",
-   "title": "COP31 has failed. The climate system is working as designed",
-   "link": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
+   "id": "f9e3bf529b",
+   "title": "India announces $1.62 billion economic package for Nepal",
+   "link": "https://www.newswire.lk/2026/11/23/india-announces-1-62-billion-economic-package-for-nepal/",
    "summary": "",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b03eed6-1795419862.jpg?resize=1920%2C1440",
-   "source": "Al Jazeera",
-   "region": "world",
-   "date": "2026-11-23T13:36:00+00:00",
-   "coverage": 2,
+   "image": "",
+   "source": "Newswire",
+   "region": "sri_lanka",
+   "date": "2026-11-23T14:40:37+00:00",
+   "coverage": 3,
    "topic": "Society",
-   "location": {},
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳 🇳🇵",
+    "also": [
+     "Nepal"
+    ]
+   },
    "more": [
     {
-     "source": "BBC World",
-     "title": "Five takeaways from the failed climate talks COP31",
-     "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+     "source": "AP News",
+     "title": "India announces a $1.6 billion aid package for Nepal’s flood recovery",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNTNPcnhTTndtR0F1d3haak1ZZWNEajF5eTQtb3JlV25oNlJFZ2ZCbk9xQ0x4M2ZwVnFRRWVCY1lNd1lScWp2cjJxR2pvQzRqX1gzbEREZVlTS2E4b0MyQXFRd3NPSzRRVU1ka2NtZXFGbWRxa185SkwtOWRmcFRCaXBVeS1HdWhIWFE?oc=5"
     }
    ]
   },
   {
-   "id": "1baaa97b8a",
-   "title": "Flights and train services cancelled in Belgium due to strike",
-   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-   "summary": "",
-   "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
-   "source": "BBC World",
-   "region": "world",
-   "date": "2026-11-23T13:34:02+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Belgium",
-    "place": "",
-    "flag": "🇧🇪"
-   }
-  },
-  {
-   "id": "54a5abb647",
-   "title": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
+   "id": "57f682f191",
+   "title": "Artificial intelligence",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg.com",
-   "region": "sri_lanka",
-   "date": "2026-11-23T13:33:04+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   }
-  },
-  {
-   "id": "0d558b3de2",
-   "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdmOUFLaEppLU9uMl80V2x1RTg4YWg3VUc5cWZsVzNfUWJBN2pFY3BhTndKanI0U2gzZHMzZVdpeWlkVkdBMkxGZkEtNFYyYmhteTQ5MHM0NnhkN2lfVk1WcDRxZDluQzVXNll2OWhodnVmaG9qNm15SWdweEM4YmxSWXVKd21mNW9uWW82MHUyWlJLTEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
+   "source": "AP News",
    "region": "world",
-   "date": "2026-11-23T13:31:08+00:00",
+   "date": "2026-11-23T14:37:01+00:00",
    "coverage": 1,
    "topic": "Tech",
    "location": {}
   },
   {
-   "id": "a04807256a",
-   "title": "Ukrainian naval drones strike new Russian warship in Libya, and other Mideast news",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
+   "id": "e67f280b33",
+   "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
    "summary": "",
-   "image": "https://i.guim.co.uk/img/media/cfb76673617a9119c98c92a444bacae6ca40eb5c/404_0_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0e332db8f99f35dc06693b30719d1bc",
-   "source": "AP News",
+   "image": "",
+   "source": "Reuters",
    "region": "world",
-   "date": "2026-11-23T13:25:00+00:00",
-   "coverage": 4,
-   "topic": "Society",
+   "date": "2026-11-23T14:31:21+00:00",
+   "coverage": 9,
+   "topic": "Tech",
    "location": {
-    "country": "Ukraine",
+    "country": "United States",
     "place": "",
-    "flag": "🇺🇦 🇷🇺 🇱🇾",
-    "also": [
-     "Russia",
-     "Libya"
-    ]
+    "flag": "🇺🇸"
    },
    "more": [
     {
-     "source": "The Guardian",
-     "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5"
+     "source": "Newswire",
+     "title": "Nvidia reinstates Jensen Huang as CEO after Chinese spy affair controversy",
+     "link": "https://www.newswire.lk/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-after-chinese-spy-affair-controversy/"
     },
     {
-     "source": "BBC World",
-     "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+     "source": "Hiru News",
+     "title": "Nvidia reinstates Jensen Huang as CEO, reversing board’s earlier decision",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczVreF9DOENyNGNIdUQ5cTFWbHRuLU9fZEVOZGRXR1VXZmdtOFg2aGx3ZzlhSy1pTW1uVlFVb1h2TkI2R09SdEFUc2E3c19kazVQQk44d2NWMDVjc0N2WkN5QnhqSXZXM1JZcEk2YWpOeU1pZUtOWDB2Y2kyV1B6ZkEzTkd2NjZwaUt3UlBxN0F5bXFlT0NKSk90MWNJZWQwNEFCc2tuY1Q4Zw?oc=5"
+    },
+    {
+     "source": "The Guardian",
+     "title": "Jensen Huang reinstated as Nvidia CEO",
+     "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
     }
    ]
   },
   {
-   "id": "eb91cb64f6",
-   "title": "Four Chinese nationals fined Rs. 76.4 million over illegal wildlife collection in Sinharaja",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRHBBWDdZZ1RkdjNONW5WM3VZQXpOYUFCOVlWcjhRcFJ0aE9KRHQxZDFNdndoUXBzZWJkcTBTSTktcS1YWnM4WDRtV1Q5eVhjX2pNbXFROFNRS21NWFR4SXR0Z2lybEc2Nngwa29JT2FMNk9SeWc2bzNuWGFxU29KMDBNeGtucEkzLTRaQkhUOWE0LUx2d0YzaFVFVC1kU0lJWG13UUtLMDB6QzZiTUpoUkgwTXo2bWpHcGRVSlhSX3N4LW4zbmRr?oc=5",
+   "id": "532cb217e6",
+   "title": "Four Chinese nationals fined Rs. 76.4 million over alleged biopiracy in Sinharaja",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCdUdEYXB5Tmk2MVFNcWdmVlVvMXZnMlZjQlNnb3d6aFp1NlRPbHBzLWFJM2FOV21Lak5HTEFlZk1zZW40MHA4?oc=5",
    "summary": "",
    "image": "",
-   "source": "Hiru News",
+   "source": "Ada Derana",
    "region": "sri_lanka",
-   "date": "2026-11-23T13:21:25+00:00",
+   "date": "2026-11-23T14:08:51+00:00",
    "coverage": 2,
    "topic": "Society",
    "location": {
@@ -2672,6 +2670,19 @@
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeng1QktvLXNpNVJ4ZWFndmRXMnc2STRneEdHWjNFU3N2Znl3NVVURzAyOVVwLXBRdmdRaXVmVS1LdW1JZDJXenhzb3BOZHc3bzdtUVo0ZmRCMUg5VUZBcGJkNUJnejU0d1cxRTRtNU1oaDB4LWE1VldsRWRWaG9uanZVdk10WjRxWW43NEVkTG8yTEU3MThDaERYWUtoRnBjWDlqYWdlb0tST1RBenh3aV9aT0xRTC1Renc?oc=5"
     }
    ]
+  },
+  {
+   "id": "edbd6b1111",
+   "title": "The trouble with the middle powers project",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWZRdkRfNVJBWXlEZm1vaGRscXBsdzZpQWlvY1I2SnJqb29GUk16OGlPWHpFSmZtS3FkMlRseXBSYzV4RTMxVmNKbkRaWTVSWDBOamNWM01NQ0lkX1RvT1J6LXJJZV9WV0NFdkFtcDB6ampWek5YNS05Vk9aZkJVWTBTelI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "world",
+   "date": "2026-11-23T12:25:47+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
   },
   {
    "id": "4decf6ae75",
@@ -2721,23 +2732,6 @@
    }
   },
   {
-   "id": "cdb5a2a85a",
-   "title": "FitsAir resumes direct flights between Colombo and Chennai",
-   "link": "https://www.newswire.lk/business/fitsair-resumes-direct-flights-between-colombo-and-chennai/",
-   "summary": "",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Image-scaled.jpg",
-   "source": "Newswire",
-   "region": "sri_lanka",
-   "date": "2026-11-23T11:40:26+00:00",
-   "coverage": 4,
-   "topic": "Society",
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   }
-  },
-  {
    "id": "76e50e7983",
    "title": "Turkey: Thousands protest closure of critical media outlets",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejlDMFNWODFzUVdfTFVsemk1QlpTMnZQWDVHSU9lUUN5LXllc3JET0diQTFNenNZaDNFQkp2RmtJQ3VRVm5DWmtsZEszeWtZNWRaWXVTblVaSC1UamFEMGlSdExUcVNBQl9MVFFFNmZJUl9CaERjdm1aeGFIZE9tdDFoV3ZuMXM0cVdZOWdKN2UzRHNfeVHSAZYBQVVfeXFMTk5sczUzZmlhdFdHNEJoZm9ILVE2d01kQVRpaklHcng1bDVPU0c3TU1wcHZlY1RmNXlIdzlwWWVBUmxlaHFTX01fcTJNbXpNQ1FLTHpneUYxZkppQXIxVmxNUGZJTmpJaDZkSkh5V0lQOGhkdEllWTVIY2VQSGYxWjJidHpseVVRd1oyVXp3cGF2bmhPcjd3?oc=5",
@@ -2752,6 +2746,26 @@
     "country": "Turkey",
     "place": "",
     "flag": "🇹🇷"
+   }
+  },
+  {
+   "id": "90e58c6956",
+   "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmZFWmc5YXF6STNWM3VCUWlPOF8xbC1BOWZPTTM1Q20wY3BvRmdQdE5kNW1Idy03OUpDV1JCNGRLS2Ywblc0MGI1QWZWaGx5RW5LTzdkUFBtRjdvVUUzdjRyeVZvUnh3d0RzdTVnU0VBdDF2RlhmWmdFNDVoWjFFRS1NWWE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "world",
+   "date": "2026-11-23T11:33:01+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱 🇮🇷",
+    "also": [
+     "Iran"
+    ]
    }
   },
   {
@@ -2779,20 +2793,20 @@
    ]
   },
   {
-   "id": "0e58f684ce",
-   "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUm9wNkZqQnhLaVB4b3pfd0QyR202a2FDWFM2eTN6MnYteVQ1dTZvbURpYmNlNDBZMVhxUE5DUW0xX0xGcnNneS1HVnMwQ0ExR3ZDZTBDZnQySTdNRW5ta0d3RnZfanJYVUs3czFSQVlGbWkzYmdqTEFxeVNvQ1BHMA?oc=5",
+   "id": "d1ffea7f3d",
+   "title": "FitsAir resumes direct flights between Colombo and Chennai",
+   "link": "https://www.lankabusinessonline.com/2026/11/23/fitsair-resumes-direct-flights-between-colombo-and-chennai/",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "Lanka Business Online",
    "region": "sri_lanka",
-   "date": "2026-11-23T10:26:17+00:00",
-   "coverage": 1,
+   "date": "2026-11-23T09:27:42+00:00",
+   "coverage": 4,
    "topic": "Society",
    "location": {
-    "country": "Ukraine",
+    "country": "India",
     "place": "",
-    "flag": "🇺🇦"
+    "flag": "🇮🇳"
    }
   },
   {
@@ -2802,7 +2816,7 @@
    "summary": "",
    "image": "",
    "source": "WSJ",
-   "region": "sri_lanka",
+   "region": "world",
    "date": "2026-11-23T09:26:00+00:00",
    "coverage": 1,
    "topic": "Society",
@@ -2901,23 +2915,6 @@
    "location": {}
   },
   {
-   "id": "ca549e9538",
-   "title": "Iranian president turns out office lights to urge citizens to save energy",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnhjMGhWTE9jLTJuMUZkRHVRS0t5cjVhZHlsNklGWlM3bG1ydUFpM0QtMGQzdHFGUVZMYXR1VkxOWm5DMThqSWY1WlBsZWw1Y2RRX3RKYUM4RHhIU3R6Q2x3dTB3ald3SloydzVtME0wamRkSjBjNE15QkhhUmg3TjRNdi1LMGxzM1F2RG1pRjZVYWI5WTFQUFBiMlBEZHI1ekxvcVd3bDh0bjQzUDBCZWI3cnFndkk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "world",
-   "date": "2026-11-23T05:00:00+00:00",
-   "coverage": 1,
-   "topic": "Politics",
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷"
-   }
-  },
-  {
    "id": "15efe220f3",
    "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVVuSzlMa1Vza0JNYXpXbGw2emp5RndTVHplTzB1QllobEw0SW5Dc3VyTFhwMFJnMkpRSEJEZnhPOFFZYWZhckZXaUlKdTZPRzNyOGNzLWp0YUZDOHM4N0xZQWZHVm9zOHRPbXp1a040YUHSAXhBVV95cUxNcG02RV9VeGk3SG90SjhQdWEyTGd3RVdNRmw4YkZreEZmY2JHUU5nVGNBQklaSmFES0ppelA3UmZFVFVUdVF0RzlzdVBtWWF1emF1U3o1N0x4T25VRDVTMS1Od3BWZnhTVERFN0hJd1Bud1hHdkk3MnA?oc=5",
@@ -2946,19 +2943,6 @@
    ]
   },
   {
-   "id": "0361d140f5",
-   "title": "Electrification 'distraction' failed: Richard Denniss on COP31 collapse",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVE1CREJxblJIVnZDN2xpTGJWNEM3RW9LYTlOU0lIdThGazZUUkI3RkNtSDNFTThEUl9nOUNHak1DWXY5YS1GM2RySTZ4bG9McklES1RJbkVLWlc3UHVSS2lPSW5iM1FrZFNlUXo1eHJhNE8xTWJ6LVNFbFBoZTZWUjM1WlNwc2tJMGFzQk9kaG1MNU11bGItOVZKWUJMT29jTWlfWDh4REJrSlFtYnNVUWt6WjAyZ3hSQThSVFp1SkFQVXY4U0dv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Politico",
-   "region": "world",
-   "date": "2026-11-23T03:23:00+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {}
-  },
-  {
    "id": "fe7f4bd0fa",
    "title": "Medical student, 24, suddenly dies of ‘food poisoning’ during graduation trip to Turkey — but family skeptical",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3VZRXhmSGxCNEpDYkFlcjhDQnlmeUQzRWUyQlJlT0d1dlFWVXk5MG1FYnpaSWw2NGFiQWk2b2NwTzVPc3RHeFZxRmwxa2RGcHBxel9BOXBOWkNtWlkyMTZkcUZGWmYtVlloOFZScTRteXJQR25aQnplTXE3andUQ2s0YnJoT0NlN3NNdG83bnFaRnNyNTVQYUZGaGlGY21NNTBwQ19nU3hDN1J2S3ZTNWk4bkRSRDJIVFBXYUVKMS0wOXc?oc=5",
@@ -2976,6 +2960,19 @@
    }
   },
   {
+   "id": "b92952a5e2",
+   "title": "Dems set sights on ICE's costly prison purchases",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ueWYxaHZHcUU2WGNNWk1PbXFwZFZWNTFlQnQ5TUdhYmJNeXZBeVlJWWpwcHdFc2p0V045T2hrNXpXUmdhWG42MVprZmJTTnZZdkpIMm0wWXd5XzR0YkpZc1hPLU9Ha0RGS29JTEtCSzh3NG8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Axios",
+   "region": "world",
+   "date": "2026-11-23T00:54:51+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {}
+  },
+  {
    "id": "39752da6ee",
    "title": "Urgent warning issued to cruise passengers about strict new law in Mexico",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0Z0a3NUYlhQTm55VzlKSFhWRzZzZ1RnZmFYMWZpY2JkR3FOc291ZjFjWktIMlhHdjJ3SDA3M2ZrZldiT2FZZmhHTllWMERZbl90Mi1ZcV9xLTNWNEVFOEY4NlRNdG5QRDFVb3FDMzRzZ3h2UUdBdmt5bEZwY3JuZlY4S21ZMThXT3VZQkxiNW1QSGtSbGZBeUREbkdjcHPSAaQBQVVfeXFMTkhIMGI1cTdGTTQ0R216NE9DbFN6Qm5PckdTODF2djFBWlB6blNWajZySFhqQ2J1ZDduNHRreUpkYURIeFZianR6TGlRd2MyYjNNMmE5MUJqTFp0amRBdUExUDN5c0g2TzNKeFNhZFZ1TlBlMC1nN3IzQk5haUZGUWdBVzJZSjJiTS1sLWp4cEdySWl3RGl0aE1uYWo4U05HbWJGbGM?oc=5",
@@ -2990,6 +2987,26 @@
     "country": "Mexico",
     "place": "",
     "flag": "🇲🇽"
+   }
+  },
+  {
+   "id": "78936b357b",
+   "title": "Ukrainian city moves to remote learning as Russian strikes disrupt utilities",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzh1WWdkVzVFQ0RlVS1nWEp5X18yMGQ3akRSMjZnc1RDTUhtQUZ1QkQ3UGpuS3RBcFFZRi1rNVlpeTktUFdNUFNuZllHUS1XdUE0YTNoRGtsMTBuYUFQUWlOUlVwU0RuSndKUTBOalFOeUxUQW9hbVk1aGtPYTBLNEVTdGdqb0xwZlVSc0wyYWlKS0YwLXc5WWwxckdyOTRHMnFZTzZmaWhQTkE3ZjdTVGVja05hQlhiOUpF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "world",
+   "date": "2026-11-23T00:05:40+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
    }
   },
   {
@@ -3010,43 +3027,6 @@
     "also": [
      "North Korea"
     ]
-   }
-  },
-  {
-   "id": "a711f77784",
-   "title": "IDF said to warn Netanyahu an Israeli attack on Iran could spark multifront war",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWm9JUTF6SkM5cW1FT1BkWXBRZVVsbWVyb01xSFZLRWVKUFZpbmptLU1GSUlBVzFwUDd1VWVGM1ltU0d0dVpTMURPdjNPMHlEdHYyRHhtTGlyQ1BfMW1KdVJKYkpKTldBbFUzNUVyN0M5NWR5bElMcDZCZWpQWmxUSjVOTzlJUDBOQXI5MThLZ3FpUkd5OEN6T2ZkMTlFc2RPdzB6M3o2d044UVpEYUV0U9IBtgFBVV95cUxPODVDM2RTZktJbmNoeWhWalE0R01TNlJDcDFLT3VKVkloZ19GMzRwZXYyVm5CQ2h4S0ZON09vRjdTU193M1Z0Q2xJVFpVdndKbUJRT3lHeC04TEE5RWRsMy1FVVNuWDIyLWJzVEJNN3A3N2d2M0Z2TVVLUlRYM3A0NTAyRE5Zck9PYVpDVlZiNGpaTE8zSjlmOElTQTdDdEg4VVhfR2dEdXo2NXJqUEtRRTRjeHlxdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of Israel",
-   "region": "world",
-   "date": "2026-11-22T21:42:00+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱 🇮🇷",
-    "also": [
-     "Iran"
-    ]
-   }
-  },
-  {
-   "id": "334d9f379b",
-   "title": "Lion on the loose in Istanbul as residents urged to stay indoors",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcW56YmktUjIyOUl5N2szc3FjRW50WXZEd1pLTHBURFJSOWRpS2F3V29HRkxvRm1lNXV2WU5IQVRILW53SXFHMEY4V1phZXF1TnYzbzZHTTRKTjZTbkdVYTRJRENTSVVMVGtvUkNRX2ZaMVU3QUIzU1ktRkEwcHV0T2lkN3FzSHhqeDJKWUdjZTJDcXVMeGZoUkFtUTB3X0RUZXh0NldBc2VrTk1SaUZ2bmFGWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Türkiye Today",
-   "region": "world",
-   "date": "2026-11-22T20:55:46+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Turkey",
-    "place": "",
-    "flag": "🇹🇷"
    }
   },
   {
@@ -3108,28 +3088,21 @@
    }
   },
   {
-   "id": "b503ec2651",
-   "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3?oc=5",
+   "id": "b88c9894a7",
+   "title": "Lithuania Denies Involvement After First Drone Strike Hits Russia’s Kaliningrad",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04cVVsSlJiQzU5VXdELUd4OTFhUDh0akc5NGhwVUlUcmU5NGY0c3RqNW5pOEtVSHdzNFdhejR5VkRoaVYzN0t0ZTl2MA?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN",
+   "source": "Kyiv Post",
    "region": "world",
-   "date": "2026-11-22T15:13:28+00:00",
-   "coverage": 2,
+   "date": "2026-11-22T15:47:10+00:00",
+   "coverage": 1,
    "topic": "Society",
    "location": {
-    "country": "Iran",
+    "country": "Russia",
     "place": "",
-    "flag": "🇮🇷"
-   },
-   "more": [
-    {
-     "source": "Hiru News",
-     "title": "Shipping attacks in Gulf region reach highest levels since Iran war began",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNelYzRGR6c2pSSVFzS3ltMEFLeVUxcElBbVp2Tk1QZmVXc0xSV0oya1NtSzBCSzltRUFCUnJtdkZSdmxFbDVfS2pZLUJEaW9lR094RnVmbmZQcWJmSlBmVHFsMy1tWHhpTS01VDZjd25oXzlocngzTUd4NDhhM3p0QlpWQTZnZUxDUmwxZjF1WldrX3EzZFV6MTRVdl9IMHZrMWU1LVp0bEtrRDdV?oc=5"
-    }
-   ]
+    "flag": "🇷🇺"
+   }
   },
   {
    "id": "a44ec34a7a",
@@ -3169,23 +3142,6 @@
    }
   },
   {
-   "id": "b88c9894a7",
-   "title": "Lithuania Denies Involvement After First Drone Strike Hits Russia’s Kaliningrad",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04cVVsSlJiQzU5VXdELUd4OTFhUDh0akc5NGhwVUlUcmU5NGY0c3RqNW5pOEtVSHdzNFdhejR5VkRoaVYzN0t0ZTl2MA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Kyiv Post",
-   "region": "world",
-   "date": "2026-11-22T12:44:32+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺"
-   }
-  },
-  {
    "id": "179c03e953",
    "title": "How Trump plans to double down despite Democrats' midterm wins",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNW1IeERpel9Ub21zX3VUd1c2Rk1QZVVVU3paRTRSUVZMT29jYzFlNFhJSVdyVnM3RHRHM08wX3VxLVZZdGdnb1ZHNllZVndvMllud1RtQ1pVRjJvOEZ3bDJuSjlQRDJ5X0pQbVhVUWVHeUR4NHpHbmFMcjVUZ2JNcjdHX2I5RzRDWlRfR3FVV3ZLR3B2N0cxNk94RlFIYmg2cmpUSUVOTUEwZkxrc3c?oc=5",
@@ -3217,26 +3173,6 @@
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
-   }
-  },
-  {
-   "id": "2927b0a533",
-   "title": "Nepal wants more access to Indian skies. Why Balen will need more than diplomacy to stick the landing",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONVFjUjVmMm1pY1VWamtOXzIyVFhzdUdKNkQ3QVA0cDVwVzNQNllPUXNINHNZeWhtXy1YdVJYeU5TX0lTbk9aT1FPcU9IbVR3TTB5MF9tYm84U2Zsd01RakxVWmR3N0QwNnJkb0prRUVRRjBBWGFYWFNjNUoyeFNRemJDQ2xDdWdZOTkyOUZDWlp1U3ExbUxveTVzZEFhMU1NMC1nODhxVHo2by16cldXZlF1amd5dWZ6ZFNxRzFJdjhub3M1WTZ6bi1mbE1BVE5Yb1VROVF30gHbAUFVX3lxTE1mTUY0bm0zRnppdTl0cWxoNWR1R1NxTUNIbENRTWRyMlJfV2hvZmFGVzhRTnd3eWViYUhGeU8xbXhBV3E1OEFMUGp1TlEwVEdqSEVqckV0alZVUkI5RVNsM2hfdEtkT3I5dnNaUnYtWVYzZGpDYThHZjljeWZuMWpyNzRKcVYyNUpoRVZTd3VqZmtHT1NEeG54VEE4MDU5d3RjNnBJLXpFSnUwZk9xN3BrRlB1cEMyNzUtaXBtaVFjWFAxbkpKejFaci1CcDRxaHVieUt1VnZxVzNOVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ThePrint",
-   "region": "world",
-   "date": "2026-11-22T08:27:18+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Nepal",
-    "place": "",
-    "flag": "🇳🇵 🇮🇳",
-    "also": [
-     "India"
-    ]
    }
   },
   {
@@ -3280,23 +3216,6 @@
    }
   },
   {
-   "id": "5373cfbc71",
-   "title": "The ‘austere’ conservative poised to lead Spain with the far right",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdKUzcyYW9iMWQ2Q091WW1rWW5iYlhDSndVdDkwWWJPZzV2dVJuaGFMbE1VSHA0SG41bVJrUDNNaUZYRHktOHBtYVlxS2JXRlV2ZGRjQVB4WFJTS2V2RmI2a2Q0blRXOTVlbGZISDF4Q1VQTFp4MlpiZkpjY1h4OWUxNHg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "world",
-   "date": "2026-11-22T05:02:06+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   }
-  },
-  {
    "id": "42218a5bfd",
    "title": "Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzJ5Mkk0bVR3U0FIeVVxV0xfNVJSSVVGbE0xMmlEdGFmUE02bXV3TDRsZlVMZ080Ump0eFpnNjJkcHRpUmItSWN6V2x0YV9CODRSV0JKSWZHZEttMlhpazkwMTZCOW05d3RwbnpkTUV6NDg2QlU1RzFtbkM3TUk2SExmemU?oc=5",
@@ -3311,6 +3230,23 @@
     "country": "Iran",
     "place": "",
     "flag": "🇮🇷"
+   }
+  },
+  {
+   "id": "e733d33d55",
+   "title": "Bennett backs unity government under Eisenkot, nixes Netanyahu as next PM, rules out defection",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzdfbXBzWDE0cTVUNGxKLU1Fb2ZpcHJrSTRrZnYtcDJ3ZUctd3pVUE1ZS0JEUmh4YzZwM29tU1RtQnRSTUdZSjdVNU9jaFYyWURUczFtbjZtNUJiU0cyeE9nVHZHSnFiV3p6a2pSdXhHaTVzSXhfR1pVSDNENDZkWjlaTFRWZTZSQmlOZk5tdWVpNi13dlVOeWxHM0dZWGFCWTFubmJSZ1FUSnU1MGtRVDd4dmhQRDNHNEdpTEpTWXHSAcYBQVVfeXFMT3Jld1laUkxCbmV3VkpZYTJvWUJpMTZTUHpod3o4ZG1zbkYybml4Sjd3d0dQb2F5d2xRWUhrQllMOXRmbVJHUUxYN0NNZHBYbnpwU3VqWk1kUlQ2SEhBeDRKX1RWN2RVeHBzSk5WZGZubzJ2SDZmWXpraTVmTXpOUDR6NUQ0LVpZSE1DQWx5Q3EtTlFNTXRTTWNoQUJXeHhrU3ZwZkF6S1JZSXdRWEVWakRXOFJaTWNxUGZFcU9KVVFMaU16VzNR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of Israel",
+   "region": "world",
+   "date": "2026-11-21T21:55:00+00:00",
+   "coverage": 1,
+   "topic": "Politics",
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
    }
   },
   {
@@ -3347,13 +3283,26 @@
    }
   },
   {
+   "id": "9fb9733845",
+   "title": "AI may not work like the human brain after all, scientists discover",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScienceDaily",
+   "region": "world",
+   "date": "2026-11-21T15:25:56+00:00",
+   "coverage": 1,
+   "topic": "Tech",
+   "location": {}
+  },
+  {
    "id": "f392c69688",
    "title": "Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2JGZWZ5YnBaN0tfT1hfRkpGTTVUNmxXYmttQUlaLXl4ZVMzeUlZcnBhTlExWXlkdXVuQ2FaMjVQa3pBdmhrMUllN2toZkc5WXEzX0lXMGhUNHJaQ1VNMjZJQU1NX0psWUR2bTJlY0dPTUVwZU9WVGpSMW9rUWpZTUdsMzlILUdwc3NIbWExS3BoUy1xVkZrb1VZcElVLTF3ZXVSQ2R0ZnVhbU1iSHpXbmNoZFh0dkFId1E?oc=5",
    "summary": "",
    "image": "",
    "source": "NBC News",
-   "region": "world",
+   "region": "sri_lanka",
    "date": "2026-11-21T15:10:07+00:00",
    "coverage": 1,
    "topic": "Society",
@@ -3364,108 +3313,78 @@
    }
   },
   {
-   "id": "1e9812a1c5",
-   "title": "Did the Court Change its Approach to Defining or Proving Genocidal Intent in Gambia v. Myanmar and Did it Get it Right? Part II",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkwwWW43UjNqdmdlbTJ6allFeEdpS0JfOG9CQ25xdzlsZ2Z5VXpzMEFGdTFDMTliUnVJWFBBWGFFaURKRGlOa3JxcTdkbWxsLU90WXZtekpoVlhxSWJld0ZaNUJocGpSUW9XcW12ZjlCWTh4MmU2bmJaTGlNRVlrZ1pRWjNyZ1NQc3h1T2JDX3doVnVWSjQtTW1TbUd1X3dEQ3h1OGVLX2dfTGtLUW5udFlTZHpCc1JlTzNEbmVydVdQeVFqLU9YcEhLOUFIeVNfRnFneDhES0NDb1VCMzhvYThDSnBVQQ?oc=5",
+   "id": "4b2bd67cb2",
+   "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+   "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
    "summary": "",
-   "image": "",
-   "source": "EJIL: Talk!",
+   "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+   "source": "BBC World",
    "region": "world",
-   "date": "2026-11-21T14:17:52+00:00",
+   "date": "2026-11-23T14:26:33+00:00",
    "coverage": 1,
    "topic": "Politics",
    "location": {
-    "country": "Myanmar",
+    "country": "Nigeria",
     "place": "",
-    "flag": "🇲🇲"
+    "flag": "🇳🇬"
    }
   },
   {
    "id": "dfa4db2f66",
-   "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+   "title": "Trump insists US government has ‘no reason to believe’ Huang’s return to Nvidia poses a national security risk – live",
    "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "world",
-   "date": "2026-11-23T13:16:02+00:00",
-   "coverage": 2,
-   "topic": "Politics",
+   "date": "2026-11-23T14:40:38+00:00",
+   "coverage": 1,
+   "topic": "Tech",
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "more": [
-    {
-     "source": "AP News",
-     "title": "Democrats plan 12 debates for their 2028 presidential primary, with the first in June",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORGE1Z0o0bFp6aHVKel9xNlhhaEdEWUpua3l1Y0dQNzZmVGQzaU5pTTVYT1RmS2FKRnd6R1ZHaVVaOGp2bUpTU1FYQVE1enFQcDVJMk9ENUNNWDNpUE8xdnByT3YwNG92Z1BxVXl3RFFvNlhoOUkxWURCUEVUcGdBZmJSUzMxWnAybG9UQ0ZBZFhJZjRHczU2bk5MRzJnSXVSQnFRUzIyVVlrR0JJ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "ba920d31a5",
-   "title": "Iran says it will use ‘all available means’ to counter US blockade",
-   "link": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "world",
-   "date": "2026-11-23T13:04:11+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷 🇺🇸",
-    "also": [
-     "United States"
-    ]
    }
   },
   {
-   "id": "2cb2f93d81",
-   "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-   "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-   "summary": "",
-   "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
-   "source": "BBC World",
-   "region": "world",
-   "date": "2026-11-23T13:26:36+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Mexico",
-    "place": "",
-    "flag": "🇲🇽"
-   }
-  },
-  {
-   "id": "2df581d3f4",
-   "title": "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images and videos",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnVxU21QWWFOSHYzcW1sajgxS25DUndFTGd6dTh6UzdyaFR5U0QtMWlROWIxZ01IcU0wNG5FLXRaMWZoS1o0dHhEUUFiaDItWFVIbE01S1pTbDZxYVZGN1hMaHlNYXBZck84N3JPaW1xcW5VMHdNeFBHSWZmRVN6MzlHZjdEcl8wTkVERGhBU3M0dVBXSHBFUHNpM1pCc1Q0MV9HTWlveVJSV1hiSEFaWjJDMEI0b2p2bzBIZEdrampIVFlVWEE?oc=5",
+   "id": "f0db71fbaa",
+   "title": "Schools across Germany, Denmark receive bomb threats",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
    "summary": "",
    "image": "",
    "source": "Reuters",
    "region": "world",
-   "date": "2026-11-23T13:15:32+00:00",
+   "date": "2026-11-23T14:23:25+00:00",
    "coverage": 1,
    "topic": "Society",
-   "location": {}
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪 🇩🇰",
+    "also": [
+     "Denmark"
+    ]
+   }
   },
   {
-   "id": "1b7beba567",
-   "title": "March Madness | 2026 NCAA Tournament",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ET1V0NzRXSmNVQXdpWVV1MTJsSWN5SVdsdjJXeVl2X3hNUGJ5eTRTQnEtSFM0XzduZXNIWUtDckVZTFpYc0Z1TmFtTzA?oc=5",
+   "id": "5fe385f141",
+   "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
    "summary": "",
    "image": "",
-   "source": "AP News",
+   "source": "Al Jazeera",
    "region": "world",
-   "date": "2026-11-23T12:36:45+00:00",
+   "date": "2026-11-23T13:54:48+00:00",
    "coverage": 1,
-   "topic": "Sports",
-   "location": {}
+   "topic": "Society",
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱 🇵🇸",
+    "also": [
+     "Palestine"
+    ]
+   }
   },
   {
    "id": "ea59916fe5",
@@ -3499,6 +3418,23 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   }
+  },
+  {
+   "id": "5373cfbc71",
+   "title": "The ‘austere’ conservative poised to lead Spain with the far right",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdKUzcyYW9iMWQ2Q091WW1rWW5iYlhDSndVdDkwWWJPZzV2dVJuaGFMbE1VSHA0SG41bVJrUDNNaUZYRHktOHBtYVlxS2JXRlV2ZGRjQVB4WFJTS2V2RmI2a2Q0blRXOTVlbGZISDF4Q1VQTFp4MlpiZkpjY1h4OWUxNHg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "world",
+   "date": "2026-11-22T05:02:06+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
    }
   },
   {
@@ -3564,6 +3500,23 @@
    }
   },
   {
+   "id": "0e58f684ce",
+   "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUm9wNkZqQnhLaVB4b3pfd0QyR202a2FDWFM2eTN6MnYteVQ1dTZvbURpYmNlNDBZMVhxUE5DUW0xX0xGcnNneS1HVnMwQ0ExR3ZDZTBDZnQySTdNRW5ta0d3RnZfanJYVUs3czFSQVlGbWkzYmdqTEFxeVNvQ1BHMA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "sri_lanka",
+   "date": "2026-11-23T10:26:17+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   }
+  },
+  {
    "id": "5e827b5a7f",
    "title": "7-year-old boy pulled alive from rubble hours after Russian strike on Ukraine",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbzhiT1V3U1pxTmphQ3VTNV9nNHVsNXd4WlQ2Wi12SDdqT2xRSGZPamhyOWRybzlpM3ZTVS1wY1FmeGh3enpDcDNvTjVSZjBJQ1dYZ2ROTkN2QVByNC1tb2VlYVQxcnlBZXJzY3ZCaWRYNWJOb3VUenhrdTd5cmk1LWdSbXJyV3dLYnpVNk9yVDZrUExqR1VzU1pzRWd4bk9EbkRGVGhvU1JhdUNjQW1nRHpHaDRKUVVmQkZ1X2hhRmZSVVpKNklYcHRiNGo?oc=5",
@@ -3580,26 +3533,6 @@
     "flag": "🇷🇺 🇺🇦",
     "also": [
      "Ukraine"
-    ]
-   }
-  },
-  {
-   "id": "efe54b0237",
-   "title": "A French Star’s Latest Reinvention? Acting in Japanese.",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTd0V3JDUjZHMC1nenlaTHFYNlJLbjh6T1pfRFk0TUpUbThYdkc1TWdPbnN3ZnNSWjBlWG10b2hKOTlVams3aDE1TnZXS0NTTTQ3REhKYk85QXFfaW1pNExLbzdJSldGMG9LRUQ5aHIzU2N6OFVrZUhHRDltckRFQUNDWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "sri_lanka",
-   "date": "2026-11-23T10:00:26+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷 🇯🇵",
-    "also": [
-     "Japan"
     ]
    }
   },
@@ -3662,46 +3595,6 @@
    ]
   },
   {
-   "id": "78936b357b",
-   "title": "Ukrainian city moves to remote learning as Russian strikes disrupt utilities",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzh1WWdkVzVFQ0RlVS1nWEp5X18yMGQ3akRSMjZnc1RDTUhtQUZ1QkQ3UGpuS3RBcFFZRi1rNVlpeTktUFdNUFNuZllHUS1XdUE0YTNoRGtsMTBuYUFQUWlOUlVwU0RuSndKUTBOalFOeUxUQW9hbVk1aGtPYTBLNEVTdGdqb0xwZlVSc0wyYWlKS0YwLXc5WWwxckdyOTRHMnFZTzZmaWhQTkE3ZjdTVGVja05hQlhiOUpF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "world",
-   "date": "2026-11-23T00:05:40+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   }
-  },
-  {
-   "id": "dead23c9fc",
-   "title": "Mike Waltz warns Russia faces ‘unsustainable’ losses approaching WWII scale as Trump seeks deal",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcDdDdFg1TVV3QnZMMjFYWmtibjlyeUhvQnVfRy04dW8ta3N3RnZ6dXJxaEM4cDFQVXM3dFh5R2RGcExoYURLM2xuOUxRRXJkc3BMWlRPOEVvTWgtZXhmNDJtRVh5emFneXlOZlVfeGU3amlmT2o0SUFlTUVBWHdQZzA3d3RhbXduNWZQSXdJck9YVmkxamdnVUs4cFgwdUJOUVZUbW5uYjI5ejVITGItRFI4R0NBaVdPcGNDa1FRejNNaDI0aGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "New York Post",
-   "region": "world",
-   "date": "2026-11-22T06:43:00+00:00",
-   "coverage": 1,
-   "topic": "Society",
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   }
-  },
-  {
    "id": "dcd59c6f1c",
    "title": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzJEdmVaWERGRkpBVTRSSUlMN2EtdUVIdHZTdGZsRHp2bERPRGQyMUJPYlc4TEVBd1l6QXNOMHVDTnVrU3djbHVHYUxDTGY2S1BwSVdXMkFUM2ltV1NFNU9VZDlHSktQRmM5Z3V5cEJsUDR3WThRUjdKd1g1a3ZkR0pqSDEzTVJUZzFZd2xLMVN5TFdYYmpOVjlYWVBPcENteEdN0gGoAUFVX3lxTE1Cdi1ZaFdLVWItZzhQRzFjUmpUNHpOZEJRWmFzbkItTVBnV3FvaDdtTGRGblBpMGNyd3VQT2VudnRFVzhCTTJKZkwxbU9Qc3hZbXowOFVnX3RiT2R1R2NvZUh1SFQwRGYwM3p5N3lGWk5mM3BlRTktS1NaSDg3a0tVakVndEdaNDVCOXB5R1J0R1RRWFNkbjlsQ05ZaUpDZ2oyOFE1M2IzNQ?oc=5",
@@ -3719,6 +3612,23 @@
     "also": [
      "United States"
     ]
+   }
+  },
+  {
+   "id": "ca549e9538",
+   "title": "Iranian president turns out office lights to urge citizens to save energy",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnhjMGhWTE9jLTJuMUZkRHVRS0t5cjVhZHlsNklGWlM3bG1ydUFpM0QtMGQzdHFGUVZMYXR1VkxOWm5DMThqSWY1WlBsZWw1Y2RRX3RKYUM4RHhIU3R6Q2x3dTB3ald3SloydzVtME0wamRkSjBjNE15QkhhUmg3TjRNdi1LMGxzM1F2RG1pRjZVYWI5WTFQUFBiMlBEZHI1ekxvcVd3bDh0bjQzUDBCZWI3cnFndkk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "world",
+   "date": "2026-11-22T21:01:34+00:00",
+   "coverage": 1,
+   "topic": "Politics",
+   "location": {
+    "country": "Iran",
+    "place": "",
+    "flag": "🇮🇷"
    }
   },
   {
@@ -3742,38 +3652,17 @@
    }
   },
   {
-   "id": "e733d33d55",
-   "title": "Bennett backs unity government under Eisenkot, nixes Netanyahu as next PM, rules out defection",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzdfbXBzWDE0cTVUNGxKLU1Fb2ZpcHJrSTRrZnYtcDJ3ZUctd3pVUE1ZS0JEUmh4YzZwM29tU1RtQnRSTUdZSjdVNU9jaFYyWURUczFtbjZtNUJiU0cyeE9nVHZHSnFiV3p6a2pSdXhHaTVzSXhfR1pVSDNENDZkWjlaTFRWZTZSQmlOZk5tdWVpNi13dlVOeWxHM0dZWGFCWTFubmJSZ1FUSnU1MGtRVDd4dmhQRDNHNEdpTEpTWXHSAcYBQVVfeXFMT3Jld1laUkxCbmV3VkpZYTJvWUJpMTZTUHpod3o4ZG1zbkYybml4Sjd3d0dQb2F5d2xRWUhrQllMOXRmbVJHUUxYN0NNZHBYbnpwU3VqWk1kUlQ2SEhBeDRKX1RWN2RVeHBzSk5WZGZubzJ2SDZmWXpraTVmTXpOUDR6NUQ0LVpZSE1DQWx5Q3EtTlFNTXRTTWNoQUJXeHhrU3ZwZkF6S1JZSXdRWEVWakRXOFJaTWNxUGZFcU9KVVFMaU16VzNR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of Israel",
-   "region": "world",
-   "date": "2026-11-21T21:55:00+00:00",
-   "coverage": 1,
-   "topic": "Politics",
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   }
-  },
-  {
-   "id": "acc328b8ca",
-   "title": "Salvage operation after cargo ship runs aground off France",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXBQQk5iRF9ObzJWMXViLWVXMjNpNXlsaHprOHdkRHZHcXlGckRiakRGOHlFVTlQVDhEVi16d0ZXLVpGelBmOC1vYjVLSEpJclZZOUdmdXY2V054QVFmOFBFcFgyRlpORk9tMlBsSHJiQUR3NGpaLVBiaVZNTlNaeGZvVmFPWmFad0RhT0tjOUFqTjd1QjF6c3lXakV3QnlFVDNjUC1CRElSa2hKV3gw?oc=5",
+   "id": "a6195df4d7",
+   "title": "Tanker incident “involving military forces” reported in Hormuz",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm96RExBbGw0OERZX1lMWGxhczRYS00yOXR6Rlg0XzJ0VHk2bEhZVHVFNmFRYllVUjZvZUhqYzFQSnNULTNhRjNhcE5IOXFNQmFOU2RlZlRZYWxrUnVZbWJrWGEyQWF6T1Z4MUUweHVKTmsyNnMtSS1KeHhxeWdoUWlZYU03eUR0X242RVdjNUp5dnU1R3hXRmNwOV94Nkx5UGtySXZMVnV2QQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Euronews.com",
    "region": "world",
-   "date": "2026-11-21T21:55:38+00:00",
+   "date": "2026-11-22T18:07:13+00:00",
    "coverage": 1,
    "topic": "Society",
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   }
+   "location": {}
   },
   {
    "id": "0a4b4d403b",
@@ -3793,107 +3682,149 @@
    }
   },
   {
-   "id": "77ece09923",
-   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "id": "9198092ae3",
+   "title": "ISW Russian Offensive Campaign Assessment, November 21, 2026",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55SHhTQzhLcUR4RkFmb0NPUTRuNGpNdUpCMDYzQXpDR2JlX1NiSnZOOGRRbk80TmxlWkZVa1RnaURJMlY0SHl6QWRxMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Kyiv Post",
    "region": "world",
-   "date": "2026-11-23T13:12:27+00:00",
-   "coverage": 2,
+   "date": "2026-11-22T06:03:27+00:00",
+   "coverage": 1,
    "topic": "Society",
    "location": {
     "country": "Russia",
     "place": "",
-    "flag": "🇷🇺 🇦🇱 🇺🇦",
-    "also": [
-     "Albania",
-     "Ukraine"
-    ]
+    "flag": "🇷🇺"
+   }
+  },
+  {
+   "id": "1baaa97b8a",
+   "title": "Flights and train services cancelled in Belgium due to strike",
+   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+   "summary": "",
+   "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
+   "source": "BBC World",
+   "region": "world",
+   "date": "2026-11-23T13:34:02+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Belgium",
+    "place": "",
+    "flag": "🇧🇪"
+   }
+  },
+  {
+   "id": "9ef6302e72",
+   "title": "Nine people shot at central California concert with one in critical condition",
+   "link": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "world",
+   "date": "2026-11-23T14:34:40+00:00",
+   "coverage": 2,
+   "topic": "Entertainment",
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "more": [
     {
-     "source": "BBC World",
-     "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+     "source": "AP News",
+     "title": "9 people shot at a central California concert; 1 in critical condition",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHpvMEx3ZlhhWHB6cFVoa1hWV0N3Z1BVOE8ycG45ZWJtNTNxak0zQ1kwaWZhQXJWRGlTQndqQlN3R0pvR2FwZVpNTl9lenNOVHB3bndTNTNqT0V3OEVpVnZEOU5mTlJFWVB2NEtNZmVsREtfU0dFczRiX2RJTXpyVHB4UXJBXy1HZ0t4R1NpdHI?oc=5"
     }
    ]
   },
   {
-   "id": "697deac172",
-   "title": "Argentina footballer Paredes collapses during post-match interview",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "world",
-   "date": "2026-11-23T12:40:21+00:00",
-   "coverage": 1,
-   "topic": "Sports",
-   "location": {
-    "country": "Argentina",
-    "place": "",
-    "flag": "🇦🇷"
-   }
-  },
-  {
-   "id": "3ed909c38e",
-   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-   "summary": "",
-   "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg",
-   "source": "BBC World",
-   "region": "world",
-   "date": "2026-11-23T13:02:05+00:00",
-   "coverage": 6,
-   "topic": "Society",
-   "location": {},
-   "more": [
-    {
-     "source": "Newsfirst",
-     "title": "Democrats Clinch Historic House Majority Of At Least 258 Seats, The Largest Since 1992",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGI2QnpUNTdQc1hxRWw4Y0xlaUc3cHhRSF9wRlB6c0UyTzRfSDBiNl9vQTRiMXppVzdLRFBFazZRNHAyVXpEVkNvR0Ewc1ZDSmZISjRBeTBqUWVMRzJraXNnTlU2ZEVqUE5BNDNUNW1MWHBwMzhXdDRVbFRLVlNsNlhnQXJTM2g5a2xIVEw5RWpTZW51UGFScnN0LXNkdHlHZVZzYmdGSDgzS0NhTzlUM1JzTkFVSUhueGVWcHdB?oc=5"
-    },
-    {
-     "source": "Reuters",
-     "title": "North Carolina win gives Democrats biggest US House majority since early 1990s",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzZjY0pNZnpnUmtsZ3RudXpZeDh4TnlWZDFIZHBvUk0tbVlxREhydk5zRTJhX0lYcjFXQTNNTzBtOFM4NlNhTE9DZnl3SUZiM3RpTzRzZTJ4aURMSUJCdDRGb0l2MWh5MFJmTWgwS1k4Ql9vTGh1eWVGbEw3WGVCS1UtTkNGVVoxS0EyZVl3Vmw0UThpTlVUWWN2WlNyaWR6a1FYYlJZaWl1MlAyQ01OSEcyY3hMai0zUWdfUUc3MkQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "b8fd31a396",
-   "title": "India announces $1.62 billion package to bolster ties with flood-hit Nepal",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWpDakZzTzdkdDFwdmNHcHlTc0Q0SDBxWEN3Uk5ZcmZaZXJzdzV3RXNtZkUzZzk1RlJKVFdkNkp5aVI2cVNaeVBBMFRBcXZ5S00xVVRvN3JuNXJUcXpvaVdrTnZPRmVhTUhuNHNEdDZtQmF4bFEyRVB4NG93c19Ub3hsQnJZNUJURGZjcndld1ZTVGViQnFDaGFzeExYaGVxZkE0SXdR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "world",
-   "date": "2026-11-23T12:33:22+00:00",
-   "coverage": 1,
-   "topic": "Weather",
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳 🇳🇵",
-    "also": [
-     "Nepal"
-    ]
-   }
-  },
-  {
-   "id": "4ceed8e6e0",
-   "title": "A desert city’s quest to curb water waste and lower bills as shortage looms",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxpU1VJdlllVEU0T1laNDZReXByTTBsbGpMelJsME53M3dJSTBpT2ZGNmhkZDJUcnN0aWd1LTV3dld2T1BDVkNDZWp5cEF3SjJ3ZEtrY2JkanNlS0lZR0lOaDNGSWRLRzU4T3Z6MnJMcmZfOXJMcEp3clBZSnRfU29BX0Q4cHBKYnd2bU9mZUJUUGFKVGFqU0VIMU1qYmpjbkdBSzlMQlNNblhCVzduaHQ0d0NYOWM?oc=5",
+   "id": "69ec7cf7b4",
+   "title": "12,000 evacuated from Don Toliver concert after an unknown substance sickens fans",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF9wZGJzeldVR0VNSFhrdlZIejJFNlJ2TUtHZ3B6bkZxeDBUYndRRWlzRzhCa2s2ZHZ5bENJT1lwM0ZiWTBUblhtRWdBVmkxY2lUY3JRanZ5ZFZRMFlnTDVyb2twY0dNUXRVbHRlV2xkLVo4QkZRQ1BJZnZfMWRQS0FDLXB5Tzg5d0tVQW5fQVhRSGZHRVNxVUlLaVZpbURURFNBWnN4bVlJRUV6cndB?oc=5",
    "summary": "",
    "image": "",
    "source": "AP News",
    "region": "world",
-   "date": "2026-11-23T12:34:00+00:00",
+   "date": "2026-11-23T14:10:00+00:00",
+   "coverage": 3,
+   "topic": "Entertainment",
+   "location": {},
+   "more": [
+    {
+     "source": "Ada Derana",
+     "title": "Audience evacuated from Don Toliver concert in Manchester after unknown substance released",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBS2hWbG5pcjc5NmN1UFBKRzR0VF80MmxEbElWWkQzM2hGYVdZWlotb0Nmc1RUMzZzT0Mwa0Q1elk2T2lfRHdV?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "d8aab5484f",
+   "title": "Russia's sports comeback hits a European wall",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXVyZW4yUl9fcDBBNW8yRi1tMGQxMkNfX2dpYWF4b2x2bjA2Q21rRkJ1cF9naUUwbUxZenFJSmxscFpqZDBybXhHbVptejhaT08tRFpndmo0UGVXWlhfc0xMcU8zaXV5SDllV2FjeGNmejNOTVpaOGFjRFBYWm1VQ0RIcGRleWZrQ095eXJn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "world",
+   "date": "2026-11-23T13:49:13+00:00",
    "coverage": 1,
    "topic": "Society",
-   "location": {}
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺"
+   }
+  },
+  {
+   "id": "cc3bc93318",
+   "title": "Anti-austerity strike spurs transport chaos across Belgium",
+   "link": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "world",
+   "date": "2026-11-23T13:45:16+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Belgium",
+    "place": "",
+    "flag": "🇧🇪"
+   }
+  },
+  {
+   "id": "5e98347829",
+   "title": "Ukrainian drones hit Russian warship at naval base in Libya, Zelenskyy says",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TQnlSaVV4Y09FN2hwM1JkcGZYOXdDZHpOYkJnbGI4azRNTnZSWGlkM2pfZ2Y5MEpTZmNhWTRSWndheFpIdk5n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ada Derana",
+   "region": "sri_lanka",
+   "date": "2026-11-23T11:23:43+00:00",
+   "coverage": 4,
+   "topic": "Society",
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺 🇱🇾",
+    "also": [
+     "Russia",
+     "Libya"
+    ]
+   },
+   "more": [
+    {
+     "source": "The Guardian",
+     "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5"
+    },
+    {
+     "source": "AP News",
+     "title": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VjenRaWHFSYy04RXNZOGtGZ21ldWg3a1B4WVp3dk1OY2pPZ2pRcXFCLTk0YnJjalVEMnBqV2M2UnpCSENVWVNPVDhEZXhNQTdPZnlPWDJhNXR5VThOTVdKT2JRYmJfOW9hTzdqRUdMakNOUEFHVmdwWnNNOEx6ZmFiRVc5Z1JyZE5nNHFwODlkTkp5aHRVNUZxZVo2aDR0TnN6U2VRTlE?oc=5"
+    }
+   ]
   },
   {
    "id": "afbcf8083e",
@@ -3941,13 +3872,101 @@
    "coverage": 1,
    "topic": "Society",
    "location": {}
+  },
+  {
+   "id": "656576cc61",
+   "title": "Miss Israel booed while wearing ‘Peace’",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcm9sdlZqVmFQVW5jQ3pVRVFFSm13WmpzWk5TUm96QzczTTA0a21VSHZ0Nk9sUDhRQWdldWtoTllOS3NfN3ctT0dHZFVTTEZBZ1NBUG9iOTlWRUNlN2VVMG5yN19Sc3M4RW42eGNQTE1PRG9nZUdSQkY3R0wwYlA0enNZUDg2RVNSRmVJV3N3V1ZJZl9jeWpz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily News",
+   "region": "sri_lanka",
+   "date": "2026-11-23T04:56:45+00:00",
+   "coverage": 1,
+   "topic": "Society",
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   }
+  },
+  {
+   "id": "5ff30aa409",
+   "title": "Petition to oust Vitalii Kim as Ukraine's veterans minister crosses key threshold",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV0RJUkpXRlI2b0dYb1RoNDNtSnNCUUROdzd0ZWRKNHVyWmJON09rWVFuUDU4VVBIODJZdzdrOWtJZ2ZaVHZMSU9PMFpHbDhiX1QzLVkyMFB4QkVoS3RiN3VGa1ZEd3N2VjF3X016YnlMOEM0bUhPeklDbFNkeGwyZWhtZ1VGb3hxZTVxTjJyaGNyc3lKb3otTXFWT0JxMG9LZkhQVnAzSFUzckVmMFdKVWNBTUszeThOWnBNRms1NExYaG9SU1FZM3FPb3d3WURtQUVjZ2stcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Kyiv Independent",
+   "region": "world",
+   "date": "2026-11-22T21:24:59+00:00",
+   "coverage": 1,
+   "topic": "Politics",
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   }
+  },
+  {
+   "id": "858756cb8a",
+   "title": "Mystery Drone Strike Rocks Russian Warship in Libya & UN Demands Answers",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkZ2UUg0SmZZR1A5amJoTmJGTHkzNHN6ZjN0TW44d1Fnb0FXT3YtME8tSU5sQ010SUdKcUE2LXJsb0hxT1VwanFHVXBlcDgtTFc5Y09pLXlPckRucGtNZW5Nd0NhZzhJTlIxMS1zYUNuOHhEczBUWi1JdHl0OVJNQnhCRW1KaUlJeWVKMkZIT1RzdnVuVmgtckFUZFliWUZtR2lVWXQ2V1dtQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Newsfirst",
+   "region": "sri_lanka",
+   "date": "2026-11-23T04:42:00+00:00",
+   "coverage": 2,
+   "topic": "Society",
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇱🇾",
+    "also": [
+     "Libya"
+    ]
+   },
+   "more": [
+    {
+     "source": "BBC World",
+     "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "ba6829006d",
+   "title": "Arson attacks by Israeli settlers in West Bank add to tense political debate",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZm9CNGQyVU1MUXlCUFdFdkthV0RVUDZBSzFvTGJDSlJ0bFBHV2tpXzU2NmZob0c3MmdIRWdQQVc4OU9DbjRuaTY2Z055X0xoQW5XWEs4ZnBLU1NYcFVCTlREX0lVaEpDdTRlcDNkVVJubURlZFVLWnh0czNCNUxOYWQwZ1JYQzNPMENsU21YbkJWRUIxUmtXSlRid2dvMm9IMzNUcHFGMDNPdXpNdm1ZZWc1LXRHNGRVVWFV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "world",
+   "date": "2026-11-22T20:44:16+00:00",
+   "coverage": 2,
+   "topic": "Business",
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱 🇵🇸",
+    "also": [
+     "Palestine"
+    ]
+   },
+   "more": [
+    {
+     "source": "Reuters",
+     "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5"
+    }
+   ]
   }
  ],
  "numbers": {
   "usd_lkr": 332.39,
   "usd_lkr_note": "market rate, not a bank's buying/selling rate",
   "weather": {
-   "now_c": 27,
+   "now_c": 26,
    "text": "🌤️ Mostly clear",
    "max_c": 33,
    "min_c": 26,
@@ -4292,16 +4311,16 @@
   }
  },
  "top": [
+  "618705ae0d",
+  "ea4d3bf850",
+  "7b0db230e5",
   "b61a8ab7fa",
   "2e0d4d6629",
-  "18ef5ac8a2",
   "d861b3c9bc",
-  "cdb5a2a85a",
-  "17628f69c1",
-  "a04807256a",
   "15efe220f3",
+  "69ec7cf7b4",
   "4decf6ae75",
-  "39259fd637"
+  "9ef6302e72"
  ],
  "fact_checks": [
   {
