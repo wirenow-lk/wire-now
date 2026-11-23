@@ -1,24 +1,79 @@
 {
- "updated": "2026-11-23T19:30:53.620023+00:00",
+ "updated": "2026-11-23T20:30:04.438830+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
   {
-   "id": "f071ff0009",
-   "title": "Jensen Huang reinstated as Nvidia CEO, board says",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3?oc=5",
+   "id": "5d47dc2137",
+   "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Washington Post",
    "region": "US",
-   "date": "2026-11-23T19:18:07+00:00",
+   "date": "2026-11-23T20:02:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "eaaefaa5ea",
+   "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2RQU25hVGVUaGQ1cEM3WmFqLVphcjhqTHBMcUllODNJcFBzNy1oRWZUZXdsSXQ5aWZpQjY2UEw1ODJXRnRXSjlPT1RtVlZKRVJBUG5JOV9LOXZ4UG8xdWNSTVFDb2pSdVh0QnZLQWhIdUV0ZF9qN1dOYWFhTlpxcENJY1VFdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NPR",
+   "region": "US",
+   "date": "2026-11-23T19:57:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺 🇱🇾",
+    "also": [
+     "Russia",
+     "Libya"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a34e65f8fb",
+   "title": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TVFgzbG9pbXI2TFpEY0ZXMng3SExBOFlXX0Y0OExEZWp4dmNLMU84UzE0MjgtU20zLWZobm5ZZVVHTGhqN1VtRG52MUFCaU9QNGkzbWFxTUkybUtlX1AzVw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MLB.com",
+   "region": "US",
+   "date": "2026-11-23T19:53:56+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
+  },
+  {
+   "id": "5d90065834",
+   "title": "A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGJuNHRwR3BHcU1OTlR3emdoOTFZaEMxMUx0Ul9TRUFFZ0ZneUFZczZ1SWtBME5YMVY0emRhRFZpTl93eFJIb1RMZTlybTcwWGxjSFlkZDN6aFJURXZ2bGdFQjVlZEMyel9FNU1qbGwwelFHS1dwT1JiTU5fcHFiR3FFUHJWa1R0ODhQclFhMGVSNmZBSnNtYjhkNENNZ1FjWTVWODN0bmhhakd0andVZXE5X2FXTDg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Forbes",
+   "region": "US",
+   "date": "2026-11-23T19:27:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "b723efd045",
@@ -28,7 +83,24 @@
    "image": "",
    "source": "Tom's Guide",
    "region": "US",
-   "date": "2026-11-23T18:58:18+00:00",
+   "date": "2026-11-23T18:58:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "235e380480",
+   "title": "Stock market today: Dow, S&P 500, Nasdaq surge as Jensen Huang's reinstatement at Nvidia sparks stunning rally",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcTlIWVNCVDhHdjFYY0tuLXl4NG1oRWwzTndTRWhLTkhXRi1iZF95My1vbGRiYXlTaFllTExWWmtkb0t4YlpfVGdqRk9wZld6clh3TW9ucEpPdGM2cVpVd0FkWEVFRUxCWWVQVExlZ3VtVFpoMnl4WkVUMTRwWDQyQ0J6cU9DaS1TcE5uVmJyMl9hcDNxMmNCM0ZfeGdTRGhCSzg1NmdsWVQwLU01X3ZaX3dNMnI3dkNDaFVTMnoxNnZRX1EzTXZvd0FIVlNWbmdMMVlqRk9xbUV1eVdXc1ZBVW11QmhnZUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Finance",
+   "region": "US",
+   "date": "2026-11-23T18:55:21+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -55,74 +127,56 @@
    "topic": "Society"
   },
   {
-   "id": "ecfc0adb29",
-   "title": "Measles Is a Growing Risk for Adults in the United States",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5",
+   "id": "3471c87c07",
+   "title": "Bay Area officials rush to protect SFO, other key infrastructure ahead of expected flooding",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTF9IeG1ILTZrTmUtbl9yZ3JjUWZXakhhNGJXTnpmTHdEUC1jZjdkckFXeG42Qi16OVh2TjJIcU5BQ1ZFcWM4S29MNy1NZDlxenp5cWRPSjNWTnBtWXA3c0FSYUg5WVpCZk9kd084SEZzb2ZLSTRkUG50RnFYajg1UWxHcVlPUXhsZTBlbTZJeHhCVG9ZY0lwM0JuWHJVcmx5MGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS News",
+   "region": "US",
+   "date": "2026-11-23T18:09:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Weather"
+  },
+  {
+   "id": "d7efac81a3",
+   "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3RKNmswZ0hZN0VZTXhBd1Q2bTg4clBBaWZhSXA4N1pHNEZrd3hLNlNRTGR1RnV3MUQ3dXIwYVZ0SXNwZVFkZGFsMmdSR3ZKSi1oUmZhenE2ZS11X2RENzZXWnEtbHU3ckc0NlNCR2Vrc0JqczlSYXdjUHBTSmV1dmliNThwSlZ4SEtJ?oc=5",
    "summary": "",
    "image": "",
    "source": "The New York Times",
    "region": "US",
-   "date": "2026-11-23T18:11:37+00:00",
+   "date": "2026-11-23T18:05:31+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Colombia",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇨🇴"
    },
    "topic": "Society"
   },
   {
-   "id": "a6d47575c8",
-   "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "id": "a5bc72a141",
+   "title": "Russia poised to put nuclear weapon in space within 60 days, Germany warns",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0gyOWNwT3BmU3hyZURMTHdvUHloTjdnOXhXQ1RLVFdRd3JkWjYzd0JOcEtnYU9XMmZMckFqbl9FYk9tb2ZPdGd1SEtoVVJ1Z2w4VjkzRjR2LXZvZDVMai1vOUNYeFdQcXlOaTFIWk9zblhQQWQxN3V5c3JvRkZyMjl3SGQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Financial Times",
    "region": "US",
-   "date": "2026-11-23T18:01:00+00:00",
+   "date": "2026-11-23T17:37:46+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ukraine",
+    "country": "Russia",
     "place": "",
-    "flag": "🇺🇦 🇷🇺 🇱🇾",
+    "flag": "🇷🇺 🇩🇪",
     "also": [
-     "Russia",
-     "Libya"
+     "Germany"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "447ee5bbab",
-   "title": "NFL Week 11 Sunday aftermath: Brock Purdy too much for Vikings' defense; Giants score huge win",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdE91d0JLZ2VNbXFfdEJQWkIxTWxibjMyc3VFUE1vallRM1pHM1FRQi1yWDI4dWs4RUtST3dlQ1hDNjBmbVNreUR0RmQ0TExiV3JFY1RHajZvT2NXRThMUW92bVhrVGNrNUpwejFnT2xnSnRGblUyY0xJT3QwLTBtYWRVOWpwQ0dETF9uTERn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NFL.com",
-   "region": "US",
-   "date": "2026-11-23T17:53:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c684de797c",
-   "title": "Focker In-Law review – triangle of sadness as Ariana Grande joins Stiller and De Niro in the circle of trust",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTVdQRE1JMGZqOElxZG9VemJrcS1hLURKejRoOFpGS1V1LXBQTS04RTJZOEcyMThUUDk0WmVxZGhhdWh3TWwzcHlITXZ2OVl6VnY5VU1ZLXNLeGdVU3poaGNSbUV4bDJQTnFsbHMwc2ZGOWhTZUtaQTAtZ3hmSkFSdUpmNUk4VzBCWFU0dXdYS29ZbmtTOGljTUpYV3VwRG1vY0tMV2lESHMwWlZQZE1idC11WkpINUFtbTVRN1VZY2Rha3RYRXFMS25oVXpaS3VBS0lyeTkza1IyWElPTV9WYWl6elFyQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "US",
-   "date": "2026-11-23T17:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -144,14 +198,68 @@
    "topic": "Entertainment"
   },
   {
-   "id": "2d7765f0b5",
-   "title": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEI1Nk83cTZtS25nNVF2QlVlQzI1MDRIYkVXWkhIemllb0Q4UDZzWWlPRXRZeXZrUGx4ZzZxUmdVdkJoTU5Fa0gtWHJ3TjFkVHFLdlg3QzJkYjV1MDJlM1RXYzJTSVNqY2pTdHowX2g0bjNueXZqdDZUQmlEMGRYN294QTRIamJuQVA0MW44Si0yNTVIemNYekNfNU9Xc28?oc=5",
+   "id": "15121dc058",
+   "title": "What failure of COP31 reveals about a divided world",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54czhPcXBYZzcyaGFMQUZsY0ttVVVMTERQY1kxcU4wUmNsVGE1T05mTElUcS10QzY5RnIyVVB3eG96QmlTaDVWRTBUVEN3YVp6czkydGpWcEkweVk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "US",
+   "date": "2026-11-23T17:24:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "69ec7cf7b4",
+   "title": "US rapper Don Toliver postpones London show after Manchester gig evacuation",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF9wZGJzeldVR0VNSFhrdlZIejJFNlJ2TUtHZ3B6bkZxeDBUYndRRWlzRzhCa2s2ZHZ5bENJT1lwM0ZiWTBUblhtRWdBVmkxY2lUY3JRanZ5ZFZRMFlnTDVyb2twY0dNUXRVbHRlV2xkLVo4QkZRQ1BJZnZfMWRQS0FDLXB5Tzg5d0tVQW5fQVhRSGZHRVNxVUlLaVZpbURURFNBWnN4bVlJRUV6cndB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "US",
+   "date": "2026-11-23T17:17:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "95a4455218",
+   "title": "Black Friday deals live: great savings on wireless headphones, OLED TVs and more, handpicked by our experts",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wMkFneGJfcVlLazFGaVJ2UTdXUjJJZzE3SkIyM3lHM3VUUnM4SjJRQlJUUk1va2NWbGpJTVVDS2UwNUpKVkdVZC1JRlotNDN4UmQ5TVZaVTJ1cXZtRmVFbVVhbGVqcHZmTUNpTzZ6TDdMQXN6UWJqWUxB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "What Hi-Fi?",
+   "region": "US",
+   "date": "2026-11-23T17:01:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ea3fe7ebba",
+   "title": "Virginia School District Shaken by Sex Abuse Claims Closes for a Week",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdndzQTF2WUh5cGs3VFRkeC1MbkRwVmZtZXBoSmNQRmNmMTNIZzF6ZDBlLW9IbExDcTV1anppUHA3RDdfcDdBSGVqRVFxVEFmTFZPMVNiRm80OFp0b1RhQ3BvZjIzZWZEZ2pPMWtTcnJBUnFkY05INWR2WWJHa2MxdDhWM01iQ2RadmtQbGlDNERDTUFlVi1GcGt2dw?oc=5",
    "summary": "",
    "image": "",
    "source": "The New York Times",
    "region": "US",
-   "date": "2026-11-23T16:29:38+00:00",
+   "date": "2026-11-23T16:30:39+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -178,44 +286,38 @@
    "topic": "Society"
   },
   {
-   "id": "89a5228ab0",
-   "title": "Germany's Merz accuses Russia of 'dangerous provocations'",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVNzTHY5NG1tZHhnTE5HM2Q4ZW5iWDhpSV8wRjgyUy1NbXRqWUxVUXR6OWRZdlIxdm41ZUQtYWhrMTlDUW5qTXJ3UlB0ZFBBVEhXTnV1M01LclhGZG9uUnBHcmVXaUIza2Q0UTJYby1QMGttRDZSVkdfbGh1dmZqTVBtSzlmTXZaTlpYZVBnV3kyY3RpejRRSnYzcUpfemNfaUViTVNMR0FTYktLcE83S3pTUlE?oc=5",
+   "id": "ecfc0adb29",
+   "title": "Measles Is a Growing Risk for Adults in the United States",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "The New York Times",
    "region": "US",
-   "date": "2026-11-23T15:04:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "69ec7cf7b4",
-   "title": "US rapper Don Toliver postpones London show after Manchester gig evacuation",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF9wZGJzeldVR0VNSFhrdlZIejJFNlJ2TUtHZ3B6bkZxeDBUYndRRWlzRzhCa2s2ZHZ5bENJT1lwM0ZiWTBUblhtRWdBVmkxY2lUY3JRanZ5ZFZRMFlnTDVyb2twY0dNUXRVbHRlV2xkLVo4QkZRQ1BJZnZfMWRQS0FDLXB5Tzg5d0tVQW5fQVhRSGZHRVNxVUlLaVZpbURURFNBWnN4bVlJRUV6cndB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "US",
-   "date": "2026-11-23T14:54:00+00:00",
+   "date": "2026-11-23T15:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
-    "flag": "🇺🇸 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
+    "flag": "🇺🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "b3a5726c6f",
+   "title": "Justin Timberlake Documentary Trailer: “He’s Not Who I Thought He Was”",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWlHTThub0lpeDdRQTRZUVc3RmJHY2dpNTN3Tnp3ZVBUaWlXSGJiMFFHaHFLRnlpcjRPV29ZVEFUS1RiWkpFZ2lPazY5Q3Y4LXMtUklxWVF4NU91VDFxNEo1bnQ1aVgxc25udEFkUzktd1RYcHY5ZFE5Zzg5bkFZTEFFc1QtOENKdnYtR3daY2s3NXhUWUY2STBkOUl1S2ZDRGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hollywood Reporter",
+   "region": "US",
+   "date": "2026-11-23T14:57:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "410eda24dd",
@@ -252,40 +354,6 @@
    "topic": "Society"
   },
   {
-   "id": "be0c2000ca",
-   "title": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXBGX0NyVFZrd0hBMEctVUxNOUJxTmRmaDZiRHA1c3V1VFNxTkNZdTExd080Qk1yOVEyYkpneTZIQUUzcGdsbkxpdV8zUWdYaHFaS09LaG9iaFZ4OEc0RFkyWGJvTW1LWG9OeFRCTk5YY3NvTUdYeF81SDdrbkh1NGZhM0pFazdvbDZGMG9QRnU3WmV0eDlJZ0hETFNQVm92ZHp3dEN3dWVmeF9sa1N3MExEdEpNUVhPZEEzbmJNb3h1RGJh?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "US",
-   "date": "2026-11-23T13:35:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e011577b93",
-   "title": "Thanksgiving travel forecast 2026: storms on both coasts",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmw2TEtLbnNjV0ZOWC11YXYyc2hzU2hHM3JZWDJqcEh4bGFoOE9VRk54S0xxSWdGRTFId0JIb0RmZU9ZOXEyWGw2dGVvRWVuMUtRemVjX2RQZVdiV0hDOENfVWw3TG5uUUpSamRPZkp6R3NGWjkxR1NfanptZkdDRUYwUHljMHZzWm94dU9tTGpzY1JpMlVMLTlRV3JHT2M?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Weather Channel",
-   "region": "US",
-   "date": "2026-11-23T13:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Weather"
-  },
-  {
    "id": "09359e15df",
    "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2U0YkM4bXY0M3RNUzhqbHMzemFXQVhwb2dVRmlEdmgtUHR5YWwyNVdHQ3BlVjFTODVOVEhhWmdfVHlkTHoxUnhhWV9haEtGcVp1anJXWW1jYUNfRGUzWkRrRzNEY3IzR1JWZHNuN2ExY1BuOE95aklEUVRIT1Y3bndHUlJTSFhtbVE?oc=5",
@@ -301,6 +369,23 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "37b3596a33",
+   "title": "Mayor Lucas excuses residents from obligations for KC Current victory march",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGgtRG55MDJxRnUtTi14TmVBTzNjOXdVNDh4bFRGSmE1UlJPd0JIY1lBR0pFUGYyLVk2RkJGQ2cyd2Z2Z3VtYkxJZmR5elVneGVuS1BxRzQ1b05Wdmd5OU9BS1JlTGRra3ZNdEFEaG0zeDgzakIzbEFkc2NlOTF0NjhSTFV2ZTZhTG94X1d3QURfX1J0cnl3QnpINWIzdVM0eXVJUGpjWHNlaC00d1prNi1MVdIBuAFBVV95cUxOVG1oWjJ1UnZ0bUpIX1FTRWtmdWVQWWx6djVaZWZJeGJmWE5wT0hRZVl4eHZRc0E0TExvcnViZUhXUWRJbjZKZVdGSm5BeWdFTUtQMDMwYmRrME9ac1FaTGhENlBPUzB1SERRTUVRN2ptUjFxRVV5eVpZMHpNOXppeWVQYkxtQnNjMXh2bFJ5bXZvZVgwVGZEMWUzaEJ2cVVxRzFrdXBKM0xkVXJJWG1GT2tEX1Q0Q1JT?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "FOX4KC.com",
+   "region": "US",
+   "date": "2026-11-23T13:04:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "7b0db230e5",
@@ -337,14 +422,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "9fa48e74cc",
-   "title": "Mike Evans TD and Parker Washington non-TD raise more questions about NFL catch rules",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcGVXUWVwUkFYaW5taElFTC1xclgtNmlRcTlFV05NSDVhZm5DYnVBVXViaEpxbTJjbHVNVkFrb3ROeTNxNHUtd2xVaHhVR3hrdTVUcVo3XzJSSlVDeGpYc2VhcThYX29QSk1MZWNCNFVCSm5yd2lQWjQwUGk5eUJpUVV1QkoxUjFndy1iQVE5SEc1UnRwXzRBU0tNS3RCQXpoUURyWDIyMXVtQkhwSlN4QWdBNjFVZ2ZzbVRfelNnLUh0SDliUkdWTDRiMzdpMHlTWDRMeURBamdiaFNQZUw4RQ?oc=5",
+   "id": "645f12613b",
+   "title": "Army detonation of lead azide moved to Wednesday in Iowa",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3poa0dPV0w3TElfeklmeUhQOGNUQUlsSTFveTNBaVhDcHNtSTdOU2t0ekxpWEtWRXFCUk94a0c4OWo1ZFFDaldlSlpzdmZHdlRTRUJlTzdFa25vOTBwOUd6Q3FucUJpWHM2eGFwX29tOEtNVXMxN1hZVHhmaFRLaUlxWDNremhSTW1yS0xaWC1XcUxhd2ZjcXpB0gGfAUFVX3lxTE5MdEQ2R3FYNDF1cVJqcjFaQzB6ck5kamxsblYwSVNVc05MUktpNXhYVmZPSVF2Znc2LWNvWGwyU2tGd2RUQ3paVlJMTjJLV1pGbjlSWXFlaWdTME50bXRWQWFLY1gxUXpyWU96TzJsYXVZMXVqcU9fYm5UU21zbGpEZlVqcGIxdlAwWjJoOGRrbGIyNnotZlliUDh0Q0xDdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC Sports",
+   "source": "The Hill",
    "region": "US",
-   "date": "2026-11-23T12:49:56+00:00",
+   "date": "2026-11-23T12:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -352,6 +437,23 @@
     "flag": "🇺🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "5bba8b7f01",
+   "title": "Flooding continues to impact Central Florida roads; see what's closed",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYU5HcTNESHY4QmRfUzM4U1c2bmtVb3BSNlZ6YS1lQXdwd0ttNW5SRnQ4YUZkWURtRlE2bGF6Y3U1VktGd2lrNndVOHVIMHlQdVZqd0lUcm1oU2dQWXFBd2lNWU5YMzIxVXFVLTFyUEpGcXV6X0tJOTU5SHMxVi1NdQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WESH",
+   "region": "US",
+   "date": "2026-11-23T12:53:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Weather"
   },
   {
    "id": "af99ff2dd2",
@@ -369,6 +471,40 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "160228c968",
+   "title": "Thanksgiving travel period gets underway at O'Hare, Midway airports in Chicago",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEUwZkgzWEstRnBBaUIyVWhsbUlDOU9BLWNiMm1hU0VyZEdHcVN1dzhPRWdJSG94VUJ1dWN1VnBBQm1jd2xBV25FbG15U3dxejV3MlRZdmFOQTNGbFZnMnFtckhLS0s3c1FINDFtcGlYVHFFZ2pkY0FJVkpERDhPOGpBOWhnUW1SOGRQVVZIRjk1RDdrWE5VZXhoSUppOUY2NnlkTjNhYTBvSUNQeHfSAbMBQVVfeXFMT0tzSko4TmNzNEJQdXFjTG9RNGd1U19LMGlyZUZ1MkRoSWl4TzVKUENtRUFjN2FGM3p3SGtxUG43aTM1eVJpUVpETTlxVVlZM0hiektORW5Zb210ckhJLXlyNHM3UzBST2VpWE1lbGEyLUUzREttaEdsV0xwZ05zVnpxblBpU1RRSWFOT3Y4anZpZmxkSVIzclh1eXY4c3JWdVNQYU5xSi10R1lVZlB3bkZxV1k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC7 Chicago",
+   "region": "US",
+   "date": "2026-11-23T11:53:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6306bf6d48",
+   "title": "Thanksgiving travel forecast: Storms on both coasts could snarl busiest travel days; San Francisco braces for potentially record king tides",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxON0cwNW9hU2dSTzMtZ3hHaEtONDdsb2JhQnpFeXE1UU5ZSGNtRE5iUUE1SktVVEQyWEhncnJ1eE1oOE1XSE83SUwyejM2cTdYOUdwalhWbEtSR1YzVmZieE9fOGEtSHV5WlZIb0swZ2hSWEhldGdvYnFYXzJCcU8wbl9SQmdPRkthcVZGT2hwX3dBRklzdV9CNXpZeFRBbEhMa1pSNkVMLUxoVFdIc3R6MVkxYXVIYy1ha0YwcF9qVEROX2R2N09zWG9tYWJYVmtIekszdzJCU1cxdHY4NGI5cThZeC0ySzYxbzJ0bl9QcnA4dEJ1S2IySFgtZEFfa2ZwYXJBU1BSdkNCcW4tZlEwZTJRcUlscGppaXRDeVZKTUtrVWR3TjE4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "US",
+   "date": "2026-11-23T11:47:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Weather"
   },
   {
    "id": "7fcb017962",
@@ -395,7 +531,7 @@
    "image": "",
    "source": "WSJ",
    "region": "US",
-   "date": "2026-11-23T10:26:00+00:00",
+   "date": "2026-11-23T10:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -403,43 +539,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "ad67bf4f5c",
-   "title": "Trump’s Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWlwMG1GbzFGYnRVUE1rQTZZTVFpSjFyMzF3T1lfc09aRlBEa004M3pXR3U3RXNweEN4bW05alg3Q0tkcjBxZUdxcm9pdDlJV0xjT3NzT2dFNzJReHhYMnNBNkoyMlJYd1Q1dHYtWTUzWDFFVnVvV2xnS0dSR04yT21GemtOYzd3M2dBNnRRZnppUENnZ0RyUXhGaUpqVTVzRnRiYTAtcFZQQldzNGdzNEF3WVFHcjZfS1hOaXNiaHBSMjA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "New York Post",
-   "region": "US",
-   "date": "2026-11-23T10:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5323507b5a",
-   "title": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmRybDRhZzhaRkRlSHZUdWxTZVRPUEU1NDJfRFBwX3ItMDZsb0pSZWdFMlgwbDhzclBlaWwyTndXYUQxS0JrZFd5SjlNWC05YWYtYWZhREFHNE5VLXFEOGx3SkY5bWNrMWlYbVhEVklQN3YzMnZSNmVtcmNqdzlSQ21vZW1yWU4xN1UySDE1SHNCUXZfekUyQlRMQUFGMlBSWk5Hc0JFTjlsZGN6NS14M2E2eXk4a2tPUjZGd2Y4a09SX212UUlNY2lkVG1XQXZUMmhOMHRZMA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "US",
-   "date": "2026-11-23T09:10:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇩🇪",
-    "also": [
-     "Germany"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "0924d2928e",
@@ -459,106 +558,21 @@
    "topic": "Tech"
   },
   {
-   "id": "c6cc512427",
-   "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXRxNk1wYXAxZVhFdnYzTTQ4NUhORGZ3ei00b29XbmZHRkt5ODNpLUk5WXEyTVRHSVdYY1hMNk9aaWRzWHI0TlRCQXlTTXQ3UjhPbzJmSlhkSkpCWU02ZUFmeTNOaUJYNmlIN1llSVZLWkU3dnB4WkRMUkpfcUFJVHRacjkzbnRmOTVIQjBMY0VjOWpIeXUyYVI0SXpEU1NTek1Namw5bmE5Ni1Q?oc=5",
+   "id": "efb5c17ef9",
+   "title": "49ers' Brock Purdy beats Vikings blitz, hears 'MVP' chants in Mexico City",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDA1X3ZjU0NoUndMNmtBSGZFR0tlVF8tMTRnRUxVLWxRbUlxRTNDcUo5X3k2LWprRTdCWlhPbXlpZk55RHdVcWlvMmJUTlZXclV3dlBpbXFDSWprUkJ1WVVMRnBLZHM0ZU9MWXJ4YzNWTTd2NktmZUxDTzlmSjZreWdKU3NRbVZlTUdsejFSRUdmX01DcXNfeHlhWHhwdTYyS0dsVi1GbjZrc1JVQ0pIMQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "ESPN",
    "region": "US",
-   "date": "2026-11-23T06:52:29+00:00",
+   "date": "2026-11-23T07:22:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Mexico",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇲🇽"
    },
    "topic": "Society"
-  },
-  {
-   "id": "3f9dc82cf0",
-   "title": "Five takeaways from the failed climate talks COP31",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NWFdXOXBqenhpMmhHNzlYTnpBeU5JLWY4ZkptU3hjT1RFRWdjY0d4ZzJZN281TmYzcDIyVUFEbmZMd1A1NkkzbEFKX2RPU3k4bnRDZEZnVVlyV28?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "US",
-   "date": "2026-11-23T06:33:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5d90065834",
-   "title": "A Supermoon Is About To Meet The ‘Seven Sisters’ In The Night Sky",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGJuNHRwR3BHcU1OTlR3emdoOTFZaEMxMUx0Ul9TRUFFZ0ZneUFZczZ1SWtBME5YMVY0emRhRFZpTl93eFJIb1RMZTlybTcwWGxjSFlkZDN6aFJURXZ2bGdFQjVlZEMyel9FNU1qbGwwelFHS1dwT1JiTU5fcHFiR3FFUHJWa1R0ODhQclFhMGVSNmZBSnNtYjhkNENNZ1FjWTVWODN0bmhhakd0andVZXE5X2FXTDg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Forbes",
-   "region": "US",
-   "date": "2026-11-23T06:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "edc92f42de",
-   "title": "Astronomers Find Signs of a SECOND Earth-Like World in The Space Beyond Neptune",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmJEUUN5SXNrNUFIMUl5amhOMnVfYllNZ1o5c2dIbEFlMjN6aE1FQWpMVVhYZVBURFBvb0VDV3dpRjZPY1hiWnRMNkdaTl9YeTRjYkRqaUp1VUV3US15RzhQSkYzX3lONXJCcEhKNjB4ZnZsbmFISllBdFhIWG5JMWgwSTUtdFYtN1NSZ3UzRzd1NjQ3UllJR0l0RGxJNF9MUEVsYXpma2phY1QwcW1FUlRadnlrS0dkUS1j?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ScienceAlert",
-   "region": "US",
-   "date": "2026-11-23T03:19:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3471c87c07",
-   "title": "Bay Area officials rush to protect SFO, other key infrastructure ahead of expected flooding",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTF9IeG1ILTZrTmUtbl9yZ3JjUWZXakhhNGJXTnpmTHdEUC1jZjdkckFXeG42Qi16OVh2TjJIcU5BQ1ZFcWM4S29MNy1NZDlxenp5cWRPSjNWTnBtWXA3c0FSYUg5WVpCZk9kd084SEZzb2ZLSTRkUG50RnFYajg1UWxHcVlPUXhsZTBlbTZJeHhCVG9ZY0lwM0JuWHJVcmx5MGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBS News",
-   "region": "US",
-   "date": "2026-11-23T02:48:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Weather"
-  },
-  {
-   "id": "878c237e06",
-   "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Finance",
-   "region": "US",
-   "date": "2026-11-23T02:24:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
   },
   {
    "id": "266c08c762",
@@ -576,23 +590,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Health"
-  },
-  {
-   "id": "30fa0b014f",
-   "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PBS",
-   "region": "US",
-   "date": "2026-11-22T20:18:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "f88c3fa1db",

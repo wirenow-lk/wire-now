@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 6/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 74 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
-OK   Daily Mirror: 98 stories
+OK   EconomyNext: 19 stories
+OK   Daily Mirror: 75 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
-OK   Daily News: 74 stories
-OK   Sunday Times: 1 stories
+OK   Daily News: 62 stories
+OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -20,78 +20,56 @@ OK   BBC World: 32 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-FAIL Reuters: HTTP Error 429: Too Many Requests
+OK   Reuters: 100 stories
 OK   AP News: 92 stories
 
-Biggest stories right now: Nvidia board reinstates Jensen Huang as CEO j (8 outlets) | US stocks soar and recover more than half of  (7 outlets) | Why did COP31 climate talks collapse without  (7 outlets) | Search continues for dozens missing after Ind (7 outlets) | Republican senators criticize Nvidia’s decisi (6 outlets)
+Biggest stories right now: CEO Jensen Huang returns to Nvidia’s office (9 outlets) | Why did COP31 climate talks collapse without  (8 outlets) | Russian warship hit by Ukrainian drones in Li (8 outlets) | Democrats win largest House majority since 19 (7 outlets) | Indonesia factory fire kills 24 as rescuers s (7 outlets)
 
-5 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Deadline [2 outlets]: Steven Spielberg Sets Adaptation Of ‘The Heart In Winter’ As Next Film
-    important (also on The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* Hiru News [1 outlets]: Hiru News 11:55 AM
-    normal news - one-paragraph summary
+* Daily News [1 outlets]: TUs protest: ‘Govt being selective in granting pay hikes’
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [1 outlets]: Not paying income tax? Govt looks at ways to identify more taxpayers
-    normal news - one-paragraph summary
+* Daily News [1 outlets]: Cause of tusker Kavantissa’s death unclear despite gunshot marks
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: What Russian warship did Ukraine just sink?
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* News24Online [1 outlets]: Weather tomorrow, November 24: Rain and storm alert in 8 states, cold 
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats moun
     important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: Russia threatens ‘hostile’ Estonia with ‘open war’
-    important (also on Reuters) - researching
+* Daily News [1 outlets]: Rare earths threaten Rohingya justice
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
+    article too short for cards
+* Daily News [1 outlets]: Ananda’s Yonal, CIS’s Zacharia clinch Doubles Title
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* AP News [2 outlets]: FIFA picks US to co-host 2031 Women’s World Cup and UK for 2035 editio
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits
+    important (also on BBC World) - researching
+    news search: 0 results, 0 about this story
+    read 2 articles: Al Jazeera, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -100,36 +78,46 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
   photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
+  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 50 story pages for Google)
 
-Countries: IN 36, PK 34, BD 36, US 36, GB 37, IE 36, CA 36, AU 34, NZ 32, SG 34, MY 32, PH 26, AE 0 (FAIL), IL 32, NG 26, KE 32, ZA 0 (FAIL), GH 28, FR 33, DE 34, JP 8, IT 34, ES 33, BR 34
+Countries: IN 35, PK 0 (FAIL), BD 36, US 36, GB 36, IE 36, CA 36, AU 34, NZ 33, SG 32, MY 35, PH 0 (FAIL), AE 36, IL 33, NG 29, KE 32, ZA 32, GH 27, FR 33, DE 34, JP 7, IT 34, ES 32, BR 33
