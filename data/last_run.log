@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 32/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 34/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 56 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 4 stories
-OK   Daily Mirror: 29 stories
+OK   EconomyNext: 5 stories
+OK   Daily Mirror: 35 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 13 stories
-OK   Daily News: 70 stories
+OK   Newsfirst: 16 stories
+OK   Daily News: 75 stories
 OK   Sunday Times: 33 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,33 +21,18 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 77 stories
+OK   AP News: 80 stories
 
-Biggest stories right now: What's next after no deal at COP31 climate ta (10 outlets) | Fire rages at Benghazi port after suspected d (6 outlets) | South Korea education minister resigns over e (6 outlets) | Democrats win largest House majority since 19 (6 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets)
+Biggest stories right now: What's next after no deal at COP31 climate ta (9 outlets) | Fire rages at Benghazi port after suspected d (6 outlets) | Democrats win largest House majority since 19 (6 outlets) | Sri Lanka, Thailand exchange visa-free travel (5 outlets) | South Korean minister quits after AI cheating (5 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Three including two Excise officers arrested with 43kg of cannabis in 
-    important (serious news) - researching
+* Newswire [3 outlets]: Four STF officers injured after jeep collides with train in Midigama
+    important (also on Ada Derana, Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: Grinning ex-NYPD cop admits to The Post that he killed NYC jogger — an
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* PBS [2 outlets]: Lawyer: Father and daughter detained by ICE at Seattle airport were tr
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC [2 outlets]: San Francisco is enjoying an AI boom, but worries about a crash are gr
-    important (also on BBC World) - researching
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -57,7 +42,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 rejected: the name/word 'AI-driven' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: spoken field states 'Today in Sri Lanka' which is not in the article; spoken field states 'Good morning, listeners' which is not in the article; spoken field states 'The police are looking into what c
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -66,11 +55,50 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 2 rejected: the name/word 'IMF' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 rejected: The 'spoken' field adds 'in Sri Lanka', but the article never states the country. This is a place not mentioned in the article.
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Cash transactions above Rs. 500,000 could lead to higher tax liabiliti
-    normal news - one-paragraph summary
+* Newswire [1 outlets]: Two fishermen killed after being hit by train in Trincomalee
+    important (serious news) - researching
     news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* Daily Mirror [1 outlets]: Global climate summit collapses as countries fail to agree on moving a
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The New York Times [2 outlets]: Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’
+    important (also on The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: what_happened, blurb, and spoken call El-Sayed 'Senator' or 'Democratic senator'; article identifies him as 'senator-elect'; key_facts states El-Sayed said Trump 'could sign' a bill; article only says
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -79,22 +107,28 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: what_happened omits condition that cash expenses must be business expenses outside permitted payment system; spoken says IRD pushes everyone into formal banking, not stated in article; spoken says bri
-    attempt 2 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: the name/word 'TrumpCare’' is not in the article
     -> no cards; posting with the site's own summary
-* AP News [3 outlets]: Poland says Russia allegedly twice tried to kill a Ukrainian American 
+* Ada Derana [2 outlets]: Sri Lanka’s Ransilu Jayathilake clinches gold at Powerlifting World Ch
     no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Indonesian police remove 24 body bags from factory fire site
+* Hiru News [2 outlets]: Commercial Bank ranks among Asia-Pacific’s top 50 debit card issuers
+    no AI summary: saving the rest of today for important news
+* AP News [2 outlets]: TCU fires Sonny Dykes 4 years after he took Horned Frogs to CFP champi
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
-  photos: 8 too small to look sharp, using the clean cover
+  photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 9 facts and 0 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check failed (AI did not reply with JSON: '')
 
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 48 story pages for Google)
 
-Countries: IN 36, PK 30, BD 37, US 37, GB 35, IE 34, CA 36, AU 37, NZ 31, SG 29, MY 32, PH 26, AE 37, IL 29, NG 25, KE 27, ZA 30, GH 27, FR 33, DE 32, JP 9, IT 31, ES 31, BR 30
+Countries: IN 36, PK 33, BD 37, US 37, GB 35, IE 34, CA 36, AU 37, NZ 31, SG 29, MY 32, PH 27, AE 37, IL 27, NG 26, KE 27, ZA 31, GH 27, FR 33, DE 32, JP 8, IT 32, ES 34, BR 30
