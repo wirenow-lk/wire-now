@@ -1,13 +1,13 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 76 stories
+OK   Ada Derana: 75 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
-OK   Daily Mirror: 77 stories
+OK   EconomyNext: 19 stories
+OK   Daily Mirror: 78 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 21 stories
+OK   Newsfirst: 19 stories
 OK   Daily News: 78 stories
 OK   Sunday Times: 1 stories
 OK   Lanka Business Online: 10 stories
@@ -16,74 +16,46 @@ FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 4 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 34 stories
+OK   BBC World: 32 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 92 stories
+OK   AP News: 94 stories
 
-Biggest stories right now: Jensen Huang reinstated as Nvidia CEO, board  (10 outlets) | Search continues for dozens missing after Ind (8 outlets) | Why did COP31 climate talks collapse without  (6 outlets) | Russian warship hit by Ukrainian drones in Li (6 outlets) | Democrats win largest House majority since 19 (6 outlets)
+Biggest stories right now: Nvidia board reinstates Jensen Huang as CEO j (9 outlets) | Nvidia shares up 30% and tech stocks rally af (8 outlets) | Search continues for dozens missing after Ind (8 outlets) | Why did COP31 climate talks collapse without  (7 outlets) | Democrats win largest House majority since 19 (7 outlets)
 
-8 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Crocodile linked to deaths of two children captured and released into 
+* Hiru News [2 outlets]: Sri Lankans spend Rs. 560 mn daily on alcohol, reveals ADIC
     no AI summary: daily limit reached
-* South Asian Herald [1 outlets]: From Colombo’s Floods to Climate Finance, A Wake-up Call for Sri Lanka
+* Daily Mirror [2 outlets]: Zimbabwean Pastor Uebert Angel arrested over sexual assault
     no AI summary: daily limit reached
-* Daily Mirror [2 outlets]: Fire breaks out at hotel in Borella
+* Ada Derana [2 outlets]: Red onion and egg prices surge in local markets
     no AI summary: daily limit reached
-* Daily Mirror [2 outlets]: Diesel spill hits Colombo coast
+* Reuters [3 outlets]: US lawmakers criticize Nvidia decision to reinstate Huang as CEO
     no AI summary: daily limit reached
-* Daily Mirror [2 outlets]: Softlogic Life puts Sri Lanka on the map as Asia’s benchmark for Digit
-    no AI summary: daily limit reached
-* Daily Mirror [2 outlets]: Sri Lankan marine biologist Asha de Vos named Fellow of UK Marine Biol
-    no AI summary: daily limit reached
-* Reuters [3 outlets]: AI rally set to add $2 trillion to Nasdaq-100 as Huang returns to Nvid
-    no AI summary: daily limit reached
-* Al Jazeera [2 outlets]: Israeli strikes kill at least three, including UNRWA worker, in Gaza
+* The Guardian [3 outlets]: Cop31 collapses: why did climate talks fall apart? - The Latest
     no AI summary: daily limit reached
 
 Top 10: 0 fully explained
-bot inbox: <urlopen error [Errno 104] Connection reset by peer>
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 10 too small to look sharp, using the clean cover
+  photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 503: {
+    gemini unavailable this run (AI error 429: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
+    "code": 429,
+    "message": "You exceeded your )
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
     "code")
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code)
+  meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 50 story pages for Google)
 
-Countries: IN 37, PK 32, BD 36, US 36, GB 36, IE 35, CA 35, AU 37, NZ 29, SG 32, MY 33, PH 27, AE 36, IL 30, NG 29, KE 33, ZA 32, GH 29, FR 34, DE 34, JP 6, IT 33, ES 32, BR 32
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+Countries: IN 35, PK 33, BD 35, US 35, GB 37, IE 35, CA 35, AU 33, NZ 29, SG 32, MY 32, PH 28, AE 35, IL 30, NG 29, KE 33, ZA 31, GH 28, FR 34, DE 34, JP 0 (FAIL), IT 33, ES 32, BR 0 (FAIL)
 
-World Pulse not made this run: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message"
+World Pulse not made this run: no AI available for writers
