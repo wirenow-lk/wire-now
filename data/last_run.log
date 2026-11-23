@@ -1,52 +1,52 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 32/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 54 stories
+OK   Ada Derana: 56 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 7 stories
+OK   EconomyNext: 4 stories
 OK   Daily Mirror: 29 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 11 stories
-OK   Daily News: 68 stories
-OK   Sunday Times: 11 stories
+OK   Newsfirst: 13 stories
+OK   Daily News: 70 stories
+OK   Sunday Times: 33 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 7 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 35 stories
+OK   BBC World: 37 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 78 stories
+OK   AP News: 77 stories
 
-Biggest stories right now: What's next after no deal at COP31 climate ta (8 outlets) | South Korea education minister resigns over e (6 outlets) | Democrats win largest House majority since 19 (6 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets) | IMF Executive Board to consider Sri Lanka's s (5 outlets)
+Biggest stories right now: What's next after no deal at COP31 climate ta (10 outlets) | Fire rages at Benghazi port after suspected d (6 outlets) | South Korea education minister resigns over e (6 outlets) | Democrats win largest House majority since 19 (6 outlets) | Three dead, 36 missing after Indonesia factor (6 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Guardian [2 outlets]: Alcaraz puts Zverev in shade as world’s best beats No 1 for first ATP 
-    important (also on Reuters) - researching
+* Ada Derana [1 outlets]: Three including two Excise officers arrested with 43kg of cannabis in 
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [1 outlets]: Grinning ex-NYPD cop admits to The Post that he killed NYC jogger — an
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* PBS [2 outlets]: Lawyer: Father and daughter detained by ICE at Seattle airport were tr
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The Morning [1 outlets]: Export farmers seek climate-ready systems
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [1 outlets]: Wholesale price of dried chillies could exceed Rs. 2,500 per kg, impor
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [2 outlets]: Trump hosts third crypto gala for meme coin amid conflict of interest 
-    important (also on Reuters) - researching
+* BBC [2 outlets]: San Francisco is enjoying an AI boom, but worries about a crash are gr
+    important (also on BBC World) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -57,11 +57,20 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
+    attempt 1 rejected: the name/word 'AI-driven' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: The 'spoken' section claims the White House has not yet responded to the criticism, but the article includes a denial from White House spokesperson Anna Kelly.; The 'spoken' section says 'a claim he d
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 2 rejected: the name/word 'IMF' is not in the article
+    -> no cards; posting with the site's own summary
+* Newswire [1 outlets]: Cash transactions above Rs. 500,000 could lead to higher tax liabiliti
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -70,26 +79,22 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 2, written by openrouter)
-* Al Jazeera [2 outlets]: WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo re
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    cards OK (attempt 1, written by openrouter)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: Chris Bowen's quote is altered: the article says 'the most complicated and fraught geopolitical environment in living memory,' but the card omits 'complicated'.; Panama is described as a 'Pacific nati
-    attempt 2 rejected: The card states the EU said the decisions did not go far enough for the 1.5C goal, but the article only quotes the EU saying the decisions did not go far enough to tackle climate change, without expli
+    attempt 1 rejected: what_happened omits condition that cash expenses must be business expenses outside permitted payment system; spoken says IRD pushes everyone into formal banking, not stated in article; spoken says bri
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* AP News [3 outlets]: Poland says Russia allegedly twice tried to kill a Ukrainian American 
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Indonesian police remove 24 body bags from factory fire site
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 9 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: looked up 24, found 1
+  photos: 8 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 47 story pages for Google)
+
+Countries: IN 36, PK 30, BD 37, US 37, GB 35, IE 34, CA 36, AU 37, NZ 31, SG 29, MY 32, PH 26, AE 37, IL 29, NG 25, KE 27, ZA 30, GH 27, FR 33, DE 32, JP 9, IT 31, ES 31, BR 30
