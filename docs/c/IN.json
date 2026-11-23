@@ -1,17 +1,71 @@
 {
- "updated": "2026-11-23T14:57:09.866338+00:00",
+ "updated": "2026-11-23T16:01:52.773773+00:00",
  "code": "IN",
  "name": "India",
  "stories": [
   {
-   "id": "f793cde9f7",
-   "title": "Nvidia Reinstates Jensen Huang as CEO With Government Input",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkNIMGtvdXlmRlE2NVZqSEhkRFItNWFyeGJtR0pKbWxZTjRxZHQwTmxIbnB1eXFsZV9QWkE4bFRVMEtoU0huMmdNZHRUbnZmNTRkM3l6eVQtQ3J5OUxkZ1hxckxLQlF0aE5YZUtDTVBTT0x2eHRuQjVhdnFzNmpscXdMaUhRaGlsaVFVM0dHbF9yTURqSFpMczlrQXAyYjdqbUJTdWFjS2Jqa1pGeG9n?oc=5",
+   "id": "9d64dc32ae",
+   "title": "Focus on Africa | What it's like to play GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SeFRxcVp2MjNkYWxza3RsSVl5SDk5MUJXZFpxLWozdVRlWUJXM19PdHduaFpYQlBGTkN1dTIyWXR6TmRheXZhRTNKTFNyb3lV?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg.com",
+   "source": "BBC",
    "region": "IN",
-   "date": "2026-11-23T14:50:50+00:00",
+   "date": "2026-11-23T15:03:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a093c642dc",
+   "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc25MX1dwRE9Lc3haUV91TTdFS3ZhT2VUTXgxTHNPdWpmQXowdE1OVHJWMC16YjFFRTRldy1xWWxvRUpNT3JwenpwZTFvd3ZHSVB3SmtPQU9IT2JjSC1BSTZ6aVdCRHhWZzVHaHNiWEZsYXExR2xiZFRaX1VZMHJscktPVHpzeWZSRGJOZ1JOUXV3bV9tRDVmMUZNR2pvdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WSJ",
+   "region": "IN",
+   "date": "2026-11-23T14:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f0db71fbaa",
+   "title": "Schools across Germany, Denmark receive bomb threats",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "IN",
+   "date": "2026-11-23T14:23:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪 🇩🇰",
+    "also": [
+     "Denmark"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c8ad6e2677",
+   "title": "Nasdaq futures jump 6% as Nvidia reinstates Jensen Huang as CEO",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQl9QYUphYTNZd1ZpNHBtd0swTEVkeFA1TTBjQ3hianVEZExOSXFsNVVxSG1BWE1jTVFxenVRRnJPU2VYLWNCWWt4VHcxZ0hYVnpVRmZpanFwZmVRTjMwdnB6dlhrV1c2MWdRMWx2SW9Wc3hjcXotN01leGx3Rko4RklKUlR3Uy13SUVyVV9raWNWQlNrWTE4b2cxUXJLdGp5OW1MTWh4TDFxQk1MZnJYTzIxTGxzODdyLWU3a1J0eEhhT1FtRld5NHpTd0o?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TradingView",
+   "region": "IN",
+   "date": "2026-11-23T14:07:37+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -19,6 +73,23 @@
     "flag": "🇮🇳"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "f839a3b329",
+   "title": "SpaceX Dragon returns to Earth with cancer research breakthroughs, 3D-printed blood vessels and more",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVmZ5a0czLVpaLWNZcl9pZjRnUHN0VTFmMkZpX0FoSThzSTJhMF9GV0xHT3pVT2tBT0NOdzF3TmVPTWFMTXJoRkxYWkhLMVZFNkI2Z2VkYm9GWDFsQWVQbEhNNC1acFFHaTNxUkt2RHYtR3EzVndMNl9zVTM5NnR3Y2xKQUY3T051d2tjOVNMd2VNTDRJT3hXQzVnTlJlb3BncmV3dnVBNGtWdWhoM2dmdk5pakJ5Q2txU08wWGxnZHNVVEVmdUxIMnhhREJTWWhzSkJTVlkzODhIaWhSSHhsZ0VTRGstTldVV2fSAe8BQVVfeXFMUFZRZnFLbi01WV82cjhidnA4M1FMdklDRnFEbWRMaG5KVTVTc2U4anhFUm1ONDl4SVhSQzVFMG03bFdYaWVxQ3B5Y0NMbE16TktnUGktSVNJTXRIQ3l0bVBHTVdZSUhnZ0xlT2JGOU0zcDd4UTNyR3ZqMUdHZThEbGtBdzRRdENuVnk2czJXaGNhN2pCNmtWMzB1NVI4X1RHSzlXTTlnaXJrcU5tWWZWRVp4NVRsellkRVJoVWJTUjdSTS1XLUdCT2VOcFdQclA3dVNJb1FCclJXZFdOTmdkTzYtS1dDeTlEZ1l4eHdrX1U?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Livemint",
+   "region": "IN",
+   "date": "2026-11-23T14:00:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
   },
   {
    "id": "0de8fd5201",
@@ -36,6 +107,60 @@
     "flag": "🇮🇳"
    },
    "topic": "Health"
+  },
+  {
+   "id": "511da033a8",
+   "title": "ICMR’s SAMPADA Survey Finds Lower Anaemia Prevalence Across Age Groups; Severe Cases Below 2%",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWFHM1dodkRZRXpXT1JKcElGNVExQXc3TG9NU3pzVEFCUTV2ejN0WGR5aGxzZnRMbklGTDZDMHJOUDBMdkloWFlkMUgwUTRBVml0QVhmRW9zbTRsNXM4YjlLSEh2cHdOdmVPeUJ0U3ZIYjZKblZiUVIxRy14Yi1peDZ1YUdwQ21nOUhRTk1LUWZ3R3R2TVFjODA2T1pIcTlyVzRyTDdDUXRJeE5OMGNLRVgxX3p4ems?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DD News",
+   "region": "IN",
+   "date": "2026-11-23T13:39:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f6961a0af6",
+   "title": "Nepal PM Balendra Shah visit: India to give $1.62bn economic package",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BSHRycnFnTGJEUzFNUElLc1NZSV8yczlGNnFXdWJKa2NhRDBZb2R0bkhsZF9RRXpmOG42LW9kYjdKbUIzamZMcno0ajlJa1l5V2dxbmdVVnA4RUk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "IN",
+   "date": "2026-11-23T13:39:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nepal",
+    "place": "",
+    "flag": "🇳🇵 🇮🇳",
+    "also": [
+     "India"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4a8e5561b7",
+   "title": "Apple may launch iPhone 18e, new MacBook Neo and iPads in early 2027: Here is what to expect from its product lineup",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS3Zhby1QdWwtNlQ4aHJ6VHotMzlxZnN4dkJMMEQwbTE1WXlCMjg1ZVF3ZXZNc1hfaUg4c3ZxRnY1dnZ6X3c3UGNqQXV6TVRIdzhvNDUzbFlXTnRrOXI3U014SUdYdWhDTWl6RHkyZ1BLSHB2NmtFd0NLc2I4SXhYdzRVRVFVbFI5NWZNekx0czhZY2xLbEdqNkNoM0VFdkNWanFfSXRlTm5lX1p6WW1HV2ZmSnhUM0ZWc2pVS3lybUdXSnVCa0NzcWUtaEVnUkdudXIwSzY2MXQxOHI4a3FURHppNEowM2dwUDdBNmR4TEpkbGo1TGFxWTU3TWJVQTDSAYQCQVVfeXFMTVpnYndEU2ktSE5GYmRZdFFnekd5b1ItRzZnOW5INnZ1ME1PUUNxanMzNUNublNNY3F1bXVWeElLbEcxZXByMHc4cWNQWkJQVDFHekV3WWttNUdBSHRURUdXNFFvYmY1SnBQWDhEazJ6TnVjaXlZc3ZjUVVCa3F5R0RtSkZlZVlXTFZCUUpCc0VsangtZ1BWMzNzR1JDanRmWFlIUUk2dlIydGQxVkJQNEFQblBQQmJuUzhKQ1dsa0NYWGEtcUdWWjRxZmYzck4wUXRqUTlSdEJmMHNmYzBWNFBsYnZYYThuaXlHU1VqcVRqbzc4QWhwQjVMTW16UkdIX2NCOHA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Livemint",
+   "region": "IN",
+   "date": "2026-11-23T13:34:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Tech"
   },
   {
    "id": "b620b95385",
@@ -72,34 +197,34 @@
    "topic": "Society"
   },
   {
-   "id": "f0db71fbaa",
-   "title": "Schools across Germany, Denmark receive bomb threats",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
+   "id": "e4c43d5f62",
+   "title": "Ex-Mossad chief: Israel must go to war against Iran ‘as soon as all conditions allow’",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQW1lNE85X2RXWFl6LXlhcnFfYWV3R1pWZnZ5UFVPaWVrTy04MFIyRndvS1RKYUZxTlVNekRfcUlqeE83T2h5Y2I2RWJSUkkybnliUDNwQ0RkYU54VnE4cHNhZHB6TGE2M3hkN05panQtVEF2MERHNjg1Sjk1allic05razJYNGNzYW1vdkl4SzFSZ29pTzRkM0ZYRkhzZzDSAaQBQVVfeXFMTWo5MEtXSHpmV0VaWUVjUTdUd0tRNGl6eG9KUDJLVTJuMmZtQUxqcVVmaGUzLWRna3BETllzajUxbkhTVGdqNEJvUnZGUWpKbEFwWDY1NThNX2E1bUhGdVQzQXQxdFZvLTc2d0lPM0YyX2NOWlNKRzRCeW1nS1A1dTBZWEhDY0xzNWJ2dlpYQW9MMElxbEpWNzd2WmhrZ19MTXY3c18?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "The Times of Israel",
    "region": "IN",
-   "date": "2026-11-23T11:51:21+00:00",
+   "date": "2026-11-23T11:34:38+00:00",
    "coverage": 1,
    "location": {
-    "country": "Germany",
+    "country": "Israel",
     "place": "",
-    "flag": "🇩🇪 🇩🇰",
+    "flag": "🇮🇱 🇮🇷",
     "also": [
-     "Denmark"
+     "Iran"
     ]
    },
    "topic": "Society"
   },
   {
-   "id": "a093c642dc",
-   "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc25MX1dwRE9Lc3haUV91TTdFS3ZhT2VUTXgxTHNPdWpmQXowdE1OVHJWMC16YjFFRTRldy1xWWxvRUpNT3JwenpwZTFvd3ZHSVB3SmtPQU9IT2JjSC1BSTZ6aVdCRHhWZzVHaHNiWEZsYXExR2xiZFRaX1VZMHJscktPVHpzeWZSRGJOZ1JOUXV3bV9tRDVmMUZNR2pvdw?oc=5",
+   "id": "198676f034",
+   "title": "UP shocker: Liquor 'flows' from handpump in Jhansi village, woman arrested",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcjFHTWgxODgyUFRTd3hrS2JBSUQtZ3NCY2tNZlV5ZFFSYnFDQkFzOGdab1ZVTEZPSEpfTmlPRU02LTVWbUJhTy1WMFlUam1RQ1NncHJNb1dhRzEwS3I0S3BYWlFiLTRXRlJCU3JpWkJGUlh4VWF6eFE1NTkzenlQTTN3bXdxWk1YVFplR2FNZlBndGVIMzlSS0hlX2FZZmpTQWYxZXpoUkNGWGdWM0p3Q0Q3NjhSZ0V6a2R6ZEw0LWtvOUtiYTFpRzZJX1kwVlQzS0VqMkE0M3pORl9HeHfSAeMBQVVfeXFMTnl2MGx5ako4cEpqYXkzaGhUUFlVRjR0SXJlTXhteU1yaDFrVHlPSERBTHhnLUI4NWYwRFotOXVqajlacWhITFpTeXp5T3BETllRVVllNGZhZ3BHNTREMEdrLTNYVFlGajlJdzhqamx5cUpMaGNiZFd1azZ4Y2lSNkJKQ0tLbE8yX2QzS3o4d3k0MHU5YzFINFVIZ0hyMlg5aE9RcDBNcmQ5dmMwblBmd3hYOTdnMm8xSUlVNUF5MDJhRjZDaFFFc2UtYXBhUHh4T3FZbnF1ZWloZXN2Z2FDcXNGejQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "WSJ",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-23T11:36:00+00:00",
+   "date": "2026-11-23T11:28:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -126,23 +251,6 @@
    "topic": "Tech"
   },
   {
-   "id": "695eb99cc4",
-   "title": "Avoid WhatsApp Web for sensitive, official work: Ministry of home affairs flags cybersecurity risks | India News",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVEcyVVhYWGV0ejEya0xfaS13eElTbEVHcll6ZzZwYVNfSmVEQ3B2OGVtT29Qc3ZEdG1yNjVTZC1TdWc5LUIyTWtuUmxWSFZsVG9WR3pCaVhfM0VRektHX0M2dzcxbmRJTy0yRHpVbmMwUGdXZ0JnNkxkQ1VQUjJuSGh1ZW5QT09VcHByb0drV3g0Qkl2VTcxSHlwMXVVT3NlUzVhVi02R3NXSHg3QWtNVDI1UW03WFUzaFZPX0p2UEw3ZVY5MW5JTnJJNFhEb0VtQ3FKVjlSczc1ZXRqcmllV2VhenhmUm5rMW1hZ3g4VS1RUdIB9wFBVV95cUxOcDAybkoxVmpmeUhoYWU4eHY2ZjlfNmZ2X1FYRGZHejNIdG9VSFdqZWNsakZMSjRyU3B4RnFtQWZsV09uUGhSVV9WVGh3a1owaHVmajJHNEo2UG9fM3I4dUFDVHNiZWhrT2VGVXJYMlVNV2JZQVFkMEN0cHJFZGFKNHlILTh5bjZCV01XVnhJaHVkMHZqSzVEZEdWRnBhLTFqeDFyWmE2OUlhLUtueFk2eWhGRjNPOTRMaDJGQTF2VTRDcms3OWNmSjZtOFhtZzhWNnJlX2FyQk1ZVV95Q1RKODc1TXpDanJxemlvNXJVVXlKem03UmE4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hindustan Times",
-   "region": "IN",
-   "date": "2026-11-23T11:09:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "668acaa010",
    "title": "Lecanemab Linked to Changes in 12 Blood Proteins in Alzheimer’s",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmpCZDRVUlkzNFZTYWk0enpYSGIwcXczNHREWDVkSWJfdGt1N21FX3lncS1jUU40c3NIWDZyR0RncWd1ai1ZR2hZN0Y0Yy1TckxWakFkYlJ2cktTbk5UM1cyMlMxeFlJWlctNHlRdXkza0thSk9PY2tqTGV3aElyZVlVWFZDeXY1Y1RFdUtET0hIZjdlRnBrR1hRSGx3ZDgzRENVcFlPZDk?oc=5",
@@ -151,6 +259,23 @@
    "source": "EMJ",
    "region": "IN",
    "date": "2026-11-23T11:05:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d8cdc3ee2c",
+   "title": "Stock Market Today Highlights November 23: Markets take heavy drubbing dragged by banks; Sensex plunges 1,484 pts, Nifty dives to 25,349.65",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXVvX3Q4QlppbDhBeHJUUFk3VFg5eVZZWHlqOTE2Nl83MEJEb18wZFFrdHpfbGRick45U29mbUFpWjBwcW04ZkJwcGpYRWIwWjJLdzYwWVBKUGZHeHYxWnVjTVlVSGxaTkM5S0gwTDQzQ1M0X2l0YkpGOFRoWDZJRHphUXVuUElBUFNFQVJidkJGZnBkMHdLRkhfNlpyek9CcHNReTBNWTAxaTlqTlFEUVJtT3B1WWpFMjdVV1o2RnFlRG9k0gHLAUFVX3lxTE5EMkMzZFZKYV9tWG5zTmQ1eDQ0dW9iRzFmdC13QWpkRzN0Q2cxTWRfSW1CM3J2QWZ1Y2VheU9JX2NyMWNWc05hQWhza2RRR21LdkZUTjdhWThDTnBqQVNxTzFkdjFkd0Q5Q1ZGMlFscHk2bkRVY2pORjUxbWlJdS0yR1h1T1g0ZjRKaVRsT0RhOHhPbERzc3Q5MkVWX0Rnd19YTkE1clN4Q2tZcVB1bzNRMHRZaTJtUFJNV2pmWjI4Ulg4dTBZeWdlYzVB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BusinessLine",
+   "region": "IN",
+   "date": "2026-11-23T11:03:23+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -198,40 +323,6 @@
    "topic": "Society"
   },
   {
-   "id": "34222c653b",
-   "title": "Supreme Court says will consider allowing only BS-VI vehicles in Delhi-NCR",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2R6OF9PaFkya1NBMGlhNW1xVUdnTHZHd01QUGxfMWlqZVI4dUJNSmlfMFA1cUxxcWNvX19CbnhhNnJBSlMwcC1mYW1oNS1QakdkejExZmdIRjE1dFNBTDQ0cVMzNXpYbXB4TW9HOTQ3REFrXzNYNEc2TXpRY2Z2Nklhc2hqbUZxSjFWWmpUYWthcV84SEJjbnhDMzVyNDFJSnluaE00d1RUWVHSAbgBQVVfeXFMTmpKRExmYllWOWdfYTRCaFYyWmhud1hnUWlZWE52ZGNDdGhsUGRLWVpqU1RiOXY5aW1nOElOdmRFNXdEUU5UV1p6YmdJbkVXVFA4VzFpQ1p5QkVGbDF0cXNQZmVIMV85MlJXUDVodDVjbU5DWmF6VExlSWNpRlBXaVh4T1J1dkx0Y3dEWFMyRE40djFWUU1tS2pFR29od1d5RFp5MVNQVy1YX1J2NEpXelpxOXdnNHBXbQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bar and Bench",
-   "region": "IN",
-   "date": "2026-11-23T10:35:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "2bdb7122f8",
-   "title": "Stock market crash today wipes out ₹6 lakh cr: Red! Sensex down 1,484 points, Nifty below 25,350 - What went wrong?",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTE94dkpHRlNjaVdrWERKX01mcGRvN0QyQW5JbHZISzZmWWJxRzAxajhFT0k2TmdyaHp0SWhzcVZxSnJQc1NvYzlpdjNJU1FQLTMxMWhjRFNBdXN5U0gtRllRZE0ySnRmSDV2cnI4T283TmY3eTkzdVFkN0ZGU3NsUnE3bmlqcXdDekVocmdCZlRxUkJuQ2xTektUaWF3SUR3bU1rdGxhaWtvcUIyYWNtZ0htM3Z6X2hGUUN0dGNOT2RXTGxNUUtNZUY0cnRrUkswZWJ1dC1kTTBicGNORjJMQ0xBTXRmSWJoazJWeThLUG13SWNZejlzcFBNd1AwSzE0RHJ3c2dzNzMtdUtpZEHSAZMCQVVfeXFMTmVOVmpkTWp1ekJpTTFaOEstNmtJaEgzWWRWdHlTX3Uyc0dIeVJ6dWF5MVZheDBVRVpOcTdSX216VXJpV1Q3aWFpeldEUzYtb2VBMndBNW1melBsTXhDODZQREtieHJ6Z0tBV1JLMUYzRFB2VEc4MnVRT2RfX3JnOWNESk9vNVhrTUxhbmJaek1UT1R2UEtWZkFRbURGVC1QaU93cjkxRWMxYWVJbXJoU1dkcGtQSExnV0pkRERGZ0lBY3NZNkFVaGZCeXQ5aHBVeVJVUEtEcGlqaWNJZDNOMUFaMlMtYmROSXdnNHZ4bmRRamRXVEFhUlZYQ2ZMaUgxUUpJX09DUjdwenJWOXZFaHNBUFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Livemint",
-   "region": "IN",
-   "date": "2026-11-23T10:35:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a5a8532c4b",
    "title": "The Beaver Supermoon rises tonight. Here are the rise times for major cities across the globe",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zemRCZUZaNUpfN0dTZkFDWkdQY0VoQ3U5UGpEZV85aHlCM3VMYXRCM2tpLXpVbFBqSzBFLWY5bVVXN2RLeHhCTlVHcHJIQzZPTkJORmFjaTFNUV96aGRUcXBwWjl6TzBtN3JIU09aajdZZzAwblptNk9BdXRRZw?oc=5",
@@ -266,68 +357,14 @@
    "topic": "Politics"
   },
   {
-   "id": "eb6fff3731",
-   "title": "West Bengal to be renamed Paschim Banga",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnZ6Y0FNaE56dFRuTVNsaWszX1JTcmYwWXZScERvbkI0SFpNYUlZWWpmTWN4WFpZSVNnZjl6WnB5UTVrejBhdXVLOW5BQnEtRFZ1eUR0SUpfb2hSM205cm9HbDJMR1h0b2VyTTBvVENTN0IyaVJwZHBjOWJMRVRaLUJNVVM0NXJnRnhFYUZwbDR4eHplSVNYNEpDbzRjLXZBeUE?oc=5",
+   "id": "6e2df049ae",
+   "title": "'Stop Acting Like Bahubali': Supreme Court Chides Bihar Sessions Judge For Order Punishing SP For...",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOMW50OWpsZWItZHprc2JhWlZvR19rUk9TVlR4WlJseV9YdXJUdUJHR3pwTVlzVlpwbmMzd2gxM1cwV2ZtakFtN0tPcXRBMGFuNzVhV0ZKaGFsZWY5ZnNMdmFZbkxWN01meUFVUEVYNkVlTFZfdllnRnZqTUtyYm51NEZlc0ZHbmtLS1hJY2FPa3V0VUpza0xvQi16RVA0d2x3TXZ3amFaSnprS3kxRE9YUlpHSE81TjNCZHhpczRHbXZxMDV3LU1VRnR3OXBRcjhnTDFST0FaT2c1TDJJbjQ5enkzMEFBWmdfZnRjSjdscFFyakdERDJLLTAteTlWcGh5Y1ctMUtmamxXMk5KeEhVLUtKUS1NTkluckc4Um81T2xBRVR0TkEzMUhRTkZaREN1cU1GTERFbWFPalhoWEMySjFrMWlaYzluTFN4SXBfaHVrTnEtVXY5MnE5d3hBX1ZJRWpnUERZONIB7AJBVV95cUxNY2xXUEJSdFRma1lfWnd6RkpvVmZuS2tiZ0Y5T3JISFFDd2lrc04tVlRGVjNERXVjLVVoMWFITFkxSlh6c0RxcHdlX2wwLXBaRVplVUQxdHc1Y1ZuM2pod1hsTHNzZ0RwN2hkU0UySUU1NXhnai16OWp2c2FGbDNrdFc0ZEpIYzRKM19vcDdNZkNDOUNqQ1BoRHhvZmhYOEtNMW5YOXdKcVJ2Q3NoYUtfLTJrbk1mWk5nUzBpbk5jb1lKZ2hWeVA1ZnY0VHVUWS1GZzJDRThuQjVzeUVaZDl5VzdLVkxPdUkyR3Z3MkVNeFJpLXJudXZTNTM5SHVaYlNVdENNMU1BczBLYW1VZ3EyQnBHVFdYWnctVVZQVW92T3FaZ1RHVXFtYkhHN2RRYmdiS0oteUV5MjlvSlB2ajVqOTZJdnh2NlZ6TWV2M2NNQldVWWtJVXhBRGNaWDFXV1U5eVhySjBVNTZJRWJ6?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Hindu",
+   "source": "Live Law",
    "region": "IN",
-   "date": "2026-11-23T10:06:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4058643cd5",
-   "title": "Iran says it will use all its tools to confront US naval blockade",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxsYjRUNUVtQlVrWm1YSFE3eHduckRPNW5CN0llMTJydFI3dGJIa2ZiTENBSU9HYVYtejVzM2JVUy1nbW9wQmdOZGJhdTlMT2R6cTBYNmFUME9aZ1BhTFI2THpRdlJRY21UeW9odHdFWGZxSjlTSVQ5VlBOV2pSckFraW1JWUtOd3dqVWFDZC0yM0t4RFRKWEktV29YTFdLTlJlZ1NsNlcyZ3phdzlVcTlCQ0pTM29GODhJUDVjUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "IN",
-   "date": "2026-11-23T10:01:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "df439568f9",
-   "title": "Exercise and Eating Timing Linked to Lower MASLD Risk",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSV9pTHlzT01MQlFRZi0tQ1ZqYUZiYVl5Z1NRVVpKNFZlekJWRnc1bXp0cllxM1NZT21CcG1YakpBbkFOYmFmd3JFUm8ybXR0ZC1XT3FPajdHc0c2UU1BLVNiaVVlSmpVQVQ3bEluUy1VZi1wYWVJby1jWTR4OU40SUY0RVd5OEt3WG9ISEJFYmJyR0ZwS3lfR0VJcDk2UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EMJ",
-   "region": "IN",
-   "date": "2026-11-23T09:35:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ab1e2d279f",
-   "title": "Delhi court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVVdPelpTd3R2VnlWZU9kREFXdnlDRmkwYlpZbXFEbVVnUl90TktRWVNlZFphWjUzNlR1V185ZzBvZU1WR1hnc1JVVzUzc0ZNczgtMjBRY0tsTEViZ0NOb01mODZFdjFEWEtLQ2R4bTdxN3EtS0Joell6V3hLSkRRUTg5Y3RUeVlpOUJYbUp3S0oxcXY4TGtzTExJVWZzZ284RktxcldDUTdEMVI3TDQ3RTlLbjg2YkUwTXcyMjBid1B2UzZYWEZWaEZuVmpvVUdlN0xLbzQxSXlWOFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "IN",
-   "date": "2026-11-23T09:20:08+00:00",
+   "date": "2026-11-23T09:48:31+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -357,46 +394,6 @@
    "topic": "Society"
   },
   {
-   "id": "c21b7c9c79",
-   "title": "Nepal PM India visit highlights: PM Modi announces offshore campus of IIT in Nepal",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "IN",
-   "date": "2026-11-23T09:05:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nepal",
-    "place": "",
-    "flag": "🇳🇵 🇮🇳",
-    "also": [
-     "India"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7d78a01e6e",
-   "title": "Asia stocks mixed as Taiwan rebounds, KOSPI slides; U.S. futures jump",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHpod21ucVBCMnhZZ3pjZTVLdDlNZFVKMVoybW9lUkZERll2UGV1R1d3cnU0STViRmF1eURnOFYxbDNNSGlBalpvU193bU9oWjQzdER3bFdNMEdoS0twRFNWX0VzV2p2aTVPNEhEVmxrMi1uU0Vua2cwMEhMU2NCMjBaOF9uYUZoYWNLMHBiOXd5S3h1MEFuM1VHaUdxdzlkRDN1TDN5RklpN0F1dl9HcUZPQTE0N1NQWW5aWDZvRTk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Investing.com",
-   "region": "IN",
-   "date": "2026-11-23T08:52:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Taiwan",
-    "place": "",
-    "flag": "🇹🇼 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c364120015",
    "title": "BepiColombo Returns Humanity to Mercury’s Orbit with Two-Spacecraft Mission",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVUhxX2szaXFzc003bWJHalBRVnAzZGQ0eGVpT1VKbVRWN3lpMzdEUExyV0pQaGxYSUJYU3NFMEJfZXJWeHJiek1aeW1oWXV1UENHcU54cjRHUnNoUUZyNlRJRVE1cE9PdERybjFpcC1IQm0yaFhmVndJazM2bnFzeVAwMmVoZXQ5VXRIck9vZ0ZoRE1pN2o1b3Y1Z3FNQzB2ZDRBSGJHMFBzT0x5dEE?oc=5",
@@ -414,21 +411,72 @@
    "topic": "Society"
   },
   {
-   "id": "cda3c54788",
-   "title": "Shubman Gill on leaving out Mohammed Siraj for Wellington Test: ‘Each player goes through a phase when he's not at his peak' | Cricket",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNaFJodVNLVlpoR3JPaVlLVjVhTjY0WUhXaWVJMUtCUWNONlpRYTRwNFllZG50UGx4TzZrYlFMYjJFcGdzOXVqNlRFMTA3dGpJUzhndjRPUDRmVzc3cVVaMHZqYkpYSFhuVXMtRzg4ZDZSSWRuLWQ1WUdLZlZMd3FrVm10UkdfdUFyUl9la3k2MUljTmRWRmlLZGZMLXd3TmNrMnJkTFVQaDgtaTR5bVBhZmZlZkJGSU5pM3JJbkpDSGtHbWV1V3VUbnJuRGxVZzNPZy1aY0RkWUMwOU9iRHVTT1hYaGttajg5NXY4UGFGLUZSQzVpdXhCS29TN3o1YmlsbnlfOUtXYkpldGV20gGSAkFVX3lxTE5LMUhOTEhhcFFnbUhfWUcwc2U2SE0tTFNNX0NtSTBsU3RSaVZlckN6SjZvZnk0ZHV0eGl2TGxUZVdnaVNYQXNTbnZVeTJfUmUySkQzMDBPbUhIdng5VHVReUplU2w5M3dRSXNsS2c2YVFVVWloU0RxRTdsRHlBemZHUVZsVXMwQlpBWllHbTlVTmlKTVNzQnprTkJ0Uk00bHlDUk5ZUXM4Si12dXFYeUNxNTNQUTZfVlRYWE1kWXF6VmdXWnJDT1VsREZXNGdkQTVZQmhXaF9UOWVRcTZlWmFtbHRDcHN4OTRpQnB2Z3hlOS1NSkx3YmNJSVBJYXZvZGR0dHNoWjJVOFpIczFzbmlheHc?oc=5",
+   "id": "c0c49d6d79",
+   "title": "Cop31: Why the UN climate summit ended in victory for fossil fuel producing nations",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1pIQWhyOXlXeEtaV29HVkd0a0d3WWhweDgyd2F6dHlPdFg2Nm9PcmtReENoZVNLVUdNem02UDJSaDY3d21Kb1lyQWdja3NGNk1qdjNhYWluN0hucldqVDQxdnpjNlgwanBjXzc0VGFQbG1KMnhRTVlHN2xaRzhGeGg2RjlMb1NhajU2Qjk4OG5LSWphcWdySDEtdXF2MU0wYm12LXJSSklxQUp1UlJpM25PMnZMVHBk?oc=5",
    "summary": "",
    "image": "",
-   "source": "Hindustan Times",
+   "source": "The Conversation",
    "region": "IN",
-   "date": "2026-11-23T07:14:12+00:00",
+   "date": "2026-11-23T08:10:19+00:00",
    "coverage": 1,
    "location": {
-    "country": "New Zealand",
+    "country": "India",
     "place": "",
-    "flag": "🇳🇿"
+    "flag": "🇮🇳"
    },
-   "topic": "Sports"
+   "topic": "Society"
+  },
+  {
+   "id": "1915c7b3ea",
+   "title": "Delhi court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTRNeHh0NkR0QmZYTHRual9NemRXakg0OVAyUFdNUWxLdGRuWUhZLW1WN1NFRlpLbDMwWjFtNHNBRS1BbWEwVFJMZkcxVjdfR0RjT3Z3MjRzeVppLVVwaXZOZHlRajhqRUQ2bXRDRGh6aVNkYUp2VzJ1b25RSGFtQ0gzMFhTN1ZTdnZSY01kUk90OXlfM0IzQ2RGTVJXeHlqVHFTQklIaTY1YnJHc1NWNmE3bk10ZFd60gHGAUFVX3lxTE5nNExlNmNCRUM0a252NzNUV2U0d21ZTE9JZE5XQkN3TGpmc1JsdUlMOXgxWWpITXV4Yzk4WkZxMEhWZDlwNFBXUXlTMk8wODJGcTh3TFFveWFza21MU0ZxVUR0Z0hXcGVOWWw5TG1oZ3I4dkVrV1JFWUdFQ242Z05Oamp5TTI0c3pIaExjclpmMTZhWjVXcElkQ0RJUnZxSWZvdzQwNGlRWmFPMElyLWJ0MzhFbTZJaVpZcVdOY3l6RWg2RDJrdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bar and Bench",
+   "region": "IN",
+   "date": "2026-11-23T07:49:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "a9bbb968bc",
+   "title": "India 3rd Biggest Asian Power, PM Modi 2nd Most Effective Leader: Report",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3l0RFo2RjRfaDgwX3QtVnR0el9BR1p1MjFrUmljd2EzY0RUdjZqWS16S3BBaU1uWGlPcWNTRy1sQU84ejUwS0dqM3ZqU0FvM0gzNzNmWE9uMHRZb2xIUzdkYzFUTzVWV0NPanJESGNrUlFUMVctU2g5dlRCMUg4NEFjYlRiNGJzQVJzeDNPMUY5dTR2N2ZrRUlHZVpTVnJOYzJPZHBWNGFXZzJVWG43QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NDTV",
+   "region": "IN",
+   "date": "2026-11-23T07:41:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2c8e199acb",
+   "title": "Ramayana North America Box Office Collects Over $28 Million, Set to Break Dhurandhar 2 Record on Day 19",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yckNhbENCVDBueE1uMzZNbGU5NHAyVGl1MVFKWTY1TmZwUWFOMGR2RWJadThuc3RWMkJ2aGJlU25sVDkwMVBxd3JnNC1GVHhOUXYtWFhVV2ZCRjdqcU1oOQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IMDb",
+   "region": "IN",
+   "date": "2026-11-23T07:35:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "402ad18c77",
@@ -449,6 +497,40 @@
     ]
    },
    "topic": "Sports"
+  },
+  {
+   "id": "e79a2e8418",
+   "title": "Video of excavator at Sheshnag lake sparks concern; crime against Hinduism, says PDP leader",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnpqbzJMQTZlZThlR1hBOUkxQ0ZYaHJfM0xlTHN0ZEtxaXBUbTZUeDVuZUo5OHl2d3FxTDBtdWMzelc2bHF1RUVYVk16NDdkNHhqR2FMckkxTERIa0VDS2R3aXJ4QjNoNGswYS1NODZ6ZXRWVklleWs2YzM1d0RUUTFaeVM3eW1tOS1zbXhTSXk3bVBvdWYxS3Z2MkM5RXfSAaYBQVVfeXFMUHoxeUl5MWNBaXFvQWR3eHpQQnVXTnVhTWUtcEpmQTJSZW5pQ2JvWDVWZ0ZFVFhnWWdHZmFhTUh2NTZ6NkdMNFNuNTBGb3l6UVRYY0R3cmxuWDJUbllucjgwWDVrMk1oMi1PNE1YdTFxSkkyRnVmYzhfZDlXX0pjVy1idFB5XzBqQVk2b2RkaUVPSG1aMGxweGhSSUpqQkR1Q2ZFd3ZvQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Indian Express",
+   "region": "IN",
+   "date": "2026-11-23T07:06:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "320ee7e1f1",
+   "title": "Shubman Gill's straight talk: Mohammed Siraj dropped on form, calls out saliva ban and lifeless pitch at",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNMUFTSEZZRTBPaGdhd1dyR0JJVzVGZXB3bFJ3WW9aR1hOSW5GdHVvOVlCMzh1SkxWS2FKMlRxXzZkVklHTVAxRnUxR3JmYXpYSXdSOGFTdmZHVElMbmNGeWVUNEl6Nk5RN2tVRkRhRUFKNG9SMEtHbHhCRUJYSmFhcHVMaHJkWVpXNXFIUUJEbzJZcEJiM3NMMmF2eUxMWGVBVDJ3bXBCV2Q2M1VZaHRxMGRVUi1kbWJfOVN2NGZNTnl5UlpsMnFTa2djbVN3SEEwdldLcE01MEUtZUxxTE5WaXpaME1weG51d0tldmdJR2FCOFBPMU5WWmJCT29VZjV1UEt0d1JtS3lTd1VlLU9YakhfUEtTcExmTGZ5dkxNY3JHMU9HTVBsdWE1Yzl0emZ5Zjk1ZmdoVmo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-23T06:51:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
   },
   {
    "id": "ba502021e7",
@@ -485,34 +567,14 @@
    "topic": "Society"
   },
   {
-   "id": "4c80e712cf",
-   "title": "India strengthens position as Asia's third-largest power, narrows gap with China: Asia Power Index...",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRUlpVmVOcEQyc0V0eHR2WkFZYkhtY2RZa085UGluam03QzFaSk5XQ01WQWFiYXBWM25kZkpKRkpJN3ROeFY0cGRScVJQODhMLTdCek9SMVNQZXBlZ3FwV0puQW5xOHQzdUNSdmtoSExyWXphWThjVDlzbkV4RXhXNTAyTW9NclhoUGk1dXBHTFlRb0dCdVR1eHpLSktENTdLanV2dVBQS1JBdDFiUEZWMTZRZGJCdkw0cEs0WGNNU0FaNXBINnVyaWVFa1p6SEhlMjJZbTFpM3o0Mmk5cE13WnlrVmdmeWo5amxfRGlzcV91dkR0QzlzUTNn0gH_AUFVX3lxTE9MdXBiMlo5Z1lSVDc2NS12XzZrMmRYTDEyT2R2SThwUmVlS0U4bnVFdGFxVmxyeUlHUC0xeEczYlNibkROMkV1S0lfeWt4b21lcmUtSFN0Yl9OTXhyRzhwQ1A0X3FSZlZ0NkZSZHB5ZzhmenVjZXVxSkppaUE1UEFhbjV2ZHpGbEVkNm5pMHJYQVcxd010OVd0c0xmTXNzd1hsODU4WmotT0UtR215RVpjSnhVQXV3Qlh4cElZUzFJVlRNcWVpWjN5MUk4TWRQaFJLalZMVzlTc3I3WkxNZ3lOM09BczNaSlNsbkNpV0VRTDhzaTFqSjFVRVZLbzFMQQ?oc=5",
+   "id": "31bf7c4ef2",
+   "title": "Bisleri says it’s water ‘safe for consumption’ after FSSAI sanctions prosecution, says it has received no notice",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVnJGLVRSX3FReWkzUjVCNHg2eHlMdmN3TjRvREN1ZkR5TEw1Qi0tUlFVNzVVQWpoWVBSSll2WUp5OVZoN0NSaVBkbENOeFhQYzIxSUZWaVlJZGc5NTJtZzRmaDJld0hiR0JTTkFEbm1jWW8yWXc2V3c4MWphSzhFMHZnWUIyNHcwY1o1OUMxaV84dGgwek1ZN2dZT2JLVzhGOExFYzhRSDZOZUFWZjg5Y3N4a3FsZU5kLWhIOWF5UnNpX0FXUnEyd2g3SzFQVnlhMzZ2QmRYSWtSRjRuYU0xZ1N1c1ZORU5QZS02VDNabVNHaXFJTGFOcXlFc3ZiZ9IBhAJBVV95cUxNSmZGMDBaaHY0VnZTNER0MmZ3YVFMWkZBU2RwMU5wMGlGYzJGbEQwQ0dpbGV4dWRGX2hTM1hTbktpS1NjWUpwbjlCcWtsb1NocFBSOHpOTHNVcE83UnRrb3ZLaVBzdWR0dVJ2anlCYUlRYjFjQU42NTRZaEhxSm9RajIyd1didWg0QmNSdUdPSEd0UTdsdVg4ZjRxMmNpY1ZoeTB3RWs4QkRIOWktSmxzSHk3TmZiRklsUjNaWXlxejhha1NCdXNYV0NWYzRXVGNzMUlFZFQ5NXhYMU5RWFJhOVd4dTVCOUJMY1F5Vzh1YTRVNi1PTDhDX2NVQlo2RmNhaUdzVA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Moneycontrol.com",
+   "source": "The Hindu",
    "region": "IN",
-   "date": "2026-11-23T04:59:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳 🇨🇳",
-    "also": [
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f7e8593163",
-   "title": "Marvel Officially Adds New ‘Avengers: Doomsday’ Footage to Disney+",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hWFdUMFo0dng2blVDNGUtNXo5TjU2VzREbDlXOWZEUm5YWHZDT00wNnBEUy1xeDBpcm5Id3FSRHk4MnZpY2prY0FfOVJkZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IMDb",
-   "region": "IN",
-   "date": "2026-11-23T02:38:46+00:00",
+   "date": "2026-11-23T05:41:31+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -539,14 +601,31 @@
    "topic": "Politics"
   },
   {
-   "id": "14d658c412",
-   "title": "Hyderabad Police Probe Hoax Threat Email Warning of 26/11-Like Attack",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOEtxOUtoZGFQU3NSVkZhZF9VMnJ3OElTOU8yVGttWkhLTDNMMU9oNmE2cUM5ajI4ajBXaHB4ZG5LSGhVaG82VUpaZWpuM3hJaVZxWHoxdGthNEJFTGxFRy1OVnB2RDNxVnlBaTFCLUlObXI1Y1VjOUxyNk85ek9iaFg0aUVnTHhtM0EyS3g2b3BmN1BTa3lnTEdNckMxcjJQbzFwM1llVEVpclpOTEQwddIBuAFBVV95cUxPc3k5ODJ4ZmhySDBwcnpkYWZpSmdNRVpHTjRsejJOcTNwZkkwTnZPMU1INUt6Yk1ZZUtBZmx2N3NqcjBSbWVLalk3VHo2VTFrdzBTQXBTSnZyTm05QkdpOWtPUTI1Ni1JY3UxLWJsNFhXU2NXSnRueVRJdGVnaVZUU1hzRzZNdXV0cTNxaC1SSXNXRVg3TVp6d1ZCTGRIZThfSTFzakhEOC1vUURuZVVlX2t5YlBYSlFn?oc=5",
+   "id": "f9e71405bd",
+   "title": "Joe Russo Talks ‘Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans”",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODBjMDB3cndUUDYxeEJqVHVpM25VMng3R2tWcER3SnhRLWxGTWtJci1reDlXV1F4ZlhMUnhMX1I2X2owYzgyNkNCVkVYSF9EQjUxWThCWFpxUHBkTWxiRDNkeG5ieTNQRDQyX0x1NVo2alFGSjdSYnEtZnVIU2diNXY3UHdPaTctc1JQTjN5cXhOcU1BRS16YmY0ZFg?oc=5",
    "summary": "",
    "image": "",
-   "source": "NDTV",
+   "source": "Deadline",
    "region": "IN",
-   "date": "2026-11-22T18:56:29+00:00",
+   "date": "2026-11-22T16:54:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ca826aef49",
+   "title": "Hyderabad Police issue alert over terror threat email; security checks conducted at key locations",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZW5faGFWTTdoTl9jOTdQWUFmejdRQmh3YWhCOGJjc0RrX3RuTHpJM2U3QjJxNFROMXZPSVJoNTdKQUNBSWFlRThoajNWX1RLZmVqSTFuZGNyNTZLZXZDSks3blp0amcta1BxNlNpbDFvZGI4b3c0MXhsNEthcVdVTXZUTmNqNDNmRmh0S2VOMlJqTUN3Zk52ajl5T21oYWNuZmpPN1F4NGV4VUxZb0M5XzRFZ09UanJnQm5Zb0ZmYzNkd0d1enJVZ1Z5TlFMWXFoX1VYSHo3WGxIeFdpcDFCRkY3cWg2dDUya0NSSXRVUzlnLUxodGfSAfwBQVVfeXFMT2RLOGtEMWg0TU5CVGVIb1VtS3IwZzhMaGxmb0RZc2hhbzNFQzBJLTV4aW50X0pmZUd5bVY3U3VDWHNtZnRObXNQQTRocEVULU5wZmtaY18zT0pWVzMwWWhzNmVOY0xwRXViYy1pMENtTjVwb1BRRG9sTFdpUkZDQWl6OE52YkNhNWVNcDF5Y3MtV0Z5ZWV4RmU3UWo4TTVrTllBa1ZST3drYzFzb3B1VUtvWk1pZVBoTUxVZ29WbHZueENGalNaSW5uNkRuWEVVTEtjSm5XS2piSzNEQ3U5NzBfYVBscXJSbkdDUTZrMVk4ZTFHZUllZ0lWeG16?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hindu",
+   "region": "IN",
+   "date": "2026-11-22T15:56:18+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -554,94 +633,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "2c8ee9c96d",
-   "title": "Black Friday streaming deals are hot this year with up to 80% off Apple TV, Paramount+, Audible and more",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNc1NCVXNfbWthT09uMDR6XzMxUkVfSFlKMzF0Z2xoVzhYYWVJaVJxWXVXdHlGVzZYbk1kUHk3cDlUWlRFb0JmVHB6QmNKYXZvVXgwUktpTy1QRnEwUjhaUlJuSG1Pb25xS2hiWnV2TWhibXBkY3NtOVk0YnRtU1FpYlI0ejVxcGc2UHZZNzh2NGw5VV9YbWJ6cVFnbDhjcFJOS2wtVHNRdzZRNm1MWnJVVlZ0aHdDX1VJaXdZR1VMR0h2SzNhQ2ZwazJzS3NlTjFkbE1mUmNFSXZ0NzNrR3hPVm1SSElPenZBNTRESzhUY2NYOFJjaEhZQ3ktSE85LTdqZkdKUWxMNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Tech",
-   "region": "IN",
-   "date": "2026-11-22T17:45:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "3410010252",
-   "title": "India finds sample of popular Bisleri water unsafe, to widen checks to all brands",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVhZanItQzQtSUpybTFaaC1hd3JSdEhmSmtRRm9lNmUydjNfcktzWGhJaWd6UUxoYTY5aEZCdDF0OUZ5MU5iXzUwQkxZS2xrYTlVa3RTdjFzZUlTNzQzNTdtdUQ2VEdiSmJJYjdjeHNOckRRMnFmeVJFWW1fbmJQM2FYV0xZTDdOeUN5WmVqWlp4bVBWSzYtblktOXFtRXBqQzUzNFZhclowSWU0d0JGRVlFYVNVZHA1MUF0ZkR2V29JaDlkRWI0ZEY1c1dxXy1nN002dDJR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "IN",
-   "date": "2026-11-22T16:11:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "989586ea40",
-   "title": "'Stabbed Me In The Back': Eisha Singh Appears To Hit Out At Avinash Mishra Amid Breakup, Cheating Rumours",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUjF4ZmZISFZfUmY1THlOUF9LY0Y0aDZHNW1RaDA1WXE0cGsxenVXOHZ4NElrMWdqYUh4R1BMVkJwUTlxdHB5U2xtUHdPY1hNaUJUdHZTS2ZDejh6T2d3MklIX01GN19CdGZRb3VXZWtPQW1VaUo1NW5CdEF6Z0JQSFRZMlkyUmtmS0xsLXQ0QnZWYUI3QmM1Z3UxWEdZTE5IclF4UzdQNndkMFVxenZHa0Y5OXRnRjVjMkk2YWpnZnczUElIZ3JtazFDLWZ4al9pdDFrUFlIWU1CcExTcDQ0aHJ4ZnoxNlp0V3pj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NDTV Profit",
-   "region": "IN",
-   "date": "2026-11-22T13:05:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "68cc66c8c4",
-   "title": "SpaceX Dragon returns from the ISS, ending the CRS-35 cargo mission",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWE2OUdUNEkxMUVHSFpWeDhFUUxzZTNuMG9EZlFSVThMVEtrWnk1ZDJQZkRFdDBiYXdCV01wZnd5OW5mNmUxX2wyOGlKZ3ZjVkRVWUtuUU5RLUJFNzJZVjJMWTZpbEp4WXdpdGhnOXpxelFTb1lxeXV5bDBuU0xFX1VOcWFXYVJGMi16a04tMV8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MLQ.ai",
-   "region": "IN",
-   "date": "2026-11-22T12:37:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1e91b51ae7",
-   "title": "Who skipped work for GTA VI? Dutch staff, young men, and US soldiers",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkpxMEg5VGpKSFhobTdvVWtqVzQxZ09TMklFOFBHUzhlRGFLdWdWNWtRclBnckk0R0NnbUlZZjlaYlc5SmUwN3UyZmxiUkVDQnU1dFdTTUdaY0lsTEh0OFVJdFlSUFdDSUNCX0RaWnNKTTFaSDE3WWROTUhBbjlSeFh1ODAyaEVnVktJVS1fNVBpNjJCZUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EU Perspectives",
-   "region": "IN",
-   "date": "2026-11-22T12:09:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Netherlands",
-    "place": "",
-    "flag": "🇳🇱 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Society"
   }
  ]
 }

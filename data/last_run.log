@@ -1,156 +1,58 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 72/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 78/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 76 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 19 stories
-OK   Daily Mirror: 72 stories
+OK   Daily Mirror: 73 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 21 stories
-OK   Daily News: 78 stories
+FAIL Daily News: HTTP Error 429: Too Many Requests
 OK   Sunday Times: 1 stories
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 0 stories
+FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 5 stories
+OK   Google Warnings LK: 4 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 34 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 90 stories
+OK   AP News: 89 stories
 
-Biggest stories right now: Nvidia reinstates Jensen Huang as CEO (9 outlets) | Search continues for dozens missing after Ind (8 outlets) | Democrats win largest House majority since 19 (7 outlets) | Russian warship hit by Ukrainian drones in Li (6 outlets) | COP31: What next after UN climate talks colla (6 outlets)
+Biggest stories right now: Jensen Huang reinstated as Nvidia CEO, board  (10 outlets) | Search continues for dozens missing after Ind (8 outlets) | Russian warship hit by Ukrainian drones in Li (6 outlets) | Democrats win largest House majority since 19 (6 outlets) | COP31: What next after UN climate talks colla (6 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Page Six [1 outlets]: Exclusive | Will Smith’s $42 million Calabasas compound engulfed by en
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* NBC News [2 outlets]: A resurgent ‘Hunger Games’ goes big at the box office, despite competi
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Politico [2 outlets]: Virginia, Oregon sue Musk’s AI company over sexual deepfakes
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily Mirror [9 outlets]: Nvidia reinstates Jensen Huang as CEO
-    important (also on AP News, Ada Derana, Al Jazeera, BBC, Hiru News, Newswire, Reuters, The Guardian) - researching
+* Ada Derana [1 outlets]: Fire breaks out in apartment complex at Ward Place
+    no AI summary: saving the rest of today for important news
+* The Guardian [1 outlets]: Video of ICE detaining father and daughter while boarding flight spark
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Karannagoda, Yoshitha Rajapaksa corruption case hearing set for Decemb
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Trade Minister warns chili importers against creating artificial marke
+    no AI summary: saving the rest of today for important news
+* The New York Times [2 outlets]: Two Major Cybersecurity Firms to Combine in $44 Billion Deal
+    no AI summary: saving the rest of today for important news
+* Reuters [4 outlets]: Trump says Nvidia board made right call on Huang reinstatement
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Police investigating bomb threats against schools in Germany and Denma
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (429)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    read 3 articles: Al Jazeera, Newswire, The Guardian
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Reuters [3 outlets]: India announces $1.62 billion package to bolster ties with flood-hit N
-    important (also on AP News, Newswire) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: Nine people shot at central California concert with one in critical co
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -167,19 +69,24 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 11 too small to look sharp, using the clean cover
+  photos: 10 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 50 story pages for Google)
 
-Countries: IN 36, PK 32, BD 37, US 37, GB 34, IE 35, CA 36, AU 35, NZ 30, SG 31, MY 34, PH 27, AE 37, IL 30, NG 30, KE 28, ZA 34, GH 28, FR 34, DE 34, JP 5, IT 33, ES 32, BR 33
-
-Posted today's Top 10 round-up
+Countries: IN 36, PK 36, BD 37, US 37, GB 35, IE 34, CA 35, AU 35, NZ 30, SG 33, MY 33, PH 26, AE 37, IL 31, NG 29, KE 32, ZA 32, GH 29, FR 33, DE 34, JP 6, IT 33, ES 31, BR 33
 
 World Pulse not made this run: no AI available for writers
