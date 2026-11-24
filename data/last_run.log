@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 77 stories
+OK   Ada Derana: 76 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 22 stories
-OK   Daily Mirror: 70 stories
+OK   Daily Mirror: 71 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
 OK   Daily News: 61 stories
-OK   Sunday Times: 2 stories
+OK   Sunday Times: 1 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -21,92 +21,17 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 98 stories
+OK   AP News: 97 stories
 
 Biggest stories right now: Jensen Huang reinstated as Nvidia CEO after T (10 outlets) | What strike on Russian ship in Libya says abo (9 outlets) | Why did COP31 climate talks collapse without  (7 outlets) | Russian warship hit by Ukrainian drones in Li (7 outlets) | Indonesia factory fire kills 24 as rescuers s (7 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: Dhamma is priceless despite its transgressions by some who represent i
-    normal news - one-paragraph summary
+* The Island [1 outlets]: Beyond stabilisation: A critical evaluation of ‘National Balance Sheet
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [1 outlets]: Failure of Cop31 prompts calls for urgent reform of UN climate summits
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Semafor [1 outlets]: Exclusive / Commerce adds Megaspeed to trade blacklist
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* AP News [3 outlets]: Ukraine’s attack on Russian vessel in Libya opens new theater in broad
-    important (also on BBC, BBC World) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* BBC World [2 outlets]: US to blacklist Asian AI firm Megaspeed after Nvidia scandal
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -115,24 +40,46 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    attempt 1 rejected: the name/word 'Sin'' is not in the article
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* The Island [1 outlets]: HRCSL orders probe into damage allegedly caused to Sigiriya Rock in 20
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    attempt 1 rejected: the name/word 'NBRO' is not in the article
+    cards OK (attempt 2, written by openrouter)
+* The Island [1 outlets]: Sajith calls for ‘positive alignments’ with all countries
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: The details card calls Premadasa 'Sri Lanka's Opposition Leader and SJB chief', but the article only says 'SJB and Opposition Leader Sajith Premadasa' and never states that he is the SJB chief/leader.
+    -> no cards; posting with the site's own summary
+* The Island [1 outlets]: PSTB throws Parliament into turmoil
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: Trump orders US Army to pause lead azide detonation in Iowa
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Drone attack on Colombia police base injures civilians, including infa
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: the name/word 'GDP' is not in the article
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 11 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: looked up 24, found 4
+  photos: 8 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 9 facts and 0 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 50 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 51 story pages for Google)
 
-Countries: IN 36, PK 31, BD 37, US 37, GB 37, IE 36, CA 36, AU 37, NZ 32, SG 29, MY 36, PH 28, AE 37, IL 31, NG 31, KE 29, ZA 29, GH 27, FR 33, DE 34, JP 6, IT 34, ES 32, BR 33
+Countries: IN 37, PK 35, BD 37, US 37, GB 36, IE 35, CA 36, AU 38, NZ 32, SG 32, MY 35, PH 27, AE 37, IL 31, NG 29, KE 31, ZA 29, GH 29, FR 33, DE 34, JP 4, IT 34, ES 32, BR 32
