@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-24T19:57:52.129703+00:00",
+ "updated": "2026-11-24T20:52:58.626421+00:00",
  "code": "AE",
  "name": "UAE",
  "stories": [
+  {
+   "id": "2f82fe21e0",
+   "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXlxSS1BVUtJb1k0ZXdNbzVmT05FbjlkNjd0dFExSGdBVkFwYXBvTVJoeGZ3dXdaOUhhOV9aYVMyblZlXzd1STVtdUhXQUZQTEVUU1NwdzlkRzV1ekVDVDFkOHBoUkNIVDFFUXJzVWRLbFpmOS0yckQ2UWM5TmRRSm5LejdvRzA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WSJ",
+   "region": "AE",
+   "date": "2026-11-24T20:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "d5a6735c6f",
+   "title": "Live storm updates: King tide flooding submerges Bay Area roads",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC7 Bay Area",
+   "region": "AE",
+   "date": "2026-11-24T20:27:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Weather"
+  },
   {
    "id": "c454e3a2de",
    "title": "MLB free agency news, live updates: Freddy Peralta, Orioles reportedly agree on 5-year, $125M contract; Teruaki Satō agrees to 6-year deal with Cubs",
@@ -38,14 +72,99 @@
    "topic": "Health"
   },
   {
-   "id": "d5a6735c6f",
-   "title": "Live storm updates: King tide flooding begins in Bay Area, causing road closures",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+   "id": "a270e4dfdd",
+   "title": "Melissa McCarthy, Clive Owen channel parental grief in The Murder of JonBenét Ramsey trailer",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmM2UnM1NFhkQjllY2R6RzBtdlBxaEFMelhXZVNkcGZGLTk5a2N2WWFJTm5INUVMdno0dzZwbTdwWXVqNzg4cVJCYUNBMF9IME1KclJURl9NMGFmN2Z5YWx1TGNPQlBCb0FjYUdTTHZmQlJQZUk0MmlrQnctVHVxT1JLNA?oc=5",
    "summary": "",
    "image": "",
-   "source": "ABC7 Bay Area",
+   "source": "A.V. Club",
    "region": "AE",
-   "date": "2026-11-24T19:11:42+00:00",
+   "date": "2026-11-24T18:58:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "bad5cfb793",
+   "title": "Democrat Victoria Broderick wins Tennessee House seat, ousting Rep. Scott DesJarlais",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUpJWmM3RzBqY3RMeHdqUVU3ZjMzZ0xMNFREcEJwX2dZZFZVYXNfdThGWTZvRlM0Ym13ajRyTUJuQVYwTGlReVJtN0QzN3dMdENObkQzTGNpWkN2STY2OHI4a0tJLTY3a2VjenFCRVVwZTNiMWFVT3drYmJlUEtTc2JQWTg1UGdjSFJxOVo2emMyT2lZRlZKRXVfQnQ1ZW5jY0NZS3dB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "AE",
+   "date": "2026-11-24T18:48:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "54829ae8e6",
+   "title": "Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNV9IMGNKck1YZzRSOHNiSVJRQ05tMkJmWmYycGxzcWZJSWtza0UyR3lDN0hVNjdGYVRpcDFfMlhmSnplWENQSjRwV1Z4RGQzWWFHZXd4dVE5b0x4XzV5bjNjVDJzWXUybURjejU3ZzdlRmltU25BZlNKRmZHTGRvaTY2eVdNUlU1d1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "AE",
+   "date": "2026-11-24T18:34:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "8c85ea8a7f",
+   "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDU3T0dmTUp0Q3RBZFVEZGFIVzhpM1lLb1BISmlpN2R4OG00Z0c5dlhjMC1fc3F6VHRxZDFSaGdtbDNyT0hNTkIzZTB0Z0hfYXV2NkhhZFhXb2ZmQWFaWjhsTGY1ZGRwMmpKWHVFWUVpdEdYaWg0NnpxUDRUcXVkMFZ3WVhwc2VaNTFOMTNTRXlhQlp1bnZQUWxZTzBGc0RpdFdaQVUyVmtUWTJWdTB5YUlTVEpvcEpfSFFBTWZ4M3I?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ars Technica",
+   "region": "AE",
+   "date": "2026-11-24T18:03:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "141be2853e",
+   "title": "‘Lord of the Rings: The Rings of Power’ Renewed for Season 4 at Amazon Prime Video",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkdpTExfSjZaVmhvTllXYWRtTnlUYzJyQVhDYkNKemo5ekZPbjBGU3JrQkt2RXY3RWVFUmh1akZyTGE5X0J1Rk13cFp0akVqR2FBeUltY0JvMVVfdER1al9sTW04RkV1ZV9oOGtRN0xHUmhUOGNPUEtxeG1nUDR3UzhaSFhmUzhsUnFJSENIcU14RS1qeS1BSEpB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Variety",
+   "region": "AE",
+   "date": "2026-11-24T18:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0c6aca72f0",
+   "title": "Macy's 100th Thanksgiving Day parade: Fiona the hippo to be honored, big Broadway performance changes, plus a weather threat",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNenE2bURIaGRmcVhPNkl3SlRxRTVRUlBBb3NVLW83eE9TTEN2V05GVGdRLU1fWFhzWFZWSXVVc0RkNGVsSTNMcllNQk0wek03anhOZGVJRkROQUVvWE9qbWxpSkV3dl9penp3ejNETW5GYkhDbTVlVTNwMFBhYlRKV1NzUzc3WUxqRWlXVzcwOXZtWFQ3aDZuanB1amstQTZ0ZXlBaHRzUHBKaV9ZYlRQY1JNMlh5YVYydDdHbXZCTU1GWkpkb19jZ0RRTERlSFh3eWhxZjh4UmswLTdPeVJYWEhHT1JLSU1Yb1lNVzhrdDdGdW1qa2lad0Q4Y0VWYVpSMFBv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "AE",
+   "date": "2026-11-24T17:38:56+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -55,14 +174,14 @@
    "topic": "Weather"
   },
   {
-   "id": "52d34001db",
-   "title": "Broderick Wins Tennessee House Race, Giving Democrats Largest Majority in 30 Years",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdk5hNXRwQktrZW91VW5WOFpSMHFjWlJTTVpUUVotaVlYTTVzbFp1dy1reUkzODl1d0c2NVZBa1NVSl9hMmdWZnVucGJHMUJfZVNQRDhxOE5NeENUaDM3YUtYYjVXOVRrcnlWSHEteTl5ZzRULXl6X2NENkUwZ1NXalk2MGZUQS1aZHRQRlZKa1VjWTNqQTgtNnRWdjM1SVJY?oc=5",
+   "id": "f1ac94b3a9",
+   "title": "MAGA Attacked Harvard. So Harvard Taught a Class About It.",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bVE5ZEZ3VUluaFEyWnFPd2ZMSVJjZG5rTzhnSXdQQlo1NEdGSnpSWjVUX0dod3JYRHhfcHdtcFBKeGcwRlhoU1ZmaFdwdXJMcE0yb3E1bTBlWHlqSjR2YlpEVm1qYUw0eWEtV0JR?oc=5",
    "summary": "",
    "image": "",
    "source": "The New York Times",
    "region": "AE",
-   "date": "2026-11-24T18:34:05+00:00",
+   "date": "2026-11-24T17:28:24+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -72,72 +191,41 @@
    "topic": "Society"
   },
   {
-   "id": "63ac36f8ca",
-   "title": "Trump’s push to restore Nvidia CEO could haunt the company in Congress",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzVxZVNRdHFIUXNNLU56dXFBU2JwMTJ4WTNwYkwxcFY0VEpsX1h5TG9rOUtsaE1OcmlFNl95RlNjaW5NQmI4cjd0bHdpOGJNZVZ1dVVNWXFQNlFoOXplM3hweEtRWGpLOGdPUmJ1b1F4TFZFc3hSM2h1bnZ3Z0xqNmxLQUFJV0NrMEczRzUxU3oyMDhQUlVyLXVjZ3prbnhJNFpld05rSFZiaEpnTVdMRTU3UHdGamN6X3ZROEFUbzc2dU0?oc=5",
+   "id": "3ae3bfe105",
+   "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qbHhRaVRPVzFQWmtWbS1Dc1RHSE9hSmJxVnhaR0tKREtLYXdicDBmTjZqU0lpUElRTnNjSFZGUmZhY1hVdFF2QzMxVFdJV0d6Y2xyZFdnbl8wUWs?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "BBC",
    "region": "AE",
-   "date": "2026-11-24T18:00:00+00:00",
+   "date": "2026-11-24T16:48:59+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Ukraine",
     "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "3e9ed91611",
-   "title": "Trump awards Rudy Giuliani, former NY mayor, Medal of Freedom",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVJTcEdGRzdiZ0xxX3Zla1VTWVViamhIcDZBTnBFeTB2dzJ4eU5EQjc1TmpSWE1LZWJJSzNYTW51NEl0bE5HaXNFXzhiVUhNTHl2NUJaZjhPWFQzMnZNY0FqUV85RTVCY21iRUxfcklfbXJuX2pHdnltWThpbmlsN2xxUXJmSTVENkw2NURnYUhRS0pPU3JVSkFxbDhWNXJ5MkxFVA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "USA Today",
-   "region": "AE",
-   "date": "2026-11-24T17:57:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b9549a79a6",
-   "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Finance",
-   "region": "AE",
-   "date": "2026-11-24T17:11:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "9c84f8a2b1",
-   "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "AE",
-   "date": "2026-11-24T16:59:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
    },
    "topic": "Business"
+  },
+  {
+   "id": "a86c0df9c0",
+   "title": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWtQTzNmYmxDYmwxNWFyYjJ0ZzZteFpkR1pRVGZzbW5xcjRKTE9zU2VlcjNvZ1l4MmowNHFvSDhpWEtLek9Hb3BjcFhOT3ZYNUNFRjdCRmdOYWY0b0Y3QU5RSGZKenU4bktvck5nSTlULVBoczA3cDZnZVljRTBRTVNvVnBadTBmRHBpWGlZYmxac3dGaHBVMzhsbC1VVFJLYUNuS2lHS0RadHNRX3dHZtIBtgFBVV95cUxNdG1BRm1TVTlnT2lQYVJJVm5zQVNGdzVxR1lEcWRvdF9jRWp2eXo3ekNTZzV1c3lTdk5oX3VNUFhmamFXUWprUzQ4aTJmVkU2cE1IcVRieERCTExtckhrRmEyM25BLThGZnIwai1hRkZQMDZsOXQtSWVyQTZ6Sk1VOC1VTnAxX3F6S1dkaktOS2dYZFF0WlhjRUpsdC1vRUlQYW1SaG12VkRTa3VfVW5kc0kzR3lqQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Fox News",
+   "region": "AE",
+   "date": "2026-11-24T16:29:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
   },
   {
    "id": "6be3b8f60d",
@@ -206,23 +294,6 @@
     "flag": "🇦🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "3bee416a4b",
-   "title": "Thanksgiving Box Office: ‘Focker In-Law’ and Disney’s ‘Hexed’ Vie for No. 2 Behind ‘Sunrise on the Reaping’",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0xTN0RfS2hTRHE5cHBFcnl6ZXBUUV96WXhKZ3F1NVM3Z3NFRHhsbkE0WnZVVklGQ0VfWVpuRWxla2NWWWw5TWxQa3AxVTk5WnlvanBoN2tmUDZIcUVabUNlTEdTbXJNZm9EZy1sSDV0OXZsaVJqVU51bFg4T1M4eFNvQnBoenJsWFJOSkdyX2RoM09Rc3lVVHZSbVRXRWoySjNzcHh6ZHFLbk4wTWczemViN0hYeUZvWUJudFkxdDJwNFlpR2p0NGsxQWZVWkVYb2NuLQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Variety",
-   "region": "AE",
-   "date": "2026-11-24T14:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "d71524988f",
@@ -317,23 +388,6 @@
    "topic": "Society"
   },
   {
-   "id": "3f450bf73b",
-   "title": "Democrats probing ‘serendipitous timing’ of investments by firm linked to Donald Trump Jr.",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkQtZmFETnhOc2pMbWltT2c2Q21sNXdaVEtTNUpDeFUxcXprbXlSaXFFTkViXzZNTEYtVmZVTk1RR2lqN2lUd1V1T3NPUnBqV0tjczBXeVhWNGZoaVUwV2V5bHdzTG9SQ3lPM085RkIzWGVZb3d6QXdrZE9mN2w2b2g1bUZlSExWZmt4TjFHUm1JQlhrb1hyMkVUYU42Ui14WnlWSWo3Y2p1cWJKcTd6TTQ4WjM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBC News",
-   "region": "AE",
-   "date": "2026-11-24T13:30:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Business"
-  },
-  {
    "id": "7474334e00",
    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMG44bXNIbVRoRkdsc1FsaEg0ajBQekRydkVTeDZTbWN0TnBCSWZ1MFQxTzMxc2p0VWFTQzBQRWhHdUVrQUItOC1FNGlVQlZkeVRQWjFRRTZUTkFUeHIyWkRIOXIzbktKZk5HdGxNWGFTSldPN1p3QUtFSEM2dUJHYmRXN0g4UVAzSW9rTkZGOTd3cmZJYU1VdEJJNFE?oc=5",
@@ -388,26 +442,6 @@
    "topic": "Society"
   },
   {
-   "id": "c0908631a2",
-   "title": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVBjNlZFWUJMUVpTQVp6cWFja3JQckhuYzZFaGpxODl5U2hzRG9SSV9vQ2VJdHVuak4zSHZWYXpIeHhOMXZRb0JpWmQ0c3FhNDJKTnNkOFBKNlFWRzB3dXpBbmI0UnlVcXlRVVg0aW9GNHBSSWdXNC02RjdDaV9VNEkxLUg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "AE",
-   "date": "2026-11-24T12:45:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇺🇦",
-    "also": [
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c1775e8723",
    "title": "Voyager 1 hits new data glitch while making history",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRU53cmNXQWpvMzUzaW9HR3FucXNGQldEb2E2TGVFRjd2aGx2TTd5a0k5S3BneGZUcXJXNHFNTHgxOVdCUVpIeUJzU0NWa1R6ZkJNSzhlLTZfODgyNkNOMjF1ODk5alppdEVpeENpMFptWENUQURrbHZaU1plUGhtVnVFTFBLb081cEhQNmoxTW5GTnc?oc=5",
@@ -423,6 +457,40 @@
     "flag": "🇦🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "004e7d29c0",
+   "title": "Former top pick Kirby Dach gets 'new beginning' in Red Wings' lineup",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzRIcE9uM0Jnak9fanA0U1cyb3c5alhJalJmNm9BbExqanFiejlheG43Vk1FTzA3eWFuUjdROXh4dm1XRUozbTJMdVFmT1FIeVJlcG5kM3NUelpmQ0VxdlBkM2Q1TTd0ZVI3YlppTWhmWFBXTTh4VWQ0V0pWeWdYNlJDclVkMWFva0c3TEYxRGFDVnhLcjZRR1Rsa2oyUDQ4SVhRb0RnR1F6M2h3RzlRWXlpT1FnOXVteXF1OTd2VWlGTnc2Qnd2RDlpY0s?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Detroit Free Press",
+   "region": "AE",
+   "date": "2026-11-24T12:06:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "269c04288d",
+   "title": "What we know about Megaspeed, the Nvidia customer blacklisted by US",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "AE",
+   "date": "2026-11-24T12:01:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "cb82bca66e",
@@ -483,7 +551,7 @@
    "image": "",
    "source": "The New York Times",
    "region": "AE",
-   "date": "2026-11-24T10:35:30+00:00",
+   "date": "2026-11-24T10:35:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -494,40 +562,6 @@
     ]
    },
    "topic": "Politics"
-  },
-  {
-   "id": "5382dd8a8c",
-   "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zelRkcXN1RXlRQWpxa3AweUdLaHc5Y191WEZDdkljbmwtYlhEVVEyNzhLS0I3azBxR0ExWUFqcUp1ZXZPU3FRRzd3OU5NbV9HeEpYd3Qzb01OS2V3VVVtR0dFQm9YOVg1MHc1UWdqQmxvTnRPUTNXRHV0UjBDQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "AE",
-   "date": "2026-11-24T10:03:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "5a16ae96af",
-   "title": "Dylan Larkin whiffs on tying goal in first game after Red Wings trade",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNajNadlUyM193SkdydnZzNDR6NjYwR2I2LV9GVGVfQ19tUzdBZ2c5UEdiWVhkc2ZPeTM5NEEyRGdibGFDN185RXZ6QnFDX0ZqT2lTaWtBYWprdm1FamxzQTZxQ1VUa1RaWGZYTk5TTTZGbTNxQ0pwWlBpMW9CMmpzcHZ5WlJqSG9GMExEc1hxMWNYNUw1WlU0YlpBaGdtbl9ycEFBVU9Sbjc5akRSZC1oSlB3c1R2YkFNazBnQkhoejQ1ZXdvU3NONHhRbHJnVmhmMTh0OA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Detroit Free Press",
-   "region": "AE",
-   "date": "2026-11-24T09:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "905570fd0a",
@@ -564,23 +598,6 @@
    "topic": "Society"
   },
   {
-   "id": "0392ddf77e",
-   "title": "‘Blade Runner 2099’ Rotten Tomatoes Critics’ Score Is Below Both ‘Blade Runner’ Movies",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbnRrVUNyaDAwdlFXMi16ZEtydGw3czJobHRnaHg2VWhlQnNWRVJsejJFVXh0NHBOUENwZTRMUXA1S0ZpMHRaMFJFdFhMSkl4WG4zN0RhRUl4ejNCWWRYNHB3TVFOdGJwaU43cmtUalRRZW9VdEMxZGVUUUctX1dCZVNPdkdNZkxFWkpEZENHcEVocFlUUUNJSmZIYXozc3JjQ1FZNHltZDJCaTZRcjFpel9LOGIyeWZmT1FNS1AyT0I5OVo4MXFNS3lhTy1Bdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Forbes",
-   "region": "AE",
-   "date": "2026-11-23T20:23:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "31b7c72015",
    "title": "Can you get measles if you are vaccinated? Explaining the MMR vaccine",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUZRNEhOeUFEQV9idFh5bTRMcnluc1VfNUM0YVRHTTVtX1FRUzNZczNWUUpUQmlQaWp0QllsUXhOMVctdnh5Vm9UdE1mVGtzSmMtSUZsel9Na1Q2SlJIMzRjMGpkdUJsNmNKUDhMaFlFYTZjRDMwdFpGTk9aZm0xTldYTGVCZDdxRk5HSzliREt5RkZTVXJrek5fWFJSR1E?oc=5",
@@ -596,23 +613,6 @@
     "flag": "🇦🇪"
    },
    "topic": "Health"
-  },
-  {
-   "id": "f1b8e1ef8f",
-   "title": "GrapheneOS shows off how it plans RCS support without Google Messages",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fRUFteUZiem5ubWE5LUNnTkFXWFNfdDl2SlR0LTh2VTJsVVp5U3N5amhMRE83R2NabFhsdWt5enBUcFJxX2N2TkJLZHpoMTlOR05UN001dm9YaWlhaFM1NkJ0RjN3bnNwbHV5VzVwcXhjZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "9to5Google",
-   "region": "AE",
-   "date": "2026-11-23T17:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
   },
   {
    "id": "a385aef186",
@@ -632,21 +632,21 @@
    "topic": "Society"
   },
   {
-   "id": "60d1e5bde8",
-   "title": "Disney movie 'Hexed' explores female power through witches and family bonds",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa3Jzc1pYRTFxTm53NWJSR25NTmhQM1pXQmE2QnZYaHVWZTZ1NWU5QWR3TWxOT0J1bXY3NE1TNUFfVTE2djJEbnJhMFUwWEoybktrMUc3dll1SHE0WFBra3A5TnltS3RDbm4wYU9hUnZvcnZKbjNCMm9wS3RSaUQxekJCWDFGMGRvd1dxLURpTzh2ZEhKQVBKT082RlF1QWNCbUZzOU5kNE9wckVkWkpnaUw0d1VKS0NudXR0LVNyMTE4T3hqSTY4?oc=5",
+   "id": "fa35941863",
+   "title": "10 Best Early Black Friday Gaming Deals You Can Already Shop",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52SG5PV1JnSmVPbHAtS2Nhc2l2X3ZsVF9feUVudFVDeXdadjd0cFlKdFUwbnNhUjNENHcyU3VfQXowVFlWbWZ4LUZZaS15Si1RUjlsd3VWcFYxdGRzUFVYRWoyUGdKVG1OVENaLTNyV3dxdXR3TTZ2NHJn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "IGN",
    "region": "AE",
-   "date": "2026-11-23T11:05:00+00:00",
+   "date": "2026-11-23T11:47:27+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
   },
   {
    "id": "224be91e2a",

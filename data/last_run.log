@@ -1,56 +1,61 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 7/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 13/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 56 stories
+OK   Ada Derana: 55 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 12 stories
-OK   Daily Mirror: 96 stories
+OK   EconomyNext: 13 stories
+OK   Daily Mirror: 94 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 16 stories
-OK   Daily News: 60 stories
+OK   Daily News: 63 stories
 OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 9 stories
+OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 30 stories
+OK   BBC World: 31 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 95 stories
+OK   AP News: 94 stories
 
-Biggest stories right now: Bangladesh’s Sheikh Hasina plans to return ho (8 outlets) | Nvidia stock falls after epic rally on Jensen (6 outlets) | Diary of Pope Francis reveals sightings of th (6 outlets) | What strike on Russian ship in Libya says abo (6 outlets) | Two arrested after break-in at country home o (5 outlets)
+Biggest stories right now: Bangladesh’s Sheikh Hasina plans to return ho (8 outlets) | Jensen Huang Apologizes to Nvidia Employees a (7 outlets) | Diary of Pope Francis reveals sightings of th (6 outlets) | OPEC Fund to provide Sri Lanka with $30 milli (6 outlets) | 6.5-magnitude earthquake strikes Indian Ocean (5 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: Police get tough on negligence as preventable accidents rise
+* A.V. Club [1 outlets]: Melissa McCarthy, Clive Owen channel parental grief in The Murder of J
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [2 outlets]: HighVoltagePR leads influencer rollout for Daraz 11.11 Big Boss Sale
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [1 outlets]: End politicisation, favoritism in cricket selections
+* Daily News [1 outlets]: 2027 Budget lays groundwork for business growth, investment and jobs –
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [1 outlets]: Joes snatch title hat-trick in Schools’ Basketball
+* Daily News [1 outlets]: An absence of intelligence
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: China Southern Airlines unit to buy 50 Boeing 737-8 planes
+* WSJ [1 outlets]: Stock Market Today: Tech Stocks Slide Back After Epic Rally
+    normal news - one-paragraph summary
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: From horsepower to firepower, Japan draws auto suppliers into major ar
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Turkish military helicopter crash kills five in western Turkiye
     important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
@@ -65,13 +70,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plan
-    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -85,18 +88,13 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
 
@@ -110,4 +108,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 54 story pages for Google)
 
-Countries: IN 38, PK 35, BD 38, US 38, GB 37, IE 35, CA 37, AU 36, NZ 34, SG 30, MY 36, PH 31, AE 38, IL 32, NG 32, KE 31, ZA 34, GH 25, FR 33, DE 34, JP 7, IT 34, ES 33, BR 33
+Countries: IN 38, PK 36, BD 38, US 38, GB 36, IE 36, CA 38, AU 35, NZ 34, SG 31, MY 34, PH 31, AE 38, IL 33, NG 32, KE 27, ZA 34, GH 25, FR 33, DE 33, JP 9, IT 34, ES 34, BR 33
