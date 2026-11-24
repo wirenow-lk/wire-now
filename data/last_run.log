@@ -1,37 +1,101 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 27/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 76 stories
+OK   Ada Derana: 84 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 22 stories
-OK   Daily Mirror: 71 stories
+OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 19 stories
+OK   Newsfirst: 18 stories
 OK   Daily News: 61 stories
 OK   Sunday Times: 1 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 3 stories
+OK   Google Warnings LK: 4 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 34 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 97 stories
+OK   AP News: 89 stories
 
-Biggest stories right now: Jensen Huang reinstated as Nvidia CEO after T (10 outlets) | What strike on Russian ship in Libya says abo (9 outlets) | Why did COP31 climate talks collapse without  (7 outlets) | Russian warship hit by Ukrainian drones in Li (7 outlets) | Indonesia factory fire kills 24 as rescuers s (7 outlets)
+Biggest stories right now: Jensen Huang reinstated as Nvidia CEO after T (10 outlets) | What strike on Russian ship in Libya says abo (9 outlets) | Russian warship hit by Ukrainian drones in Li (7 outlets) | Indonesia factory fire kills 24 as rescuers s (7 outlets) | Lankan wins gold in 140kg category at Powerli (6 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [1 outlets]: Beyond stabilisation: A critical evaluation of ‘National Balance Sheet
+* Daily FT [1 outlets]: From monsoon to management: Colombo’s heavy weather and building a flo
     important (serious news) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* ESPN [2 outlets]: Trevor Lawrence, Liam Coen share the blame for the Jaguars' loss to th
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* NBC Sports Bay Area & California [2 outlets]: 49ers QB Brock Purdy reveals Kyle Shanahan's advice for facing Vikings
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Sri Lanka confident of securing RCEP membership, Foreign Minister tell
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [3 outlets]: Turkish police hunting for lioness stalking Istanbul
+    important (also on AP News, The Island) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, The Island
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: The claim that 'Search teams and veterinarians will continue scanning the Belgrade Forest area using drones and thermal cameras to capture the lioness alive' is not clearly stated in the article; it o
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 rejected: what_happened combines drones and thermal cameras incorrectly; article says drones for personnel and thermal cameras for specialist teams.; blurb says '70 personnel' instead of 'more than 70 personnel
+    -> no cards; posting with the site's own summary
+* AP News [2 outlets]: Federal appeals court gives President Donald Trump a path to erasing h
+    important (also on The Hill) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -40,46 +104,18 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: the name/word 'Sin'' is not in the article
-    attempt 2 failed: AI did not reply with JSON: ''
-    -> no cards; posting with the site's own summary
-* The Island [1 outlets]: HRCSL orders probe into damage allegedly caused to Sigiriya Rock in 20
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    attempt 1 rejected: the name/word 'NBRO' is not in the article
-    cards OK (attempt 2, written by openrouter)
-* The Island [1 outlets]: Sajith calls for ‘positive alignments’ with all countries
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 rejected: The details card calls Premadasa 'Sri Lanka's Opposition Leader and SJB chief', but the article only says 'SJB and Opposition Leader Sajith Premadasa' and never states that he is the SJB chief/leader.
-    -> no cards; posting with the site's own summary
-* The Island [1 outlets]: PSTB throws Parliament into turmoil
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Trump orders US Army to pause lead azide detonation in Iowa
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Drone attack on Colombia police base injures civilians, including infa
-    no AI summary: saving the rest of today for important news
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 rejected: the name/word 'GDP' is not in the article
+    attempt 1 rejected: the name/word 'CFO' is not in the article; the name/word 'U-turned' is not in the article
+    attempt 2 rejected: details[3] states chips 'were smuggled to China' as fact, but the article says they 'might have been smuggled'; what_happened states lawmakers fear chips 'were smuggled to China,' but the article says
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 4
-  photos: 8 too small to look sharp, using the clean cover
+  photos: looked up 24, found 2
+  photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
-  Fact Base: 9 facts and 0 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
   meaning check: 15 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 51 story pages for Google)
 
-Countries: IN 37, PK 35, BD 37, US 37, GB 36, IE 35, CA 36, AU 38, NZ 32, SG 32, MY 35, PH 27, AE 37, IL 31, NG 29, KE 31, ZA 29, GH 29, FR 33, DE 34, JP 4, IT 34, ES 32, BR 32
+Countries: IN 36, PK 34, BD 36, US 36, GB 38, IE 0 (FAIL), CA 37, AU 37, NZ 34, SG 31, MY 35, PH 29, AE 36, IL 32, NG 31, KE 30, ZA 28, GH 29, FR 33, DE 34, JP 7, IT 34, ES 31, BR 32
