@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 31/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 34/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 68 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
-OK   Daily Mirror: 98 stories
+OK   EconomyNext: 23 stories
+OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 18 stories
-OK   Daily News: 57 stories
+OK   Newsfirst: 17 stories
+OK   Daily News: 56 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -16,20 +16,20 @@ FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 4 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 21 stories
+OK   BBC World: 22 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 95 stories
+OK   AP News: 94 stories
 
-Biggest stories right now: At AI speed, Nvidia's Jensen Huang finds exon (9 outlets) | What strike on Russian ship in Libya says abo (9 outlets) | Trump administration blacklists Megaspeed, ke (6 outlets) | Lankan wins gold in 140kg category at Powerli (6 outlets) | Colombo-Kandy Road at Kadugannawa reopened (5 outlets)
+Biggest stories right now: Asian stocks rally after Wall Street rebound  (8 outlets) | Nvidia board reinstates Jensen Huang as CEO j (8 outlets) | What strike on Russian ship in Libya says abo (7 outlets) | Chinese official sentenced to death for leaki (6 outlets) | US to blacklist Asian AI firm Megaspeed after (6 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: 16-year-old dies after car crashes into bus stop in Kohuwala
+* Newswire [1 outlets]: Fire breaks out at Will Smith and Jada Pinkett Smith’s Los Angeles est
     important (serious news) - researching
     news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
@@ -44,58 +44,50 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Newswire [1 outlets]: Young man dies after coming into contact with illegal electricity wire
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
+    attempt 1 rejected: The cards state that police/deputies helped extinguish the fire, but the article only says the Los Angeles County Fire Department extinguished it.; The cards describe the burning structure as a "20-by
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 rejected: the name/word 'Lanka' is not in the article; the name/word 'Sri' is not in the article
-    gemini failed (AI error 400: {
+    gemini failed (AI error 503: {
   "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 2 rejected: Blurb states 'property owner arrested' but article does not identify the arrested man as the property owner; Spoken uses 'illegal electricity wire' while article says 'unauthorised electricity wire'; 
+    "code": 503,
+    "message": "This model is curr)
+    attempt 2 rejected: the name/word 'Smiths'' is not in the article
     -> no cards; posting with the site's own summary
-* CBS News [2 outlets]: Husband of woman detained in viral ICE arrest at Seattle airport calls
-    important (also on BBC World) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    article too short for cards
-* Daily Mirror [2 outlets]: President Anura Kumara Dissanayake turns 58 today
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [1 outlets]: First National Battery Testing Centre opened with Rs. 161.5 million in
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    cards OK (attempt 1, written by openrouter)
-* BBC World [3 outlets]: Gisèle Pelicot 'humiliated' after nude photos sent to media to promote
+* Newswire [1 outlets]: Two arrested with suspected Gaja Muthu at BMICH car park
     no AI summary: saving the rest of today for important news
-* Reuters [4 outlets]: Asian stocks rally as Huang's Nvidia return revives AI trade
+* Newswire [1 outlets]: Man arrested with 100 bottles of illicit liquor in Kandana
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Parliament passes Prevention of Foreign Terrorist Fighters Bill withou
+    no AI summary: saving the rest of today for important news
+* Daily Mirror [2 outlets]: Pahala Kadugannawa road reopened after maintenance work
+    no AI summary: saving the rest of today for important news
+* Hiru News [1 outlets]: Kolonnawa residents living on fuel pipelines to receive alternative ho
+    no AI summary: saving the rest of today for important news
+* BBC World [3 outlets]: Nato chief vows defence against space threat after Russian nuclear sat
+    no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: South Korea tells island residents to take shelter after Russian milit
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 2
+  photos: looked up 24, found 0
   photos: 8 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 17 facts and 0 people saved
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+  headline translation failed (no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code")
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 2 stories judged by openrouter:openrouter/free
+  meaning check: 5 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 53 story pages for Google)
 
-Countries: IN 34, PK 33, BD 37, US 37, GB 38, IE 36, CA 36, AU 38, NZ 34, SG 31, MY 35, PH 28, AE 37, IL 31, NG 30, KE 29, ZA 28, GH 29, FR 33, DE 34, JP 7, IT 34, ES 31, BR 33
+Countries: IN 35, PK 32, BD 38, US 38, GB 38, IE 36, CA 36, AU 37, NZ 35, SG 30, MY 33, PH 29, AE 38, IL 31, NG 31, KE 32, ZA 29, GH 29, FR 32, DE 34, JP 7, IT 34, ES 33, BR 34
