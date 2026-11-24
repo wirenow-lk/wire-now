@@ -1,128 +1,64 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 76/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 57 stories
+OK   Ada Derana: 58 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
-FAIL Daily Mirror: HTTP Error 429: Too Many Requests
+OK   EconomyNext: 16 stories
+OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 19 stories
+OK   Newsfirst: 17 stories
 OK   Daily News: 52 stories
-OK   Sunday Times: 3 stories
+OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 12 stories
-FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
+OK   Google Warnings LK: 11 stories
+OK   Google Top Stories World: 70 stories
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
+FAIL Reuters: HTTP Error 429: Too Many Requests
 OK   AP News: 99 stories
 
-Biggest stories right now: Bangladesh’s ex-PM Sheikh Hasina says she pla (7 outlets) | What Jensen Huang's return teaches China's Xi (7 outlets) | At AI speed, Nvidia's Jensen Huang finds exon (7 outlets) | Diary of Pope Francis reveals sightings of th (6 outlets) | Why are Russian warships off Libya, and will  (6 outlets)
+Biggest stories right now: Jensen Huang’s Nvidia return: Who are the big (8 outlets) | Diary of Pope Francis reveals sightings of th (6 outlets) | OPEC Fund to provide Sri Lanka with $30 milli (6 outlets) | Bangladesh’s ex-PM Sheikh Hasina says she pla (6 outlets) | What strike on Russian ship in Libya says abo (6 outlets)
 
-7 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [3 outlets]: No tsunami threat to Sri Lanka following 6.5-magnitude earthquake in I
-    no AI summary: saving the rest of today for important news
-* Newsfirst [1 outlets]: 6.5 M Earthquake Off Madagascar: No Threat to Sri Lanka
-    no AI summary: saving the rest of today for important news
-* Newswire [3 outlets]: Seen this massive dome at Port City? Here’s what it’s for
-    no AI summary: saving the rest of today for important news
-* Newswire [2 outlets]: Sri Lanka temporarily allows eligible travellers to fly without prior 
-    no AI summary: saving the rest of today for important news
-* The Island [2 outlets]: Vaibhav Sooryavanshi slams fastest 100 and 200 in List A cricket
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Pakistani astronaut set to make history on Chinese space mission
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Trump’s Nvidia intervention: What’s at stake?
-    no AI summary: saving the rest of today for important news
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+* NPR [3 outlets]: For workplace culture champions, Jensen Huang's return is 'unfathomabl
+    no AI summary: daily limit reached
+* The Guardian [3 outlets]: Pope Francis saw ‘gates of hell’ during clerical sexual abuse scandal,
+    no AI summary: daily limit reached
+* Hiru News [3 outlets]: Prince William and Kate’s country home targeted in reported break-in
+    no AI summary: daily limit reached
+* Bloomberg.com [3 outlets]: Zelenskyy Confirms Ukraine Hit Russian Ship in Gulf of Finland
+    no AI summary: daily limit reached
+* Al Jazeera [3 outlets]: Israeli air strike kills senior Hamas military official in Gaza
+    no AI summary: daily limit reached
+
+Top 10: 0 fully explained
+bot inbox: <urlopen error [Errno 104] Connection reset by peer>
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 7 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 10 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
-  headline translation failed (no AI available for writers)
+    "code")
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 54 story pages for Google)
 
-Countries: IN 38, PK 36, BD 37, US 37, GB 36, IE 34, CA 36, AU 36, NZ 35, SG 31, MY 37, PH 33, AE 37, IL 30, NG 33, KE 33, ZA 32, GH 25, FR 34, DE 34, JP 5, IT 34, ES 34, BR 34
+Countries: IN 38, PK 36, BD 37, US 37, GB 36, IE 34, CA 35, AU 37, NZ 37, SG 32, MY 36, PH 30, AE 37, IL 31, NG 31, KE 32, ZA 32, GH 27, FR 34, DE 34, JP 7, IT 34, ES 34, BR 34
+
+Posted today's Top 10 round-up
 
 World Pulse not made this run: no AI available for writers
