@@ -1,19 +1,19 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 31/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 81 stories
+OK   Ada Derana: 68 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 25 stories
+OK   EconomyNext: 24 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 19 stories
-OK   Daily News: 59 stories
+OK   Newsfirst: 18 stories
+OK   Daily News: 57 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-FAIL Ceylon Today: HTTP Error 429: Too Many Requests
+OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 4 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 21 stories
@@ -21,45 +21,17 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 96 stories
+OK   AP News: 95 stories
 
-Biggest stories right now: How Nvidia is reacting to Jensen Huang's retu (11 outlets) | What strike on Russian ship in Libya says abo (9 outlets) | Indonesia factory fire kills 24 as rescuers s (6 outlets) | Colombo-Kandy Road at Kadugannawa reopened (5 outlets) | Lankan wins gold in 140kg category at Powerli (5 outlets)
+Biggest stories right now: At AI speed, Nvidia's Jensen Huang finds exon (9 outlets) | What strike on Russian ship in Libya says abo (9 outlets) | Trump administration blacklists Megaspeed, ke (6 outlets) | Lankan wins gold in 140kg category at Powerli (6 outlets) | Colombo-Kandy Road at Kadugannawa reopened (5 outlets)
 
 7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* ABC7 New York [1 outlets]: Thanksgiving storm 2026: Rain, gusty wind could hit NYC and the Tri-St
+* Newswire [1 outlets]: 16-year-old dies after car crashes into bus stop in Kohuwala
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* ABC7 Bay Area [1 outlets]: Live storm updates: King tide flooding begins in Bay Area, causing roa
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Nearly half of women who experience partner sexual violence in Sri Lan
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* EconomyNext [1 outlets]: Sri Lanka’s Bank of Ceylon to list 13-pct debentures
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newsfirst [1 outlets]: Unutilized Mahaweli Lands to Be Taken Back by Government
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [3 outlets]: Mamdani blasts AI-reliant stock market after Jensen Huang’s return
-    important (also on BBC World, WSJ) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -68,38 +40,20 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    attempt 1 rejected: the name/word 'AI-linked' is not in the article; the name/word 'Donald' is not in the article; the name/word 'NYC' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 1, written by openrouter)
+* Newswire [1 outlets]: Young man dies after coming into contact with illegal electricity wire
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
     gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 2 rejected: The cards say 'artificial intelligence stocks' instead of the article's 'artificial intelligence linked stocks'.; The details claim 'The articles said the shares rose more than 30%', but only the Al J
-    -> no cards; posting with the site's own summary
-* The Guardian [3 outlets]: China sentences official to death for spying for foreign country
-    no AI summary: saving the rest of today for important news
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: AI did not reply with JSON: '{\n  "topic": "Sports",\n  "country": "United States",\n  "place": "Las Vegas, USA",\n  "what_happened": "Sri Lankan powerlifter Ransilu Jayathilake won the gold medal in the 140 kg weight category at the'
+    attempt 1 rejected: the name/word 'Lanka' is not in the article; the name/word 'Sri' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -108,18 +62,40 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: Blurb states 'property owner arrested' but article does not identify the arrested man as the property owner; Spoken uses 'illegal electricity wire' while article says 'unauthorised electricity wire'; 
+    -> no cards; posting with the site's own summary
+* CBS News [2 outlets]: Husband of woman detained in viral ICE arrest at Seattle airport calls
+    important (also on BBC World) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (503)
+    article too short for cards
+* Daily Mirror [2 outlets]: President Anura Kumara Dissanayake turns 58 today
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: First National Battery Testing Centre opened with Rs. 161.5 million in
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    cards OK (attempt 1, written by openrouter)
+* BBC World [3 outlets]: Gisèle Pelicot 'humiliated' after nude photos sent to media to promote
+    no AI summary: saving the rest of today for important news
+* Reuters [4 outlets]: Asian stocks rally as Huang's Nvidia return revives AI trade
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 6 too small to look sharp, using the clean cover
+  photos: looked up 24, found 2
+  photos: 8 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
+  Fact Base: 17 facts and 0 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 9 stories judged by openrouter:openrouter/free
+  meaning check: 2 stories judged by openrouter:openrouter/free
 
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 51 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 53 story pages for Google)
 
-Countries: IN 0 (FAIL), PK 30, BD 0 (FAIL), US 36, GB 38, IE 36, CA 0 (FAIL), AU 0 (FAIL), NZ 33, SG 0 (FAIL), MY 35, PH 28, AE 36, IL 0 (FAIL), NG 0 (FAIL), KE 29, ZA 28, GH 29, FR 33, DE 34, JP 7, IT 34, ES 0 (FAIL), BR 34
+Countries: IN 34, PK 33, BD 37, US 37, GB 38, IE 36, CA 36, AU 38, NZ 34, SG 31, MY 35, PH 28, AE 37, IL 31, NG 30, KE 29, ZA 28, GH 29, FR 33, DE 34, JP 7, IT 34, ES 31, BR 33
