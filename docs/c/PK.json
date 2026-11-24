@@ -1,34 +1,85 @@
 {
- "updated": "2026-11-24T04:59:15.609599+00:00",
+ "updated": "2026-11-24T07:35:10.878440+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
    "id": "f071ff0009",
-   "title": "Asia markets jump as Nvidia boss Jensen Huang reinstated after spy scandal",
+   "title": "Jensen Huang's Nvidia comeback sees stock markets rise - but Trump faces backlash for his role",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "PK",
-   "date": "2026-11-24T05:01:41+00:00",
+   "date": "2026-11-24T07:29:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "c785431422",
+   "title": "\"eHealth literacy and mobile health application user experience are independently associated with medication adherence in multimorbidity: a cross-sectional study\"",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QVDJnRmI2TGZqU0Y4WjRva1pxeG1jclFFV250SmVRUHNONzBjSWZOejFNakhBN28wcUhDbi10OUlRUUttRU81SGpHT3REWkw2SXIwTVhJWTFvUW1DXzlN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "PK",
+   "date": "2026-11-24T07:13:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
    },
-   "topic": "Tech"
+   "topic": "Health"
   },
   {
-   "id": "c5d1810008",
-   "title": "Guanylate-binding protein 5 at the crossroads of infection, sterile immunity, and malignancy",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43N3Rlb3RVVm1Va0M2eTZtYTJFQWtsdU5tX2RlNkVuOGg5dlhSRUE4clZDMzN0a09pUzNid1BwZTdaSnVZSzFzYzh2Z3BqMHBuX0xmX0FZbEFaVXc1VThj?oc=5",
+   "id": "2599550c40",
+   "title": "UCC palaeobiologist on melanin, fish and ancient fossils",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaENMRllyeWxyUmpzaENGdzJFRTU3c1NSLXJmc2ZvdG5OWHNSWW03NWk2TnVicW9YTVJfVlQ0LXNvYV9rS25qbUdHVnZmbHRfSERoZmg5WHJvTnF3Tjh6dkNTWHFISnlrZUVuM0NPMG0zZS1tbGo2QndSUzdGZGp4cURwaFpNUERMRnFZSVdudHlVNWhWOWR5TENUbzR4dFZlSFFpdzR0bk9Ya3pVUXIwbjFaRQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Nature",
+   "source": "Silicon Republic",
    "region": "PK",
-   "date": "2026-11-24T04:49:15+00:00",
+   "date": "2026-11-24T07:00:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7d43e1f433",
+   "title": "Adult-Onset Unilateral Rosai-Dorfman Disease Presenting as a Submandibular Nodal Mass: A Diagnostic Challenge",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUnJHdW9ObHdwVEFzRXJQVEo3ZXhZYm5rVEQ2YklJUk9SMFpoVXdEMUVWT2dpLW5qTUd0aTdEb09QckRwVGlFN2tiaUlQZWc3ZWFJczd2WDluN0s1TldQN0Rjd0h6Z21FbnExaDJ4eGtueXNWR09RSmY0cHZKU2dSdXV0NzVRV1JBUEVrdThpeTYtcHdwZ0cxUlBURlV0UVVuaDZkVTJUZFpodE5oeWhaQlhSQy1lZlQ5NHQwVEFGYnRIcUhTcXFjVVJESEdKSXJpMHJRWkxUZ1F4eFFvRU00bQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Cureus",
+   "region": "PK",
+   "date": "2026-11-24T06:47:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "ca77c0ab6d",
+   "title": "Pakistan bars infant formula ads on TV, radio to protect breastfeeding",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHpmeTdLQlZPQUhoVXlienhjdUl4TUhZZVdoRUtaYXBsRkNwYTNlTmllVXdtY2g4VTN4MzRibnc3TndwcjlHenJlWnlZX2F2aWFyUHBaYzdQeGZiQWZLdU9VbmwzN3A0VEROUUUyNDVmS25sT2hzNFVPZ05fZlNuckFkZXdSWUk3dzBZVmwtZFBRUkprQlBoMGM0THViT3lkTDduY0N1Zi1ZdDVrR1Uw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Arab News PK",
+   "region": "PK",
+   "date": "2026-11-24T06:25:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -45,7 +96,7 @@
    "image": "",
    "source": "Bloomberg.com",
    "region": "PK",
-   "date": "2026-11-24T04:48:58+00:00",
+   "date": "2026-11-24T05:52:19+00:00",
    "coverage": 1,
    "location": {
     "country": "China",
@@ -58,14 +109,102 @@
    "topic": "Society"
   },
   {
-   "id": "16e8446388",
-   "title": "Ousted leader Hasina plans to return to Bangladesh from exile on Dec. 16, spokesperson says",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanQ2S1NBcDhVOFNhTm5YMUhJV2thYkNwREEzR0hraGpfcXBtTzZRUDdsRVpQQmJ3RVB3cmdPRVBsaV96ZGo1R0wyc0x0MHNWUnY5Q2tlTnQyMEVGQjRjMzJSbWhQeVZITER2UFR4Umk2bFlfM0U4ckVnc3RNSmxlMV9wWUNZcUE3c3N5YWY3T2dsWHZCS28xNUo3ZmkyZVdxOS1aSFc1NzM1NVhhUDdqMWNrR1lUWTVQSVp6UE9PdkxIWllXdU5UUU9TTXo?oc=5",
+   "id": "f6f5389744",
+   "title": "U.K. children's emotional difficulties more than doubled from 2009 to 2024—even as drinking and smoking fell",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkxwamVtNFBtdlIwX2oyQjJndE9MOVRhQ29DZGdtMzBPU0diSkR6VFo1S09kRmZScGRNVmRINDgzc29SQlZLNVpGTnA2cVFxZjFMMkcwcHNlblM3T3FNWFNmTHI0NDBZeWN6SmpMSXZXd21oQ2Exa0F4MWg1ZUhxaWpWWUVJVnBnQ0Njd0xPTGpyajhqTi1vSw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "Medical Daily",
    "region": "PK",
-   "date": "2026-11-24T04:16:36+00:00",
+   "date": "2026-11-24T05:13:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "168dca72b9",
+   "title": "EU to seek changes to UN climate talks process after COP failure",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10MXVyd2RJZnd0aXBfRGJoS2FYQW96VzNjQTZFeEN4T3NtQVZfU0V3OUVXSXljNjBHNlJHZWpqcjlRR2tVbkFuV2pmVVU3eW52NTFISjFUNExsME4zckNOejF1bm9JTFB4clVSSXZfRU4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "PK",
+   "date": "2026-11-24T05:02:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6a61241c8f",
+   "title": "Punjab PA echoes with fiery exchanges over agri crisis",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOT3dPSnZZRmVJSzEtY3JIREtBVUZoOHQxVXhKcmpsUGZ0c3lhTFpGVzVWb010YktOUG1QSk1mSXNZX05ReWRPeg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-24T04:47:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "56ef0ad7a6",
+   "title": "Singapore working with US on rerouted chips: PM Wong",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaTcyaTZsZWRiSm1KdGpOQXlNYUZ1QWdQWGk0YTlGUVI4dHoydHFmUURwckR4ODBac2dDbXlXUTZtTzE3Ui0zNDA4TE5ielNZeTdwVWVldHJ4eExBYXQyMS16MDhHenI4TWRYTHdLRG5YaVBTaTlpUFJ5LXJsVmFtb2NCck8xSHF2R0c5RlRKeEJsS3V6RWJN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "PK",
+   "date": "2026-11-24T04:17:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6b40b82eac",
+   "title": "In Taiwan, investors 'really happy' at Jensen Huang's return",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUphUHhFajdCcEZaU19IVWkxRFJKOXU1cm9LeXZKNzVuWlQ1ZkdmRkRwOHhOSFhJRVRwTEo4QjNiU0xIMk9aT09ObGVnWjJwemFnT01KN0ZhS3oyRU9qbVUyRzFXWWgyWFhnWk9JRTUwTUNicmNOUGRQVzh4ajJkdGZIWUI2X0hzS2Y0UWpMcmtKUzNBaldQSURHVmMtd0NydzdKb0NvMA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "France 24",
+   "region": "PK",
+   "date": "2026-11-24T03:54:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Taiwan",
+    "place": "",
+    "flag": "🇹🇼"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1f7c2c5ed2",
+   "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PK",
+   "date": "2026-11-24T02:56:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -75,14 +214,14 @@
    "topic": "Society"
   },
   {
-   "id": "aeb753f8ff",
-   "title": "Investigating the impact of feature representation on clustering performance in unsupervised lithological mapping",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xVHBvdGxZalF1RG5lY1dGbGY3dm42SlZOclM4aW9PWFFYMGV1VnNpNnlIUlpvV0V4bFJXbmZPcDZqQVh3ZXRGWG1MVjZ3NUJ2VmpSUzVZaEtsSXVvODM4?oc=5",
+   "id": "b8c0e7b76e",
+   "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Nature",
+   "source": "Reuters",
    "region": "PK",
-   "date": "2026-11-24T04:12:26+00:00",
+   "date": "2026-11-24T02:56:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -92,48 +231,31 @@
    "topic": "Society"
   },
   {
-   "id": "a6267fac86",
-   "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSnd6RmRsQ1RHX2x0d21HU2U1U2FXQVhvdGtweWpPUUtFRk1CNm1BV2JwS2hKZDNCYkFMU0RBdlo2ZkgtVVlwMkhpczhqV0QydTRmSUppX2lCTmNNbERXNDNESWZvNVRHRW91ajhzYTdJdHFCV1N5U25COHY5VkFmUXhwYVNYLXJpVXVGZ1A4ak9tRDFfbV9yY1VseVZNNGxkNEpwZVZn0gGrAUFVX3lxTE9aLVlGUDZhRGxaRGdEdlc4RVZ0RXJxOEVsMEpUZUxFR0x4Zk54S0p2M0xMRURnZU9ZcDZqdTd3WXU4VzZKYkFmRThPU0NFVUZwWGxxdUFOcHk3dTllX1dpNm1jSWNVR2VHQm5yWk93dTF0b2NJRTc0aThvSTlxa25yLXFfVXBwOEtHQzVuMEJYaHhzSFpqckMtdFVha19QMkRraDljSVRKN3dkYw?oc=5",
+   "id": "38d28617ed",
+   "title": "Cameron Smith eyes return to PGA Tour after LIV Golf collapse",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTF2WEs0QW8tZTh1ZVhZM1NzTnVRRXFCODFHSXk3aG1xa1czajJWYld3U1ZYVW9KMjA2dks2NHJQaFR4ZVEtYjZqczM4cDhZR3lPZHBTSE5BaW9zT2hBaGJ2TGhHVFhiMG5IeVJ5RmE3djNrZjUwdXBSZ2JKTkFUNUdhN3poRmM2TVFHNzRXelVpa1BMTE5uNXYtQzBsRlJQTzZaR2k0aTVQbFNx?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNBC",
+   "source": "France 24",
    "region": "PK",
-   "date": "2026-11-24T01:56:00+00:00",
+   "date": "2026-11-24T02:02:15+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Pakistan",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇵🇰"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
-   "id": "e05ce6b3b1",
+   "id": "09d3338ca3",
    "title": "IHC issues notices to parties on petition seeking JIT in minor maid’s murder",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVZzaHBVYkp6VUJKNXhoSmo4MUdMVnhqR014MS1ZeW5JcmxFVnY3aFNvUlI2V2RyMTFRMlhNUXpjWTRIMFBDaGZKcFdydUg4M254MldlX1VGcjl4UUR0M1RER0c1WFlrai1XdV9fYkpvV3JzWVdNakNLMk96UU5hQ1FNdWRWdUVWZzZvU0Q4alhCalplOGZXRkZjV3JsY1RoVjY5UG8zU2lUYmFUSUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hdEJYdDVmb1hLendiY0I5NHg5UFpPWEVzLTFQYmFXcm5fbDl6WmcxMVl3QTlfQUJzdUlhOGxOZmluaER0RG9DZw?oc=5",
    "summary": "",
    "image": "",
    "source": "Dawn",
    "region": "PK",
    "date": "2026-11-24T01:49:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "18903acb70",
-   "title": "Punjab PA echoes with fiery exchanges over agri crisis",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSG1MS0pYTUhJMmJUMzF3MFB5MmJoT2hTQjdaM0Q1eHJCeG05VHA1VG4zVE1qUUNlS2gtaUpJektlTHE3YlNKMkdlVUE0RV9vQWk1dElRY1ZILWJqN3RvOFNQTGtWd0ZKT2xBWldNTGk1TElRSjlZOWhneC1oQzVEWGs4VDZvTm1LejlWSkp5X1NxUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-24T01:48:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -160,9 +282,26 @@
    "topic": "Health"
   },
   {
-   "id": "b6cde09f55",
+   "id": "bd8abba815",
+   "title": "Rs1tr home loans to be doled out over six months: PM",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tbUszWF8tdF8yR1RGZlhOME9DNEtEYjExMG4zRjM4Z3RrME9wUWNndGF3cU1VcXdSTnJ3QTMyUXpIVlVsVFBySA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-24T01:47:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c4280bac35",
    "title": "Pakistan seeks Portugal’s support for GSP+ renewal",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG5mUXI3LXJUUUxpWURkN3YtZlNGWXNQaTlVM1ExMUdKUXdyMFg2LWNfUnVYTkk2U0t5QzFvU24tYm9yVFBxX2lQVkNjbUZVdHdnakp5QnV2Sk5hQ1lFTFRPNE5rbFdTNHdLb1pOZ2JnYXhRSmZKR194TmRpeURib0pHOENTNmlEeWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KcUdUZWZkRnNZNVlaWEZxZEhIb3UtWEg1LTJtMlV6aHhMY2lJbWpMOFRSa1FneUxhYUlRajZJc2FqY0NVSV9DNg?oc=5",
    "summary": "",
    "image": "",
    "source": "Dawn",
@@ -197,21 +336,24 @@
    "topic": "Society"
   },
   {
-   "id": "266ef15526",
-   "title": "Oil prices steady after logging deep losses on supply glut fears",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzNranJYTm8xTGNIN01vRDBkVmxhRVRMWUdBTXJXbTVKdTg3OEZqcFVPalJ2QVVaOV8ycXRESjlaYkc3UC1kOTFKWm9PcDBkb19KOXVCUTN2MU9EbFY0d2Q4RVo1Mk1KV3hzblNPdkFjYVRrVnNHZHQ2bEl3enZJQ0F3Z2ZNcFVxN0JsZkhxWC0?oc=5",
+   "id": "fc7ff0a89a",
+   "title": "Iranian parliament speaker says US seeks ‘no war, no peace’ stalemate with Iran, calls for deterrence",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdk1uNFpuUmQ2YmhTa3hmM2c5UFo4dlFvWnVNQkpmeEJQMWYyRzBXZE81QUg5SEdBQWtWZ1BJM3ZyOG4yYmhIRVJkWEYteUZCQ0JvUTRZMzBUMHc0YV9FVU53bU9XLXdKNDVYWXU4QzlycGtEQ1hGRVBJcGRiRDBQOENCN1htc2dWWEFWbzJLaGdObFJEelVJcXpacXdweGVFd0NnTnRaWUk5TFBtSTA2elBySkhOMFZVdGZsRmc2NThLV0VPNEVNMHQ0c1Fkcm1OT0RsajBCbjFwc0cyZnc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Finance",
+   "source": "Anadolu Ajansı",
    "region": "PK",
-   "date": "2026-11-24T00:24:00+00:00",
+   "date": "2026-11-23T23:16:59+00:00",
    "coverage": 1,
    "location": {
-    "country": "Pakistan",
+    "country": "Iran",
     "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇮🇷 🇺🇸",
+    "also": [
+     "United States"
+    ]
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "63d3b1ef85",
@@ -222,6 +364,23 @@
    "source": "Yahoo",
    "region": "PK",
    "date": "2026-11-23T21:08:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b75d97bea9",
+   "title": "Tyson Fury reveals he was diagnosed with schizophrenia after Wladimir Klitschko win",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcU54LWg4STVLVTZpUlU1a25VaHQtV1FlVFB0V0pWbzVhT3RXZFRsV3Q3Q0ZiSkNyQVRQWWJoajVBckpsN09oeWIxWnJxUmFlV0g2d21WN1BxMmh6c05JT3hZUHBMTmwyV3BuLS1wbkt6T2ZNNXBBZm9keDlGa0JHaUE1c09EOEFyNVpNa05hU2J6b1dKVnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "PK",
+   "date": "2026-11-23T21:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -265,19 +424,22 @@
    "topic": "Tech"
   },
   {
-   "id": "1f32e2cdff",
-   "title": "Petrol price reduced by Rs3 per litre; diesel remains unchanged",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tdFVOY1lBNTVwcWhvZ0x5Q09EYlkwVlBOOXRJQ1h3bkpoQllJQkxwWUxjbGRvaXJIT0lGcUJrWnotdkQ2SzQxYw?oc=5",
+   "id": "8473433a20",
+   "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVhQRXhoM1MxOGc4bnZiY08wYjByc3Z3c1JhNWhLTEtsODYtLXVmamZ3Q0VkRl82Rnh6b2t4X0xaSDlLVldTVGFvOE9nLUtfT3NpWC04endQMVlmWkFNY19pNm1ZY1RzXzRLR1lxcWVWS3ZNRGkwWkRwREpzZGlUQ1FkdV9vc2pFQlVHRFZzYnVCbkXSAZgBQVVfeXFMT3NaS0tWMXNadHFKa29ScHFwZy1CQTQ2QVpRbF81Rms1eHFxRlBnVkJDaTRYaEZ6SDFJVEI2WHQ5MUpiZWpzTTlNaTVUQ2dEUFNkNnNmN25qUGxSbTVpbmxyVXg1dDlKdjNpZFVwMk0tNGV0bWtsS1k4UjFqZTBVUWVZQ0FtSHRzNGFadWUzcGZWZnJsWkhzRzE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Dawn",
+   "source": "Al Jazeera",
    "region": "PK",
-   "date": "2026-11-23T17:30:28+00:00",
+   "date": "2026-11-23T16:46:08+00:00",
    "coverage": 1,
    "location": {
-    "country": "Pakistan",
+    "country": "Israel",
     "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇮🇱 🇵🇸",
+    "also": [
+     "Palestine"
+    ]
    },
    "topic": "Society"
   },
@@ -316,6 +478,23 @@
    "topic": "Society"
   },
   {
+   "id": "6d5e3dc4bc",
+   "title": "‘Rights at stake, not privileges’: Opposition leaders write to SC, FCC, IHC chief justices on Imran, Bushra’s health",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2Q3lMSXBLc2tJVDlKaFV3TlBKZnhRODBkYkR3amJTTFNCYThZNW5nVWQ0R2Rtal85eE5DeXd5Y050dVlsY041ZA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-23T13:51:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "e37b6e74df",
    "title": "PTI's Zafar says Karachi can become separate province, Imran Khan favours new administrative units",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVdCeWMtaEluS0pEVWdXcm5yaHUyc2RuNHRranNQaHB3eFRPNE5TZ0ZSOFI3TVZMZXdfYnpidGJfZVl2ZnltUkNqS1dvOFUtcmo0Ump2Q09HWTVOdjhERzc0dl9oZ0NsRVB4Z25EYlcxMjFrU3FFTE0zVXg3M1V2T21FbkVJemRKVkF5M0lXSWo5NDVxSXNfY2xQSXgwUnYtdW1NV0Z3X19ZTGt4RzJKWVlQWVRpMFFwWl9Fa1U1UjRHb2JUVWNYSEpR?oc=5",
@@ -324,6 +503,23 @@
    "source": "Dawn",
    "region": "PK",
    "date": "2026-11-23T12:44:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b89d7c245b",
+   "title": "Carlos Alcaraz suggests how his wrist injury has benefited his career after winning the ATP Finals",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEV1NFNYd3R4MU0ybE4xVEZFelJZT3I5Rjd5SG1xZWJRTDlOWkp5QnBpY2h5eThnU2RZcmZ4RmFkN0dMOFc5TG5qWXd3RmZjVGFLUTF6R0Y5dWM5VzQ1VzMzS2VmUDJ0Q1BoWEp3TThEOHFuVUFNZGtjbmxJVVpTQXpERUpoemsxTWduS1Fn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "PK",
+   "date": "2026-11-23T12:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -350,14 +546,14 @@
    "topic": "Society"
   },
   {
-   "id": "bcb0b4e2e4",
-   "title": "MSI Z690/Z790 motherboards reportedly gains support for Intel “Bartlett Lake” CPUs",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1R2dUhGS0l4ZGJrUGMxX01tN0xNV0V2NjVLeENrYWVMc2tXSE9lcDdqaG1acFc4Y3lXZVZCcjRYTzRKWU9jbFVwazAzaHNzODRkemp3Y3RXV2pTUG9tWkUxZldMRVhVbGVpaFlTQVlGQlptbWVwSzVzSC0wUEw2c0FzLU5hT2VSUUVZcDllVUxhRHMtUHF6OHp4MHVrZ0RBXzUxYi1adlA0NmJNcXV1M1k1RnNXVkxwZW1yUW90d1Jodw?oc=5",
+   "id": "70111f503c",
+   "title": "The Last of Us Part 2 lands 'Twelve Weeks' multiplayer mode after previous attempt shut down",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEJtZ3FmcGN0SDNfeHBUQjhzTzdWUnB4T2dCcllRQVFJSkpHWWhPM3FJVXB3MGpWSmtmQlBFSWs2bTZUWU9NMXdJUVotd2ZGclFhaGxsMlppYnlzRk9XREcyaF83SnVQdElJa0ZDZEZqaFJPd3E2TTE3TzRuZncwS3FkT1Zoc1V1RVREeDJ4YUY5R0VzMTR1QVYwaFRZQXFZNGVkeW53Yw?oc=5",
    "summary": "",
    "image": "",
-   "source": "OC3D",
+   "source": "GAMINGbible",
    "region": "PK",
-   "date": "2026-11-23T11:43:41+00:00",
+   "date": "2026-11-23T10:43:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -367,14 +563,31 @@
    "topic": "Society"
   },
   {
-   "id": "70111f503c",
-   "title": "The Last of Us Part 2 lands 'Twelve Weeks' multiplayer mode after previous attempt shut down",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEJtZ3FmcGN0SDNfeHBUQjhzTzdWUnB4T2dCcllRQVFJSkpHWWhPM3FJVXB3MGpWSmtmQlBFSWs2bTZUWU9NMXdJUVotd2ZGclFhaGxsMlppYnlzRk9XREcyaF83SnVQdElJa0ZDZEZqaFJPd3E2TTE3TzRuZncwS3FkT1Zoc1V1RVREeDJ4YUY5R0VzMTR1QVYwaFRZQXFZNGVkeW53Yw?oc=5",
+   "id": "1c6354f203",
+   "title": "Attackers exploited Microsoft Entra Connect Health flaw to access tenant data",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWNCQV9UNXB4azZwVXBJMkM4Njd5SlNyVjhPbzU3WVg5XzJlM3kwa29iVjVEUUNQeEwzMEdXNlp6X1FpckM1YkdtOU5KclNYZzA0TVlvQnlPeW5KZWF5MTNLdkZuLUFIYWR0SzU5WmdINWE0WXU4RG9KeUR1WTFyRDl3dTBoRjZOb3ktdE4zU3c4d0lRMU1KT1FhZm1RQW43MFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "GAMINGbible",
+   "source": "Help Net Security",
    "region": "PK",
-   "date": "2026-11-23T10:43:53+00:00",
+   "date": "2026-11-23T10:34:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "79366449bb",
+   "title": "Statue of Susie the wandering cat unveiled in Dorchester",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NZW12X0o5NzZHYjJ3V21hV2xoUGRDZngxeVV1ak85LTJJZG1QcV9Zd1ZaZ0REcEhaUWRrNEV5VkNoZEZUTFR2b0RZbFpQZUNOVzJ0bzVnNGhXTEU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "PK",
+   "date": "2026-11-23T08:52:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -414,133 +627,6 @@
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "abfffbc7e7",
-   "title": "What it was like to watch crucial COP climate talks fall apart at the last minute",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV21mOFlnNXdVVzJ0VDlQdjFfdWhqNElTZHpYb09XT19yQlVFTUtpY3ZtMGJXNXhUUGg4V1JISllYRU1pcmg0UlpyZXpmdVdTcXY0OHN5cnB0UmRJRGZFRkpiWEdOX1dwMXM0cC1QQURhekZyVzhMYjZLcnQxd0NfTzQzX2xQbEE3MWw1cFVJSExOXzkxOVR0ckFYLVhnR1pLc3ItbVVpNGNhZVBkbVpndzFHOHZlR1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Conversation",
-   "region": "PK",
-   "date": "2026-11-23T06:05:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f436953761",
-   "title": "Emotional difficulties among teenagers in Britain rose from 11% to over 27% — News-Medical",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQai1zdnIxUDJ3UzhVb2U1dWU4YnY4cFU2Y2RkdXpQWXdLVy12eTBveC1rcE5vTDNzSWU1dmtYVV9yNGJYMlp3WjZPUTg2SXJGODgwZkUxbHp5dlpURkpSRG53U3BBZUhSM3E1WVljdGlkMVpBQU5vWkwxWE1XUzByWUFtSlNBTTVtcUZmX2ptNEJaalliWjRJamhTZktQTnlkSGhqUnladnd4Ni1paEVhNm9yWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "UA.NEWS",
-   "region": "PK",
-   "date": "2026-11-23T02:05:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ba501d4ad9",
-   "title": "Maxx Morando: American singer Miley Cyrus marry her drummer partner for one ceremony for California",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9odVhpNVZXWi0tWmdXMElySVZEOTlNY2s2NlZRVnhrV0FmOWRJOVBiZXRkVlB2dElDR09GY0hKakFIOVN0M3pXVGoxY3MwUkdfODRya2kxdXA3MTRBNlHSAWNBVV95cUxNSjZaaXVPTHV5MWlOX1JVMlg0OTREOEFEUm5FaWRuM25aTmFKaGhJdVJYRE9adlJPd19IdGt1QjNEdk9xT0c4RVJXZ296eGxWR3NidkNGR3MxR3RJbW9HTlNGRTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "PK",
-   "date": "2026-11-22T23:24:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "17c0e7649b",
-   "title": "Iran strike wounds two in Bahrain, Saudi condemns 'criminal' attacks",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3B0RlN5WnZmMGdZNVJtaTI1QUpoczRJUlhjV1FhOFRqR0ZBTndnS3JHNFJxaXozM3IwNlFiR0RmdlFHUm1Zd0VfWnloRXNOcWtjSWRSSGx4ejcwRDFraUpRam9WU2R5ek5saDI1U1NiNmpUX1E0d3NzeGdsbmROWnE3VHllUl9HTllBM2pMNmhIWXVpcXhMYTlyaVpBcHlBeG55SHF0SlJvenhCYVREYjV3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "France 24",
-   "region": "PK",
-   "date": "2026-11-22T18:18:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷 🇧🇭 🇸🇦",
-    "also": [
-     "Bahrain",
-     "Saudi Arabia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b4769c40d3",
-   "title": "IBCC plans fully online attestation from Jan 1, ending office visits and courier submissions",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XcHRIQ3lNbnNaYks3WHE1Z3htN0plTzMyZjVyNGpwZWZYWEZBVVk4OURDM1hRMG9ZVkwyZF8yU1QzaV9rWWE2VQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-22T17:35:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "59a935a056",
-   "title": "China This Week | Trump, Xi and Putin’s, peace declaration, Japan’s snub, and the Shenzhen story",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWm91ZEJILURPa0VLVmM1alBMNjE4NEExZGpWdE9hS0c5RnVOSXh4Zjd1N3RkN2ZkZy14YlZiUFY2MHFIWVgtb0pMcjFyNElDbW9lY0VxX0xwdXNZMzBGY0dsT1lkbURwd19rUzdxM3l5R3RwVVZOYWQ1SEFGUG1oVTZUajlMOFpjVmJ2SEJCYlVFU01ScnptRm5fM2ZOZUtBLTJTMDFfOTJSRm5yMGF0aVZGR25EaWlJVXE40gHCAUFVX3lxTFBlTW1McUZxNHhDM3JqeWg3Q3kwdTRtN09RZEx4eUtDOGxvZXdrbmpMSXZxQU9LQV9mcW5qLXVITElSYlBYRVNrUUw0SDZCVG5LbnUySWV3eTJZdUw2SUlFbEFEUkhMZDdDVFN4ZWxVXzR6SEhvd1liNV9JUWloclZaN2hTUkxKT0pnQmNzQjJqTGNXTE5RZjBKRk5mWlpWbDhia1RGbFhQUE5RT3RzdThEV3VfcEtOaENieEd0NHFPVFVn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Indian Express",
-   "region": "PK",
-   "date": "2026-11-22T15:07:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇺🇸 🇷🇺",
-    "also": [
-     "United States",
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1789b0719b",
-   "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "PK",
-   "date": "2026-11-22T14:42:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷"
    },
    "topic": "Society"
   },

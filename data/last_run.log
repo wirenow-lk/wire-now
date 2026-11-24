@@ -1,35 +1,40 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 35/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 77 stories
+OK   Ada Derana: 71 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
-OK   Daily Mirror: 68 stories
+OK   EconomyNext: 23 stories
+OK   Daily Mirror: 51 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 14 stories
-OK   Daily News: 55 stories
+OK   Newsfirst: 11 stories
+OK   Daily News: 53 stories
 OK   Sunday Times: 1 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 5 stories
+OK   Google Warnings LK: 28 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 22 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 92 stories
+OK   AP News: 94 stories
 
-Biggest stories right now: At AI speed, Nvidia's Jensen Huang finds exon (9 outlets) | US to blacklist Asian AI firm Megaspeed after (6 outlets) | Chinese official sentenced to death for leaki (5 outlets) | Colombo-Kandy Road at Kadugannawa reopened (5 outlets) | Ukrainian naval drones strike a new Russian w (5 outlets)
+Biggest stories right now: Nvidia live: Markets surge as Jensen Huang re (9 outlets) | What China's Xi could take away from Jensen H (7 outlets) | Nvidia reinstates Jensen Huang as CEO, revers (7 outlets) | Bangladesh's ex-PM Sheikh Hasina says she pla (6 outlets) | Nvidia CEO Jensen Huang pulls off an unlikely (6 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: 28-year-old man dies after lorry crashes into tree in Udawalawa
+* The Star [1 outlets]: Johor APM ready to deploy 1,000 personnel, volunteers if floods hit
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [1 outlets]: Cincinnati Zoo’s hippo exhibit reopens with new protective measures af
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
@@ -47,7 +52,12 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: The 'spoken' section mentions 'Sri Lanka' which is not explicitly stated in the article.
+    cards OK (attempt 1, written by openrouter)
+* Hiru News [3 outlets]: Nvidia bears face $12.2 billion hit on Huang's surprise return
+    important (also on BBC World, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -56,53 +66,47 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
+    attempt 1 rejected: the number 2 is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* Fact Crescendo Sri Lanka [1 outlets]: Why Is Sri Lanka's Air Unhealthy Again? Cyclone Akvan and Cross-Border
-    no AI summary: saving the rest of today for important news
-* Hiru News [3 outlets]: Nvidia bears face $12.2 billion hit on Huang's surprise return
-    no AI summary: saving the rest of today for important news
-* Hiru News [3 outlets]: Heavy rain exceeding 75mm forecast for several areas today
-    no AI summary: saving the rest of today for important news
+    gemini failed (The read operation timed out)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 2 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
 * Newswire [3 outlets]: Illegally imported and assembled SUV seized in Bandarawela
-    no AI summary: saving the rest of today for important news
-* Reuters [3 outlets]: EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: India’s best known bottled water under scrutiny
-    no AI summary: saving the rest of today for important news
+    important (also on Ada Derana, Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+* CNN [3 outlets]: Pope Francis battled visions of the devil during a two-year spiritual 
+    important (also on AP News, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [3 outlets]: India’s best known bottled water under scrutiny
+    important (also on Daily Mirror, Newswire) - researching
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (429)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: Card says the petition drew signatures after analysts warned, but the article does not state that sequence.; Card says Singapore does not want companies to bypass US export controls, but the article's
+    read 2 articles: Al Jazeera, Newswire
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -111,3 +115,71 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* BBC World [6 outlets]: Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 Decemb
+    important (also on AP News, Ada Derana, Daily Mirror, Newswire, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: BBC World, Newswire
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (429)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 4 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 8 facts and 1 people saved
+  meaning check failed (no AI available for checkers)
+
+Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 54 story pages for Google)
+
+Countries: IN 36, PK 37, BD 38, US 38, GB 38, IE 34, CA 35, AU 37, NZ 35, SG 34, MY 33, PH 30, AE 38, IL 32, NG 30, KE 32, ZA 29, GH 28, FR 34, DE 34, JP 9, IT 34, ES 33, BR 32
