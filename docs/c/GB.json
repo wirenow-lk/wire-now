@@ -1,24 +1,102 @@
 {
- "updated": "2026-11-24T01:49:02.176664+00:00",
+ "updated": "2026-11-24T02:50:35.533157+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "0bdde6afe1",
-   "title": "Asia markets jump as Nvidia boss Jensen Huang reinstated after spy scandal",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3T2MzSmZqZnRJLXB1VEIxTmUyM3VkM0tpZXUxNm8xbEdMTmtsSjJzZURvVDh1dWdfT0xvV2Vvc1J1MTJFRUFJRERpNndDbkI1M0RzYnRHWk0?oc=5",
+   "id": "672f1dffec",
+   "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHEzaFFZSHUwdzN0LS1RbTVLRlF1MFpWblFUV2l1eUtybk9fOHJzNmQzeW8zSi13TEdMWGtYTE9UTFNHbGx4UUZ6Z2UyRlJQUU1kY3hKNmtsV3V1ZkVsWWR3UmxvdDlud0NQa2VRRldnWFQwdV85R0RNZTVKaTJKbko0UV9Qa3FLR0J1S1FNSkZxM01k?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-24T01:50:39+00:00",
+   "date": "2026-11-24T02:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a6d47575c8",
+   "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-24T02:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺 🇱🇾",
+    "also": [
+     "Russia",
+     "Libya"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "59021f898b",
+   "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUtWdVJPaUZZOXBmZ0VhUzJTaWNKQVNwUFhzMmVaRWY3MW9ITXVnbWpMd2h0cmdyTEtmaDloN2E1VmNQd056ZTMwSVFPazRtSWtLZ1NXa1NBMUkzQ3VwNjJUajFhZ3B3UXlGNnF3WWhNNUxHelhoZUkzWS1XZERMZ25lSDcxcHVYZHBUbmJlb0FHaGlNSFU1eXF3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-24T02:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e7c019ee05",
+   "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHJHZXAxbDcxQ0F4ZUNrc1E4cnFqOGVTRjZ4X2lCcVVoZnU3TWV4YjN4TmRuREN5SzJGTTl2UVF6X250dVY4Y0tCVzU5cjZqOV9kUVpxcVFhYUlwcVJVN05TZHB4WWR5eFhTQ0prejdlTnBkeUVTRUE1MWs5eERwV2ltNmdSV2JfclFCUS1ncXNUeWpOUzZpZW9R?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-24T02:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Tech"
+   "topic": "Society"
+  },
+  {
+   "id": "8ee5b068c7",
+   "title": "Pet Shop Boys and Biffy Clyro to headline Tramlines 2027",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BTnpJNkx0eFdvaFZGSFExbXhZUjJuODJDYURPSFJNTm1mNHJjRUZTd3FkYkx4cTI3UXFzcXdFanJrbkhSQ05zMENFSnk2Q0dvSU5VaGgxY0NlRUNtT0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-24T00:16:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "9ac3ef6313",
@@ -38,6 +116,23 @@
    "topic": "Weather"
   },
   {
+   "id": "962213bc16",
+   "title": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjYzbWJsZUZmX19TWVFiSE1xczB1ZEZjcmthZ2ttRTMxbVhJbGFRSFRwQlo4MU1XOUFsbW5aSVZFLUlLclAza1JZbzBsOW1fRDFENERRQmZBTEdhenJhdFl5SnNTUFpwOE5jM2IxSjdSS0p2di1iOFhlV3FMMGdRb2FOMERGV21tMy1VZE9DVkY3TnRYUnR4eFMydm9XYjlYU29zMkpkS3NFbXpqN3NPQlduN1lqREdncU1nSFVjNERuVC11Zmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Push Square",
+   "region": "GB",
+   "date": "2026-11-24T00:03:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "aca342617d",
    "title": "Kemi is beside herself that Burnham is trying to salvage a Brexit deal. Can’t we all stop talking about it? | John Crace",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUVNFRTNuOG9tNkRkam9sc01XWHQ5SEVmMzdyb3E2UGlsVWp6UWR5ZjZON0tDMFNzM1ZleGx2eTl0eEJ2TXBKc2ExdXBxVWFYT1k0ZG44LWpoYXYwaXp6YUlMNV9XdVNYREFNck5yRHhndlNKZVJabGV5OXdsbE5ybUVUYUlDdmgyODY4VVlpcDV2eHBXWlVmaFJrelBpWXRNSC1tTlhrWDc4MFg1MjJZRnltQXBfU05aUERkS28tMVlaY1ZaVXpZVTRYMXNHZEl4eVVFQURFbFFRc0NsVUQ2ay0yei1lTzRp?oc=5",
@@ -55,41 +150,21 @@
    "topic": "Society"
   },
   {
-   "id": "8ee5b068c7",
-   "title": "Pet Shop Boys and Biffy Clyro to headline Tramlines 2027",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BTnpJNkx0eFdvaFZGSFExbXhZUjJuODJDYURPSFJNTm1mNHJjRUZTd3FkYkx4cTI3UXFzcXdFanJrbkhSQ05zMENFSnk2Q0dvSU5VaGgxY0NlRUNtT0E?oc=5",
+   "id": "960dbad303",
+   "title": "Inside the ‘war room’ that lobbied Donald Trump to bring back Nvidia’s Jensen Huang",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWxydFBUdkFaUF9Ec3hwRDhHZEhzLUt2TWdSYXVLaU5KWkhJUUdwZWk0RUxMWjFoeTNZWGk3QnkyVHZwZk1CTEdqVGY1Z3BraUJSd2djdjJ5VHI2bDE5M3RRRmdUMW5pejg3N0o5UXFCSmM2TWRuZ2U3NU5zbXBmOGxmb0o?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-23T23:30:59+00:00",
+   "date": "2026-11-23T22:46:14+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "United States",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇸"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "672f1dffec",
-   "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHEzaFFZSHUwdzN0LS1RbTVLRlF1MFpWblFUV2l1eUtybk9fOHJzNmQzeW8zSi13TEdMWGtYTE9UTFNHbGx4UUZ6Z2UyRlJQUU1kY3hKNmtsV3V1ZkVsWWR3UmxvdDlud0NQa2VRRldnWFQwdV85R0RNZTVKaTJKbko0UV9Qa3FLR0J1S1FNSkZxM01k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-23T23:08:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇺🇦",
-    "also": [
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "bbbb15cf4e",
@@ -109,6 +184,43 @@
    "topic": "Health"
   },
   {
+   "id": "479c66d9b3",
+   "title": "Oti Mabuse announces birth of baby boy in adorable family Instagram post: \"Our hearts feel so full\"",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjRLTFdpSTZoNlpGbGhZQm9WLTlkLXQtWDZ5OFJqZlZKZzNpem55ZjlURWF1NmNhQzdKa29rYlNaQ240OFpNQ3AxamV5a01oYlRBQUhtc25TVGljbmpyZnpKWVduaXgyZjJTczVNbVJpUGJCbV9nQTh1SDgyWmstNHJoN3hHYUMxcU4tQ2Z2NlU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Digital Spy",
+   "region": "GB",
+   "date": "2026-11-23T21:05:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "905a1b90cc",
+   "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxN2I0Ti1TX0syQVRCdi1rZExvSmtpcHlrd1FnM0cwZUFEOVV0S0RxN3lSREhnaDhDNFZCbGUycEhXd1I1WHEwS05hWmlyWGp3RW1GYklkbTZWOEhLUnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-23T21:03:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧 🇲🇲",
+    "also": [
+     "Myanmar"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "577ef8ded9",
    "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2VvLXJGZDFZYWtNRWkwbEhtblRjNTFWRWRlbEE5NjJmZ2pTT1RDZnRwYkpnbEQxc2RXOHZ5SEdFcndfR0ZOalNkOVFlRVBoRWFTblR0WjR6VUNpZ21pQlV2dGZEUzFnVTFvV0RPODJ5UDRvaUtpNWpBZXE0X2k3QTVtalVoZ2JYeU5mQnVCMUZjVnRuNGRvUGRFaTRTTXBUYUZPTFBuTllkbWJQ0gGyAUFVX3lxTE9PblczbUswY09GZnJGTjRHVVlndFlmWVBmNHllNG1pTGtDUXNuTVBiQzcyRi15Sm1TQ2dhQmRsa0JCdmVvc0dUMlZ0eE54dlJyUUlrNUlOTmxFSk92MjBhZHZTSWVKTk5ENW1SbDRHRW1DS3NSUnA2WlNaUjQtVzQwT0h3UExiN21CYjhtVTFzUXBjZnZ4UUFibHdaSmZlMWZzQWx2OEcwazhVbXIteERma1E?oc=5",
@@ -124,44 +236,6 @@
     "flag": "🇮🇷"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "9d911cc0d5",
-   "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRlpROXRSV044RXVOaF82dVp1Y3NpM0FjdGgtcm1EWTRDY3V0REVZckZEbHE2Y2F1VGp5S3NLdk5kUkNrN1lBOW1IQVVnXzN3TXVHTUNVMzJyNkdWWWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-23T20:48:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇱🇾 🇺🇦",
-    "also": [
-     "Libya",
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e7c019ee05",
-   "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHJHZXAxbDcxQ0F4ZUNrc1E4cnFqOGVTRjZ4X2lCcVVoZnU3TWV4YjN4TmRuREN5SzJGTTl2UVF6X250dVY4Y0tCVzU5cjZqOV9kUVpxcVFhYUlwcVJVN05TZHB4WWR5eFhTQ0prejdlTnBkeUVTRUE1MWs5eERwV2ltNmdSV2JfclFCUS1ncXNUeWpOUzZpZW9R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-23T20:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
   },
   {
    "id": "fa1121c809",
@@ -198,58 +272,38 @@
    "topic": "Sports"
   },
   {
-   "id": "db31ae8a88",
-   "title": "Deadly fire at confectionery factory in Indonesia kills 24 as rescuers search for dozens still missing",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRktQNkE1djZDVWRLVDdJb0Y4ZGM4VEFDTjAyZDZ4MDlCQ01vcE9ISmhnNVMwWU1fYy03a3ZBNi1PVFVrdEJTLTZqNy1tbXc3STZZYWxfbWw5RWVZel9tVjg0M010UFNNS3IzeVNON2VIN21PeWJnbVV6THhLaGFVTDZtZUM2aWV4R2JNWVBBaDE3bUNPTWVmcVlhelJxalNmNVRtdWp1VGU5dVF4dWJzRlJUb2ZDcXRVSmhfRTQ4dUVhdUJGWGVUcWlNb0NxLXI1eV9paw?oc=5",
+   "id": "a0b55d6997",
+   "title": "How ITV responded after Mariella Frostrup ‘aggressive’ comment to AJ Odudu",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZENQbDNfX0tzX2lXT0lJRkd1TnVueThfY3VmZHFiUV81Sy1fU1ludlhxUEVvSUlNUFhJaVhzUnZQR0prU3RMZi1Pb2h2MkJJZ2JGZzRyWlZSbGVtN3NTdnZOTDh2X2dDUWhlM0F3SzNuay1GbDZBMFRpcEJ6UWdsUjVqVjU1bFYzUy1BWFUzOVJiTktaOU0tZHRoSlZmbzktV216UQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky News",
+   "source": "The Independent",
    "region": "GB",
-   "date": "2026-11-23T18:13:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Indonesia",
-    "place": "",
-    "flag": "🇮🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1706f6d3cf",
-   "title": "Former Alder Hey doctor whipped woman's bottom with bow tie after staff party",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHk2WUJic3d6Vmh3ZnpORFdUblI5RXFua2FQY3pZbVhaNENSazJuNFpMQWttVkxyQUhJTW4xYWdSSUQ2eFRzbUZhZ01xUE5oTXRFZ3YtZGlvWXIxdUJoVUdvcTVPTGp2ekE3bnE4S192bmJEVkZLSjJORTlCR2NUb0RlZlJKNEZ4UndTbk5uTU1URWlISFlV0gGcAUFVX3lxTE1tT1J5ODNGV3JxYVFOT1hUb1h6VGFkRDM5ekdnTTVYRnlRT2R0OVFiUHJWX3FORnAtMVpWRDRCR0E3Y2xHOWI3MGEtVGF2ZVZwVUIwVXVfVmlNT2xrQUloWkZoS3BrTHh4a0hNWjNhVlpyQXk4YXJaT0pRaS01UDlmbFBrSXFoUDRDQW00dWh5c0pMalVrYWVVOGl5QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Liverpool Echo",
-   "region": "GB",
-   "date": "2026-11-23T18:02:49+00:00",
+   "date": "2026-11-23T18:24:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Health"
+   "topic": "Society"
   },
   {
-   "id": "a5bc72a141",
-   "title": "Russia poised to put nuclear weapon in space within 60 days, Germany warns",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0gyOWNwT3BmU3hyZURMTHdvUHloTjdnOXhXQ1RLVFdRd3JkWjYzd0JOcEtnYU9XMmZMckFqbl9FYk9tb2ZPdGd1SEtoVVJ1Z2w4VjkzRjR2LXZvZDVMai1vOUNYeFdQcXlOaTFIWk9zblhQQWQxN3V5c3JvRkZyMjl3SGQ?oc=5",
+   "id": "1d8c3fd1e3",
+   "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUU1VandISFM4WGl6TmJPc0lwT19RQ0ZBSXVBZXltNXRMYjU1VW1IMUVXbGNmdWVUcFAzRFRkcUx0UThOTUxkd2hlajNUaGszQ3FxNC14YWgxZWdkZ2lFQ0JtU2JpeDdRRjZKYkFIRUFYYTIzbU5jRzJlREFQZEJLalBySnNELTQ3YnBZd2RjS2FGaHdVdDFPVUk2X2c5NzQ0M185M0NaOFhTTjUwcE90QlFrRnlZaVY5RmdLUjBnbzNIa2pLeTAzVUJ2S2pLQUI3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-23T17:37:46+00:00",
+   "date": "2026-11-23T18:20:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Russia",
+    "country": "Turkey",
     "place": "",
-    "flag": "🇷🇺 🇩🇪",
-    "also": [
-     "Germany"
-    ]
+    "flag": "🇹🇷"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "3660ea776e",
@@ -269,31 +323,14 @@
    "topic": "Society"
   },
   {
-   "id": "06f9ded406",
-   "title": "Capita’s pesky civil service pension mandate may be its saving grace",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekxVajJuQjYxdVlWOWF5THZzVHhrdW5sSkI2VWY3alVjMnZwXzJmT3U0NndHczZSTG0xdUNqb1JQQ0Zhbi1hUlNVUVllU3hTaWs4eGtiX2ZsY0NYeXBhaC1GVGNkX0l0Wl9pVzg2NlFRWUlEMl9iSU9qbV9RTm95LVp6NVI?oc=5",
+   "id": "83499af32a",
+   "title": "Burnham says 'unthinkable' for UK to rejoin EU without a referendum",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfTUtKcXg3UmVJLWZOSEZ4N0E4eENYT2dEb2tVd1BtMzI1LTlOdTVKYlRMS2h2Z1BYcHlQZ2pCYTJIY2pJNXNsa3JyUGE5ZGdXWklUOF90MU4?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-23T17:22:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0238e5f9f5",
-   "title": "Strictly star Oti Mabuse welcomes baby boy, saying her family ‘feels complete’",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHFfMGs3TDBOelZQYlBYWlo1Z3ZoSzE0TkwzQkstVi1kbW5vYkRJelNGQzJBcmJtUU9ZSkhhNVAxb2ZzS0FUTGxpcGxPS281bE82dUlYajVtVFVaSUI4T2pFMWZyaVlJTlNWc3lOUzgxcXgwaFA0Nld0SU5Oc1VnRFNwU1UtOHlwdE8xYg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Independent",
-   "region": "GB",
-   "date": "2026-11-23T17:10:00+00:00",
+   "date": "2026-11-23T17:09:15+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -318,40 +355,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "4c59bb52e0",
-   "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdER0R21Bam83d3RfWGJWUDhzWTRVaXlNeGRrR2ZraVB5Z3kyY0hLTEZiNkVzYWx3dkhIVkdwbjllN2w1eExhZFk0UWVkeUI0Y0N3X0dfb2FFU2VyejcxYWRZaTZHd1BNUzJLYzFsSXY0X1hZRkMwNzljUEFxbHFpazNR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-23T16:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "35979abdd6",
-   "title": "Banker paid ex-prince Andrew £750,000 after winning award at his event, court told",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjlhaVBCRUZDbHJUT2s0QTFZY1lOSEpsb2hOTkFmOWdMZ2lieWM5dmRCdW9mYXpuUlp0MG5NTXRQUURhMDNtYmxwZmpyTk5fcmd3UUFNYkNIMUdTbzRaYmQ0SU85MVNhV081SVRuc0tqbTVPU1RDV1E2Yi1pdlBZRVdkRlA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "GB",
-   "date": "2026-11-23T16:36:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
   },
   {
    "id": "0e160cfe5d",
@@ -405,57 +408,6 @@
    "topic": "Society"
   },
   {
-   "id": "9508766769",
-   "title": "ITV Statement On AJ Odudu, Mariella Frostrup 'I'm A Celeb' Incident",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVE0VEpsbXRhTjVXT3l3cUp3S0FGek9GdmVPNngyV0hTQnBURDdGMGlFbFRTSkR1bWtmelVudGtQQnNPc1BuaVdyTVBTQmd1Y1dtX0M4ODVaZENyUHlzbTdjbzVsNjB4eVpCVnBlX25JaEpuZkRlZDNsblJrcDhsblQtMElGS1ppb3J2TU92d2E5NDNabHJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Deadline",
-   "region": "GB",
-   "date": "2026-11-23T15:08:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d653f46405",
-   "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbmxZLVFWSnFCeGNZamk5X2hieHY0WmVqRHFJempBejNnTXBuX3NnUUFUQUlxY1Utb1BjV3hOeTBZLWpkOWwxTnZqdVROcUR0ZUVLV3lZLVBadExOSk1J?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Eurogamer.net",
-   "region": "GB",
-   "date": "2026-11-23T14:58:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3e6c429734",
-   "title": "Concertgoers criticise ‘atrocious’ lack of security at Manchester Co-op Live gig",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN0M2SmJ3bVo3QUQ4Nmc3a0RpdzljVFlqUjhHVkxJYnRma1JVM2RVTHNqSDBaalN6eGJLaER2bnFmR2t6Z083T2Zma0VjQl9mMUFsUUtJeDRha09Ma2VRekI5V1NqLWxDS1d1eU9OTDA3UGVYU3B4ZEo0amJJalhVeXVWY3NMZV9hWFBhZGhJZjAyMlVGLTlGWlBDODJLYldyODlNUHBld3dmUGs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-23T13:43:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "0961a7ad0a",
    "title": "Killer female apes challenge ‘man the hunter’ theory",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUNWaElxNndWdFgwajlpQTlESzh0VWZya3BQRDBHV3lmQTJpN1N4ZU1aRzBYeWdTMDRiTS1DUzNsUFlrWVlKSmtaZUhpQW12c3ZraVQyRHpVdnEwcUxIWEl1bWxGVklMMkMtYUFLeU00ZjZlYUtfNEdUNVhKaGJVbFExSTY3MVJSa0FnOVF4YmJBaElMSHVYMEJB?oc=5",
@@ -464,6 +416,40 @@
    "source": "The Times",
    "region": "GB",
    "date": "2026-11-23T13:36:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cccd89e2bd",
+   "title": "Two men admit sex offences against Stockport woman drugged and raped by husband",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZcEg4Q3BFVW4yRU53MXF6d1lWX0l0TjVTUE9lSk90QzJGQ2o5cHNPY0Q0aXlKT0IzTzFOTHZ4YndCdUg0ZjJyR2o0Z0ozQjN6UndCMW43TzgzS2Q5aXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-23T13:35:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0503d1c46d",
+   "title": "'People were screaming in pain' during Co-op Live evacuation",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iUlJ1NEk0VHA2QXNhS3BTNEZhU0wtbEZmbmxXd1l6bDhHUnJBcmNDSGRyWE9Ga3BGSTJHN3pLMVJkU2NCWUNuME5qZnBQZ0ZQaXpkVHE0UzlWdkNHeXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-23T12:56:44+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -507,21 +493,38 @@
    "topic": "Society"
   },
   {
-   "id": "293f028cbd",
-   "title": "Government’s £100 winter energy handout will be wiped out in under TWO WEEKS by brutal 26% price hike",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM1MxM18tUkJubDdITFVma3I3dW1PNmpXMEppNWVIaUkyMmtvZnpyR2l3bktUT2JKc2E4X200UE9EcFdlQ2lMUWdZanprS1pEU2xmemRtQ1hHLXBDdjRGR3ExMmZHcjdheFhDdU9HM2tUUUpzcUxka2N6LU1NeFRjbmJYNHJ5dXJYaGVyeFlmQQ?oc=5",
+   "id": "3695da3461",
+   "title": "Center Parcs at ‘tipping point where you can’t pass costs onto customers’",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVlM0QzUxekRyMU90R3BVb0hmaGdoU3dXWkNnU1ZnUVhSXzV5ZUpjLUxwM196amtTYlJNY2hPYUU2UW9zR3ljeVJadTJ6dTBrSjFycHRLS1JsRjNJTnFxSGdCMjBxWFV6Z21TemJ5aE5Ib3R6bEtYMUNOLUE5NmFpSGNnTTh1MmhfVW5id2RYTHBXc2NQdlViRXR0SjQtV3J3QXFacGVBZUpXOFlEc0J3QXUxWnNfMm43U3l2djFOXzh3bFRmZi0xZVRwSUQ5clQ0cU9fVTNTYw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Sun",
+   "source": "Belfast Telegraph",
    "region": "GB",
-   "date": "2026-11-23T12:07:00+00:00",
+   "date": "2026-11-23T11:59:15+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Politics"
+   "topic": "Society"
+  },
+  {
+   "id": "c96b2d584f",
+   "title": "Martin Property Group makes last-gasp pitch to seal Poundland rescue",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTYtMjg3dW9aY1RSNjRubUZUa1JudTNwaDZyTWUyQXJ6MWplNUc0S2Q2dzhZMktFN0NsU0hVVTNkQXdlRDJWdVAwa09vZThIRGpSckhYTmpMaWZ0TDhuVkhnZGNGOHN5eEZET0dUT24zdUoxWWdDd3V4c3dPaF9qdlozbmJDOGhnYjZzY0x5ZTZrV1VsdkExZWZ6RFF6SmlKdXRnVHlmWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-23T11:56:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "16cdcde8b3",

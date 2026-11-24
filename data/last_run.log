@@ -1,68 +1,65 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 27/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 84 stories
+OK   Ada Derana: 81 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
+OK   EconomyNext: 25 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 18 stories
-OK   Daily News: 61 stories
-OK   Sunday Times: 1 stories
+OK   Newsfirst: 19 stories
+OK   Daily News: 59 stories
+OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 1 stories
+FAIL Ceylon Today: HTTP Error 429: Too Many Requests
 OK   Google Warnings LK: 4 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 34 stories
+OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 89 stories
+OK   AP News: 96 stories
 
-Biggest stories right now: Jensen Huang reinstated as Nvidia CEO after T (10 outlets) | What strike on Russian ship in Libya says abo (9 outlets) | Russian warship hit by Ukrainian drones in Li (7 outlets) | Indonesia factory fire kills 24 as rescuers s (7 outlets) | Lankan wins gold in 140kg category at Powerli (6 outlets)
+Biggest stories right now: How Nvidia is reacting to Jensen Huang's retu (11 outlets) | What strike on Russian ship in Libya says abo (9 outlets) | Indonesia factory fire kills 24 as rescuers s (6 outlets) | Colombo-Kandy Road at Kadugannawa reopened (5 outlets) | Lankan wins gold in 140kg category at Powerli (5 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily FT [1 outlets]: From monsoon to management: Colombo’s heavy weather and building a flo
+* ABC7 New York [1 outlets]: Thanksgiving storm 2026: Rain, gusty wind could hit NYC and the Tri-St
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* ESPN [2 outlets]: Trevor Lawrence, Liam Coen share the blame for the Jaguars' loss to th
-    important (also on AP News) - researching
+* ABC7 Bay Area [1 outlets]: Live storm updates: King tide flooding begins in Bay Area, causing roa
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* NBC Sports Bay Area & California [2 outlets]: 49ers QB Brock Purdy reveals Kyle Shanahan's advice for facing Vikings
-    important (also on AP News) - researching
+* Hiru News [2 outlets]: Nearly half of women who experience partner sexual violence in Sri Lan
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [2 outlets]: Sri Lanka confident of securing RCEP membership, Foreign Minister tell
-    important (also on Daily Mirror) - researching
+* EconomyNext [1 outlets]: Sri Lanka’s Bank of Ceylon to list 13-pct debentures
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [3 outlets]: Turkish police hunting for lioness stalking Istanbul
-    important (also on AP News, The Island) - researching
+* Newsfirst [1 outlets]: Unutilized Mahaweli Lands to Be Taken Back by Government
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, The Island
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The claim that 'Search teams and veterinarians will continue scanning the Belgrade Forest area using drones and thermal cameras to capture the lioness alive' is not clearly stated in the article; it o
+    article too short for cards
+* Al Jazeera [3 outlets]: Mamdani blasts AI-reliant stock market after Jensen Huang’s return
+    important (also on BBC World, WSJ) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, BBC World
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -71,18 +68,20 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
+    attempt 1 rejected: the name/word 'AI-linked' is not in the article; the name/word 'Donald' is not in the article; the name/word 'NYC' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 2 rejected: what_happened combines drones and thermal cameras incorrectly; article says drones for personnel and thermal cameras for specialist teams.; blurb says '70 personnel' instead of 'more than 70 personnel
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 rejected: The cards say 'artificial intelligence stocks' instead of the article's 'artificial intelligence linked stocks'.; The details claim 'The articles said the shares rose more than 30%', but only the Al J
     -> no cards; posting with the site's own summary
-* AP News [2 outlets]: Federal appeals court gives President Donald Trump a path to erasing h
-    important (also on The Hill) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
+* The Guardian [3 outlets]: China sentences official to death for spying for foreign country
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -90,12 +89,17 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: AI did not reply with JSON: '{\n  "topic": "Sports",\n  "country": "United States",\n  "place": "Las Vegas, USA",\n  "what_happened": "Sri Lankan powerlifter Ransilu Jayathilake won the gold medal in the 140 kg weight category at the'
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -104,18 +108,18 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: the name/word 'CFO' is not in the article; the name/word 'U-turned' is not in the article
-    attempt 2 rejected: details[3] states chips 'were smuggled to China' as fact, but the article says they 'might have been smuggled'; what_happened states lawmakers fear chips 'were smuggled to China,' but the article says
+    attempt 2 failed: AI did not reply with JSON: ''
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 2
+  photos: looked up 24, found 0
   photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 9 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 51 story pages for Google)
 
-Countries: IN 36, PK 34, BD 36, US 36, GB 38, IE 0 (FAIL), CA 37, AU 37, NZ 34, SG 31, MY 35, PH 29, AE 36, IL 32, NG 31, KE 30, ZA 28, GH 29, FR 33, DE 34, JP 7, IT 34, ES 31, BR 32
+Countries: IN 0 (FAIL), PK 30, BD 0 (FAIL), US 36, GB 38, IE 36, CA 0 (FAIL), AU 0 (FAIL), NZ 33, SG 0 (FAIL), MY 35, PH 28, AE 36, IL 0 (FAIL), NG 0 (FAIL), KE 29, ZA 28, GH 29, FR 33, DE 34, JP 7, IT 34, ES 0 (FAIL), BR 34
