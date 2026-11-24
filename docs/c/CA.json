@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:59:24.160360+00:00",
+ "updated": "2026-11-24T17:54:28.094052+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
@@ -12,23 +12,6 @@
    "source": "Universe Today",
    "region": "CA",
    "date": "2026-11-24T16:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2506d6427a",
-   "title": "Measles cases in Vermont rise to 13",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWNwMy0wUTR3MEgzckRXNk5PNm81dGtFNllLREJESjI2YmJWcWVRMjF6QnAyY0ZwVEFEdlpHOGJYQmNwRk1sNjBpcUJGaUZsX2R5dGI0VnNnd1Q3V0ZiNzRlOEU3aUlMajFvQUdkbTQwUVk1RDhiUjdOZ0lkQzQwTUprSk4xelNo?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vermont Public",
-   "region": "CA",
-   "date": "2026-11-24T16:09:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -55,8 +38,25 @@
    "topic": "Society"
   },
   {
+   "id": "262260f3ec",
+   "title": "US loses its status as measles-free, and other health stories",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUHNqVUFmTVMxaTlFWDkzZnNoaDNRazlfWE5jVjdVcWV1UmlwU0V4TXFET2FzQ2NqajlSc01BRkhjanJSeEhjc0lHQXRXOFBZNmZBMlE1ZWtYbDJhby1nVGR5YlA5OGxrUHVpZnN1UXItTFFPOFRSZDNMd2R2N3Eydlo1LTNuNmNmVnhBR2xiWkM0eUpSUGJUOWJVR0dWR0tTWWlZWlZKWk1oUnVRV0o5UGw5LURKeHVWUmhn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "World Economic Forum",
+   "region": "CA",
+   "date": "2026-11-24T15:44:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "8938b231c7",
-   "title": "3 people have contracted bird flu in the U.S., and one has died: WHO | CBC News",
+   "title": "3 human cases of avian flu confirmed in Washington state, including a death: WHO",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wYW5PNG05S29VMEtZT3BaMFdGT1NhYlhNMjhuYlJiTjZ2RXpyX1M1R3hUZXZ3Q09NWE81WGJ0ZzdkUG5MYjNjZGlVbzl1RlFDRmZuSmdndEdPQW1NWjFEMVVzSUF5YUZaSTA1a0t3ZFl3NGNpdTNsYS1WN2d3QQ?oc=5",
    "summary": "",
    "image": "",
@@ -72,14 +72,48 @@
    "topic": "Society"
   },
   {
-   "id": "a45da4cecc",
-   "title": "Endemic Again: What the Loss of Measles Elimination Means for Infection Preventionists",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTQyNUtYTlpBelhTOWpvY3RVTkExS2tYR0RwRGRkNTR5SFg4VDNEOTlXczFycU9aaVB2NjZaQ2lRT2FxaEI0LS1fdjBkUmE1bkU0Y0NCMDg1Q2c1UjdSMFNOOURoM0c1S2dZX3ZITFk3R2Z3eFplWnloZWxQUC1FajZOcHJHbk55emZQWGNyT0FyQUs5RjkyZ3g2WVc3TVNSRzNZd1lDVzBEdmNrV2lueGc2MHBZYVVL?oc=5",
+   "id": "ca96999272",
+   "title": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMDF5OTVFajBTdjNHSUlwV2VyVlJ2TU5UVEZQSU02NFNqam5IWlVHTjZWOGhKVTJWQXVjajlIR3RXWFJkblhpSkNGU21aYy00ajhuZXUtcmNEWFhLcWRLeUVVZUpsVDZsZ3F3dlYteGZfck5sNXNERDdVOVZDbzNyc1VaNlRNUXVzTFVEWUVIdzdQdDFXY1IxWTZlSVdoWFRmSWNjdTliWnpzTEp6aDBqSERUX1FSN1plREl5Mkt4TTdFUXYxb0dsT0RSQi00ZjlBVm1mS0FxbWM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Infection Control Today",
+   "source": "Castanet",
    "region": "CA",
-   "date": "2026-11-24T14:51:38+00:00",
+   "date": "2026-11-24T15:20:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c251ef7f5d",
+   "title": "New Canadien Dylan Larkin, wife excited to immerse themselves in Montreal culture",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb0R5dHd5a2FoRnFSb2ZoYkJhMG9EWDBPYXdGT1dwenV3d1BjWUhIUFd5OGZvTERTTXVVSkV6Q1RXc3R5TlRWWmgycVBENGVLaXRvTFZPZmltYmZmNm5laWRzNGRZc3ZQamxmeDVsRG9tbnQ3Ym02TVB0VFJrQ0NUYkNrdXFrY0lUMGN5RXVFa2sxa09odTAyWERBOTBVSW14c1JmeW9ERDRpU3JoNTZXWFlwUjdVbmM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Montreal Gazette",
+   "region": "CA",
+   "date": "2026-11-24T15:03:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0d01737925",
+   "title": "U2 announces 2027 shows in Toronto, Vancouver as part of world tour",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMnJsYzZGTEZhMllCWWIyUENjem1QeDd5RXU3WFVRbEp2UmdfMzdReWNhVzdwaVBmZ281ZjBSVWdUdXpXZ1I0Q0ctNlpuY2FqTnNlTC1oTWhDa0hUWTJ0T1dvaFRuRzVyZWlHV2pYTVN5b3J3TnV0MVBGR24tRWltLURTSFBKUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-24T15:00:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -106,14 +140,31 @@
    "topic": "Society"
   },
   {
-   "id": "609dc6fcb0",
-   "title": "Space Lasers Are Fast, But Clouds Still Rule the Forecast",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmU5VE5HdXZIUWJNUXBlSnVaV0drbFRyeVFvSmRYSzUySWlrMjctNjV3YXN4SWp5emhsTnMteHF0Rk9VNm1iU243eXRRMm9XQWk1anh3bWlMWTkwend1MjBic1o5Umt6S1NtZ25hOEZYbHZ0ZWJoSVNpZEZpY21ibkhXU19tdHJtaTNDR3NVbUdJX1djSlo4NERsSQ?oc=5",
+   "id": "80684987d9",
+   "title": "After Getting His Job Back, Jensen Huang Used a Troubling 2-Word Phrase. It’s a Lesson for Every Leader",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSW5NNHNlN3hiMXJsdko4QmhfaXh3S0t2VV82V2R5QnJOaDI1LWJ2Y3lXc2ZfdW9XQjUwRUNNWG1TMlVnMU1NQmdVS1l4eVBEdDBsUHd2SVRtY2IySGd2LWROR2hFRVFDYXM5clQzRjhTTWs5VHV6cDJQSElxUGxtbldDTnNzVHoyY2ZIbkcteTBfSXhaMURGYXpRYWxKQWFRVWFMV3lOTDZsOTlfTW1XckZsc1RVVUJwWDlKT19Ic3B6SExsLWtJcUQzRG5IZ0U?oc=5",
    "summary": "",
    "image": "",
-   "source": "Universe Today",
+   "source": "Inc.com",
    "region": "CA",
-   "date": "2026-11-24T14:02:00+00:00",
+   "date": "2026-11-24T13:17:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "872842adeb",
+   "title": "McKenna's clutch winner helps Maple Leafs end skid",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdlBDMkVwREN3QS1RSnVVcWd3ZXA2Y3lEQnRuR3o2TXR1ODlObXhreVl5ZTNJMEt5emtXOG5CN3lCejVLenVRaWVVcFc3dzhSdFF5cW9QUXlCWFZ1RUo2OWFsY2wzMXBHQjZoR0k5aUdXcG9mUl9ISnhyY2NBcVcwZm1xOTVhWWl5a0k3YTdsWVo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-24T13:13:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -157,26 +208,6 @@
    "topic": "Society"
   },
   {
-   "id": "309d56b5a2",
-   "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1M4aVFTYm8wQUVFVnZORlp4X0psUWZrTE1NYWdrSkpXSEphSDNBZmw4ZlVRNDJqODdHWXFtRV9manBUeFFIeTB4VVNPbE8wUmRfeXMxclE2dGdwZWgydEhqQV95azhEaWRyU0VqUjgtUzcydU04bmFtQVFDTjVvQ01FMlRDN0RNSDFXZU5QeVRFTHZ10gGaAUFVX3lxTE9GamxQamdqZWQ0T0dUZ1VMOS1tRnBhaDFiMUtWTWNMZVJoeVh2dl83Y1h4amxzNFF3SUZ4WFNxMkdKVlpQeEpDa2RzU1dIZEs4M045d2FHdnZuX0JXdnRhVU5SWlRWWVNOZFJrVExUeXpET1NuUEVXTzhYT2dWdklGWW5jTldVQU9iSkprSTF6anNIQ2FwVTFZamc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "CA",
-   "date": "2026-11-24T12:57:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇺🇦",
-    "also": [
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "579aa03075",
    "title": "Now you’re cooking",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05TGtoVG1mMEFMQUtucldIYmNJZHJ0M1Z0MmxIMHdiMjdhS1FSTG1fYzFoMXZUajZWQ0FCTjFSV0NWYl9XdVhZT0FKSDlWZzhWdjdNMkxDOUpxMnZZbE1VMXF3?oc=5",
@@ -211,21 +242,59 @@
    "topic": "Society"
   },
   {
-   "id": "4830b99045",
-   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1htVDk2anJoMm9ITld4WndhUTNSMXAwVXA1X0c0SFIzajFNb0o2RzRNZjdWNEtfdkVKM1FxSDMyM0UtbllWNEdUbEtSZnNJX1V6N2ZCQmlrT3hKUG1CNzR5dlV0dDZXTEJ6U2Q4NURSNVpqQUVIMlkzWlQ2LU54dldEUVpxWTZQZTZOS1lXY2l3RXVXM1F5dkNFMWh4UjVrMEZqMFVUeS1zUTRQa3NBNE9KdnhnNG1tUzRrVW1kRG9pUlAxMEJvQjJoNnA4UQ?oc=5",
+   "id": "6bb43e9220",
+   "title": "OpenAI Scales Git for Coding Agents with Pando",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aZEl1emlmTzJ0QmRJbl8wNGdtM2pvRmE4MkZWYi1EbTdIYmlueWlTUWRQSEFycjQydlVSclZGU3ljU2FCQkpkZXZRbVpqWDc4MzAtWkNiclh2b3JnLUUya21B?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "infoq.com",
    "region": "CA",
-   "date": "2026-11-24T11:20:00+00:00",
+   "date": "2026-11-24T11:55:21+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Canada",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇨🇦"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "cf780456c4",
+   "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSk85RXFLazAzd0N4clEzTXBnaVhFVUF4VG9MRlFfSHVuLW02RFNlaENvQzM5OVF1a0FrUEdQUk1PU0dRbUZEbjhqSHpULUJtdzRBTWlubm9ZTWpFYklDZ2VxdXlBR2lfMVlmZ2xQaGt1aC1Tdlo4RTVXUmFBdzRhLUxvNmY2S3hvSW05SjN1aW9jV1A4SXMxaEpuNU1BcURXbnRHVURJM1c0V1dsQVg5aTZaRdIBuAFBVV95cUxOWnc3X1o3VExtU3dOaTMxb0F4MERlaWhhSVoydVdJM1FoN2xDOFMxSHBPa1MzeEcxN29KSlMtaTI0N3NwSnpGVnZ6WFlZR1JWSEZxUEd4dEpwN0I5bzFLNVhjaWo2ZkhaRkwwcml4RDFLdlp1YWJfeFlWU0p1aE5wVHBvb3dOTEdWRzdIOEVnV0JWY1lYdndzSkpZRlNELU5ORmJiczVPSy10SENrcC10Y0dfRmJtRXBZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "CA",
+   "date": "2026-11-24T11:35:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇱🇾 🇺🇦",
+    "also": [
+     "Libya",
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e1848bd029",
+   "title": "Health Canada seizes peptides from Toronto shop, warns of health risks of unregulated market",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjhMUXpjaUp4OWRSMGZVM0RKLXpYLUFyM0tseFZEZnFrU3o2THJ2SDZJVGRFcWxSUU1QYWJoeGdTWVVVYko2R0RXQTh3UGtGOU1QYjRIMmlmYXdXQUhrbTU2c2FlbmdteWNVNEFBczVfNU9NTE9lX3EyNGd1bWZ4UGFLaXQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-24T11:26:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Health"
   },
   {
    "id": "c084fb323b",
@@ -279,57 +348,6 @@
    "topic": "Society"
   },
   {
-   "id": "323c20d7a4",
-   "title": "Larkin leaves Canadiens debut 'excited' despite loss to Kings",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGhERER0VkNWT0ViQTRBa3NwSHAwcVYtNHJrUllyckRoamk3WXB1dDBJSW0tTzRnS1p1UnNXcXF0cmJYYlEtTExqVUpjVVlzNE1tSVBqekE1OWVEYU95Vm5zVHdqNEVoM3B0czl0RUxfRU8ycUJlcVdPdHRyS2F6UFpGS3M1N3FqMGlxTlFjbzRMZUYyZnBqNlJPbzAwdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sportsnet.ca",
-   "region": "CA",
-   "date": "2026-11-24T05:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5d0a3b6c1b",
-   "title": "Billy Ray Cyrus Shares Snapshots From Miley's Wedding: 'Beautiful' to See Family 'United by Love'",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzFpaFBneDlyVVpOMGlmUkwxLXVhdm5JdnotamF3dVZwRTI0SWRrbEt5M2RjOEFHMjBuWGo3Z2NXLUs1aU1tZkJIdm9JdWpjWU40Y3pxa3NNa3JDaTRZMUU2dHlYWVpGVEhrSU4xcDh6dUxEa3AzdXVtS2VBTmlORXZLd29iVlphX1ZYdk5ITnFCblZUZVR5QUF6RjRSM3Q1LUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Rolling Stone",
-   "region": "CA",
-   "date": "2026-11-24T05:36:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "4a1c4e9aa0",
-   "title": "Gavin McKenna scores go-ahead goal as Maple Leafs win for first time in November",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXVROUNWeFllSXgyN1Ztd1VZVVBDX0VsY2pucS1BNFFqTnNxbEY0TEtjeUFjRGdhLTg1RGZCYWxQZFNJSlE4eWN1UlgwQWJCc1Q5b0xBaVZYRVJuM3BXeENkSkpVc3AwOXFSalhkLXA0enYtQTV2SldVWDM0VTJlY3RGZkFteXg0SFdLcnNCVUVOWmJhTGY3dDdiazFZcE5SbmVWUmlKSURVZTg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN",
-   "region": "CA",
-   "date": "2026-11-24T05:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "6ebeee2188",
    "title": "Jets steal Mammoth victory",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDRuMVZSbV9OSUQ0MV8xTEVxZzQ4RF9YbEwtbDF4OVByRFlfYXczTEtOQkxjNTkyamZPQlY4NzVvbzZKQWd0WHotd25rTndkWkdtVG5DVER0VEtwYy10ODJpT1dQRERvMWNZSjlUVGx2Tl9HMGdhSlhZU0lJaURUdWlsMVhxSGMzSG1LWg?oc=5",
@@ -355,40 +373,6 @@
    "source": "TSN",
    "region": "CA",
    "date": "2026-11-24T04:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "218ba82ff8",
-   "title": "Do you prefer cannabis to alcohol or cigarettes?",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTk4eFBGV1VzMUNrX1JOdGJ6WFlQNlpsMnZCM3J3ekRMSXhYWTNsYnhyLS12LTU0MW9YZ3ZXTkxQLVRzX1czTkZyMENSeUpXLWhqbkhXcVlRRWg0SDdUSHN5REtyUWMwQ1BhZmVzYnVfSzNaTXVNUG53VURCVzBOdWoxUjc4TWZfZE1SQlY0Q0hlc183?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Castanet",
-   "region": "CA",
-   "date": "2026-11-24T03:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "470d70c2a0",
-   "title": "PM Carney reads and runs in Press Gallery Dinner appearance, upsets Conservatives",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXR3ZEE3aDlBRUxpTU5lSDB4YVQ0VjkxYTFnOU5nbTBheTVUeTFPYk1VbURqOWM2bkZMc2dRRk5EUDBlSWRoZUh1d3pCUzNuZTZidkl3WHA4UWZqLTV0ajVNcFJJVGlTS2ZCWWsxb09kWjJibE83blhGUUJDLWJhbW93eXFOTWludFhCUjdYV1RjNnJ3VUdybzlUdEJzYTZKV1dQeXZ3WEYzRVN5ZHNsSV9QbzB1VTQxOFVHbHZR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CTV News",
-   "region": "CA",
-   "date": "2026-11-24T02:42:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -523,21 +507,55 @@
    "topic": "Society"
   },
   {
-   "id": "1d28e110be",
-   "title": "Braid: Farkas fights off big-spender image from proposed city budget",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWE9QMnowMFJ3U0pVUVJFUWRxMldXTzhaekNGNF9jVlpuNTJwdHhDLXdUeGQ5TUlCRGxhVm1ybHJtTmtDWVUxU2dqcmw5U0ZNYldWNUZrbnRHRERrT1VUUEljbnN2c3hweldKY3VjN3lfWmJLVnVTRDZFaV9FTW5xZ3lkdUdndkpzanMtM1g1ZWVzaE1DVkNDSHBWa2xlTVRsOW44dmdSa2hTMDg?oc=5",
+   "id": "3504202335",
+   "title": "Canadians under 50 use more cannabis than alcohol, study finds",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlFfTnpYV1FsdTAxRHdYUHBPQWdlV253Q1NyVEhVVDVXN0pfQTZUekNJeFNmNm5jOGFoNzNOTXNKbTIzekVGdXlQZkttOWpMQng1S3E3QW9kSHpyZ190SnBoNVMtazlyQ1NLcVg3MWluZU5OR2hXWWRuTm9sVG1uZFFEd3hnMzJVeVBaRHhMV28?oc=5",
    "summary": "",
    "image": "",
-   "source": "Calgary Herald",
+   "source": "McMaster News",
    "region": "CA",
-   "date": "2026-11-23T20:21:47+00:00",
+   "date": "2026-11-23T20:22:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Economy"
+   "topic": "Society"
+  },
+  {
+   "id": "b4bd47ca6f",
+   "title": "NASA Image of the Day Captures Cancer Cells in Microgravity Aboard the ISS",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeDVWVUtSa1Ntc3NXWFRNT0FNMHdFVm5WUTNDcVI2X2F3ajZVOEp0UG1xZUMtc3k3SmRiSjlQYmFSTHJHY0JYMy1RQnUxZFkxenBPQ2dSR21fT2hMQU5kM1A4MDI1TnJmNHBxbEpiNlpPQmcwYTBKM3ByNUoxcEI3OU5pbzNvMG1zaS1XMEg4Mk4zZTFtRUVNeG5NUjBQT3Fsb2kwcTlhT21RcVRp?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "PetaPixel",
+   "region": "CA",
+   "date": "2026-11-23T20:14:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cb3e6c4d08",
+   "title": "Defence Department tops up cadet program after outrage over cancelled activities",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52a1owVlktMl9mUkhKMi1Sb2xnY2J0aUE4ajBmcGtqSWZUclFkbm10YlBCb2JwRkswUWU3b0EzT2hZRmlJNVZDR2VUdTVYNVQ2SDVILUdVbUZPdFlpVjFvVlZjQmFzV2hHVlRNSVF0djVSZ2Vod0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-23T20:06:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "7be1c24cb7",
@@ -548,23 +566,6 @@
    "source": "CBC",
    "region": "CA",
    "date": "2026-11-23T18:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d0569ac5f0",
-   "title": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rcXRTV0tnWWZWUENuSGktT0JHcGlBSW13NE5ObTRPXzR6RHlvMEFWZ2JxbW5QcjJvR3hmSG1MQUN1NUVxNF9nOVhNS2RndTBfY3pXemZYUE5CSklLaWdBRVBqR3VBbklZeU40aGZoUjJRdm5DV1lF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "infoq.com",
-   "region": "CA",
-   "date": "2026-11-23T18:03:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -591,6 +592,23 @@
    "topic": "Politics"
   },
   {
+   "id": "62c3083f5d",
+   "title": "‘Focker In-Law’: Rotten Tomatoes Critics Splatter ‘Meet The Parents’ Sequel",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblZTbUpaNUVyWnNqcVhBY1hVSGhrUUlYN0w0dDFDOVgydUVZS2pqNjc3ckRwVHlOUHd1TUljeVpGZEdtaHpqMWx2TW9DOEFyQ05wTXBrVnpJWmRWWW1VaFNHUWJVZnVRZ3dxNW05M3VMaG1La3RiTmlFVFQySm40dkhuRVZOXzU2UThVMXIzc0RUX18yN1ljV0xVdUZ2QVQ0bnhpVXJRdWVxUW5aV3lPcVY5UTcxdTZ4UnlObnJmaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Forbes",
+   "region": "CA",
+   "date": "2026-11-23T17:31:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e3a0647d5f",
    "title": "Deadly rabbit disease outbreak sweeps through snowshoe hares in Alberta",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbDVqVDZQY0x3OXVnck9SbllFZThmZ1ZGT2JDZVFxNk9qZ2w1ZmdfQUFNT1FTbUdJS1JzZTUwWmliX0tORDJwbkNEaGM4bUcxclZsMFBodmF5bWo2MlFCcW5DQTVIQm5jWjR1eWkya0ZYRkl4eVhVcWphS2VXSE5UdnlyaXg?oc=5",
@@ -608,19 +626,19 @@
    "topic": "Health"
   },
   {
-   "id": "92c131bbd3",
-   "title": "COP31: What next after UN climate talks collapse",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQU1FZW9UMlRxREp1Ri1LTVBKaWxDWm04YjJEYjBpbE9HQmNSck1VekprWWZXQVpBNTY5enl6czR0c2RpMXVEVm9qb25WSnBjT2lYdnkybHlRYk5naTlZOWZGT2lyVkR2U1JTNVZnbm05WDh2MTFwcUJuTTdKVUpPd05RTjZxaEJFcFVFeWYyTGw1V1nSAZgBQVVfeXFMUDhCVnUtdHgtdzhrTmlOTDY0c1I0N0Z6Zk55WV92U2FiVHpaWEV6LVJveEJSb2tWRUszQUpIeVpJVVlYb2UxUWpWNUtqWkN4ZFpqNTF2WDhYOXlXS3FpQUFWUm5KT2VESHFRbHU1WDl1UVAyNHoxTUR4SXNWaGhpSUF6ZDNjUFJab25XTk10cVlJWWxTM2dsbTg?oc=5",
+   "id": "4caea2f832",
+   "title": "COP flop triggers backlash in Australia; Pacific nations express despair",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVndpTWVxWkV6LXR6Z2JkNENyN2NiVW1ia1pIY0pxX2hYaE8zR1RPV3FieTZWZTNuXzRPS2hxN3hZeE51WHNQMkdOWlZ0ejBuUHJGdlEyTTR4RE1DeDM1VGc3Vm5OX3VqTTN0eEdJWEpwS0ZramxkT1RheGhvMF9vdUpGN2s4M3JaU0RZckVncE5YS2FBT3hlc3ZTcU00UW5CeVpaT1VtM1llZ0NNZWFTZTNVV3V1Rm81akxNUVUtZWk?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Reuters",
    "region": "CA",
-   "date": "2026-11-23T11:22:24+00:00",
+   "date": "2026-11-23T06:12:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "Australia",
     "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇦🇺"
    },
    "topic": "Society"
   }
