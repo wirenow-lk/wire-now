@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-24T22:52:27.140636+00:00",
+ "updated": "2026-11-24T23:44:21.315223+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
+  {
+   "id": "f957ac98ef",
+   "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFRGQWFGeUlESnFzbjc2a3VGeVVsMFNUd2hVZmRwMU1EdDlHX0Q1cDdTTkVudTEzbE52aWh0aFdRNnFfWmEtbG1sblF4NFBmNzZHUkQ3VE9vNHh3YXU1OW9vTTZlVDlHUkEzRFRvbHI2WXBVOVdkZlB6Zl9nRGZ6bC1SYW54N2xpMFZfM1p0bnowOVppU284QzJJRUN0R3hUaVpEdEtaY2g?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ars Technica",
+   "region": "IE",
+   "date": "2026-11-24T22:50:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Tech"
+  },
   {
    "id": "27b471ec23",
    "title": "Irish man identified as murderer of Canadian girl in 1968",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-24T21:33:45+00:00",
+   "date": "2026-11-24T21:34:39+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -41,6 +58,23 @@
    "topic": "Society"
   },
   {
+   "id": "3058a10e54",
+   "title": "What’s the story with plug-in solar panels? Are we all getting one?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlV0Q1gxUlFtbk9JTlZ4NFpHRnJoTUI2aUttTzRIeENLWUFyb0lWbk93TUZPajRWVGRPdnpVZ1F5UTBFRzJlb0xaUGlKR3h0RkNRWWZyYUxiX2cyWk54Z2h2SFZ5NkZqWHlHb2h2aDRrV1Riel9xeVRlaFdrTnpmdmJoeUdXZ1dST3Iwc2dURGx0UkJ1S0xRUUFobEtBdG9Fa3JDTXl1cllaSGprWjdhRA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-24T21:09:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "ee44a50534",
    "title": "Fair City on Thursday: 'We don't have a spot for you...'",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWNqM05ZQnBwcGUwZXNwT1E2anBtRzIzVGNESzNtN21tTm1XekpmRlZMYXZjMGY0ZEVZa3hZRmZsYzl2S2hod2RROHhxUXFMeEw5a3JNRDB3NmJwanAtem9VYlhQWlR2bkc0QXVMS21NMlZ3RDFQUVNnZGg0ZXRfTWFGZ2xZQmhPd0k2VEVzcU51djhNdmlLYm9vdnc4UXVoMWRv?oc=5",
@@ -58,9 +92,80 @@
    "topic": "Society"
   },
   {
+   "id": "c00b03b3ab",
+   "title": "Catherine Connolly says she will put aside 25% of salary for ‘different projects’",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzY3a1lWZUVraHA5N0hDOEJfZFlla0tlZmJsQ0tkYW9fc3U5T00yaENBR3E5VUVYQmFvdk5aaGNlalhHRG5EMFRRLV9tOUNNMHRwbDBOaTY5YVh5VTlNVVhMcU9FNU5TWXlvUWRSY3Fmd3d4QzJxejdWR1ZZaC1VRVJFQTZ2ZkUwMFYwZG5LWEZUR1JTM0RDVWtKQWZhN3kyRTVQTkRva1NIMnFBaTh0TTAwVDdqLU9mSEhYT2N5WUlBSDRk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-24T20:15:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ee4582a2ec",
+   "title": "Ireland captain Dan Sheehan to miss Nations Championship finale after two-game ban for red card against South Africa",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQLXVCV2h3QjdnS0pWVW5WMVVkZ25zY0F3bjQwLUYyNFhOSnBEQVZScy1lYVppUVVDcmVjaTl2dkQ5N3lKVlFGRUJNdjFjMEFuOEpJeWJ3TUp0Rk9TZHY1R3RFQnZCcnNaWllNNlBXQjdmazVVV3MtVURtQVNTNkdaTWhRcXowX2YyMEszYWtvbXdocDBJMGxMV1U2bk9GTHZYZ0dDS3p5cXA5My1pNUJxMXpVckl6Vm1JRmRGMGpTY1NoWjZTSmpjbjBmRmh3MmtEV25TeE9id1BuT1pldnlRM2U4N2ZHWnFuNDB0a3QtN2dXc3RraUx4SFdoMmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky Sports",
+   "region": "IE",
+   "date": "2026-11-24T20:01:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "86910f171b",
+   "title": "‘I knew something wasn’t right’ - Kilkenny mother loses son (12) to asthma attack",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkxqM1M1ZVF5cnc2OVlMZWlueXVPS1ZIeVo5aXFMQ0UtTFFSTlhzTnkxWEJMaklqNV8yVDl6UjJVbHZnbVBiRkEzNjFOU2VMUGF6bjg2RTNSX01YeXh1X2JiRnlDRWxtUVFNUVprajd1VV9tcE1FVGRZTTkydkJKaVlESHhrY1U5SGhEeDhQY3RYN2NRRTBDUF9lOV85M0UyQTRvazl2OVYxUnRxNGF6NWp1T2JaQ0Rq?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Kilkenny Live",
+   "region": "IE",
+   "date": "2026-11-24T20:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d90839e217",
    "title": "Homeowner claims council’s demolition order for Sutton house extension he was ordered to remove six years ago is ‘vastly disproportionate’",
    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdHViaU1lVm50VGRLMTlLbDdpcGxicDZvRGpwZ1E3T19vQ3pudkwyWnFXcmdkcWFwY2dtNUMzZjB4M1dMam9SSTJNWlB5ck5BUFVwMzZHS1lWTFhvUWc2cXYxVVZzYndpbmx0WFlMNUM2dEtMUDRkcUo3eDAxWG5pTW53Wk13WC1zVDRBeWpTMUQ4VU00ck53MUpsbk9ha0hEaERRblJUbjEtOU1RNE1IVjQweGxMZWZIRU9MWXR0SXg3cm9SdWhEZVVtRTR6UVpQeURNRWpSUXdyVjkweDBXajUtOHZQTDFRbXQ3WUc4OWpvQ2U5RWhOTlhhWE1fcE1SR2lYRWVpTzZucThEcUs1QWNiZnBXeWhuamx4QnZRSlJrZmM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Independent",
+   "region": "IE",
+   "date": "2026-11-24T19:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c06a69b730",
+   "title": "Full GAA league fixtures confirmed: Reunions galore for Henry Shefflin and Kilkenny as juicy clashes whet appetite for 2027",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVldLanhSUm5PSnplWUxwMGtMbHRSaTc2TmFRQXBLXzV1SDFuZlZFVnZLcHBTdEtsUDNVX1ZhX3RnWVQzSVpFc0lNckFTZnhVRkJzOWtrSUJsVDVGREpiT2NjQVRjcTV1SG54Y19IanE1ajNvUEJRenNhWmh6TDdOSDU0SVIwOVN3djJxNS03eGNPVWI4Zk5HWEMzT0RYbmxMSi1ZdVp6alpCTFkxekFyRlVGZXpLOE9lQl8wTUxlQUxFMUwyZUVXTW1fX2pzQlBJeS04dzlGQ1d2Um51R0hET29udzdETDloczZyRy1zWmZvY2FIMi1WWlBzWjdFd0xyeFUtUXdHRQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Irish Independent",
@@ -92,24 +197,21 @@
    "topic": "Politics"
   },
   {
-   "id": "521cc49413",
-   "title": "Ireland captain Dan Sheehan to miss Australia match after two-week suspension for red card",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNmpfVHZ6SGJVZ095bEt1TWlISG85MExETTRZUlhXYnpXR2JTUGJIZldPbGk5OTdvWUdTS01HTktwUWRneDZRZlNTVnhyaERxSHlQRWdvdVV6dV9EcHdqUnpUR1IwUU9NOHEtWDlOX3diSnlOczZIVTJENHNBRzVEZ3QxTnozOXhFeFZEZVJrUTZVQml4cFdwcFNWSDVuN0Rfdk9tWk9UblJpMHdQa1ZQVm5iRXJjaFZKSU1QVzJOUk9KanhWbE8zNkx0R0FzaG9GMGRNWEZDUmU?oc=5",
+   "id": "9123f9f06b",
+   "title": "Independents oppose planned rise in school transport fees",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkFtSFA1cmJlaS1wUUptbVJDdVJlaTlLWHhiX2dvVnZLWmpmaXcyd21CMHhuWk8wbHRrX3pVZ1AzcHBudjZmR3RkZ3p0NENYMXhZOGdaMjgxNVBFS1FrYXM5ZVBlVlZNRGZjOXJKSzF3bU14NHppdWxjek9yWVVRWWhnd05VSjFGdjVZRU9XUWg3WFljRkxzcjdsZHpSV0hmNUVJR1VrLVJkRi1malE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Irish Times",
+   "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-24T18:53:30+00:00",
+   "date": "2026-11-24T18:42:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
-    "flag": "🇮🇪 🇦🇺",
-    "also": [
-     "Australia"
-    ]
+    "flag": "🇮🇪"
    },
-   "topic": "Sports"
+   "topic": "Society"
   },
   {
    "id": "3bc734e416",
@@ -120,23 +222,6 @@
    "source": "The Irish Times",
    "region": "IE",
    "date": "2026-11-24T18:06:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c5f38b91d6",
-   "title": "Martin Breheny: GAA’s commitment bar has reached ridiculous heights and it’s time someone shouted stop",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNazU1Y0hKSDcyYlBodFFTRTNVNUxiSzZNNVhBZnlqZktQWnA0czVSN3RLaGJSMGdEMVdiaDA4dk9haWttSzFRVTlzUVFJcU5VdVJNS19XUWFXY3BiSjFkNFd5dFFXNW1rS1YyLUJrS0Mydi12UTZ0R3RfNndnMVdKUExVMDRjZzZSWV9Bd2s1aGJPOExQYlJuR0IxLVJqN280dTVjUGozMkRsbXIzTzZZcURqSmdFVmlnNTJPUnY3X0NjRnppbURhWG91V0EtWXRJc3pIVnN6V0hFd1VmOW5UcW4zODRNZjc1ZVVwTW84djRCUk1KMDh3VnV1dkNKQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-24T18:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -162,23 +247,6 @@
     "also": [
      "Brazil"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8485097bd2",
-   "title": "Girl awarded €90,000 after foot injured on Dealz pouffe",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IQ3JSU1VfTWM3S1Q3UVZJLWJwQ1V6U1JuSHdEQ01Fb1lVak9IN2lvcHpBbDVSa0ZUTVdmdDJTNnpDWk1oUE5rcVh1bEI3YU1femotYkdpQ29fU3EyNFc0MHNIcWVOUFJ3WGVhSnJ6aFVvUFFCNGg3VVRKOXBtdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-24T17:06:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
    },
    "topic": "Society"
   },
@@ -234,21 +302,21 @@
    "topic": "Society"
   },
   {
-   "id": "7f39faf5ee",
-   "title": "I thought I'd bad period pain - then room went silent before shock diagnosis",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUY3dG9PMFY4Ri1JODFGMFBUQThndkNkZlZVOUxJU1gwN0RqVktOLUx0bG5oQS1HTUF5NnRqVGswSU1VMDUyV0J6Z003ZVhlVWV5dXdnckYyT1dGQ0xITnZiLTlFeGFQTkNDdmhVNzAtWkN1bFF6U1c1NW1DZnkzcUt2MDVnWDR5Q0FhUVNOeG0?oc=5",
+   "id": "38e41517ff",
+   "title": "Hospital administrator falsely claimed over €20,000 in overtime payments for four years",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTndWc2c1bGQ3N3Yzd0g0UC0xbVF5VkVhOUF1dURjS21zVmtmUGZlQ3FHUDlxT2p1TWpTdEgxZ1hfbmVhOE1sS1RvRzliQnNzWF9xWE5qTERCN3RhdkU3TW5OOTlxTnFiNVFtSmlyQ1NOMmxkSmtrN0N5ZUtPZllRNlJSai1qc29KYVZnbWp3bjhONklvelhwNW11V0ZBMFFSSFk0ci1CZnJ2VUh0UDJ5WV9WM051Mk8yX3dSY19tOENndEFVcUFTeFBuLW5tM1l3OGVnb1JZNWV3SnfSAdsBQVVfeXFMUE53VnNnNWxkNzd2M3dINFAtMW1ReVZFYTlBdXVEY0ttc1ZrZlBmZUNxR1A5cU9qdU1qU3RIMWdYX25lYThNbEtUb0c5YkJzc1hfcVhOakxEQjd0YXZFN01uTjk5cU5xYjVRbUppckNTTjJsZEprazdDeWVLT2ZZUTZSUmotanNvSmFWZ21qd244TjZJb3pYcDVtdVdGQTBRUkhZNHItQmZydlVIdFAyeVlfVjNOdTJPMl93UmNfbThDZ3RBVXFBU3hQbi1ubTNZdzhlZ29SWTVld0p3?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Irish Sun",
+   "source": "Dublin People",
    "region": "IE",
-   "date": "2026-11-24T15:53:27+00:00",
+   "date": "2026-11-24T15:46:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Society"
+   "topic": "Health"
   },
   {
    "id": "19b58fd6af",
@@ -285,6 +353,43 @@
    "topic": "Society"
   },
   {
+   "id": "361a6290ee",
+   "title": "GTA VI’s jaw-dropping success: in figures",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1RUTTlkdFdoR0NDNWFDTlBsS2xlN2JmLXc5UElWeFBTZnZnTDRTQUxjeF9hQlVZNGJwNDVqMnpMUHdna1lmV2tXYXZ0M3UycXE5RWFETjM5eWpROE1qYV9BUlkzeXFNaWtwOFRSTWVEcmE0ZkF6aElFREdSd2JTYlVfWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "IE",
+   "date": "2026-11-24T15:08:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "188e6befc1",
+   "title": "Russian rock, nostalgia and a call to surrender: Ukraine’s secret radio war",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSktTc0NqWUFha0lwTC1zODU5Um0ybmdkM1lBaWZXa0N5NDJIa0hTWHQ0U2NZQ1N4Q2sxT2FHSmZoVVZpSENNdmdPUWc4aFV2ZEFYcTY2c3BwNDNaeng4QnhWZnJDcXItelJIWFlrME44cEdDN0o4OXptbVpxNVhGbm82VG1EdHlITGJRNGV2Um9GYXJmc2h5dmlUbDBCT19uamhxX1lSTWZTbndlVjltYjFJTmw2Q2RvcVAwTmZrc2ZrQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-24T14:36:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "6804434785",
    "title": "Longford's Maura Higgins dances her way to DWTS US finale",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ER1VXZTdMWFl1SFRSZXd1RTBJZ2NheUhlNEhKdVl6aGZUQjlTek5sN29VVWtjM1pYMkFDTWwxMFJDa2E1Nm1Cb1dXdjZnOHRWQmtwV3hRcEM0SnowVGFOZWNpaVY3MHhNM00wMEx2WFYzWVVkMjFOaXpn?oc=5",
@@ -310,23 +415,6 @@
    "source": "Irish Farmers Journal",
    "region": "IE",
    "date": "2026-11-24T13:45:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "361a6290ee",
-   "title": "GTA VI’s jaw-dropping success: in figures",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1RUTTlkdFdoR0NDNWFDTlBsS2xlN2JmLXc5UElWeFBTZnZnTDRTQUxjeF9hQlVZNGJwNDVqMnpMUHdna1lmV2tXYXZ0M3UycXE5RWFETjM5eWpROE1qYV9BUlkzeXFNaWtwOFRSTWVEcmE0ZkF6aElFREdSd2JTYlVfWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "IE",
-   "date": "2026-11-24T13:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -387,40 +475,6 @@
    "topic": "Society"
   },
   {
-   "id": "ea70229386",
-   "title": "Cocaine found in orange crates worth millions, says Met Police",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SG9MUm1XYVo4ak9Ga1lnWU5fTGFVTEV1U3YtMFozN1ROR3gtak1MeHpFVXVqNVZVNTJYeTloQy1iaHNGdjc4V3RIUWRQWk5zODBLdVJUNTQ2aTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "IE",
-   "date": "2026-11-24T09:21:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "db69e1cab7",
-   "title": "Govt to consider use of plug-in solar panels from April",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03N0xlbzZRaEJYUWh0VXlpNTdqcEh5eFFmYVhZcnFtZzNja01NNk9yY0FvSXFMZTBLTVJRRFgyQW54Z1d5Yld3TDRsTng3NjdwQnQ4VkNyT2NkN2VINU5hM0RaWGZQVXI1ZnBaOW8zbG5vQXJEdEt3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-24T08:57:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a81f54f3ea",
    "title": "Battery EV surge continues to push Europe car sales in October",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMENueVdXZWdKVXVyZ3pkQTdtcWR5d0lkcno3QjZuY1BZLVNCcG5idzBlc004c1U1emE2bHZfRkRuSjdJUmZQZHRtUi1KSDJXdHhHMWFjYzdMNTVHRVl0OEFJUnY3YXNqdVdxSGlQTUc2RnhBS0xvWktlbDdMUHRQcDU5OUwzOElTRUE?oc=5",
@@ -470,23 +524,6 @@
     "flag": "🇮🇪"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "b670913b64",
-   "title": "Surveyors preparing a solar plant site in Spain uncovered a 5,000-year-old fortress. Near its outer wall lay a Roman-era man buried with an army dagger",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYTRydkZyeGx5NU9mX0dheV9PYWgxN0tGaHBCMXJHRVA0WkI3d0hRcnR0QXc2aDFxNmdmb0lKdkltek9fYzd5VjZfc2JHSWtKcktrUjZXRVhyak10WFNjRnFQSmFMR1R0ZlNKQ3cwSjF4QkFvWGRkdWMzSnVfNUZwaklIZU1DUEllYTBuZjNrN1ZyTFZnVi0yOHpHNjczdGdWS2ptcnRyRnM0QlVJd0Nrbk5EZzV0RGxwM2Y1S2NhdGV6M2FqbXcxVmFRWWN5X2pQZ0dSZGF2NVZ6S19XV3dxZ2FpQkYwR2t3VW44M3l4bW85dGdpbWlqLVRjcmJyc3pmYURuRjJSUnlaVGtCdHY1TUxSdHVGVnFWWG1sbg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Futura, le média qui explore le monde",
-   "region": "IE",
-   "date": "2026-11-23T23:25:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "4e1d710004",
@@ -540,40 +577,6 @@
    "topic": "Society"
   },
   {
-   "id": "e3bac78fc4",
-   "title": "Heartbroken mother urges families to learn warning signs of asthma after son died unexpectedly",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEw0Y182d3ZDZ2syRGlVYjZkYkVYZmtEeE5JaTZ3RVdjcVBIWlhzSnNkd201WVhRdDlBRFNfR0ZkTXNzUTlUMXMwYmpvbHhzcFVPOVJaQ3d0NDRhd3JKTmMzWG1FWXJUMGttRi1UVVpxQ1BiNG5sMmhTdnh2M0pTN2VmRWxBWTJjUkQ2LTJyRjJYY09xejI4eUw3MnZiRnozSVh2UlF6Qm1vTHdKUUFsUS12ZVhuZXBka19LUmk4bWJYWU5MakZkM0EzVGlOcWFBMGI0UW1QMEpLczk0WVJINzVvVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-23T18:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7706401422",
-   "title": "Crew of the Carraig Úna fishing trawler remembered in Co Donegal",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yM19keUo5ZVJQU2NWVU15ZGFxYUtaN0Myam1FdmFjb2F2NkRjY19TQzdaV0RvcHlRZE5IYm45ZDZFaTdEX2dHaTVoUllKVFAyUkllYVFjQ3gwSGc1ekpNUUMwTkUzSkJjUmliVHNfUWpNY0RUMTFIbXg0UFBuZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-23T15:58:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1e7b055413",
    "title": "Blade Runner 2099 'goes for broke' in an ambitious sequel to the original and 2049 – Review",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56TUo4RWhUSi1vTktTNE9rcFAwcGNpUmF6dk9NLUtrNXJKYmFYMmU5VHRXVDVldXJRZFJWSzlKQWpsSW0wUkQ3MkZ0eldMZHdkdnl5bG11U0ZqdVMtNUJHMF84Z193Tm95Smc?oc=5",
@@ -582,40 +585,6 @@
    "source": "Empire",
    "region": "IE",
    "date": "2026-11-23T15:25:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5b71fe1530",
-   "title": "Fair City on Tuesday: 'Are you in or out?'",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmV3aUtWWlh3ZEV0emo5bEEzaFRvc1pQSkZHWk1kNmtWNHI5SlU4UlpMeU92TjBaMEJid2djREpYTDRyWUswMDVXOENBaVhySXRGVUJsWkRzeGdMTzBuRWtlbHFId3pBZ1YtMHc4dWVPQXFFTlZPZ3J1YURBQ2gwQTlyUGhpTEM2R1B5c2hVeEpCQVhs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-23T10:30:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e9240e9e8c",
-   "title": "Donegal: Pedestrian in his 40s dies in road crash",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBycFlUdTBOX0tnaFI3RjJMc0d2ay1pM0l6czV0TWh2RFU3T2xzS0FhdXV6N0JGcWk2OG5HQmFMcDY3TE5Ea1dtWmhmcVl1RERWc0JEZnZLcFJOQ1U?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "IE",
-   "date": "2026-11-23T08:50:10+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
