@@ -1,64 +1,82 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 58 stories
+OK   Ada Derana: 60 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
+OK   EconomyNext: 13 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 17 stories
+OK   Newsfirst: 16 stories
 OK   Daily News: 52 stories
-OK   Sunday Times: 4 stories
+FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 11 stories
-OK   Google Top Stories World: 70 stories
+FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-FAIL Reuters: HTTP Error 429: Too Many Requests
-OK   AP News: 99 stories
+OK   Reuters: 100 stories
+OK   AP News: 98 stories
 
-Biggest stories right now: Jensen Huang’s Nvidia return: Who are the big (8 outlets) | Diary of Pope Francis reveals sightings of th (6 outlets) | OPEC Fund to provide Sri Lanka with $30 milli (6 outlets) | Bangladesh’s ex-PM Sheikh Hasina says she pla (6 outlets) | What strike on Russian ship in Libya says abo (6 outlets)
+Biggest stories right now: Jensen Huang’s Nvidia return: Who are the big (8 outlets) | Bangladesh’s ex-PM Sheikh Hasina says she pla (7 outlets) | OPEC Fund to provide Sri Lanka with $30 milli (6 outlets) | Ukraine insists attack on Russian ships in Li (5 outlets) | Diary of Pope Francis reveals sightings of th (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* NPR [3 outlets]: For workplace culture champions, Jensen Huang's return is 'unfathomabl
+* The Washington Post [2 outlets]: Judge demanded safeguards before search of Rep. Omar’s home, records s
     no AI summary: daily limit reached
-* The Guardian [3 outlets]: Pope Francis saw ‘gates of hell’ during clerical sexual abuse scandal,
+* Hiru News [2 outlets]: Anthropic falls below $83 IPO price in swift reversal after record lis
     no AI summary: daily limit reached
-* Hiru News [3 outlets]: Prince William and Kate’s country home targeted in reported break-in
+* Newswire [2 outlets]: Cabinet approves new building complex with 1,000 seat auditorium for P
     no AI summary: daily limit reached
-* Bloomberg.com [3 outlets]: Zelenskyy Confirms Ukraine Hit Russian Ship in Gulf of Finland
+* Reuters [3 outlets]: Nvidia suppliers, startups in Asia cheer Huang's return as uncertainty
     no AI summary: daily limit reached
-* Al Jazeera [3 outlets]: Israeli air strike kills senior Hamas military official in Gaza
+* Reuters [3 outlets]: Nvidia slips as investors assess risks surrounding Huang's return as C
     no AI summary: daily limit reached
 
 Top 10: 0 fully explained
-bot inbox: <urlopen error [Errno 104] Connection reset by peer>
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 7 too small to look sharp, using the clean cover
+  photos: 13 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini unavailable this run (AI error 429: {
+    gemini failed (AI error 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+    "code": 503,
+    "message": "This model is curr)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
   "error": {
     "code")
-  meaning check failed (no AI available for checkers)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 54 story pages for Google)
 
-Countries: IN 38, PK 36, BD 37, US 37, GB 36, IE 34, CA 35, AU 37, NZ 37, SG 32, MY 36, PH 30, AE 37, IL 31, NG 31, KE 32, ZA 32, GH 27, FR 34, DE 34, JP 7, IT 34, ES 34, BR 34
+Countries: IN 37, PK 36, BD 37, US 37, GB 37, IE 33, CA 35, AU 37, NZ 36, SG 32, MY 37, PH 28, AE 37, IL 31, NG 31, KE 32, ZA 35, GH 25, FR 34, DE 34, JP 7, IT 34, ES 33, BR 34
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
 
-Posted today's Top 10 round-up
-
-World Pulse not made this run: no AI available for writers
+World Pulse not made this run: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message"
