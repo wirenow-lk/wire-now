@@ -1,17 +1,105 @@
 {
- "updated": "2026-11-25T19:52:22.858846+00:00",
+ "updated": "2026-11-25T20:51:02.292953+00:00",
  "code": "ES",
  "name": "Spain",
  "stories": [
   {
-   "id": "1b2d9b1bc7",
-   "title": "El Parlamento Europeo aprueba la Ley de Medicamentos Críticos para evitar la escasez",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMUl6TlR1aU1hNmhsWHEtVEw1ZHJ1QWRuRzE2NU5YYWtJNnNQMzRhX0tsYXAxYWdHZFdmeUY4YjZoRnR5WkNTYTllTWxRSlpkeWlCaDY2bWpsRmhhV2MxU05aQ1kxdEhQMFBnZ0lWQ21ZUnE2bEVXWDVpQkdxNlZ2TGNJa3lVWHlMa0VxR0U4SDRheVpodG1kcDI5czNZbVJFdWI0cHlaM21yZ1FkSlBEWDlTTTk?oc=5",
+   "id": "9576281e53",
+   "title": "Un incendio en una importante autopista que rodea El Cairo deja al menos 30 muertos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWV6X3FTT1lkb2VsWjNNREJLbUl0T2VnY3ZSX1BFRmpZVk56M0E4WWFMVG1hTXVYOWw3Y2lyR1p4ZUt0VHdEVFRZNWoyaS04eXdmM2dUUkI5cDlEMEtxVjhqVzBfV1ZNLW9OWHNoRnJxX3JNMF92NDZIY2J3Wjl0cFFlRllBQVhIVUdHRnRWSVRZMUtORFBncWdpcGZCVmRhYjd6Yg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Euronews.com",
+   "source": "AP News",
    "region": "ES",
-   "date": "2026-11-25T17:40:47+00:00",
+   "date": "2026-11-25T19:41:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Egypt",
+    "place": "",
+    "flag": "🇪🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b241b85c3b",
+   "title": "Bonoloto, comprobar resultados y premios del sorteo de hoy miércoles 25 de noviembre de 2026",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWEVjbUpBQWFvX3ZwcGRoTkpGbHFmUTFJNHlxYm9nZkZZNDhucW1SUnhld1BDdER0bWJfTkQ5THVPdXNGaXB4cGsxdWVpT3IxVV9UazF4eUpZRG9vankwOXI5MzhEdE5ROXZyMVRyb09UOGYyV0ZFMnp6ZEVhVU5zYy1nNlFzZi13OFRGVjVUOHhKRGtweTFvWkdoalNlQVEwU3BCSGY4akQ4RnRSTUUxTVg0N2RYOThpU2U2Y2xzZFpTbWNr0gHKAUFVX3lxTE53amlSMDdVLXl5ZEdFWFNOQXlyQmczNkZpZ0hSRWpqaFhlMHV2MkdmZThWaVlWNmZpcjZ6WUlXOE0wWnRaOHhVOW4xVUJDY2pMYjgxcGRKRW9uQzF3REhTZUhvZEtrbHpsNXhOM3hlbndBaTRweUdPeEVqa2o3emVUNV9WTTJlRXhSM0VKNF94TkhXcHlGLUk5cWJtVjJFM1I0ZTF4REF6MmxlQ3NRUWVmVkVTLUJNdFNxT2FfWEdCTFkxSGluelhYekE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "La Vanguardia",
+   "region": "ES",
+   "date": "2026-11-25T19:00:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7d80025bf6",
+   "title": "El gobierno de Trump revela nuevos aranceles para China, la UE y otros países",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHJHUkdDcl83N09mVWFma3ZteXpjYkRPUkVQbVFSRkhiV3Q0cDl6anhHX25jajlCRTU1cDJMM3ZnNTlQNWlIYkxpaW53MTdXNGxaaDVUQWlLaVVsbXVsQUpxVUoxN0ZCelpHYU9aZXgtTzBIV3hyYXpENWh5dEpQd2NIQ1RnU1BGXzdWRWtkOF9adlhX?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "ES",
+   "date": "2026-11-25T18:34:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇳",
+    "also": [
+     "China"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d85c3adfce",
+   "title": "Farage arremete contra Burnham y lanza campaña para mantener al Reino Unido fuera de la UE",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVNBMTNOanNmRDFBbDFaVklNSDhhcEtydThQckVzb2VabFA0akluUnctT2x0QjUtbmExR0tNLXdWSVFtaGV6RzBFcFhyMkNsWG5obUhRZTlyR3V5TzhrUTdOd2lUWEJLd0gxR0JzMklvSDZIUGFrUS1iNTIyZmRzQ0pxZ0xtR2RLY2J5M0plSUx0SXQtTXdKTEF1c3JPYWxzZGREcmhEaFN2ejBldS14QWVWY0F0MzR3dkhBNDRpbElYVTRoeWM0YTVKeVBRQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SWI swissinfo.ch",
+   "region": "ES",
+   "date": "2026-11-25T18:15:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9039e887b6",
+   "title": "Sanción Fermín López: por qué está sancionado y no puede jugar y cuántos partidos se pierde con el FC Barcelona en LaLiga 2026/27",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWFRkUXdCMmtBZlVEXzFwXzlMZXZkeDJWZ0IwR01wZFljR1hTMFdkTVdfTGM1VC1zQmpYLWRtZURKYzF5NFdDQU1iNzVucE4yMnVMb3NXUlN1djJUbnhiOFptbXVBSldYVUVKVHdtaDlyNVNReEpKdzN0UWZkUTN1azJJNEhtVkN0TUQ1X0xkQjA2dTR3OW1RbXNyUWhhOV8tcmVIMDA1SDNMX2x6cTFpT1luY0N4OVQ2alZXWS1fOE91NlN5ZkNqZVpaanRqT1ktU2VFRU1fVWU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DAZN",
+   "region": "ES",
+   "date": "2026-11-25T17:51:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "52e983a0b1",
+   "title": "Jordi Coll conquista a Mercedes, Victoria y Enriqueta como el nuevo jornalero de 'Valle Salvaje'",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXF6cUpUcUlYcGhQX0JrZ2xyVG1VOGJZZFdhRFhpZm1pcTJHNFlrZURFQVNIc0VLWk1QaGtaaThUOTdJTHRSVk1mQ2tpLVh4b0RSZkxQMHlNUFluM1ZrbkhuSVZjQ2stcEpBcGJ1STA2UzNBVGRiWl9INDBTYXhDZHJyUWZ0YUZWVTQ0cDluV2pVMUhwVmE3c2NJSlFncmZuNzdvb1cwazd5TWpLM3hzRThFd1dWbFJ4RzRxSHpLaWFLX2NUUDhjUC16Y2Y?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTVE.es",
+   "region": "ES",
+   "date": "2026-11-25T17:40:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -55,14 +143,14 @@
    "topic": "Society"
   },
   {
-   "id": "9aae095ea9",
-   "title": "El Ibex 35 no se libra: -2% de caída y pierde los 18.700 puntos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckpvNER6MnVZdXFYVFRBZFI1eGN5RWRRX2liN1kzUzVBSjJoczNOSFg1eGdMaWM3Zkxndl8zMGZ0bkotbFdNQXVwZjdZTzBfbU5QeS0xcUVmczh0NkZhY2dEZEtlZEVMV3E2Vi02MUQxbEFLTmZVVTQ4bXFVSVhlbkN3X1k5eHlOcXZBWnlVVGxnR3NNMF9CRVdkZVhNRkJDa3FKcFdn?oc=5",
+   "id": "b01dd4c43b",
+   "title": "El Parlamento Europeo aprueba la gran reforma de las normas de medicamentos de la UE",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbllzX0ViczN2TEw3by15WDRoMF9WWHNhRDhCS0VYS292cnVJQnhibGxlSlB6VEpvNkNBWmpBblVDX2RJb045WlZIb3FPNGZ2eVBUTTFTTlk4cEpScHBNdUtuNnFoWE81aGkwX3djWTFLSURuVmY1N1BmdlBRRTZKSm9lTm5WYy1Vb194UVE1ZXJSUXRWZVVma2VDWlVTaHJrLXl4LW9MOGRWeTBJNUplbGF3U3NzalBEdk53?oc=5",
    "summary": "",
    "image": "",
-   "source": "XTB.com",
+   "source": "Euronews.com",
    "region": "ES",
-   "date": "2026-11-25T16:41:45+00:00",
+   "date": "2026-11-25T16:46:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -80,6 +168,23 @@
    "source": "Valencia Plaza",
    "region": "ES",
    "date": "2026-11-25T16:36:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8a3d1afe2d",
+   "title": "🐻 El Nasdaq 100 al borde de un mercado bajista",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzFyWmh0YkhvWVg1N1dwZnE4eEVNWFdkV08tcXRHT1ppZmFYTnlOLWlHSU9nQkxndFN1WE4xNWVFRXFMSnJocU0tc1JLWnRXZEFkR3doZlcyY0hPbk1QTjBLdG5KemdmV2g2S1FNNTNJeThPTlNSRlV6MFpYaDVCM1FRcTlqUl8tTlFZRmxPbGI1c2RpREU1VFkwX1l2cm45YkhkbG1NVmdYX2F2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "XTB.com",
+   "region": "ES",
+   "date": "2026-11-25T16:12:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -119,40 +224,6 @@
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f7685f5971",
-   "title": "Los temores sobre la IA acentúan la caída de las acciones tecnológicas pese al regreso de Huang a Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORU83eG5meHdtQ0RlMklnV3A3Z0V5SGh0T0ljWW1tbWdULVJaSTg1eEdXbThWdncyVEVMQTl1R0habE5EQV8tcjEzWlpjS05leHY0ZlU3bXJ6YTRjM2E4YjBfdE1taEtjMzVLZERIUU1xMWlzVFJMVFh0Q0RpUjRHTGcwcmYtdDZPbEJrRFl3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN en Español",
-   "region": "ES",
-   "date": "2026-11-25T15:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "c313cef792",
-   "title": "Al menos 3 muertos y 14 heridos al colapsar un edificio en el puerto paquistaní de Karachi",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYnRfUU9IbHEwSHRXcG43Ym5ReV9ucnh1ZVpiN3pfb1d5NThBQVFteFVEUVRIVkR3Zk0waTJRel9EcDFYVzNoblRnbU1XTTd1VUZUZzVvN013X290eE1jREJZMllhV2FXMDFYbFdkRjdXTUo3VGdyVTQ3YW9VVDNGbGxlUHhpampoYnFlR1JVSHNpQllza3A5XzZvUGtkRnNHek15Qk5lRTVnTThnWDV3WEdGczZ4Mzd6UlNFR2dsWUNXakNPaW04dHF5SXFGZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SWI swissinfo.ch",
-   "region": "ES",
-   "date": "2026-11-25T15:05:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -276,23 +347,6 @@
    "topic": "Society"
   },
   {
-   "id": "d9814e0d69",
-   "title": "EE UU propone nuevos aranceles contra 14 socios comerciales, entre ellos China y la UE",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnVpb3d5cDlnaGNFTGRHTUpHM19xZUJ4cXRxeUI4M2Q3eVI2RTNfU0xMS1dJY241T1E3Sl9LbE5mS19UOFpiOTlBVkx0bXMwR2JoWWlMdkRaejZ1SzdmX2ViLWYtZFBtVWVzVngwSzN2Z0QwN1V4UzFYNUIzMERmMlBGdVkwUDRVM2hCeWdoUnJfREFxbmhmcVlqSUFQR01MSzRIUXRxV0QtelRr0gHAAUFVX3lxTFB5QTZveEZQZFJxLUNOMkRzdUJnTWlLUGxxUWJwTUItZFpidmVKMVpVSmdaZTNHNEt1N0VybFJNb25DSk1JOE1iTGlVbWJjUkx1N3NpemhKN2YyNUFIQnNVbmx6Yl9CcmZRZy1NX29VZmdwaXFBdEh6UFBZU01xbGZESW5CYlQyQXhXNmo4MW54X3RtRlBETTJZZ0J0cEJLN29XVHc5RHByTlZvTzlvUVJRd1FKMGpxb01nclhWdThEMQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EL PAÍS",
-   "region": "ES",
-   "date": "2026-11-25T13:32:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "cb44026f7f",
    "title": "'El escondite', con Grison, llega a La 1 el 30 de noviembre",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanIzY1pkcTN1TWFLWlR0dnJGM3g0cklWckM4Y0VBYTBucS1tOUdKRjhXd2NKZnJCVWxVcTRnZmZoV2VBR3QzbzdXLWNubXNobURLak1qRDhjT05lMV84b3RTeVMtSXZMVWdqb3NldkI4Q0oxQmJPTnE2THpaUGw0NmR1YllFUjlkLTZPRVRXLWNpNEFiN3RYU2lhUkYxR1lpdmFsY2t2X0IzZDJNZk9iUnRyektuX2lSamdCd1ExNko?oc=5",
@@ -310,6 +364,23 @@
    "topic": "Society"
   },
   {
+   "id": "4aff848d8f",
+   "title": "Hoy se estrena en cines la secuela de una obra maestra de Tarantino, pero casi nadie podrá verla en la gran pantalla",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGRla0NJdVoyQ1VmNDlmZW91NjVqY01tbjQ3SlpEczd1cEJEX1BsS0ZkazJnUm9UenJwVnVSbnhicE4zQ0JLSmU3M0VmSFJrME42UWhxLTBhTTQ3cC1EYW4wcXFod19mZmRrMFc1T0prTGNpejhHZE5CNmxtWDVCcTVsQVRDYXN5UlhlVlo4Q0N5b3JPZEU1VERSeWE2STlfT1V3enFyYXQ2VS0tdFFSczlaUC1vLWdIYXpuQ3BoaEkzUUxuSVl1bVBicTXSAdIBQVVfeXFMUHhaenZ3UjFwRkhqcXVTT2JqZDZjMGsybU94a1gwWHhWbDNWMFR5b29YenVkZ2VLTmZvbTZQdjNWWEg1YTFtWnZwVkZ6cG81cHhhdVkxcUxfdFg2QnBOc0RXMWJ3aUc4V3JrUm5HT2JwUjBKcmFDT0hHaFlDR1JjNmZDWnI0T2hLaTgtTzNiV0JKMW4ycEpqN1pHaEJvUzZMV0lQcllhWVJodGVMLWlfeW83QlY0cXRtYzk2OGdwaXRCOFk0Q2twNXcwQjJkQ2c0N2h3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "3DJuegos",
+   "region": "ES",
+   "date": "2026-11-25T13:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "586bf4e4dc",
    "title": "El Lehendakari encabeza la concentración con motivo del Día internacional para la Eliminación de la Violencia Machista contra las Mujeres - Gobierno Vasco",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYmdxV0NvOXFEU0lWYndha2NEMzVqcnl2aXh5b1JpQVBjOE8yZHdIc2VCbTlZdGNZOEtNRjRLNDVIRzNabXFSZ3lITkZIY0xhWU42bXMtMVM2RHdSZGt5MW1FUXF2YU04WDFFR1lhM0VrVWszczB3V3h3RGVKSC1wWlRnTjRQRUJ4enplRmg1V2xpeDRLMmpxOUlNRzRfbW1iNG5ZdVFPVWM5bFlNUTd3ZGdzWS1jckZDSC03d1FLejlaSUMzRms4UmlndU5md2RHUUROemQtWVJtS0VTMHpRU2p4VWpzYm5laGxyWnhyQkNHZw?oc=5",
@@ -318,6 +389,23 @@
    "source": "Euskadi.eus",
    "region": "ES",
    "date": "2026-11-25T12:53:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c68ded4674",
+   "title": "Científicos del CNIO y Stanford descubren una posible vía para combatir la resistencia de algunos cánceres a los tratamientos",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdl9kMlpLblhLckFITnN2VjhnNzcyLVB5Y0kxN1V4YXY5LUpGNW80NFFFZ2hrNGo0bzdBaHNJbkI4ZFpQbGc3RHlvMlk2U25BRkk5SGoyVXBabnRIN3Rwa2R0c0tNeDk1TnZhaXVqRUVUR0dUQUQ5UVZ5R2dqYVZyVldqZGJ2M2ViM3NjLV9aMXFuX0Y0U1ZNN3NCRzZHVTNDaVVWSGFUbkZyeEpMN3NYYlhiQ3lMT0FLS1JPckRUYlZIUlJHYXhQcjJvNVVaNHZHU2hjSU9hTzJrRy1yTTNxX19GUXltZjNJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Servimedia",
+   "region": "ES",
+   "date": "2026-11-25T12:11:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -361,14 +449,14 @@
    "topic": "Society"
   },
   {
-   "id": "b68597fc56",
-   "title": "Henry avisa a Europa: \"Algo está pasando en el Real Madrid, cuidado\"",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVF0NzhsbksxT0ZlWlRzX2FUNEVLWGRtY3hfVHVSamNoeDBjVEltcWp1M0tuRy16TndBdkw2NjF1V3h6aUZhTU9uTklWdVQ5OEFnZlp0NkNVVUNYWDlNMmRweW5ud3J5VEFPalNFMlFBak03SUJGeDUxNU80c1UtRmN3ZG5SRVZpWXVvcWNHS0NDdGNwU1lLSF9tNGUtU1pIVENxNTJ30gGmAUFVX3lxTE0zMUJiclZyVXVEa0ZZWVQwcFZIY1FFZlRXUDFPaFkwRTBlaS1YSElPeVBHS1JJYXhMeE5zd2t3VFpwTEtXV0Jla01TZVEwTDlzdUVqYjBDNC1QNTlkMnJ1RkxBLTJ4OFVaMnotanBlWDI1OGhpWTE4Y3hMMENjYU42ZmtrcWZHdWp2cThONmdpWFIxVnJRR0hrb0ZYWHhiMG5jT3RzWkE?oc=5",
+   "id": "fe79d6b03f",
+   "title": "Aitor Esteban da por hecha la mayoría absoluta de PP-VOX",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGhxWmFlWXlndjNzNWRCY09rVkZyX3VjQnZHNTFKSzBCQ0J5X2V5OWNHQUIxZXpDWldfRXlMSUxHaTlPN09wV3U3ajNjeTFLcmV1Q1J5ZmxBcEJPSTJHMUV4a1RRWGNlSDdna1h0NkpvWHh2RHVvOHNqSnVka05COEZsQ1ZncGQwOWEtUGs0b1pOaE5kbTF1blZRajdPNVJSYV91N0lienhWTGhfVUJ4WdIBxAFBVV95cUxPOVpKM2diN3BaNDBEYlV3NkszczdGOHpuakZEWTlqM0drMkd6ZXc1ZzNTVG03R3dMaXAwb1ZsakNiVHVDQnRvN1Z3RmJFTFBoTWNDR0FYQWRSXzRMR2VXUzZkSVpOdC0weW0yRWtMUjM2ZDNoOHlPdHlvb1BFbUNZSV9tQ0V5aHlOWDRTOEhKeklSRHRFNmRTUWtaeEotTGxxc3FJcXd0dS00U0lvSm5aX1lJeF9KTDJ4RG5JWnNER1AzakxW?oc=5",
    "summary": "",
    "image": "",
-   "source": "MARCA",
+   "source": "Cadena SER",
    "region": "ES",
-   "date": "2026-11-25T11:29:01+00:00",
+   "date": "2026-11-25T11:32:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -395,40 +483,6 @@
    "topic": "Society"
   },
   {
-   "id": "49aec6c8c3",
-   "title": "El CNIO y Stanford identifican una vía para bloquear la proteína PRIMPOL en el cáncer",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaE9LVUJDZDBiQnBISnR5a2hScDNwZ1o0WExBRVBGc3A0OWRCS25kY1dzamVsdTFLc1NLS2hRMjRDa05CTDRDeUk0NU82bVRYMDZPV2JyLW5iT0dJaDJjYzdROEFzakhLUFRhM2dKQjkyQ29MNnAzMVdLNWJDMThLVmpqSVZITTFWVTBTOTlQR2VlVENIbm1CRXlkVlk3Sm1scDBUbERneE1qc1JzTUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Revista Pharma Market",
-   "region": "ES",
-   "date": "2026-11-25T11:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3c06a43577",
-   "title": "VÍDEO: Un turista, atrapado por el viento en un puente de Chile",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2FJSEZpSXJUNXVsdUhPZUJxa0tsd1FpTTJNTENpVWFiQjEzZmJhVEcyS1E3VWFKb0JnU3gxM2dFRkpxTGRCRG1jTU5LamxLYXdnYjh0aFd5d2M4YU9EQXpDS1ZSUjNpazVSYzgtWkNiSHBwNGV5WDB5Ykt2S01XZlB4cTNKN3ltVE1ZVlVPMzJkM3p3RFRoMlpUYVNBQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Euronews.com",
-   "region": "ES",
-   "date": "2026-11-25T10:49:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Chile",
-    "place": "",
-    "flag": "🇨🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b247f1143a",
    "title": "Puigdemont regresará a España el 12 de diciembre \"sin pedir perdón\"",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbE9zWjFaLXdJdDBDMlN5ZDVSdHIyOWllTVhmUW9TcFJZYUR3TG1aZGhQWVR3dGtpZVJGNFFjYjA1S1ZzckNJT0swcncwbTJwRzNMNXA4LUU3bl9GRTdreEFta2R1T0xNNGl0dVU3eGNlbTBWTzY2NjlOT0Jjb3E4R0d3T1ZSS1I4MU5mcFhHVVl4UUdUbVE5MHBEVkhmZFRnOFN6N2h3?oc=5",
@@ -437,40 +491,6 @@
    "source": "Euronews.com",
    "region": "ES",
    "date": "2026-11-25T10:20:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8b3b9860b7",
-   "title": "Mueren dos soldados que quedaron heridos en el ataque ucraniano a buques rusos en Libia",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1NQekZyNDduUVUtU05hejVmd3NYYTJ5Zm1CcjkxdFZmZUR4NTRZMlVBTGhCN0owdkRtdlV1NlNFaHpxS09neGVuZW5MSVVhRjlhYjBCM1RKRXgtelhEYzdxLWtCcjdSZGxkS3AtQ3U0YldmSGF1T3VDWHBnRnBHRlMzOEIxNzFNMlpjU3dvUEEzRE01eFNhTGNKYVRNVWpEREd0OFU2T05QcnRzQnhneV9HcVpVcDNSMWdrc1JOZHhYeWs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SWI swissinfo.ch",
-   "region": "ES",
-   "date": "2026-11-25T09:09:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c47e6c582d",
-   "title": "Sánchez saquea a los españoles para comprar votos",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0RkSm1FWXphckxVTENVQ0tlTUJTOGUzekphRG9LTnhvWjNnMFlGWFdwYlRHblNEX1R5M0dRaUNNMTJyVTg3Ulk1bUI2eXBleHRERnY0RU9XZzQxZk04TFBQeW5LMkRfbzh2aEtyRnBNSlRHQUtIcE0xd04wVTNxWUJ1Mm9nTVhzZlk4eWZRaWhlTllYQ01VcXMyaDVkcEcybnhhMkhNX09hclZh0gG3AUFVX3lxTFAwUm04NjlXYnpJVEFzT09kVzRJQ0wydWVRb2IxdzZNaEVwX19ud21vVVpteVlIYTF3TDlJcUpEbGlXSXMxNnRaRTdyTzZmTmxXMkxCZGlySWNBQjdsWDFGaDcwbFdINkY4M1pnOVJoOGN6TDMzdnBlQkoxMXBZTjVwYWhnQ3FKSFZoN2dSTDNQdjI0Y3RNd2hkc0gtSDdPT0RMd21TeGNkdlFfTGJVVDZMblhrMUhKaw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Libertad Digital",
-   "region": "ES",
-   "date": "2026-11-25T09:08:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -531,31 +551,14 @@
    "topic": "Society"
   },
   {
-   "id": "f3ed949ad1",
-   "title": "Elizabeth Debicki explora la relación de amor y distancia con Hollywood en 'Cliff Booth'",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0VrVGFGWFAxM1BoUkNkbVhhVFpRbDhUMC1FU1dsUWJYLUlPQjg4MFNmZXMzMmVwMGg4cEZyaDNfTmxGUEhkbWVXTDRiSEdIaEVJWWs1endHcUg4bm1aNTc0bXUwVVJiSXJfd3pmRTdzajZuU0VGWUFkcDY5T2VKRTkxR2RJRnBUSHFiZzVfR3dsN1hiZ2lr?oc=5",
+   "id": "4191efaef1",
+   "title": "Ucrania envía un mensaje a Rusia con sus ataques en Libia y el Báltico: \"Estéis donde estéis, podemos haceros daño\"",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGFVNDRTLTRGRXNwRFMtS0dYUVpKQUF5VlZRcVRuU1Q3YUdUcDVpOXNvaWRxS0dSYkFyM3Rmci1jYTRmVE1Kek5WYmtxQ1BVbkxUOTE5aGEwUW56WldMUGp6M1FLa2JVajEwTzdXTUQ1U1B3WDJlMkNlS1NEVGdJc2dDQUJUNWlWaHhmY0xOSFhKMVJrMklKZ2toVk13UURId1ZCNTZ6dUgzdFUyVFlwanlKWW1VUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "RTVE.es",
    "region": "ES",
-   "date": "2026-11-24T18:16:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "4ffcbad946",
-   "title": "El Ballet Flamenco de Andalucía inaugurará la 31 edición del Festival de Jerez con ‘Flamenco Patrimonio’",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEJ5OVNaU0ZKeHlucGJUTVNSX0FtNEhVcVA3azcxLXI5MnFZUmNLX2xlNlVpYnZ4enhJYmtpWjdIbFdtNC12LVdrVWdncTg2QWZtNGRYWE1nYXp6SkRJWFFCYXRzcDJNVEpmdjNodHNiWXhPODhxeDBNS1ZBUTluaGgyT2gxb2o1dDB6UkpuRXVYbmhqejlIYmJTT0huZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Junta de Andalucía",
-   "region": "ES",
-   "date": "2026-11-24T15:35:55+00:00",
+   "date": "2026-11-25T06:10:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
