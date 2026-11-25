@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-25T12:51:32.979146+00:00",
+ "updated": "2026-11-25T14:18:55.131452+00:00",
  "code": "AE",
  "name": "UAE",
  "stories": [
+  {
+   "id": "36b3d91bc9",
+   "title": "'Dancing With the Stars' crowns mirror ball winner: Finale recap and latest updates",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb015WDNqeUhsWm1ZTGJBODFPTzJ1VEpOQ3dhUVNubnlIdHNTY3M5c0JSS1paVzJ6RFJReFI1SU1udmYtcjVPZzFoVmJrNGdlM0RzWm51bzdUbmRjZ0Z3SVhtZWF3WE1uZmFNMFI2QWdqNENDRUFxZjk4LU5KeGV1N1A4WTRES1pOaEFXdFVPNnhDWktMWEZwOFFTQlhvV1Q3bklhM3lGb3NzRTJwdksxOWFldUtHOXkwVzN3cHZZSm5lNTJvaTRrMzBJU1BRQ1liT3VKY0d3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "AE",
+   "date": "2026-11-25T13:58:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
   {
    "id": "4daa188c69",
    "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "Bloomberg",
    "region": "AE",
-   "date": "2026-11-25T12:10:35+00:00",
+   "date": "2026-11-25T13:42:05+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -21,8 +38,83 @@
    "topic": "Tech"
   },
   {
+   "id": "ff4b92e9cb",
+   "title": "US preparing to unveil plan for new tariffs on global trading partners",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "AE",
+   "date": "2026-11-25T13:19:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ae74cd9c47",
+   "title": "Kilmar Abrego García arrives in Spain, ending deportation battle with U.S.",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazdGeXhZRXdra3h1RVVvQy13NjM0Vl9GektQajMtS01CVV94ZlhRUVpHYVdOQ1djTF9UeURGZHluek9YWTJ3MnBLcDk5aFExY0pLTXZHbXdzNGRPZHd2T0lPZUkyZ2xkbHJiNDJRQ2JvZEUwVFY0VGN6RVNDZkJPVw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "AE",
+   "date": "2026-11-25T12:40:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "61d2d398ae",
+   "title": "Visualized: how Democrats swept downballot races and tipped the balance of power in the US",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2E3WnVrOWkwRmN0LUdiZjB0MFJacnVZYWFJeW1qcjc1LWphWl9OT0JBZ0o2blQxN2FmZ090b0EwUkRKR01PZS00TmV1SzREVjYyNi1USmVYZXlEN3Juc3FYUjlBWGpvN2hXYlRraXQxbzY1cVE4UmxDVjRGOUt5NG8wcU92MnN2RFBtYjhQOUZycWxzc2dFZFhZTTZCUlp4NURzRDktOGtXSEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "AE",
+   "date": "2026-11-25T12:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "69a7b534e8",
+   "title": "Ukraine’s raid in Libya damaged more than a Russian warship",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkpQRElXWjRfb0hUMDRUUmJEYnQxT2hLZ0RZdEhDajBFOVE1Z2s1czNKU0l1XzE2NzRrdmpiWndxRmxSRFoyMHBQZGVoVlBTb2t4VnZrQWQyQTBEWk9jMmxZdGwwRHIxb015TUNKLXptRFN4SDVtNG83S2hmZTJLaWpDdzRGRWJNZzhtcS1HTS1Vd1k3RGRJeS1kRG9CWlE5YmVB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "POLITICO.eu",
+   "region": "AE",
+   "date": "2026-11-25T11:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇱🇾 🇷🇺",
+    "also": [
+     "Libya",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9083d3b8dc",
-   "title": "Thanksgiving storm 2026: NYC weather, wind, flooding and Macy's parade updates",
+   "title": "Thanksgiving storm 2026: Rain, wind, coastal flooding and Macy's parade updates for NYC",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS21LblRMa0FVeHR2bVB4bkUxZWxDZ3lwQ2QweXpxV1lFVG1yck42Mm5qSVp5NUltYlZoUTQ4NEloTV9Jd1NxeUVDaFVvR2R4eEJMNTRPUW5JT2RzU0hJVVk1Q2FTTUZLXzdxZTJaQ3FEQklfM1RqS2twQ2NSM085TjM4c3NmSm5RSmNiLVcwTFJ1V1hxSU5LRG9KVEN5dFBHQVhfTU5TNzR2RnJjMkRNTGRGQzU?oc=5",
    "summary": "",
    "image": "",
@@ -38,39 +130,19 @@
    "topic": "Weather"
   },
   {
-   "id": "b23539c7eb",
-   "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5",
+   "id": "97c3336eee",
+   "title": "More than 490,000 Russian soldiers have died during Ukraine war, leaked data suggests",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2pWcjFHdXEyc0tDU1lnYUFVaDhneEg2eHY4ajVDaG9IemhYNXpJejJ0ekFfRmNQM2xXaVVKTWlSRS1XUGNfekxtNGEtXzg3SHNCZlJtOURPdFplQ2N3Z1dLcDVtaldGTmRTSXNEM1RtSTVRUU14WHBINWJfVkRfczczZ3hqaUJGNlVURGpn?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "CBS News",
    "region": "AE",
-   "date": "2026-11-25T11:29:40+00:00",
+   "date": "2026-11-25T11:38:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Spain",
+    "country": "Russia",
     "place": "",
-    "flag": "🇪🇸 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "86702b1900",
-   "title": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlhQMFFISGFSRC1TVkJtS2FtWXl1anZubHJfTnY1VzdiaG5fV2J3MGlWZk84RWUtQUQtRG1DR3Z2b2swWjdacE8zRG1xcHFHN0p3Q25GX3dMTHByRTBnSGl6dHBkcDQxZHF3VF8tMmVLVG5jRm50aGtndHBhWEFaUkFaaVJoZkp1aW8zMDFpVlZlODhqeXhwVG1TV0VNd2Frb2ZsUmg1R0wyb2VxclNscVVRMzc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "AE",
-   "date": "2026-11-25T10:43:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Libya",
-    "place": "",
-    "flag": "🇱🇾 🇺🇦",
+    "flag": "🇷🇺 🇺🇦",
     "also": [
      "Ukraine"
     ]
@@ -78,19 +150,87 @@
    "topic": "Society"
   },
   {
-   "id": "b0d0dd5c2f",
-   "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXNUTnI0TjBCcXhtbExWNS1iNTZ5cHMwTWZ5ZzlZSldDYmNsbk5tc2F4ODMtR1JLSmgzcTVaWk5vQllsRVlVemw0bHZoMlg5MDFLZUs5djJyQkJ0TmFzWFNUdTNvd3ZFZFBVRWhPZ3FtV3R3dHpnaV9idmxOcXo4dWN4aVBoUVk?oc=5",
+   "id": "6b95cfc49e",
+   "title": "Steelers are benching Aaron Rodgers and Mason Rudolph will start at QB against Broncos",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzVseGlXdFQyMk5IQTExaWFlRVQwZjhXRUpVQmVrMU96Z0l3MWh4ZlFhTjlLcmZ6VVZJWUMyczJ5THRSZ3dfR2FHQUJhRlZsU01mNjRWUW9rTkhheVJSWkRWWFJNUGhNd1d1N3pEOWtrNjV5dk9FYWUyY0hDaG16Vg?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "AP News",
    "region": "AE",
-   "date": "2026-11-25T10:03:00+00:00",
+   "date": "2026-11-25T11:31:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "919b67b568",
+   "title": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oMUp6Z01JcmRwSFdlYmRFVmlpcG4waEVJZUZHc0FMUHYtOHVkR0JuaDNGOFd3bVU0MzFiNWRqMmlTY2lvVUJMelRWTzVBclUzQ0Fia21UbGdndlpweXRyOVJZblh4WmZmbDlnaFFaWU9wdExScW5ZOFM3SQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Finance",
+   "region": "AE",
+   "date": "2026-11-25T11:04:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "5f0b246574",
+   "title": "Trump owned millions in Nvidia stock as he pressed chip giant to reinstate Jensen Huang",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MDQ2enUzdlIwVHpBQTRKRG9Gek5jcTVtdGNaclcyRVpzSVVnWUIxRl90OFZoSGpaNS1HZ0N1bGw3TFNqazVDS1JMVVNvOEpRVWgzbnFPZUNfUm8ydVl6cnlkLWJ1M2wxWkNTQk5n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS News",
+   "region": "AE",
+   "date": "2026-11-25T11:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "8c5730316e",
+   "title": "Live updates: Army prepares to detonate several tons of lead azide in Iowa",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jM29tQTdiWU8zclNUZlhmTmFwbWQzODNTMVR4aWt3WklLc1JtMnJQMWF3RlV6dUp6MERQLWpOYkQ1Y2hNZ1hiTUh2WGlOejdHVVNoOWk5TmZWUGEyTU5LU2ZKcWxnMFI5S3NpZFNweUd1ajRUMFdONDlR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "AE",
+   "date": "2026-11-25T10:21:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8dcdae400a",
+   "title": "NFL staff picks for Week 12: Bears-Lions, Chiefs-Bills, Seahawks-49ers, more - The Athletic",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUVyWkdYRWxBRHhZdTdYS3pmQmI1R1ZyZFhtNG96Rk5GRTRlTG5acmMwamdIalVzU2VHNmg2OXlKTzdvQkNEa2prTjc1YlA2cFktYXBqVExkMl9JeVNza2taRjNYY0RYNkMxSWhuSjNWNEF0ekZuVzJwVG10U3ZFbEpTbUZULUwwZkt0eWpyXzlIVm15WGhUM2NvYVpRVmp2amNkMHlxZVczMW1jU2hoVVhKV2RIeWM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "AE",
+   "date": "2026-11-25T10:00:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
    },
    "topic": "Society"
   },
@@ -112,31 +252,51 @@
    "topic": "Society"
   },
   {
-   "id": "dfae06b466",
-   "title": "Nvidia stock stumbles again after Jensen Huang's spectacular comeback rally",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRjhpLUVxeElZVDJYWkRuMEZkMmFOUW85NDlnZjVKTnRxTHRvZlZHQlZwRjZGNmZPaUdVdlkycC10RzQzSm1nZ0taalgzajJLRzNIb0lGd3RCb183WGhJMlN1Ul9QTEQ5a2VhcVdYM0ZNWnFHOG9JT29tc1FtMzlzTm5DZmVHTUpSQWdIc2pMaFBnN29TUEpzSlZPeHVBZ3Q1VDBKRUJYczl2ZGNmMjgyUVZIT1R1NkYtM0EwRzF0X0ZDNWRqT2VZM0g2Um8xVU5SaTZzNQ?oc=5",
+   "id": "e118f54368",
+   "title": "Democrats in Congress poised to avoid some voter ire if gas prices go up",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM3hod2JlNzdZSVVBQjNHSDdKcXdHNmJLSi1UWGxGNEloRGdPbEtPZEYwLXlSNHYySS0wVG5ZODJKQmtTN3FZaVRjTzhmQnRveF82MFA2Z2M1cDZ3M1ZsUHVpWnppU2xWMUpMWHIwVUJNbWxrSkgwam0xSWNmMThfN0pTaXp0LTBVMVlfRzY3ZEZydXJO?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Finance",
+   "source": "Politico",
    "region": "AE",
-   "date": "2026-11-25T09:47:41+00:00",
+   "date": "2026-11-25T09:45:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "UAE",
+    "country": "United States",
     "place": "",
-    "flag": "🇦🇪"
+    "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
-   "id": "367ef76698",
-   "title": "Steelers bench Aaron Rodgers for Mason Rudolph",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTExESkE3Q2lRQ2hqVWs4blFtRVhCTXZnZmd2bV9PNXdqUTFVMEZVU0hxeUtPVk5vY1luVVYtZl9KSXdYUFVFMkM3VG50UU43b2NHbzBhOWtQSkd0YUNSUUFGMTFwa2hxaHBwYWI4SXNkT3I4bEREOVd2VXpqanNEYmpDN3ZtNDNZd0FtT0VhMUViWUx4RE1ZTHJISnRiRWR6cjc0U0N4ZV9qV3Yy?oc=5",
+   "id": "85d4882075",
+   "title": "EU’s quantum sovereignty push shuts out China but welcomes US firms",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWp6ZUpwOFJDa1owTkFGMExHb0IxME9nR2QzS2VIRHRJeTJkd25WOE9tYVFZZk1oNDJqMkIwZ0xVNzAzT18zMXBZeUlVT1otV0ZIdDZOb0RvdGNRRmtDMVhEZ1BOWDQ0WUk2M0gza3hIdzY0VWVidWVGYTFyMzgyd25BUG1aZENFaHkwUVNkdmVwT1pwZ2lHM09LZ2lDRUhfQ0FMNlcxU2ZwdzhKeTFoNk1pNjZabFJNMERjeNIBvAFBVV95cUxQU1NOdTkwVTN0NUdRZ2RWbjRkVXJsN0VwWWVsbGpXNVRKOEhxRll4NEpRbGw1VkVHamxjWjVoaERfX0MzUlhzdFg1MmdvN0txbDRqaTNURnh2MGpYTE85NDIwSE55ZUgtM0VwWlBmMTg5ekdsS1hGMmZlUlk3UllXbDZ6YVhkWm85OU9CbFlWYmx3NUlaQnRxTnRLZ2JvVHYwNF9hWGpkNmstMjVnNzZKWGdxXzVBWW9NQkJmMw?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC Sports",
+   "source": "South China Morning Post",
    "region": "AE",
-   "date": "2026-11-25T08:50:39+00:00",
+   "date": "2026-11-25T09:03:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1d769c4501",
+   "title": "Small Plane Crashes Off Mississippi Coast, Killing 6",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckk2ZTdhT2tiUm9fQ1ZsTTF3YTBjRWx5ay0wOTN0ZXh3S1UybEFzbFY5U3VlaHhncmFjX0RJU3V5RHFibVdrUjlHRWN3RnhZeUlsc19ELV9wdU5ramowT3EzaDhPaElsdF9FckYtWll5bVdmTHZTTUdDemJ3NzhtYXRBUk0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "AE",
+   "date": "2026-11-25T08:57:18+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -163,9 +323,9 @@
    "topic": "Weather"
   },
   {
-   "id": "662811c241",
-   "title": "Scientists discover quasar formed 630 million years after the Big Bang",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWQ4MjJwb3M5ejZIa0dUbDBncmVLaDAwMzlHQTd1QUFXQW9LQkVnOW8yNWJ3SjVONGRQZk80bDlpTDduR3VhQlA4d1pOdWRBVWpFT1F2WEwyTnpKTS1OVV9ZaHRCb3BST290N1RwMHZ1NmpLNlVYeW93NzVPNW1tREJ5MVBXcFZhS29sNVlDdnA3YWhkT3Bjb1l1UjdtVEg2UkNmcUZR0gGmAUFVX3lxTE1FTTBrQzU0VWo2ZHIxSlhqYUpqaE1nMmJhVUQ5VUFjT0F3WXV3cy00eFdkUU5oSnV3Q1E5RERrdTFqWk52Ql81aE9ITmNidHBfaFl3THpDa3VkWjBHdXBfN2pjdVVuaW5Hc3BwMzhmRkx4V0dhOVlhT0lYZFlQd0ZQWVVuTHdQYkdlMmRGUEtoa29RNVVKZXhpZDJwR0N1bnZUVnhCV3c?oc=5",
+   "id": "1c10906cce",
+   "title": "Scientists discover the most ancient quasar in the universe",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWQ4MjJwb3M5ejZIa0dUbDBncmVLaDAwMzlHQTd1QUFXQW9LQkVnOW8yNWJ3SjVONGRQZk80bDlpTDduR3VhQlA4d1pOdWRBVWpFT1F2WEwyTnpKTS1OVV9ZaHRCb3BST290N1RwMHZ1NmpLNlVYeW93NzVPNW1tREJ5MVBXcFZhS29sNVlDdnA3YWhkT3Bjb1l1UjdtVEg2UkNmcUZR?oc=5",
    "summary": "",
    "image": "",
    "source": "DW.com",
@@ -180,198 +340,56 @@
    "topic": "Society"
   },
   {
-   "id": "2d7a4d09ad",
-   "title": "Asia’s markets dive as return of Nvidia’s Huang fails to quell AI doubts",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTBONWVtRGk1YWduRmRYM3RaZ0ZIVFNqTWRQRG5fTGZ2SWF4elVlSFJkdWpoUHNUcFdjQ2o3ZDFLeUFPVkJYaVRjWnRDWDdfLWdackM4LU1WM1M3Yy05X3pvMVR0dnU0UzJ0R296YWNWaVdJUU5KZ21DU2pOeUpUTVhGOUNadjVPbTZCS1lpaUNjWTJvZklNY2U1dnRWb0HSAaQBQVVfeXFMTlJpRmJuUU82c0pTdnFPOENwTF9GZ1g1d3hDaExGTUhDbWJMT1VvNmp3ZEtGVmlxbTl4T2d3SFI1VnFndlZVYnVzYXRnMUdRSUxTemo4NERuNVo5OUpqVWhyOEMwQXlMM0NOSjBZTEFQX0x0bFZ6RDl0czhqbWMyMjg2ZmtHMHZWY0h3NW1BeHlpTHRFNHNScklvYms5OXVJcWU3dnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "AE",
-   "date": "2026-11-25T08:04:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "d5a6735c6f",
-   "title": "Live storm updates: Record king tides leave Bay Area roads flooded",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC7 Bay Area",
-   "region": "AE",
-   "date": "2026-11-25T07:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Weather"
-  },
-  {
-   "id": "7e68ed5e34",
-   "title": "Criminal charge against incoming House Democrat dropped",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcHBOS01WSjAwMjFXY25FTkVjaHJmRUpLc0dpVWt6Z0RjbWRndEZtbTVRNWRUZTY2dUxqMFUyaGRaY2k5bG9MNkE0cUVDc2pFN1N3ZWp1R05hT2lnQXVPRHVXc1NvVFhZSG00UDcxSURzbEUxRE1WZ3doeHQxbDZlYnF3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Axios",
-   "region": "AE",
-   "date": "2026-11-25T07:33:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7b1f86075e",
-   "title": "Plane crash off the coast of Mississippi kills 6, including 2 children",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEh3VHJBUW9yQzVjTncwWGNBRkN2U0wtbkJxWHpkU2JXSmE2Ukc2Q25aUXZ3ZVVsN2lPd1JUTnE4ZUNxTDNIMXEwRXJZV01ZVGVwaERxdXdjMTZjWGQxaVpXSTBIWEtoTDNhZXdBcW5ESVdvUGhiLVpXYUFUMHRJQkVWZmNDM29CUS04cUx3?oc=5",
+   "id": "f792efd1cd",
+   "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3M0QnJvdnFlSmxYai1OZWNwd0pYOFVKa2t3UDZhLXZkcXVkcmNOZHU2ZEVCQk1HX0liM2ZVb3piZDFiaE5SSkY2MWdZeFNmOVhTWkM3RDdqSHYySDNkSTNwcExoemNqTWtoLWNQV1VDNXota0w3Ym1FLUZxOXFPZnB3UlllbEJySmhJ?oc=5",
    "summary": "",
    "image": "",
    "source": "AP News",
    "region": "AE",
-   "date": "2026-11-25T06:43:00+00:00",
+   "date": "2026-11-25T07:24:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "UAE",
+    "country": "China",
     "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4ca8c931dd",
-   "title": "Solomon Islands signs treaty with Australia that checks China's influence in the South Pacific",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnFmRmJkLVRidmctZElBTjI3YzQ0OVNIZmRNZ1I2Q0NTNXM3TlpERXdYejNQVzA1blN6c0VTbjJsZXZ1U1NJYTdGQTJhOV8wQTFBVEtyTXRobGxYdldFQmtLNjU3S0tfREhCaXpBVVJYT1FhWC1EU0MzRll1ME1OSDNDZXZhV1FpOXEyNVROak14dFo4d2pTQzMxR3JoUWk3MjZib1dxekNfdHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "AE",
-   "date": "2026-11-25T06:29:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺 🇨🇳",
+    "flag": "🇨🇳 🇵🇰",
     "also": [
-     "China"
+     "Pakistan"
     ]
    },
    "topic": "Society"
   },
   {
-   "id": "338504e56d",
-   "title": "China: Xi Jinping's anti-corruption campaign ensnares rising star and Shanghai party chief Chen Jining",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12X2FaSWZ3SlpySnltVHRHZGNLOTV3NXJUNUZXS2NqNFRuVEw5enNkWjRWMmk4LW1WeGplSTR1a2l5VXJjSmFJc2gwWFR0X2ZhMi1pRDdCMXRLUFk?oc=5",
+   "id": "9df5d09f9e",
+   "title": "China's Politburo shrinks as graft crackdown spreads",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkVra2VHQ1VrTFk2ZFRaLTZaLWhackFqUm9ZRkJsTVVpNUd2UjJ1ejY2XzctUmcxUFlKeDBrR3h1bE52cEpWUmhXaFloaUFLQUtCNTdzZnBUUkFtYWRNVGREZWtDWHdMdlJmaDJka0NNOEtCUkgxbnJwTDVpSk5aRTVHTko4elpoZHlFNFlMSldqcDJqUExrQ25VRVc?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Reuters",
    "region": "AE",
-   "date": "2026-11-25T05:37:25+00:00",
+   "date": "2026-11-25T07:04:00+00:00",
    "coverage": 1,
    "location": {
     "country": "China",
     "place": "",
     "flag": "🇨🇳"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
-   "id": "4023883eb2",
-   "title": "EU plans €50bn tech fund to close gap with US and China",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3FPSGJQTVhoMEZQb1luaFY2US1lMkpsRDI3a1h5NGtZVTktM0FxS1lSb0g5NEh5NVhHdGJCM2JYSXdHcEE5VUN0akVCLU9sOFV4dWpDZF9kUUQydEs4VlJzUjk1aGJWVWloaWs0ZUtLRDUwLVNJUDZldUdlQnc2ZmMtbGQ?oc=5",
+   "id": "8b0dcd6fc0",
+   "title": "Fort Hood shooter Nidal Hasan asks court to delay firing-squad execution so he can fight sentence",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0FKNHlHNndoa1p1a08zekt3aUZXNkJ3SkF2ckQtYy1NTVFoVHRXdHliYThvNzk2M2E1RlhxOUZ3MEVnR2JvR3phc2JERXRBWXlEQkZ0djM1bnlxb2g2blJ6MWtvYjlmNzhPQUE3TU9pNEkyajFhLThzT053d25Oby1BRFhRTlA1cHhNVS0zdEdBM3FwMzZTb0pPTDcwWklkTFdB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "AP News",
    "region": "AE",
-   "date": "2026-11-25T05:00:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇳",
-    "also": [
-     "China"
-    ]
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "3b2b72cdac",
-   "title": "'Dancing with the Stars' season 35: Ezra Frech and Daniella Karagach win Mirrorball Trophy - ABC News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY29IM3ZmMkktc1BOR19BcHdTWE5ReHhzY1ZyMUl0b29tc1BFbzVuWWE3Y3hyN3QxOE9uNHQxQzZzajE0Q1lqblBuY2l4TDJKRWFlTXFuRFlrOWpMMHFvOEEtSW1PME4wR0VBbFp3dm1sbXhuWS1wZDJLaGp6dnJLZ1l4MW1Vd0JaTTQ5Y1doUWJuSl9JUFZV0gGcAUFVX3lxTE5mMzBNdHlLaEQyamtSTHQwVy1zUEozZ05nMERaV0ZVcVBEdi16R3ZUeGFSVXplYjFVMmRRSUtEenkwS3QwemxBY2hGSVo1TTRyZmdkQjFycXVhYkFiLWVJeG1lcFpFQm5pM21ZRkpVT25HYnk4UlVEQlBid2I0eWhaNGhUelU5dkxiQlVVdjdzeWRkVnp2NkphZ2RsYg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Breaking News, Latest News and Videos",
-   "region": "AE",
-   "date": "2026-11-25T04:04:03+00:00",
+   "date": "2026-11-25T04:10:00+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4f126d94a1",
-   "title": "Shenzhou 24: Pakistan's first astronaut goes to space aboard Chinese rocket",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "AE",
-   "date": "2026-11-25T03:46:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰 🇨🇳",
-    "also": [
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "077d270238",
-   "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak95N3VGUTZral9OeUxMdTFPTmE5TWJ2VThkMmFOWDU4YzhGNDJYSEdFNHhyS1daTl9kVXB5S3hoMXpjdXhWM3Z6UzFydzBRWEYxYlE4QjJ0U2VDUGlGOERKdkcweDBUSlVSX2hvZEtnUExFU1owdC1MbUFUVF9CTnB1OGNRazFHTlg2bEFmQzhKSjlSVUFEemhpNjVNVWxVSDRGQW4xR0ZfQU1FLWZlNU5NTUZRT2J1MnJLU1otYXlTUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SiliconANGLE",
-   "region": "AE",
-   "date": "2026-11-25T02:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "6fcc9c46ba",
-   "title": "Trump awards Rudy Giuliani the Presidential Medal of Freedom",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnd3R3hxV1laaFBNUnMyeGY4RHlobjhYdUloWjNMalpzaGZ4aWFSTWhqVlRvb2tZbU1qdWhaWUdLZzRtZlBoSWc4SGRiTU1Eejlwcm44elVBSFd6MC1faWllOUdvQUkzLTdMa2YzNFZEM0Y4TFZnMG9pZGo3TWJwTlI0M2oxbEdhY1VMRFNTcGV4aWx5YzlfakJYRzZUOWVFZ1hqMWZfUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "AE",
-   "date": "2026-11-25T02:35:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Politics"
   },
@@ -393,31 +411,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "1849e1e53b",
-   "title": "Fort Hood shooter Nidal Hasan will petition to delay his execution, court documents show",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWENhWVRxcFNVSWY3UzI1bFl1a1ZDM241N2x1SEVma0NyMlpBaXowWmh4Sy10cnV0SEUwOUUxSVpqQjR1S3NObVItTVYyWjNxM2NrSkxQYW1YbzhzLXJoaTVMOUJ4dmV6MHlyQlBsbXp2Smdq?oc=5",
+   "id": "77e3e8e563",
+   "title": "King tides in Bay Area: S.F., Marin could see waterspouts",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlNQZEpfN2FJb2gwQmZLUnl6SVU5T1dYT3ExRWZ3UHZZZHFkR2txYTBsUDRLa0NmWFd5cW8wWXRWamZ4NVYwYnFLNXo1dWJkNS1CaVA4cUVFMjJ1WGROYkNSWENqNlRZbEU1Q2xMM3ppNFJwN1JHZVpXRGxQenk5WXpnNi1DTi1lT0o1VklRWFF3bFpwdi1lNHJMUUlnNDl6VTZQVElFZVA?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBS News",
+   "source": "San Francisco Chronicle",
    "region": "AE",
-   "date": "2026-11-25T01:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "c83be069b4",
-   "title": "Fantasy spin: Larkin has high ceiling after trade to Canadiens",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3ZINjMyRDA1dEJBUHpBUUpoejg1cHdPQkpjTkZ6M3dZeDdXX09GRTlnVjRlYVI0ZWk2d0VIb05OLU5kWjdLVnE4bXBLSFU1VXV2UTRpX1ZsNDBxTElXMG5Tc2g5VGZ3aFpBYkIwbHAzZ3FzX3VvRlFtR081bS0wck9HcUJrazZLZEhjU2JTNmRWX1dnblE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NHL.com",
-   "region": "AE",
-   "date": "2026-11-25T01:35:14+00:00",
+   "date": "2026-11-25T00:30:27+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -427,31 +428,14 @@
    "topic": "Society"
   },
   {
-   "id": "4ab08babc3",
-   "title": "Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU45T2R4b190a09md29LOUFlZ2NEenAyWG1Lb2J6MVNPZkNMUXo4S2pLeURMcExhZE5keXhYblFJRWd3TVN0c3BXNF9XaG01WUl1Y2V3ZEZjc0Nib0tWdWdFM3l2ZUltemlnU3ozYlNDcXJhYjVmWC1FaW05cWJxa0ZqeU5hcUJ6ai1URWllWmNOcnZHS21WdnpmX1lnRm1ZSFFYVVN4cnlKX1FZa210ZGxDZzQtRXJhYXVtTVFHMA?oc=5",
+   "id": "1dafcdfa8f",
+   "title": "Week 12 NFL MVP tracker: Brock Purdy reclaims No. 1 spot; what is each candidate thankful for?",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2xyYVBTRjdaUXoxUUVfVF95d1NfY0RKWFhyYllYMUVJYW9wME9jcEVUTEJ6U1RZYWdFZnVkZE5idmR0TU9pWnJpNmZCc0pILTVxdnZORkd4YS05dUtaVGR0NVBPZWlTTHhSSUNkYkQzU3V5cEhQU0N4NVV5YmJwS2JPOUhKblJ1bEFZRHdmZ29hV3dRQ0EwZTRzdnJNWHQ3N0JHd1E0TDJPd3dfQzk4X3c0OEJCQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "9to5Google",
+   "source": "NFL.com",
    "region": "AE",
-   "date": "2026-11-24T23:54:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5f58f57867",
-   "title": "Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3clBLT2pYR3ZWWE1qY21ackFoeVRPQW8xSV9zSWlHdC1CdDFteXVSVWtCLThuZWdaQVUwc3R0SVc1S0pZb0ZfVEI3TVdPeDVQUWgtZURBTzFnWkFraXpKT2tzbkRzN3VlaFdOSWVOWGNiV1d0amc4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MacRumors",
-   "region": "AE",
-   "date": "2026-11-24T23:45:00+00:00",
+   "date": "2026-11-24T23:08:54+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -495,6 +479,23 @@
    "topic": "Weather"
   },
   {
+   "id": "b04fc882d6",
+   "title": "Google Messages replacing old Gemini with new ‘tasks’ chat, and it’s very proactive",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YSWNiVTRfbWFJNU84RGdEZUFvWjY4RTVoUnZWdlZSMjN1WWU4YmtfQ3NhZjIySHVHcUdVOGhmQXNqZGJocmZsOTlmYXhtTEdieXJBckNFckQzdVlvbU9ac0t3b054MjZvMGdvUTFKUEk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "9to5Google",
+   "region": "AE",
+   "date": "2026-11-24T22:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "523e7a8819",
    "title": "Do adults need another measles vaccine? Pittsburgh doctors explain who should consider one",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNW41d3hlaDZQRFJESk5MMUlnS21JZklYX0JqYU5MZGc1N2g2UmJoTFplRF9odjlzbzMzLUFQS01zYzl1ekNPTjM1cDdYWWhiLTRrYWo3aVRsYTdJRl96S0wzQVpEOVlsRURlYVQxYTVYakhGUVdLNmRGNWxzNFA3dWJjVGVFMDh1U3NOeDJ3V3d5Tm5xbjYta1cyWVRzeE80LWZWWlB6WTY3LTk2YkYxeXdzbDZGRHlWREVlOWliODZTOXht?oc=5",
@@ -502,7 +503,7 @@
    "image": "",
    "source": "TribLIVE.com",
    "region": "AE",
-   "date": "2026-11-24T21:22:38+00:00",
+   "date": "2026-11-24T21:22:54+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -510,23 +511,6 @@
     "flag": "🇦🇪"
    },
    "topic": "Health"
-  },
-  {
-   "id": "e57157bdca",
-   "title": "Measuring Democrats’ House wave",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82ZklRVldXbzJwWnJwejJ4T2lsbWREV1p1ZWRWbGNxOXhEekY5dXFya2pRRHNUY0pOaFRSdTFQSEU1U1A4a21OTUp3Uk1pdFNKeThaRDF5QnJNSnN4cDNpSlVHazNZVlZ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "AE",
-   "date": "2026-11-24T21:00:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "f5c7bde990",
@@ -597,14 +581,14 @@
    "topic": "Society"
   },
   {
-   "id": "03408c5fb1",
-   "title": "Double asteroid solar eclipse caught on camera photo of the day for Nov. 24, 2026",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHVUMzdlTmtHSjZFTlJUNjNuVkdiQXh0Qm1qaUNKbHprMkt5eThJaEt3ejlYaDhpNWZJRzNrUm1KMGNpQ1pHMDh0OFJjRkd2dWoxellMblhzdHNXVkllTUV2SmJnZW14SWdNdUhuZEhGT2lLRkxLYkhqUzREZTFRLXNRR3k2ZEdrOG9SZ3NoZExKNDBNYXdVUFVIQWxXRlFRZ3ZReE12YXNHSE9fbXFMbzRaM1BSeXloaVJyTTF5SWVJZWQtNkE?oc=5",
+   "id": "1700de5fa6",
+   "title": "Exclusive: Motorola Razr 2027 Arrives in January With a Bigger Cover Screen",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yaWkzZWFSbm5oQ3B1QlViRTBBcmVwMjVWUDFUaEE4SU5HWFNZVEh2ZnBRNHo2NWVmbGV1ZzBVTm1nbERBaWdHWVpCUlJUTEROdE13enp4ckQ2ZzUzM2pfOA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Space",
+   "source": "Android Headlines",
    "region": "AE",
-   "date": "2026-11-24T15:00:00+00:00",
+   "date": "2026-11-24T15:03:33+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -614,14 +598,14 @@
    "topic": "Society"
   },
   {
-   "id": "523a2b046b",
-   "title": "NFL Week 12 picks, score predictions: Bears, Chiefs lose on Thanksgiving; Rams edge Packers in thriller",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSklpa0NPVktRQjdfM1YxVG1aVXl1Z01kQ1lORVpNZ3RiVXh6ak9RUlVWWnhuMUFwX0gzNzFvaHlobkxmLXRYbTBEZkhFbnZFWnJ2U0t3OHZSRU1mN0RIMk1xYmhISEdiWU1NNFIzbXpzRnpVNk9zNWZSdmNEemNJdVNrZlVQYTJJams5R084aVBZSEJZY2ZQN1dNTlNhZW1kWU5OSkhBbw?oc=5",
+   "id": "03408c5fb1",
+   "title": "Double asteroid solar eclipse caught on camera photo of the day for Nov. 24, 2026",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHVUMzdlTmtHSjZFTlJUNjNuVkdiQXh0Qm1qaUNKbHprMkt5eThJaEt3ejlYaDhpNWZJRzNrUm1KMGNpQ1pHMDh0OFJjRkd2dWoxellMblhzdHNXVkllTUV2SmJnZW14SWdNdUhuZEhGT2lLRkxLYkhqUzREZTFRLXNRR3k2ZEdrOG9SZ3NoZExKNDBNYXdVUFVIQWxXRlFRZ3ZReE12YXNHSE9fbXFMbzRaM1BSeXloaVJyTTF5SWVJZWQtNkE?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBS Sports",
+   "source": "Space",
    "region": "AE",
-   "date": "2026-11-24T14:26:00+00:00",
+   "date": "2026-11-24T15:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
