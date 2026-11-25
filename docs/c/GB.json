@@ -1,22 +1,76 @@
 {
- "updated": "2026-11-25T14:18:55.131452+00:00",
+ "updated": "2026-11-25T16:46:30.075860+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "c36f113cc7",
-   "title": "Donald Trump readies raft of new tariffs on major economies",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
+   "id": "eb6570645d",
+   "title": "Blasts heard as US Army carries out controlled explosion in Iowa - live updates",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5U1RoRFBhUzgwWVk0ckF4TFBHb0k4blZTRUlBRDB2R1NPRm5sTUdRbno0TzYyQk9jMnpQTUE0aUcyS2tlNlg1V3IxRkVuSkEtbjZwMlhxRWU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-25T14:00:55+00:00",
+   "date": "2026-11-25T16:45:08+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "068974ac1e",
+   "title": "Trump proposing new tariffs on 14 partners including China and European Union",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-25T16:05:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇳",
+    "also": [
+     "China"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e493d2bd8a",
+   "title": "Poundland collapses into administration",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaG1DY0E0Sk1LMWRBaWUwOUM2Ylh3ZXNjTE4xWDVnUnRMWXFTZWNFRENjdjhTVXRmZlV4ZmVndWxRVk9ZZTdiNHZVVXlKSW54TjA5U2RYdHdzSlY5Um5tU1JOS042UHNxbW5kQkVwZ0VKRzJ6TWw5RlpwU1BMaGZ0TGdzRXZjLUpDNWlTeWxvemxZdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-25T15:40:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5b158faefb",
+   "title": "Raheem Sterling: Former England international given suspended 12-month jail sentence for dangerous driving",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWVhIZGhoR3N6OUJfb0Vxd2NxaXNFV05jdGZUT2dXMDZmUVVKT1Jua1V2U3h2VUN2Z04yTzcxbW5QZmtWbEU2VTlXTG1fdUthSTZxcUFKQks3UTBBM0xYT0ZZdVN2bm04Y3lIdThmZzdGNDdHcVFtREhuc2ZoRzJwR3JJbUFVQmkySi1UQWQxdjBlRVdVdkF3UEhtMjZTakFacWVTcFNjTVNnYkVHUGxvVWJMV2NMeGM4Tkp0TEF5YXp3QzR4bGxpV2JUR1VDTnlUNmZESlZCdGdMVTgwZXFfeTROdG9Db29ObUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky Sports",
+   "region": "GB",
+   "date": "2026-11-25T15:37:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -28,7 +82,7 @@
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-25T13:34:00+00:00",
+   "date": "2026-11-25T15:23:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -36,6 +90,148 @@
     "flag": "🇦🇺"
    },
    "topic": "Sports"
+  },
+  {
+   "id": "880adb8519",
+   "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1tYlZLa09fT2lTMy1RX1d6S2cwTWFCLVdTczhIb3pwZXlkNk5RYlJ2QkNTRnJBSDZqdkk4Y3dqNDAtNjBHR1N0bFN5UEFqbHc1X1hzLTFVd0VuZ1Q3bnJuZ0E1NGFISlFlbzZNcXZ5Q1NKU0IzOERxRDZqZXdHbllvNjFDZ0pkYjY2QXRNdDdmWklubU16bll5ck40aUxlcDlGREJPNUhZdnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-25T15:14:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Sports"
+  },
+  {
+   "id": "a8d74c4f2c",
+   "title": "Beatles attraction at 3 Savile Row approved – with ban on rooftop gigs",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRllLdWNTZG9DdnpoS1JuczloU3ZYMjFzS0FSYVNzd0JhTWY2SGgxclpRZVlOMENkVDZjRFhUYVdfdTNYdTRRX1Q2ZnM3SUxralpRRXBiSlVLb19NY1Y2SWMtRVNONmpiMzlLczlKY1BsbUhLREpFczZ3MklDelBKTXAtSFQ2UmRrVXd6RnpaZUxLMFNyTENXTDJITlZjUk5ZV3J3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-25T15:12:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e350243c24",
+   "title": "US stocks fall further as fears over AI intensify",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IQUhFZGkwWEFjUENXVzJEWWZ0X1lncHdvQVVIY0NUX01vWkE4VGtKbWd4UkhzWmVlcUdqV0lFSHA4MVVmSENnbzM4UVBxRzBmeS01RmlrRXpiTk9Sdnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-25T15:05:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "04d9207325",
+   "title": "The Iran war is being blamed for raising UK energy bills - here's why",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PR0toS1BhNmQzM1Q5UGtTcWdIeVA5NkFSem85ck1GQVhRRndnZkxHQzFtMnV3VmFRWTZVdy13SDdCeTI5Q01XaFFHM0FDME9JMEJ0aFBnSUR2QkZaTXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-25T14:58:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Iran",
+    "place": "",
+    "flag": "🇮🇷 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d3a6b57c82",
+   "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclcxM205aDZ6bnRXOG1UYzRKaFZ1NVJESmV2cEZ4UEw4cmdoN3JkUk9BY1IzbFdDR3ZMck5PTUtVSnpmblpqQ0p5QndRVmRnRWpaQ0pRX3ktekVuZUNaU2xnVHdPckVjVENkZGZ6ZU1meHpjN25YOTFJTzJ4c280VzJhbTVKUUNjcC1ZUVRmNVcxZnNibWplWUJlcGk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-25T14:58:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9225916ec0",
+   "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWZ2dGc0VlRvMHJRLXlwX2JmVmc2SVdvbVpMU09OUlFmY1pzUmthazdxVnc4OXAtdVNvNVF1bkE0Tk5jR1l3RDM5ODQ3NThOZGpHX3JWR1FLdnpBd0xBSGd4R2plTlAxZzF4X2pERXphRTFJUjNIYlFoMW5qMDdRZVUwZU00cTVhRTR6azZxT0F5cHFqaXd5LXFqU085b2FTS2dUSzhHdkFlbXp1SnBnMGRQX3ZSQk0w?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-25T14:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Switzerland",
+    "place": "",
+    "flag": "🇨🇭 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e52d7478b7",
+   "title": "Warning as ‘extremely contagious’ bug dubbed 'Ferrari of the virus world' spreads across England",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6eGpzaTlBaEFqMDZSNjc0M0l0aTN0bFRFcWZUNkRKTVc0SjNIZy1ONEtwYmVPVHhXU2cyR1Zfdk5NQVJmQzBubjZyTTlRS1kyOUx6QTR3bDRCQzBnZkZORldTbVRydmJWTE5XZVNaZVlLWnF5WGx2SDFwZW9HWXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Sun",
+   "region": "GB",
+   "date": "2026-11-25T13:36:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b77b62a581",
+   "title": "Boy, three, died from choking on food at Greater Manchester nursery, inquest hears",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2pHbjJnQ2JpRWtDN3JDcU1zcDlPQUJPRC1HSGYtdVpnUVF5M2VqSmxYNHRnWTFsTFVxZDJwMzhxMFhSUGZOLTM3THlzNm85VWpXWTBoa2hkcXhvY0Y1enVBZndIbVZNOFdOUWR6T1Y0RHlQX3h4bm1jSUdkS3hRWVlvdXRVUXhBRDJ6SFRQZzVBcXAxclprS01jTnA2VmtqNFAtb0pOcnRQdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-25T13:27:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "5981083a31",
@@ -55,36 +251,19 @@
    "topic": "Society"
   },
   {
-   "id": "5b158faefb",
-   "title": "Raheem Sterling: Former England international given suspended 12-month jail sentence for dangerous driving",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWVhIZGhoR3N6OUJfb0Vxd2NxaXNFV05jdGZUT2dXMDZmUVVKT1Jua1V2U3h2VUN2Z04yTzcxbW5QZmtWbEU2VTlXTG1fdUthSTZxcUFKQks3UTBBM0xYT0ZZdVN2bm04Y3lIdThmZzdGNDdHcVFtREhuc2ZoRzJwR3JJbUFVQmkySi1UQWQxdjBlRVdVdkF3UEhtMjZTakFacWVTcFNjTVNnYkVHUGxvVWJMV2NMeGM4Tkp0TEF5YXp3QzR4bGxpV2JUR1VDTnlUNmZESlZCdGdMVTgwZXFfeTROdG9Db29ObUE?oc=5",
+   "id": "cbc6be76ec",
+   "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUhWeFJvZVo0NXhocGgyU1BhZXRlYlBsVEc3bHlaYThpNW9meGR6cnRZWklaWjk3ZC1wdi02UDRYTEE0NnFybWE4UzFqckJ4ZmJ0WndYZnE1UGtnMHp4LU43VmhxWU9zT0NydzE5LXJISHpKSHAwTnpXc2pKaGlNWmRuSjlsYXYxejdKMVFjZi02eExlLWN4a2pyX2paNFZ4amVlaUxjQjlMVVlGeTVsQTZXOVXSAboBQVVfeXFMTnhJbVNNSzhXYnJTelNjRjhjdUs1dGJYeFNmbWZ0eC1jYkh5STlIUDNUXy12clNfU1Y3Nkk0Y2xQbzVVRll1RW5nemw3VmtyMlNOeHVvbGtsVTUyQWZCRWoxTmV6MzZLOWlPWGkwTnItMHJsazNMWDNkU2hadUFYSmFJLTVLNG9KU2tQOVFRVWNyUzdCWF9pbHNhOHFBS2IyY1RFV2dTLXBmYnIyYlFKXzF5SjF6Z3FVZE5n?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sports",
+   "source": "Al Jazeera",
    "region": "GB",
-   "date": "2026-11-25T13:01:32+00:00",
+   "date": "2026-11-25T12:51:18+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "United States",
     "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e6e068a59a",
-   "title": "Father and daughter who dumped body of murdered woman in canal are jailed",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKS2RIMkplWEx1MHc3d1pqNzFlNHpNUmp2TkxDcU5jTU04TjdnNUVLN1hGTHplQ2FCNzkxTThScmI5U2ZpUjhidlV6MzUwOF9nbTl1MDBMeEdaT2o2eXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-25T12:18:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -106,6 +285,40 @@
    "topic": "Business"
   },
   {
+   "id": "39821eb4e5",
+   "title": "Kovac issues ‘strong’ Arsenal verdict after Champions League battle",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa08xUlVzUEV2QkRDci1va21TbTlWRzlVYzBNZnA4c1VFTjh6SDljYjVKREhzSlpMNDBMc2lrT3AxRTROMl9hUm9NclF1dS1YWHlfWHgzUEZqaDJveDREeUdVWmdzR0I1M3BxeFJWTkRDRVNqaUpZNDE5YTh6TUg2ejZXOTRUSUp0TVBRaWpjZjA3WjVRYkRsLVlrVVVSbDQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "London Evening Standard",
+   "region": "GB",
+   "date": "2026-11-25T12:12:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "652086f092",
+   "title": "‘We must prepare for our dangerous neighbour’ – On Estonia’s closing border with Russia",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGhmNEVRSE54Nzh0MEpoMDFCUS1OWG5FWldEN1pyZmxuaDNvR1J3NC1vS3Z5d0RHU19TZ0d5clBQVUZuR2lKd1NCS3BOaU5JU1BKYkdBR2ZCenpnZzh4UDFEZkU3MUZKVnpYZ0IwQ1pwbGVKMTN1VUNZTUVKSldfNC1xUFRiNU10VVZncVVfaVZGWkJBLW1DY2NUQ1Z1aXhL?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "GB",
+   "date": "2026-11-25T12:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "da99a0d23c",
    "title": "RAF 'moving aircraft to hangars at night to protect them from drone threats'",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWQ0WUNuUWh6RGItUl9QUWpkYjdTYXdUWWNNRnMzM1QwUG55dy1fNTNQallfNzhkLWRhTGN6V1BVRVRfZmFRTDRzV0E4ZkFIUU1UWlRtS2MySjhTVkN5Y3R5Y1FWMUlLdlByaDg1Z2lncWxvZVBqLWhyV0daWWk3dzhycG9GWUFPRVA2YjdnUGRDeHVObXRRN0lNeXJQdDhWcTI0azhqMDdpalRRbm1n?oc=5",
@@ -124,7 +337,7 @@
   },
   {
    "id": "cc91f00d9f",
-   "title": "Influencers hit back at criticism of Downing Street videos",
+   "title": "No 10 does not rule out inviting back influencer at centre of video row",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HWmNpT3h4LVd5SGw2TGt0M2pPeW1naDVtZGZHV19raHNiblV4UTQ2UnZUVUxaVm9fRi1vb29rV1FTZjNBRnFpSzJva2c5dXpsaEt6eS1ORjhLNnp3QWc?oc=5",
    "summary": "",
    "image": "",
@@ -140,21 +353,21 @@
    "topic": "Society"
   },
   {
-   "id": "cc11ff58dc",
-   "title": "Two men appear in court accused of stealing cufflinks and a clock from William and Kate's Norfolk home",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY25rWExyelpCV3VtVzBMVVZiTXFvbzZYRlBiZVNsbVl4TXoyNmk5T3JwRTlmTFJia1Jsd05lUFhtNUVGdkxMR3I5bFlLbmtKdG4zdjdkbnc0a2xDcVU2bHBEeHpkX29OZ1ItckZPSThHTUtfbzhYVzE5M191NkRScVU2V0lBWXRZUzBVN05iZFh5eHJ6bFIxS3c4clpFTWw5cVF1M2NXMG56X2laOXc?oc=5",
+   "id": "110f5c3b26",
+   "title": "The investigations facing Nvidia and Jensen Huang",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0I5bmdoZGlmd19QdGNNbG5mRnF1ejlpZ04xNG9iWFd5VFFwM1dYN0dSNC1pOUJkV2dGRnRTSnF5ejRRbHFNd0liMm5leHNfNFBWY01wQjRhNkRYSlRidWJTcENQSFJsOGhUcUlfZkJhajhfTjVMUzZiaHAtcGkxVjJIdG4?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky News",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-25T11:15:00+00:00",
+   "date": "2026-11-25T11:25:34+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Politics"
+   "topic": "Tech"
   },
   {
    "id": "4769f35536",
@@ -191,99 +404,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "6ecd34f2a5",
-   "title": "EA adds AI-generated John Motson to FC 27 video game",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Dd1ZMRlloWFBoelFYMDVRcFVNcy0yUDdKUTRWNEdwRnZ4ZkZlM0lhdVhZeEg0czE0TFllR2ZNVFVObTVTdmYwWFJFdTA2MC0tM2tXWTF3QVVGQjBnX2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-25T10:11:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4c46268915",
-   "title": "Missed chances to save boy, 2, murdered by grandparents despite dad's concerns",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QZkVrNnhIOFRfQ2pjQ3JTampaRmpEY0VyLU5iVjRCTHprOFZQdEJ0TTZFYTh2Y3E2N2t0Vms1Zkc4b01LWnlMamNCdFpUWHdJR3diVVFkdVJyb2prV3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-25T10:00:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2ccb839eec",
-   "title": "The Slightest Touch review – running marathons in Colin Farrell and Emma Fogarty’s odd-couple friendship",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZE1CTnpoV2FSNE1NMFZ2eklTZEtxaFYwUGVUcHRDYkxkelA4UTdranNoQmJwMW5EZk42cF81bWVpZll0ZTBvMEdJZFVndHpVUmNGd3lRUTNubmlYbFoyNkRibWxyYjBZRG55aDJBcjlaVkdud0R6alllYVhralY1aTZxMG1FWUNDeUR4UmFnSnB1QmRnZEZqVl9oNEprS3N5T0NnUVZBMko4R2tLcmdDSnFsZmpIWlF3N2NJbVhTMDc2LWwxMmlrSEVBeGRBcGV6NG9rZ01R?oc=5",
+   "id": "b5147fef74",
+   "title": "Two men in court accused of stealing cufflinks from Prince William’s house",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXFZMjZWbF9GdDNQMVhwX09TSllnM054YjFCcHVQNk1FYVc4bU1mYU5ycEJFMW1fMDBQLW01X2ZFV1N3cXFlNzBNdEIwY2F1UVMyVVlRTGg0YXVTUnZhWXV1azNuZmlZTC0xLTk3TmlUa1J4OHo3d0h2RkE4UHk1RjktdEh1bjk3UFJkeUs3cmJlVDlyR1Z4NGV2V25HUldzbFhUanBOTUFoQlU5Wk5NbmRR?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-25T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b30515adba",
-   "title": "Alejandro Garnacho snub addressed by Aston Villa boss Unai Emery",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazNiX2RpNFNhTHAtNkswOEpfaktBNm5UVFRlQ0NhWEtqdXpkN1dmM2ZZZjJsVlNTaWhkOW1pVHAyU2M5TW5hMUdrZE5pay0wQ2lod3RLdUltNVllZFlwOGk1V3VJNk5GR084NUdkTXExMzVsWUtaTE5uaWFGZGZqeFk0Um9BbW1sU3ZqV19vSmRZZDNaMEZNdA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN",
-   "region": "GB",
-   "date": "2026-11-25T09:57:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "692a93e5e1",
-   "title": "Amazon to sell cars online in UK from next year",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMTl1ekN1dW01ckhqVUJ0N0R0RjItUnRjbXpzaHlvSUVsYTZpaXVGMGYyejVTWlMtRFVqazg2NW01eE1RbV9RejVfempIN013cHpFZ2lNWlRSbG44RWpGS1pTaDg0OFBXLVdjZW9STUE0M0kxankzbHphbDB3bXE2bXZiNzdxZEhLM0dZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ITVX",
-   "region": "GB",
-   "date": "2026-11-25T09:13:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c4c9c6a75d",
-   "title": "Metropolitan police still institutionally racist and misogynist, says report",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzJvYldmTTYzYjM1dFVGZVVFWkctbHI4TFo3WkdzZjdsZ1pLZkJrZWFBd0tfdlJZZXNrckVOMC1IcWt5V3VSdnpLbHRNN0JUYnYzbnlIWTUwWmNRMFlDSElBNWxiTVBxR1M2eFBFYmRtVFlRNmVIdDh5OUpydW9Jc3lYaTduYTY1RjJTX05waHJWUUJva2xNZ3c2blNWY09aZ2p4WndkME5IUzc5Y2RlT2dJNmFCTGFLN2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-25T08:39:00+00:00",
+   "date": "2026-11-25T10:51:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -310,23 +438,6 @@
    "topic": "Society"
   },
   {
-   "id": "0bc541ac46",
-   "title": "Divers find bodies of six people, including two children, after US plane crash",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGxTNkp1bDd5TTJTd0huN1RKbFFCTDlwWlk2NUhBRXFjS1ZIc2FRY3p3WERMZW5nVUE5c2h2QldfMG1NczlWcjJoUlB5YTlPbXZMNGR1emo3a1F2U1R0SHJ0M3k5cE9lSW9PeWd6S1l0M3l2RnJtSUF5cTZObFZKNWFteTR0dkJtcC1aclhQbWRfci1IZVNBYlgtWVlBQ1VKV3B4LTFPenBYeTJBUWIwbGRn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-25T07:37:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7d6565d7d1",
    "title": "Smithfield’s old market makes a glorious home for the London Museum",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1ZoRGtkTk5NTV9kaV9MS1p1TGpHZWVWVkVUdjI5WlV0TG43OGFMRGY0V204bDJzVzdQMUJsWlJzMWJ4azdoWHlxUklJcUZPTWU4VmlONThhMlZuellpN2J0ZXlUU04wSEg3V1JDTWtZMjNVRHJ4VlVlZGRWM2llMm9Ma1MzYWhGT2E5OHdFVXAzZFhYNXJSMHVUQ29yM3ZGT3V4NEJ1SC1TVXFfWk9V?oc=5",
@@ -335,6 +446,23 @@
    "source": "ianVisits",
    "region": "GB",
    "date": "2026-11-25T07:04:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "de8abdd962",
+   "title": "Poultry farmers' 'constant anxiety' over bird flu",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tU0o1YkxCbEYxZXkyYktWdVRxbmM3ZjBoSVM5X1I1TVFyODd6R2VWYXBWRDVSVnFDdGtFRWw4RDNIOFEzMWpxLTVLRDJGZnJqQVVNVThXUkZvUlBCOHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-25T06:01:18+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -361,26 +489,6 @@
    "topic": "Society"
   },
   {
-   "id": "5b1db9d0c2",
-   "title": "MI5 issues urgent warning to UK defence companies over Russian attacks",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDdxOHFxY2hUM1g1OWM0TEJxZUVfMDVYUlBlRmpSMU92dU9CMnFNd3V2d3VyNHllUkl3a0wxZUFydk1yM0RjUkdmSkZ2SkdaVVZXUFFSVmlYRlZPalVfOXR4eTJGczNvVElfWEtRYUZ0SU9lcnRuQS1TR1Q2SlVSUWJrWGt0d2ZfY05nWVY3WQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Independent",
-   "region": "GB",
-   "date": "2026-11-25T05:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧 🇷🇺",
-    "also": [
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9f903d5227",
    "title": "Donald Trump shelves plans for business deals with Russia",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGhVcjBhYW5oQjZTTU56WmMtUHhENS0takVtTmpWMTNvUjNfQkNkSHpBN0FEUGg1U1BqWGROOHVMVWlwZEJ5VGFGSE5zX2dwZ191aUl1STI5T3ktTXp4RW4wbGxJX29TUFRuTmxPMUxrQVNlU1hmWG5IVC1aYUlvR3A4X2g?oc=5",
@@ -388,7 +496,7 @@
    "image": "",
    "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-25T05:01:48+00:00",
+   "date": "2026-11-25T05:00:12+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -399,43 +507,6 @@
     ]
    },
    "topic": "Business"
-  },
-  {
-   "id": "154eb6efb7",
-   "title": "‘Tech bros strike back’ as Donald Trump rescues Nvidia’s Jensen Huang",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3M4TFRSRHpKV0R3aEE0dzhBRlV0SFlxam1QS2dBM05zZ1htNVpUSXdKRHlMY1NwdUl3aWdYamNJeko0alZESVM0eXljazJxdlZ2ODVKTVQ1T0xvM1M5UzQ2a0ExUC1ETEhHdWRhOVViVkxxeE9RVnZ6Y2NHLUcyQ1JZSTY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "GB",
-   "date": "2026-11-25T05:00:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "7d09f0ed4b",
-   "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fbnJIdEVjNE1SSmk2d053bFgzd29aZVBZd1ViSFBzanB4eGkteU1XeGo3RUROOFR0RnhyYVJ5Rkh1SzFKVGF0dGhGemlrbjJvVEpZcGdINnlQMXJMeGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-25T04:46:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇵🇰",
-    "also": [
-     "Pakistan"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "75fa33f124",
@@ -489,23 +560,6 @@
    "topic": "Society"
   },
   {
-   "id": "45c8654834",
-   "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSk5NSzFRWHFORDREZ3QxaHZ6RTJnZGdfNzJNeEJiT1I3N2VtaDhYdGhzbHJhQWQweksxTVRMcDBjLWpDMi1pWEI0NDNSQkVCRDB0eXNvYXNhQWtmdWpMdXdYbnJRampjTlNncElWWjdDcHlNT1U4V2RkMUFmeFc5RjR6RTRKSC12VGVEZTBCczZTTTAxMUJDT2xPbXpSdktBZHlMRmVWajFWMmZ4WUJocdIBtgFBVV95cUxORmcxYmhXa2tndWFYNzNmbTA0VWRCUmdXd0I1ZFpJQnlDUVVtcTJOdkJsWUhPWUJObWdCMGQxUEhGYk90cUFGcVVaLWFnWTBDWE9Xck5wVHk2bEpZRHVyeDRlVExBTU5scnFPVFBBeG04aUFURjBnTnJtbU12dFNyb3R3NzgtbWlvY0Q2SGp5QjgzUmpJQjAyOEJ5QVV2RlYzaTFqd1lERDlDUmFnampzRUpwVFh0QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "GB",
-   "date": "2026-11-24T23:00:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1be58ba5a3",
    "title": "Nigella has officially saved Bake Off",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUtXdmxsUk1qVnZZQnk2a0F1dzJqUk4zeWhtc2NtbVVSOTZLa1gwdjBMV2FTQTRvWDNZSTBXczY5WG9tSDZ2YXF1SU1UOXowWjdiUjZWbi1RXzlodGtVYlNLTEdWZXktSUd6YnlBaTRhVzc1QnJaWGZLcmhHSF9FQVM5SzhCU3lVaFo0RnhGaHF2QQ?oc=5",
@@ -519,26 +573,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ec64f3085c",
-   "title": "Chinese carmaker BYD to buy Jim Ratcliffe’s French 4×4 factory",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjU3R0hiVTRtWUxwQ1RaZnBGcXVsR0ZRam1WcVZuM0g5ZHJYOFM2M1VmY2xmSXBTcjk1eW0yZmsyYjQ0dWVwLUt4d1cxY1JTcmhiYl9Zbkp2aHBpV1Q5YkR1QnQwM01WZ1JrM2w5T3BObHJReG42ak5TUVVxbnFXSmxVR1NGcWF4cjB4U1JkLXpTVUZSZEFacUg0a2E5ZWZxQkJxaWlHNWJ3RnVoZjVYcUNrR0x3NUJfbEpINjJn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "GB",
-   "date": "2026-11-24T18:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇫🇷",
-    "also": [
-     "France"
-    ]
    },
    "topic": "Society"
   },
@@ -575,74 +609,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
-  },
-  {
-   "id": "fb58077db6",
-   "title": "CAD images suggest iPhone 18e will have an odd new camera design",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXBkMGNjVE9lOHNVRlRoR0dWb2tpeDh4ekJYVjJ4TDgydTQyUm5mcXBaN1lmOWNRRU1GbWhLQ3FkbEdWbzU4d3g3M25PZnUtWlo5cGgwamZTdXJ4enNGNkhXNWxXM3hwM2lVZFlVdWcxYzd1S0hmUWFaNWlyT3VtanlnTEc5ZDBoaEtmTjlJWjZuOS1qdGVKRjI1Tk4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "9to5Mac",
-   "region": "GB",
-   "date": "2026-11-24T13:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "3799e40998",
-   "title": "I blamed my squeaky breathing, husky voice and dry cough on Covid but it was a death sentence at 48",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHNIOENHdHpaZkpVLV9kdjlKLTBGdS1naDNRVlV0TTB2MldWUzZsMUxWS3ZDbzkwVlFhY3NEV25LVnhMWFU4Sks2Qkd5a1VxU2RvZ3luMl90R3pDSzN2aEdkNFg0Q2J1MENaVDczdUpMMGZJeWUwczc5cHc0R0NuLUY1YTBIeGtIWVhoMG05TXMxU2tfNFlN?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-24T12:17:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b3939d7ed9",
-   "title": "Norovirus is spreading – how to recognise the symptoms and what to do",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkJ2c3pMTjY0SndENVlXOExOMl9yaDVmbVZRU21QOFc3SjJ0MHV0T3I4TGgtTTVCNEtqWXFINVlrLW4wMUhjS3lCaEMtaWx0czIzR053cGFKdFp4Z3NzSlRKWU4tZXE2QUVPb2p0Mm9QZGdSRjFWTjB6dzlWTXd1Q1BGd3hiQjdZSEk5QkNXTlpLelJxd1otVDdHdU0yQ1JlT0wwaA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Conversation",
-   "region": "GB",
-   "date": "2026-11-24T11:37:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cafdcf5c7a",
-   "title": "Amazon is ending software support for the 10th-gen Kindle and Paperwhite",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kM2pYQklLQzJlb0lieHRuOXlZcl9NOF9FTGY1YmlVZXZoZml5Mm5DRkxKVXA2al9ZNGVudjlzd25wOGE3Uk5ZWW1Idm94b0lqMGkxSk5tUlV4Vmg4Ri1Qbl9DT0pJMi13TmkwT0Q3d0FLZnNaWVVDQXYzaTU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Android Authority",
-   "region": "GB",
-   "date": "2026-11-23T16:09:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
   }
  ]
 }

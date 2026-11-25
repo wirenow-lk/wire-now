@@ -1,39 +1,55 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 65/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 73/80 used today
 
-FAIL Google Top Stories LK: HTTP Error 503: Service Unavailable
-FAIL Ada Derana: HTTP Error 503: Service Unavailable
+OK   Google Top Stories LK: 38 stories
+OK   Ada Derana: 68 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-FAIL EconomyNext: HTTP Error 503: Service Unavailable
-FAIL Daily Mirror: HTTP Error 503: Service Unavailable
-FAIL Hiru News: HTTP Error 503: Service Unavailable
-FAIL Newsfirst: HTTP Error 503: Service Unavailable
-FAIL Daily News: HTTP Error 503: Service Unavailable
-FAIL Sunday Times: HTTP Error 503: Service Unavailable
+OK   EconomyNext: 19 stories
+OK   Daily Mirror: 98 stories
+OK   Hiru News: 100 stories
+OK   Newsfirst: 31 stories
+OK   Daily News: 95 stories
+OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 503: Service Unavailable
-FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-FAIL Ceylon Today: HTTP Error 503: Service Unavailable
-FAIL Google Warnings LK: HTTP Error 503: Service Unavailable
-FAIL Google Top Stories World: HTTP Error 503: Service Unavailable
+OK   Lanka Puvath: 0 stories
+FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9658
+OK   Ceylon Today: 1 stories
+OK   Google Warnings LK: 6 stories
+OK   Google Top Stories World: 59 stories
 OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-FAIL Reuters: HTTP Error 503: Service Unavailable
-FAIL AP News: HTTP Error 503: Service Unavailable
+OK   Reuters: 100 stories
+OK   AP News: 99 stories
 
-Biggest stories right now: Israeli strike in Gaza kills senior Hamas off (3 outlets) | Trump proposing new tariffs on 14 partners in (2 outlets) | Solomon Islands signs security deal with Aust (2 outlets) | Kilmar Ábrego García arrives in Spain, ending (2 outlets) | Shakib, Mustafizur not among Bangladeshi play (2 outlets)
+Biggest stories right now: Trump proposes new tariffs on China, Europe a (7 outlets) | Chinese rocket blasts off into space with Pak (7 outlets) | Sri Lanka Women crown Emerging Nations Trophy (6 outlets) | Bangladesh raises minimum wage for garment wo (6 outlets) | China’s Huawei convicted of deceiving banks a (6 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Use allocated fund or lose them: President tells ministers
+* Sunday Times [1 outlets]: Met Dept warns of thunder showers affecting many districts
     no AI summary: saving the rest of today for important news
-* Newswire [1 outlets]: PM meets Sir Nishan Canagarajah discusses new opportunities for Sri La
-    normal news - one-paragraph summary
+* Daily News [3 outlets]: US announces new tariffs on China and EU, spares Sri Lanka
+    important (also on Ada Derana, Daily Mirror) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [3 outlets]: Teachers and principals to go ahead with trade union action on Nov. 30
+    important (also on Daily Mirror, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [3 outlets]: Six spill gates of Deduru Oya Reservoir opened by amid rain
+    important (also on Ada Derana, Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -47,9 +63,37 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 503,
     "message": "This model is curr)
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: PM vows legal action if wrongdoing confirmed in Kinniya school auditor
-    normal news - one-paragraph summary
+* Al Jazeera [3 outlets]: Israel’s Eisenkot secures first coalition partner in bid to form gover
+    important (also on Daily Mirror, Daily News) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [2 outlets]: Colombian police storm supermarket to free 20 held hostage for 17 hour
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -62,44 +106,26 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction l
-    important (also on Newswire) - researching
     news search: 0 results, 0 about this story
-    read 2 articles: Al Jazeera, Newswire
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: Trump proposing new tariffs on 14 partners including China and EU
-    important (also on Newswire) - researching
-    news search: 0 results, 0 about this story
-    read 2 articles: The Guardian, Newswire
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 23
-  photos: 12 too small to look sharp, using the clean cover
+  photos: looked up 24, found 0
+  photos: 8 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed Factcheck.lk failed (HTTP Error 503: Service Unavailable)
-  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 503: Service Unavailable)
-  fact check feed Watchdog failed (HTTP Error 503: Service Unavailable)
-  fact check feed AFP Fact Check failed (HTTP Error 503: Service Unavailable)
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
-Website updated: 32 Sri Lanka + 75 world stories (0 with cards, 57 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 57 story pages for Google)
 
-Countries: IN 0 (FAIL), PK 0 (FAIL), BD 0 (FAIL), US 0 (FAIL), GB 0 (FAIL), IE 0 (FAIL), CA 0 (FAIL), AU 0 (FAIL), NZ 0 (FAIL), SG 0 (FAIL), MY 0 (FAIL), PH 0 (FAIL), AE 0 (FAIL), IL 0 (FAIL), NG 0 (FAIL), KE 0 (FAIL), ZA 0 (FAIL), GH 0 (FAIL), FR 0 (FAIL), DE 0 (FAIL), JP 0 (FAIL), IT 0 (FAIL), ES 0 (FAIL), BR 0 (FAIL)
-
-Posted today's Top 10 round-up
+Countries: IN 36, PK 37, BD 38, US 38, GB 35, IE 35, CA 38, AU 35, NZ 34, SG 35, MY 36, PH 33, AE 38, IL 32, NG 34, KE 30, ZA 32, GH 29, FR 34, DE 33, JP 8, IT 33, ES 34, BR 34
 
 World Pulse not made this run: no AI available for writers
