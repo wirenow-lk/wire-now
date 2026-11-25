@@ -1,35 +1,45 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 31/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 62 stories
+OK   Ada Derana: 65 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
-OK   Daily Mirror: 73 stories
+OK   EconomyNext: 20 stories
+OK   Daily Mirror: 94 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 17 stories
-OK   Daily News: 74 stories
-OK   Sunday Times: 5 stories
+OK   Daily News: 79 stories
+OK   Sunday Times: 6 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 12 stories
+OK   Ceylon Today: 2 stories
+OK   Google Warnings LK: 11 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 37 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 92 stories
+OK   AP News: 96 stories
 
-Biggest stories right now: Chinese rocket blasts off into space with Pak (9 outlets) | University non-academic staff stage islandwid (6 outlets) | China’s Huawei found guilty of trade secrets  (6 outlets) | Bangladesh’s Sheikh Hasina plans to return ho (6 outlets) | China’s Huawei convicted of deceiving banks a (5 outlets)
+Biggest stories right now: Chinese rocket blasts off into space with Pak (9 outlets) | University exams postponed, lectures cancelle (7 outlets) | Huawei found guilty of stealing trade secrets (5 outlets) | Sri Lanka to obtain US$ 30 Mn OPEC Fund loan (5 outlets) | No tsunami threat to Sri Lanka following 6.5- (5 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Signs of heart attack and stroke risk can appear decades earlier, stud
+* Daily Mirror [1 outlets]: Policeman sporting beard arrested in Kandy while taking pre wedding ph
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Heavy rains could trigger ground tremors in Central Highlands, Geologi
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: Six killed in road accidents across Sri Lanka in a single day
     important (serious news) - researching
     news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
@@ -40,37 +50,42 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: Card says 'about 17,000' but article says 'nearly 17,000'.; Card says 'reduced kidney function' but article says 'kidney function'.; Card says 'lower physical activity' but article says 'physical acti
-    attempt 2 failed: AI did not reply with JSON: ''
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: the name/word 'Ambepussa-Alawwa' is not in the article; the name/word 'Avissawella-Colombo' is not in the article; the name/word 'Kalmunai-Akkaraipattu' is not in the article; the name/word 'Ratnapura
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Husband arrested over murder of 23-year-old wife in Vakarai
-    important (serious news) - researching
+* Ceylon Today [3 outlets]: Cabinet Approves Procurement of 2.7 Million Insulin Vials and 920,000 
+    important (also on Ada Derana, Hiru News) - researching
     news search: 0 results, 0 about this story
-    attempt 1 rejected: key_facts[0] states 'murdered' without 'allegedly' while article says 'allegedly murdered'; key_facts[2] says 'husband arrested' but article says 'suspect arrested'; key_facts[5] says 'killing' withou
-    attempt 2 rejected: what_happened: Police said the husband allegedly strangled her when the argument escalated omits preliminary investigations revealed that the husband had allegedly strangled the woman following and ch
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [2 outlets]: Former Minister Vasudeva Nanayakkara appears before Bribery Commission
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: PM, Opposition Leader among MPs wearing orange to condemn violence aga
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'MPs' is not in the article
+    attempt 2 rejected: The blurb says parliamentarians wore orange to launch the 16 Days of Activism, but the article does not state that the event launched the campaign.; The cards say orange symbolizes a brighter future f
     -> no cards; posting with the site's own summary
-* Ada Derana [2 outlets]: Coast Guard searching for 2 children, 4 adults after plane crashes off
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Sri Lanka surpasses 150,000 tourist arrivals in November
-    no AI summary: saving the rest of today for important news
-* Daily Mirror [2 outlets]: South Asia’s first 4,000-seat Air Dome set to open next month
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Sri Lanka opens first national facility for modern battery technology 
-    no AI summary: saving the rest of today for important news
-* Reuters [4 outlets]: China's Shenzhou-24 space flight takes off with Pakistani national as 
-    no AI summary: saving the rest of today for important news
-* BBC World [4 outlets]: Russia's own figures show almost 500,000 deaths in war in Ukraine
+* Al Jazeera [3 outlets]: WHO chief urges end to US fuel blockade on Cuba
+    important (also on Hiru News, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'States' is not in the article
+    cards OK (attempt 2, written by openrouter)
+* The Guardian [3 outlets]: Colombia’s president arrives at scene of supermarket hostage siege in 
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 7 too small to look sharp, using the clean cover
+  photos: 5 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 54 story pages for Google)
-
-Countries: IN 38, PK 35, BD 37, US 37, GB 36, IE 34, CA 38, AU 37, NZ 33, SG 34, MY 35, PH 30, AE 37, IL 32, NG 29, KE 28, ZA 34, GH 25, FR 32, DE 34, JP 8, IT 34, ES 34, BR 34
