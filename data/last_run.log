@@ -1,53 +1,86 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 34/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 36/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 67 stories
+OK   Ada Derana: 74 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 24 stories
-OK   Daily Mirror: 96 stories
+OK   Daily Mirror: 95 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 17 stories
-OK   Daily News: 80 stories
+OK   Newsfirst: 29 stories
+OK   Daily News: 87 stories
 OK   Sunday Times: 6 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 11 stories
+FAIL Ceylon Today: HTTP Error 429: Too Many Requests
+OK   Google Warnings LK: 14 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 36 stories
+OK   BBC World: 35 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 95 stories
+OK   AP News: 98 stories
 
-Biggest stories right now: Chinese rocket blasts off into space with Pak (9 outlets) | University exams postponed, lectures cancelle (7 outlets) | China’s Huawei found guilty of trade secrets  (6 outlets) | Johnston Fernando fined Rs. 130,000, handed s (5 outlets) | China’s Huawei convicted of deceiving banks a (5 outlets)
+Biggest stories right now: Chinese rocket blasts off into space with Pak (8 outlets) | University exams postponed as non-academic st (7 outlets) | China's Shenzhou-24 carries Pakistan's first  (7 outlets) | Johnston Fernando fined Rs. 130,000, handed s (6 outlets) | China’s Huawei convicted of deceiving banks a (6 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: 23-year-old woman allegedly strangled to death by husband in Vakarai
+* Hiru News [2 outlets]: Americans in Middle East urged to remain vigilant amid rising threat o
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [3 outlets]: Arrest warrant issued for Rajangane Saddharathana over failure to appe
+    important (also on Hiru News, Newswire) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: details[2] adds that the scheduling follows earlier directives regarding bail and remand, which is not stated in the article.; details[1] says he faces a separate charge related to Anuradhapura, but t
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    cards OK (attempt 2, written by openrouter)
+* Times Bull [1 outlets]: Weather Warning: 90 km/h Winds Threat, Possible Cyclone Kani May Bring
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [1 outlets]: Five women killed every hour by family members or partners — UN report
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* CBS News [3 outlets]: Fort Hood shooter Nidal Hasan will petition to delay his execution, co
-    important (also on AP News, Reuters) - researching
+* Daily News [4 outlets]: Puerto Rico’s Jennifer Barreto crowned Miss Universe 2026 winner
+    important (also on Ada Derana, Daily Mirror, Newsfirst) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [4 outlets]: Illegal vehicle possession: Johnston fined Rs. 130,000, handed suspend
-    important (also on Ada Derana, Daily Mirror, Hiru News) - researching
+* Newswire [5 outlets]: CPC overtime fraud case: Ananda Palitha further remanded
+    important (also on Ada Derana, Daily News, Hiru News, Newsfirst) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -57,39 +90,56 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
+    gemini failed (The read operation timed out)
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    "code": 400,
+    "message": "Request contains a)
     cards OK (attempt 1, written by openrouter)
-* Daily News [4 outlets]: Johnston Fernando Fined Rs.130,000 After Pleading Guilty to 3 Charges
-    important (also on Ada Derana, Daily Mirror, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [4 outlets]: China's Huawei convicted in sprawling US criminal trial over Iran busi
-    important (also on CNN, Hiru News, Newswire) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: AI did not reply with JSON: ''
-    cards OK (attempt 2, written by openrouter)
-* BBC World [3 outlets]: Kilmar Ábrego García leaves US for Spain, ending Trump deportation bat
+* Newswire [4 outlets]: Sri Lanka win ICC Women’s Emerging Nations Trophy
     no AI summary: saving the rest of today for important news
+* Reuters [4 outlets]: Bangladesh minimum wage hike misses garment worker demands, sparks fre
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Bangladesh garment workers win 36% pay rise after weeks of protest
+    no AI summary: saving the rest of today for important news
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 rejected: the name/word 'China-Pakistan' is not in the article
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 2 rejected: Spoken section states 'Along with Ali, two other astronauts are part of the crew' but article only mentions three astronauts total without explicit breakdown.; Spoken section states 'highlighting grow
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
+  photos: 4 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 8 facts and 1 people saved
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
-
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 55 story pages for Google)
-
-Countries: IN 38, PK 35, BD 38, US 38, GB 36, IE 34, CA 37, AU 36, NZ 32, SG 34, MY 36, PH 30, AE 38, IL 34, NG 32, KE 27, ZA 33, GH 26, FR 33, DE 34, JP 6, IT 34, ES 34, BR 34
+  Fact Base: 16 facts and 2 people saved
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
