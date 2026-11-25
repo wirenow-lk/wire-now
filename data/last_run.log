@@ -1,7 +1,7 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 30/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 67 stories
+OK   Ada Derana: 68 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 13 stories
@@ -15,24 +15,60 @@ OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 4 stories
-OK   Google Top Stories World: 61 stories
+OK   Google Top Stories World: 60 stories
 OK   BBC World: 32 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 94 stories
+OK   AP News: 95 stories
 
-Biggest stories right now: US announces new tariffs on 14 trading partne (7 outlets) | Chinese rocket blasts off into space with Pak (7 outlets) | All hostages rescued after Colombian security (6 outlets) | Sri Lanka Women crown Emerging Nations Trophy (6 outlets) | Bangladesh raises minimum wage for garment wo (6 outlets)
+Biggest stories right now: US announces new tariffs on 14 trading partne (7 outlets) | Chinese rocket blasts off into space with Pak (7 outlets) | Sri Lanka Women crown Emerging Nations Trophy (6 outlets) | Bangladesh raises minimum wage for garment wo (6 outlets) | All hostages rescued after Colombian security (5 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Variety [3 outlets]: Andy Taylor, Duran Duran Guitarist, Dies at 65
-    important (also on AP News, The Guardian) - researching
+* The New York Times [2 outlets]: Angelina Jolie and Brad Pitt Settle Lawsuit That Aired Abuse Allegatio
+    important (also on The Guardian) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+* EconomyNext [1 outlets]: Foreign YouTuber slams ‘failed management’ at Sri Lanka’s Sigiriya ove
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* WSJ [1 outlets]: Stock Market Today: Nasdaq Opens Over 3% Lowe as Confidence in AI Trad
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: King tides and big waves batter coastal California
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* Al Jazeera [2 outlets]: Houthis target Saudi Arabia’s Red Sea ports as strikes escalate
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
@@ -42,65 +78,26 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* Hiru News [1 outlets]: Dollar rises as tech selloff fuels safe-haven demand
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The New York Times [1 outlets]: Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* NPR [4 outlets]: New balloons will fly for the now-postponed 100th Macy's Thanksgiving 
-    important (also on AP News, Reuters, The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Netanyahu says corruption trial ‘must end’ as court suggests dropping 
-    important (also on The New York Times) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* BBC World [3 outlets]: Thirty-one killed in massive fire as fuel tanker crashes on Cairo high
-    important (also on AP News, The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: BBC World, The Guardian
-    attempt 1 failed: no AI available for writers
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
     -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 8 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 57 story pages for Google)
 
-Countries: IN 37, PK 36, BD 38, US 38, GB 36, IE 33, CA 38, AU 37, NZ 34, SG 35, MY 38, PH 31, AE 38, IL 36, NG 34, KE 29, ZA 32, GH 29, FR 34, DE 34, JP 13, IT 34, ES 34, BR 33
+Countries: IN 37, PK 33, BD 38, US 38, GB 36, IE 34, CA 37, AU 37, NZ 34, SG 35, MY 38, PH 33, AE 38, IL 35, NG 34, KE 31, ZA 32, GH 28, FR 34, DE 34, JP 5, IT 34, ES 34, BR 34
