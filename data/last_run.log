@@ -1,53 +1,47 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 73/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 78/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 68 stories
+OK   Ada Derana: 69 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 19 stories
-OK   Daily Mirror: 98 stories
+OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 31 stories
-OK   Daily News: 95 stories
+OK   Newsfirst: 30 stories
+OK   Daily News: 96 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
-FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9658
+FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 6 stories
-OK   Google Top Stories World: 59 stories
-OK   BBC World: 28 stories
+OK   Google Warnings LK: 5 stories
+OK   Google Top Stories World: 57 stories
+OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 99 stories
 
-Biggest stories right now: Trump proposes new tariffs on China, Europe a (7 outlets) | Chinese rocket blasts off into space with Pak (7 outlets) | Sri Lanka Women crown Emerging Nations Trophy (6 outlets) | Bangladesh raises minimum wage for garment wo (6 outlets) | China’s Huawei convicted of deceiving banks a (6 outlets)
+Biggest stories right now: Chinese rocket blasts off into space with Pak (7 outlets) | Israeli strike kills senior Hamas security of (6 outlets) | US announces new tariffs on 14 trading partne (6 outlets) | Sri Lanka Women crown Emerging Nations Trophy (6 outlets) | All hostages held in Colombian supermarket fr (6 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Sunday Times [1 outlets]: Met Dept warns of thunder showers affecting many districts
+* Ada Derana [2 outlets]: EU postpones discussion to approve Tesla's self-driving tech
     no AI summary: saving the rest of today for important news
-* Daily News [3 outlets]: US announces new tariffs on China and EU, spares Sri Lanka
-    important (also on Ada Derana, Daily Mirror) - researching
+* Daily News [2 outlets]: Sri Lanka’s total exports record positive 6% growth, reaching US$ 15.2
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: EU plans major tech fund to boost digital independence
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Switzerland forced to close office in North Korea over sanctions feud
+    no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: Smoke seen from a mile away as army detonates US stockpile of bomb-mak
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [3 outlets]: Teachers and principals to go ahead with trade union action on Nov. 30
-    important (also on Daily Mirror, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [3 outlets]: Six spill gates of Deduru Oya Reservoir opened by amid rain
-    important (also on Ada Derana, Daily Mirror) - researching
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -62,17 +56,8 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Al Jazeera [3 outlets]: Israel’s Eisenkot secures first coalition partner in bid to form gover
-    important (also on Daily Mirror, Daily News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [2 outlets]: Colombian police storm supermarket to free 20 held hostage for 17 hour
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -87,13 +72,34 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 8 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
+
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 57 story pages for Google)
+
+Countries: IN 36, PK 36, BD 37, US 37, GB 35, IE 34, CA 37, AU 37, NZ 34, SG 35, MY 37, PH 31, AE 37, IL 31, NG 35, KE 31, ZA 35, GH 32, FR 34, DE 34, JP 6, IT 34, ES 34, BR 34
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -102,30 +108,8 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+
+World Pulse not made this run: no AI available for writers (last error: AI error 429: {
   "error": {
     "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 8 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 57 story pages for Google)
-
-Countries: IN 36, PK 37, BD 38, US 38, GB 35, IE 35, CA 38, AU 35, NZ 34, SG 35, MY 36, PH 33, AE 38, IL 32, NG 34, KE 30, ZA 32, GH 29, FR 34, DE 33, JP 8, IT 33, ES 34, BR 34
-
-World Pulse not made this run: no AI available for writers
+    "message"
