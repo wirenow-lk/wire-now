@@ -1,57 +1,50 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 11/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 16/80 used today
 
-OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 66 stories
+FAIL Google Top Stories LK: HTTP Error 503: Service Unavailable
+FAIL Ada Derana: HTTP Error 503: Service Unavailable
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 15 stories
-OK   Daily Mirror: 89 stories
-OK   Hiru News: 100 stories
-OK   Newsfirst: 29 stories
-OK   Daily News: 94 stories
-OK   Sunday Times: 4 stories
+FAIL EconomyNext: HTTP Error 503: Service Unavailable
+FAIL Daily Mirror: HTTP Error 503: Service Unavailable
+FAIL Hiru News: HTTP Error 503: Service Unavailable
+FAIL Newsfirst: HTTP Error 503: Service Unavailable
+FAIL Daily News: HTTP Error 503: Service Unavailable
+FAIL Sunday Times: HTTP Error 503: Service Unavailable
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 0 stories
+FAIL Lanka Puvath: HTTP Error 503: Service Unavailable
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 3 stories
-OK   Google Top Stories World: 61 stories
-OK   BBC World: 31 stories
+FAIL Ceylon Today: HTTP Error 503: Service Unavailable
+FAIL Google Warnings LK: HTTP Error 503: Service Unavailable
+FAIL Google Top Stories World: HTTP Error 503: Service Unavailable
+OK   BBC World: 32 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
-OK   AP News: 96 stories
+FAIL Reuters: HTTP Error 503: Service Unavailable
+FAIL AP News: HTTP Error 503: Service Unavailable
 
-Biggest stories right now: US announces new tariffs on 14 trading partne (8 outlets) | All hostages held in Colombian supermarket fr (7 outlets) | Chinese rocket blasts off into space with Pak (7 outlets) | Sri Lanka win ICC Women’s Emerging Nations Tr (6 outlets) | Bangladesh raises minimum wage for garment wo (6 outlets)
+Biggest stories right now: All hostages rescued after Colombian security (3 outlets) | North Korea expels Swiss diplomat in sanction (2 outlets) | US announces new tariffs on host of countries (2 outlets) | Israeli strike in Gaza kills senior Hamas off (2 outlets) | HIP becomes port of refuge for disabled cargo (2 outlets)
 
-5 new stories to post
+3 new stories to post
 
-    reddit: Reddit not reachable from here
-What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [2 outlets]: Pathirana, Hasaranga in top bracket of IPL auction
-    important (also on Hiru News) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [2 outlets]: Gota’s travel ban removal request rejected
-    important (also on Sunday Times) - researching
+What people are saying: looked up 0, 0 stories with Reddit discussions
+* Newswire [1 outlets]: CMC moves to settle Rs. 1,040 Million unpaid VAT arrears
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [2 outlets]: People’s Micro-Commerce secures BBB+ credit rating
-    important (also on Hiru News) - researching
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+* Newswire [1 outlets]: No IPL 2027 for Kamindu Mendis, grabs marquee PSL contract
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* NBC News [3 outlets]: A rising star in China is the latest victim of Xi’s purge
-    important (also on Reuters, The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -60,59 +53,38 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
     -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle
-    important (also on Reuters) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (The read operation timed out)
-    reader service failed (HTTP Error 403: Forbidden)
+* Newswire [1 outlets]: Sri Lanka rescues cargo ship carrying nearly 23,000 tonnes of cargo
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
     attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
-bot inbox: <urlopen error [Errno 104] Connection reset by peer>
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 9 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
+  photos: looked up 24, found 23
+  photos: 12 too small to look sharp, using the clean cover
+    reddit: Reddit not reachable from here
+What people are saying: looked up 1, 0 stories with Reddit discussions
+  fact check feed Factcheck.lk failed (HTTP Error 503: Service Unavailable)
+  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 503: Service Unavailable)
+  fact check feed Watchdog failed (HTTP Error 503: Service Unavailable)
+  fact check feed AFP Fact Check failed (HTTP Error 503: Service Unavailable)
   headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 57 story pages for Google)
+Website updated: 32 Sri Lanka + 75 world stories (0 with cards, 57 story pages for Google)
 
-Countries: IN 37, PK 36, BD 38, US 38, GB 36, IE 35, CA 38, AU 38, NZ 35, SG 33, MY 37, PH 32, AE 38, IL 35, NG 34, KE 29, ZA 34, GH 31, FR 33, DE 34, JP 8, IT 34, ES 34, BR 34
+Countries: IN 0 (FAIL), PK 0 (FAIL), BD 0 (FAIL), US 0 (FAIL), GB 0 (FAIL), IE 0 (FAIL), CA 0 (FAIL), AU 0 (FAIL), NZ 0 (FAIL), SG 0 (FAIL), MY 0 (FAIL), PH 0 (FAIL), AE 0 (FAIL), IL 0 (FAIL), NG 0 (FAIL), KE 0 (FAIL), ZA 0 (FAIL), GH 0 (FAIL), FR 0 (FAIL), DE 0 (FAIL), JP 0 (FAIL), IT 0 (FAIL), ES 0 (FAIL), BR 0 (FAIL)
