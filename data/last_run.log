@@ -1,19 +1,19 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 36/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 39/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 74 stories
+OK   Ada Derana: 72 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
+OK   EconomyNext: 23 stories
 OK   Daily Mirror: 95 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 29 stories
-OK   Daily News: 87 stories
-OK   Sunday Times: 6 stories
+OK   Newsfirst: 28 stories
+OK   Daily News: 89 stories
+OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-FAIL Ceylon Today: HTTP Error 429: Too Many Requests
+OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 14 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 35 stories
@@ -21,25 +21,17 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 98 stories
+OK   AP News: 97 stories
 
-Biggest stories right now: Chinese rocket blasts off into space with Pak (8 outlets) | University exams postponed as non-academic st (7 outlets) | China's Shenzhou-24 carries Pakistan's first  (7 outlets) | Johnston Fernando fined Rs. 130,000, handed s (6 outlets) | China’s Huawei convicted of deceiving banks a (6 outlets)
+Biggest stories right now: Chinese rocket blasts off into space with Pak (9 outlets) | Sri Lanka win ICC Women’s Emerging Nations Tr (7 outlets) | Bangladesh minimum wage hike misses garment w (6 outlets) | University exams postponed as non-academic st (6 outlets) | Johnston Fernando fined Rs. 130,000, handed s (6 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [2 outlets]: Americans in Middle East urged to remain vigilant amid rising threat o
-    important (also on Ada Derana) - researching
+* Newswire [1 outlets]: Over 100mm of rain expected: 18 districts placed on alert
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [3 outlets]: Arrest warrant issued for Rajangane Saddharathana over failure to appe
-    important (also on Hiru News, Newswire) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -52,7 +44,7 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: details[2] adds that the scheduling follows earlier directives regarding bail and remand, which is not stated in the article.; details[1] says he faces a separate charge related to Anuradhapura, but t
+    attempt 1 rejected: what_happened: Heavy rainfall exceeding 100mm presented generally, article restricts to specific areas; blurb: Heavy rain over 100mm presented generally without qualification; spoken: 'across the isla
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -61,64 +53,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 503,
     "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 2, written by openrouter)
-* Times Bull [1 outlets]: Weather Warning: 90 km/h Winds Threat, Possible Cyclone Kani May Bring
+    attempt 2 rejected: the number 5 is not in the article
+    -> no cards; posting with the site's own summary
+* Newswire [1 outlets]: Easter attacks investigation: No court relief for Gotabaya
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [4 outlets]: Puerto Rico’s Jennifer Barreto crowned Miss Universe 2026 winner
-    important (also on Ada Derana, Daily Mirror, Newsfirst) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [5 outlets]: CPC overtime fraud case: Ananda Palitha further remanded
-    important (also on Ada Derana, Daily News, Hiru News, Newsfirst) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    cards OK (attempt 1, written by openrouter)
-* Newswire [4 outlets]: Sri Lanka win ICC Women’s Emerging Nations Trophy
-    no AI summary: saving the rest of today for important news
-* Reuters [4 outlets]: Bangladesh minimum wage hike misses garment worker demands, sparks fre
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [3 outlets]: Bangladesh garment workers win 36% pay rise after weeks of protest
-    no AI summary: saving the rest of today for important news
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 rejected: the name/word 'China-Pakistan' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -131,15 +70,45 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 2 rejected: Spoken section states 'Along with Ali, two other astronauts are part of the crew' but article only mentions three astronauts total without explicit breakdown.; Spoken section states 'highlighting grow
+    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    -> no cards; posting with the site's own summary
+* Newsfirst [1 outlets]: Gota’s Appeal Against Possible PTA Arrest Fixed for March Hearing
+    no AI summary: saving the rest of today for important news
+* Daily Mirror [3 outlets]: Vasudeva Nanayakkara arrives at CIABOC
+    no AI summary: saving the rest of today for important news
+* Ada Derana [3 outlets]: Ex-President Gotabaya Rajapaksa arrives at Fort Magistrate’s Court
+    no AI summary: saving the rest of today for important news
+* Ada Derana [4 outlets]: Court rejects Gotabaya Rajapaksa’s request to lift overseas travel ban
+    no AI summary: saving the rest of today for important news
+* The Guardian [4 outlets]: Rescue crews search for six people after plane crash off Mississippi c
+    no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: All hostages rescued after Colombian security forces storm supermarket
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 4 too small to look sharp, using the clean cover
+  photos: 5 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 16 facts and 2 people saved
+    gemini failed (The read operation timed out)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  summary translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
+
+Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 57 story pages for Google)
+
+Countries: IN 37, PK 34, BD 38, US 38, GB 36, IE 35, CA 38, AU 36, NZ 35, SG 35, MY 37, PH 31, AE 38, IL 33, NG 32, KE 30, ZA 33, GH 28, FR 33, DE 34, JP 6, IT 33, ES 34, BR 34

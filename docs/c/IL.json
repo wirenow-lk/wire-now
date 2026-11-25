@@ -1,17 +1,177 @@
 {
- "updated": "2026-11-25T06:43:33.332161+00:00",
+ "updated": "2026-11-25T09:44:43.272282+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
   {
-   "id": "4ff9454bcb",
-   "title": "Shin Bet accused of torturing Palestinians to extract confessions; Israel rejects report",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHBQbkpGU3Qwakt6cVFnb3MzLUI0TWl1RUE1ZXJUYTQyUUowcDUzTEdHYkZQMlhrbWVDc25FVHd3QUxuZXBrLVg3d1RXZDRxRl80Yl8yTnFncDdiSmFBSHJVenpZUTdoRVBodzFKZmp1Q2hLTloxMlM5WTdhN3hpQkVUV09XODFfR0ZyMTBVYjVWRUJ2UzMyZzN2eEtqUHR4Nlh5cE1KWVpKb3piYnNDZ3lBOXbSAboBQVVfeXFMT2N0VDQ0OEdNeEV4MFoxc1h1Zm5lWkVFZDZRZU5kX05zTmUycVAzTU5BajRXQW1kLW5aSGhYZ0ZJWU5pOWQ4TmxpLWplaTRUd0Rfc1Q4LUZZOUtNQVRPd1JKeFdzQ0F4cjFPVnBxVWQ0VXRFeEI4QWlmOXBUeGRFaVJ2NGZYZjJEOTRhZ3JzWTc5Nm12V0xDNEpGeTN3YVR2YjY3OGExa0E3Y29CeFBmTUdFdFdCSTdWd0Vn?oc=5",
+   "id": "ae12712f8b",
+   "title": "A Disturbing New Connection Between Stroke and Brain Cancer",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHY4VFYybW5rRF9QaC10N1pJNlUtSlVEUVBucFRjZUhOVnZreVcydU80Njh3WVZRWmRpX2RPZ0EyVzdWbTVHUFFxMW9FSDdHN3FuM3hhUHRnWTA3eVRTZ2RUUjU0cU5yRmFZRXhqa0k1LWNjU2J5cl9Tam1GMmI2bUw5c0E1c2Y5R1drYUUwQ0RfSUdkX2NQYlNLV3Nka3lOMXBGeGhtVGp3TGc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times of Israel",
+   "source": "Medscape",
    "region": "IL",
-   "date": "2026-11-25T06:33:45+00:00",
+   "date": "2026-11-25T09:37:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ee10d64d98",
+   "title": "Israeli strike kills Hamas official, his wife and children",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjNlV0dRZTd0cDZJZVBnNFl6VUpTMDFlQlFIY0tJQzR5ZmNrYm9lNS1kMTRYbEpyM2FNMWp6Qms1NGh4VTU0YkxQN0NaY1FRV1diOENoQmdIQjJ0eU12VGZfamhNWHpsZUQ0MXczanBWZW1uWUZsVXpwcElhR2RXdG80RTBIcjZ1WjVHYW94MUhfUDI5dTA0ODZWRlBiVkFYNlhwR1RSaW1OZ2M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "IL",
+   "date": "2026-11-25T09:09:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱 🇵🇸",
+    "also": [
+     "Palestine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7295f83ba2",
+   "title": "Japan unveils rover prototype for Moon water mission",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aMkh6VS1GVFctUW91SHFNRC02azJ1OE4wRlZYbXZrQTBuZTFQWVZCdXh1RVNjWFlBUmpBSWlRbUpmOGJ2TzdWOE9KWGxuNVk0WnhySlJHZFNHWWtwWnVpTWZ6OTRYOHNfelF3VTJhZlRCNGFlMW9QUnNubw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AFP.com",
+   "region": "IL",
+   "date": "2026-11-25T09:02:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d1236e9da3",
+   "title": "2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship in Benghazi",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXBKU3ctb08wV2NCVHUtVzNqSk9SdkRzdjFpNTBiZFRzTDZLajFvNVZzOHg0MTEyV1dWTGhkbEpVdWlRWFNpS0dhMFdTNHNCQkktY0ZKWGRjWWZmaFhJZWxGWWNTSzE3UkZkdnRydzF6M3d2Rmt6SmNHOXFyaGxrUHRrMG9sTl83cG1JSEkxekN4LXdrTnpOZTFpMXJyaFRqUjN3Zjh2QkJ3SnRCQ3pzZEQweDJ0ZG9yNXo0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NBC News",
+   "region": "IL",
+   "date": "2026-11-25T08:35:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Libya",
+    "place": "",
+    "flag": "🇱🇾 🇺🇦 🇷🇺",
+    "also": [
+     "Ukraine",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "287a435f90",
+   "title": "Dani Olmo and Joan Garcia’s agent admits regret over missed opportunity with Barcelona superstar: ‘I didn’t care back then’",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1RkN29uS0QzQ2loLXg4enRGa3dZZU5VdlJ2Zl84TmtaZWZEd09Oc19hWnh1dHZhY2Q3dVRESlVxbHBtNkItMXVuWnVZQURHVHFuVnZZQ0JHMWlDVXN0ZUdVQzVmNURoOHlVSXhzZVdNczFhS0pXbnVvNEVLX3hDdGg3RTR6MFhkN3VB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "IL",
+   "date": "2026-11-25T08:25:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "900ef1bd1d",
+   "title": "GTA VI's $3.79 billion debut has Zuckerberg joking and Musk laughing, but Take-Two investors still want more",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWxyX2puY3RjSkYwSlJNT251RnVVNm82R1NwSE1hcUpNcEdGam5YU1p3cldWTS1NWHJBT3I1c3RNSHdMb29SRXVZR3FpYmNaRlA2WFFRMk5Dd3FsN1ZFTERGWVk0clRFTUZxekdaeHVVRVJRYzUwVHYtR25aWUdVVFJZVUk3VkxfSnlSMURVSmtHU1ZqVVdGUVRMQjNmbmk4aWZuTzg5bkhIWGRMR1NrdENfbFRzSE9BN0F3a2hvSEZDeFpnQmVyRHpFOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Fortune",
+   "region": "IL",
+   "date": "2026-11-25T08:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3c647372b6",
+   "title": "Knesset to vote on Oct. 7 inquiry, ban on return of terrorists' bodies in blitz",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42R1Mtb3lxNmdmbU03Z0k3V3R4R3AweXhUYS1oNjRhcDdYOV9CaDI4RmdXZi14WVdUdC1jbkdoNUxPUUdOOWprUl9uUTRGVWRFbVhxZ2FpZmlfUTRncm5yZk5GZUxENC10R1BSdUt5ZnFqU2NEckdwbEdZUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Jerusalem Post",
+   "region": "IL",
+   "date": "2026-11-25T07:03:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8129ecf496",
+   "title": "Houthis Hit Saudi Finance Center, Extending Tit-for-Tat Attacks",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1BiYksyaDNtYjZFcEktR3ZVR3loMUVjbzNMN3hNOUhZRHZjTXFmQVZCMjRzVHY3aGFjcFd3bUNGTWJNTU1jYktLOHRUSjdfbUpNUlFVa0JfTDk0NnBndW1ucHNnd0R6ZEZYWVI3SnNoOVlaendaY0s4ODJkbFlnSExDajZVMlRfX0Q3OGcyY3A3R2ZwRkxuNmtQM2h2YWdhRnlOVjdVNzdQandSeENEelpjdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg.com",
+   "region": "IL",
+   "date": "2026-11-25T06:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Saudi Arabia",
+    "place": "",
+    "flag": "🇸🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "aa09e91210",
+   "title": "Hera spacecraft investigates damage at asteroid \"crash scene\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JVkwzcGhXMEJYUXZqOEhOU050andvb0xhVnc4ZXFXTDJDN0lCS2NCYkRhQVNhUXR0UXNuTXBMSUo4Szd1bzZJYnA5c2ZGVklkampOMHdodm5tRUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "IL",
+   "date": "2026-11-25T06:00:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d2530b9283",
+   "title": "Avigdor Liberman: Benjamin Netanyahu, Katz may be using intelligence agencies to spy on rivals",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3TmZGRVM3dkJEOFlwVkYzZ0VHbHFiQ3BwTmhnUllYM2xwWnNPb0lHcjNwLUJYUEh6eHUyN1RGS20wMk5mTlVBOV9pRXVTejNNRF9jcTF5MDZuUTdRUF9ZQmwxWUkxQ2ZGcXVYaF9EVVRQVW5aUzlJajA5aw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Jerusalem Post",
+   "region": "IL",
+   "date": "2026-11-25T05:54:37+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -38,23 +198,6 @@
    "topic": "Society"
   },
   {
-   "id": "e83e83c4e2",
-   "title": "APOD: 2026 November 25 - SPHEREx Seeing Through Dust",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUhZNFItM1l0bzUwek91RlR2cnpXaWF1VVBlNVU0VEZwZlFQVEVEcXpld091NVZWN19qaF81cVBiYWo5d3ZsMWwwZ3dDZGQ5bXhBbVlSR1paVmNXNVRkRUV1VHI4RkNXOW9tdzR6ejlYdG9wVUtsNmdVR1dIX3dWM0p1dHhCaHJFYnZsRHNmX0hRZVU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NASA Science (.gov)",
-   "region": "IL",
-   "date": "2026-11-25T05:05:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "75f14ba4c5",
    "title": "Fake symptoms, real prescriptions: Why patients lie to get antibiotics",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tcTFrME5PRDNJTUhvVGF2UTNnNEZrR09pVjIybTdCTlU1NXhMOVFpaUg1M29zLVpaRV9uNG5NVHIxaU9TeGM2ajlCZGoxQUw0d05JaGotUlRqQnVCSDRVOHd3TDQ5a0xLNFE?oc=5",
@@ -70,77 +213,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Health"
-  },
-  {
-   "id": "2e1bec6423",
-   "title": "Dallas Mavericks vs Denver Nuggets Nov 24, 2026 Box Scores",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DcEFYbEF3Q0kxMElFbEhTZlJ4MzVQS0lubFY0aGpTclFXWVJwSXRyVllXSXFJUEFhYXFuZkh1ckZUbkxCeko0RENXYjMzY2cwd2VzXzgwUy1QeUswb0JaaWltUXVfaTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBA.com",
-   "region": "IL",
-   "date": "2026-11-25T03:48:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a353567195",
-   "title": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56M3ctd1hnemNzRWR2dGpselpLc2hQZ19mdWVuYS1vUkZtR0VPNFRfYjJjaHktZTBzalFkYzR1UHk4akd1NHNPX1lLZEV3Q2JqLTZIRk9xQ1BjOUhpTEI0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nature",
-   "region": "IL",
-   "date": "2026-11-25T02:44:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "077d270238",
-   "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak95N3VGUTZral9OeUxMdTFPTmE5TWJ2VThkMmFOWDU4YzhGNDJYSEdFNHhyS1daTl9kVXB5S3hoMXpjdXhWM3Z6UzFydzBRWEYxYlE4QjJ0U2VDUGlGOERKdkcweDBUSlVSX2hvZEtnUExFU1owdC1MbUFUVF9CTnB1OGNRazFHTlg2bEFmQzhKSjlSVUFEemhpNjVNVWxVSDRGQW4xR0ZfQU1FLWZlNU5NTUZRT2J1MnJLU1otYXlTUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SiliconANGLE",
-   "region": "IL",
-   "date": "2026-11-25T02:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "afbb72b8fd",
-   "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSExVNjdwSUdhRzd4aHlwMWR6NklEdWV3bVptbElRRzdMRW1uQ2RzdFF4MFlHWkttR2tERy11ZnphRHY2d0d1ZHVNZ0g4OEpRRjU4VTctUFVlaDI2T0czSTVLNjhwdXoxbUtIdXhfZ00tejBhR2Itc3BPOWZsYUF2cEVDeFlVQ0Rid1VFVNIBkgFBVV95cUxNbG9HeEFpQkxXZjNsR0pobEI1SS1QaDRNdG9jRlltcEVXMHFQUlFFdHJpWndBdzZ5ZUZmakpiYzlUeE1CTWFnX21fc2w2UGhOMDZlTTRIT0lVeDVpekRoYWlTekptX3h3QXYyS29SNEdERno1c0p6Z2xMalJMMWtONjdZQzlFS2xCWENvcWstWWFCQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNBC",
-   "region": "IL",
-   "date": "2026-11-25T02:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Yemen",
-    "place": "",
-    "flag": "🇾🇪 🇸🇦",
-    "also": [
-     "Saudi Arabia"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "ef628e6502",
@@ -178,40 +250,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "dd2aa4f5bb",
-   "title": "Oil Prices Fall Despite Hormuz Tensions as Supply Glut Fears Overwhelm Geopolitical Risk",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqdlVCMWZRTGdzSW9Ta3R6V2ZnejQwOTN6Wl96LWZYdkpyVlI3c2pxbW9xc3hnMk9wVVVVcWkyUHJWUi1ZWHFtWUk5U3NzMFNhOXB1Y3lrOTNOUzU0Z19KVFhxV0c0QUQxUVVvbEItclFLeUhUZ3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BigGo Finance",
-   "region": "IL",
-   "date": "2026-11-25T01:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ec1e35c0b4",
-   "title": "Dollar takes breather before key inflation reading; Aussie slumps",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUFucHFRbGxzR3laOUhHVU5fQ215SV82VkdMcExqZy1DMmpLalE4RHkyUDgyaEVLQmhVQ3l1VFZXcUV2ZV9UQmlqX1p2X09UbjlfbzlTY1EwUld2Z2dFV0d3cTI0bDlUejkxbFRsczJ5Q2ZmdXVaTkNNTXNKLUZkYkxLVVhFejU1VjdVTXp4d3ctRmc2NWhDbFdJV1NDRTE4UFQzOGQ4eXI4bXdjLWJB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "IL",
-   "date": "2026-11-25T01:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Economy"
   },
   {
    "id": "2da3bfb752",
@@ -265,6 +303,40 @@
    "topic": "Society"
   },
   {
+   "id": "d17f2087bc",
+   "title": "How an American teen who idolized mass shooters became one himself",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGczUEV0MnkzcmVFVXVsdnpOLWhOQldkNVRNaFNsVlh0MEF3WVBpRWl2TGpTS2h3OFhNeC1iWDlteEpzN2RtM2ZnNkZjTjd1c1p2MFQxc1ZSMmpGNFZBaUlVZE9xN0NqWTJEbWFTM2JPamNXRTNIbnY0VEFtY00xaVozYjhTRjNTMjdKSVJkRTlDbUZ2WHlCa3NxTUg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS News",
+   "region": "IL",
+   "date": "2026-11-24T20:03:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b8c0e7b76e",
+   "title": "Oil settles up $2 as traders weigh continued Hormuz ship attacks",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "IL",
+   "date": "2026-11-24T19:57:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "2b60fd4b1a",
    "title": "Woman, 47, in critical condition at Meir Hospital due to flu complications",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Dc1o4bVhDV1doTTNRZHoxOTFVVGctb1d6d0hMVFI4VWxUSjNSdXhteXJOZlNNLWRTX2dydzM5c3Y5OTdKU2ExeHFfc2Nmd2JRVm55Vg?oc=5",
@@ -280,23 +352,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Health"
-  },
-  {
-   "id": "2e87074b14",
-   "title": "How I Treat Pancreatic Cancer in 2026: Highlights From OncoDaily’s Global Virtual Summit",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTWNYRFgwQTAyVHpHVXA4Y0NCd3E5NndUTmpzcUlaNEIwbFNZTkJEVEgyVzI3Ykk5WXVrMGZDZVlqSC1nWVNHZURMQUZNOVhoRFdsMjNHekZDVFhkNmFSSlhLUHNkUDE2RkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Oncodaily",
-   "region": "IL",
-   "date": "2026-11-24T19:23:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
   },
   {
    "id": "0562a1b11e",
@@ -353,107 +408,19 @@
    "topic": "Society"
   },
   {
-   "id": "e1754c3567",
-   "title": "Jane Fonda, De Niro join celebrities backing Van Hollen as next Senate leader",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0lwV210N1daLVpVcW8yME1tTlpnTU5ocGRWZUxyS3VabEFQY3pZZnVNRjhkdE1nV3FCVnpjdFpDMUFSeE5KVkpacnBHREZHRWlTWjRxOXdaNFdUWkphLU1SN09hMFFCQU9sNDhGWWtPU0RsejNwRTBGU1ZkT3RIWHplcDBrMVByTDB4M05BWdIBlAFBVV95cUxQX3BERWFCc1IxVHRpT0c0NE9LWVdZUjdOajZoQWRyTHEzeDRKZ0M2ajZ5LXI1Zjg3U2dhRVNoYUhXS0dFeXk1SkxLdXA3dy1vLW1OWjJaQmpJQjBwQUFhNGRyN3k1dWRJem14QkF0b0JWaXplelVyOVBWWlVPZ0pLaHhmczJpRE9ON21yTTFlZUc2a1JX?oc=5",
+   "id": "7101ce1737",
+   "title": "Paris Opera, accused of erasing Berenice's Jewish identity in 'The Clemency of Titus,' denies any antisemitism",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVy1JeVg4U3AxX2JOcHA4TjVVTm1hd1Q0ME40OERMOUV2ZU5VTVdmYl9TT1lNbHFrdkZKSlFqd1RNSG0yTjZfVl9SRnBGLTdGNE1xSXRCN3dlSkxpVVlCVm9RUkhUdWJpVkRmRFpJZVp3Q01CWlZ5dkwzQi1wZU5Ja1BydlVEN0tsR25hX2hIbm0yaVlvUXRYdEdnQUdoVzU5a0VzOXlyZzdWU3lXZHVoa05CbkItVEpONjFJZXI0bnp4QXpWMXZFV2ZFX1N0cy0xcnNiME9NWGRBZkg4TGJUUHJmOS15ak5BWlRPWWs5V0dJaDdsV0VfVjN3UWFGeGYtNElrOUJB?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Hill",
+   "source": "Le Monde.fr",
    "region": "IL",
-   "date": "2026-11-24T17:59:00+00:00",
+   "date": "2026-11-24T13:15:41+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "France",
     "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f92bb0432f",
-   "title": "Casio releases new titanium automatic watches in the UK",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjVsb3ZiWHhqbGJpTllibmo2Q3ZCYnVya1JIX29maWplVE8xSXJMYzR5WGlnOHBVSU9LM0liaWVIX0dwSFZ4dWVpNDB1QndPZGF2UUk1ck5QRnp6X1AyR3JCVWJXYzdYeGxURmlueWpRWGNYcmlER2pBLUJJdGVxOTNzRkp1dTlzZ2lIOU5WSllpYjRabDQyYUF1eU4wRVVjSHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Notebookcheck",
-   "region": "IL",
-   "date": "2026-11-24T17:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a9c5cc7d2a",
-   "title": "Deranged media support for Israel’s genocide",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnFnUVc3ejNSTllpSndxRmZhcEhzLXQ0SThBNWZ3bmI4UmJYNW9xRVV6MzFuQW44dHY1MVNwbUY3T3B3d2tvS0h1TEFVbG94WDJ5eGZtRE9nU05WSGtJX0pNNlBIZy1BdzRJTXQtdGRHb0VxTGJlTjhmVjhkWFhGNExB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "mronline.org",
-   "region": "IL",
-   "date": "2026-11-24T16:08:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "461b2cbc10",
-   "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aWXBtVV9ybjU2N1lialNXc0EtYlJQU1NpRWdtcURtY3ZaMVZJcklRNVdpQ0xhcUUzOUhSMzJtUTY3d0FueUpTWEVKVE5QUDVlUTVVeFZNbVFHMWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "IL",
-   "date": "2026-11-24T15:35:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱 🇵🇸",
-    "also": [
-     "Palestine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "85a169beff",
-   "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWtaYWl0aXk3bE1SVS1CWDdMUy1NSmNQTUxHbTFRbFlFemVOS0FkZDE4TjVZWDNUODUycDJHTXpfaGp6SWwya2gxWVhJUlk1bWUxTmpjSk5UZm5wME5ZYWc5SkJsM1I2Vmx2c2paS3owWTdPX0pDN0ZXUUtQck11OHFfSVhwd18yakNEM3NBaTBPbmtTRjVNSnNISklHTUE3ZkJLclh4LXQzbUNZOGx3dC1n0gG3AUFVX3lxTE9yaW03aWdDZFBjTUh0YXhVMk5hdy0ybmpGQXZ5UVkwN3N3M0NrQkRTTVVwQkpEY3BBQ3ZxS0c2cmdyMUlNSlZrbmNWUzQzc05SN29ZS2h4dXJuVzdyWVFOcGVmbEFfaWxPNlpTT1JVdDJqdHRkaTE4QTZMZkFqNFl5RURUOHB6SWR5WmFTSldZcWhSa25SSVBjYkJhT09Od2Jvb2gzQzktYjZJWUxObGFoaW1kbjN1cw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "IL",
-   "date": "2026-11-24T13:46:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "80e5699493",
-   "title": "Kushner says Israel slides toward ‘pariah status’",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2RSTklyM2VDWVYtUm9UblBWM3g5NDNXOTNHQTlTSWlnNjR5VWhpZzcteTF3RHJ4WXhiSTZncndDaHpocnRDTTFidXBydXdVdDRzQjNuLTZUV3RCUS1TRTg4T1F3Q2t2bUJIT2xBVHhFNW01ejR1aFBYS1RmYXhxQk1jcmhQVEV3MW90R3hTLWJiQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hürriyet Daily News",
-   "region": "IL",
-   "date": "2026-11-24T09:11:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
+    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -478,14 +445,31 @@
    "topic": "Society"
   },
   {
-   "id": "f944a05c89",
-   "title": "Sixers Bell Ringer: Sixers undone by Portland’s blazing hot shooting",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHN2Q0pGal9QdE1Zc0dFU01RNXpGdjJtd1h4Mk1Fc0VfZEZIUXdjZm1IdkhPRjFta084TGZxbGxaNm1YT0lodGJUOUdkOGJRSjhZYXRoZXVteGI3Q1J0MjhXSGNBaU5mcmZuQ214aklaTXNCeXozRjYzSm9xVHF4aGszdGhHcUE0?oc=5",
+   "id": "0363bdc123",
+   "title": "Dollar slips as Nvidia-fueled AI rally fades",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanNiZVlvczY3SnoxTFdNOG9HNldIdFBDOU56cTFHQjdGU2xYRzh6YWE5MllkSXJSaWZNRlEtczJLaURrQW05aXNVaDNDZ1c1cFFvUlRnVFNBNVdldGtFanA0VnJkVWV4Y2I2NU5wb04tRDJuU05vWThkZnBpOHFRWHJ3bFZ0eGpKcXVn0gGQAUFVX3lxTE5nb3JUZU1KQV80MG9WTTdhUTZaMWxrMmpiZ3Q5NGU2eGdDSkxWa0RHVDJ2X3IzallVNWpaOHh4ZnBrd3c5b0s3ZFdlZlVCcDR5OWVTallOV0pIS0xkbzAwUFBoWFJsMEEtVy0ycVl1b2ZDQTl3bWZBSjFwN09JVU81ekYwUW1pOW1Dbnd0WWpqdA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNBC",
+   "region": "IL",
+   "date": "2026-11-24T04:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "5ec6a5667e",
+   "title": "4 Winners, 1 Loser From the Blazers Second-Half Beatdown vs. 76ers",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QMGR3SFFRMkNIWnZMS1pwXy15RF9kY0J6elJLSnlBa0ZKd01iOUQ1QllSYU5Xa1JLeEJtQm5EcTRFQUs3RnZUTzk1WTVDTnZOa082LThfU05INzNwOGFYZVhtZUlfYUZfMENqZXNCSUxyLWowRURSbmVCOUIzTjg?oc=5",
    "summary": "",
    "image": "",
    "source": "Yahoo Sports",
    "region": "IL",
-   "date": "2026-11-24T03:21:18+00:00",
+   "date": "2026-11-24T02:36:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -493,6 +477,23 @@
     "flag": "🇮🇱"
    },
    "topic": "Society"
+  },
+  {
+   "id": "c7a082bc86",
+   "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcUdxbkFPeVJGT3c4S3FWcGlNdWRhMHpvM1FQY3MyNUp5ZVlfZ1liSzVSNkgwdVhtRGwyYXJFUGxNdWlweDB2NFV0WkJUallzVWtoWWNpeVBORjdTODlGNG9lMzFnTVdIT3Jpdm9HSE1UbTVmRV9PWDZBYjZNOWZnQjBpS0xQWEhaX0l2TzNENGNqdnhicmJIWThB0gGfAUFVX3lxTE54emg1X0dYWFVpYzhtTHJnNF8ta3U3UlVhTmlDeDU5M09YdGJvZTBqR3FxVEx4cVVMNVFoSGEzVFRQdktFNktfOGZkWVJMN2REUHhYYzhoaGl4REFWMlBLanNscXNGWElQUXoxczA0eTJxdkl3ZUd4bW9fUXdhcWVKVmJFZUZPcUk1U3JnXzdsenNVUUFyQ3h1RGxWczNHdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "IL",
+   "date": "2026-11-24T01:20:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Politics"
   },
   {
    "id": "2a7b2ca227",
@@ -503,23 +504,6 @@
    "source": "Yahoo",
    "region": "IL",
    "date": "2026-11-23T21:11:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ab57deff7e",
-   "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmVvN1lwUjZNYWdzYlhsdWRPaXBjb3RIMjlyT3ZEdXR5ekNiVWgwZl83RzlwcHJNSXZfaFU3UGd1bU5OTkNWdE9QNHlpSV9NSE5FWlNDS0ozTkZtdVZ4Y0RjTGd0RmZWQnRWdWk0V2NSUW5Ld1hMODNIb3JXZUpweFVOQ1hzY05wS1pCcGw3TU9pWGFfUkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WSJ",
-   "region": "IL",
-   "date": "2026-11-23T21:06:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
