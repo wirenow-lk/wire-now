@@ -1,13 +1,13 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 25/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 27/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 51 stories
+OK   Ada Derana: 53 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
-OK   Daily Mirror: 97 stories
+OK   EconomyNext: 12 stories
+OK   Daily Mirror: 95 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 16 stories
+OK   Newsfirst: 17 stories
 OK   Daily News: 65 stories
 OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
@@ -21,67 +21,53 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 90 stories
+OK   AP News: 93 stories
 
-Biggest stories right now: Bangladesh’s Sheikh Hasina plans to return ho (8 outlets) | Jensen Huang Apologizes to Nvidia Employees a (7 outlets) | Diary of Pope Francis reveals sightings of th (6 outlets) | OPEC Fund to provide Sri Lanka with $30 milli (6 outlets) | Magnitude 6.5 earthquake recorded in Indian O (5 outlets)
+Biggest stories right now: Jensen Huang Apologizes to Nvidia Employees a (7 outlets) | Bangladesh’s Sheikh Hasina plans to return ho (7 outlets) | Sri Lanka to obtain US$ 30 Mn OPEC Fund loan (5 outlets) | Magnitude 6.5 earthquake recorded in Indian O (5 outlets) | Diary of Pope Francis reveals sightings of th (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: ‘Common weakness in SL is under utilization of capital expenditure all
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ars Technica [1 outlets]: What’s going on with the Riemann hypothesis?
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [1 outlets]: Astronomers spot record-setting quasar in the early universe
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [2 outlets]: Meta and other social media firms are not liable for Buffalo mass shoo
+* NBC Sports [2 outlets]: Michigan does about-face on Trev Alberts, potentially owing him $17.2 
     important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The New York Times [2 outlets]: College Football Playoff rankings predictions, latest bracket: How far
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [1 outlets]: Generation costs, tariffs and coal quality among key factors behind CE
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
     gemini failed (The read operation timed out)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: Fort Hood survivors denied bid to witness shooter’s firing-squad execu
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'SMEs' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    gemini failed (The read operation timed out)
+    attempt 2 failed: AI did not reply with JSON: ''
     -> no cards; posting with the site's own summary
+* Reuters [2 outlets]: US CIA, ODNI suffer cybersecurity breach of some unclassified informat
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [4 outlets]: South Africa convicts Zimbabwean who tried to fight Ukraine for Russia
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 9 too small to look sharp, using the clean cover
+  photos: looked up 24, found 7
+  photos: 11 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 54 story pages for Google)
-
-Countries: IN 37, PK 37, BD 38, US 38, GB 36, IE 34, CA 38, AU 36, NZ 34, SG 33, MY 34, PH 30, AE 38, IL 33, NG 30, KE 27, ZA 34, GH 23, FR 33, DE 34, JP 12, IT 34, ES 33, BR 34
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
