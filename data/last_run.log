@@ -1,67 +1,44 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
 
-OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 61 stories
+FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
+FAIL Ada Derana: HTTP Error 429: Too Many Requests
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 17 stories
-OK   Daily Mirror: 76 stories
+OK   EconomyNext: 18 stories
+OK   Daily Mirror: 74 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 16 stories
-OK   Daily News: 66 stories
+OK   Newsfirst: 17 stories
+FAIL Daily News: HTTP Error 429: Too Many Requests
 OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 10 stories
+OK   Google Warnings LK: 11 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 31 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 91 stories
+OK   AP News: 92 stories
 
-Biggest stories right now: Bangladesh’s Sheikh Hasina plans to return ho (7 outlets) | Diary of Pope Francis reveals sightings of th (6 outlets) | What strike on Russian ship in Libya says abo (6 outlets) | University non-academic staff to launch token (5 outlets) | Huawei found guilty of stealing trade secrets (5 outlets)
+Biggest stories right now: What strike on Russian ship in Libya says abo (6 outlets) | 6.5-magnitude earthquake strikes Indian Ocean (5 outlets) | Huawei found guilty of stealing trade secrets (4 outlets) | No Tsunami Threat to Sri Lanka Following 6.5  (4 outlets) | Bangladesh's ex-PM Sheikh Hasina says she pla (4 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: UN calls for greater public participation in decision-making to promot
-    normal news - one-paragraph summary
+* Hiru News [2 outlets]: Kurunegala–Galewela section of Central Expressway set to begin constru
+    important (also on Newsfirst) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Yahoo [1 outlets]: 'Dancing With the Stars' finale live updates: Who will take home the m
-    normal news - one-paragraph summary
+* Newswire [2 outlets]: Heavy rainfall above 100 mm expected in several parts of Sri Lanka tod
+    important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newsfirst [1 outlets]: MEPA to Assess Marine Impact of Colombo Port Oil Spill
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [3 outlets]: US army to detonate 68 barrels of toxic lead in Iowa on day before Tha
-    important (also on AP News, Al Jazeera) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: The Guardian, Al Jazeera
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: The card says the Army was led by Maj Gen Eric Shirley and acting secretary Adam Telle; the article says Shirley was commander and Telle was acting secretary.; The card says the federal court lifted t
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -70,3 +47,18 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    attempt 1 rejected: the name/word 'Lankan' is not in the article
+    attempt 2 rejected: Sea area precipitation described as 'thunder or rain' instead of 'showers or thundershowers'.; Wind description says 'short strong gusty winds' instead of 'temporarily strong gusty winds'.
+    -> no cards; posting with the site's own summary
+* Newswire [1 outlets]: Family of British siblings killed in Easter attacks raises funds for S
+    no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: US army to detonate 68 barrels of toxic lead in Iowa on day before Tha
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: Kilmar Abrego Garcia self-deports to Spain after lengthy US legal batt
+    no AI summary: saving the rest of today for important news
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 2
+  photos: 9 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
