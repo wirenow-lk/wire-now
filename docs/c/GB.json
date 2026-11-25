@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-25T17:46:31.876873+00:00",
+ "updated": "2026-11-25T18:46:56.707696+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
+  {
+   "id": "495c333eca",
+   "title": "Poundland collapse leaves 10,500 jobs at risk",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2lDNnpjajhrNWo1U0wwOHUzQ0R5c1hFR3h5LVFIaG81VWhlcFMwdmkxakk5cm10RDh6MXNvLU40Y0dXS19pdlh5eHNITllkX3JNRUs2blpwanRQUUM3dm96MllwanBDdHFLOEtvb1drd3NHX2h2djFacFFIcHpRME5Sd1JlbXdX?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-25T18:41:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
   {
    "id": "1a76c2cee6",
    "title": "US announces new tariff proposals on EU, China, and other trade partners",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-25T17:36:00+00:00",
+   "date": "2026-11-25T17:35:56+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -22,6 +39,23 @@
     ]
    },
    "topic": "Society"
+  },
+  {
+   "id": "31caee25fd",
+   "title": "EasyJet boss unable to rule out further job losses after profits collapse by 96%",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWjdtckVOWEE2Wi1KbWxvR01sSzNBY2xQYUpGRGp6OWFhdUlkZjhRVmV5MERCV3Q1U204eE4yRGVsNW1RcUg3b0JtclNsZnU3V3Nvelhhb1U1ZmRGaElETzllcE9iSGhCS2RHb09ma2gxaHU0MWE1YkhZdVY2cG1aNVhjel9wcXlZaV9lU2E4WngzUWNFME8tLWd6TDhGZ0UtYVZLVDlNNDB3RHRXV3h5SWVBSXNKalNTREtvYkFHbWtkMGJUOUt4cUtCZTF4QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-25T17:03:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Business"
   },
   {
    "id": "143f7319db",
@@ -42,13 +76,30 @@
   },
   {
    "id": "dcbb3b15d7",
-   "title": "Gordon Ramsay to host Top Gear as show revived after Andrew Flintoff crash",
+   "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ya3NtWVJIY3RST2JvMWc5eHZ5bk1udDA2YTJad203SVh1bU93ckhaV21JalljZjF3VkF1N0gwUVIyWWxfTGxuTzAxQlAwdk41TmNEd3FUM05raEZhQ2c?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-25T16:58:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9b0af558b9",
+   "title": "Nasa knocked an asteroid off course. New closeup photos may shed light on aftermath",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaS1FS24yUXo0QjFuMmpaVVFYWTJEWnVZdWxwTy1ibHRISzVrLW1HYTJYRm9LRnpyWDNEYVh4ZXlsVmZyTVBXOHFjVWo2MXdDYnIyTF9XSWFQU3VSZHFvUkNqdjlsNGozSjA0a2xXbDRqMUtQQ2xTbjQ5M0pkWUJHcXRSMHd3U3I1QXVvTEpQY0N2UjRzd3dVU1ZMUnZXTTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-25T16:49:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -75,23 +126,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "982126b3a8",
-   "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlhid1hKWnNWVFVzNGtOQ0JEYTB4NGVybkNaTDJ3MnlCeXJoOWx2ZnlVSkZ3aGwwRUJMX0xxTWxtY2Q4NXV0dkpYQ3lUSEgzaHhtdWVwTzVXZE9DaV9lYUJEd2gxRGJ3SU81SUl0bTlEYnZRTFFSc1V6V3gxSlpLQXoyT092TVNJVGgybGJSLTBzR3NsM3E1RFd6Sk1WbkZBSkZFdg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-25T15:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "bf4d2eb97e",
    "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORmMwMmM0c3lUSlo2UWhIU0Nzb3htNXhwSC0tZUE1am9RR2p3SmYxOFMtY3pBb2E4NGg3YmZEYUFobi1IMWJDanNad1BPOWJzbm4zRGhra0JPcloxQzY0ajM5M3piMG15QnV2eEgxdkh4UmU1YUtfWTg4WHk1RWNQUko5LV9TdFhEWFJxQ3F6SUdjSUFqSi02ZHF5UEkyZU1RZEFXYkM3cw?oc=5",
@@ -107,6 +141,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Sports"
+  },
+  {
+   "id": "c965265476",
+   "title": "Downing Street's dancing TikToker Luke Hamnett defends visit",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5U1VSdG5xRmItWTZMOXFlREpiSGVJZjRGS1N5YjRQSXphT09Fck9uSzl1QlZTUGpqN0l5b3dJLVAwTDBRNjRhN3F0WU51RzN5YTNiNUxYT0lZYTE4dnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-25T15:47:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "880adb8519",
@@ -134,23 +185,6 @@
    "source": "Sky Sports",
    "region": "GB",
    "date": "2026-11-25T15:37:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a8d74c4f2c",
-   "title": "Beatles attraction at 3 Savile Row approved – with ban on rooftop gigs",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRllLdWNTZG9DdnpoS1JuczloU3ZYMjFzS0FSYVNzd0JhTWY2SGgxclpRZVlOMENkVDZjRFhUYVdfdTNYdTRRX1Q2ZnM3SUxralpRRXBiSlVLb19NY1Y2SWMtRVNONmpiMzlLczlKY1BsbUhLREpFczZ3MklDelBKTXAtSFQ2UmRrVXd6RnpaZUxLMFNyTENXTDJITlZjUk5ZV3J3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-25T15:12:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -197,23 +231,6 @@
    "topic": "Society"
   },
   {
-   "id": "75a402ef8f",
-   "title": "Albanians ‘climbed drainpipe to break into Anmer Hall’",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRjNWdGszbDZjTEJDLVl3bHpBNThva2gzLVlBMkZ1ZG9lWUd0amlHZURTNFdOMGEzLS1Wc3lVT1dxUmhLVmZXdS03VS1WQlFuRy1BQk5tZU9IOXpxMmVGNWlDZmtNRTRTRDJZb0Q1X2ctTEVIejJ6N1VDZ3JsZEdaZWxsZ1dVdmtNd29IMFRQQ05wTk9GVTZNUDdOb2t0T1pyd2tKS19iTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-25T14:50:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d9e657edf9",
    "title": "Sherwood Forest NHS Foundation Trust declares critical incident",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MWNKWmVSLWlzQ1Q2TTBBQXJtQmxidXdocjNnQWRvT1ZxV0NaRV9PVDlwVzVEOUxuSVBITmJWUkNWelU0OTFwSi13a09wWERuTXRCYjFPLW16NXdtVmc?oc=5",
@@ -231,8 +248,25 @@
    "topic": "Society"
   },
   {
+   "id": "28ba0c5f74",
+   "title": "Daughter of nuclear test veteran blames his radiation exposure for her fertility issues",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FenhBWnU3ZFZMNi1wbGRGdVlETjJvQ0syQ2tla2lOYjMxaG5YdGlRZ042clRUalN2QTdZODN2Q0Z1eG41S3NMYWJibEpxaFEwU0tyem5OanZ0UFhTaHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-25T14:15:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e0ae4ab20d",
-   "title": "US army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – live",
+   "title": "US Army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – live",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGtPSmxhdW52VkdlTTMySGtXWVR4Z2JYZFJYOGM2V3lwT3cwS19iMTYtMGlGUFJjdWZXWmluOThoeXA4REdGRzhqaHRaVTluQkZ2ZDNSX0RWR3JLYVRReTU4TU5ZM1ZweW5JNmp5eE5qOWhoV1JPb2JGSTA5ekd3LVRzUnY1S29XNVpucmdrdjUtQ0xvZkw2OXFTZ1NzN3ZWSE82RDhZYVBXdGxuSzQtZ0JB?oc=5",
    "summary": "",
    "image": "",
@@ -268,6 +302,40 @@
    "topic": "Society"
   },
   {
+   "id": "5be5067b9f",
+   "title": "NHS Grampian surgeon operated on patient while recovering from endoscopy",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KN2dmQUktYUVvSWxtOWdQYk9TSmFadjA1dGVYWnQ2OHJkVkY0SlcxYWc2LVFNcTRKOVZUckIyb25icE1DQ2J6aHVabVVuRnFxMVA3Y3JoVkZ2QmY3Ync?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-25T13:26:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4f33e70010",
+   "title": "RAF planning anti-drone nets at British bases",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2tMUG1hV3NGc0RNVGRWR3V1NE5HTXdlMjRoR3BzNndySkZXbXdCUHNXeFJXaEZ4STdGTml6aUNHTGJvVl84QUlkelItd2dxMnplMjVzM2ZiNURsUktONTB5SlVvM3RCRmN0ejNyZF9TVkFsaUszbjNwci01ejBXM0liVmtkdG5EVkRsSk14WFhTc3llX3lNdWJadm8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-25T13:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "5981083a31",
    "title": "Fury vs Joshua fight to go ahead despite objections over 3am finish",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4RkVoX2I2aDBGazhPVE83ZzQ0d2dmbWxrMzhTaGpwcTZQeDduTEVleko1ZUlWMGxoaFJrMlE1R3kwa21YMXp2YUo1S082OWhnQm5udUxSRWhFWm1ER2c?oc=5",
@@ -276,40 +344,6 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-25T13:09:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "da99a0d23c",
-   "title": "RAF 'moving aircraft to hangars at night to protect them from drone threats'",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWQ0WUNuUWh6RGItUl9QUWpkYjdTYXdUWWNNRnMzM1QwUG55dy1fNTNQallfNzhkLWRhTGN6V1BVRVRfZmFRTDRzV0E4ZkFIUU1UWlRtS2MySjhTVkN5Y3R5Y1FWMUlLdlByaDg1Z2lncWxvZVBqLWhyV0daWWk3dzhycG9GWUFPRVA2YjdnUGRDeHVObXRRN0lNeXJQdDhWcTI0azhqMDdpalRRbm1n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-25T12:07:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cc91f00d9f",
-   "title": "No 10 does not rule out inviting back influencer at centre of video row",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HWmNpT3h4LVd5SGw2TGt0M2pPeW1naDVtZGZHV19raHNiblV4UTQ2UnZUVUxaVm9fRi1vb29rV1FTZjNBRnFpSzJva2c5dXpsaEt6eS1ORjhLNnp3QWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-25T11:46:49+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -353,27 +387,6 @@
    "topic": "Society"
   },
   {
-   "id": "7dcd76cac4",
-   "title": "U.S. Shelves Plans for Business Deals With Russia to End Ukraine War – FT",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDB2c2JYWEtlTHhhQkpJeFJ5ZzdSV0VCRFpTb2lJdk5EVzI0ZjJZcUpuV1RRdWRXS2N1dy1kR0NpSXhLYnZwU0I1ZFBmRTFLTDBKTkw0N24tQWcwWG4zT0phaWVOQWFzcGhHWS1ySEFyODhOVDI2alZlX3hKRVBmNjlGckFXYnU4Umh3VW84R0I4czV4YVlnUXYtTWJCTHdMaXV3S1MyQ2R4TUQ0N0dheXFhbzFxWlV0bXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Moscow Times",
-   "region": "GB",
-   "date": "2026-11-25T10:14:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇺🇦",
-    "also": [
-     "Russia",
-     "Ukraine"
-    ]
-   },
-   "topic": "Business"
-  },
-  {
    "id": "c32c2bf24b",
    "title": "Michael Burry Sells Remaining Nasdaq-100 Puts, Eyes Fresh Nvidia Short Near $200: ‘I Am Long Undervalued Common Stocks’",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPal9ONzV6Zkk1OV90eUswaFNfSDV3TC1Bb1ZtNzIxSnVTa250ZFpYQ2xmSWwzdU8ycGRIV0JiSVdubktuOHdjUmpEV0h3V2RGUjdldnR3LTdQNi01OHBrcW5md3FNZmdrUHBzTkZCVjNITGl2Tk9DN21fcEhveXNRbFJXYzJJd2ItRllpUmNIWkpkVDFZMTdOdGFTR281U2FIMXBWc2g3UXVEamlEaUdkeE5YNkhTdmZudEJCYUJXbHd4Nm9tWTdGcHVDdFZyS1E1dmFsSWVRbWJsc01QSVE4TGhpWTcya1ZVMjF1TzFUanNkYURRc1NfTjcwdDdaME5PU3Y0S3R3?oc=5",
@@ -391,14 +404,14 @@
    "topic": "Tech"
   },
   {
-   "id": "f70bceece3",
-   "title": "Multiple chances missed to protect two-year-old murdered by his grandparents, report finds",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnN0VC1Za2JtRlcyN01xeTQxNzhQU09oQVpQWWROTGR3WU5URm1DWTJYS3A5S0VRUHlTRnhKcVUwdEhVN0RiMkFYT0xhbE5vbVYtWUMwOHlReGo1NVMxaEVwQVFJbjJxYVNsWF9Tazhud2VjV1U2MzZMX1FsTFh1anU2Z0lqa2xoUE1Jc2lENjR3cGlmZW5LTnlWNmlKWE1lSmlHQ0pzN0l4N05BWUZQb1FIdWNhRDQ?oc=5",
+   "id": "438d5501fc",
+   "title": "Man Utd XI vs Sporting: Predicted lineup and confirmed team news",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUnRfOEpvNVoxNEhnc2VtZ3BiY29lWGRKVE1wVlJSSHpiWjMxcFJXLXBFQkp2dkFfal9WSFctd0dfbEtFbVRBQ3ZRbUZsZGxtVlBWcFJsOWtwdzF5aVByTHlEUExBREV3X25hb05ma0dQNGRYdlpheFFDUnkyS25LQlhpblU1Tm85bmtoTmU4d2VUYmVGOU1wVXRSUF9EbzQ1YWJFMGRHTGY0ckxRS25PVEZlb2ZaWFIzeEF3OFN6dWd1WF9rWGdfNnhNa1RzM2REZ1otcGhNMWx2MzFJdUR5eDJGZDNxSVJDZ0RRQVpB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky News",
+   "source": "London Evening Standard",
    "region": "GB",
-   "date": "2026-11-25T10:02:40+00:00",
+   "date": "2026-11-25T09:15:30+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -425,21 +438,21 @@
    "topic": "Politics"
   },
   {
-   "id": "f4ff04503b",
-   "title": "EasyJet profits fall 90% ahead of £5.7bn takeover",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXBYbUVnTTJURXVPcnBRZ0U2am02TndYNW1ySkd1NTlabG9SYUZmZV9SQ3dvQVpnZmt3YVI1VzJ1QTJITFpEdUZjdTRFLTY1Tm1xcnZmQWRaYjhZNW14YTAwLW9MQUFmTnBVVnVpZlo4Z3VTbEIxTWZFeFRqXzk1NmVDVEFoUQ?oc=5",
+   "id": "35da77de5f",
+   "title": "In Photos: Jaw-Dropping Beaver Supermoon Lights Up The Night Sky",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGxzNW1xdnFqWlRUald3RzZkQkh5S3pCd1hOcm5QNWFRcVlKMHNqdFNRWjZjdDBKQnhFUjE1NUlJRzFrUGlReWlTLWxkUktUN3VnOFh2NjhiMk1GNXI5TXhxSUI1YlN4bEdtRUpBZTltN3dPSUVCaG52VHktY1M4ODFiTUZnNXl3SEppRnlFbnRDbVNZMFBZcVJGel92UDdXT0ItOExSbVhIcEl4TWNhNnVFb0lNM3lhdGpVZU1mMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times",
+   "source": "Forbes",
    "region": "GB",
-   "date": "2026-11-25T08:27:44+00:00",
+   "date": "2026-11-25T08:02:17+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Business"
+   "topic": "Society"
   },
   {
    "id": "900ef1bd1d",
@@ -459,14 +472,14 @@
    "topic": "Society"
   },
   {
-   "id": "14a12f9e0b",
-   "title": "All the people who could lose PIP cash under new reforms",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OSTlmc3F5cDRIaGRIcEtrUWpjTG9tOVFWS01lUTZOM3NUOWdqRFVYX0d2THB3Y3pjSlc5QU9LMDNaVTV3ckVjWk0yQjZkM1NEX09LcWQzSnh5M0RLaHJnaTd6T1otN19kUzdLVVRxa3JTVE0?oc=5",
+   "id": "7d6565d7d1",
+   "title": "Smithfield’s old market makes a glorious home for the London Museum",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1ZoRGtkTk5NTV9kaV9MS1p1TGpHZWVWVkVUdjI5WlV0TG43OGFMRGY0V204bDJzVzdQMUJsWlJzMWJ4azdoWHlxUklJcUZPTWU4VmlONThhMlZuellpN2J0ZXlUU04wSEg3V1JDTWtZMjNVRHJ4VlVlZGRWM2llMm9Ma1MzYWhGT2E5OHdFVXAzZFhYNXJSMHVUQ29yM3ZGT3V4NEJ1SC1TVXFfWk9V?oc=5",
    "summary": "",
    "image": "",
-   "source": "The i Paper",
+   "source": "ianVisits",
    "region": "GB",
-   "date": "2026-11-25T06:45:36+00:00",
+   "date": "2026-11-25T07:04:14+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -476,14 +489,14 @@
    "topic": "Society"
   },
   {
-   "id": "3d44679206",
-   "title": "Hera spacecraft investigates damage at asteroid \"crash scene\"",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40LWt4V0VjYkRfNVM3dmFObC1mRGJCTkNrbHNRdnNsQUw0UW5HNmJ4SVRCWGVrNkVNS3ZVbTUtYzJ3c084ajcwVTJjYU5oZEQ0OGVFN1doRHB4SDZpRkE?oc=5",
+   "id": "4437619079",
+   "title": "Slime Mold 'Intelligence' Might Just Be Physics After All",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNThKOWdTTF9lNUg3cXlDY25NYWUwMjVtb1JZM1loWFBvY0hVcGpBbzhyOU03b3NqclNRNDR4NnRIejJyTTBSVWpNUHpLT1RxM0hkTzUyOGNBVmNlZGZHWlBVa3VTU3d3T19mWWRhX1p3a0hDSWw1N3NoeTZ3VUM0d3hkcW43Skd5MFE3Sw?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "ScienceAlert",
    "region": "GB",
-   "date": "2026-11-25T06:00:36+00:00",
+   "date": "2026-11-25T06:04:48+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -491,6 +504,43 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "de8abdd962",
+   "title": "Poultry farmers' 'constant anxiety' over bird flu",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tU0o1YkxCbEYxZXkyYktWdVRxbmM3ZjBoSVM5X1I1TVFyODd6R2VWYXBWRDVSVnFDdGtFRWw4RDNIOFEzMWpxLTVLRDJGZnJqQVVNVThXUkZvUlBCOHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-25T06:01:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9f903d5227",
+   "title": "Donald Trump shelves plans for business deals with Russia",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGhVcjBhYW5oQjZTTU56WmMtUHhENS0takVtTmpWMTNvUjNfQkNkSHpBN0FEUGg1U1BqWGROOHVMVWlwZEJ5VGFGSE5zX2dwZ191aUl1STI5T3ktTXp4RW4wbGxJX29TUFRuTmxPMUxrQVNlU1hmWG5IVC1aYUlvR3A4X2g?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-25T05:01:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Business"
   },
   {
    "id": "75fa33f124",
@@ -510,31 +560,14 @@
    "topic": "Society"
   },
   {
-   "id": "b343d18e5a",
-   "title": "The beaver supermoon glows across the globe – in pictures",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1VpTWRiYXFQWkdxRUpwTHctN1gwUThVSnM5S1hUVEdMZjVaNG5QamNGUERmUzByN2tORlVOc05nRGF4R0RPa2VkNUNDY1hLb1cwSHlhNlFGc0l6dG5YUTl1eEpRRWJNRE8zaEtfSElsQjdXbTF6bHpIVU9kenRHUDZOcEJhMGRrd1R1Y0xEVmtKQW4wdmNNNldqaUNrOVJIMG93aFBxSV9HTW11NE1iQU1TRlYxRGxlTG9mM3A5dTBFbjJuemc?oc=5",
+   "id": "bd4227e6da",
+   "title": "Burnham opens door to wider NDAs ban at ‘watershed moment’ on abuse",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZIV1laOUJIOVFFcmxhZlF5cHIySWcxeGU4bkR3bWhpbHAyWi1xWTRsemxGT1BhR1VfcUpmb1REemZBYmM2THdPakxmV291OU4zRmdpMVpqN2diTm5fQTlCVGdmVUwxTEN6eklZQWhpYjA3OVB4MDBzbzhiaG1xR2Q0VEpNSTlrcVY3ZGpIS21qb2ZmRkNnNHZuMUFqRmVjOTZPeGZR?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-25T00:46:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bd562a3d2e",
-   "title": "Arteta questions 'how in hell' Arsenal didn't score more in Dortmund draw",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2k4cWlTTmRhUnNOUU9GMXRteVpvbVNLVlRLXzJEMUJZcDhSTEIxcWJrY1FHSVlzb2lMWGY1ZjFOU0dfNmlsYUlCd2V3Mjkzb2gxdGVKOFdLUTZzZWZON09RMW51bEtheDRUMWxJWGNGam1wUWJSTVRyVWFuMkZPVU1VdUVkWDZBamU0b29kNDZ6bXpINkRNZjFNSjZaWlhyY3BfVzRMWVJTM1U?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN",
-   "region": "GB",
-   "date": "2026-11-24T23:25:00+00:00",
+   "date": "2026-11-24T22:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -552,40 +585,6 @@
    "source": "The Telegraph",
    "region": "GB",
    "date": "2026-11-24T21:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "822cb68e5b",
-   "title": "Dark depths of solar system may hide a ninth planet dubbed ‘X2’",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjZnMkV2cld0akNjSkEzN2JHWUhVblgwRkJjRm9kZ2I5SHdtbDQxaFROaWh2d3lpUkFVUlRhVmJ2aEo3cDFvNmFwcVV3bjNuaHZCVlh3TkNIREpjTVNVZ1A2OF92NGFxT0hweEpZcDVnbXlPZ0lnUi1MQjNlZWdTa1pDS2UyNGQwWVYwb0FrSEtJdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "GB",
-   "date": "2026-11-24T16:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "888e5d361a",
-   "title": "New Study in Over-40s Finds Creatine Can Add Strength & Size Without Exercise. Over 60? It Gets Even Better",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHZVRHJWZlp0bjhsb3VWcHU2bllyZW41eDAyYmhSMDZsLTZEOHpZWV9zbXVvVS1rUjM0RWV1R0otMVFFNkcxR2I1WlRzRklwb1gtS01YcFU4WV8yQXJsVnFpUUtYOGxGc2lRNjZUYk1DRUFkT3FCOXREV1FrRm5YRDlB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Men's Health",
-   "region": "GB",
-   "date": "2026-11-24T15:18:32+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
