@@ -1,94 +1,73 @@
-getMe failed: <urlopen error [Errno 104] Connection reset by peer>
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 76/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-FAIL Ada Derana: HTTP Error 429: Too Many Requests
+OK   Ada Derana: 53 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
-FAIL Daily Mirror: HTTP Error 429: Too Many Requests
+OK   EconomyNext: 22 stories
+OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
-FAIL Newsfirst: HTTP Error 429: Too Many Requests
-OK   Daily News: 88 stories
+OK   Newsfirst: 19 stories
+OK   Daily News: 86 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 13 stories
-OK   Google Top Stories World: 58 stories
-OK   BBC World: 31 stories
+OK   Google Warnings LK: 12 stories
+OK   Google Top Stories World: 68 stories
+OK   BBC World: 33 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 98 stories
 
-Biggest stories right now: Macy's postpones Thanksgiving parade due to s (6 outlets) | Tributes for Duran Duran guitarist Andy Taylo (4 outlets) | Two screenings of Pakistani TV show cancelled (4 outlets) | World Bank launches First Sri Lankan Rupee Fa (4 outlets) | Musk's plan to send a million SpaceX data sat (4 outlets)
+Biggest stories right now: Duran Duran guitarist Andy Taylor dies at 65 (7 outlets) | Macy's postpones Thanksgiving parade due to s (6 outlets) | Musk’s plan to send a million SpaceX data sat (6 outlets) | Thirty-one killed in massive fire as fuel tan (6 outlets) | World Bank launches $10 million rupee financi (5 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* ScienceAlert [3 outlets]: First Close-Up Images of Asteroid Struck by NASA Reveal a Giant Crater
-    no AI summary: saving the rest of today for important news
-* BBC [2 outlets]: Norse Atlantic suspends all flights as it faces potential collapse
-    no AI summary: saving the rest of today for important news
-* Gothamist [2 outlets]: Judge upholds NYC rent freeze, marking win for Mamdani and his afforda
-    no AI summary: saving the rest of today for important news
-* BBC World [4 outlets]: Two screenings of Pakistani TV show cancelled in India after backlash
-    no AI summary: saving the rest of today for important news
-* BBC World [3 outlets]: Deadly fire erupts near Cairo killing dozens of people
-    no AI summary: saving the rest of today for important news
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
+* The Island [2 outlets]: Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing on
+    no AI summary: daily limit reached
+* Hiru News [2 outlets]: CBL Investments named Sri Lanka’s Best Corporate Citizen
+    no AI summary: daily limit reached
+* Hiru News [2 outlets]: Colombo Security Conclave adopts 2026-27 roadmap to boost maritime sec
+    no AI summary: daily limit reached
+* Newswire [2 outlets]: Plans underway to develop Matara SAARC Cultural Centre under Ocean Uni
+    no AI summary: daily limit reached
+* Reuters [4 outlets]: Musk pledges two SpaceX shares for every US child in $18 billion AI ch
+    no AI summary: daily limit reached
+* BBC World [3 outlets]: Myanmar refuses to comply with parts of ICJ genocide ruling
+    no AI summary: daily limit reached
+
+Top 10: 1 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 3
+  photos: 6 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
+    gemini:gemini-2.5-flash not available (AI error 404: {
   "error": {
-    "code": 400,
-    "message": "Request contains a)
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  summary translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-
-Top 10: 0 fully explained
-bot inbox: <urlopen error [Errno 104] Connection reset by peer>
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 7 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
+    "code")
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 38, PK 37, BD 36, US 36, GB 37, IE 37, CA 36, AU 37, NZ 36, SG 37, MY 36, PH 30, AE 36, IL 35, NG 33, KE 31, ZA 35, GH 34, FR 33, DE 34, JP 14, IT 34, ES 34, BR 34
+Countries: IN 35, PK 38, BD 36, US 36, GB 37, IE 0 (FAIL), CA 36, AU 36, NZ 37, SG 36, MY 37, PH 31, AE 36, IL 35, NG 33, KE 31, ZA 35, GH 31, FR 31, DE 34, JP 16, IT 34, ES 34, BR 34
+
+Posted today's Top 10 round-up
 
 World Pulse not made this run: no AI available for writers
