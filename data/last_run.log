@@ -1,73 +1,64 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 53 stories
+OK   Ada Derana: 50 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
+OK   EconomyNext: 21 stories
 OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 19 stories
-OK   Daily News: 86 stories
-OK   Sunday Times: 4 stories
+OK   Daily News: 82 stories
+OK   Sunday Times: 6 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 12 stories
-OK   Google Top Stories World: 68 stories
-OK   BBC World: 33 stories
+OK   Google Warnings LK: 13 stories
+OK   Google Top Stories World: 65 stories
+OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 98 stories
+OK   AP News: 95 stories
 
-Biggest stories right now: Duran Duran guitarist Andy Taylor dies at 65 (7 outlets) | Macy's postpones Thanksgiving parade due to s (6 outlets) | Musk’s plan to send a million SpaceX data sat (6 outlets) | Thirty-one killed in massive fire as fuel tan (6 outlets) | World Bank launches $10 million rupee financi (5 outlets)
+Biggest stories right now: Macy's postpones Thanksgiving parade due to s (6 outlets) | Musk’s plan to send a million SpaceX data sat (6 outlets) | Duran Duran guitarist Andy Taylor dies at 65 (6 outlets) | Italy says two citizens killed in Iranian str (5 outlets) | Diesel tanker capsizes near Ibiza, killing cr (5 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [2 outlets]: Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing on
+* Ada Derana [1 outlets]: Not possible to provide solutions to unreasonable demands, regardless 
     no AI summary: daily limit reached
-* Hiru News [2 outlets]: CBL Investments named Sri Lanka’s Best Corporate Citizen
+* EconomyNext [2 outlets]: Sri Lanka’s Janashakthi Finance meets central bank capital adequacy re
     no AI summary: daily limit reached
-* Hiru News [2 outlets]: Colombo Security Conclave adopts 2026-27 roadmap to boost maritime sec
+* Sunday Times [4 outlets]: FM heads to Delhi to attend 25th IORA Council of Ministers Meeting
     no AI summary: daily limit reached
-* Newswire [2 outlets]: Plans underway to develop Matara SAARC Cultural Centre under Ocean Uni
+* Lanka Business Online [3 outlets]: Sri Lanka Completes Registration of “Ceylon Cinnamon” as a National Ge
     no AI summary: daily limit reached
-* Reuters [4 outlets]: Musk pledges two SpaceX shares for every US child in $18 billion AI ch
+* Al Jazeera [3 outlets]: Two dead after Iranian drone attack on Kuwait
     no AI summary: daily limit reached
-* BBC World [3 outlets]: Myanmar refuses to comply with parts of ICJ genocide ruling
+* BBC World [5 outlets]: Italy says two citizens killed in Iranian strike in Kuwait
     no AI summary: daily limit reached
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 3
+  photos: looked up 24, found 1
   photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
-  "error": {
-    "code")
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  summary translation failed (no AI available for writers (last error: AI error 429: {
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
     "code")
+  summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 35, PK 38, BD 36, US 36, GB 37, IE 0 (FAIL), CA 36, AU 36, NZ 37, SG 36, MY 37, PH 31, AE 36, IL 35, NG 33, KE 31, ZA 35, GH 31, FR 31, DE 34, JP 16, IT 34, ES 34, BR 34
-
-Posted today's Top 10 round-up
+Countries: IN 38, PK 36, BD 36, US 36, GB 37, IE 36, CA 37, AU 35, NZ 37, SG 36, MY 36, PH 31, AE 36, IL 34, NG 33, KE 32, ZA 31, GH 32, FR 33, DE 34, JP 14, IT 34, ES 34, BR 34
 
 World Pulse not made this run: no AI available for writers
