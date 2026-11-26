@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 42/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 43/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 59 stories
+OK   Ada Derana: 54 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 17 stories
-OK   Daily Mirror: 99 stories
+OK   EconomyNext: 18 stories
+OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 31 stories
-OK   Daily News: 90 stories
-OK   Sunday Times: 5 stories
+OK   Newsfirst: 21 stories
+OK   Daily News: 88 stories
+OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 8 stories
-OK   Google Top Stories World: 60 stories
+OK   Ceylon Today: 1 stories
+FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
+OK   Google Top Stories World: 61 stories
 OK   BBC World: 30 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,15 +23,58 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 94 stories
 
-Biggest stories right now: Thirty-one killed in massive fire as fuel tan (7 outlets) | Macy's postpones Thanksgiving parade due to s (6 outlets) | All hostages rescued after Colombian security (6 outlets) | Russian Prosecutor General Arrives In Sri Lan (5 outlets) | Hambantota International Port shelters disabl (5 outlets)
+Biggest stories right now: Thirty-one killed in massive fire as fuel tan (7 outlets) | Diana Gamage pleads guilty over staying in co (6 outlets) | US announces new tariffs on 14 trading partne (6 outlets) | Duran Duran Star Andy Taylor Dies at 65; His  (5 outlets) | Russian Prosecutor General Arrives In Sri Lan (5 outlets)
 
-7 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [3 outlets]: Cheap tea imports threaten collapse of Sri Lanka’s plantation economy:
-    important (also on Daily News, Hiru News) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
+* Newswire [2 outlets]: Amber warning issued for severe thunderstorms in 18 districts
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 failed: AI did not reply with JSON: ''
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 2 rejected: the name/word 'Lanka' is not in the article
+    -> no cards; posting with the site's own summary
+* Daily Mirror [1 outlets]: Khawaja “disappointed” by personal “attack”
+    no AI summary: saving the rest of today for important news
+* Newswire [2 outlets]: Sri Lankan refugee dies after being forcibly resettled in African nati
+    no AI summary: saving the rest of today for important news
+* Newswire [3 outlets]: Ruwanwelisaya clash: Ven. Kassapa Thera and Rajangane Saddharathana re
+    no AI summary: saving the rest of today for important news
+* Daily Mirror [3 outlets]: Sri Lanka ‘Emerging Nations’ champions
+    no AI summary: saving the rest of today for important news
+* Newswire [2 outlets]: First permanent fuel filling station on Delft Island receives fuel sto
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: DR Congo Ebola cases surpass 12,000 as fighting disrupts response in e
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: Photos: Rallies around the world denounce violence against women
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -43,38 +86,35 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Spoken card rounds production cost comparison from 2.5-3.1 to 2.5-3.; Spoken card says "this Wednesday" instead of specific date Wednesday (25).
+    cards OK (attempt 1, written by openrouter)
+
+Top 10: 1 fully explained (1 new this run)
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 6 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  summary translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
+  meaning check: 15 stories judged by openrouter:openrouter/free
+    gemini failed (AI error 400: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 2 rejected: Production cost multiplier changed: article states '2.5 to 3.1 times higher', cards state '2.5 to 3 times higher'; Impact on families rephrased: article says 'threatening the livelihoods of over 400,0
-    -> no cards; posting with the site's own summary
-* USA Today [1 outlets]: Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested 
-    no AI summary: saving the rest of today for important news
-* Ada Derana [3 outlets]: Defence Secretary calls for stronger regional cooperation at Colombo S
-    no AI summary: saving the rest of today for important news
-* Ada Derana [3 outlets]: Balangoda Kassapa Thero and 10 others granted bail
-    no AI summary: saving the rest of today for important news
-* Newswire [4 outlets]: Diana Gamage pleads guilty in visa overstay case, sentencing on Januar
-    no AI summary: saving the rest of today for important news
-* AP News [2 outlets]: Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump 
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: South Korea’s central bank hikes interest rates, raises GDP growth for
-    no AI summary: saving the rest of today for important news
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 7 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (AI did not reply with JSON: '')
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 61 story pages for Google)
 
-Countries: IN 37, PK 36, BD 38, US 38, GB 36, IE 36, CA 36, AU 38, NZ 36, SG 37, MY 34, PH 32, AE 38, IL 35, NG 33, KE 31, ZA 33, GH 28, FR 34, DE 34, JP 5, IT 32, ES 33, BR 34
+Countries: IN 37, PK 35, BD 38, US 0 (FAIL), GB 37, IE 35, CA 37, AU 36, NZ 36, SG 36, MY 36, PH 33, AE 38, IL 37, NG 34, KE 32, ZA 33, GH 29, FR 34, DE 34, JP 9, IT 34, ES 34, BR 34
