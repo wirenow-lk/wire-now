@@ -1,24 +1,41 @@
 {
- "updated": "2026-11-26T18:52:49.590167+00:00",
+ "updated": "2026-11-26T19:58:46.670021+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
   {
-   "id": "6e35e3bb14",
-   "title": "Public service broadcaster services should be top of TV app menus – Ofcom",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ29ZVUVmUE95aEhMMWVDUFV1RnVha2FfX0g3MjBaNlcweEtUZWMwMmNxM01tQ09BZkVyTGdXaGFJRXRhU1VEYU9xUzJNMnI0SkQyVU9GeldUcXR2aTVZRTFNSTNJNGtmbmc0LVk3aGdEX2hrZTR4c0dMeG5OelpXWG5SYmhsX1Q5SThzMjYzelRYajE0NVNieGs2Ty1rNGMzUHl5UU02SFBhN0FFb1E?oc=5",
+   "id": "b48e0672bf",
+   "title": "WATCH: IDF strikes dozens of Hezbollah rockets, launchers at Radwan Force training camp in Lebanon",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTHRQbS1lNEN4YU1aNEFjZDlreG96ODgtZHFPcE83bTk3Y0JYUWN4RXBfa21qU0hLS2MzYUxiM0o0WDJYSmtPamFBYzktQ1lmenhnQ2dfT3Jkancycko3d2I1NU9ncGhaQTY4cV93?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "The Jerusalem Post",
    "region": "IL",
-   "date": "2026-11-26T18:15:00+00:00",
+   "date": "2026-11-26T19:38:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Lebanon",
+    "place": "",
+    "flag": "🇱🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dfb314c7b2",
+   "title": "As he races to unseat Netanyahu, Eisenkot reaches deal with left-wing party",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkx0dktMeUprbGh5YnBtY1ZfZFowUG9zVDhMT1VUMEdySTBZU2RhOVBhQ1RCc21Tbnc1OWllalBBajFDUUQ4U0RUdVNOXzhfeWc2RTNmWWFZbmJDLTlIellQR3pOU21HNnlLSTdWWHNNRDFwVG9wem9WcFc5VzYwczFISWk5R08xU0xSZXZscmptVTZKUUZPc200Tzk0TFNnX093dkt2RE5IVFhrN3VncDBJQlJHR2FM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "IL",
+   "date": "2026-11-26T19:33:34+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
    },
-   "topic": "Tech"
+   "topic": "Politics"
   },
   {
    "id": "7bca7d9d63",
@@ -28,7 +45,7 @@
    "image": "",
    "source": "Reuters",
    "region": "IL",
-   "date": "2026-11-26T18:01:20+00:00",
+   "date": "2026-11-26T18:54:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Kuwait",
@@ -58,23 +75,6 @@
    "topic": "Society"
   },
   {
-   "id": "dfb314c7b2",
-   "title": "As he races to unseat Netanyahu, Eisenkot reaches deal with left-wing party",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkx0dktMeUprbGh5YnBtY1ZfZFowUG9zVDhMT1VUMEdySTBZU2RhOVBhQ1RCc21Tbnc1OWllalBBajFDUUQ4U0RUdVNOXzhfeWc2RTNmWWFZbmJDLTlIellQR3pOU21HNnlLSTdWWHNNRDFwVG9wem9WcFc5VzYwczFISWk5R08xU0xSZXZscmptVTZKUUZPc200Tzk0TFNnX093dkt2RE5IVFhrN3VncDBJQlJHR2FM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "IL",
-   "date": "2026-11-26T17:45:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "63b25b64dc",
    "title": "Netanyahu’s corruption trial: Is it really all over?",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjFnWEpVNk5hc0pUdV9iMGxGZkppMFNVM1ZRWGY5Y3ItQlNqUXZOYU5faU11RFBPSmx6bU1PNXc0QVVUNWxYcll2M1Rnamp0aWh0ampadVFxRXhYQWRyc3pLWDAtZDFicldrNjJYMXMtdFlDd1hqVWt3WmtSR0MtRnRTWW5NLW40eHVTRjlZT2NRbkNUTWc?oc=5",
@@ -83,6 +83,40 @@
    "source": "Al Jazeera",
    "region": "IL",
    "date": "2026-11-26T17:44:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "989a3a45a2",
+   "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlZZanpHQU4yWFJpdjVHY001N0NMeGxMdzdjb2FPY2ZUU2hkeUxQRzducXZGMDF3UVlUVUVxWFAwc0tOdFZ3SjJIbjhsMlQ1V3VvZHdOWkcwSm9uYnIydHRSRERHS0RNTEdESjk2NDZxMkdVMHp4a2JreUo4d0Z0d3d2LXFuUldKNUdHUFQ5X0NBc0VQMThaT0pNLXhwZEdaeFVkeDVGejI1RWFUV29VM05US1AtRlhSTnFlTTl3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "IL",
+   "date": "2026-11-26T17:12:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "eca1aa6fed",
+   "title": "Slow Burn: The Faintest Supernova Ever Observed Refused to Fade",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aaEJKS0xrbTNwV0F1VjdPM1Zzd3VhZWV2VkxmT2o5TThOcGtIVUtTOTNYWktYc0FBUXFGaFU2QnFObmZPZzBNSm9YQThFMlNkcG56T2k1ODI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "סוכנות החלל",
+   "region": "IL",
+   "date": "2026-11-26T17:00:54+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -126,23 +160,6 @@
    "topic": "Society"
   },
   {
-   "id": "e1677610b4",
-   "title": "Haaretz Today • Will this man de-Ben-Gvirize Israel?",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSy14bUZaclIzMGtwUnBpdG9EemVucWJ6cGlLTDVLVWJlQjFNano3dmQ5Z29KcUtSSlg0UEhHNVJjTTY2cGFZQy0zYVpORndGczhPMl9WMlVqRng4X093WVEwT0ZWczFKS2hqQUw2LWJxaTY0LXNKZ2FVTmpWTlVlTFowRTVWVS0zWHlZY1FXa19rNU14LUhGZ09aSjRWMFNMbDlQYWp0Tld1U0YyelE0QUMyRzRoTWhobjk5cTVWZV9nMFhNaXBBWUJHVk9EVFA3OGhYMUxCRzFmWlJRWGlUYWpWVE45QzJBVmFZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Haaretz",
-   "region": "IL",
-   "date": "2026-11-26T16:39:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "be97b8c09a",
    "title": "Eisenkot-led government to include both Ra'am, United Torah Judaism in coalition, Abbas claims",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fYU9OMGUwWmZjS28yZXdjX04wR0NzWG9keGk0WnpJdHBjQUlrR1Z1aDdTNk8yb2lLM3pINEpKUnJnUlhWR1ZZdHRfQW10TVVXUlVNZmhJb3RXTUx2eTJ5UVlNRnR0TE1vbWREdGowVjAyZXdDYlBINmFyMA?oc=5",
@@ -158,23 +175,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "6db2bb0164",
-   "title": "IDF says Hamas uses Gaza hospitals as torture centers to maintain its grip on power",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zcHFRbHF6SDh3OXdXQ1hROHl0VjZUWF9ac2ZXZ21HZ0NCSlo3dVc3NXNDSnZhc0V2MHB5R0I3LXg3QXlEUzUxZEtJTUp4OXk5dTJrTlBn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ynetnews",
-   "region": "IL",
-   "date": "2026-11-26T16:00:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Palestine",
-    "place": "",
-    "flag": "🇵🇸"
-   },
-   "topic": "Health"
   },
   {
    "id": "351dc735b6",
@@ -211,6 +211,23 @@
    "topic": "Tech"
   },
   {
+   "id": "553c45d86b",
+   "title": "Lost homes, stolen freedom: National Book Award winners on exile and imprisonment",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelJ4dEk3TFBsaHJ2SzU0ekRBTzZKNTZfdHpHRHNtVDRmSVFxTXVzRWtIR0F6STZwbHptdm9iS2swRlh2VExKYVg5MWxRY0k4T1pLOWxqUUZfZXBHMEZNbkhVbERxeVV4dHl1cmsxWjV6MlN6dEFaSjBKTWFSbk5UVWZjNHZrV3h4MUVZZnZCam1NWDNqTUxmTWlMSk1mc2loSE5JdHpGYUM0WU95TGV1U0MwWndFVDA2Rm1SWkMya1hjTG95OUtmVHFCalg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "France 24",
+   "region": "IL",
+   "date": "2026-11-26T15:41:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "14b89ac77d",
    "title": "NBA Cup Shocker: Charles Barkley Invokes Dražen Petrović While Blasting Wizards Over Deni Avdija’s Portland Explosion",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVkNHckVuNmhKUDllZ0g5VlV2YS1acnJlM2VOSk55TWg3NnRVa1gwM256d3QwaTBIUmVqakhBOU1rSndpU1hjOUJ1dlJoWU9sM2F2Rlc3cmlCRlN2ZG1Cb2J0TDN4OUljeElZYTVoNDRMX3hBSUYzN05TcE5NeW11X1A2VGRKOHdPYjdjWGZldWZrcFJ1Z3FlajNwZE1rMFlxSnl4alM1bHpxWFFHb0E1MkQyMHJYS3RJUjVKZ0NKbHN0NDFfNlJXVGc5eUMzNmN2amI0UjhjSE01RHFMZjJKYk1qMTBPNjNDNTFn?oc=5",
@@ -219,6 +236,23 @@
    "source": "NDTV Sports",
    "region": "IL",
    "date": "2026-11-26T14:36:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "36bb62894f",
+   "title": "Tel Aviv Central Bus Station bridge demolition to begin January - Globes",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0JyN3UtMU1SNTZwSDBtZldrQktDZVJRNDJEUVJ0SU9udTQ1dF81WkgtMENjQkdJekJvZ2hSTFdUR0V4OVFMLWIyVDZTeXZaa3VOcE84a2RMYjZySmt3aEZDRkNiRW1OenFNaGdKNnFRUHUtM3pvUUd4QTFtUlktMjQ3Y3YwRldBMmZ0elMtbTVMUjF2NHJ0X0pqZGM4Z21qN1g5Ri1tbGg0ZmhobkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Israel Business News",
+   "region": "IL",
+   "date": "2026-11-26T14:13:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -306,23 +340,6 @@
    "topic": "Society"
   },
   {
-   "id": "535ce027d2",
-   "title": "Stellar discovery: Israeli researchers may have found faintest supernova ever recorded",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjVXNEFXTzFReDE2WXJyV195aUJQTkJsZUFNN0RxMmNiREdsWGtzTndwV19RaENOaldVWWJ2Sjh4SUJXR0h0cjNCNDJVMUN0RFdjUHNwWEkxZUZPM29Fd3B1LW1LY3dpS0FqWmJtY0VOQlU4S2p5MHE1RDNjWU8wczM2ekwxWmJzUVNHdl9VX2RpZUZQOW9vX2U0dEVPcDdIdWFVMFZBbGxHVmRJUHFOQ01QLTd6MlnSAbwBQVVfeXFMTmdRWHZiNGw1b1h3b0FNR0RCR3hUYlBVUnk3RUtNMGtFWk8zUVpka2t2ZXVjUnFLRjhNcm9vUmVsZFRVU3paRWg0cjZUanJSQnFGakwwaExGSnA0a3kyUXhKRDFSZ3FwcEYwdzdmcmlkS2xVRDc5QUlSVnlyRlFnTWJGZVl2TEgwU3dZaVI1WF9sQjdQcTR2UzRvSUh1ZkZRTlNYMVl6T0IweGNmT0NNc0ZQY05xZDhfR3VDbVo?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of Israel",
-   "region": "IL",
-   "date": "2026-11-26T11:17:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "96b206f2bb",
    "title": "“We’re going to have to trust each other” – Damian Lillard breaks down his clutch assist to Deni Avdija in Trail Blazers' win",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblJqSjN1X0duSFVoWFpLclhwOVBJbWw3WmwyM3prQ3E5d280dnJVMDkzNHJMUXM0Z3BnalhmdGFUbkZmQ1hfcUFDZ3l0VGtSWjVSVDlvR2JVcFBSa1k0OXdMS093MGt0VUtxblBWaFUyQXlJUEx4aHZtdWlCME9ybnJHVU1mc2FUam8wYV9B?oc=5",
@@ -355,26 +372,6 @@
     "flag": "🇵🇸 🇮🇱",
     "also": [
      "Israel"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c28a37735f",
-   "title": "Israel Hosts Joint US Drone Defense Trials For The First Time",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXR4NE51TlhzaFJzak1XckRFY2RQU2hyQnVzREhuQ2VxOEhnZ1h4ZjN3aXFDMDVqV0xVUTRrc0RRWkYzM2tVNUhBV3ZHM3VoUUlsRlFiZ3JSM0tWRUljTWdoN1JucTRkNGVXNGROX3dtZm5YQ1gzSGRNNE0yLV9JX1FJTFp2dDU2SkszNGRaektaOGZTTGEtWFc5X0F5SXQ5UU1kUXpEMHRGbGdKY0ZkNEZQX3VvQzJHaHdVblc3Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "i24NEWS",
-   "region": "IL",
-   "date": "2026-11-26T09:59:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱 🇺🇸",
-    "also": [
-     "United States"
     ]
    },
    "topic": "Society"
@@ -414,21 +411,21 @@
    "topic": "Health"
   },
   {
-   "id": "e0d1a7cd70",
-   "title": "FDA Approves Bacfenssi Doxycycline Gel for SSIs",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWml3Q3ZsMXBqNzh2dmRXTHhqdXlhSjg3ajhmdGY5cGpvQ1NXTWtXNGN6RkFOd1k3TEJaeUdTVkJtQWRGd3N3U1ZsbnJqbTdpa0FaQklXZWlXWkJEeEFQWVdZY0g5M0lrVGxVM3ZfSWZsV1NMSTdNaV9hdmF1ci1DVTNsempXNDVoSzhQRzFyTHFBeVFxUEMxcWo3ZnFINUcyVV9Xa0NMTnpQM250dUtZQVIwaGwyTkE?oc=5",
+   "id": "f82057c6ef",
+   "title": "Gold sinks to 1-year low despite inflation: Why are investors dumping bullion?",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0l6b3MtbHZTYjFPdGpoVDNTbGMwT2lmZzl1Nm9lbnJQYXFNS2pBV1YtYm9GQTBkSDdVQUZqTW95ZElJWkRDOEs4LXhkQ0VPcWNGQm5TRU82ZFlxajBwRFkzcWtMRjFzV1lmbGhEUEl5SVNBMDZhR0V4QjBrcllSNVNpNWF0MmtNV3FYLWVScFFwZFprMEVuNzNoTVlqQmFFemUxeFF4MUJ0a0xtRXJQUHFfa0xyUUpmSm44YXpsenhRWVVUNTlnaWR1T29FbVlJUG9MMEV0UWwtbzF30gHiAUFVX3lxTE1zbERRTVhDQmlPQkQyclUwWk5LT3MxX29xU3BwN09nNVRyemZfQlp2QmM4YWpuRjZBRlhER0pFRDJaZVVTSndDRDNER1RyU0dwRWNiQktEbDJPVXZQcXBaWFU1NGlIZjZoWEEtMTQtY2RTb3J5RVpmTThFZG9VTHN5ZlVNQldXN3doazhQa3VuaVBfbFFzc1hGSjUzaExUd1BweHFMelc1TTZqeUpxNmVpOHc0S3JWbUpzZ2V2VzM3ejFnWjhqSEhUN0FUVl9pUXlva25aTkFBdHk0UzdsTUduTmc?oc=5",
    "summary": "",
    "image": "",
-   "source": "CASRAI",
+   "source": "Livemint",
    "region": "IL",
-   "date": "2026-11-26T06:57:50+00:00",
+   "date": "2026-11-26T04:35:59+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
    },
-   "topic": "Society"
+   "topic": "Economy"
   },
   {
    "id": "8607a131a1",
@@ -465,14 +462,14 @@
    "topic": "Society"
   },
   {
-   "id": "3b35f373dd",
-   "title": "Houthis Launch Retaliatory Attacks on Two Saudi Ports on Red Sea",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1VYSkV6czVycUFWd0t1bDdZMWhuY05hV3RuYjhjVnhrSXZfdXBfd1VDRjZzaFJOYnlGNDhiWDhIeTBIQV9oMGZOaTJQNmlMdll1a285bDkyYmgyVEVvTkVfcG5XNEV2Nzg5d19VbzBlTmxBeE1YeWgzd0ZwWHR3REYwTzBXS1dyc3l6R3FGUVdxU29objAwM1o3Zl9MdjJBRzN5Y3BBMjVrR0o1TkswQXRxMjkydw?oc=5",
+   "id": "48217c5f7f",
+   "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGxhOFVRbGV4VWljWVZrRGUzSlRFN2dkQVc3dkVHWHZQdUlOYmVpbEpKdVdtYkdXRFVQVG11QlJleUZOeXZyVUdCRVg0UWw1YmVNUS02WlREdUJnVnBnRlF2TUJJM2hrUlNUSHUxRmF0YzRqM2QtR01kUUhvSHZHX25XeWRNZjdrMFF0VkRlVnMxbjNQOU1YcTl0cjJCNlZueGlOeXZIONIBrAFBVV95cUxPdEhLc01XWU5iX2xIa2VMdlBiZG1icV9TR1JsTGJJTl85Vkg2N25sY2JQYTJpb0tqYnhVRENFSUN5NkQxM3NBbG45WUQwdzk5UFB1LUFLRGUyeEExUkxlcW9UdUVBU2pteWVwdV9LMDhxbWZsb2lEVExfS0JmU0s5MVVrMVFaSHpoVnpSQTlTN0lSeEROZzFQMl9DemV6MFgxRkp0V1M2M0NoQm5J?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg",
+   "source": "Al Jazeera",
    "region": "IL",
-   "date": "2026-11-25T23:45:44+00:00",
+   "date": "2026-11-25T23:37:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Saudi Arabia",

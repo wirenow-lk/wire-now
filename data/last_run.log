@@ -1,61 +1,58 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 8/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 50 stories
+OK   Ada Derana: 47 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 15 stories
+OK   EconomyNext: 19 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 21 stories
-OK   Daily News: 83 stories
-OK   Sunday Times: 6 stories
+OK   Daily News: 79 stories
+OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 12 stories
-OK   Google Top Stories World: 61 stories
-OK   BBC World: 28 stories
+OK   Google Warnings LK: 11 stories
+OK   Google Top Stories World: 64 stories
+OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 94 stories
+OK   AP News: 88 stories
 
-Biggest stories right now: World Bank expands local currency financing i (6 outlets) | Diesel tanker capsizes near Ibiza, killing cr (6 outlets) | Musk’s plan to send a million SpaceX data sat (6 outlets) | Duran Duran guitarist Andy Taylor dies at 65 (6 outlets) | Italy says two citizens killed in Iranian str (5 outlets)
+Biggest stories right now: Diesel tanker capsizes near Ibiza, killing cr (6 outlets) | Fuel tanker crash ignites a massive fire on a (6 outlets) | World Bank expands local currency financing i (5 outlets) | Live Updates: Macy’s Thanksgiving Day Parade  (5 outlets) | Two Italians killed by ‘drone strike debris’  (5 outlets)
 
-7 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [1 outlets]: Sri Lanka A storm into final after Croospulle, Jayawardena tons
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* The New York Times [1 outlets]: Thanksgiving Storm Hits the East Coast With Rain and Wind, Causing Tra
+* Yahoo Sports [1 outlets]: Bears vs. Lions live updates, score: Colston Loveland carted to locker
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The New York Times [2 outlets]: Every Great Black Friday Apple Deal We’ve Found on iPads, AirPods, and
-    important (also on Yahoo Tech) - researching
+* Daily News [2 outlets]: LOLC Finance expands branch network islandwide
+    important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* NPR [2 outlets]: Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speec
-    important (also on The Guardian) - researching
+* Daily News [1 outlets]: ‘Private lands not divested as promised’
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily News [2 outlets]: Sri Lanka, Brazil sign agreement to uplift local sugarcane industry
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Guardian [2 outlets]: Fifa confirms cyber-attack exposed ‘personal and business information’
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -66,27 +63,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Sports Illustrated [2 outlets]: Aaron Rodgers' Ultimatum to Mike McCarthy Revealed, and It's Eye-Poppi
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [4 outlets]: Trump says he wants Putin to ‘pull back all military aggression’ in Eu
-    important (also on New York Post, Reuters, The Kyiv Independent) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Al Jazeera [3 outlets]: Trump calls GDP data released before midterms ‘fake’, demands investig
-    important (also on Bloomberg, Reuters) - researching
+* Al Jazeera [3 outlets]: Judge strikes down Trump’s latest restrictions on US birthright citize
+    important (also on Hiru News, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -97,6 +78,14 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
@@ -106,19 +95,7 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
@@ -131,4 +108,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 38, PK 36, BD 36, US 36, GB 38, IE 36, CA 37, AU 36, NZ 36, SG 36, MY 37, PH 32, AE 36, IL 34, NG 31, KE 30, ZA 31, GH 33, FR 34, DE 34, JP 10, IT 34, ES 34, BR 34
+Countries: IN 37, PK 37, BD 35, US 35, GB 38, IE 36, CA 37, AU 35, NZ 36, SG 36, MY 37, PH 32, AE 35, IL 34, NG 34, KE 33, ZA 31, GH 32, FR 34, DE 34, JP 9, IT 33, ES 33, BR 34
