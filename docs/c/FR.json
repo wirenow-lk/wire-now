@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:39:28.842835+00:00",
+ "updated": "2026-11-26T12:48:10.222721+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
@@ -11,7 +11,7 @@
    "image": "",
    "source": "Le Figaro",
    "region": "FR",
-   "date": "2026-11-26T10:02:37+00:00",
+   "date": "2026-11-26T11:38:03+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -21,14 +21,31 @@
    "topic": "Society"
   },
   {
-   "id": "670020d6b3",
-   "title": "Au Mali, les morts discrets de l’Africa Corps",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWduYm5rdWtOd29walBpQno3LUNCcjBIUWFJeVhoS2FHT3N4c2N4anFYcHFtZWtiX0QwWjd0TWtjWmNLaUM1ZzViQ2xOTEx3TWoybGNEMGJheGpEOE5XX0I1Q0dqQ2huX0NQWGF0SmZTYVY1bXA2cnVGa0JTVjVrYUlQd05PRDhEamlhVlNTZ0ZrbVRjYUE?oc=5",
+   "id": "318011391f",
+   "title": "Plus de 700 000 morts pour la Russie en Ukraine: «Les Russes ne sont pas du tout ignorants ni passifs",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX3ViNkNNOVhZZjZIb2JvOEl1QnlpVEtUQW9oc3VaUm1JUzctMjVsU1NyanJWMEtUTFJNRUdZVlJ1R2xoMW1ydFFKV1RSdHNYSFFuYjFYcEwwcVJnV1Z0VnFUc0s1LXRmT2s1MjByQUs4NWp4UkZvUmIyY3Z6cjZFUDBqOEdMOW9wSmc4X1NkclB0dk9ac0ZNbVFBdWd5Z09WSktRS0NvWTlhRzVwMUFLclBaZXpTS1VnMjdOWGxCSXM5Xzl6dEtMdzdzN1hUVUJjbmlB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Figaro",
+   "source": "RFI",
    "region": "FR",
-   "date": "2026-11-26T09:44:13+00:00",
+   "date": "2026-11-26T10:59:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d92b87a9fa",
+   "title": "Un village abandonné dans les Pyrénées mis en vente au prix de 295.000 €",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWFSR216Ym82TDJteDQ5UTZ5bFBEdkpDNWVOeW1UMFpzU1lpQWZkNXNCMXYtajBXZGtfLW4ySU1UVmlxaFkzN21JVmJVTmgyU0RUMkJFdFNmLWhTZnJSaVVqUjlHQmlsTS1WNU5KMllSR0k5YVRuamgtOGJNbzRvdFFTMFBOQ2RNZmExZFloNFZnVklGV29QWi1hN2RqVXdtbHB1QkNHeHNJUWJvbFpNajJsYnVRUVNZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "20 Minutes",
+   "region": "FR",
+   "date": "2026-11-26T10:47:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -38,14 +55,65 @@
    "topic": "Society"
   },
   {
-   "id": "c0559eaf1a",
-   "title": "Écrits antisémites : après de nouvelles accusations, Jordan Bardella «dénonce une entreprise de persécution»",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQlJSWnFpQnJTRW11dlp2cDluOU1ISWZUY2gxLU1xd191ZEVwZkgyVHlHVldwZTNVZEpFMWZBLUN3S1g5MDVBN1ZpY3BSQ0hOeXRzVmxkcUtnalNqeFJXdDBlOTQzaXdHWUlaMTlKYzRpbHhHX3JPTi1xZFJDZUdBamYzWE9QemxISV9wRDJRaE8yWGZBSUJTMlJzZGNGWHFuX1gyUW9taEtBY09jNmg4aGF0R0E1QzNvTmNmeXN2SUlWbFJ3MVRPWFVUN0ZVMHdYYURtdmFINnFpWWFqZWxnV2YxN1AzZw?oc=5",
+   "id": "4f7d51ee51",
+   "title": "\"On aborde un peu ça comme une phase finale de Coupe du monde\", explique Dupont avant de retrouver les Boks",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQV0FwSk1wWFVMWUdPWk4yYnJGdnNSMXhpbDFUc09hYzVEWlZLMmtRcGNWY2NmMVR5c213VEFMOXF6NWpZX21EN3pHU3hMS3pLTEc2Q1lVRHdsZWY5Z0ZFa1R5UnVUME5jZnBRcEFKbmt1OERTRjE4QVRTM3Z3OERISTdsWkJDSDlCZDhnLVprVTVhdVljdXkwSUU4dmoxd1VfOXVzYW00VWVsQWFHWkFjMHVUeXZHY0dmMjN2UzRLRmp4WjBGTUFRR295MG9NZnQtalVVXzkyeUpKdWdxNlF2cUtOY0s3NUtaMG82ZUVOWUh6VlQ4WjVmMXF4U2ZtRDJzTkhuYm40ZnBTaHJPY1pXVFZLZEplTmFkanQzRmpldHctQjhH?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Figaro",
+   "source": "Rugbyrama",
    "region": "FR",
-   "date": "2026-11-26T09:29:25+00:00",
+   "date": "2026-11-26T10:31:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "eb5da64092",
+   "title": "EN DIRECT - Intempéries : le Var sous les eaux, une centaine d'interventions menées par les sapeurs-pompiers",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOHZKRkNkRE9PbU9XbzVTMVNscEJldUlhV0xHXzNVU25aVndiMHBmazJLM2RLSUFCSDh0MEdTUW1FY3Z1eG9od3hWZFU4RjQ4c3NiX0xIbU9NR3BkcTA2dTM4dnI3UFQwcEN1VUdFQ0dZX2lrMkdKZkc5S0Fscy1qcDZaQzFUQ3BhcVVIUWNqOXRzYnBicC1CZ0VyS3lVd2dLTUFNVlJ6ZEUtTDdhZUg3SEV5ekFrb1NTWWw2NkU3MExub0RON2VkRWpZa0JQdl82Ym4zZmhrc0xqUmk4UmFwSGNvZ0JVVlFhNU5EbVhRcEVna3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TF1 Info",
+   "region": "FR",
+   "date": "2026-11-26T10:20:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "16395c250f",
+   "title": "CAN 2025 : l’avocat du Sénégal nargue le Maroc !",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTJEbEh2U2NkTWpfcnppbXhzMWp3SzVHcVdZVHNLM3hKUkloODFJeHRmcGdDTHVJallwSUJab3lhS2NpZXcxZXU4UVR4dHpLMmZXMnhmdHFLWlRfQnhEYVBZOTBham40a0dmSmg1UWhYdHpTQUhoUTdNaEdqQ2JOSWJSRFZFelIwMmJvSEc2Z2lKUHJud2tN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Foot Mercato",
+   "region": "FR",
+   "date": "2026-11-26T10:01:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f26611e087",
+   "title": "EN DIRECT, propos antisémites : Jordan Bardella réitère « sa contestation formelle » ; posez vos questions à notre journaliste",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNazlpWmxqcmg3aU9lc04tNC1fS1A3REQ1S21PRUpNSUVwWEN0RS13cEtGcHI5QXBOVlc0elVPeGRYUXp3Nmp1dGJnekMwWmJ1MDJBazAxaFkxQzhpRk5DM2dHNjQ2bkpFaEt6NldycGFxbXlJREtyNkNkc1g3TEtDN3V0Z2YtMXpFWWdjWHl1ZDJwRk9JNlVNSUZNV3Q2UGhPTmN1UW9SRUVodHAwbzFOemJCS3dxMGhUQ1k5bzBVVlJNNGtkS0l4OTA3WG0ySEU4QjNrbXVxMzNZckdrMVhhbTI2SUlLZ2g1dkttYVhWQzU0WUlSeVl6TUpfSVRRTHRBU2RvTnlTVE5JRnhoeU1pQVJVVndFNnJEOTZYel84ZWZqRkg4VnhENVpB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-26T09:50:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Jordan",
@@ -55,14 +123,14 @@
    "topic": "Society"
   },
   {
-   "id": "323457ecd7",
-   "title": "\"On fera tapis encore ce week-end\" : Galthié évoque le nouveau choc face aux Boks",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZ0g2Ulp1bl9lNjliaGZMWFZjU0VLR01NaEJ3Z1Q2SnZqSG8xVEduOW02em4yZFR4enhiNE5PdzR6UnhvazdLZWhTc3FOdG02SmxWQXNiRlVidWdrb0VNY3U2THRJWkYxQU5yc3liUV83Y245MVczYzlpWTNkUXp2dlpIeV94Yy1UT2NDMHNBV3Q4VE16bXR3b3Riblh6ci1DVE15Nmo5NS0yRnlQZjV2Z2FuV29qZXQ2RXJidUctWTUyaHdDY0FQLU15dUxfWHJESUNWQmdCb1QwcW8zeDIwQW04MGhidlNjU0wxRmtYWXVGVWRDSjMybkNRcmRySEFzQXFYa3dVbWloT3NvWklxUEY2MU95aE9tYVRsVnZjV1BYTzA?oc=5",
+   "id": "35737227a0",
+   "title": "\"Manger du moisi, c'est grave ?\" : quand les réponses de l'IA embolisent les centres antipoison",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUG5JZUJzWk5JOW1ld2NKOHNPRUlKX2Q4SWduR0hFdTN5M3VBWlNJMVhCVkktWFNtTkgtYWtkQ05rWXpHUUFBOFlnZXBDd3BELWJNVGlDdGQ5dDZfSUoySXVzNUNMY3FXV09sT21IQnp6Ny1fV3FyMERTeENzbWFtNGJZVndwODF2bFowYllIX0lPem80aHFBLU9jRnRuODJaWjEtZzZSVDRKeUZFeUx2TUhQWjVIc280c0haZkoySUdOOERKeVhCVnFXT2JQMmNENEhxRW5ieDhGdGpxdzFxdlF3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Rugbyrama",
+   "source": "Orange Actualités",
    "region": "FR",
-   "date": "2026-11-26T09:06:00+00:00",
+   "date": "2026-11-26T09:38:29+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -72,14 +140,31 @@
    "topic": "Society"
   },
   {
-   "id": "e3dab3f9c1",
-   "title": "«Comment on peut dire ça ?» : à la veille de la visite de Teddy Riner à Béziers, Robert Ménard se dit «outré» et «choqué» par ses propos sur l’Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRmZTMUJ4R3F6cjdObFgwZTlTbFkwTzh4dF82cWl2VTVTc3R5NHdacnVsaXh4WkkyamFhS3F0WS1WX2YtWDlFSWhnVVN2YjRfbmVvRlBDMWRrM3gtT3k2SGQ1M2YtTzF5Rm8wZVhmYWJFZ2dvX3RGNE1OQmhtMFZnMTVsb1B4Yy1PbmJmMkdWdTJyWEYxanB2M2lPQnR0TTdUaENjc1BrUW5wVzl1Vmt1bWQyelUyUUF5dHh2YldHRUktTXh2SE5xeGtKb0g0VVpMRnZFQ21IWFFBeVdESDlSOGNuSzdQZDlEZHVJa0hIOUtKTUkwdmRKZ0NUN2Fkd3RHY25yemhzcnVUOFQ3ZnU2bGc3WHZDQkZudkJ5WVZvWndDUW8?oc=5",
+   "id": "7c3da643f7",
+   "title": "Darmanin envoie un missile à Lisnard, qui refuse de choisir entre Le Pen et Philippe",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcFp1YVo2bThNYUNsaVZIaFdoal9Kdkp6R1laYkMzdEZtUHZ5XzR0c1Z5NjZCcGczU3l0WlpZdFJBX1NKbjR5SGtXbnJkTXRNUmRYZkhaT0dwSXlzRU8wT0NwcV9ac0FSWC1wSkgyYzhUMS1HdEhkaEU2czVSUEM5ZXJ2QmlmR2lNZ0VqUm4yRDdOLWlSd2dJSGx1UzRLRnU3ajNzc3hlNTg3YU9xd0syRHJ4OUg1OWlERGlSaHozeUNkUkFEYXUtUmNzZjFhTTJpV0xKUmJDdU40TDA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Figaro",
+   "source": "Le HuffPost",
    "region": "FR",
-   "date": "2026-11-26T08:25:11+00:00",
+   "date": "2026-11-26T09:32:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "18aedcf064",
+   "title": "\"Comment tu peux dire ça?\": Robert Ménard, \"choqué\" par les propos de Teddy Riner sur la guerre en Ukraine, l'invite à aller \"sur la ligne de front\"",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxONE9pUEVuTV9ZVFhXWlN2OWxwMkVfQlFhMXdYN3pEUkwydkJxbkJVZTdENEFHbHpoUi1DUUhydzJZVmFwdEctcW9yLWd2QUs1X3lsZDJKVF9YUGZUelU2TF9VN1Z3V18xOHU2TlJzcFhUNy1BbHpkNHBPaTI1bW1nWlhVS3FWdjBjSFBfMk1yNHUwX3dNX2dVRHBsQnpuUEZ3dllNcHFXQ1BfTXVyVHY0TEFoZkR4N0YtamJSckVVVXRKTndRNm1YcDNCR3BhLThtZkk5NFJCM3FtWWlvTDVaRDBkd05RS1BsTGE3VlR2RlNxSzB1a180eHBzanZCZXYxc0NEUGVIQzNzVXRZOXhROERpRTYwaFVJTU5sQV9JVy1Ia2dNTW9GVGhFRERfT1pGcWozXzJJcl9BM2dq?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BFM",
+   "region": "FR",
+   "date": "2026-11-26T08:25:17+00:00",
    "coverage": 1,
    "location": {
     "country": "Ukraine",
@@ -102,6 +187,23 @@
     "country": "Italy",
     "place": "",
     "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7b97a2bea9",
+   "title": "Colère des lycéens : Plus de 400 élèves exclus définitivement de leur lycée après des violences",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm44aHJHZW1NZ1BzMXA1NTE5UFRNaE9sWFVCMXRIbGhJb3JtN3ZBcnc3UUZsZ1ZhY2J6YlhDczk0RTZaa21WdzVoa1RTT0RHSTltVS04emFtVG12SEJielFDN3dFaUQwZ3g4YlRlbEVEYzFPTlF2Umt5aEFsa1E4TURqSzlKNTB0UEdzSExlQ1FFR1Y0Tzg5a2xiUldURjRILUwyVUFxdHV2RGswbjdRY2tNYVphckdaZmk4V2hheC1iQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "20 Minutes",
+   "region": "FR",
+   "date": "2026-11-26T08:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -140,19 +242,19 @@
    "topic": "Society"
   },
   {
-   "id": "3ffdb0633b",
-   "title": "Fort rebond en vue en Europe, les droits de douane US inquiètent moins (actualisé)",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNG93azYycDhlcHk2S0pxYnFpX201Y1lxbnFpQ1laLUZoY0pvcnVhVjJIRHFkRFdpRGFuZFlWanVBQ056elRySzNWRXZYTVhaLXY0Nk1LMXlOWU5QcDQzYnJwZ2I5azA2UHdiOHdyZzdCS0c2bC1vaVowMUlnT2NyVHhfSmN1YS1IYTZJQmYyYkpUa1pfSGVUTFhoZnhFMjZiQzd0Ri1nMjNuMkNReGRFYldOanJhdG9oNzlPRzN3TkkyS0p2VHo0eGpQNGczbmhXY2h1UGlCdGlzQzRQY3NRR1BLMDFEVm1IV0dxdFVR?oc=5",
+   "id": "ceea9255f7",
+   "title": "L’Ukraine a besoin de 115 milliards d’euros pour 2027, les dirigeants européens n’en ont pas les moyens",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPejdJcmRiRWJEcmZjVlR5NHB2RDRjNWZfWExVZ2NmMWNtV1NUSHJVaGFCbVc4VEs5QnlFSWpRUmtWV0Y4RHVMNG16aWExRXRqVnJrczN6Zmw5cDd2Y3NtYVlhY3ZrUlNHZ3FHSTRmd3VsU3dkcFJoRFNKSE1JRkthaHZZZGRNWi1vemNrWFZiYjJkaS1NVHQ3ald1R2dtTzlTdW10eXBoYzNlTVBXTVhzZE9teHdSZF9ERVFCZS1iVVVFdU9mWUtsU3Z3TEZrcmdyaVBhSHJsZE9iakwyWnk3LU9hS3M0RmVxUVdfdDBDUm1OeVJnSXFUbXVuUE8zcDUtNnluenA0alkwc1U?oc=5",
    "summary": "",
    "image": "",
-   "source": "Boursorama",
+   "source": "Ouest-France",
    "region": "FR",
-   "date": "2026-11-26T07:48:00+00:00",
+   "date": "2026-11-26T07:15:16+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Ukraine",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇺🇦"
    },
    "topic": "Society"
   },
@@ -174,19 +276,36 @@
    "topic": "Society"
   },
   {
-   "id": "e323accf79",
-   "title": "Guerre en Ukraine : \"La Russie perd un homme toutes les 5 minutes...\" 720 000 soldats russes auraient été tués depuis le début du conflit",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQl83Q0xvNlc4bkFvUE1JRDIxUHNWNGZfa0pKNUJiR3MyQktYTjBUck1XQnM5cjd2RE5ObEpxVTdvMnIzdElLWlcybkVYMUNuQS1HaEtwOW9uNk9memsybXJEUHl0bUswVUl1Ymp4TGZKdUpxWjlXVHd5UzVGNXl5OW9XZURDRnI1NmpQand6X0N3dWdHTWVFZlRiY21xczZSVGZaaXhtYXJJS1NTUEI3ajd4NkRGeXVUeTBncWxfYUdTYVEzRzdMZ05fa2tGQXd2aTFVajM3Q0RkWExmVklJaDNhcktpQVZ3dWlSSVpnWW5wU0x4Z1pRSVVSdmJlWnVFWlNKYWhQdFo5UWs?oc=5",
+   "id": "c9fd038155",
+   "title": "Elections législatives en Espagne : l’Andalousie, laboratoire de l’alliance entre la droite et l’extrême droite",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPei1odFVHd1p0bHYtZ0sxcDlBbjZqYTBWX2g2NHM4a1BQNm11MjJ2cDB1MGk4ZFFUQzhnVDJia2VTUDFXNjctU1JTXzd1bnNnVFpJQ3VFT1BNR3ZXbmRnU3ZJaVdXMWNHbTJUbldrd3BzbmpxcGVWbzlVaXE3WEdaNUhoakkwMEtPMXpON2hWMFNUcXZma0kyMEdZSi13SmFfaVJzblB2Y0V0cHhRcV8tYVpySnRZNi1wd2VkRnlFQ29pTWR2Q3JMU1JtOXBSUjRzeDM5N2ROZzVCQVotd3YtWEVIYURuU052V0pwbU1NSW5CVDlIUVpmSkVLSkI2c25NR1U0RjN1eE41aVFVQktv?oc=5",
    "summary": "",
    "image": "",
-   "source": "ladepeche.fr",
+   "source": "Le Monde.fr",
    "region": "FR",
-   "date": "2026-11-26T07:02:00+00:00",
+   "date": "2026-11-26T07:00:10+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ukraine",
+    "country": "France",
     "place": "",
-    "flag": "🇺🇦"
+    "flag": "🇫🇷"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "8759fcbea9",
+   "title": "« Dans l’intérêt de personne » : Chine, Brésil, Japon, UE… Les pays visés par de nouveaux droits de douane américains s’indignent",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVjBibnNmQThTb0ZjcG9BejVRT2ZWaVBma01FTld5NTRYUEFBWkJndmtQQnkxVXNSVEJfSjBHb3p2eFZMQmNkSDdmVlNXT3NGMmpxbkJQMWVvYUMxaVgyb0x3VzR5SldKdUxyMU1WRFVHVGpfUEdjWURzMm0waUJwNC1aeWg4bkdTUUVxaDZWdFh2dGdSd09INTk4WE80X1RVY0E4bGlORnVCMlU3X0RObFQtYzVSM3pjTjJySVhsaVpYUjFZMjN3bExvbDdyaFdxbkVVYTVRQU1XU3U3NG50T1d1TVBiM0FOZVZfSDVGaXRzUWd5QXdFT3RBSGJHWkJPblc4VGFGT19KZE1WcDBLbVpSUmU4Zml4Qm1CZTZnR25RXzBZOU9qZUtzOWNsdHFhdVd3Uw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Parisien",
+   "region": "FR",
+   "date": "2026-11-26T06:45:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -208,12 +327,29 @@
    "topic": "Society"
   },
   {
-   "id": "35c2c4528b",
-   "title": "Règle d’or d’Emmanuel Macron : Sous quel président le déficit s’est-il le plus creusé ?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnJDSmJIZjFzR2lkYVExMVoxNkktUXNKOWM2RHlFQjdoZFpnVWpYNWY0TFo5eUF2R0RmNG9MWC1nQVB0WFNnbjYyYUg3b0h3WE11SnlEajFmODY0aGNQVVJRbzBvbDhHOWFiRU9yUjhGbWVPc0lLT2VNNjVHRTRNX2szTEJYSHQ1QXp1SXF6TklNUXN4aDJySmZULUd1VE1WeUFHdThxYkxWdDJZU0pzdA?oc=5",
+   "id": "bb50c53b6c",
+   "title": "« Faut me lâcher » : Benjamin Biolay balance la haine et les menaces qu’il reçoit depuis qu’il a dit ce qu’il pense de Pierre Perret",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTZxTE13UzhSRW42LUVMbGhRTjBJMl91WUtoaUZxOHRkek5nMGI2dUllTWJtbzV3Y1kzem5JVVFubDNpVnFZZFdGUGhlWGotUWZBbEZRdFl0NVJ1aDd0UUlVa3hTMl9qTTJ2MTRwZU5tMDNrREw0c2FyNEcxOHVkNmlKQ0M5Y3hRZnNHbGVsVnhycHdKZkhpbGJXLXBuMjRvQjYwZ1J4SnFOQU9lOWloRUlkQkhfOHVuNXJ1LUZycFI0TTJGSWFKa3Vn?oc=5",
    "summary": "",
    "image": "",
-   "source": "20 Minutes",
+   "source": "La Voix du Nord",
+   "region": "FR",
+   "date": "2026-11-26T06:18:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6bc59680e2",
+   "title": "Un maître bouddhiste venu de l’Himalaya pour enseigner près d’Auch… Le Gers, nouvelle terre d’accueil du bouddhisme tibétain",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNN2kwOU5NX0x0YXRZU2NtSE1rRko5VlBaWTRwQjFxSDN1UG9VLUdBTXlqQW1VRmVmVkFEZzRLRUdtcjZnaE5VMG94MTc4MXhBeWJINTlGeWpxRFo4UC1jUkVza2tUTmE4b2IxcVZFYzV0Y0ctZXY3eWF6QUdQSFZadjctaGU4WlcyYmJtZnNxMmZ2OTdfZTBWVUlXUkJ2WE91cFpVNktlSkJTOTNTZXVDcU1iSnVRU0xhb2RkZTl5QzBBTWpKdTl2dTludWlEdlFyY19Lb053d2RhOE9jX0s5c0FVRkFpUlpKMVV5ZkJUTHNwOS1hSnVINE5zWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ladepeche.fr",
    "region": "FR",
    "date": "2026-11-26T06:02:00+00:00",
    "coverage": 1,
@@ -231,23 +367,6 @@
    "summary": "",
    "image": "",
    "source": "RTL",
-   "region": "FR",
-   "date": "2026-11-26T06:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "aa58f260d0",
-   "title": "Bourbon-Lancy. Charlène est candidate au Meilleur pâtissier : « L’expérience d’une vie ! »",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdTJfbVg1ZEhWb1d3TU9YeDZBU2NvUTlhcE5HZ3VqMVI5ZGE3Ny01aE5mT2FzcjR2d2JrVHRhV1U0T2pvR3NsZFltcGZ2X2M1YVB1OTJXQ2JQUS1oVkFKOC0zd0lLNmxvWXVlR3VfZlFFV3EzQlBjd3dvVTR2M3NnZktjSHVlZno0SzZlVzFyOW1QcEZsREtIb0E4cmhOM0w4ZEZpRXNsNl9OckZPclE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le JSL",
    "region": "FR",
    "date": "2026-11-26T06:01:00+00:00",
    "coverage": 1,
@@ -293,6 +412,23 @@
    "topic": "Society"
   },
   {
+   "id": "b37cccb729",
+   "title": "« C'est l'aboutissement de quatre ans de négociations » : comment le gouvernement a arraché l'installation de BYD en France",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUWNzUmt4TWttRS1jZGp6aUREYTVUUUZjbGUtbWdwMjFUZFFZQ0ZSOWlYZDIwYndHNEk0N0RpX2RMaGQ2U3FaejZKU0tCcjZBSDV5NDFmbjRlbjB4eG1EQzl2LWRvV2lxTEFHdDdBenQyTW50ZFNWdTZNSW55Q1pELXpNZmZxYjRpSkxjbDhQLWRXX0dNamZ2UE9PcG5iUDM5YXlZbWZpSFE0MFpmUWVYNWxNbl9UMzZtampjSEpSR3o2dGN4VEV2VzFrTkN5NlYzN2JQcHFfWVlmbTBPa0FoZjZxZWFLSzhSdGd5eWo2Zm1kWWFJQjYwX0RfSHZNZFYyQURiMFRQQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Les Echos",
+   "region": "FR",
+   "date": "2026-11-26T05:30:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "88c55bbeda",
    "title": "Andy Taylor, ex-guitariste du groupe britannique Duran Duran, est mort à l'âge de 65 ans",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMFk4Y1JMSW1ET2g4aDAzeXNabWZPa0lETXdOcEVSMi1VVTk3T0g2X1I5S0k4N1pPSXVvTW1yRDFCeFZyTG5vaDVEeG04ZGgxOHR4S1JscXpXNlRfdEZsbmc3TlItMnQ3LWRDVmxjRnB5eXlmamdrY1dnR2NudWZxVXFFa1F1R3pfUFhFMTFMa0w4N2RUSlJnbTBvNHdSR3Z3Ul9YQkhUS20xU19YT1k5dEJzdFNwenlDZ0loMzA5NUpzSkpaSmV2eF8tNTYzb0xlSUpWSDF5OW05Z1M5d0E?oc=5",
@@ -310,99 +446,31 @@
    "topic": "Society"
   },
   {
-   "id": "57852e2bca",
-   "title": "Pourquoi le constructeur chinois BYD veut-il s'implanter en France alors que le marché automobile européen est en panne",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaWEyV0ZDQU55cHR4RDFGS3A4TkJpVmdiX3hjQ2h2MjZmU21aMXRnSlpLMDJTSjd2eURnV1NhTGszNnZrWlh4Q1F2cE5Dd1Nma1JjWmdhcWhDVEpiRWpiZ2NYV1I1S2pjckJDdVBRakpJN3JrbWpDX0xJQWlab05HLUZZRk42VkJZQk5uYjNIMS1pdkFVWHBrSEt5LXZVdU8wUjdwU3JCYmVTd3lXWGNGUXI3LTBCa3RacEF4d2tST3h5T29GN3NySzJKczlxbHdqOEt5bUNaU1hGRXkyNlh6V1ktM2RNRTlLVHA3alhVR24wSlA0ckZZR2tGaXNIcVJ1MkFvbUFZdmNwUQ?oc=5",
+   "id": "7eec3b4153",
+   "title": "Guerre en Ukraine : les pays d’Europe centrale s’opposent à l’intégration d’une aide dans le budget européen",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSmUtaDRlbEtEeHdPaEU2U2lDb2xvcVJhU0dnV0NJWEZQUExuSDUzR0lpY1FieUFGaDVfdl8tZUduZUZ0eEVrOHZCckgzVElfSEppY0NLS1JCUjRSNHpZZ0pDdFZTOVhidVNSYnI0VUVpcWpiUDhOUmQxcXVzcVJGdjFuT2p6V1g0anBCalpCSEhjT2lQRmNZVWRtVTNOencwYzk0TjR1akUzMEh1cnc3ZThUcWVESXhVbEdvSkRuYnlnV0dtMDhyQVdJcGM1czFDZlFUT1lZNnBpcE1TS2ZsSTNVa3h3UQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "franceinfo",
+   "source": "La Croix",
    "region": "FR",
-   "date": "2026-11-26T04:57:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d71d2e079b",
-   "title": "Présidentielle : à cinq mois du scrutin, le déclassement d’un bloc central en pleine «primaire sauvage",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdHZqc2JjX0lHOGo5N2hXZXB1NjdMR1pzNFIyRjFNdjJmbGdLRENIdkZ6eFJVZnZuYWRpYXNUb1pKTzNSX2ptcXpFekhlYlpWYXdHMUxLYmc0ZUhxSGdXckExWjNkUjE5Tml4bjFDX0pwSkhGMjhHbTRTLVJ6U1FMWENSNmcyS3ptYzdoLUljU2hLQ1ctMnBNSExESmVDWHU1cktKWnZhQ2tkT3ZEdWZTZF9zckRiRWN6RmU4WkNKVXZnMkpkRXRGbkI2TE1OdW5HRzhSY0YyUjdnWU83VlZCNG4tWm5RSkwzVlVFcFRLV2tIb01zU2FuNHJPTTl4TVVIdGE4c2wzNkRUV0dk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Libération",
-   "region": "FR",
-   "date": "2026-11-26T04:50:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "957ff1d83f",
-   "title": "Covid : un nombre surprenant de personnes n’ont pas retrouvé l’odorat après 5 ans. Des conséquences parfois lourdes",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdzU0ZmRJOG5XNEZPZDhONUd1RXVlWVV0dFg2eTZnUWViMjdVWjBMT2hBYnYwd1FpZDRlYmhEeEtoMXgtR1FZd2lrWmJsOW41VDFnVGF4ejgxN3hjVWw4QmtPbk5rNlZiUll6VHJoMTZRcVR4OUhCUnk5MHN6Vk1UZmEtUm9sUjZKamx5VmhLcWxPaGRPQ0dBZGJsS2NxQjhUTFdHSXJuOTRPendFY0pSX25tM1lnM3ZkVVFNbVpEWjNEZkNrVEJfSEZUdW9lRWduV3NycDVvY0x5OFIwSDBpUlI5ankzM2dQYmZUaEZNcjVtZ2ZMczlueg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Futura, le média qui explore le monde",
-   "region": "FR",
-   "date": "2026-11-26T04:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "08598734ff",
-   "title": "Emilie König, la plus médiatique des djihadistes françaises, devant la justice",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMjlTeGVCUnRnWHYxc2lsUzJBSk1McnFDSnh0NEV0NVE0aVZFX0xydEhnVHhnUkZBakRsX3BwRFExM1c5VW9mY0t3aW1nbC1zY3VVdC1Zb2EycXpqeVhVNV9PeEM1SGh5Z1dkU3M5TjRLRmk3NmpUR3hlMmJoUmZpMml1Q3psV1lwa1NQcUtFUmtWSEtsRlBkOVEyQThMMWxLX0RKNndGR0drTjJDX3VTZ3hjcUhZa2psOE96R1pzRzRpQ3MxWVI0N293S3hZV3I0R2dBdUM2SHZ4NUE4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-26T04:00:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1863f3d6e0",
-   "title": "En direct : réunis à Bruxelles, les dirigeants de l'UE vont batailler sur l'aide à l'Ukraine",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUG1DVDFYQ0VuQTBHZndFSjNCSlcyY3poWjZkQmxRN1NIYjBvN0V1WURsS2VuLVVzWVhBdklGTDRoek5EazhmbW44dHZJeDJwOEpNUEh3VFFWd0hxMlJ5dW0zMXdES29hcWZnS1BvU3JLWHRjNDlNMmZ1NmFuMlE1aWlUMmh4ZkYwRU5sYXc3QmhEZmxRZmpHVUJOQ0JwRlVUSVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "France 24",
-   "region": "FR",
-   "date": "2026-11-26T03:26:29+00:00",
+   "date": "2026-11-26T05:00:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Ukraine",
     "place": "",
     "flag": "🇺🇦"
    },
-   "topic": "Society"
+   "topic": "Economy"
   },
   {
-   "id": "985bea2544",
-   "title": "Fin du combat judiciaire Brad Pitt-Angelina Jolie sur un domaine en France",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenZmaXJja3lDUk9pSHZGWVNrNmdUeUF2bFhJZ3dvUHhwajYwUDR3RnMwYy1MQ1VkUVhMVXBwU1BxdFFNWmdNZFh2dWdfWHhKai1CNS1BeHlHcUJBNEJIMXNNX0hCcS1KRHN4clg4OFlJb1ZTZUh4Z3ptc2czVE5nRC1CSmRhbXZETlk2a2YzMWEwXzhXNFhfY0loeGZMelhoTG4yM2FheVRPVEd6SVY4bkc0T1BZS3RaZjNoczktUmQteklyOXBKcm84RldQT09Na095RA?oc=5",
+   "id": "7e72b2c514",
+   "title": "Émilie König, l’ancienne « égérie » de l’État islamique, jugée aux assises à partir de ce jeudi",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeklhV2Z3b0c3d1BTSk9GUUtKUzMwZC1FRUlhejhCREpmV1h0V2k2TUxHdHVVRWlUc2luU3d3NXExOThfcFlLMmdFTG16S1NCamxpeHlHQU9XOHdSZm44R3VqMTdGUUVmd092XzRFTk9sZDBCZmxQRVBQSFFYRDVvNkZKcnB3VHdGLXcxU2h3NTEzUDVqWkhDXzJnb2ZBUGliclpmV3ZEY0ZTQVE5YnRhRkd2NHIwN3NQWVdBcWtnVml1QUxvbURWR0ZVeXpDeHluSWplNEh1MHRrNmFESUZj?oc=5",
    "summary": "",
    "image": "",
-   "source": "20 Minutes",
+   "source": "Le HuffPost",
    "region": "FR",
-   "date": "2026-11-26T01:26:00+00:00",
+   "date": "2026-11-26T04:50:11+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -429,57 +497,6 @@
    "topic": "Society"
   },
   {
-   "id": "bf1e33e5a6",
-   "title": "Conseils médicaux de l’IA : l’Agence du médicament rapporte huit cas d’effets indésirables, dont une hospitalisation",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMl9iQWRWanN2ZURIUktwZmx2ZmptOWpNVmprbEw5YmNpNXJZc2J3RlBGU0FPUmZFVXpZQndVX3RrckN2bXNza2NoaHZFcl8zTkFWeEFlaDhnMEJkdkFsdWtYOUcwaUVlU1YtZmZmTzRfamg4c2ZGYUtIS1Bycm9MSXgyblpmX1RJNzdsTjQ4UnFjaUQ0YTF0cEZyeG5YS0dyS2ZCMGtOVGZYNzNnRWV6R2RtQWpqVWRtWmRESWY3dHlpOUdfNmpvVUI2bmIwVExVRkxUUDdCZzZLSWVMbXk5blpqXzVNaGdDc1pvTWt0R3ZBaUFGTjF2VjlWMGk2eTJVaWhxUm9TVTlSdTFnQ0RkTTNTNGhEUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Libération",
-   "region": "FR",
-   "date": "2026-11-25T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "51755d0211",
-   "title": "Présidentielle 2027 : David Lisnard ferme la porte au débat proposé par Édouard Philippe",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTkpRbXVHYWRZS1d6VkhCdy1MUHlDelA0bUFZeElaTnd2N045UWxoQTAzSEFPNUxCSWFEUUVfN19zNVNnanlrNHVseGRfWjg2eENhakFha3dhd051c0lKMW9DRFZIalZ2c0NzM09VVGhRRk1EYl9idEMyaVU0UGwyNWJSTUNiakhVMDllVGFocUtZa0h3cXE4akJzTThtRVFZNS1IS2dTeHdPUEgtWW16WWVDU08yNFQxUEZ3ZmlQV0FieThUTDVXcnpGYmdrcF84VkV2NXFQbzkwQjN3Z0lHOFMyYkI1QlJHbUFUUnJrVFhZeHl4QjQ4RkliNWJvRjlIWkZ3N1p3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ouest-France",
-   "region": "FR",
-   "date": "2026-11-25T20:06:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "15a20036ea",
-   "title": "France-Afrique du Sud : «Il faudrait être un idiot pour nier que Dupont est un joueur extraordinaire», confie le capitaine des Springboks",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTGVLQkRELWdQRWg2alptRmZWakZpdDh2Z0ZpX3VvUjJXZy1aR3hRTWRpNUxUOF9VanctRXI0N0t5YjJvZnNCakJaa29vZFpyc1hTVl9KZEtkMDV2bzBMUEZ0NzFiVUg5SGlJbU5QM0ZoandNZl9GbWtjbEo2RlhhOGIyR0ZvSFhZM3dUNVI5QXlZX0JpQkdOTG1Pb2lUbXNfSW1VV1V1ZTQ0SEZpNTlDaGtiUnozcnFDVlJEUHhqYVdkWC1RNnVQMzF6UW5ad0NYZkdJMmRNMjNfSDhWNElNQ3JZQUI3Q0tQdnB1RFM3OVpnZGdveDNqLTZqQUVoR0tYdWtDNFZwSjZkZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-25T19:53:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ce8f819899",
    "title": "Gaël Roth, spécialiste du cancer du pancréas en forte hausse : « On voit bien qu'on va avoir de très belles avancées »",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGc1MXZZVGxndUZQNFRrS29XdEtUY2hka1NiUHRMem5tSmZ2dk12elBYYllWWGlCZGpodlU2Tmx1VnRMTGUta3ljVGVpRFZzbm9RSzNTdUZFaVZzYUNIcFRZYXNwZHU2cE9rYjZkZWVQNHI3VW00bUVObFhvRU5SMlVwMUF2WXppekNBaC05NWxuNmtIMWNTbWxWemZlVzdGWFdSekpHM1BOd3BUdk10U3J6VHVHU3pEZHh5ZjhmRG9TUWpaU2xXaXN1RER5T3hVd1FiYXp6SkNoQTBBeHpLNXFDOUdaamdHb1dCZ2doVDZOcnotV1hoZ3Jjdw?oc=5",
@@ -497,14 +514,14 @@
    "topic": "Society"
   },
   {
-   "id": "dbc773856b",
-   "title": "Le Consentement (France 2) : qui sont les vrais Gabriel Matzneff et Vanessa ? L’écrivain a-t-il été condamné ?",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGt5S1dHMXB5SFZGQzd1YzFiSDk4a0t5NVQyUWszS01RbzFTRE9YbTJFb2t1ZTBVdDdfRF9oaFl5OUhnTGJ3dy1vSU5OVTZRd3JlN09Ja3hscVpzdXNpQzFOYzNZZjYydEE2eTJ0SUpSZ0E0aW11UmhkQ3lvTnVqWVRsbnUtUzhIWGhXajFvUFJ1SDM1Z2p5V3lXeWtESlZxMHJNc1J1WDFqR1Y0TzRrbGhLeEdFTDZpMUM2eHRNZzJVSG5sTDR6WnVscHZ2c0ZNZGhN?oc=5",
+   "id": "74e513d19c",
+   "title": "GTA 6 a assassiné deux des plus gros jeux de l’industrie et personne n’en sera étonné",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2k4bVpSQnE3V0t1ZXFXbHhKZXFKWWo0OXdvdHFhblRqbmZhenpfb09JWDZnMTNqU3Q5Q05DTTlIMGlwakVyQXN3a1Rxd3ZTS2pCajhHMWtqU2lXUWt4WHl1eVVrajdKdWxha0dPYmotNUxyMjkzMmJ0NE1xOU5zTEE5NlFQM1kzLVpwa2gwMnBnVGdRU0dBOVozWEdZYjhMc295dm43eHJpSVZGNFhYTWx4VkFsTGsya2g1Szc3YWVSVGM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Serieously",
+   "source": "Journal du Geek",
    "region": "FR",
-   "date": "2026-11-25T19:00:00+00:00",
+   "date": "2026-11-25T17:30:19+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -514,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "e36829297b",
-   "title": "Mobilisation lycéenne : plus de 400 élèves exclus définitivement de leur établissement après des violences",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbW84d2xuV3Iyc21LMS1UaXVlREhBbHVRN3AwdkRsbjlLQ3NIQWhFc0ZQZTRndzRKZnU0dm5JTU5mT0hYeVRnbjBLekNNV19WQnVlbUh5OUZZRkFUSHNmQ0wwV1hlTGZCcHZpZVlfTm82RkU5UGNIVm1zNGRpbDBQNnZ4Y3NkaFdZUG1NVXluWlNIT3YyNzRXR3ROcEExcE5HTFRJak54LWo3NnRvOFpyWXVVSXAxaGhqV1RBaWhzSllSSmNDajdoTUVnc0pzQUZ4R3JEX3VHZUdOTlU3THRDZjZB?oc=5",
+   "id": "ab6349326a",
+   "title": "La grippe s’installe en France, avec sept régions sur treize en pré-épidémie en métropole",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0xlWFUyb3psM1JMcDVTdmdTRXRmSWhFQkk3VWZORE9Tc0NyNUZ0aGZzTHpFTFA1MTVWY3dsYlE0SGRTTERUT2RuamRZS0U1OF9wbmVmUHFRcTBfcVV3Vmt1OHBIVk50dkVCYVhFYnEwaEI2V3BoYmVUckg1SVkySjEyNGpHaUpPNG5HQVNzdmpWZTR2bmt4NVFTY0o4dnZjTk1zVkNPWmFDUVBvc2VCbzloMlllYm1PWS1kb3ZjNS1xWUtTbUYtVThtX2I?oc=5",
    "summary": "",
    "image": "",
-   "source": "TF1 Info",
+   "source": "Le Figaro Santé",
    "region": "FR",
-   "date": "2026-11-25T18:57:17+00:00",
+   "date": "2026-11-25T17:22:11+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -531,31 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "b1b0d27271",
-   "title": "Sept régions de l’Hexagone désormais en pré-épidémie de grippe",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQREhBMFJjMDBZLWRjaE1HZEMzUDBtRFFXbzluVFA5MXUyZzMzODlCUzBmbnVtQzRiNUgtSHJzVjk2b05ZLTZ0b3ZVMi1FSms3YWFzNXdTUWxUZDFRTHVwWXZwbnk2ZGVNZ25uTVlPRjVjOWF0QVpOMWxSdy1lbmxwa3lzWm41THFHNXA2X3RRRXRmblYxQW5fbmttZnVHZEYx?oc=5",
+   "id": "a0813eaa09",
+   "title": "« Blade Runner 2099 » : le soleil noir des réplicants",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenZPVDYwRW14d0tGcjdSRUU3Y0lsQi1UX0tQYVJOdzVKYnI2QTZDV296X0dBSWNNOW15SHhnZFRSVVJYTnEyOHZjTE1NcDZ0bWZxY1pSdlRzWkJiOFQ2TW0tcVRFS01rVVpSbnBhanRTTkd3ei01SlQ5QnlnSHNwTFNQX3Qwekk0LTNMVy11cDh0bHZsMjZvalYyR3JxdU1Zdndv?oc=5",
    "summary": "",
    "image": "",
-   "source": "20 Minutes",
+   "source": "Les Echos",
    "region": "FR",
-   "date": "2026-11-25T17:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7b00e731f5",
-   "title": "La folie GTA 6 : démarrage dingue en France, les ventes « physiques » franchissent un cap historique",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1M4cTMtYUJFaG9MaktrQTJleGZvYkktRmVHb01BMFBHZ21UX3pKd2tuTDJUejRoM2p3QkxNMzEwY055OWVBcTdMV3pxMWRJVXZrOWJuMDhNa2ZNQ0J4aHdvWmpvUTFoY0xqbWNMQVV3RFJFaDhsZWxWWkNWelkxYkdYQWlOY215T1ZhbEtCMVplMkU5SzlMWlY5Z1NXMUk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ecran Large",
-   "region": "FR",
-   "date": "2026-11-25T05:00:00+00:00",
+   "date": "2026-11-25T10:26:05+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
