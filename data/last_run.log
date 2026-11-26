@@ -1,49 +1,38 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 36/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 38/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 64 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 13 stories
-OK   Daily Mirror: 99 stories
+OK   EconomyNext: 12 stories
+OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 27 stories
-OK   Daily News: 96 stories
-OK   Sunday Times: 4 stories
+OK   Newsfirst: 28 stories
+OK   Daily News: 91 stories
+OK   Sunday Times: 6 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 8 stories
-OK   Google Top Stories World: 56 stories
+OK   Google Top Stories World: 61 stories
 OK   BBC World: 30 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 94 stories
+OK   AP News: 95 stories
 
-Biggest stories right now: Thirty-one killed in massive fire as fuel tan (7 outlets) | US announces new tariffs on 14 trading partne (7 outlets) | Macy's postpones Thanksgiving parade due to w (6 outlets) | Court rejects Gotabaya Rajapaksa’s request to (6 outlets) | Bangladesh raises minimum wage for garment wo (6 outlets)
+Biggest stories right now: Thirty-one killed in massive fire as fuel tan (7 outlets) | Macy's postpones Thanksgiving parade due to s (6 outlets) | US announces new tariffs on 14 trading partne (6 outlets) | Parliament turns orange in stand against viol (6 outlets) | Johnston Fernando fined Rs. 130,000 over vehi (5 outlets)
 
-6 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Four arrested over motorcycle thefts and possession of stolen parts in
-    important (serious news) - researching
+* Hiru News [2 outlets]: Man's body with suspected gunshot injuries discovered inside Rathgama 
+    important (also on Newswire) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newsfirst [3 outlets]: President Emphasizes Expediting District Development Projects and Effi
-    important (also on Daily Mirror, Daily News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Island [1 outlets]: 18-year-old Nethya shines with gold for Sri Lanka ‎
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -53,30 +42,53 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 429,
     "message": "You exceeded your )
     cards OK (attempt 1, written by openrouter)
-* Ada Derana [1 outlets]: Police officer wanted over T-56 firearm theft arrested in Dubai, broug
+* Hiru News [2 outlets]: 13-year-old girl dies after falling from rear of moving cab
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [1 outlets]: Mattegoda bus strike enters second day over building construction
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Reuters [3 outlets]: Nigeria seizes more than $200 million of meth, arrests five Mexicans
-    important (also on AP News, BBC) - researching
+* Ada Derana [3 outlets]: Images of asteroid targeted to test Earth's defences reveal stadium-si
+    important (also on BBC World, Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'Didymos'' is not in the article; the name/word 'Dimorphos'' is not in the article
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* Daily Mirror [2 outlets]: Sri Lankan-born Professor knighted by King Charles meets PM
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: Kim Jong Un says North Korea should widen deployment of tactical nukes
-    important (also on Reuters) - researching
+* Newswire [2 outlets]: President to meet trade union representatives today on Budget
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: the name/word 'Korea-South' is not in the article
-    attempt 2 rejected: Card says Kim called for 'wider'/'expand' tactical nuclear deployment; the article only says he urged focus on deploying tactical nuclear weapons across multiple domains, not explicitly wider/expand.;
+    attempt 1 rejected: spoken: 'aiming to address current discussions' is not stated in the article; spoken: 'The gathering brings together the President and union members in a significant step for labor dialogue and the na
+    attempt 2 rejected: Blurb paraphrases article: uses 'meets' instead of 'is scheduled to attend a meeting with', 'trade unions' instead of 'trade union representatives', 'to discuss' instead of 'focusing on', and omits da
     -> no cards; posting with the site's own summary
+* AP News [2 outlets]: Ábrego García, a Salvadoran mistakenly deported by US, goes to Spain b
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: FedEx plane overshoots Miami runway, with flights briefly suspended at
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 10 too small to look sharp, using the clean cover
+  photos: looked up 24, found 2
+  photos: 8 too small to look sharp, using the clean cover
 numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 7 facts and 1 people saved
+  Fact Base: 7 facts and 0 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 60 story pages for Google)
+
+Countries: IN 37, PK 34, BD 0 (FAIL), US 38, GB 37, IE 35, CA 37, AU 37, NZ 36, SG 34, MY 35, PH 32, AE 38, IL 36, NG 37, KE 30, ZA 34, GH 31, FR 34, DE 33, JP 8, IT 33, ES 32, BR 34
