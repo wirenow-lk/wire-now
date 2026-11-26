@@ -1,21 +1,21 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 35/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 36/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 62 stories
+OK   Ada Derana: 64 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 13 stories
-OK   Daily Mirror: 98 stories
+OK   Daily Mirror: 99 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 28 stories
+OK   Newsfirst: 27 stories
 OK   Daily News: 96 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 7 stories
-OK   Google Top Stories World: 63 stories
+OK   Google Warnings LK: 8 stories
+OK   Google Top Stories World: 56 stories
 OK   BBC World: 30 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
@@ -23,54 +23,27 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 94 stories
 
-Biggest stories right now: US announces new tariffs on 14 trading partne (7 outlets) | Thirty-one killed in massive fire as fuel tan (6 outlets) | Macy's postpones Thanksgiving parade due to w (6 outlets) | Court rejects Gotabaya Rajapaksa’s request to (6 outlets) | Bangladesh raises minimum wage for garment wo (6 outlets)
+Biggest stories right now: Thirty-one killed in massive fire as fuel tan (7 outlets) | US announces new tariffs on 14 trading partne (7 outlets) | Macy's postpones Thanksgiving parade due to w (6 outlets) | Court rejects Gotabaya Rajapaksa’s request to (6 outlets) | Bangladesh raises minimum wage for garment wo (6 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: HIV infections rise among young people aged 20-24 in Sri Lanka
+* Ada Derana [1 outlets]: Four arrested over motorcycle thefts and possession of stolen parts in
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newsfirst [3 outlets]: President Emphasizes Expediting District Development Projects and Effi
+    important (also on Daily Mirror, Daily News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [1 outlets]: 18-year-old Nethya shines with gold for Sri Lanka ‎
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: AI stock rout deepens but damage is limited by afternoon bounce
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: S&P warns Nvidia's board may be compromised, puts chipmaker's rating o
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* AP News [3 outlets]: FCC says SpaceX can deploy 1 million satellites for data centers in sp
-    important (also on Hiru News, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [3 outlets]: Ukraine attacks Russian military base, says five planes struck
-    important (also on BBC World, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, BBC World
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 failed: AI did not reply with JSON: ''
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -79,17 +52,31 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 rejected: Card says Russia 'has not yet commented/responded'; article only says Russia 'did not immediately comment'.; The 'why_it_matters' claim that the strike weakens Moscow's capacity by disrupting fuel sup
+    cards OK (attempt 1, written by openrouter)
+* Ada Derana [1 outlets]: Police officer wanted over T-56 firearm theft arrested in Dubai, broug
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [3 outlets]: Nigeria seizes more than $200 million of meth, arrests five Mexicans
+    important (also on AP News, BBC) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Kim Jong Un says North Korea should widen deployment of tactical nukes
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'Korea-South' is not in the article
+    attempt 2 rejected: Card says Kim called for 'wider'/'expand' tactical nuclear deployment; the article only says he urged focus on deploying tactical nuclear weapons across multiple domains, not explicitly wider/expand.;
     -> no cards; posting with the site's own summary
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 8 too small to look sharp, using the clean cover
+  photos: 10 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check failed (AI did not reply with JSON: '')
-
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 58 story pages for Google)
-
-Countries: IN 36, PK 32, BD 38, US 38, GB 36, IE 33, CA 36, AU 35, NZ 35, SG 33, MY 36, PH 33, AE 38, IL 33, NG 36, KE 31, ZA 32, GH 31, FR 34, DE 34, JP 10, IT 34, ES 34, BR 34
+  Fact Base: 7 facts and 1 people saved
