@@ -1,123 +1,100 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 23/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 27/80 used today
 
 OK   Google Top Stories LK: 38 stories
-FAIL Ada Derana: HTTP Error 429: Too Many Requests
+OK   Ada Derana: 53 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
+OK   EconomyNext: 20 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 21 stories
-FAIL Daily News: HTTP Error 429: Too Many Requests
+OK   Daily News: 83 stories
 OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 13 stories
-FAIL Google Top Stories World: HTTP Error 429: Too Many Requests
-OK   BBC World: 28 stories
+OK   Google Warnings LK: 14 stories
+OK   Google Top Stories World: 60 stories
+OK   BBC World: 29 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 85 stories
+OK   AP News: 82 stories
 
-Biggest stories right now: Diesel tanker carrying up to 7,000 tonnes cap (6 outlets) | Egypt detains driver over Cairo fuel tanker f (5 outlets) | Macy's postpones Thanksgiving parade due to s (5 outlets) | Andy Taylor, guitarist of new wave icons Dura (5 outlets) | Trump calls GDP data released before midterms (4 outlets)
+Biggest stories right now: Egypt detains driver over Cairo fuel tanker f (6 outlets) | Med Emre: Diesel tanker carrying tonnes capsi (5 outlets) | Diana Gamage pleads guilty to overstaying vis (5 outlets) | World Bank expands local currency financing i (5 outlets) | Two Italians killed by ‘drone strike debris’  (5 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* EconomyNext [1 outlets]: Sri Lanka’s electronics, spices export help cushion fall in garment, t
+* Ada Derana [2 outlets]: Sri Lanka storm into Asia Cup Rising Stars final after thrashing India
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Hashish worth over Rs. 181 million seized at Peliyagoda customs wareho
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The New York Times [1 outlets]: NFL Week 12 fantasy football rankings: A stuffed slate, plus best Than
+* E! News [1 outlets]: DWTS Pro Brandon Armstrong Shows Off Cut After Ezra Frech’s Prosthetic
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* EconomyNext [1 outlets]: Sri Lanka rupee weakens to 332.90/333.10 against US dollar spot, bond 
+* The Star [1 outlets]: Daily human-elephant conflicts in Johor
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: What will Trump’s latest tariffs mean for the world?
-    important (also on The New York Times) - researching
+* The Guardian [2 outlets]: Strobe Talbott, Time magazine reporter and deputy US secretary of stat
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    gemini failed (The read operation timed out)
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* AP News [2 outlets]: Tariffs and global trade
+* Al Jazeera [2 outlets]: Israeli settlers damage Palestinian family’s homes in West Bank attack
     important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 12 too small to look sharp, using the clean cover
+  photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+  headline translation failed (no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code")
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 36, PK 34, BD 35, US 35, GB 37, IE 38, CA 37, AU 36, NZ 37, SG 37, MY 35, PH 31, AE 35, IL 34, NG 32, KE 31, ZA 33, GH 32, FR 33, DE 33, JP 9, IT 32, ES 34, BR 33
+Countries: IN 36, PK 33, BD 35, US 35, GB 37, IE 37, CA 37, AU 37, NZ 36, SG 36, MY 34, PH 33, AE 35, IL 37, NG 32, KE 31, ZA 34, GH 33, FR 34, DE 34, JP 7, IT 32, ES 31, BR 33
