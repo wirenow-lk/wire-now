@@ -1,66 +1,37 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 45/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 53/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 56 stories
+OK   Ada Derana: 51 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 20 stories
 OK   Daily Mirror: 97 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 19 stories
-OK   Daily News: 86 stories
+OK   Newsfirst: 21 stories
+OK   Daily News: 89 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 11 stories
-OK   Google Top Stories World: 61 stories
-OK   BBC World: 27 stories
+OK   Google Warnings LK: 10 stories
+OK   Google Top Stories World: 64 stories
+OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 96 stories
 
-Biggest stories right now: Musk's plan to send a million SpaceX data sat (6 outlets) | Duran Duran Star Andy Taylor Dies at 65; His  (6 outlets) | Diana Gamage pleads guilty over staying in co (6 outlets) | Bad weather postpones Macy’s Thanksgiving Day (6 outlets) | Thirty-one killed in massive fire as fuel tan (6 outlets)
+Biggest stories right now: US approves SpaceX plan to send a million dat (6 outlets) | Bad weather postpones Macy’s Thanksgiving Day (6 outlets) | Thirty-one killed in massive fire as fuel tan (6 outlets) | Vijitha Herath Heads to India for IORA Summit (5 outlets) | Andy Taylor, guitarist of new wave icons Dura (5 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Chairman of Western Province Road Passenger Transport Authority resign
+* Newswire [1 outlets]: “I Died Many Times”: UN calls for sanctions & accountability over Sri 
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [3 outlets]: Govt plans marketplace for schoolchildren to sell their products
-    important (also on Ada Derana, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: AI did not reply with JSON: ''
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 2 rejected: the name/word 'Lankan' is not in the article
-    -> no cards; posting with the site's own summary
-* Newswire [3 outlets]: Vijitha Herath to lead Sri Lankan delegation at IORA meeting in New De
-    important (also on Ada Derana, Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -74,145 +45,86 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "code": 503,
     "message": "This model is curr)
     -> no cards; posting with the site's own summary
-* Daily Mirror [2 outlets]: FCID questions Rohitha Rajapaksa over SupremeSAT deal
-    important (also on Ada Derana) - researching
+* Daily News [2 outlets]: Sri Lanka warns global conflicts could threaten Indian Ocean security 
+    important (also on Newsfirst) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: Explosion occurs at oil facility in Thailand’s Bangkok
-    important (also on AP News) - researching
+* Daily News [2 outlets]: Women MPs Push for Action Against Deported Sex Offenders
+    important (also on Newsfirst) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Lanka Business Online [2 outlets]: World Bank Group expands local currency financing in Asia with first S
+    important (also on Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
+    gemini unavailable this run (AI error 429: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+    "code": 429,
+    "message": "You exceeded your )
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
+    "code": 429,
+    "message": "You exceeded your )
     -> no cards; posting with the site's own summary
-* Al Jazeera [4 outlets]: Why has North Korea expelled a Swiss diplomat from Pyongyang?
-    important (also on BBC World, Hiru News, The New York Times) - researching
+* Al Jazeera [3 outlets]: Rescuers recover bodies after flood at illegal Indonesia gold mine
+    important (also on AP News, Daily News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (429)
     reader service failed (HTTP Error 403: Forbidden)
-    read 2 articles: Al Jazeera, BBC World
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
+* AP News [2 outlets]: Ebola outbreak in Congo reaches 12,000 cases as violence forces some r
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
+  photos: looked up 24, found 0
   photos: 5 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
-  "error": {
-    "code")
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-  summary translation failed (no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code")
-    gemini failed (The read operation timed out)
-  summary translation failed (no AI available for writers (last error: The read operation timed out))
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code)
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 61 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 36, PK 34, BD 37, US 37, GB 37, IE 36, CA 37, AU 36, NZ 36, SG 37, MY 35, PH 33, AE 37, IL 36, NG 31, KE 32, ZA 34, GH 28, FR 34, DE 34, JP 8, IT 32, ES 34, BR 34
+Countries: IN 37, PK 32, BD 38, US 38, GB 36, IE 36, CA 36, AU 36, NZ 35, SG 37, MY 36, PH 33, AE 38, IL 35, NG 32, KE 32, ZA 35, GH 30, FR 34, DE 34, JP 10, IT 33, ES 34, BR 34
