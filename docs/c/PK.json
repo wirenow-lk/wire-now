@@ -1,22 +1,25 @@
 {
- "updated": "2026-11-26T10:33:55.275076+00:00",
+ "updated": "2026-11-26T11:39:28.842835+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
-   "id": "4ac936f290",
-   "title": "Building collapse in Pakistan kills 4, with 17 still missing",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXk4M2lKNkt2VzR0ZjQtdHJEbTZBSk4ta1JHQ05kZ3hpb0RQU3Fkc3BBb3Q1WGphRlItMEdFQzlmcWtOeVkxU2M3QXp4MUJLcWxXekpoR0huZ0VVbGhyQ2lCbzBMTlYyV0Rmd05JUGt2RjVLY0VTYWpZdXZnclpvVWg5amU0LVAzaXlrZmt1cEtzakRLU09pSnY0VU10dk9wV3dqajY0Q3E2a0lidDcxbVZzd1hRMU5VRHNSLWlEMlg0QlU3OFJtNmN0amRKbkFiVWd4T3hzQnlFcDg?oc=5",
+   "id": "8bb137a6ee",
+   "title": "How Trump's proposed tariffs for India compare with rival nations",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "Reuters",
    "region": "PK",
-   "date": "2026-11-26T10:20:03+00:00",
+   "date": "2026-11-26T11:10:56+00:00",
    "coverage": 1,
    "location": {
-    "country": "Pakistan",
+    "country": "United States",
     "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇺🇸 🇮🇳",
+    "also": [
+     "India"
+    ]
    },
    "topic": "Society"
   },
@@ -28,7 +31,24 @@
    "image": "",
    "source": "The Washington Post",
    "region": "PK",
-   "date": "2026-11-26T10:17:09+00:00",
+   "date": "2026-11-26T10:52:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4ac936f290",
+   "title": "Building collapse in Pakistan kills 4, with 17 still missing",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXk4M2lKNkt2VzR0ZjQtdHJEbTZBSk4ta1JHQ05kZ3hpb0RQU3Fkc3BBb3Q1WGphRlItMEdFQzlmcWtOeVkxU2M3QXp4MUJLcWxXekpoR0huZ0VVbGhyQ2lCbzBMTlYyV0Rmd05JUGt2RjVLY0VTYWpZdXZnclpvVWg5amU0LVAzaXlrZmt1cEtzakRLU09pSnY0VU10dk9wV3dqajY0Q3E2a0lidDcxbVZzd1hRMU5VRHNSLWlEMlg0QlU3OFJtNmN0amRKbkFiVWd4T3hzQnlFcDg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "PK",
+   "date": "2026-11-26T10:20:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -54,6 +74,40 @@
     "also": [
      "Pakistan"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9c5b071d76",
+   "title": "Customs seize 40,000 litres of smuggled diesel off Gwadar coast",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTG1Va09KLTF5Tm11aGNzMXRfc1Z5QXUtNVNkaFlxRWR4Y1NSU1lFOU5iVmc3N3F3Q1ZRb21PSExqelJtNXdoVXZodkhHTE5GVjc1TjVidkhfd3A2dUtfcXVVSnFJc1VUNEFScVZPVERtU0NhVklRS2cwZjlITndFZUZ2dFlzdjljVENKRXZFamVld2F0eTU5U09B?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Nation (Pakistan )",
+   "region": "PK",
+   "date": "2026-11-26T09:42:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e71bb0c50e",
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "PK",
+   "date": "2026-11-26T09:27:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -94,6 +148,23 @@
     "also": [
      "Palestine"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "322e072cb2",
+   "title": "‘I Wanted to Tell the Side of the Story,’ Taylor Swift’s Former Teachers Challenge Vanity Fair",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmF1Zm04Ym5XVFl2Qm9ZT1ZwcnB5T0hsUUpZUG9SRjNmVW5DSU5EaUVESXlaT2daaTRSeXFNQ3BNMTAxRF8zbWVsVW42LTAwclg1bWNqanBCTzdlQWNiWU1IWm5Wa01HWllqTVpFUUhlZ1Uxa2E4YjdfRV8tcy1KaGhDZzR1Y1VOaS1aYllKdVdmdlZDcnNzN1BwSnYxLThOaWVmd3BoYzNzM1d1YnRn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "PK",
+   "date": "2026-11-26T08:56:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -156,6 +227,23 @@
    "topic": "Weather"
   },
   {
+   "id": "09cfb26b39",
+   "title": "Rawalpindi ATC defers verdict in November 2024 protest case involving Aleema Khan until Dec 16",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKQ3NtY0ptR3E5UzlDUjhLdnc0a3l2VEEwblhzX1hFNTNOS2o3S2xkLTMzLWo1Z0ZlbGtBUHVzY2xuZ2JtcVJEaQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-26T07:57:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "27709189be",
    "title": "Zayn Malik gives fan Black Friday Day off",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmpzLWN1aE9FaFh1c3FUT2dQQU1wNjV3Z0d6UlFBUnIyV0E1NjZtYXJrMHBydlN2eDV6VlJTMDRocktyS2JCekpoZXdVMUhUX1Z5YWxNR2gzWFBkbHF1ZHBPMnJ1a3l4SXJEMEVVZXhFeVNUTEZqYWRkekQzZzRQRDBhQQ?oc=5",
@@ -173,21 +261,21 @@
    "topic": "Society"
   },
   {
-   "id": "bb77a5b7a5",
-   "title": "James becomes oldest with NBA triple-double in 76ers win",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlhzVS1ZdnQ4QlBmZHFRQ3pzclVqZXRfT1VOdWRXX2hMVXViOHh4VmZIZDFLV3pjQWJua1pqeXVWTU1ra3pVdFdlbUxDSk5tVjNVa1FLYmVmTVRBcXU1WmFrZjZzZ0VuMHduWkJTOFBYaG0tb3hzV0V0RzhXYkNVeTR5R0xiLUxYWWMwOQ?oc=5",
+   "id": "97ccc4752c",
+   "title": "MNA among senior JUI-F leaders detained in Sargodha: police",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIQW5aY2JpcWhYRnBvSjdGRWhvbDhHZUc1Ykk0UFlLUVY2bW1yU24xV3VDRnphUFdYcXlyTXpoOHhMSU9QV0R6eQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-26T06:02:00+00:00",
+   "date": "2026-11-26T07:15:06+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "03b2d4a1da",
@@ -207,21 +295,21 @@
    "topic": "Society"
   },
   {
-   "id": "ff4b92e9cb",
-   "title": "US announces new tariffs on host of countries including China",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+   "id": "79732b82d7",
+   "title": "India A vs Sri Lanka A semifinal, Rising Stars Asia Cup 2026 streaming info: When, where to watch IND-A vs SL-A on TV, online today?",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM0JQa2Zzek5CX2RUNHJqaDlramtuMm55dXVJdXlBZmhLQ1JVdjZMMjdFNnRkckxVMVE2RkZISWR3c0VyUjNadTN3NDh6MHRUbXAyeEp2cjJWd1pFak5PRkFkQXhfS01QTUYtMWtBWWxzU2N1T3pld0Y3RHZGT1hKbUc5NnltekdlU0FjM1pkY3BtMFgwQnB0X0JWOEplNHU4Zi1qX3JBSDU4c2VlVE9oMUZfY2ZrRWdJNzJWWEVBcl9idnlTT2U3a3hLSEdoQkZ6YzJPOGp3a3h3Q3Mta19mTVpsR0TSAesBQVVfeXFMTi1CcW0wWlNqNDZJTjNuMmQ2cWdlakxwRE11VVZLSHNpaUxWZ3pRYW9OMVpvVkdOdmpMVWwxem9pbGFiSmhfMVhNVW9kbXlsU0VLY3FHR1pfYXo2NUw0eXNxeEdWRkwtSVVybHdtT1NFZmc4RDRKNFF1dm50U1pGVzUwTUZYQzVOSTRQczRob0xnZU5sLUR0V1NYbTB0Xzd5SDJPT2ZoRmoxUk9GVnd4M2p3N0pRdldiU2FTQ2RhbkVxMmtiaGNia251RmMtZ2NJNDA2d0g4OEg2cElCMEtWMk1IZEZlT1hVdzhuNA?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Sportstar",
    "region": "PK",
-   "date": "2026-11-26T04:10:58+00:00",
+   "date": "2026-11-26T04:11:03+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "India",
     "place": "",
-    "flag": "🇺🇸 🇨🇳",
+    "flag": "🇮🇳 🇱🇰",
     "also": [
-     "China"
+     "Sri Lanka"
     ]
    },
    "topic": "Society"
@@ -244,25 +332,8 @@
    "topic": "Health"
   },
   {
-   "id": "b2eaaa3e1b",
-   "title": "In Afghanistan, no female doctor often means no treatment for women",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVlhtWWRTb3QxUG9JMktTejMteUljS1F6RWdiR2lwcE1SUmdlVUdod3ItVjJ2YTl6bGkzZGlYY3I5T0NHNWZ3MjVtSDFqX1dORGU5VDdqcERrY0lZN1QzMWxfMF96RUIxSTBxYk1aRkFiVjV1ZlhxVU8zc1lSUGVha0tqVE9nNDdJSDZ3UWVxTVNJYUdvU09Lc2dTS25oUlgwRjN4eXVjT1Fwd1BNUUJxSE9n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Daily Star",
-   "region": "PK",
-   "date": "2026-11-26T03:08:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Afghanistan",
-    "place": "",
-    "flag": "🇦🇫"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "ba80ab454e",
-   "title": "Oil little changed as supply concerns linger after Iran claims mine strikes on ships",
+   "title": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
    "summary": "",
    "image": "",
@@ -278,14 +349,14 @@
    "topic": "Society"
   },
   {
-   "id": "5ba011ecfd",
-   "title": "JUI-F leaders reportedly arrested ahead of Sargodha rally",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0wzZzFCdmR6Y2c0VHNkRU9zWWh3bHlZN2dTZXNNVG5nSEpadUZfa2tydDNBVndLQ1ZqXzlUUzhsZVFzVHhpNWpfbTNBVk5HRmIzTjBMUGxjdUQ2QUtqNkgxdDFNZmowM040aWwzMFBzWHRhaDhGMWZiVHNPT2J1YkxJYzVkaXFYWDVTVDFRSDBlYjEzd1ZuRA?oc=5",
+   "id": "bae97efa14",
+   "title": "WWE Legend Sends Message to LeBron James After 76ers Milestone",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemVPYWhCQ2ZJQ0VTb29wV2JYVG43RjBRY3RHNml0ejBYNnZ0UEJ0RXRoek1UZ2FaT3lWNVZoa1F0ejBwZDFiVWd4OFZiZFRUVkJTakZTdDVyYy1vV1QxdmNjOUNUeEp1bndhZGhIS1QwSkUyN1EyQncwMnJTTnFiZ3NqN0FZT1dJVlJESA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Minute Mirror",
+   "source": "Yahoo Sports",
    "region": "PK",
-   "date": "2026-11-26T02:34:08+00:00",
+   "date": "2026-11-26T02:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -295,21 +366,21 @@
    "topic": "Society"
   },
   {
-   "id": "e148eaa0e3",
-   "title": "Taylor Swift’s music teacher and guitar instructor change tune after appearing in “Vanity Fair ”takedown",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjZYNjhNSVJVS0JSZG9VdlpjNFc0WGRFWm53M2ZHMUQ4RFQyZVdleW0xRGh2WEx5VENmWU5Vb3Y5T29TWlVzNjJfQ3Q1VUN6Y3BROTVHNzZ6eElYODBqSXFoTkxheXYyQ3VudDI3QVEtMTRlMnBYQ0RNOVp2ZlhCUVZLYm9Xc2hQd2E1YkZEc2Q3NE96R2lFNVc3WkJ3TW1TaHBmclVvd2g3RUljaDlfTGVZWi0?oc=5",
+   "id": "403ef307f4",
+   "title": "Japan unveils lunar rover to search for water on the Moon — The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmwzLUszXzItSDRGMmN1YWRmdGVlSllGTDVhZlYxbkE0Qy05azBsd1ZMam5hRkxSdTEyQms0MldadkVrbkdLUGZ0b1A1UUt1OEw0dk93blNGbTZwQ004N2wtLUlFOVpES0NhTWhvLXVWMEpnZUdUdGZ6aHNIR1VpeVJhSTVRVlRXQzE1LUJHNkdCUlU5Um9hdnYtNEFoZlJXTlVvNkNoX19hOFc4OXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "UA.NEWS",
    "region": "PK",
-   "date": "2026-11-26T01:59:00+00:00",
+   "date": "2026-11-26T02:12:17+00:00",
    "coverage": 1,
    "location": {
-    "country": "Pakistan",
+    "country": "Japan",
     "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇯🇵"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
   },
   {
    "id": "90b74e2c35",
@@ -329,38 +400,38 @@
    "topic": "Tech"
   },
   {
-   "id": "d33eb9ad10",
-   "title": "JAXA unveils test model of rover for mission with India to find water on moon",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb3RDQjhHMy1LSjlEb01qaUVheTV0cklmVzJfVi13SHptaHp5TGQweTBKdThJelktOUlNT3l4X2lHZ1FkTGVZdzRDMVo2eWdHMzNiU2JQQmVFb0xSYk9ic01zdy1rZkJQMFNldnY4SlAyb0p6Nzl5a0RWVUV0LUlDd3Zta1BRMHdablE?oc=5",
+   "id": "c909d4f8d0",
+   "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDNXRnMEtEZlg0a0RQdEhxQ3BBUUQtTGlDQlN0b1FSeWFuZFRoNEZZc3RSWXItYXRaZmEyRTN6cWVfSV9fOW5kYTc4Y2JBXzRGVDRMRjZZT0ItY2tISXJ0dUI3NWFOcEJjc3BHRVZoeWpMVnVRWmfSAXtBVV95cUxPSXFIWHZJdWNOXzR4UWYtTzhId0JsTFFLZWdFRjBYY3U1ejZxNUxxM29DWVR4amxRY1Z6VHZnSTVMdVdMMHE4ZUk4ZWVTYnJ5S3prSU1CNWFua2dhOGlkd25YYTNSZkd6cWZ1OEYyejdodW9yQW5COTdhaU0?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Japan Times",
+   "source": "CNBC",
    "region": "PK",
-   "date": "2026-11-26T01:17:00+00:00",
+   "date": "2026-11-26T01:04:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "India",
+    "country": "Pakistan",
     "place": "",
-    "flag": "🇮🇳"
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
   {
-   "id": "19abd017b7",
-   "title": "Former Cricket Australia chief Sutherland defends 'Sandpapergate' probe",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFFING16YV9OdXphWkhBTnk4WkhhR3Fwem40SVEzMWtnNFZuY1NSTVdqY29KQXo5NmNxUW56YnZCUFUyaUxVNHQxNW03ZmF0R21Yc1pwTTJ5V2xxM1dvREZZdkN2MUxzZGpTaVFlTV9QS0NwX01NU0ExWjNPS1pSdjVCMTlQenJmbUdoWXMxbTByRkd3dFF6U1ZjVWtoLUxNdFhFY0R2Qy1hLWM2SWVMckljdFk4X1k?oc=5",
+   "id": "3b35f373dd",
+   "title": "Houthis Launch Retaliatory Attacks on Two Saudi Ports on Red Sea",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1VYSkV6czVycUFWd0t1bDdZMWhuY05hV3RuYjhjVnhrSXZfdXBfd1VDRjZzaFJOYnlGNDhiWDhIeTBIQV9oMGZOaTJQNmlMdll1a285bDkyYmgyVEVvTkVfcG5XNEV2Nzg5d19VbzBlTmxBeE1YeWgzd0ZwWHR3REYwTzBXS1dyc3l6R3FGUVdxU29objAwM1o3Zl9MdjJBRzN5Y3BBMjVrR0o1TkswQXRxMjkydw?oc=5",
    "summary": "",
    "image": "",
-   "source": "France 24",
+   "source": "Bloomberg.com",
    "region": "PK",
-   "date": "2026-11-25T23:55:00+00:00",
+   "date": "2026-11-25T23:45:44+00:00",
    "coverage": 1,
    "location": {
-    "country": "Australia",
+    "country": "Saudi Arabia",
     "place": "",
-    "flag": "🇦🇺"
+    "flag": "🇸🇦"
    },
-   "topic": "Sports"
+   "topic": "Society"
   },
   {
    "id": "f0c8115086",
@@ -397,23 +468,6 @@
    "topic": "Society"
   },
   {
-   "id": "9308338c34",
-   "title": "Prime Minister Muhammad Shehbaz Sharif hosted a dinner in honour of H.E. Hafiz Uddin Ahmad Bir Bikram, Hon’ble Speaker of the Parliament of Bangladesh, and members of the visiting parliamentary delegation at Prime Minister's House. APP/FHA",
-   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOWnZnTElmS3RNbjFKUjdqal9aWnNqNnFFREZHMGFZekJsRk5DaGRzUnAyYk9aVkZOTDZwOUYyTnBteWZSaGN0OTE1NFpkNGk2bnIxbjhrWXdQd0RfMUNwRk9NcWw5dENpaWUyTVdBZG1STXY4MGVzSWxuZnkzbWJldjZPbjRxZURDT0RSSHVEWEROclJDRS0tNEdTR2tjSER4M1JBdmx5MVZNeXB4dnMyM1lTOFlSMWpfSzEyUVp2MTkxRXk1cWk5Y2Q1Y3RFVE5HM24tTndDMlRYY0dUT0pIQzhUZ0w2NHN4R1ktaEVlN3hVOXpSb181aml4NW4wcllwU1dITV9zMEZuOVFlZXllcng2YUswWDV4eGZFT0xCOUstTjM2bFJHMXlfMktpSGt5eXNkOG1SOXBGYVZWMXpDbkVDMTVtWVJaNVBj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "| Associated Press Of Pakistan",
-   "region": "PK",
-   "date": "2026-11-25T18:51:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "1c4b0f2c14",
    "title": "KP’s Karak reports 'first polio case in 6 years', taking countrywide 2026 tally to 10",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pRTBnbGhoQUliYnV3MHRIU1hUVFRZMzNoZkZoa29nc3dUTTU3V2xNQUJkZ3poWHpWRjVUR2gtZWRhNVFvY0Z5SQ?oc=5",
@@ -448,34 +502,14 @@
    "topic": "Society"
   },
   {
-   "id": "a39316bd61",
-   "title": "Yemen’s Houthi rebels attack Saudi Arabia’s largest oil refinery",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmM3d1JkLW9CSkVNX0s4T2Y5Uy1NN0RaVnJNQXBWZHhUQW5zTUZsRFB5ZDJycWdxb3poUVFaeHFlZ3FKWnpyUXJwMDczdGpPSGUyS0hhMTk2b0JuSFRxZHl2OE52aUtCaXB2UFZJYWZQaVROQnUwcXdza01wbWNWNnlpRHRMU2t6eGo4QzZBblJiTk5ycU90bTUtUFotWlV4R1JmSjl3X2Z5UUdHdERaYlNDWUs?oc=5",
+   "id": "81d864218a",
+   "title": "Realme 17 Pro leaks with 10,000 mAh battery and modern design",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWENmMlFVUnc0M09nWnhPSnV1Wnk0WEZWM2VNOGp2c0ZORF8tVW5MSUFzZG14d0hONnRwTXFsMUFQUGRSZWlXdG5pMVY3WGlGZGlsODVwTmZHdFpTZGxqSzRsQTcwVjROYlluRzAzV0twN2l2UFIzMGJWdUNfcEY5Sk1PY2VIN1JEQk8xdVZUaGo4eWt0ZVc0cGdxeHQ1S0RyZU1IM2JDOTM3Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC News",
+   "source": "Notebookcheck",
    "region": "PK",
-   "date": "2026-11-25T17:17:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Yemen",
-    "place": "",
-    "flag": "🇾🇪 🇸🇦",
-    "also": [
-     "Saudi Arabia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "51abe03d24",
-   "title": "Your Chrome Extensions Could Be Silently Wearing Out Your SSD; Adobe Acrobat Extension Implicated In Over 300GB Of Write Activity In Just Three Days",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbk9Xc1NpbVJkVTIxTDUzMGc3RGotenVGM0p5WXU3b2lWNHNWb0dkalF1MEFQeUhHMjJRZW4yTUVfODJvb0lwVk9UNUhXdExrVmdjd1Vvak5OUnB3SkFYMU9vTUdBdDVDdEZodFd2enFRcVpRcE55WUV6WVA5Q1dPb2VFbE84Q3B4U3lFdHNBUzE4ZmJlTmwtT2xiNFFYbW5YM2hOZnhCRno4cW1BM3lGaDhoMWNkVTJkaVRrOUJYQTNBa3lOeW9QRUwyWDlybVZNZVpPc2Jidk9tMzBJQk11RWQ2cnRSY3FQOHRrRWQ2eEdEa3hPQzlMaEpIMlhDUdIBgwJBVV95cUxNd19odWV0QUkxeWY4czVGNFJKN25jam9hZWpURUFtc3ZKVkxfeDltOVBBWE4zNndCVUhJc3kyNk9CZHVISDVwclU5ZHZPaGx1ckY2U2NrUEx3djJsOFlNUnZfSnFQQWxKc2doVlJiSXBGLVM5LWppZkhiYzk5dkdLWFN3bVBRN1lPbWR1Yk02TnIzRmw4cG5yd0NKX1FRQW82UkdjOFMxRXZ2NmVwbmRZc2t6bFZZNjg1d3NJMTgzTGFQS0U5OUI5U3UteWd3UUJmeXFlUXB2WmhRemF4b0RFcEtMNmZqaE9SRGlJQUVIU0xENDVoMlBFd1RndWZWOTlwYThR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Wccftech",
-   "region": "PK",
-   "date": "2026-11-25T15:52:46+00:00",
+   "date": "2026-11-25T17:24:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -502,53 +536,19 @@
    "topic": "Society"
   },
   {
-   "id": "0e47360cae",
-   "title": "Norse Atlantic Warns Of ‘Critical’ Financial Situation",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXEzeHdxR1p4OTE5QThGc3FBSDA5UlJSM29nZE1FVkhGbnZpanV0Y0dlclhyMkdrYWVNSFR0S2didHdWQzNNSXZnMGVXaGIwX0xFOGVWR2phdVIzdEhfcG9CUUFrTl9taG8yaWVSV3F0X2NZekhxRFluaWFzY3hLUnpLYUJiSmZFLV9FT280RzhiSGNmdTczUGZ3SGpTelhhSHFTUzhtVkY?oc=5",
+   "id": "d41d3dd254",
+   "title": "Statement: Aid cuts threaten lifelines for Afghan women and girls as risks of violence grow",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDFQTEJvNnl2a2d2bTRfUnVtY2FMcEk2SEZxX1Q1akFVMWJyRDQydUN3Q1loczhGQXdPRU85WGJ5UlZZeF83cWI1YmZDQUd0bHpNZlk1eVNscDlaN0I3LXY5OFBaQXJsa0pYYzUzY1VXZmRjSll4THZzeVh5eDY5LXRlVHQ4RFNIMGpNeW00UDJvSzk1ZnR6TnJndmcxa192aUlydHlZMFdqS3RfU3hWZm5FdUVWM1YtUmRsTUZrdEFWeDBvTml2eG9oVlJJX2syUUpQSHRHNkw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Aviation Week",
+   "source": "UN Women Asia and the Pacific",
    "region": "PK",
-   "date": "2026-11-25T12:35:15+00:00",
+   "date": "2026-11-25T12:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Pakistan",
+    "country": "Afghanistan",
     "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0304b18c2e",
-   "title": "Gold price today, Wednesday, November 25, 2026: Gold prices fall as inflation data and potential new tariffs loom",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb3dFeUN5SkJCNHNoN2FGTDYzdHNOcXJtS0NVRlBDWUJtOFNiMndWMXBHNHJ0SHFRbm1ORkdDTUtBVEQ4ZUJlRC1QeU5xZ2VPVHVNTVNMa3E2SHpheU5XSGY0YVJEcS1OSmpKM21nTGx4QS1zVUxKWHVNeFd4Wko5NUltTHNTQTU2am1tRjZkX3dGTUttQ09DcUJaYmloUXExakZRUnFCVURWUy1sbENFdXFubllDSXVvZVgtVk5WejVKQzVZY1Nvbkx5N2hxNzhhelVheFlVTUFzNkJhMV9ISm9sR3cxanB0RXhlRGVyNmswd09EOXZuVU5kR3hJVXV4Vk9Wal9ReWY4M29mTGR1bHdhbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Finance",
-   "region": "PK",
-   "date": "2026-11-25T12:15:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Economy"
-  },
-  {
-   "id": "3e54669366",
-   "title": "Months-old video of Imran Khan's sisters shared as recent after prison release",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUk94NXZmWTVFMkdoM1NGdUFJWE5qS2FWNm5MYl8xRWNsSExlclhhTGlVdXFLMWltclFBWjFvODBPWGp1Q3BaUnBSYzZwTVFnMmVZRlB5SUI5OGZSZnplYjE1QjBYVmxiVW1jc0F2ZEp5dkZkRV9mbk1JcXozdFk0Zzd0bk9PbEo5QWJNR09B?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo",
-   "region": "PK",
-   "date": "2026-11-25T09:45:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇦🇫"
    },
    "topic": "Society"
   },
