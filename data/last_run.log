@@ -1,64 +1,71 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 50 stories
+OK   Ada Derana: 49 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 21 stories
-OK   Daily Mirror: 97 stories
+OK   EconomyNext: 17 stories
+OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 19 stories
-OK   Daily News: 82 stories
+OK   Newsfirst: 21 stories
+OK   Daily News: 83 stories
 OK   Sunday Times: 6 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 13 stories
-OK   Google Top Stories World: 65 stories
+OK   Google Top Stories World: 68 stories
 OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 95 stories
+OK   AP News: 91 stories
 
-Biggest stories right now: Macy's postpones Thanksgiving parade due to s (6 outlets) | Musk’s plan to send a million SpaceX data sat (6 outlets) | Duran Duran guitarist Andy Taylor dies at 65 (6 outlets) | Italy says two citizens killed in Iranian str (5 outlets) | Diesel tanker capsizes near Ibiza, killing cr (5 outlets)
+Biggest stories right now: World Bank expands local currency financing i (6 outlets) | Diesel tanker capsizes near Ibiza, killing cr (6 outlets) | Musk’s plan to send a million SpaceX data sat (6 outlets) | Duran Duran guitarist Andy Taylor dies at 65 (6 outlets) | Italy says two citizens killed in Iranian str (5 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Not possible to provide solutions to unreasonable demands, regardless 
+* Newsfirst [1 outlets]: “We Solve Problems Before Protests”: President
     no AI summary: daily limit reached
-* EconomyNext [2 outlets]: Sri Lanka’s Janashakthi Finance meets central bank capital adequacy re
+* Ada Derana [2 outlets]: Netherlands to return two colonial-era Wall Guns to Sri Lanka
     no AI summary: daily limit reached
-* Sunday Times [4 outlets]: FM heads to Delhi to attend 25th IORA Council of Ministers Meeting
+* Newswire [2 outlets]: Stolen over 260 years ago, two historic Sri Lankan guns set to return 
     no AI summary: daily limit reached
-* Lanka Business Online [3 outlets]: Sri Lanka Completes Registration of “Ceylon Cinnamon” as a National Ge
+* Tom's Guide [2 outlets]: 29 best Apple Black Friday deals live — lowest prices ever on AirPods 
     no AI summary: daily limit reached
-* Al Jazeera [3 outlets]: Two dead after Iranian drone attack on Kuwait
+* Reuters [4 outlets]: Crew member dies after diesel tanker capsizes off Ibiza, no pollution 
     no AI summary: daily limit reached
-* BBC World [5 outlets]: Italy says two citizens killed in Iranian strike in Kuwait
+* Al Jazeera [4 outlets]: French actor Gerard Depardieu to stand trial for alleged 2018 rape
     no AI summary: daily limit reached
 
-Top 10: 1 fully explained
+Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
+  photos: looked up 24, found 0
   photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini failed (The read operation timed out)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+  summary translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
     "code")
-  summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 38, PK 36, BD 36, US 36, GB 37, IE 36, CA 37, AU 35, NZ 37, SG 36, MY 36, PH 31, AE 36, IL 34, NG 33, KE 32, ZA 31, GH 32, FR 33, DE 34, JP 14, IT 34, ES 34, BR 34
+Countries: IN 38, PK 37, BD 36, US 36, GB 38, IE 36, CA 38, AU 36, NZ 35, SG 37, MY 37, PH 32, AE 36, IL 35, NG 33, KE 31, ZA 31, GH 33, FR 34, DE 34, JP 10, IT 34, ES 34, BR 34
 
 World Pulse not made this run: no AI available for writers
