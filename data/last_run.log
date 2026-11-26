@@ -1,58 +1,57 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 8/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 12/80 used today
 
-OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 47 stories
+OK   Google Top Stories LK: 37 stories
+OK   Ada Derana: 49 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
+OK   EconomyNext: 18 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 21 stories
-OK   Daily News: 79 stories
+OK   Daily News: 82 stories
 OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 11 stories
-OK   Google Top Stories World: 64 stories
-OK   BBC World: 27 stories
+OK   Google Top Stories World: 60 stories
+OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 88 stories
 
-Biggest stories right now: Diesel tanker capsizes near Ibiza, killing cr (6 outlets) | Fuel tanker crash ignites a massive fire on a (6 outlets) | World Bank expands local currency financing i (5 outlets) | Live Updates: Macy’s Thanksgiving Day Parade  (5 outlets) | Two Italians killed by ‘drone strike debris’  (5 outlets)
+Biggest stories right now: Diesel tanker capsizes near Ibiza, killing cr (6 outlets) | Two Italians killed in alleged Iranian drone  (6 outlets) | Duran Duran guitarist Andy Taylor dies at 65 (6 outlets) | Musk pledges two SpaceX shares for every US c (5 outlets) | Net migration to UK falls to lowest level sin (5 outlets)
 
 6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Yahoo Sports [1 outlets]: Bears vs. Lions live updates, score: Colston Loveland carted to locker
+* Times Now [1 outlets]: New Jersey Underwater: Thanksgiving Storm Submerges Streets, Homes In 
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [2 outlets]: LOLC Finance expands branch network islandwide
-    important (also on Daily Mirror) - researching
+* NFL.com [2 outlets]: Happy birthday, Blake! Corum turns 26, carries Rams to win over Packer
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [1 outlets]: ‘Private lands not divested as promised’
+* Daily News [1 outlets]: WB backs Sri Lanka’s renewable energy push in Asian first
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [2 outlets]: Sri Lanka, Brazil sign agreement to uplift local sugarcane industry
-    important (also on Hiru News) - researching
+* CBS Sports [1 outlets]: Lions vs. Bears live updates: Detroit turns tied game into 19-10 halft
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The Guardian [2 outlets]: Fifa confirms cyber-attack exposed ‘personal and business information’
-    important (also on AP News) - researching
+* Al Jazeera [2 outlets]: Mexico seeks US talks about suspected SpaceX debris
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -66,10 +65,9 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Al Jazeera [3 outlets]: Judge strikes down Trump’s latest restrictions on US birthright citize
-    important (also on Hiru News, Reuters) - researching
+* The Guardian [2 outlets]: Israeli strikes kill 16 schoolchildren so far this month, Gaza ministr
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
@@ -84,8 +82,10 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
@@ -94,13 +94,12 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 6 too small to look sharp, using the clean cover
+  photos: looked up 24, found 0
+  photos: 5 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
@@ -108,4 +107,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 37, PK 37, BD 35, US 35, GB 38, IE 36, CA 37, AU 35, NZ 36, SG 36, MY 37, PH 32, AE 35, IL 34, NG 34, KE 33, ZA 31, GH 32, FR 34, DE 34, JP 9, IT 33, ES 33, BR 34
+Countries: IN 36, PK 35, BD 34, US 34, GB 36, IE 37, CA 37, AU 36, NZ 36, SG 37, MY 37, PH 32, AE 34, IL 35, NG 32, KE 31, ZA 31, GH 33, FR 33, DE 33, JP 9, IT 33, ES 34, BR 34
