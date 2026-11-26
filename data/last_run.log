@@ -1,57 +1,46 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 12/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
 
-OK   Google Top Stories LK: 37 stories
-OK   Ada Derana: 49 stories
+OK   Google Top Stories LK: 38 stories
+OK   Ada Derana: 50 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 18 stories
+OK   EconomyNext: 19 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 21 stories
-OK   Daily News: 82 stories
+OK   Daily News: 84 stories
 OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 11 stories
-OK   Google Top Stories World: 60 stories
+OK   Google Warnings LK: 14 stories
+OK   Google Top Stories World: 61 stories
 OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 88 stories
+OK   AP News: 86 stories
 
-Biggest stories right now: Diesel tanker capsizes near Ibiza, killing cr (6 outlets) | Two Italians killed in alleged Iranian drone  (6 outlets) | Duran Duran guitarist Andy Taylor dies at 65 (6 outlets) | Musk pledges two SpaceX shares for every US c (5 outlets) | Net migration to UK falls to lowest level sin (5 outlets)
+Biggest stories right now: Egypt detains driver over Cairo fuel tanker f (7 outlets) | Two Italians killed by ‘drone strike debris’  (6 outlets) | Diesel tanker capsizes near Ibiza, killing cr (6 outlets) | Duran Duran guitarist Andy Taylor dies at 65 (6 outlets) | Net migration to UK falls to lowest level sin (5 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Times Now [1 outlets]: New Jersey Underwater: Thanksgiving Storm Submerges Streets, Homes In 
+* The Washington Post [1 outlets]: Flight delays, flooding and outages grow as storm batters East Coast
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* NFL.com [2 outlets]: Happy birthday, Blake! Corum turns 26, carries Rams to win over Packer
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [1 outlets]: WB backs Sri Lanka’s renewable energy push in Asian first
+* WLOS [1 outlets]: Power outages reported across North Carolina on Thanksgiving morning a
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* CBS Sports [1 outlets]: Lions vs. Bears live updates: Detroit turns tied game into 19-10 halft
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: Mexico seeks US talks about suspected SpaceX debris
-    important (also on Reuters) - researching
+* Sri Lanka Mirror [2 outlets]: Landslide early warnings issued
+    important (also on The Island) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -65,10 +54,28 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: Israeli strikes kill 16 schoolchildren so far this month, Gaza ministr
-    important (also on AP News) - researching
+* CBS News [1 outlets]: ICE detains man in Massachusetts after he picks up lottery winnings
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* EconomyNext [1 outlets]: Sri Lanka loses Rs549bn to alcohol, tobacco harm against Rs347bn tax t
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Attack on Saudi’s Jazan refinery kills one person, disrupts operations
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* The Washington Post [4 outlets]: Two Italians killed in Kuwait as a strained Iran ramps up attacks
+    important (also on Al Jazeera, BBC World, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: BBC World, Al Jazeera
     attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
@@ -76,20 +83,19 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -100,6 +106,7 @@ Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
   photos: 5 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
@@ -107,4 +114,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 36, PK 35, BD 34, US 34, GB 36, IE 37, CA 37, AU 36, NZ 36, SG 37, MY 37, PH 32, AE 34, IL 35, NG 32, KE 31, ZA 31, GH 33, FR 33, DE 33, JP 9, IT 33, ES 34, BR 34
+Countries: IN 36, PK 36, BD 34, US 34, GB 37, IE 36, CA 37, AU 36, NZ 36, SG 37, MY 35, PH 31, AE 34, IL 35, NG 33, KE 31, ZA 32, GH 33, FR 34, DE 33, JP 0 (FAIL), IT 34, ES 34, BR 34
