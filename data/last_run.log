@@ -1,10 +1,10 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 49 stories
+OK   Ada Derana: 50 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 17 stories
+OK   EconomyNext: 15 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 21 stories
@@ -14,58 +14,121 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 13 stories
-OK   Google Top Stories World: 68 stories
+OK   Google Warnings LK: 12 stories
+OK   Google Top Stories World: 61 stories
 OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 91 stories
+OK   AP News: 94 stories
 
 Biggest stories right now: World Bank expands local currency financing i (6 outlets) | Diesel tanker capsizes near Ibiza, killing cr (6 outlets) | Musk’s plan to send a million SpaceX data sat (6 outlets) | Duran Duran guitarist Andy Taylor dies at 65 (6 outlets) | Italy says two citizens killed in Iranian str (5 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newsfirst [1 outlets]: “We Solve Problems Before Protests”: President
-    no AI summary: daily limit reached
-* Ada Derana [2 outlets]: Netherlands to return two colonial-era Wall Guns to Sri Lanka
-    no AI summary: daily limit reached
-* Newswire [2 outlets]: Stolen over 260 years ago, two historic Sri Lankan guns set to return 
-    no AI summary: daily limit reached
-* Tom's Guide [2 outlets]: 29 best Apple Black Friday deals live — lowest prices ever on AirPods 
-    no AI summary: daily limit reached
-* Reuters [4 outlets]: Crew member dies after diesel tanker capsizes off Ibiza, no pollution 
-    no AI summary: daily limit reached
-* Al Jazeera [4 outlets]: French actor Gerard Depardieu to stand trial for alleged 2018 rape
-    no AI summary: daily limit reached
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 6 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
+* The Island [1 outlets]: Sri Lanka A storm into final after Croospulle, Jayawardena tons
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
   "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
   "error": {
-    "code")
+    "code": 503,
+    "message": "This model is curr)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+* The New York Times [1 outlets]: Thanksgiving Storm Hits the East Coast With Rain and Wind, Causing Tra
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The New York Times [2 outlets]: Every Great Black Friday Apple Deal We’ve Found on iPads, AirPods, and
+    important (also on Yahoo Tech) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* NPR [2 outlets]: Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speec
+    important (also on The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  summary translation failed (no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code")
+    "code": 429,
+    "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* Sports Illustrated [2 outlets]: Aaron Rodgers' Ultimatum to Mike McCarthy Revealed, and It's Eye-Poppi
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Guardian [4 outlets]: Trump says he wants Putin to ‘pull back all military aggression’ in Eu
+    important (also on New York Post, Reuters, The Kyiv Independent) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* Al Jazeera [3 outlets]: Trump calls GDP data released before midterms ‘fake’, demands investig
+    important (also on Bloomberg, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 6 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 61 story pages for Google)
 
-Countries: IN 38, PK 37, BD 36, US 36, GB 38, IE 36, CA 38, AU 36, NZ 35, SG 37, MY 37, PH 32, AE 36, IL 35, NG 33, KE 31, ZA 31, GH 33, FR 34, DE 34, JP 10, IT 34, ES 34, BR 34
-
-World Pulse not made this run: no AI available for writers
+Countries: IN 38, PK 36, BD 36, US 36, GB 38, IE 36, CA 37, AU 36, NZ 36, SG 36, MY 37, PH 32, AE 36, IL 34, NG 31, KE 30, ZA 31, GH 33, FR 34, DE 34, JP 10, IT 34, ES 34, BR 34
