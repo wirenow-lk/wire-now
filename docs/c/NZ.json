@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:16:10.647072+00:00",
+ "updated": "2026-11-27T08:44:37.827331+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
@@ -11,7 +11,7 @@
    "image": "",
    "source": "1News",
    "region": "NZ",
-   "date": "2026-11-27T07:13:54+00:00",
+   "date": "2026-11-27T07:58:44+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -21,21 +21,38 @@
    "topic": "Politics"
   },
   {
-   "id": "c0396935d0",
-   "title": "Tracking tech helps recover stolen goods in Auckland, Whangārei",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQktDcFZPWlJ6cDZaQzNKRXRzMDQxbFRiaTQ5aUFSbThYVkdYTzVrcnBiMWJUbEVJRnBhTk9femZnOF91bld5MlR0akpqbGhYT3ZTazdRLVdhbU5UWW9La2hQNzltOVp0dk9YbkNESy0yaVZyWXdmQVR3Y0dUNjRvakRpbWIyNWphM1htTVRJYnhpUmNFemE2bFZnTTdIMTg?oc=5",
+   "id": "6ea010e866",
+   "title": "Kiwi juice making a splash in New York",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ3BkVXlaSWxMZGdNMkdhQ1V2bFI2VXdWMzdGa1k3cUFkMmtkRFhNR0FpTnp3Q0E2aDFOOHNuNllEaDlib1NLZWJFNU9WWlNudmZDRDhHZDkwTlZsTFBOZXhNbFBVRlVjTy1LYmJGdjNKNk4zMXNvUUotRHUxaFE?oc=5",
    "summary": "",
    "image": "",
    "source": "1News",
    "region": "NZ",
-   "date": "2026-11-27T07:08:22+00:00",
+   "date": "2026-11-27T07:03:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cefbcb274e",
+   "title": "Hera's first close-up images of Didymos and Dimorphos",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWlPLWdWWURGUHBISFJIV2xBT3k5eGFyRnc3TGpqUzd6MzVmMXU2clFXX0l2QWtHOVhETVBJemxVZGhKLXdBNVJWOUgyamZYcU1CV2UyWGo2MVdZZFBFZzFUMDd4LVl1dk93WTFPMDIxMWJZbTFOLTd1NVRjUnkydEYyRGMydHdRN3dSc0xSZWk1ZzNwYU5iUDE3cElwX18taGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EIN Presswire",
+   "region": "NZ",
+   "date": "2026-11-27T06:49:00+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "b5db4db647",
@@ -46,23 +63,6 @@
    "source": "1News",
    "region": "NZ",
    "date": "2026-11-27T06:25:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8df636fb99",
-   "title": "Ticket slash: Guns N' Roses Auckland tickets selling for just over $50",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenlNWkl4OXlpQks3aE9nMWxCVDYzWXBDWk9vRi1xdjRfMkktWHRvMlhBbVNJZlR5eG5BUUN4WEFJclhUQk1adk1maTcwUElZRTdjU1lSRFZuQUt1eXJ5T2NhUkljRnd5TWlOMm1iOEp0RkIxWDJfN0R0UGpsZ2lNbEVXN2xKZHdDUDNfZDRSVkwzamlCZFVuWFZGZHdIdVMxcTJXcnNCTGV5X0FZVDNpdDhEU20zcWxqakVkQWQ5czRoRzRWcUtfQ1l2Z1VnQ2N1Sm5ZNkFVcjItQng0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-27T06:01:58+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -89,39 +89,19 @@
    "topic": "Society"
   },
   {
-   "id": "bb73c3be3e",
-   "title": "Blundell, Latham fifties give Black Caps first day honours against India",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTlUTFhDbFY1TkQ0bmktb0hwR0JCdWlYUEhzZmVUVFpBTzVPSmEzd2hDc1BVang3SXBmS2Z5VmV6dTN2ejJuZlpFN0NsQUhxZUJvcmRkN3N4UERKWFhvN1hNTDJBem03NVVjWWs2VGF6OUlPTVl2ME1kZHpQNkkyUmxxQmllZEhqamFfYm90azRlS0JOQ0wyZDlSR1BtSnctVlpvS1ZLZXFvNXRlUVAydUNKTWNoTDAyUU45MTcweXdkZm5OclhmS3ZEUUNKUTVjOVpIRlpyNnJNMTNzZGxKM2hyZnJjQ3dGakNhWHFPdUZPaUd0Q2syeTZOOUFqbmxaVzA1eXNuX0lXcDJVV3hGUGZGaW5jWTBuYWc?oc=5",
+   "id": "150e719137",
+   "title": "Tauranga cane toad caught after firefighter's alert",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0JWbUtUOEFIdnM4QThxRHJNN2F0Q1ZNM3lHNkNhX2dpTzItYUE0Z25YT2xmd2s2ekNkUHpfZlZ4MUN3aDFxY1lxWXQ5VnY4M1FpOE1yQ3NaczhNVjFmRlhYMkdaQXRyMHpGdjFiaERDdlJrNVRlSGd2aUNiYUFEcGFoSEVUWmEtaWJGSGQyZ21XbTlhS21zSkdrTUx4QU5BVkNZZzlkZUc5cGx1bV9aQXR6cWFKd3YxSHN1SGpVS0J4OTdtS0syTU5CSQ?oc=5",
    "summary": "",
    "image": "",
    "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-27T05:43:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "10d65d3168",
-   "title": "Qantas pilots pull up as Air New Zealand plane crosses Sydney runway",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFdOZHRFNUVYODBBV2pnN0FqRFQ2OVV2V2ZCcHBVLVhDc1BTWm9Mc3FPcVVmejJRMjhVWGh4T0ZIZ0RIaThJdEdrWmFHQU5BV19uMmFUUFNHNnUwblBQRmZ6VWxGSEdkQUloVDJuQnRoWnBja2xNR0RKT2ZyVWRHM3hrVjRlc3l6ZkNTeVVCb3FCWlR6bW9wcUJUM3dEdXhkM2ZGWDdQcw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-27T05:34:32+00:00",
+   "date": "2026-11-27T05:09:22+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
-    "flag": "🇳🇿 🇦🇺",
-    "also": [
-     "Australia"
-    ]
+    "flag": "🇳🇿"
    },
    "topic": "Society"
   },
@@ -141,6 +121,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Health"
+  },
+  {
+   "id": "e5dc88c0a4",
+   "title": "AirTag in missing suitcase leads police to burglary suspect",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU1ZTeVp3U0FWUTRRWkpIS0gxaEVtSmstaWNMOE5FeGgwdFFBRGR6aFF5cmxNcnNUemlieDhpWUlHaEk5czBHV2JMb2R6b3RvVmc4WlVXOGRtOTJ0YWZSblJncTJncFNCRnlYYVlaRXJpODdQZTI3TTdKRmVyY1JsdHh6cExLSmJfSW5Fb25KNkcxempqSFpZZERBSVY4ZFB4cUpZdVh6NUtyWDNvNGpQQUVfWWl5RmNxYXJJYURsWC1TZ0dqTFo4RHVzdUt0M2VxeE94OGYySGE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-27T04:59:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Politics"
   },
   {
    "id": "7be1af1cb1",
@@ -209,6 +206,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e0db203137",
+   "title": "India wicket blitz puts Black Caps on back foot",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUk1qWlF4NW1FVHg2am5DTTdYVHJYdF9Yc3cyd2lMaG9BRGk0cFUtUlJhbEFCX2JTMTRZeFFFc0RlYUJncGQ2RVc1ZUZCSEFpY0RQV2IwRk1SR0pOd1NhTXllbnJBV3dkakJDUkZzTGpnenQ5TWhCaDAzb1Zrd2dDZnJEeGRBSjFhejk4cHFkTXdXZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-27T01:47:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Sports"
   },
   {
    "id": "3d5b2dfbb0",
@@ -316,23 +330,6 @@
    "topic": "Society"
   },
   {
-   "id": "e00517a602",
-   "title": "Poisonous invasive cane toad 'size of a guinea pig' captured in Tauranga",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1p0MW9sWHZ4YnlJMGJiQ0hfSlZhcklrWkZhU0tmX1VLWGgzTkNMZDAyMXpDMG5mOElDTUJnYzlpTTItN2REZkFHZGxOdUxXOF9MU3ByZkQzeGVWdkVsQ0xWbmpCSGJZUTdobDhvM0xSRVp5WHBXdVZVUWwyNFJuT2hzUXJrTG1DUm1kd2l0ZFZJLXkxSGRFcGptcVp5N0hIU1JjLWctWF9VYm56MlpUVzk0dmRvZGlS?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-26T22:57:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "36470f8fd5",
    "title": "Heart failure, coma, seizure: Two young children critically ill from gastro complication",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM1p4TVZhS3FqMUtlYjRoaTM1OGFDYnF3b1I2STZiUUg0WERUUzJuXzE1S0g0NVBOX21OUERrMkFWVjcwY3U2NWpXcEUzR3lwcHNHTG4xOVF4QzJzNHA4cHBFX2FxT2R4bFJ1NW84aVpCNnBhR2dpQVNTSGlRTDdOSGh6WDY0ZEhGa25STEU0dFdseWJ4aVVtdDI2bkZ2dzlCVngwVWJuM3VnWE45RmJDeldhX2xLYXZHOXJzdHFHUQ?oc=5",
@@ -367,36 +364,39 @@
    "topic": "Tech"
   },
   {
-   "id": "22ed7a037f",
-   "title": "The path to solo motherhood was filled with fear and loss, but I've never been happier",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0JKb2pRaDlsWDVKZ2dWOHAtX0VaNVV5U2VMNWJzYzBPQldERVg4SkFqbHd1R19XdXlrdTdiZjRuRy03MlZPbnNUakNJdVdmWWhwTTY0UmxZc2RWNGVaMy04UVg2NlZmNmhxRWc1UXdKWnVYdHRyOW04WVNuYm9XNkZRdnFibkhVZkprUXd1OFJDRkI0Xzc1Q1pLVC1zTHR6YS1ZaEJzR0hGM0IwOE00Y3JPakYwZmtUWjNRS1haTnhQbmJOcVJlZGtkai0wUQ?oc=5",
+   "id": "10d65d3168",
+   "title": "Qantas pilots pull up as Air New Zealand plane crosses Sydney runway",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFdOZHRFNUVYODBBV2pnN0FqRFQ2OVV2V2ZCcHBVLVhDc1BTWm9Mc3FPcVVmejJRMjhVWGh4T0ZIZ0RIaThJdEdrWmFHQU5BV19uMmFUUFNHNnUwblBQRmZ6VWxGSEdkQUloVDJuQnRoWnBja2xNR0RKT2ZyVWRHM3hrVjRlc3l6ZkNTeVVCb3FCWlR6bW9wcUJUM3dEdXhkM2ZGWDdQcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-26T22:05:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿 🇦🇺",
+    "also": [
+     "Australia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "16243d0116",
+   "title": "English historian gets 'down and dirty' on two decades of royal history",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWlUSUNMVGhYV29DREZINmR4WGNzSF9kQ2E0bWxuVUR0RkROVi0xV3VLVUh1MUJBS3NITXQtZXl6VGRCZFZzcWUwLTJmTE5GT08wWEc3dVBuUjdDNWdLVkw1cVdSTmNISGZmZTBhUHZvajBHWjVLLWhxZW45RlM1ZWg3dGJXS2h1Z00xYi1peU82MF91UWRnY21GTjd0RVluSWRPcA?oc=5",
    "summary": "",
    "image": "",
    "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-26T20:22:23+00:00",
+   "date": "2026-11-26T19:25:48+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6ea010e866",
-   "title": "Kiwi juice making a splash in New York",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ3BkVXlaSWxMZGdNMkdhQ1V2bFI2VXdWMzdGa1k3cUFkMmtkRFhNR0FpTnp3Q0E2aDFOOHNuNllEaDlib1NLZWJFNU9WWlNudmZDRDhHZDkwTlZsTFBOZXhNbFBVRlVjTy1LYmJGdjNKNk4zMXNvUUotRHUxaFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-26T19:47:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -554,6 +554,23 @@
    "topic": "Society"
   },
   {
+   "id": "cdb0746c8e",
+   "title": "Kilmar Abrego Garcia arrives in Spain to start a new life",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkExZDl1blNKZUFoQ0Y3NDhpcEpteG5MaFU2STJMN3U3VldrV0M5WllDWFhacUlkTUEtMjV5Mk96eXZ4NjhEbFktb3ZySlRjUU1QWDhJX2FOWFFTYXZfQWRzRlRyUFJEaVM4dHJMQnRzeVk2WEJGU24zLXIwWllKNVM5UEZCQUV5VmtRZkFfMW1aeVp3WjdrTE9Xa1VtMVJHbmlFNjFnOWNianl0YTJZVGJaMGFvT24xTnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-26T01:52:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "abf4b3480a",
    "title": "Dermot Kennedy brings magical Irish vibes to Christchurch",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFRPMEpXdE5VeHpBR0JpbXh4dW9ydDdXaXgzR1YtZWwtdnkyS2pxOHFiOURES1IzQ01BNTVXRnRvc1NkZXF3X0dISjdndkVpbEdkcjIyMWxqU0ZzcE94eVU3WFNlaE1oMGlacXU4Y0xhQnFZbWd2Qlk1VEdINVlaYmo3aUJnN2JkZmdSNDE1TzYxemlp?oc=5",
@@ -567,23 +584,6 @@
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b3292af784",
-   "title": "Photo reveals stadium-sized crater in asteroid hit by Nasa spacecraft",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMEFPS241cUpnamZkeG9oYURjZXlfdVQ5dXBtZEY2U1lpZ3BnVTllbjFmNWphbjRvbDlaYWtSN2dQMUdQenpndzZmMWdZNm9DLXBnc2VwT2ZBckhsOGV1YWt1bW1ObHRmR2Q1bnNuOU4zUjV1MndUTzEyWGthYThXMW05NXFzZWd6YjAtV1MwMnM1T2tPRlpJcktaZHBGdHAxbU92ZExDQWcxRVdz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-25T20:01:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
    },
    "topic": "Society"
   },

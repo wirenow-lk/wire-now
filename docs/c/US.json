@@ -1,24 +1,41 @@
 {
- "updated": "2026-11-27T07:16:10.647072+00:00",
+ "updated": "2026-11-27T08:44:37.827331+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
   {
-   "id": "056fd44cdd",
-   "title": "Asian Markets Mostly Higher as Sentiment Stabilizes",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcnRDczhFTDhaVXp4YmhscHNzZ3M3Z2JIVkNtdXJoQlJxai1BYnVtczd2Z3B6LThnRUVaWUxtVllXZnZWY0gzWVdTUlJSOFNMVXZfSWEwX2wyUVRnWUVtcVJlY1E4eXdaSk5wNDV2Z0lMSlBuUm13dy1saXp6ZlhLTTdBNHVLT1huOGpjYXNFbWtVdw?oc=5",
+   "id": "4002cd9be3",
+   "title": "Chinese shares soar after Beijing signals more support",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWowSjlHYjJuRTFKeTM5LUJnVmRqMEtXVktHOFNUQjZrUXFwWVNWTEt1d0FSdHZObTEyWHA2d01pUklZMm5vNGplZUZyc25aTDREVGphS1dQck9Cb19lUVAwUkFxbjRPWEJKT1hXRUVCODBJSlBCY0p4emh1T29KMUVBS08?oc=5",
    "summary": "",
    "image": "",
-   "source": "WSJ",
+   "source": "Financial Times",
    "region": "US",
-   "date": "2026-11-27T05:53:00+00:00",
+   "date": "2026-11-27T07:52:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "2b9b237a5d",
+   "title": "Will anyone else sign Aaron Rodgers after he torched Steelers? Breaking down 5 questions, including most logical match",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcVhsZUpEYWRMZ01QTU9LYXU2cm1xR1cxTHFSNWFzbmJlcFA5ZVc2cm1wSjk1Y1hVOGFlMXZ5SG90bmQ1RFZBQlVBUlNaaHZZUGNqODFnZ1A5VjYxNXZSd1VTeUI1MHZ0Wlo4a3B4NE9MUTBpM011dUo3Y3JveGxYUEg2SXlaMjRhQnRYTUVCS3hTUjBLQjM1VzVBbmtGRW5vWXdZcVZxajkwRm1mVjlKM2NCdHNIak12NG1EQnRHRnltcGtrNW9UMGpWR1kzaEFZd092VE1Kak1jdTgtang3QlAxakw1c3dpWGNvaThhUEFhQjBqakc5TmdkVXI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "US",
+   "date": "2026-11-27T06:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Sports"
   },
   {
    "id": "f634c70316",
@@ -29,23 +46,6 @@
    "source": "The Washington Post",
    "region": "US",
    "date": "2026-11-27T05:28:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4586067574",
-   "title": "Wordle today: The answer and hints for November 27, 2026",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYVHB3Z2dZYVBBakxZS1ZHZndjYjk2b3RXQ09IcVkxUmFhZVNCZXpFdzByZjNtUU5ha0lkTjJaLUZFSU1XT1RySmlvUDRwUUxMakc1dEpvYXFDUl9aWUhTOFFyRW81QllBN0pzeDdqM0VsZGxMZG93YmNSRQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "US",
-   "date": "2026-11-27T05:22:28+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -72,6 +72,23 @@
    "topic": "Weather"
   },
   {
+   "id": "d964edff5a",
+   "title": "Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "US",
+   "date": "2026-11-27T05:04:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "3803b5ddf6",
    "title": "Tyler Bass hits walk-off 57-yard field goal, Bills beat Chiefs 13-10",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjd1ZVhxUDc3YllGcDh3SXJCUU9YdGt4clhmeENueXlkTW1GeC1HeXRTR1NGZHJSS2VJUloyQjVlVEg5QllZQTdDUGNFbXZuZ21ja2pEcHdvSEZPaVl0MFB1NlNKaEVEcDhYSkJodUxGMDE2SXFBTW9aRUNBSjJpcVBaa0c3bHhlWEd6ZEtZVHYtWEFpZ3VuRnV1anhObGpRRjYyTEZnaXJMN0trbFVBLWl2VFh1TnJ2X1JYQ1JjeF9acXFzb1R0Xw?oc=5",
@@ -89,31 +106,35 @@
    "topic": "Society"
   },
   {
-   "id": "4f6fa7bbed",
-   "title": "Christopher Luxon favoured for second term as New Zealand Prime Minister",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmNCNlRJNEl1MXNtUFJYX3NBQjhqdFdYTnlwX0t1OUtaV051cF9BM0J3akdyN2ZBWENOQnFGWk9CTGxPcjlGYnEyWGxFem9lQkQteVNUOXRwaW45NHF5YVpDZmpPZWR0ZDVnTDlwT1NQbzZzbzdaRVVGVEU2aUZST05KNTZIRnlqM3o1ZzF4Z1ZWT19hSkRGc2JUdWwycTZrSDhjVFhPdHZ3aTlXR2w2LU1jRWtqTzluaklBMg?oc=5",
+   "id": "8a0f242a50",
+   "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "CNBC",
    "region": "US",
-   "date": "2026-11-27T04:12:00+00:00",
+   "date": "2026-11-27T03:30:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "New Zealand",
+    "country": "Kuwait",
     "place": "",
-    "flag": "🇳🇿"
+    "flag": "🇰🇼 🇺🇸 🇮🇷",
+    "also": [
+     "United States",
+     "Iran"
+    ]
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
-   "id": "4c2f65963a",
-   "title": "NFL: Philadelphia Eagles stun Dallas Cowboys with historic 21-point comeback victory after Jake Elliott's field goal in final two seconds",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQXZUVWY5YVpaMnJ5NHEzS2ZneWI4OXVMbGRZRmlGc3dyVl9mRV9NNHZSUGRYcHBPU2xseTV5TXRDQW1kUVZ6WFk0NzZ4NmNEWmUwMzBOeHBFVTltS3lkellzMkY3bS1yOGxBb2RSYXRLN002ZzhDSElOY01CTnFLZkFxOHFkUjJFSU5CR21oVlRzZGFUcHQtU3BsNUJjbUdZNHdFZkJYcnFYUHJyRE9UR2pGYWozTVdVNlJudUFCcmtkZG1DZ3dtWG03R2hHYlAxNjBnd2tBZWJWdUM1Wjg2ZEVDNDl1TkFGS3JPY2hWZXJFNEpKaW1QN3hnbnYyMWZBNHFob2VKeWQyUU0?oc=5",
+   "id": "bbd89b0f9e",
+   "title": "Wordle today: The answer and hints for November 26, 2026",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4X0FadVcyaWd1WnZVWXJPRXRvZGlSRnZ4VWdzWEU1SnE1S09aVDlLcWVPaEZZUHVmT0l1bFUySF95aWZBb3I4QlJGZElhNHNzLUNLZUQtMV8xTlNkdjJZTGFJdWZGWWlucjJBekM2cm5kenBhbTBoSGxvbw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sports",
+   "source": "Mashable",
    "region": "US",
-   "date": "2026-11-27T04:00:10+00:00",
+   "date": "2026-11-27T03:17:39+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -140,6 +161,40 @@
    "topic": "Society"
   },
   {
+   "id": "3c268a7758",
+   "title": "Joe Milton, Eagles stun Cowboys with biggest comeback on Thanksgiving in NFL history - The Athletic",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWVuTTZJWXp4X1I4dUNRTWtnUXAzVlRkYWItT1ltbnpUS1ZPdTlZdTBxNlltandDNjJTWWR6V04xUzhjekN4bUtqNGVZN0RTV21xU1d4UFpvZjdHaUdWSVlrRC1XWEpxQVBTbllWcHdHZ2JvczNtU1drZDNPSWo5X08xS1JKdkhuZjhkTVdZRk5oT1hsRm5JR2dudlQ1MmxNcTJrU2xZYTk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "US",
+   "date": "2026-11-27T03:03:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "01d0902dda",
+   "title": "Trump calls for investigation of GDP data released before midterms",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOU56MFQ4TFhBQlIwcE1JUFd6ME5TX1puVWdLZVFiTUNzcDNaMWlLQUdKem5udmVMWmpyUHBNQ1Z0dEp1Q01zWTRMS3dxQm5oclRKbWJJMWYwWDNfRVpBUHBaT2k1OU5RZVRQOVM2Vjd2N0o3ZUw0aUo5WWgtbUsxNFhDNFBSV1BwOGJ5cFVKUzRfYUFud2xrVG5oR3ItRWs?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "US",
+   "date": "2026-11-27T02:44:00+00:00",
+   "coverage": 2,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Economy"
+  },
+  {
    "id": "fd59962881",
    "title": "Jen Affleck reunites with estranged husband Zac for Thanksgiving with their kids — weeks after filing for divorce",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZkxZNWVLdzdDeUo4QTEyUzNkdjNwMmVUNlFNLTZqaVBEUkZlSTZ6SGZjdXlSVTROWTFqU2NNNHJzdjRLUGxXQlVhZkJld2FHZkJGTTlWWmFrLW85MjVoWXpUczk1WnZuenNVVGVVdDNQZTBfWnJDR2VTTExCY3loakNQTzV2RzV0YWVSTGZraEhEY2I3RHlVSTNOR2R6aS1GRlF5ZWhMc05WTUZNbGRMYk5CZ1MwdVBmanl3T2JjQnRsejloSFFkdDItSVRzVmNPQWh2QzM3WUpENHQ2ajIxLTY0aFU5Y0Jra1czdmVyRQ?oc=5",
@@ -157,48 +212,31 @@
    "topic": "Society"
   },
   {
-   "id": "ddd7ec778e",
-   "title": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVJlTEtmOXZPQ3AtRlRpRFd2OXhvRDVTMUdvQVE0WHowNnF0ME1XSHZwNngxT3ZMOVpOUF9nSUxlMldFblZnZGpudTBDRXkzUjVGOFAycndRWXZvWEplRDdXZzYwZV9sYlVOUVNOSzVmakhzV0RVM2d6d25xVjRzVl9Xd2M?oc=5",
+   "id": "ff69f0c4f1",
+   "title": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMU9SZUVIYWlfZHJqaUtENDVxWVZLTVdDcUNDZE4wTzc5THl1S2xScEU4SGFYMGRfdFdXMUJKNVRPaEFMbE5Eb0s2Q3VjblJjZ3BRTDZOX2l0RFZNV3gyTGprWkg1VjR3WGk1cVpSU2djLTBBMmNISldVeWVBWWQ3VlIxaWdxVWx6NmIteDZ5Rjl1MEp4QVhDRTViZkhjckM1eWNnbw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "Yahoo Finance",
    "region": "US",
-   "date": "2026-11-27T00:33:25+00:00",
+   "date": "2026-11-27T02:18:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Business"
   },
   {
-   "id": "45872f34ee",
-   "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
+   "id": "6c45e33fbf",
+   "title": "TPUSA mourns Florida high school chapter president killed with family in devastating plane crash",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGtQbFZSRXYxT3RpcmJsZlVUWmt6Rk1fMVI2b1d0MWkxUlhzbE1UTXlmM0dCeHd2ZTZVb0p0VV82VFJqTWxXX0tnTzl1U3FYZjc5LUk3d2lzRFl0ZmNhOEFEaFQxbTl0NXNnQ2ZFdEJWN2hYMEFfOXdjQ2RZVG5PaE52djY0RWpfTXNoTF9SOGVCb212Ymg4SWtwcllJUnRfc3BoMk9GMHNTVFZlZllpZ2x3emZPZ9IBuwFBVV95cUxNeVpjYTEzajhIc1gzcXByeHVObFNCLVJqOTRiTktMMjQzSjNJXzh5RXc2SDBiTTQ4bS1mTW80RWRZcHlGUVkzT0d5UlJqdVo1Smt2QUxZbmJ1dm5ZR3JTejJTd0NobWFCUlMxdHAyX2ZKYUF1c0ZnWmtwbzdlRlRzUUktejhoSVV3MVd4ZnNHWTh1dFBrLVZRUkMwS3JNbXFDZzhvWGdhcG5DZUpVS2dwT01HUG5FZDhPZFhB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "Fox News",
    "region": "US",
-   "date": "2026-11-27T00:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b9ef9627d1",
-   "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "US",
-   "date": "2026-11-26T22:57:41+00:00",
+   "date": "2026-11-27T01:42:11+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -208,40 +246,53 @@
    "topic": "Politics"
   },
   {
-   "id": "f1dbe09e98",
-   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
+   "id": "866f11050b",
+   "title": "Cautious consumers gear up for Black Friday as inflation woes bite",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzUyQUp1enhRcjVIdWlBejd2XzFsdXVwaFF1SUswaVBuTzBKMkE2cU5GdnVSX2tiMjVIYnQzLXFKN3E2UWZ0bVZkX3dvdjEzaHRQRUdsM1pBOF9vaG0wYWVKZ2JNam5zWXZmT25QcVhPcWIwcDQ5cEx2U3QyQW1LcE43UEpGQVhpMF94bjVid21hYm9YbEZ0UnhBTnhPdlBJRFpzbFhsbWxBNndmeGNjcHptNXhJMnlQNk94TQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Reuters",
    "region": "US",
-   "date": "2026-11-26T22:49:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇺🇦",
-    "also": [
-     "Russia",
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cf168be145",
-   "title": "Terry Bradshaw, Russell Wilson and Michael Strahan call out Aaron Rodgers for rant about Mike McCarthy",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT0hkYmV0WjhxYzNHbnYzdFNhcnhBR1F0UnBaRUlQb3NrLWhEMkNEQVNGV3NqYVU3VFM5QXVyUEJlTEVxRlZMaFVPMU10Unp4U0Z5NjEyY21OTVVaYjVqcTV1RnJlNGhHcFg0a0cxT1VtMHRMOWwxZnR0UUFrNEhmaS1PbWIzc3RWLWhtXzVXdC02RDFKdnJrNmFfWUlxd2dEbXZBNkdFYmZKb3VQc09pblc4TkRlbklJX1BSR1RDSVROSF9fWlBOeE1sa1JlQ0RITVRYYms0d1JjWDVNanRlSmYxX2JEQzFtNmtXT0xHZEJmRzFmcjBaX3JKQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "US",
-   "date": "2026-11-26T21:51:17+00:00",
+   "date": "2026-11-27T00:03:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Economy"
+  },
+  {
+   "id": "0a0bf6ef61",
+   "title": "This dietary supplement may have an unexpected benefit for the brain",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95OEhVOHJCZ2FNLXRQNlV2NWFyRy0xU3YyUm1oSEdyZGIyQjFsQUtha2FyVDIxSElBV0YtNllBOEwtRHBYTVVyZThTZFhRdHR3OGlIWnUyUGV3SDdYNmhvSWE4NFFYdHlrMnh5b2hMWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Science Daily",
+   "region": "US",
+   "date": "2026-11-26T23:36:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b88b693584",
+   "title": "Macron accuses ‘arrogant’ Le Pen of speaking as if she already won",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0ZTelJyTGVBZ1llRS1odGNZRzhXUHQtdGtkWmVucEQ2TkhvN0FJeFBRY3dyTHhTRXBEQjlDM3cwWmdvUE1KWDBpZUpTdmJxVEw0Z1RmN1hEa3ZvQnRCdXQ4SHF4UEhnd1dyREhZcmxMRFA1aWFubzRtNU5rZFhlUkNqVUVpZU9tVTdqUklFMkVrbkNBN042Q0M3djcxVXNIa1hkMndR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "POLITICO.eu",
+   "region": "US",
+   "date": "2026-11-26T22:39:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -280,107 +331,22 @@
    "topic": "Tech"
   },
   {
-   "id": "e5a2dad077",
-   "title": "Jada Pinkett Smith 'on bended knees' in Thanksgiving post from $42M 'family abode' just days after fire",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUwtQngwTmRKdWtXdFhJd2xjVkhJVnZkR1dJUjBCSm5pQVV0UXBmNENqM3doZ1V2cW9xc3dzSVZYa0Rzd3dYZ0h1b24wUmtZbUVReXdZX21SMkpHOUdLdzY0Qzg4Y0V1cVlFOXZhQVB5QXk2X2htNFlNalZlSkIwc1UyM1dLU2JVdFNYaUY5ZnZicHdBaWdaSmtDX2E4cVBibVFF?oc=5",
+   "id": "35021ddc78",
+   "title": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWg1NTJPR0x6RXN2T0JIOXd6OUI0cGdkcUh2clZJbWZBUGZVdTZkX3plemh4NEtOLUxIRHctM3dCbUFzMHBWb2Rya3Y2UDZKUXhab2plWG9HZUNxN3ZJMF90d2p1djNQaW5QbThDeW00NVJ4MXNBSnowaUxWeVBzT0paSTZaTGdqN2wzbEdaSzNGUVQwVGRuUHlYTllBZGhLWXFVb1gtaERxblNnQVFscVR3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "POLITICO.eu",
    "region": "US",
-   "date": "2026-11-26T20:44:28+00:00",
+   "date": "2026-11-26T20:40:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7fe890e3a7",
-   "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdXdlZuQVpCZWc1LV9iWkZaSm9RWlVsZFFBNVIwdmV6UksxZmlQTEpXUVlVXy14TUNGWURxdmZHZVR2V1BfZG1GRXVjT3hDek0zazlad0VXWGtBc0dDRE5LS2pkeFlpaThKaG5qU0ZkZ2dkaldsMmN1SWRDZnJLSTdyYWdjWHJrZXFuWg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "US",
-   "date": "2026-11-26T19:41:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c4d9ae68c8",
-   "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzFiWi01aU5HaTlZaHd0THlxMFB6RTdtR1hpUGh1RHVuclpWOGxwNVJEdXFDXzN1LWpBOUpuWmEzR3c5VGp0SGYwajFLYm90eU9OM29VVkFWWlUtQWh4eUZiUHJQN2s4STBELUZfNVhOZHVfRVltRjZsVDloTFdwVUlTU0QyVmFBTHVfQzBBYV80aXhxREh0MzVydXcydw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "US",
-   "date": "2026-11-26T19:33:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷 🇰🇼",
+    "flag": "🇺🇸 🇺🇦",
     "also": [
-     "Kuwait"
+     "Ukraine"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3e4ed9fe65",
-   "title": "The Macy's Thanksgiving parade is postponed. What happens to its expansive roster of performers?",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemZKUW1ScjhtaU1uYmdNXzZ1eXJXN1VSTlN5MXRnTk5BZ2MxdWJsVmVSZ2VWRFNCbHVzcDhiTFlNOTE4REJ1V1VKNzl5aHJjS19kZE11dGVvTlZCdDc0REJZaFlxQXR2LVpRTlhDeUd2WVZTdHZOZWdjMk9oQ0NCSEM1NWp6TGw5MGVXWEtKekNBS0tpVGxjUmJRdmdaQU9a?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "US",
-   "date": "2026-11-26T18:59:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4bb777b639",
-   "title": "ICC outlines Duterte’s trial schedule",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDFraUNyRlhTcUIxaWQwWHRFcDhJWEI3WXZKakdqMnQ5SmVrOE5tMWNES3J5d0hpaUhNU2YweEt2Nks0dGxCaXotX1pUNDFRYVhwVWpnOXY5UjFjV0IyazM2MW5NSEZmYWp3Y1ZNTS1WS0Q2RHlDbzdNTzhETmx1eE9wTdIBiAFBVV95cUxPZFJ0NTVDaGNWdzdBLWxPRFNHMUFQYmtGWVVKSDNza0x3ZVhiQkRzbzN2eGJxcUktb1laZXR4LXM5MlBaMGJ4M09YRW9RVU1hZzVmcnpUakh4amZlV2E3Rkc1Z1dwUHh4S2pDZlNPWDFtcERtLTJJUnlYc3NpanFOTG9QNkk3ZF9j?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Inquirer.net",
-   "region": "US",
-   "date": "2026-11-26T18:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "56e6b0d4b3",
-   "title": "Zeldin: No airborne lead detected in Iowa a day after Army blast",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnF0NWN2RkN3SERuUFVVdXlPQnZXc0JHcmtPZGZ4TGlIZHY2RkM4eFc0T3ZXcnBlZXpyX01ZT3U4T1VCMjBITDFzRWhJbDBIc2ZSRXMwcjhBR3U5NV9TRWxfVDNfQXBYV2pCdVJmYzljRHlCdE02T1A0SHhqV0szeVRZRGthZ2FNNDA0WHpqRkl5SknSAZgBQVVfeXFMT3JlVnQyZHI2M3g2YXUzRU9iMVNIN2FRdE9tQWNDMlNBOFVXRnExOHNuWjNiQ2VZekc2NkpoeGxxYUhWSXlyeTlkZkhITjdINHF2U2Y5TllSLVN5S3FPM3pRanM5X3k5dzR6anRoZGI5dFd1OUtxdjVlbzYzMmZRdVdzQm9hN1JiTGZESk51LTdVRDFUYU1NZlI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hill",
-   "region": "US",
-   "date": "2026-11-26T18:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -402,31 +368,14 @@
    "topic": "Society"
   },
   {
-   "id": "5f2dbdac86",
-   "title": "Sony Just Made Its Own XM5 and XM4 Pointless, the WH-1000XM6 Hits Its Record Low for Black Friday",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWlRfaDc2RkJFbkhjMUxfWHFINnhkSkV5a3BKTG51LUMxM1FrZmV3RkQ0bFpkSlYtblhGMzZjLWw0YXdtMmZJMnMwcXp2WGpyMGlRLTVOTWx6dGtoVnpwaldGWTktaGNKT3JfQU5FSVNMTmlmQjY0M3hEeW1TeDcyRGhIMGd5N081ZEszWUpKLUlpMFdzNjBNTDlpM2lKUGVkQXZSdjRMMW1yQmVGdFZWS1d3WnoyUGxVaVhNdGhhTDY0RElHWVE?oc=5",
+   "id": "3faeaf3f17",
+   "title": "Matt Damon Narrates Ford Racing’s ‘Go Like Hell’ Thanksgiving Day Ad Directed by Zack Snyder",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamczUlYyWlFHTXVqREhoS1FxaFgxUkZBQlFfVm1WQzJ5M29FUHdsMmNKYzM4RlM0aWRjWjV5M0hrTG9KZTFiQUFzeHBjVlRfWHdHaVhZSllsd2RWQllVT0ZBLTFGYnhDOUpVYW1rbDNCLWstLXM5MXB1S3RmZ3E1ZWM5UXRQUzNBLW1WRWhHa1FfLTlFVlNkTHdxOA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Gizmodo",
+   "source": "Variety",
    "region": "US",
-   "date": "2026-11-26T17:55:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "67089cab27",
-   "title": "Amazon , Walmart Battle for $124 Billion Holiday Shopping Market",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMThZRDBPemhJTzJFcHhKc2FuU0lnUkVQaGhOT0phdWJDRUVfQWFnLUxyM0FZbEx2MVBKVGtzNGtCR0JadWFGZEJ0d3FpUmxBc0wxNGxydXdzdDRRVVdlbE9FTTVEdFlGU0U2N3BXdzBKOVVkVE5ZTzFvTTFNLUhjRGdZUGVJQWRuMkhpelZGMlgwWG5YamRyaXYtd3kwX1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Finance",
-   "region": "US",
-   "date": "2026-11-26T17:52:23+00:00",
+   "date": "2026-11-26T18:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -453,14 +402,14 @@
    "topic": "Society"
   },
   {
-   "id": "8bda089727",
-   "title": "ESA's Hera Mission Reveals Stadium-Sized Crater on Dimorphos",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN0gwR3BwUE1xdjhIdFBXc2hFOWRuS1I5NWNxUExKS014aDJPaEkwbURINmtIamJfRjR5bkdDVVRXdV95bHVNcWFqV1VDT2t6bmlqUklBdTNRTV91Zm1qUGFjb3QxQlRvMndYRzAtc2d6dDVfbFNsc1lVOERzVXUxTC1MaDA2a3BqQW1aMnF1VGNySElqUTNPWEhBLThxeUpXc1FjT1VReHRQX0pmdFpmT3ZPMVpuNUtZSzk1aVBrSHZBblMwYUJvVkNmcEhVQQ?oc=5",
+   "id": "1ade228764",
+   "title": "Texas band raises $350,000 to stay for delayed Macy's Thanksgiving parade: \"Outpouring of kindness\"",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2pRTlgzcUZkYU5FemF2MW5JZTU1a29yRVFlZE1FRXJpWUtpOUtnVHpKbmp5VTZXNzZEcW81SUVUQVpPVVdSR1haMl84N0tyRTRfbzdySlFnNXQ3ZzVrWEdSWlcxNElzY1dhUFh6ZlU0Z0hiRlN2dkdCNG9VejBTWngyVmZoYXdK?oc=5",
    "summary": "",
    "image": "",
-   "source": "Gizmodo",
+   "source": "CBS News",
    "region": "US",
-   "date": "2026-11-26T16:52:29+00:00",
+   "date": "2026-11-26T16:44:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -525,31 +474,14 @@
    "topic": "Weather"
   },
   {
-   "id": "6bac64dfd6",
-   "title": "Germany: 2 suspected Islamists arrested in Heidelberg and Cologne, suspected of plotting synagogue attack",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTJjem9wYVZqdmdGdDlyX2c2YS1PX3N0SVRPNVlQb2xNTkxGNHg4dXhlVkF3Q3dMRTdmdE1GTWpLNEVILXA2b1ZEd2o1N1NHSzVPV3RVM19UY2dnSmx3TWtVb2hETDZ4eDNsdTBJNnkwOTI5c0d1VzV6STM4TFIzRUZWUHRPRmVMeTRvVDlhRmtmaDVU0gGUAUFVX3lxTE5WQ2ZSLVF6VTZ5WFNtYXRnUjFRcUNzMU90TWZrYzBnSlNVR2w0XzE1Vy1GbkRMZXRsTXVJbHpDNl90SWgtT0c1VVY5OWkxdTRnMnY3N0FhSlduRG1xXzVQcUw4Y1RKR3ZzVHFqRzJTaVRQS2R1Q2dtRWw2bGczamU5Q2RaVzdwOWExaGtUSFVrMTVIdWM?oc=5",
+   "id": "c516525261",
+   "title": "Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXd5cEM3a3dfVzdKTHl0ZHhXcXNfZktBTWI0ZzA1Y0EwTWMteTNRR1dzd2ZVN2R3d3VUUjdybm9YNDlmX0hUSk1NSWM0Y3dBbVJWQ19vMG9ranpuZ2lRMkl4Nkh1X2h6cG45YVk3MW5pY1FIa21WWFYzSFEtcGtaT1dlSU1BUzgtYXR4UzZweEt6QmVRcFp4dGVUQk41Sm5SdnfSAacBQVVfeXFMTjM0M2ROMXdXNDk0c1VRMUQxUzl4dEFuSHZCTGFGYmxXM1RxdDFrdXZFb0ROWWtSc0ZNNkxjdlRCcjFwSzVIeGFISFd0eklvY0M4RVlLRG5BaHl1VmJfcEZ2dXhhVzZHc3A2VlBYVWpRazhJb1lsYzU0MnBYWUpmajFmUFd3VGJ0VmthUUtmRmR5SkpfZkd0dHJSQ2tuaDhmbjhOYkxaYUU?oc=5",
    "summary": "",
    "image": "",
-   "source": "DW.com",
+   "source": "The Hill",
    "region": "US",
-   "date": "2026-11-26T14:34:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b5538e3259",
-   "title": "Samsung's Galaxy S27 Ultra might already have its first major disappointment",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWtEZVBCdElEVUJTOXZrQ0h2ZTgxMEwyTnN0RGVsZjRLZ1ViQWktMWZwa204akgzdzNkaWxyMXR0LUlNRG03Y1FfRXY0UnZNdHJiZFdmb2VRS3VBS0cteFNjX0Fpb1VpdWNUZEtMWGtMVjMxWGpjMURSbkZHTkltQ09NNDBLcXZBRzN5aU90Ukxzd1VrNUxRdWRRM29ZVlNoZ3k4ZGNDNHZ5UXk5SkxxVDFvMHZWV1U?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PhoneArena",
-   "region": "US",
-   "date": "2026-11-26T14:25:24+00:00",
+   "date": "2026-11-26T13:08:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -559,22 +491,70 @@
    "topic": "Society"
   },
   {
-   "id": "55221c6387",
-   "title": "'Unacceptable': China, EU among major economies against new US tariffs",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSzlzNkVzNEdFVU9tanZOU0tVbWJxVW9oV2VueklTWlU5bDNSbFFLNkRzbEZlRGVJVnkzWjk5cGdLZzdmXy1PNmtHTHROU0VPY1ZSdk1QUmVZWVYzQ0xSWXhHUWxtVXd4M0xvSHRpNFNiNkdWMm9sRW16ZjktcEg5dnl6bWx1a0pKRlo2bXl4VE1yNTlqTVpnTFF6WVJhd2dWSlhXQVhMek55Nkk?oc=5",
+   "id": "a2406f7b78",
+   "title": "Will Smith and Jada Pinkett Smith ‘Feel Like They’re Cursed’ After L.A. Compound Catches Fire Again",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWpoaDZqQk1XTGNuQmNseDZHdFdiMm5NNzM1dHRfSExodVJJMWdNalc4ZC1lUDVKci1zUWF5YV9oSUlUb3hZb3ZBdjNhWDlqeDJ1Q1JTa3FPejdmOWlwY3g5SmxCYXJ3VG1yNy1XUndmQ0JmN2I4TmttLU82M0xzNTdueDI0Z3AzZ19CcW9mMFE4c0U?oc=5",
    "summary": "",
    "image": "",
-   "source": "France 24",
+   "source": "Yahoo",
    "region": "US",
-   "date": "2026-11-26T07:16:41+00:00",
+   "date": "2026-11-26T12:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "United States",
     "place": "",
-    "flag": "🇨🇳 🇺🇸",
-    "also": [
-     "United States"
-    ]
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dd27a2a272",
+   "title": "Thanksgiving power outages could last multiple days, Ameren says",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORDV2ZVpKV3BRM1UxOVFWX0N4S2k0dGExVTZINjhweVJsZms5N3BURXlMd2l4RGE0VE1ycmdfOVVQRTF3Q2hZYmlHckZOQm9Bc3lkMFFid0ZPek10Wms2d2VqNDk2SjV4ZWpUbjlpS1pTSzFqdW54emNIeW9MQ0FpVEtwVnM1ZHZQWW80UXRibEpNWnJqUFJhRGxWQXBoaFHSAaQBQVVfeXFMUHBlMDRaTGRiVS05Y3FUbk1weFJTT2R5bEtWcUZHdWViTFVnVTZseVNTbVJXLVFITk5oaFF1dmpCdGd0blFQQzI0ell0ZjVkUFZkSFl3MTdnbGl4TEE0WDBxMFdJWWRUelRfU3hGVjBEQXFoTlBXLUlhVWIxRVhqLWtZMTJtMUE1ek1RNEx4S0MzLTBEblN0aG1SOHV2VEdUNVczcEU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "FOX 2",
+   "region": "US",
+   "date": "2026-11-26T11:52:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "6bac64dfd6",
+   "title": "Germany: 2 suspected Islamists arrested in Heidelberg and Cologne, suspected of plotting synagogue attack",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTJjem9wYVZqdmdGdDlyX2c2YS1PX3N0SVRPNVlQb2xNTkxGNHg4dXhlVkF3Q3dMRTdmdE1GTWpLNEVILXA2b1ZEd2o1N1NHSzVPV3RVM19UY2dnSmx3TWtVb2hETDZ4eDNsdTBJNnkwOTI5c0d1VzV6STM4TFIzRUZWUHRPRmVMeTRvVDlhRmtmaDVU0gGUAUFVX3lxTE5WQ2ZSLVF6VTZ5WFNtYXRnUjFRcUNzMU90TWZrYzBnSlNVR2w0XzE1Vy1GbkRMZXRsTXVJbHpDNl90SWgtT0c1VVY5OWkxdTRnMnY3N0FhSlduRG1xXzVQcUw4Y1RKR3ZzVHFqRzJTaVRQS2R1Q2dtRWw2bGczamU5Q2RaVzdwOWExaGtUSFVrMTVIdWM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DW.com",
+   "region": "US",
+   "date": "2026-11-26T10:34:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "27f1e2f270",
+   "title": "InnaLabs-built gyroscope supports ESA’s Hera imaging of asteroid Dimorphos",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUlDUnA4Q2c4MkUzTXExaVFGZnNZZ0lNOE5wa2tWczIxVjFvbzhBcnVRQXpmRHQ1aTdtTlBfWEYwYmdUSmRIeEZROEYwak9qejRGeUF6MEZvaktBVHhTRHkwN0hxYlpPZVhzMFlsaXBMTUVmdXdlUWVESkZ4bmZ2cDB3MmIxUjdLZGlFdzJNQUt6WmtxaFJTZXI3cE1WRnFVTkpj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "space & defense",
+   "region": "US",
+   "date": "2026-11-26T00:54:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -594,6 +574,23 @@
     "flag": "🇺🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "48216ac5f8",
+   "title": "Galaxy S27 Ultra Release Date: Samsung To Swap Camera Hardware For AI",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHltUzVoZzgwM0I3UmI0S3F0bkt0MFJFcS1IckY4VVd2aVlLVl9HaU9zUWRaT3Exek5OZGhpSHRmaXdaLTVPS0xZbUVmLWswSDl1YWhDTkk5dEJGTE9YSVppUE9VSW5hVDZVUWcxRk1feWl0Q3FIRFJ2R2ZIeXRBejI4dlFoWGU5eUhDNUtLcXNrLUhRa24xZC11UDA4ZXVEQVpyOG5fRkcwQ1AyTEdzT21rU0ktMnN1R0xDWmFybw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Forbes",
+   "region": "US",
+   "date": "2026-11-25T16:14:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "6bf251284f",
