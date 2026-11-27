@@ -1,58 +1,36 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 29/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 32/80 used today
 
-OK   Google Top Stories LK: 37 stories
-OK   Ada Derana: 56 stories
+FAIL Google Top Stories LK: HTTP Error 503: Service Unavailable
+FAIL Ada Derana: HTTP Error 503: Service Unavailable
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 18 stories
-OK   Daily Mirror: 98 stories
-OK   Hiru News: 100 stories
-OK   Newsfirst: 21 stories
-OK   Daily News: 80 stories
-OK   Sunday Times: 5 stories
+FAIL EconomyNext: HTTP Error 503: Service Unavailable
+FAIL Daily Mirror: HTTP Error 503: Service Unavailable
+FAIL Hiru News: HTTP Error 503: Service Unavailable
+FAIL Newsfirst: HTTP Error 503: Service Unavailable
+FAIL Daily News: HTTP Error 503: Service Unavailable
+FAIL Sunday Times: HTTP Error 503: Service Unavailable
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 0 stories
+FAIL Lanka Puvath: HTTP Error 503: Service Unavailable
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
-OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 13 stories
-OK   Google Top Stories World: 63 stories
-OK   BBC World: 30 stories
+FAIL Ceylon Today: HTTP Error 503: Service Unavailable
+FAIL Google Warnings LK: HTTP Error 503: Service Unavailable
+FAIL Google Top Stories World: HTTP Error 503: Service Unavailable
+OK   BBC World: 31 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 100 stories
-OK   AP News: 83 stories
+FAIL Reuters: HTTP Error 503: Service Unavailable
+FAIL AP News: HTTP Error 503: Service Unavailable
 
-Biggest stories right now: Egypt detains driver over Cairo fuel tanker f (7 outlets) | Diana Gamage pleads guilty to overstaying vis (6 outlets) | Net migration to UK falls to lowest level sin (5 outlets) | World Bank expands local currency financing i (5 outlets) | FM Vijitha Herath arrives in India for IORA C (5 outlets)
+Biggest stories right now: Egypt detains driver over Cairo fuel tanker f (2 outlets) | Trump alleges ‘fake’ economic figures release (2 outlets) | Sri Lanka Completes Registration of “Ceylon C (2 outlets) | New Zealand's ruling coalition falls short of (1 outlets) | Trump says the US has ‘close to 50%’ of world (1 outlets)
 
-6 new stories to post
+3 new stories to post
 
-    reddit: Reddit not reachable from here
-What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Seven arrested after Navy seizes suspected heroin and Ice consignment 
-    important (serious news) - researching
+What people are saying: looked up 0, 0 stories with Reddit discussions
+* The Island [1 outlets]: Police recruit 257 women constables
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [2 outlets]: South Asian Games delayed again over scheduling clash
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Island [5 outlets]: Ex-state minister Diana pleads guilty to staying without valid visa
-    important (also on Ada Derana, Daily News, Hiru News, Newsfirst) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: the name/word 'Criminal' is not in the article; the name/word 'Investigation' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -62,39 +40,16 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 2 rejected: Statement 'Good evening.' not found in article; Subject 'Visa case' not explicitly stated in article
-    -> no cards; posting with the site's own summary
-* The Island [2 outlets]: Showers above 100mm are likely at some places in the Western, Sabaraga
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 rejected: the name/word 'Department' is not in the article; the name/word 'Garriz' is not in the article
-    -> no cards; posting with the site's own summary
-* AP News [2 outlets]: Leaders choose Spain’s former central bank head as next European Centr
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: Argentina bars Central Bank from printing money to fund government spe
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: The card says the Central Bank was 'founded in 1935 after 91 years of plunder and decay'; the article says it was founded in 1935 and had experienced 91 years of plunder/decay up to this point.
-    attempt 2 failed: AI did not reply with JSON: ''
-    -> no cards; posting with the site's own summary
+    cards OK (attempt 1, written by openrouter)
+* The Island [1 outlets]: Smoking claims 60 lives daily; tobacco, alcohol costs far exceed tax r
+    no AI summary: saving the rest of today for important news
+* Newswire [1 outlets]: DC Group Wins Creative Agency of the Year Gold at Campaign Agency of t
+    no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 6
-  photos: 5 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
+  photos: looked up 24, found 23
+  photos: 15 too small to look sharp, using the clean cover
+    reddit: Reddit not reachable from here
+What people are saying: looked up 1, 0 stories with Reddit discussions
+  fact check feed Factcheck.lk failed (HTTP Error 503: Service Unavailable)
