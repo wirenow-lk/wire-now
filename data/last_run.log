@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 66/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 69/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 50 stories
+OK   Ada Derana: 51 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 27 stories
-OK   Daily Mirror: 97 stories
+OK   EconomyNext: 24 stories
+OK   Daily Mirror: 99 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 20 stories
-OK   Daily News: 77 stories
+OK   Newsfirst: 19 stories
+OK   Daily News: 76 stories
 OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -21,72 +21,24 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 70 stories
+OK   AP News: 81 stories
 
-Biggest stories right now: Trump urges Putin to end 'military aggression (5 outlets) | Heavy rainfall of over 100mm expected in seve (5 outlets) | Two Italians killed in Kuwait drone attack; T (5 outlets) | New Zealand’s ruling coalition falls just sho (5 outlets) | GMOA to join islandwide strike on November 30 (4 outlets)
+Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Italians killed in Kuwait: Why is Iran denyin (5 outlets) | New Zealand’s ruling coalition falls just sho (5 outlets) | S&P upgrades Sri Lanka’s credit rating to ‘B- (4 outlets) | Trump urges Putin to end 'military aggression (4 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [3 outlets]: S&P upgrades Sri Lanka’s credit rating to ‘B-’, outlook stable
-    important (also on Ada Derana, EconomyNext) - researching
+* EconomyNext [1 outlets]: EXPLAINER – Why S&P warns Sri Lanka’s recovery facing storm clouds ahe
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* CNN [3 outlets]: Here are the 21 best Black Friday laptop deals on products we’ve teste
-    important (also on MacRumors, The New York Times) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [3 outlets]: Public allowed to carry mobile phones into police stations, minister c
-    important (also on Daily Mirror, Hiru News) - researching
+* Newswire [3 outlets]: FSP holds protests as Gotabaya appears before court over Lalith, Kugan
+    important (also on Ada Derana, Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Sri Lanka CERT warns organisations after global cyberattack hits 178 e
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [2 outlets]: FACTBOX Spain election: what the main parties are proposing
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: US shoppers get ready for Black Friday and Cyber Monday
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -101,11 +53,55 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* CBS News [3 outlets]: Thanksgiving Day storm batters Jersey Shore, Philadelphia area with st
+    important (also on AP News, The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* EconomyNext [2 outlets]: Sri Lanka’s Laugfs Gas faces trading suspension over delayed annual re
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [5 outlets]: Heavy rain above 100mm forecast across five provinces over next 36 hou
+    important (also on Ada Derana, Daily News, Hiru News, Newsfirst) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* BBC World [2 outlets]: Hundreds of thousands still without power after storms hit US on Thank
+    important (also on BBC) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* The Guardian [2 outlets]: Momentous decision looms after judges call for Netanyahu charges to be
+    important (also on Euronews.com) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 9 too small to look sharp, using the clean cover
+  photos: 8 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
@@ -114,4 +110,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 67 story pages for Google)
 
-Countries: IN 38, PK 36, BD 33, US 33, GB 37, IE 35, CA 38, AU 38, NZ 36, SG 36, MY 34, PH 33, AE 33, IL 35, NG 36, KE 34, ZA 34, GH 32, FR 34, DE 34, JP 8, IT 33, ES 34, BR 31
+Countries: IN 37, PK 38, BD 36, US 36, GB 37, IE 34, CA 38, AU 37, NZ 37, SG 36, MY 34, PH 35, AE 36, IL 36, NG 34, KE 34, ZA 35, GH 32, FR 33, DE 34, JP 4, IT 33, ES 32, BR 33
