@@ -1,47 +1,39 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 33/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 36/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 47 stories
+OK   Ada Derana: 49 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 20 stories
+OK   EconomyNext: 22 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 25 stories
-OK   Daily News: 82 stories
-OK   Sunday Times: 3 stories
+OK   Daily News: 83 stories
+FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 12 stories
-OK   Google Top Stories World: 66 stories
+OK   Google Warnings LK: 11 stories
+OK   Google Top Stories World: 70 stories
 OK   BBC World: 31 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 88 stories
+OK   AP News: 87 stories
 
-Biggest stories right now: Heavy showers above 100mm expected in several (6 outlets) | Diana Gamage pleads guilty to overstaying vis (6 outlets) | Net migration to UK falls to lowest level sin (5 outlets) | World Bank expands local currency financing i (5 outlets) | FM Vijitha Herath arrives in India for IORA C (5 outlets)
+Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Diana Gamage pleads guilty to overstaying vis (6 outlets) | Navy seizes suspected drug boat with seven su (5 outlets) | Net migration to UK falls to lowest level sin (5 outlets) | World Bank expands local currency financing i (5 outlets)
 
 8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Data entry officer arrested over Rs. 1 million online banking fraud
-    important (serious news) - researching
+* Ada Derana [3 outlets]: Parliament observes minute’s silence in remembrance of cyclone ‘Ditwah
+    important (also on Daily Mirror, Newswire) - researching
     news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: Details bullet 3 claims the case will be forwarded for prosecution and that authorities have not yet disclosed any charges or next legal steps; neither of these statements appears in the article.; Spo
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -50,56 +42,64 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    attempt 1 rejected: Cards say 'minute’s silence' but the article says 'moment of silence' and does not specify a minute.; Details claim the silence was observed 'throughout the chamber as a sign of respect'; the article 
     cards OK (attempt 2, written by openrouter)
-* Ada Derana [1 outlets]: GMOA to decide today on participation in November 30 island-wide strik
-    important (serious news) - researching
+* Hiru News [2 outlets]: Seven suspects arrested in drug bust are foreign nationals, says Navy
+    important (also on Newswire) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: UN renews push for Sri Lanka war sanctions and accountability
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The New York Times [2 outlets]: Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has 
-    important (also on AP News) - researching
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* The Times of India [2 outlets]: Tamil Nadu rain alert: IMD warns of heavy rain in Theni Ghat areas, th
+    important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [1 outlets]: Sri Lanka loses Rs. 636 billion in VAT and SSCL revenue through tax co
-    normal news - one-paragraph summary
+* Newsfirst [2 outlets]: Foreign-Flagged Suspected Drug Boat Seized
+    important (also on Newswire) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Yahoo Sports [1 outlets]: Chiefs vs. Bills live updates, score: Patrick Mahomes, Josh Allen meet
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [3 outlets]: Inside Ukraine’s power crisis amid its war with Russia
-    important (also on Kyiv Post, The Moscow Times) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (429)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: The 'spoken' section states that 'many families are conserving what little power they have,' but this detail does not appear in the article.; The 'spoken' section claims the shortages highlight how th
-    cards OK (attempt 2, written by openrouter)
-* BBC World [2 outlets]: New Zealand's ruling coalition falls short of parliamentary majority b
-    no AI summary: saving the rest of today for important news
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     cards OK (attempt 1, written by openrouter)
+* Newswire [2 outlets]: Amnesty renews calls for accountability in Sri Lanka following new UN 
+    important (also on Daily Mirror) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    cards OK (attempt 1, written by openrouter)
+* Daily Mirror [2 outlets]: Suspect arrested over Rs. 1 Mn bank fraud using fake website
+    important (also on Newsfirst) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [3 outlets]: US too focused on Middle East and not pushing Russia hard enough, Zele
+    important (also on BBC, Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: Cards state talks are 'set to', 'scheduled', or 'slated' to resume in December; article says they were 'expected' to resume.; Cards state talks made 'no progress'; article says they made 'no obvious p
+    -> no cards; posting with the site's own summary
+* BBC World [3 outlets]: Sheikh Hasina's planned return puts Bangladesh on edge - and India in 
+    no AI summary: saving the rest of today for important news
 
-Top 10: 1 fully explained (1 new this run)
+Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 8 too small to look sharp, using the clean cover
+  photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 26 facts and 0 people saved
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 25 facts and 2 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (6 with cards, 67 story pages for Google)
+
+Countries: IN 37, PK 35, BD 34, US 34, GB 36, IE 37, CA 36, AU 36, NZ 33, SG 36, MY 34, PH 34, AE 34, IL 35, NG 34, KE 33, ZA 35, GH 33, FR 33, DE 34, JP 14, IT 33, ES 32, BR 34

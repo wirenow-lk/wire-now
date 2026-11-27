@@ -1,17 +1,51 @@
 {
- "updated": "2026-11-26T23:50:13.761070+00:00",
+ "updated": "2026-11-27T04:47:16.561924+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
   {
-   "id": "94107d9c98",
-   "title": "Météo : temps hivernal sur le nord-est du pays",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHdEYUczQUtQcEVRa1E5TklVRFNmNUpjUUkweHBDamZsYzRCRXFDcGdzd0tLeDlPdUljX0FtbXc2ZEpwWFVtZHRyNWlvYWJSZmk5TTIwLVB0WWJPZUExeHVSd1prZU1IaFBUS3AycG9LWjR5TWxXaGZJYUdsZTB4TzVwVUZpQQ?oc=5",
+   "id": "d5702552b0",
+   "title": "Ligue Europa : « Inadmissible »… Colère de la présidente bulgare après les violences lors du match à Marseille",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakl1MDBkVW9IemEyWDhaSm5ESlhPNUxuUW1FVjllWDZDSDY0YWI4MjF4VUdzeXVIcG1aR2g5Y05HNmxjU05VU2VFYWdZUEVKSGpQMVktWHcxdWJvNHgyb2lmSFVfNFRTZkhPOGg5X2VYYXFBdmhBNmU4WHI4NnUzWUlfdFhMOUdiR1FvMEVYaGRqazhQNFh0RV9oWW5hc2VleFdKSlJvMGlFMXNIbTJROWh6WHJkSk8zQUI5cDJ5UmZCb3RKU1RzaGRPTmF6T0k0WWVRajl2eHNSOXdnX3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "METEO France",
+   "source": "20 Minutes",
    "region": "FR",
-   "date": "2026-11-26T23:32:02+00:00",
+   "date": "2026-11-27T01:31:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Sports"
+  },
+  {
+   "id": "d17816ba2e",
+   "title": "EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOdFZTdjNVSFpNNHdvNWxPY0l6OFZSeGZxa2FIdXFyWDNLd3dMaFRXUUxjTC1DdnFtdE82dlJSZXNCR1F6SkVaVWozWno1enpuSFN5THhKeTlUOTc1ODRBMk9SbDB5dlRidFJaN251MGVIcTg5cWNINXFFZzVQN1ZVSjJETDllTjFRSEFvVWF5OC1FVHZ4Z2dOX1k5UExaLXBhSUc3RmtNYUsyaU5QQUZnRkhpVHN5R05XU3ZEN2REZGFqTE1wN0Z2ZEw2VjRlMDJ4WC01TTNqN1R4cU9aR3U2bVlaNk9RTkh6ajZGbFozTUZJekNBMjBNVlgybWJkT1dJcENXbjlCbERFX2lLejhCMEFtdDM5OWxzcENmQVZqS2Y3a0JDYUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-27T00:06:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0ebcb4f526",
+   "title": "Un vol EasyJet contraint de faire demi-tour en Écosse après une «explosion» dans les airs",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVFptZUJZbnJkcTRVMU9pMHRrT2ptNjVaX2ItQkxYZ1pwczhHdUQ3LWxKaVFTTHR3ODk3WHhyU3BaRkVndjdUaEhGQXEteVlacUFvTEY2a1lSc0tjOXBrMk9MT0NVbFZJeU5SQl9lbnN2V1FmNnJEYXAyYlNSQXZvYkt5VG5GUGFzVWpEQXV6cWJKWnNHNjhvVFNGRk5IZElCVTAtbHh2dTV3aTR6M3pZUXRocUZxeDNRcUZ1ajQwTVlXSEt1SGdzZWRHWV9CTEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Figaro",
+   "region": "FR",
+   "date": "2026-11-26T22:57:47+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -38,23 +72,6 @@
    "topic": "Society"
   },
   {
-   "id": "abbd4fe8f3",
-   "title": "Salon des maires et présidentielle 2027 : retrouvez notre direct sur la journée politique",
-   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQU293OVVLTnJoN0drWkhxQzBtMHpHdlpna3JDNGJPdmRGTGpWaFlnQUQzWVlRdDRTckNDMnJpLWhMdU5YMi1vODZNRHNGWEoyM3NNUWk1ZlpwMGt4ejdrd3Z5d2JCNFhGeDk0d2J5VmFob09jdEw4WXJnNGdYSnN6eXdMQ3BUYUc3MVoyc2lmUWl3cjVyU29FMGs4V0FyNHMwdjZYeU9Fck9lVkk4UTZybk93MHJKTkdtc0tjdEpmQTN6SlkybldrdXNHcTE1MVhRbjJlVWc4eVlFY3Nwd1I4MHZHZGhrWW8wbVJjV3F4amhEMzA3ckRJQ1pSTlNsZ2xFUlBSOFViQlBBZXZSWWEzdWRUbC16Wmw4RHUtN0ctYzFXa3JFTjBKTjh0c3o5cVVJR1lIX2FJd2tEenRHYk8zWW0xWWVaRF9zXzFSOTI1Y1U?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-26T21:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "563df0893e",
    "title": "Pro D2 - Grâce notamment à un triplé d’Aymeric Luc, Brive donne une leçon à Biarritz et remonte sur le podium",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS19DZDVGa0x1MmpGZElNV0RwZGVEX21CS3lTYlk5UE1ZbVVtQTBWblB2XzdRV2ZGek5pZ2RJRzNlS3NuU2MyVDFMYlYyXzRyYW9xQjZjclVzZDNKTTFFdEdoNWVoenl1TG9tVC13WW4tbFE2V0ZCbjhZYXo1VU5lTTBQbV9OQmp0bnU1djhGRzV6dTlsRlcxbkRYWDJHRXNRak9aNl9LYVRHQ05nRmxkMEQybjZKTHlhUU1ma0k5ZlRkbkFiRGN0WlUwSzRScHhaa1hrV1NwWDc0Vnp1RnNGUTZrdjk3dVNVTVE?oc=5",
@@ -72,55 +89,21 @@
    "topic": "Society"
   },
   {
-   "id": "2bc2addfa6",
-   "title": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeVdqNnBzeDBQVkZLOTRXOC1pX3VVMVJObHg5alJqUDhoRmt2TmJ6RVdXQVRUWGRlOUhXR3RraVBRSDRGcGsxSDE4cFFYTjI3cGxqZzRmMXlLVWE3cTh5NF9UQXVqaGd4Zy1QRDZtOWpwZ3dkY0FBeV9xMXpLaFE4RnZRREVGdTJsTVlkRVJjMlZ1Zzd4dnhXSEs5UjY3VVNqQ3lzamFCTlUtU3J5VzRjN0U4Z2hpbFUwUGV1b1ZnLVhWanNjTUN6Wkg0TFktdw?oc=5",
+   "id": "f97b3009b6",
+   "title": "« L'Europe fait une erreur stratégique » : Emmanuel Macron met la pression pour trouver un accord plus ambitieux sur le budget européen",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNLWZhWjZJSXhQa1lZLVZnQjg3eDNuRC1aUDBIcnpOTGNoZy1aVUxfSmRHNDhoNjRYTWc5Nm9Ba3ZJSlZaQ1ZzSUJWdHoxTnZoT3hBMGR4c0hVTXlCZDg0YTFvTG5meTRLYk14NW82eDhQUk1YY1I1Z25TYlBGZWpwV3lnRW05SGdPTnpvS1l5WFdCTEM2SVJjRXpoZEZXdFExYjZxWHJRajlqbXRUYjBsTDF1VE1uNVMxc21hTjVGQWRJNVlDaFpldWg1TXkzanB5Ul9qeU5rcTBOMjEwQlBBZG04MnR6elV6eHpKaEgzeUV0YUVVSmN1eUVQOXpUTllWN3dn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Monde.fr",
+   "source": "Les Echos",
    "region": "FR",
-   "date": "2026-11-26T21:31:24+00:00",
+   "date": "2026-11-26T20:38:51+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "f7c4403a7e",
-   "title": "OM-Levski Sofia: Genesio n'a pas aimé la panenka ratée par Gouiri",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXlYT0h0TEtZNlNLVmNjNnZyRU00aUwwMUg5c3ludFBsQ3JJak10QVU2V1dQdGNkZmk2M1JfMnVfbWlDZkg5elQ3WDR0a040YnVfMmVZZXY1eWFURTJpaFg5TEdKYy1SR0w1dFVmaTRCR1ZkSzU2WW1hTTV0S1hxdlJzS3pDRWI4SXdLUUtYVlllY1RXM2RxU2hRa1BSbHFRY3pQbjh6R0xzeTRSdV9WYklDWlpWS0xPY2tXd3hDSENCbU1ydUxCM25XS0VVSnkt?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RMC Sport",
-   "region": "FR",
-   "date": "2026-11-26T21:13:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c4bf7c969a",
-   "title": "Les pompiers de Lozère s’inquiètent après un décès lié à un test d’effort",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEJiQ0VrVWFwTnVCZDdvZ1JLbGM4bU9KYVBXOFhuWTRzOHloYWdQWU5tOWczV1RFY0NsY0hacmYzSzFNS2lTY1p6dGdqby1FanZ2QnNiRm9VWE94bmVOZC1IUWtnMnZpQ2p2LW9lOXpxaS1TWXJyekNQbEx6WnBzVWVxVXJuODlYSXdaLVU1S2FQaWtmcllPM290VFFMYkdVNk1iN25kNTBSeTU3a25JRzY3enVqb2ZmZTRpNkhB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "20 Minutes",
-   "region": "FR",
-   "date": "2026-11-26T20:17:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
+   "topic": "Economy"
   },
   {
    "id": "14450097f5",
@@ -138,6 +121,57 @@
     "flag": "🇺🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "aec666d001",
+   "title": "Le Meilleur Pâtissier saison 15 : les vraies raisons derrière le départ de Mercotte",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTJKeEtvMmNQSUZHaHlKU29sOWVEUzctWTBIQnQ1eXpYMERrYjh2WHlyYy1qeXNIOFlTUXJvM3JReHhDcUtqbTVtcWktbGFDUW9vUG5fVkNPdE9tRHhWc3ZHOVdfc0R6MTZMd08tTUFwQlp0enNBUVBCaDhueDJpVUN4VFp6VDUzbkxwMVZDZTlmTXVmb3ZJRTI4Zmg4SFFvd3dIUUpCN3RhMEF0OVM4WmE2NW5BX2t1?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Serieously",
+   "region": "FR",
+   "date": "2026-11-26T20:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4d27d1eb5f",
+   "title": "L’ex-époux de Karen C, la policière niçoise tuée à coups de machette à Chambéry en 2023, condamné à la perpétuité",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbzc3VlVJQkd3UjVwQzB5QUl3Z2FZQXJtV2VmYzBRaEMtdVNmaGd4TlFsVWZndC1sUnRfZXBOVnhnNDg2VHJDVUN3b2FOckNoMnVHdUFZLU5UdFlsZVlic3VJd2Z3LTV2UEgtcmFWRDJkQm14aTRMTWdwUVQ5bnh0Rmd3RXhwRW9LaTBoLWhBMHZzVm1ZZGZHMFpKbVBaTGN1SUYxZkY1aG1tcWFJWTJNWk1vdGd5NkpucFYzYWQ4Y2FlSG5Zd29kc0k5VGF3M0N3bTNZbkp6WVg3elNOZmtnVVRnMEE0OFpDRE1pNE54WG5SVU5P?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nice-Matin",
+   "region": "FR",
+   "date": "2026-11-26T19:26:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c43cd6115d",
+   "title": "Affaire Depardieu : blacklisté en France, à l’affiche d’un film portugais, en salles en Algérie… Où en est sa carrière",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPOHFCdHZRLUkxeGdfQzRSV3otaWN5bjZXSEx5SGtVLXV0TGZvbE1YLVpqUU9wQmFtQm9rdnV2eU8xR3RSSGswOHpEOTB6ak9wbnk4LXhhdUJlZWhiQWZFUUpPUlY3NlBseXNqejlYNEM2S05KM3llU2RBdEZYR1JwRVFrNUZvR214Sy1icm9xdjdtOUp1dDUzU2tLZVVzRHI2dXZCQklYeEx4ODd4TGJ3M2JpSkxEdFRWRlQzTERpV2dJNGhMSEtWUC1pSEV2Q0g0b1h6ZmJGeE5XUS03b1lGZXNRT1Z6TDc1d3BiYjRSUEFIM1VLalo4NWpLWFBKQy1MamxucTF5Z0dtVHM3MDNmRmh0TDZlZWZITTFrTWl1cVVObnpIRkxnWlJB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Parisien",
+   "region": "FR",
+   "date": "2026-11-26T19:23:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "a6f690a1ae",
@@ -165,6 +199,23 @@
    "source": "L'Équipe",
    "region": "FR",
    "date": "2026-11-26T19:05:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9e0fc55145",
+   "title": "Christian de Rocquigny, le procureur surpris au siège du RN, reconnaît qu’il était informé des fuites",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTF9oQnotZTNSVTBnanJPVHFueXRSdVJoMWNnT3dmYVZmdkVHRzFhZjNEdUlsOEJsZWtTNzNIaTdPZFhySWk4alNGVmV6bkFZNmVRekh2TlVoaHJTdE1hSllfQ0htdDlOcmZyY0FkRE5sSUtYcTVOalF2bjdiTHNTNlY1X0JOeDhLSXJCb0s4TzJKY28temJpS0NPSkI2MVdsclNPbk9oQUMwRHR1UzJKazJYVWxsVjJsSllMVjg3THg1YzI4SEczUm9za242Wi1TbmNUNUdMRzVrV3dIdm9rXw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "L'Humanité",
+   "region": "FR",
+   "date": "2026-11-26T18:13:52+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -208,48 +259,14 @@
    "topic": "Society"
   },
   {
-   "id": "2dd332241e",
-   "title": "3 ados tués à Mayotte en six jours lors de rixes",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYngwYmRiYnlILW9lQXZadVpYZzdxN09zTWdlRTVxNERNSTRzaW9EZzhZMDYyeTR2Unp2SEFMbWl0cl9vbnQwa0hsdUpxdV95Y0kwWnpCSjMyY05LNnZNY2FKdmtQTy1yYVQteDZYd2hUS3Y3YnZZdlJRN1RsOGJrNE5jVXlPdGttR1l6VEFuUC1obFpYNHZIaUNBZlBfNTRnb1FlWWJuUS1GVW4zVFk4?oc=5",
+   "id": "606d343f07",
+   "title": "Hellfest 2027 : 300 groupes, une fête à Gojira, le retour de Marilyn Manson… Ben Barbaud dévoile une programmation historique du festival",
+   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOZkJTS1dxUzNmT0JHSmhEeS1TTmdkeFVLTlA1UDJUamU2S25nRVFSbkZLWlFITTFUc0Y0WGJzdHZpY0x6N3FROFB6eVpmN3gtTDg4TXJzeFU1U0tSU0hQWHU4cnI5WGtTUF9LNkNXdF81UTFuMTY1V3M4aXU2OGs0VHRZU3JmVWhBSFlBSURFa1pENHhoc2pKa0llLXlITldvNUo3RnZRTU1vM1k3bXRzOUlOYllXd3l6bFlLQnhSYWJhVXRvWFpwQkNhVWFKSWRBcUtSbkt4ZkhfTFFFLTVfZEJIdVQwd05MUzJDYzlKM1lZVzVWVWR6QU9kcl95VnJQYU9yRTNBaEZ3azdaV1ZtbXZ1MmhSMFVJYVhFUnlzRFEwV0ZLN3ZhOFZDQmRtSko4NGpQWHViNWhXSWpJTkdhUlBtbDVlT25hdWd5bWdJa25GN0k?oc=5",
    "summary": "",
    "image": "",
-   "source": "franceinfo",
+   "source": "Le Parisien",
    "region": "FR",
-   "date": "2026-11-26T18:10:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5993406827",
-   "title": "Hellfest 2027 : le festival fêtera ses 20 ans avec Gojira, Blink-182, Evanescence et Mötley Crüe en tête d’affiche",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWEpuc0tsLU8zZGRxYlBqbmU0blBsd004Vnk0aXJ6NWpMbU9oV2lZaVFTUzJueU1MMEtQdG5BbEZnOWx4SkUwWDQtNm5vRl9ITHpCeGFFQi01U2xhQ1MtSlVKQy1KekRFTGFNYWRQaENDak1BUVQ3VGpIN2xmQ2wtZlZVdVJ0akg2bkNzVjRaTzE4TGVBZ3R6cjFraDFya2NhT3ZXU1V6aTFXdU84QVNwZ243Y2UwTHRISjNLdnlCem5IWVYzcjcxNGw4YWd5NlkxaExxLUJDel94ZHN3OHNUZEhsSzhyT2Z3YU1qSmN0aFpkZ0xERG5OemtSak9XX09SdkpWX1QxaGtOZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-26T18:00:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "440afc3a36",
-   "title": "Présidentielle 2027 : David Lisnard testé pour la première fois au second tour dans un sondage",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHFhakplUVp4NU5CTXVsb3ZMdWxTSFN1VWlGTjFCZFZwdGo5eHFkOWxXNFhuVC0wTXp4WkJ4Z2hlQW9QeEQzdE9rNkE1M3Y4dDczdEt5TzVqVjVYaC1GcXc5c0RjMmxSanV1cmVTcUd3N21UZmlHX3Q5V3JfQlNLdi1abERtblltU0RValI1ZERGU3FtRHRwVEQ3cW9JMTJUVEhBT2trSHZkcllGY1Z4VFJRZVlQMGl1bElhRU1iVVRKaFda?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "l'Opinion",
-   "region": "FR",
-   "date": "2026-11-26T17:53:00+00:00",
+   "date": "2026-11-26T18:00:06+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -276,14 +293,14 @@
    "topic": "Society"
   },
   {
-   "id": "ca98be5840",
-   "title": "Smic, prix du gaz, heures creuses d'électricité… Tout ce qui change au 1er décembre",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTNYNWxDTmhibG9Zc0lYQk1ka0FtMUljdVplMjlZN0VTblZxeTBjdmtYTnItT3VqaDFYX3lMYkVTX3kzSGQySXFxQThnQmhVNmVsaDdqWXJiSkswRlI0U3hmRmM2THkyQXY1VW1fTWQwYUtFLVdEN0daYS05aXZ6dGt3RURQQVFsM2lHdkliMXlaOFdJRlZEQ2UwZ3Z5bm56bFVDQlZUeFd2MnA5OE80WHRaLWw0RG41TlHSAb8BQVVfeXFMTXdjekJGZUtjd3NXbTdQQ0dXUHNoblBsc3ljUDR4OG85RmJmWmJITEVabmplZF9CWHRWMGxJb0pDWFRvUW95QVl3MEU1aVpxZ3l4dlN3cko5UVAzNlBBNkxfenhsVGctMVZDXzAwaF9PbmRLeFFHMndZUnNYdzQ0cUlMb01Ed3hVTFRsdlRqdjNHcjZOSTZBbFMzWEtES0RPRjk4OExlX0gzb2tsZjdMeDNIVlBGR01YSUg1U2JhNE0?oc=5",
+   "id": "71da9cae95",
+   "title": "La Bourse de Paris en forte hausse jeudi",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmxlQVRHZHJaSU5BQjlGcmUxd0l6OU44MER6SjVPdVIxUjBGaHRlZ3F3SWdab05XeVhYaXNWcmhhM1ZoNDNHVGRMWkhNLUI4UGV0MmZ2djNSOFhCVGRGU1pDajVDWlR2bGFrSWxWN2tteTlTTTA3b28zUmNNNGxDbjdndXhYaS1lTkdvRGhuckpJekJiQS0zOW5oMU9teXprZjJWNGhSbXVQMGV6UDZMa0FodTNPbmhHNlHSAb8BQVVfeXFMUEJaNkI1VDBhMXlBZm4yUHAwSjkycnk3djQ5WnQtRG5iWmtYbk9JYXZma1hXQWRrNWRQZjd1c2hFTzI1NEFzR1g3OGJsNWgxR1BIam9TTlRlQWU2NTQ1S2RuOVhQU0Z3dlhmT2JveW04dVhzNFdKai1DYkh1Rm5JZ0RReGNZcDFVcnJsSmt1bk9LZi1KOHZjZjVEYTBldVpac0Uxa2xwVWlEX2RrVFU4TnJNcmYwUG5Qd1RIVF9BOGc?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNews",
+   "source": "Boursorama",
    "region": "FR",
-   "date": "2026-11-26T17:30:47+00:00",
+   "date": "2026-11-26T17:43:16+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -293,36 +310,70 @@
    "topic": "Society"
   },
   {
-   "id": "906309f333",
-   "title": "Robert Ménard : « En réclamant la suspension de CNews, Reporters sans frontières trahit son idéal »",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRkNELUluNTNOWnJUUjRXVC1sSEE1Z2FMTVFpV0lORkk2bloxcDhpSHNwMmFUQlhtN3pxV2VNQkg3b0p1X2FaOUNPTUllZUt0a2h1Sm02ZjdER2hJUVFVT3ZBQkEwUkxneVQ1ZDBOdFlPQnV4em5ocWJQd0ptQXJyZjVqT2hGbElfUkg4TDBJekhGSEV0UGhaakxweUVwN0JacGtVMU9uRkRFaTZ3VzhtRGl6WHhZWjZRai1yM1kzQ3Z1aVUzRTFOb01WREhNVEplMGdz?oc=5",
+   "id": "1ef6e1bd00",
+   "title": "Présidentielle 2027 - Sondage : David Lisnard bondit à la troisième position, Marine Le Pen toujours en tête, Edouard Philippe poursuit sa dégringolade",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQb2stbTNmYkNOTVVjZTY3b2p1dmJEd1ZCS054TTl3d3U3Wnl3UjFONHRMQkVYQmxveFJjNGU5X0Y5U2t5eHh5RGh6LXYzcUR5cVlqRGNoektnN2RiNkZzS1htc1VBc3ZIb0pfOUxQOU9kRDhNRk9UeWNvYUlyeUhnZnRHLTBQd1pKN3o0U0IyQnJ3ZElKSG5aV1lFdktPRkIwUHZxc2xSM0wzRFhGWm9VQmpTd2pSVXFqQXloSlFHWDg0SGJxcEMzMjFNaWFBbVRDYVBLNGVudUh6WHBkVEVQZ3B4TTRfWjRPWG5HN3VjMDhDdWI2NmZGMzdod0xGM3lVSE9nWVJNelFvbWFLcTcybzFhR2tKa2toanNoek5rYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ladepeche.fr",
+   "region": "FR",
+   "date": "2026-11-26T17:36:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "69f9081e8f",
+   "title": "Black Friday : la Fnac baisse de 25 % cinq PC portables Asus à écran OLED, jusqu'à 575 € de moins",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGY4YkxoWkl5WlBraDd4b2xOc1hxWWM3Y1JLa0NVaGNHVVN1Q3FFVGtyY3lGdXo4b25XbDJmNjFVaFpZc1dBLW1HeV9EZGpOeHpwMTlNLWo5NlhTOFVXamdOQTBKWDJqZ0dESldpNVM3RmE2UmNxY0x2VDhtLXEzcWZXcnhmU2JIZzUwUC05Y2pyWEJQR0xmV3B6SzNOdWQyWTUydEQ2dDlSMF9Od3IyUjdJd1dqdmxkNkEtNFNobjNRM01XbW16aXk4TQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "LaptopSpirit",
+   "region": "FR",
+   "date": "2026-11-26T17:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "303b60d02d",
+   "title": "L'Europe s'offre un net rebond pour Thanksgiving",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlZaS00xZFRWd2k3WjZFMThPUGZTcURsVmtzX0NTX1FCSk5UdE1HY0xEZVQzM0llOUhBeU1Yd1FscmRpQ3hoQmpkMW9JOFBNVENoVkJwWk4zUExhVWQ0bUJVbWRRaVhCZGtiSzhyWXNpMXR0VGJhYTlrMUVUYlg3VkNaX1ByN2hWVGdDejVnVnVKT1hrMjlwdXVsZEdLSkpsYzI5RDJPWTBkWnRncGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Zonebourse",
+   "region": "FR",
+   "date": "2026-11-26T16:57:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "28e8faf779",
+   "title": "La chaîne de télévision prorusse RT ressuscite Dostoïevski pour défendre les positions du Kremlin",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbmtTNzRVSTEwX241SVcwOEZWM3I3M1hfX1lIcF9DSkVfSDJGLVE4dEZwZHZOc2lEb0FrN0o3N2JvQkhrcEMwSk1mS0ZZRUpucUptUzl5dDJsU2dFMkdyRWo1NXFxcTNaaWFJSzJCcm9lT3FJZlFoZmxsSU5LcW1qOGMtbUw2NXR5dFo4SHM1OTBaOFNkUU9PTWVwbkZTVU1ScEVMLUxxZ3VKcUl2dzNuUFd2d3dGZlNjN1dqNDF3RkNWQTRnbGNjVElLQWFFMXMtNWlya0ZsWkRYMEtt?oc=5",
    "summary": "",
    "image": "",
    "source": "Le Figaro",
    "region": "FR",
-   "date": "2026-11-26T17:12:04+00:00",
+   "date": "2026-11-26T16:33:37+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "Russia",
     "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "183dcabdff",
-   "title": "Renault : le patron de la marque Alpine poussé vers la sortie",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHJ1UFB4THdjRDhRYVotdURJMldCdF9FTzFXTWpZUGh5VXZpVlJrTC1uQ3hVSUdqbDBwQVFReHVwVC1haGppckVXRG9RRlBmY3hzNVBNZUNmS251TGhMRExwTGNvYnNvcFppZUlVV3RWOTRGM0E3Y0JDZGw5NTY5MUg5WEpuUDFlS0V5TXNtamtyemwzNzJtZVZPZ2pLZjJURTgtZFZqZFVaR29MSGZHd2k4SkZhQllfTzFWcXlR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Les Echos",
-   "region": "FR",
-   "date": "2026-11-26T16:41:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
+    "flag": "🇷🇺"
    },
    "topic": "Society"
   },
@@ -344,21 +395,21 @@
    "topic": "Society"
   },
   {
-   "id": "2ce833365b",
-   "title": "128 Go de RAM et une puce Nvidia N1X dans un format 14 pouces, notre verdict sur l’Asus ProArt P14",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc3gyZXpMOW51bmpOczdQTU02LXZlOU9iNzBtcG1UY3BaRlowNzczZnBwZmVkYUhNWnRiQ0lFRTJFcy1ta2ZNaGhoVnhPSG4way00cmNIdmVjVy05RnBwaHFLWmQ2cE9GYV85elFjMjJHZUdsRWF6TzUybkhFTkROeTA0cktxRm9TTXc?oc=5",
+   "id": "833fae4d9b",
+   "title": "L'Espagnol Pablo Hernandez de Cos va être nommé président de la Banque centrale européenne",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWWlHX1JMLUw4bjRMcWNtb00zWW9IeEU0aUpwMW56SW9seHVCRVEzMlotWUx3V0pCOEt5N0YyWnBZZzY3b01yVmFRX0hxUlZWWEhONkhqUHJaazVjdTBVcXh0MkhLcVhvQmlfa0Uyc3dyS2FPenBfYmRJQ1JlMzNDb253cWRKT3gxcjgzcEtOUWJVQnpUT21Jb2JaS0lKOS1JdmFnUHhNWmh0R1h6MEJrYVJMVkhPbzZxR1E1N2NWNmhOM2hHbkdHZW00Y1NNcjBvVEdoOURzV2twekowNEVuWUpscDBJeHROMVJj?oc=5",
    "summary": "",
    "image": "",
-   "source": "Les Numériques",
+   "source": "RFI",
    "region": "FR",
-   "date": "2026-11-26T16:30:00+00:00",
+   "date": "2026-11-26T15:25:59+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "e2a3eb4937",
@@ -376,23 +427,6 @@
     "flag": "🇯🇴"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "ba254388dc",
-   "title": "L'Espagnol Pablo Hernandez de Cos va succéder à Christine Lagarde à la tête de la Banque centrale européenne",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQalptTzFaVDlVbEZGZWxwRzBjQ01xdzZRdUFLVE9fVUpxeE9iTWhHWkVObVBJV2hVd0RoMTI2STVvZFFSbWctQ0JGcklZdXZBMzdzNENHT2lWcHY1cTJva2NVa2pINnU5aXRCRU4tV1RoM05WRFhRRm53Ny1ZOE1Ydm5wTExWUHUtMU1ncEpGWlNteHlvOGU2b0t6MWxYME9iYzQ5ZV9XX0JSZlhLeXMzUW90Zmswd01lcnFNVk9wWWNINENRa1p1RkhaZ3NSazNobVZ1SEsxU2pMOERWOEpkMWhzdEdkeEhrWVJYNXMyejNOd1JuMkNTcERyR245X3JyU3ZYZ3dWc2NwYVl1Q3B0eGFnLXdtZFFsaDdRRUwtZ0phTmYzU0RNRW1VQ0NIQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "franceinfo",
-   "region": "FR",
-   "date": "2026-11-26T15:14:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
   },
   {
    "id": "11e37bdade",
@@ -446,55 +480,21 @@
    "topic": "Society"
   },
   {
-   "id": "8ad99dcf8d",
-   "title": "Gérard Depardieu est renvoyé devant la cour criminelle pour viol commis sur la comédienne Charlotte Arnould",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQekxNZDNaU3dfeDNZbGpCQ09jS1JsS2pkMFcyZi1qbG45T2tYUXhLaGNTOFpuRzU4b0FhaGxTQy1BNnFFNU1icnVRV2hoRDNBUXhGZDVBMGJ3cW1GdjBsWnQ4QldMV1ZjT1FPUGNWYjJnWEtpOEVEZE8xYWMzT2ROa3pab2R6ZmZzWWVXNjdfdmN4N1VrVHpkVFNZVWx3LWpXeGY5YUh3TFh4cldnR0tWOUNfUE5Zd3lmOE9qbzhkMFFMOEk2VGMyank2YVVZeWNUVDBCRno1SzE4bmszRkR1UWNZSUNZUUNOb3pZVGdmOEN6SUV2VFE?oc=5",
+   "id": "228e9e97cf",
+   "title": "Île-de-France : les hospitalisations explosent à cause d'un virus autre que la grippe et le Covid-19",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVRmUGMyaFJhSmFOMlduSzBnV2hZOGNtOFE2R2c5UXlOSHJpNDJwRXRJenJjNVVKQnk0TXlxc01Cb1RDXzk4angwckI1UUxCYUpJbkRIelU5eUVCaFk2Y3FaTnRSSzQtM0k2UVBGZEc0U09IVnNOalJhbURyNWRzNTJhTjR4WThVd0FfMXpCTjNrYkVmbmYyak1nbmZER1ltdjZja1g3bXFGdVpEd2l6LUFabXM2NGpxZFHSAb8BQVVfeXFMTW5hRzBxNXRKTjhid1lvbEhEcElHdkhyeVZ5clVBRUxjeG13VUthSE9VQkgyUVUtV2QwSEFLWVhQTnFqS2w0UDdlVDhpcWx6MWV6Q0JDbGxMUC1JZEM2dnVyc0VGenloaldRbVdNdmxaU1IyOTluOTJzcDR3eEIyOWNuaDBieVdTWGVJRmZiMDJDS3RnV050VlNyNnhtT0ZweXY2Q0V4V1FtZmo4VE9HSUhzLURROEVFUTdjRG83UFU?oc=5",
    "summary": "",
    "image": "",
-   "source": "franceinfo",
+   "source": "CNews",
    "region": "FR",
-   "date": "2026-11-26T13:25:20+00:00",
+   "date": "2026-11-26T13:02:12+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "ca60ecfe6b",
-   "title": "Cybersécurité : \"On se prépare potentiellement à des chocs\", déclare le directeur de l’Anssi qui évoque un \"niveau de menace sans précédent\"",
-   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPRFVDTko3dFNNZnFZMGtOdzU2Ym1iTHFtWmxBLUVlUENQX2dFWHNtd091Mk1WVHpVUURQdWgwY0Exd3hZbkxLZVNEWDF6YzZ0R1A4UHBtb3psc3RGQ2RiSWZZSEdmWmlMQmpubEZmT1VnXzlJUTYtWThlS3FyalU3QTB0bzAwaUpUbFVMUC1VUEZJdnpPdWZIQU81Y0NfZEpaeTVnWE9UbktJS2FBZWJzMThlb1h4dFl1dDc2bTR5TDBkSlo2WmRzSjdBRGQyX1o5eWJRb2hpN3I3UkFheWpna1N4Wl92NVNyR3RqS1hHMGlPdnVmQmgzQzhlRmtNMHp3VkptdExUak81cUllMjU2UFlOTEhxZkR4Zlg0NXNjWVRna1lvVGxLUFhURjlwNG1XaTdUcXJvbFlrb0FVQnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "franceinfo",
-   "region": "FR",
-   "date": "2026-11-26T12:42:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "44c1350bd5",
-   "title": "« Ce n’est pas notre guerre »… Quels étaient les liens entre Riner l’athlète et la Russie de Poutine, fan de judo ?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3A1dE5aekZhR0Fxckx3WEZ6aHhOS1VpTVhFbmJocnFRMDdfT0dmcTZDLXBkRUlxS1g5XzhFbFVIVFBBdm9YV3hpNDAtZXg3eTRHRFdhLU15U3c4VDV2NDZiYVNMZEs0R2xoX2M2a3pKTmp2b3pvWkF3eEdlSEY2ZS10SmVLRnl0VTJsUlNOR2pzMHF4WFN1bXF4Rmc1dFcxbGN6dEx5VnN6cnR3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "20 Minutes",
-   "region": "FR",
-   "date": "2026-11-26T11:35:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
+   "topic": "Health"
   },
   {
    "id": "07d06e4158",
@@ -505,23 +505,6 @@
    "source": "La Chaîne Météo",
    "region": "FR",
    "date": "2026-11-26T10:57:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "71b4626330",
-   "title": "Simon Abkarian prendra la tête du Théâtre du Soleil à l’automne 2027",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdXQyOGEyUXpqVTBvbGxveGtOV2I2X3NEc2xLNGZWUGxERXlfMUduZE5mbDZGS3VzeW5HNXhqUzJyTG5kM2ZHYkxwdHJ1VEFyMFhfVzRmbldTRERTMm00eGxhZUVEaUs5Wk0yTlZwcExSY200NnplaGs0bGpSWUtPNXIzQS1sWFVpV0xFSThSUG5jMGNIeVBNc2hKc3A2NGd1bW9GTjJZT1VlQmJIMnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-26T09:56:15+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -548,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "ba297f0599",
-   "title": "VIDÉO. Rempli de plants de cannabis, le bunker géant de 180 m² était caché sous l'aire de jeux : l'incroyable saisine des enquêteurs espagnols, cinq personnes interpellées",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZFJmZ1Z5UHg0S1c3d1lUaUhVbmp6cE5GNU9GRWFjdy05MWdISGNnczdqNk5qN3ZyUzBzeG9zcXB4QTZJay0wd1ZlM29sYVJTalFPdlZrVkpCc1hudXJNbHNnTmQyUms5YmFZSlo5bVFMU29mQTdoTGVsQUxybFlUTnh3VHhVTHR5d2RySmdtYkpFSDd6TlhuLXIwRDExeGNHZWNfcWxhU2ZTbWZTVUZYNXd5eVZET25ZSmVVU0E0and5TEQtNjNWWjYwd19CTVhXVExCZmRFVUJxYXhZQ1lmSWtCTHA3cFF5ZU81N2tiT2g3Y3B3VnlSbnFONl94SndRMk1NT0N6V0x1dk9XaVVKMGktcUJIWWVvTlE?oc=5",
+   "id": "be1bdf28a0",
+   "title": "Le froid s’installe dans le pays : découvrez la météo du jeudi 26 novembre",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0RKLTBuTEV5M0Y3MHNIam15bS0wb0RjMUVIY0xsTTltaUVpRUhOWWpvbzVXbGZmUzI1djZGOW50SEJUVVhyQl9vTEh5Z05jekllTlB1WjFISWJSN0RxcHNuSjc2aUQ2R2xPSjJRWnE1a0Y2WVVpREpFbDRCd0ZIdFFVdG0tb0FLZHVZS285M2dwUDhtSjR6RkIzLWpfRFVOUFpmdGY5V3RETGFWSVVWbw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ladepeche.fr",
+   "source": "Le Figaro",
    "region": "FR",
-   "date": "2026-11-26T07:30:00+00:00",
+   "date": "2026-11-26T06:42:17+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -565,14 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "4d1bf5456e",
-   "title": "Traitement hormonal substitutif : de nouvelles recherches battent en brèche les idées reçues",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3JjQUFfa0NwUFlIRkhxRnJLYUxmWTE0TzVNTnZxMmV6dDFIbXA4VXJCTDVRSHpMYTlkVDBEZ3JfTXZwRWh5WF94RXNfM2ZNUWt3emZVZjNyZ0NHOVZUU3RseVUtRkM2Q1dNZ19YY2Z4Z3hIdUpVUWpRSm5YTXBWYWd5cG05dEk3emJSSzhuSjBSLWg5TC1GR1RHMWowbGJkYjVWaFhsbWlJQUQ4M3JkT1ZKRnNQSVh6VkN2MGgzYXdqMHBseGtUWF9BYlJ5VDBqZl9YUHB6NA?oc=5",
+   "id": "ccf6a6615b",
+   "title": "Présidentielle 2027 : \"Il faut plus d'humilité quand on fait campagne\", tacle Emmanuel Macron en direction de Marine Le Pen",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQakRWUnBkRmRiaEoyRS1CeGxQa19ISGw4dmQ1QzVuZXpBTi1JUDlSckVPZlJsUXRWMm44dFVpNEU5azZVLWVEd0d4dlVGQlFMMThETFdscXhRMzR0VDA2NXhMUldjbFM2amNWM1BWcUd1VGFSUUk5VWNPYnRVajVmSG9OWml6VGZMY1kzeWU0N3lfUlZvdl9xUjFXRFhCbF8yV3VWejVwNWRrRDc0a3hfLVJnTFUwRmgtNnNOdzhUZkh3amlucGcwUTU3dGozNEd1dmRNVlF3eC16Ny1JZW1CUEdYODg2VlViOFNMQS1fUm5oQUtHQzJqdWFKczM2UXZPMVdkcGkxSzM?oc=5",
    "summary": "",
    "image": "",
-   "source": "National Geographic",
+   "source": "franceinfo",
    "region": "FR",
-   "date": "2026-11-25T15:39:00+00:00",
+   "date": "2026-11-26T05:55:03+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
