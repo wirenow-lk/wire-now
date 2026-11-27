@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:43:33.762445+00:00",
+ "updated": "2026-11-27T20:39:12.733070+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "n-tv.de",
    "region": "DE",
    "date": "2026-11-27T19:36:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ac65ae9d4f",
+   "title": "\"Mein Körper ist explodiert\": Johann Lafer schildert seine Krebs-Erkrankung",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb25kaDh1WGc4WlROcF85R1lwbGFiRElaR3VjU2tTYlNTaTlFUFJ6ZWhvRExEMTV4VGtYMFBob0NDRDdvXzdydU9LZmx5TVRZNWhtX1NMSFBqcHpwMlJIcjN5UVFzMEQ2U0NmemFZdjhQUEZidmRkYkx0dGs3OTZhSEJXSUpSYlFwMF9heUFkLTM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-27T18:58:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -55,14 +72,14 @@
    "topic": "Society"
   },
   {
-   "id": "f358c3c032",
-   "title": "Heidenheim vs. Nürnberg Tipp, KI Prognose & Quoten 27.11.2026 – 2. Bundesliga",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFJrRzBINV8zeXZVaUV4TUJpS3EzVlREVFRwZWVrZXBCc0NxVTNxME1GV1VCNWF0UUV5aXphVEJzOTRjMHRZbElhQWdZSUxtUVV3NDBWUzIyeTc0dWI3NDhac0ptbkZreWpoV21fVUlGTDlWYUtjRFEtbWhjQkNQMU5zWXFaQjR4bXZZaDhkYzZ1djdzQ0ZkZndJbUhtX25RdXV5Qw?oc=5",
+   "id": "8b7c7b7ce9",
+   "title": "2. Bundesliga - 1. FC Heidenheim vs. 1. FC Nürnberg heute live im Ticker: FCN bei Absteiger gefordert - Liveticker",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaVM4TVJqTEp3aFhuRDVfcnA1bU5YLXVnXzc3Ym84ZURzQUROdzk5dXRmVG9nLWhpN1dUQWZ3Zkhqcnc1cjJwZXlER1FiZVNYLVhaY215ZGtxVmtQMmFzRkMxV3EwTFFVSU5QN0lGREFrMWxMSjNKYnJ3c1h1aXhVUXQxMzY3dnQyb09weWx5TnJRVUhDNElRWDZ2S3RfS2dJMzJCZElDVndBTklUQU52UHN1UjhRVTRlOVhGQ2xnSQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Wettbasis",
+   "source": "Eurosport",
    "region": "DE",
-   "date": "2026-11-27T18:01:38+00:00",
+   "date": "2026-11-27T17:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -70,40 +87,6 @@
     "flag": "🇩🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "b1743d03b7",
-   "title": "Kaufen oder warten? Dieser Deal entscheidet über die Zukunft der Rheinmetall-Aktie",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONm5IY0pHU0FKeFgxNEFEQTV2b0VrSzRLdGpoaE5kamFITGQ1cHlTaEYydWZ6Ul95eUJqLU5TN0Y2S3NiWVJ6MFloTUNkak1tTkkyYU1VR0tta3hrZ0FhN2tTa1ZIeWpLWTk1d3AwNmhFWHFUb25fdlBtSnA5RlZQTi1Ma1RzNHYtOG9lMUlfVGpIZFJpd2xoaGU5M2VRbmU5alNVaDFyNFZDVnVyNTdkMFdyX3ZOWVRrWFpsTzE0VlFlRms4RXh6enVjejVOODU5VG5DU2VOQnM5Wk9oOExFRw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WELT",
-   "region": "DE",
-   "date": "2026-11-27T17:37:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2051c15206",
-   "title": "Viele prominente Gäste: Abschied von Filmkönigin Regina Ziegler",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnBwZHYwWFhJVkp1RndENld3Nkc3Vk91MVZVOWtlMFpHWnFoOFdQOTlGdE1FeXJsMUNQSGNSaXBpeWs5Q3p6QmlmMHowWktDQnNvZi1EZHhYX0g4WDN4VmNsd0NOejhLM1pVZm9iUnlWMVRmWG1oVHJ0RVVqU1hGWmJaMnVZQndCTHpVNjByX3J0MHRQUWswS2dUOGQ1RWVkWHJLTXVIcml4dEx3dHRCYnhGSktINjV1eXVKMGZ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BZ Berlin",
-   "region": "DE",
-   "date": "2026-11-27T17:07:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "f72770a926",
@@ -123,14 +106,31 @@
    "topic": "Society"
   },
   {
-   "id": "97bae0e4fb",
-   "title": "Kodak SlideTag: Schlüsselanhänger mit Dia-Optik und Tracking-Funktion",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2lLeDFVUGl5aTF6eW5xT1JXSmlxQUJ3UEFLNGdteDlDSE5Zdk5zRzZyR0RleUZ3Y1NacndCM2E4andGVndLYUFieXpiMnJwck5ocXlpeVJZd1AzLVJ4azJaTlhtVFgyeTk2bk1hMVk4bUpnQzIzVWxjU0tkSnVGTEpQOFFGVmZ5OGlmWlg1a0s2U0pTT0xJWVNQejlrZlBsc0FzWGNQZ2VfWkRCNDVF?oc=5",
+   "id": "9e68096b40",
+   "title": "Vitamin D: Wann sollte man den Wert bestimmen lassen?",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTVaRUtvRkp5S29YUmtnaUwtM0RRWnNPcVNRaHlWc29hZll4b3NiUHJfa2MweHFYMG5fZWowdUlLZHo3UXlnQ0FmRzdnVEFxZHcxc2phWVRuNXBicVJJdmFNQVJGcnkzWkJGMVg2Y2ZwQU5qZ0dYMllRR2xfU2N3aWhsaHVXOW9JdFZMT1k5bkhwYWJhRXpJYU4tbWxUY3hhVUozRlB2eWJ6NGVaRDY2UzNR?oc=5",
    "summary": "",
    "image": "",
-   "source": "heise online",
+   "source": "STERN.de",
    "region": "DE",
-   "date": "2026-11-27T16:35:00+00:00",
+   "date": "2026-11-27T16:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fa8668086c",
+   "title": "Helene Fischer kuschelt vor ihren Fans schwer verliebt mit ihrem Thomas",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFpHaXNwZ1luRFpPNW9TWm0yeEFXdU9pOWZMUHdMbG82d1Z6Tnp0b0RHQWV4dnVEUU9vQTY5NWp2NWktMWVJSEpvWWtadzRnS0JPbUdNSDlrS0dtaEdrTnJXXy01THQyVUdSQklsRVlScVI4aS04SHAzcjVNQTZ0QVZ0RUJ3UzB3b3Z5TGVxSjhLY1FiaEpSZ3VJcVVXRXB1Y2xIOGRYY0dXMnIwd0dYVWN1MEhiYlBOUFBfRjVPUTdXWHVEQ09IMnVTZjQ5M29xblpYeXI1QWhHa1VBbV9DSVFmLVA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BUNTE.de",
+   "region": "DE",
+   "date": "2026-11-27T16:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -141,13 +141,30 @@
   },
   {
    "id": "2bf99a60fa",
-   "title": "»Wetten, dass..?«: Nina Chuba und Herbert Grönemeyer kommen zu, ein Bagger vielleicht auch",
+   "title": "»Wetten, dass..?«: Nina Chuba und Herbert Grönemeyer kommen, ein Bagger vielleicht auch",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcV9UaU1IZEcxNThJODFEbTNBV0cxY0ZkMG12T0ZXak5ZR0JlR0RLRkNaSlZTU2FxVF9TOWpxVGJtMHFwREFoY2dHT3ZrVTNZQmhuc3lJZGhocFdxSV9uR3dNaXoxWVh0Rzh3N1MtNXVHN0NCcTY3cDRfUUplTms1YVlMbk9SM3M4MFVoSWhodXpyWmRaTEZPdEJ1c1c0RHJpTkJreVhvYTBDdWxvNEpxRUlLTEhISkNhdDdzNG91SVUyRTd4U2hWUktLUFZ5NVY2cWNDZlhGTnpWWUFYTEdtS1FJZWRkQkpCV1hF?oc=5",
    "summary": "",
    "image": "",
    "source": "Spiegel",
    "region": "DE",
    "date": "2026-11-27T16:13:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ff629cc2f4",
+   "title": "\"Bares für Rares\"-Verkäufer hofft auf Sensation mit Flohmarktfund",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTg4ZVFuOHM1N1VhV19ZdDVRUXRWNldNQTBYcDZGWHF0V0pqbFJCZjJGd2FQQ0tiVnlNSF9Lb3R0RkFWX2xqNURrMHR0NWVJUEdHT1FJN1lDY3B0OEVnOVZNUlYyWDFFRmxZN3EwMzJXLW1hZE41UmltQm5YME8zQW00UHU2UUxKWDdaWlFPRkRKejFrM3A2SloyYU1MLU9MSmVNeXFaQ3VidkxnTXhHODBJSlVFcWlRQWMzZWhnajdYUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WEB.DE",
+   "region": "DE",
+   "date": "2026-11-27T16:05:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -191,14 +208,14 @@
    "topic": "Society"
   },
   {
-   "id": "303e1ea651",
-   "title": "Rügen: Tote Robben vor der Insel – Zwei Fischer verurteilt",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFFvVGpIUVpJczdFY3dzaWRsa25sWnl3NWFvM18yZjdsRE16MEtvM0pMaGhPdmg0ZDN3WFc1dUw0ejZCUms0UHpOVjZEUHdWLU81UjZtSFNjcVJnNk53NVBoUUdGYTdZTXlsT2hHN0U1MWJDSThPY1A5ZWxxbXhWc3dSM0V6SHhHcm9HeHF1R1M1N1FMQy10SzdrazgySUtiWVJWckFpVTNfMjdvY05VLVJsSVFTU3FJa2IxOHpmd1JrT3JSdnJMdVNOV2NuSUk?oc=5",
+   "id": "d1bf4dbf3d",
+   "title": "Homepage - Asteroidenabwehr: ESA-Raumsonde Hera liefert erste detaillierte Bilder von Dimorphos",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmNnUjlfN1FIRlBGaGFDbG14T0RScXpWc2ZTY3pCbGRzNWxJY3MtUVB6cENyV3RWTk0yVkN4ZmRHMTF4bmxPX0JxS1JWS2VVWW43NjR3MEJTdS1PaFZ3RWhvWXc1RFNLMkkxRDdRTEhaZk5WamdPdUtza2VOUGZ5RUp2SHo?oc=5",
    "summary": "",
    "image": "",
-   "source": "Spiegel",
+   "source": "BMFTR",
    "region": "DE",
-   "date": "2026-11-27T15:27:00+00:00",
+   "date": "2026-11-27T15:21:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -208,14 +225,14 @@
    "topic": "Society"
   },
   {
-   "id": "d9c65de13e",
-   "title": "Nicole Scherzinger und Thom Evans: Liebes-Aus nach sieben Jahren",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZXdxNGd0YTVSaGp1d1FZblQyYmtUaWFRUnQ3RFJ3aWk2dXZhbGR3RDBPQkQ2N2I2Q1VWSHJrRWdKbkJhTnd4cGM0bjh1MVNYOHlWVC1FWmtDTVdzdi1HdEZ5ZC1wR2pVTVZONnk4dW9JbW9kVzhlQnY1bUpkQ0VZQjdxSEw2Q0d1bkdiRHpqemFuQjgwZHcya0NGWUlXRllwR040NkRSQmQzLUhDMWlfQkJFNW01NF9TZkxzRDMxOElPYVJlZHFueHNkaUZnVk94ZDQ0?oc=5",
+   "id": "6d9b5b5d90",
+   "title": "MotoGP-Knaller auch im Valencia-Zeittraining: Marc Marquez vor Aprilia-Trio",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0FfV0E0VGFtY3otYjh3QnVobXVSX3VPUlg3WmFZTWlHYnR2M3lsWDJWdnFPUHY3RjdQeld0OHJET2NYTE1hckJZTGJObXVyZEFtMXNpWlpyVlVCMWVOaWVjUWg2T3pXNWpJSDh3bWh3YTFUdmJGUURsbTZqZVQwVTI3cldrT0Q1dWoyZEZBbmtSSlVpSFNpaGIxb0IwdWdmY3praTVLcHdiZVBvbkE?oc=5",
    "summary": "",
    "image": "",
-   "source": "BILD",
+   "source": "SPEEDWEEK.com",
    "region": "DE",
-   "date": "2026-11-27T15:17:13+00:00",
+   "date": "2026-11-27T15:18:42+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -242,6 +259,23 @@
    "topic": "Society"
   },
   {
+   "id": "3477dfd00f",
+   "title": "Neuer Verletzungs-Schock für Musiala",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2xiMmg3V2ZhS3hMdzJsZ1pmX1JoN3IzLW9BM1lKcnFzaU01aDVwSWxhdXZseG9qcU9OaXNYNElqd2FkQi14Z0ZPZzFRdng4eGlfVUFXMUJaOUx1a25BZlBFanRiSzZUSzlzclBTRWpNZ0ZDNmRCcUh4aXVna0lwRXM2UzdsVU9SRUx0STJNc1pva2lyRlZ0TExOQzJodG9zSmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-27T15:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a1630edf23",
    "title": "Welt-AIDS-Tag in Frankfurt: Gesundheitsamt testet am 30. November kostenlos auf HIV und Syphilis",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdmFGV19KVVpFdmpmc0d3TUttWVBYdFR0a3dvaDg1SXNHcTRzN2FDdHBJRnJ3LWs4ckpmNWNmMUpoVFhvX1RJZkdFaWhpaDV3aWIzT2F1eUN2V1BidnpkX1dYc2ZEejR3RzRMbUFVRnA2YmJQM1J2WVZ5NFc0RHNmd1RKUTZvOWlOY1ZSUFZNOVEtMXBYVUNtdE83MENvVjI2V1NIRDg2dGNYaWE1U1ZrUXVGcTR4NklibjdDVlJ3?oc=5",
@@ -259,31 +293,14 @@
    "topic": "Society"
   },
   {
-   "id": "be77a9258f",
-   "title": "Bundestag beschließt Haushalt 2027 mit Rekordausgaben",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWFpobUIydHpSMTh3RG8wS1FXRHFfb084R3JnRFhfQ2F1ZWZ0MTM0UXRReTBhclhURW1vYVpvdVo4ZTRkcXFGT1d1YVZHQnEyeHpPR0VyWkk3WGhyMGRnd2hsT1JhcU80alpMVGd1LXVRaTJxb3AtaldhR2NHdlphSjBuOHpyM0U1WGVDWVd6cEVUODBadW5yUUFfNnZ3M29oejhpZ1d3azdsbnBXT3otdzBTTmZaUHVRVXNscDgtQ1Rxa0RsME8yUDQyUQ?oc=5",
+   "id": "fc92bad4f5",
+   "title": "\"Bereiten uns darauf vor\": Alice Weidel erwartet AfD-Verbotsantrag im kommenden Jahr",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0xjZXJkZ25xTEZQaS1QY1ROdFRMdGxnRTR4blFvci1kZk95TzBpR1RYQkFPV0ZsVEdrWWo1YUpBQWh0bGtmSXRlVTYtUTFOWUdqNnl4a0dQbV9wOGw5U0RhZzRDTkpyTHllanFHcWtrdHdJRUV3WEE0d0R5bEZCQWx2MldLbzFhZmZaMmlxTFBzVXEtZmR6eFAtOGF5ZS1mLUxR?oc=5",
    "summary": "",
    "image": "",
-   "source": "WELT",
+   "source": "n-tv.de",
    "region": "DE",
-   "date": "2026-11-27T14:31:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "af5acc06e0",
-   "title": "Jamal Musiala fällt beim FC Bayern München erneut länger aus",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVRKWlBYNDg1NU5MVFE5dkdOa1ZFWEFOaG12OTNKT2c3ZXFPRWZFWXR4OGE0bkFQaVp0Nm5KaHA2T0M3WHlLTC1JUzBWRHVpNDU1ZVlkN2tMOGgyMDUtYXgycGtXeWdXcFE5cUZVajlFXzEwOEEweFhyVG1EUDlHQXNORVg4QVJKaldvNEswMjE3bnpHWGt4TTNsWld3R2U1NUFENkM1NXctYWdjYTUzbmQ5VUJjZVk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky.de",
-   "region": "DE",
-   "date": "2026-11-27T14:12:00+00:00",
+   "date": "2026-11-27T14:12:49+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -310,31 +327,14 @@
    "topic": "Society"
   },
   {
-   "id": "86d1f15a4d",
-   "title": "Großeinsatz in Leverkusen: Allergische Reaktion – 17 Kindergartenkinder im Krankenhaus",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkVmTWl1eVZ6UE9HS0FyN25ZeXJRWUF0bDBKWVdhR0RNTVkzS1J1cDNnbHdYYV9Rd3FybExqXzZIUWFTMGpqQXdJWUp0TElMcG9QMnhMN21UMmx1OThDaUhMZWJrdzliU2UyQjdDMl9wX2xqS1M4LWc3NWpqWHBLdDM0N3R6V2pjaUJyeGV0YXNIdXcxeEZfQzl6WHA2akVCT0VSTC0tNEI?oc=5",
+   "id": "f7c682cbda",
+   "title": "Neue Milliardenschulden: Bundestag beschließt Haushalt für 2027",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUENYV3NoaEZOVk92dktOWnRSc25QVEdZeEpMaXJpU003X1prY3ZGTkowbkdKUDgyYmVKRnFaWkltRHpwTW5zLW1CLTM1NEVDdUNlY1lXN0JXRncxd1dnOWx3T2NUZTg0eVpVV3JKZmZfMmhxTjR4dktuZ20yeXBBV2Z3bDliTlU1ZkJaeg?oc=5",
    "summary": "",
    "image": "",
-   "source": "RP Online",
+   "source": "n-tv.de",
    "region": "DE",
-   "date": "2026-11-27T13:58:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "177ef09dc7",
-   "title": "\"Wagenknechts BSW will gegen andere Parteien sein\" – Ost-BSW hingegen bleibt auf AfD-Kurs",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLW5IMDZOQ0x5V2x2VzlCWjhhQVJ5QUItNVI0V0pyb0xEcmg3S25qVWRVSzFrNVE1allaRGp1cGxDNWlvYmg5Q21MZ210ZmhsWXprbWZqbFBDTHBWakdScXRGSHZvcEx0OWc2TWlTV1htTkphZEQybWJMSUk5dkR5WjUwZWZhNkVQWjN0QWk3ZVc5QlNFaUg4YVRySU5tT2hraHFmamtFZUx2d25ubkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MDR.de",
-   "region": "DE",
-   "date": "2026-11-27T13:54:00+00:00",
+   "date": "2026-11-27T13:49:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -361,40 +361,6 @@
    "topic": "Tech"
   },
   {
-   "id": "61e35ea698",
-   "title": "\"Wir sind immer noch verliebt\": Helene Fischer schwärmt von ihrem Thomas",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjI3TDFveWotd2RBV3ozNGFjNEJGRFg2b0dheG1kYkdZVEkyeVNVaUF6NmpyOFB3QU5aWmVUUGd1cjVzUzl6SXZUSkliQU1sSXBHR0o1Tm5GQmF5M0cwdllmNmNrMjV5TWpkZkJjQm1iZVRzY1Bwa1ROY3BOYmRtYzd5dUREVHNOZmw0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "n-tv.de",
-   "region": "DE",
-   "date": "2026-11-27T13:27:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a373e49745",
-   "title": "GTA 6: Warum selbst ein Screenshot rechtliche Folgen haben kann",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmpWa1VVMlhxTHFtWDBTaWJ6RjdXTmFYVGdiREpBZzYtcjBHc1FKTUp6RjJTV0tSTkd6UHZXd3M2bjVfZk5EWE00dkVHNTc4VzVFMzhPN0ZyN2NwQVFmSXVpUW1MYTBfcDF5N1lTYXZURV80dTZ2eDQxV251c25BNVFkZ0F6NzFPaWphWUExcW5OSm16VkNaWjB0ZWE2cUpJMDRsUDhRdV9UMWlNWFpnY1FqLTVmVk03RlhJMA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PC Games Hardware",
-   "region": "DE",
-   "date": "2026-11-27T11:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "157ea45dc4",
    "title": "Minderheitsregierung in Israel: Kommt jetzt das Ende für Netanjahu?",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaERTSHZpQWY0OWdlWVFJOUVHd3phNjhZZFpXRExSSHVCOUtmaDFXYTc5OEwycm1Zb1dINXRkcUhhcFpPN1JyNmlLT05xRlBfMWhDV1R5QmUwQWQyOGdKSlNrcmZpTmlrMG15Rk80SzFKNkxodWRUZnNXcXFHcUpRQTlFcEkyNy1VdTI3ZzFuYmN2UWU5MVRZN3BkWFJKY3lvYkdUb1h5RQ?oc=5",
@@ -412,14 +378,14 @@
    "topic": "Society"
   },
   {
-   "id": "8184bb09f2",
-   "title": "Fahrlehrer über teure Führerscheine und schwierige Fahrschüler „Ärzte und Lehrer lassen sich ungern etwas sagen“",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObUpoRTQ1NDItdmZ0aUMtdF9sMnFkb044bVFHdm1vemZFN01USlp4V0hfWjJkVUlvWUFVR0Y3bHBIWFhvSjBXMV9JS2xVdjRXSkhqWkxwVEVuZU04a0JidER0SjIzaTFzM2prU1MzT09xaDJLLTFvNGI2ODNyZDdWT0lsc3hic2VmeUg4M0ZVZVYwSmF6bkNWVXhicW1mdjRZQXZQcWZldGNtdGNyY2xjbHlScWxDV1Z2Z3hzQXpiNm5MM3dZWVJsTDE5WDc1VjE3ZThUWlNJb3YyMWNMZVYwVkdrbXJnQlJTWXZ2QmJpSDVwcU4t?oc=5",
+   "id": "c92d14d5ae",
+   "title": "\"Überrannt worden\" – Aus für beliebten Weihnachtsmarkt",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWTZYR2pMU0xET2MyWTYyamFXS0Q2b3pSTWZheXlFa3FxdE8wd1NyVlQtU0F6MDBua3JJcWs0dm5HRkhWd0NKREJuQm9YVUNBNGVJdkVBX0M5b2lKZEk1QWtMY3JSUjFuNE13RGdBRHJYOUduWVhrVjZBemtLNXVlZXpCUzV1NFhLX0FpYnlCR2xhRVUyYnJvUDZsQ2lyUExVbjJ2eEZOWGl3S3lLOWhEY1AweWVjaHJDRzhkLTB3TGNNbG5lYmNlZnpHRXYyMWsycTk3NFNlZXM4dzQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Tagesspiegel",
+   "source": "T-Online",
    "region": "DE",
-   "date": "2026-11-27T11:30:00+00:00",
+   "date": "2026-11-27T11:32:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -446,14 +412,14 @@
    "topic": "Society"
   },
   {
-   "id": "2bf4e2cac2",
-   "title": "WBC-Weltmeisterschaft im Schwergewicht: 50.000 Zuschauer bei WM-Boxkampf in Düsseldorf erwartet",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNzFtd2V3REFFcWFCRm9iWXpGSC1Sdm1CSThGV2VsNjJFOWZXckh5bmhUQlVKd2FqOXdybmZLV1p3Nlhpazl1QzA5Wkp3dU93VE5meUcyREVWaVZhSHBFM0tqZzcycGNnTzAydExlcjBTakNXRHdDMlpKaEZOeGU5dHI4eGFOM09KdUoxeGxwZXp3VXA1bG1lalp2YnJvN29BSktFNjFwa1lfdjlrRU5HM1IxSHFzcDZSb3pCYTFkbjFodEZGVmdnaUg3cUdWelUzbmpVTE1RMDZkZG1U?oc=5",
+   "id": "adaa0acbcb",
+   "title": "Hafenbehörde gibt Update zu Tankerunglück vor Ibiza",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWowV1FpTy1mWVdGWGVHLTlvNVhqODJRaHpCRnpQSGsxVFk3c1UxQW5OR2VRNDZoTjAyZkN3UkRtYTV5UnZBTmZOczhZU0xmaEJEMkw2WHJ5NFhvUm03eHM3NjFZbW1MSE1BX0pLajBCYlNVdmd2NkVQNzJrTVVHU2lYbERha1ZiS2xqSEZ2TnBDcnl1VlNVLXhwLXJaLVRlVDZpaA?oc=5",
    "summary": "",
    "image": "",
-   "source": "RP Online",
+   "source": "WEB.DE",
    "region": "DE",
-   "date": "2026-11-27T10:17:00+00:00",
+   "date": "2026-11-27T10:33:10+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -463,14 +429,31 @@
    "topic": "Society"
   },
   {
-   "id": "67c54c666c",
-   "title": "Erkältung oder Grippe? Diese Tipps sollte man kennen",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzJCZU9jZDBDX0Z2VWpYYXRMMGI5Q3d0RldRLXFJU3FQeEV0ZnNJTEVjRy1FWTd3Y09fUi14MVRTZGhWZFg0bGUzWjRtOFNTNXY5UndlNXpLZmkxbW9WdGxhYlBkb2Q0ZUxTM3VhU2hETzIxRVI2V05SOElDczROYVM1MExOSW9HbjUzWGN0V0k1dVlMYkhWa3RYUjJ1cV90UXNpVHliaml5NTVjOTRB?oc=5",
+   "id": "f714a3a05c",
+   "title": "Brunnermeier wird Chefvolkswirt: Deutscher Ökonom besetzt künftig Schlüsselposten in EZB-Spitze",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUhZZHNlcXU2MUZ3WW01aDhlTXI0SDByYXl6ZEdDVGQwRUI0UGRXck16NHZrWGNWd1RKdFM3YWttMHpkVnBISUI1NkVnUjFlOGtpN0dZZ3c0cmxYZ1hqMHhpQUgxbXRtek84T0N4MkZrbFJNTFpIckJXWjV0WW9MRlBMdElBYkpVYkREUVZEWnZYcTE0N3NpdjNZYWlCUlhuUGhXTVVsXzNTVzV1dHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "fnp.de",
+   "source": "n-tv.de",
    "region": "DE",
-   "date": "2026-11-27T09:48:03+00:00",
+   "date": "2026-11-27T10:16:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0df8609049",
+   "title": "Claude Theft Auto: Rockstars aussichtsloser Kampf gegen mit KI erstellte PC-Versionen von GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV2VMUWpfR2hCMDNLT2pCYkItZEVheDBvb1Y4UkRtT1IwbmtjVkZYa0NrMTJQb1Y3UTY3cTNOcFRmYUpOTEZSTUdDT2VDdFhIYloxWGNVX29nTUhvQjR6WEVOdHpMNnZFd1JhdF9ZN3RUMEx1blFQTDJZQ1k4ekxjWWptZERrTDBOdlA0WWJiZkltNTdUV1dyZlBjcGI0eVcweHRWeUVxczMtNTRsV003NGJnSGpERm1Tdlc1RFlTN2ZWaXBXX0xyZFZBaTBldlB6S2QxZHVnQjg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "derStandard.de",
+   "region": "DE",
+   "date": "2026-11-27T10:11:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -497,14 +480,14 @@
    "topic": "Society"
   },
   {
-   "id": "7b2986ae0d",
-   "title": "Angriffe auf russische Schiffe: Kritik aus Italien – Sybiha telefoniert mit Libyens Außenminister",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYWE4aUhKVG9oT04zUnN6aWpwNWZaYmljNnlqUEZoNjFCRVM1NmdGLUQ1blpWZWpGdG5icWliZlNpNzVLdzEtT0ZDRDBnRlVXQ1h2cWQ5MjJnSTBlS1NvaTFmM28xNWpscHh3WEVlbjlrMDVMbkZDQzBQRG5kNDBrSkZYdmtmdVNkOVZnNlo2eHFDVERjV3I4RkZOM3RQMzJtcUlrUkpXV21ZQklPaVdYcXZEMTN4UlBGRVNmQ3lWUGhpZFFoYzVfNWgycUVPckNHelJjN0hfNmI5Zndf?oc=5",
+   "id": "b7d7a8f18b",
+   "title": "Jennifer Lopez feiert Thanksgiving mit ihren heimgekehrten Zwillingen",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNek04R2xET21KVUh2cGRXSW1WbkIyVkl4R0I5NHZmTEx3djZPWkZQS2FwX1QxSEMySUVkcjE4X3dEcFNJR0YwTllCeWpzdlcxVnlQQmFleU92OW8xenN2RkVYWEhwN0ZrV25tdWFvQ3JvQTF1UHk0c1VCVWprT3RxY0VCMUV3MkpJWkdFUjRUSUdFZlk5U1lKSUNPaGM1SG5ycklBVXN4bXhiT3VPd0N3OQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Berliner Zeitung",
+   "source": "WEB.DE",
    "region": "DE",
-   "date": "2026-11-27T05:47:03+00:00",
+   "date": "2026-11-27T06:59:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -514,14 +497,48 @@
    "topic": "Society"
   },
   {
-   "id": "53e87bb80f",
-   "title": "EU-Gipfel: Meloni sieht Haushaltseinigung noch »Lichtjahre« entfernt",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczlaNXJxdldHdzBkMzN4bEw3OGY2V2VoMkh3UExzRTF3QWc5ZkpWSWhDMERMVUJUMjBSS0xiLVJIYlNGMjlHSkdBZ2x5RHdyY19FR3dpMlotMktQNDBtUHJkc2xZeUFhUzBxel9YTTAwZVdNUEhoZXZlZzRVdHFKSndVY3RvMWk2U0lLZnZfTnRYYWhUODlLTjROdW9fN1lSY2c?oc=5",
+   "id": "1e268d9ccb",
+   "title": "BSW-Bundesparteitag: BSW-Streit über Verhältnis zur AfD spitzt sich zu",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzd3TjhaQ3dhdkdNQ0hCbmVWTTRFc0dLMmx3T3BDSzd6b2YtUmt2QWZMcmo2c2laVWpWZG5mOHVvSTZjMmllWHNGZTVrS18zdE1TSU95a1AtUjI5YUloZXFVMGlIbjY5aUJybFlEcG9aeDZMOV9yU3k5cWRqQW9EdGNieVJUazdVem5OOTJVSnF3U0U2cE9RRm9VNE15VGRyUnE3d09Jd2hHT2FUcFFVbVI2Zw?oc=5",
    "summary": "",
    "image": "",
    "source": "DIE ZEIT",
    "region": "DE",
-   "date": "2026-11-27T02:40:21+00:00",
+   "date": "2026-11-27T06:25:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ae2360e858",
+   "title": "EU-Gipfel vorzeitig abgebrochen – Magyar macht sich über ergebnislose Verhandlungen lustig",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOHFjaWJkQnVnMldZQkFtRHJmWXBPbF9vR3A2WHNJZEZudkJxU0ZfMDRGTGZ2Sks2QTFUdmpiZ3diNGZtRjZFazJTeG9VNUt0aTRVNWlfaDFUcC1pc2EyWXVfaVhCRVc2OWZzRVhFZS03bE5OaGZmVTJwTEJEbS1kc1JJYVI1NHA4SDVUUEpaNzlRdmptMHJRLWgzMVYyWXZ2VU9DQm9IanNQRU5vUlZGUm5KV3JLX3NLd2NhdU56Um1VZFYtekVfclhyVjhTSGFGQnVSM253V0ZQcHVZelJWb3YxNDYyT29lUGNGcVFYV2NrOWJQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-27T06:15:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "aa95eec6f0",
+   "title": "Parlamentswahl: Wie Spaniens Volkspartei die Ära Sánchez abwickeln will",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MVjNMYUtDXzRJaWdpVE5CYU9iVDVwYWNCSjJPdkF2RzBCWE81R0c1eEY2UjFIN1VWcVkzZXl6UnJ2MklmNm1sNE1VMFlFOHBqU09wY250RXd2NW5pU1hPZURkc0tuYkN6elNRSk96MnFra2NGVjRFaDd0UlF6OFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "tagesschau.de",
+   "region": "DE",
+   "date": "2026-11-27T05:37:34+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -544,40 +561,6 @@
     "country": "Ukraine",
     "place": "",
     "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "53d5225671",
-   "title": "Verhandlungsmarathon beendet: IG Metall und Arbeitgeber einigen sich im Tarifstreit",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWh4MFRtUloyU3NNaExQOG1UVXZadGpQUnhqM2ZwaHhETVEtSURPR0k0dGQ1ZHpYc1Y5MkNDYUtuTWFrT1o0NnhqQndfdFlINVI4WjVrUi1JWEZraklMc3RuZzZHSXBvMFVtS185bmF1amdDajc0NFRsaWYzR2VqSFhCV1NmOEhIc3JzemRFYXR5T1ZaMVdyQ0hzdEVSNHc1S3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "n-tv.de",
-   "region": "DE",
-   "date": "2026-11-26T15:24:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c9984e0460",
-   "title": "Vitamin D: Warum der Bluttest im Sommer mehr verrät",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWllY21YdDRLOWZVZjc0MmpzUGRoNmFMYUFtZVZHbVd6eFB4Q3EyVUdabVFqNjVVZU9qSFhKbXBWUEdGOGk5UFJiZXVKeV81SVhhV1BWS1BlMGVsVy1jdk50YWUwTTNHelNqZEZienFGeWE0bDdJSHhxQzRwQ0J0X19mOEdHYUhHWjN0dXBfM0IzbjNJZk5EWXZaSHJZSnN3Nl9CQ2V6MnU4XzVUbEd5LQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Kurier",
-   "region": "DE",
-   "date": "2026-11-26T11:22:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
    },
    "topic": "Society"
   }
