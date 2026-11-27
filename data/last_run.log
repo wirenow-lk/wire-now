@@ -1,80 +1,66 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 79/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 57 stories
+FAIL Ada Derana: HTTP Error 429: Too Many Requests
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
+OK   EconomyNext: 21 stories
 OK   Daily Mirror: 100 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 18 stories
-OK   Daily News: 75 stories
-OK   Sunday Times: 4 stories
+OK   Daily News: 78 stories
+FAIL Sunday Times: HTTP Error 429: Too Many Requests
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 0 stories
+FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 13 stories
+OK   Google Warnings LK: 11 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 28 stories
+OK   BBC World: 31 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 86 stories
+OK   AP News: 78 stories
 
-Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (4 outlets) | Italians killed in Kuwait: Why is Iran denyin (4 outlets) | S&P upgrades Sri Lanka’s credit rating to ‘B- (4 outlets) | Trump urges Putin to end 'military aggression (4 outlets)
+Biggest stories right now: Heavy rainfall of over 100mm expected in seve (5 outlets) | Canada’s top court upholds Quebec law barring (4 outlets) | New Zealand’s ruling coalition falls just sho (4 outlets) | ‘Mass-casualty event’ in Europe possible amid (3 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (3 outlets)
 
-7 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Retired army soldier arrested with T-56 firearm & ammunition in Panadu
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Amazon workers plan worldwide protests over pay and working conditions
-    no AI summary: saving the rest of today for important news
-* Newswire [2 outlets]: Why was Jaffna’s ‘Matara Ambula’ restaurant partially demolished? Poli
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: Pathfinder Foundation and ANZF discuss regional security, maritime coo
-    no AI summary: saving the rest of today for important news
-* Hiru News [3 outlets]: Global news agency AFP reports cyberattack, shuts down content platfor
-    no AI summary: saving the rest of today for important news
-* The Guardian [3 outlets]: ‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage
-    important (also on Daily Mirror, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: Hackers reportedly breach US Air Force’s flagship cloud computing plat
+* The Island [1 outlets]: The strong bond of humanity built during times of disaster is vital in
+    no AI summary: daily limit reached
+* Daily Mirror [2 outlets]: Janashakthi Life declares Rs. 5.4bn interim dividend
+    no AI summary: daily limit reached
+* Hiru News [2 outlets]: Further hearing in Lalith Kumar Weeraj and Kugan Muruganandan disappea
+    no AI summary: daily limit reached
+* Newswire [2 outlets]: Sri Lanka appoints first female honorary consul in Türkiye
+    no AI summary: daily limit reached
+* The Guardian [2 outlets]: Norse Atlantic Airways files for bankruptcy and cancels all future fli
+    no AI summary: daily limit reached
+* Al Jazeera [2 outlets]: Trump backs Iraqi PM’s oil smuggling crackdown
     no AI summary: daily limit reached
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 7 too small to look sharp, using the clean cover
+  photos: looked up 24, found 3
+  photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
-  headline translation failed (no AI available for writers)
+  fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
+    gemini unavailable this run (AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
+  headline translation failed (no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code")
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 67 story pages for Google)
 
-Countries: IN 0 (FAIL), PK 34, BD 32, US 32, GB 35, IE 38, CA 37, AU 36, NZ 35, SG 36, MY 33, PH 35, AE 32, IL 37, NG 36, KE 36, ZA 36, GH 31, FR 32, DE 0 (FAIL), JP 8, IT 33, ES 34, BR 33
-
-Posted today's Top 10 round-up
+Countries: IN 38, PK 35, BD 33, US 33, GB 34, IE 0 (FAIL), CA 37, AU 37, NZ 35, SG 36, MY 33, PH 35, AE 33, IL 37, NG 36, KE 35, ZA 34, GH 33, FR 32, DE 34, JP 6, IT 34, ES 33, BR 33
 
 World Pulse not made this run: no AI available for writers
