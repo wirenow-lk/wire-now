@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 6/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 12/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 62 stories
+OK   Ada Derana: 60 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 18 stories
+OK   EconomyNext: 19 stories
 OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 15 stories
 OK   Daily News: 57 stories
-OK   Sunday Times: 5 stories
+OK   Sunday Times: 6 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -21,20 +21,22 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 74 stories
+OK   AP News: 81 stories
 
-Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Canada's top court upholds Quebec law banning (5 outlets) | The best Black Friday deals Ars could find (5 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets) | Parliament observes minute’s silence in remem (5 outlets)
+Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Canada's top court upholds Quebec law banning (5 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets) | Parliament observes minute’s silence in remem (5 outlets) | Black Friday shopping on a budget? These 41+  (4 outlets)
 
-8 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [4 outlets]: Navy seizes suspected drug vessel, arrests 7 foreigners
-    important (also on Daily Mirror, Daily News, Hiru News) - researching
+* Daily News [1 outlets]: MAS, Lanka Minerals sweep Mercantile Tennis doubles titles
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: Maaveerar remembrance events held across North and East
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -46,46 +48,21 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Suspect arrested with leopard teeth in Anuradhapura
-    important (serious news) - researching
+* Newswire [1 outlets]: Sri Lanka successfully hosts 1,200 Chinese tourists in mega MICE event
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
-* Daily News [2 outlets]: GMOA set to join Monday’s TU strike
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The New York Times [2 outlets]: Behold, Black Friday Deals That Are Actually Good | Reviews by Wirecut
-    important (also on Ars Technica) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [2 outlets]: Differently-abled allowed free travel on ‘Metro’ buses on December 3
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [2 outlets]: Over 65,000 police officers apply for interest-free electric mobike lo
-    important (also on Newsfirst) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Al Jazeera [2 outlets]: UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica
-    important (also on AP News) - researching
+* Al Jazeera [2 outlets]: OpenAI countersues Apple over trade secrets as AI race heats up
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: Sales for Biden memoir fall far short of books by Obama and Clinton
-    important (also on AP News) - researching
+* Al Jazeera [2 outlets]: Venezuela to repeal law that bans opposition figures from office
+    important (also on BBC World) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, BBC World
     attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
@@ -94,31 +71,24 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
+  photos: looked up 24, found 1
   photos: 9 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
@@ -127,4 +97,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 67 story pages for Google)
 
-Countries: IN 35, PK 35, BD 32, US 32, GB 37, IE 37, CA 38, AU 36, NZ 33, SG 34, MY 32, PH 34, AE 32, IL 37, NG 35, KE 35, ZA 33, GH 31, FR 34, DE 33, JP 11, IT 33, ES 33, BR 33
+Countries: IN 35, PK 34, BD 33, US 33, GB 36, IE 37, CA 38, AU 36, NZ 30, SG 33, MY 32, PH 35, AE 33, IL 37, NG 34, KE 35, ZA 32, GH 32, FR 34, DE 32, JP 9, IT 33, ES 33, BR 33

@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-27T20:39:12.733070+00:00",
+ "updated": "2026-11-27T21:39:03.611089+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
+  {
+   "id": "ff1a251d41",
+   "title": "DIRECT. Brest-Paris FC: les Brestois mènent, les Parisiens poussent",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbXZmZl9aR1JyVEN4SzFIS0tDaThvT3ZCY0MzNUZfamZ4VVJxLXRmZ1o5c09kRjhJLVhDRWNFWjRsNzdKYmtGdERaZWdDQXBVUmVXcXh0X3luX1VQOGJjY2VzZVBXZTFnV0piT0xjQTBJLTd5bEE0SkE3eXJ5VXo2U3hCUEF6RHlya0VRcGtfU3JpSzBuUzNVOGpjNGdkbDR6em9mcFRVS1ZSVmlEQU5EMHAtQllpV2ItcF9VSlhramRMaXZPUGsyRU94X0xadjd2R3BrdG53dGV2dEcyb0wyZ1VCS0tWQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RMC Sport",
+   "region": "FR",
+   "date": "2026-11-27T21:34:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
   {
    "id": "9d0793f6bc",
    "title": "Espagne : Sanchez joue son va-tout pour déjouer une victoire de l'opposition aux législatives",
@@ -12,40 +29,6 @@
    "source": "Boursorama",
    "region": "FR",
    "date": "2026-11-27T20:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "53d5975757",
-   "title": "Le responsable du programme présidentiel de Marine Le Pen, Ambroise de Rancourt, soupçonné d’être le principal destinataire de la fuite de documents de Beauvau vers le RN",
-   "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOMG84ZDVIUnNqQmsyYTZZbFJvdFQ4TTc1RVV2cDZ6VVA2cjcwSjB5R0RYUHpFazUtN05zS3FibklsbDNPXzJhbmhpZkdXMUNuYUY0OFZPLWJfbVgzVXQxS203aC1zWjE2V25MelA0bkZnc0xrOWQwM1NEVlMzUmlPWEJ1YzAwZll3V0FTQldLYnIwNS1FaEQ2RjU5Tl9yeUpLWGxBaU93QWdkZFhPUzFtb0ItdkFmWi1QR1Fqc2gzR1NzUkN1UVcwWG5jNkxPZUo0d3hVQzA4RGRjaGVPeXd6WjBSVk5INTVmY2FHbE9OYlJvNmpGRkp0Mzl1V1llR19xbk45T0JoREtMbGdsakExY0NNRE9fTVQ1RVBtdWpTX1BDRUtJaVJZZlo4RnI2MFZ2TDFkaTQ1OG8zZGNoVHpzR25feHFuMDF1eWRhbWxpNUR5anVGd2I4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-27T20:06:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f6dbaac45d",
-   "title": "Franck Haise en passe de quitter son poste d'entraîneur du Stade Rennais, le président Arnaud Pouille menacé",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVVBOVBSbGJ0eDlSYWFwblR2bzJISzZQeGZpUWptdFU1UVRIUnNmZTNta0xuRDd1WWN3Nml4ZDhwb1FyMGZMMGk4UUdnQms2cnVvZ1pQY2d1SlEwSElURGVxZ3NkNkQ4dTR2VHJQZFRzZFpvbDBUb0J1alh2XzI3NWJPY215ME1va2M3eXZ5c2pXY2hnTTkteVNLS3BPdElPNTF3d05odGRLUUh2MDEzUXk4LVk4Z2lLU2kyZHJmZ1U?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "L'Équipe",
-   "region": "FR",
-   "date": "2026-11-27T20:05:49+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -72,14 +55,48 @@
    "topic": "Society"
   },
   {
-   "id": "178fc53cbb",
-   "title": "Vainqueurs en Estonie, les Bleus valident leur billet pour la Coupe du monde 2027 de basket",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmtpY1RRXzhyNnJQUGl3dFYwWTlHWkVxXzE2aTQ5U0g1XzIwRXYxajlWVlYwejRrME9DdG1XY3NxV0REdkZwU1VaUE9aTm41UGpLOVAwa3llelB0WUNTLW9VdUVQUFlkVlBSVmF6M2lhRFBydkJubC1BbU02YVFJY2hlTnJfUGRUWFVMNXJMSFpvTURiXzJQaFg4Qy0zTkdnNGI4QjcydjVRNDkzb2lCYlRwT3YzUWdOU3dLUm8xR3Bqa0VRQkFQZg?oc=5",
+   "id": "04425724ae",
+   "title": "Résultats EuroMillions FDJ : tirage du vendredi 27 novembre",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFhodmRsNHVlb040QXd0T0Vfd1VGMk55Z1B4SUtYZFhUanc2MXN2VlRaMlhYa1FGZm5DNVRaT3RCZ1B4aERhQVZLTTViSXBVMXpXUHNnZ1pjb29iUGtWYkY2dlI4NEFYaGRrQVM2X3JxUzJUS0RzNm5POEhRWmkySERCeXRMNzBKN1JUaU0wSEFZRjFSa0hSVDQ2ZWZRZUREUHJmcl9EM0xwMGpNN1BGRkJVSXB3UGZmLUg1QkdR?oc=5",
    "summary": "",
    "image": "",
-   "source": "L'Équipe",
+   "source": "20 Minutes",
    "region": "FR",
-   "date": "2026-11-27T19:02:45+00:00",
+   "date": "2026-11-27T19:00:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "53d5975757",
+   "title": "Fuite d’informations confidentielles vers le RN : Ambroise de Rancourt, le responsable du programme présidentiel de Marine Le Pen, soupçonné d’être le principal destinataire",
+   "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOMG84ZDVIUnNqQmsyYTZZbFJvdFQ4TTc1RVV2cDZ6VVA2cjcwSjB5R0RYUHpFazUtN05zS3FibklsbDNPXzJhbmhpZkdXMUNuYUY0OFZPLWJfbVgzVXQxS203aC1zWjE2V25MelA0bkZnc0xrOWQwM1NEVlMzUmlPWEJ1YzAwZll3V0FTQldLYnIwNS1FaEQ2RjU5Tl9yeUpLWGxBaU93QWdkZFhPUzFtb0ItdkFmWi1QR1Fqc2gzR1NzUkN1UVcwWG5jNkxPZUo0d3hVQzA4RGRjaGVPeXd6WjBSVk5INTVmY2FHbE9OYlJvNmpGRkp0Mzl1V1llR19xbk45T0JoREtMbGdsakExY0NNRE9fTVQ1RVBtdWpTX1BDRUtJaVJZZlo4RnI2MFZ2TDFkaTQ1OG8zZGNoVHpzR25feHFuMDF1eWRhbWxpNUR5anVGd2I4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-27T18:35:49+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ee47b49760",
+   "title": "L’ex-mari de Chahinez Daoud, brûlée vive en 2021, a été condamné en appel à la perpétuité",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNVJxT3BUd2Fad29UY253TzNFQ3ozQUJJWnhBV09DQkIySmRWV1JkTjBKcWw0UlFhR2tpcmd6ZU4tMEtHNHdjY1lydDlrUm5WWFllNFBoTmo3aXc3VEZwY0p5U3E1ZnJIM3NEWmJzeW84MXpTeWVYZEJUUE9IeGc1bHUtZ1M4N2g1QVhEQlRnMV9LR3BpMTNWZS1rSHRpRlRHTGtLVzN4RG9GYlNmWTRVRkF4WTlaVEdVamhRRENBd29YdU04c2swSVJRWnkzVk5aUjZKTnBR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-27T18:08:36+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -106,14 +123,14 @@
    "topic": "Society"
   },
   {
-   "id": "b2709a11ea",
-   "title": "Simon bien lancée, Jeanmonnot en deçà, Oeberg déjà là",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWFcwTnUzNF9uRlVWRUpKSzFsMG80Slk4OS00SzdoZHNoRUF6QlpaZlFzTmRzSVFKREZQV21WVF9qN0VnUnREd2Q3Y2xLQWFxZl8xSEJBeHpmMHMyYWpRdmRGT0UxWE9SbjFmQk5kQTczUzhMWktpZVpMaTl4b19reVhGVTV5TE5Sb05tcjlqSEhncFlNQnAxSlF1WGd5ZTFIX29QcEU2aHlWRGhic1R5Z3k2cDh4TGlxQ0tmdDFSQUNXVVBMemdkTWtmVnV1M3hvYzdQdkRjUHNlZnBTbE5tWTEzSWFQaHBRM1pyeFZ2WWtJaFpybWY0WlV0Uk82T0UzZmNNMWdLdHcxVHNFd05GVUYzQjEzQTBBR3g4?oc=5",
+   "id": "f6dbaac45d",
+   "title": "Franck Haise en passe de quitter son poste d'entraîneur du Stade Rennais, le président Arnaud Pouille menacé",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVVBOVBSbGJ0eDlSYWFwblR2bzJISzZQeGZpUWptdFU1UVRIUnNmZTNta0xuRDd1WWN3Nml4ZDhwb1FyMGZMMGk4UUdnQms2cnVvZ1pQY2d1SlEwSElURGVxZ3NkNkQ4dTR2VHJQZFRzZFpvbDBUb0J1alh2XzI3NWJPY215ME1va2M3eXZ5c2pXY2hnTTkteVNLS3BPdElPNTF3d05odGRLUUh2MDEzUXk4LVk4Z2lLU2kyZHJmZ1U?oc=5",
    "summary": "",
    "image": "",
-   "source": "Eurosport",
+   "source": "L'Équipe",
    "region": "FR",
-   "date": "2026-11-27T17:53:00+00:00",
+   "date": "2026-11-27T17:12:57+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -165,6 +182,23 @@
    "source": "Le Monde.fr",
    "region": "FR",
    "date": "2026-11-27T17:00:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c78389d724",
+   "title": "Troisième de l'individuel de Kontiolahti, Julia Simon décroche le premier podium français de la saison en Coupe du monde de biathlon",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWS1SLUZITnBVNFZNNTc0ZmFESlgyYXhsVjNNcUoza0NlWlVfZ25oR2o0MXZZSWNjb2lUS2l6eU8wMDhDQ0dzMEV6TVdfdVNycWxWWjhXdWNWUmVBSGpKYjB6UHJKaFpkYS1fZWhBaHd1SXlzTGtLZmZFVHRJUnA4VUI1RmFwTEhIUlU1Ymw3NkVpaDFVVU96Z3hhWktKdHUyTVA0ei04LUtDbDZCVU9ZdGk3dFVsdjJ3TWdRWTUyejhPTDI5Ym5BcTdLcGlnWWFhamFiSUZfb3hmV01FR0trRGlNUEtHSDA4dktkMDJySWhCSENmdVhOVWpBZm9PYlFILWZRazBUQlNRNVF5ZjM2dmx0aVZVTHFsMW9ZalJyNjlfNDFFb0xJUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "franceinfo",
+   "region": "FR",
+   "date": "2026-11-27T16:42:53+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -259,31 +293,65 @@
    "topic": "Society"
   },
   {
-   "id": "ce5d89f35a",
-   "title": "Les Millionnaires patriotes, ces riches français qui veulent se faire taxer",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVBnbnNGc18xUlVOLUgxY3ZUak1hM294OUp6LVg1UWEyR0JZVW5ldk0tdUNmQUw0Smc1SkwtMVRhSHVIVUt3Wi14VmYwWGhOQ0EwWkI0QWRadjdfQXJ1bzM5d2FqRnBwSkV3V2xkdV9WTURyY0Z2eEhZdzBQMWpETm8yUk1nM3JRa1JIZ1R1Q19BU0xycjNDcXBpeVpmWTJhQURIZ3FhMHRXV29M?oc=5",
+   "id": "5b115b857a",
+   "title": "Black Friday Apple : jusqu'à 201 € de remise sur les MacBook Neo, Mac mini M6 et MacBook Pro M6",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdVZabkN0bmkzZDBqd2xPV2kycm9VM1dtOUF2UmpOMTBTR3NiUUtIaDFWb3JaSEM3OTdObWtoZ3RaTFAyS04xWXpocEdJY3ZIS0dkOXZLMWlkYnlvWnE0ZVgwN0FFU1U0SGJhajFLaVB3X0tMOC1fSzRfZVVXZk1oaW9qUVdPQmlJLWxJUDZCQzZsYklxYmpMTm1Fd0NlOUFPOU9GMUVMb1pVLWt0NHpOdkJEMHkzRk8xMWw1a3BwTGYyTDVtaHItd2tZMkJ6d05ja3Ixamdn?oc=5",
    "summary": "",
    "image": "",
-   "source": "20 Minutes",
+   "source": "Les Numériques",
    "region": "FR",
-   "date": "2026-11-27T16:00:00+00:00",
+   "date": "2026-11-27T15:52:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Economy"
+   "topic": "Tech"
   },
   {
-   "id": "0f606e3e1a",
-   "title": "Présidentielle 2027 : Bruno Retailleau dévoile son programme pour l’enseignement supérieur, en souhaitant la suppression de Parcoursup",
-   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPZ0w4SC1IcmQ0Vy01bVFDQUJvaWJMOWl3X200Q1BJdXY3SW1vU2RtbTlNdXdpLXZQV05YZ3pFLVkzMTJUUEhiZVlqdm12SXB4MWtUZHQzVlRNdGpuakpUTmplNzFncmdPN1R3Tm44ZEpWMVRSN09haXZlVEttNDN1Y01PeHFoc0Y5RVpYR2VPdmNBeEJQY0RVcE9NY3NwQ2cxOHdJNG9ybzRiRGVYeFZFOVVaOEdvTERoTldGeHZMSHQyUWI1OURIbDZWR2hLOUp6akg2VW80VHNhNmsxT2Mxb05NbHNSVWNEX0NjbjYyelhLbFpGVHdob1JIRng2ZWtTdlNTVE5sRnRuaDViQUVzODFWMHYweGZLXzJVSXprRTFkT3VTdi1ReEVpMEVGWmJJcWtsWmVCWEkya0NDcFdzTGZnZ25SQQ?oc=5",
+   "id": "c0c7eb865a",
+   "title": "Investissement locatif : le Sénat vote une baisse de TVA pour l'acquisition de logements à 5,5 %, contre l'avis du gouvernement",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOdHNBclZHNVJEQVR2eWxBNWh5WktrbTF4OWRnaTRuaDd0V3FlSFplQmxKSHpPM2ZSWkMyNXNWdVM3d1pZMVoxcWlaT0JHRjFhN19IWF9XNm5xSTRXbmIwY2tELVNhdk9oRnNCU29wQ2Z5VjFzaTFxVDFwNTVyZEZJOWlubzhFVDNYOXJ5MjJQYm4yaW9JbjRsajYyZ2NPMmVmRi1CYXJNYVVEQjlsSmg1V2czdk9iZmNrYzJ2NGI4OEtFUjVuV1FsNEpUdEN2eVFULVlIS1hHc3NoWFctMTBkb2RuMFctenExQW5nSVpBQm9YY0dyZFRBR3dCVlZ6Q2hwRHNIMUJ2S21UOHo5VW9OeGlNMkliaW9iMjlvb0gwZ3VxbXlUZk1LX2ZDRUk?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Monde.fr",
+   "source": "Boursorama",
    "region": "FR",
-   "date": "2026-11-27T15:39:14+00:00",
+   "date": "2026-11-27T15:42:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6757df295c",
+   "title": "Déraillement du train Rouen-Caen : un jeune homme déficient intellectuel mis en examen",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVVmTFdLX05WTm40NFlLRTNObTFRM0ZzeXBXbG1RbExScjcwdERFNEpxV1VUcjllYnpWY05OemJXTXBrcDl6TzFZVk00dTZEQ2tqQU0wRHRaLS1KVWNLcE1PRkZyUVFGamJ6Nm1ocW50aUtPYzcwUXl1dzVvd19JeGxKN2xQTFhFV1NNNnJkU0l2YTkwSHFQQmhOQU1PYTlrZmI3S0NrenIyVlJhNDlRaW9XcHlNRWZOWVgtVVB6ZHVadEZub3NZZkdmWjNlVlZadVBCdnlfTUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TF1 Info",
+   "region": "FR",
+   "date": "2026-11-27T15:41:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c0f99c808e",
+   "title": "La couverture vaccinale des adolescents contre le papillomavirus reste loin de l'objectif, après une campagne 2025-2026 au bilan stable selon Santé publique France",
+   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeURjNnEtYks0cmxWcUM3dXpqNGJjVDZ3TW42SERFazcwNks0V1pTQTFPWjhzTnd0X1pQQ1V6TDAxLVZaX0huNWd2WkVMRFV5TDBhaEE3QWlUbWxDNFpWYTFDUmpFdU5NbE05N3dCVFhoSi11SmZrM0Z0VGVBRnp4bEJ2YVAtMWowcEZKZ0FFZ0o0UTNqZG82NmsxNUpmdWdxRkd2QUhDRzFDa3h6ZFdTUDB3U1FuUl9LLWpIQmJDT2VPcU5PM2NCTkpfTHlxRDZNNHM5Y3dVWUt3enZqUGw0WjBfR0FrVHFjOVEybUhocTRfaGVKa2w0bXo5Q3dabHJ6Umkta2JuOVlCQnROR0twU2YyWFVyUUZpRlFncFF6aGE2Q0oxdWFpMGVVVDNnbF9WWUg0aVpOR3dvV00?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "franceinfo",
+   "region": "FR",
+   "date": "2026-11-27T15:34:16+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -327,23 +395,6 @@
    "topic": "Society"
   },
   {
-   "id": "a469c5e233",
-   "title": "\"Les Français n'ont à l'heure actuelle plus de marges de manœuvre\": Carrefour, Leclerc, Intermarché, U et Auchan écrivent aux multinationales pour leur demander de limiter leurs hausses de prix en 2027",
-   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQSjdMdnpFM2p5a1FtcVdMSWwtXzRKRUs5YnpEWmI5QzNwUlNGcDZCazRvclFqVURDMS1Ua29Ecnl2bzJ1OF9WdFZtUE9YanRqc1ZYRFdKUGxobThUUVlMZlZjTEozWEJWZ3VTSkU2c0E2YzZINGE5Ti1qUjh5dnFsZU5FaGlLTHg5TWMyQVh0enMtLVhuVHZCNFl4VXdETlNZMkpmckd2UnF2bm1YV2FELVNSay1DWHdQU0xsblR1aXFrR2NhX1NfM3RTd2pfNFVFSFBfREVnMjF2SEZoNzVzVFRBWGdkZnNhb2pPZGt4dE01Q21iNmktdC0xZVlkTGpzMlE3Z2puU3JnWjdxUFlBR0Z5NzlKQkRDbjQtV3FXSElrTWk1cjZOMDEzRWRBOWtiRVBENW1IWi1xYWZtUWs4VWRHcXk4WVhYdExROWtiQmp5blZCQVZPLWVjMmtvelJWZWtHUDJ6MkJqc2FBSk9tYWZVTDMxUTg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BFM",
-   "region": "FR",
-   "date": "2026-11-27T15:08:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ebf9c3e9aa",
    "title": "La France en récession ? Le PIB recule de 0,2 %, ce que cela pourrait changer pour votre épargne",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDF1Zzh5SU1QeGxTTWdsczBEWFNEY3lhdHZNMU5BNndfS0lzRlVsTHJoWGJRR2pwUTRPdmY3XzZ0NzMxNGVNc1RvcDlNX2lXT3lJbkdweWNHNGdLTG1ISi1WeVVRdTdVMGlib3hTZjREa2Y1WDB4SDI1VnlFX185R3RId29KRlBkbC1UVV9hZw?oc=5",
@@ -378,6 +429,23 @@
    "topic": "Society"
   },
   {
+   "id": "41555bb81d",
+   "title": "Arnaques sur Vinted : attention si vous achetez une PlayStation 5, vous risquez de ne recevoir qu’une… photo de la console",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObVhTQzlKTzRyOTZXVU1uYVQxVHRObVpzczc1LVMzdWRpenQzdmpsa1U2NDhQYXVyRldKT1B5N2hQUHBWQTRYcHdkWEhWcHhwcWJTMTFXUkNCMHI0N2VvamlZejl3REpyVzBoUnh1ZXA3OWIxazVIQ0dwOTNYMFVoWExTLUI5ZXdNN0lyb0xoNDlOUjVoVHNhMndXODJESE1GNDJtOUd2bWJ6bE9LR01uRUgyUjRCVjlEWkZWZTllWnV6LTdRRFVRUldoTFJ3UzJZYWpQLU0yd2pGX1lzc2UzcUlVRkV5bkdOa0k1V1ZR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Figaro",
+   "region": "FR",
+   "date": "2026-11-27T14:21:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d763a91a71",
    "title": "Espagne : Un mort, pollution, remorquage… Ce que l’on sait du naufrage d’un pétrolier au large d’Ibiza",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUtYZWY4UllqdXlmekdBajFqbDg2N2FpWEZRTG1KekxJZ2VxdjBKU25rckwzRGNqZnpkeWpsTTBKcFQyLXdOWXFTQUtHdklCYk5GU0NTTlc0TkZVOW44bkd0UGN1eDBmT3RpVkhiY1MwZk9lQlJnUE9qS2s2ZjdzZVgySXZYTUk3SzlhOXF2Z3lvcE8ySExfalNVM201enhiallsZXM0cWU4TGJ1eGJDVmNrM3hhZWdNamFnVFpzMkZ0SVk?oc=5",
@@ -395,31 +463,14 @@
    "topic": "Society"
   },
   {
-   "id": "034c460421",
-   "title": "INFO RADIO FRANCE. Déraillement d'un TER en Seine-Maritime : un homme de 22 ans mis en examen pour tentative de vol et blessures involontaires",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSFAxX1pOVnIxRFZRNFhrdXBGeU5XYUhiUTBwUXFMbXA1TjRwcGdLNHBvOTJuM0FfSWlXYVptVGhJWHExLUNyWlZ6b3NCb08zZ3kyV1paZFUycHFVaHYtaE1MZXRKcnVCekF2ZUJiWDd6eUdxWmx2RURKaV9nQlRuNEh1UWF5b05ZbDVnTWtLLTVfU1JaZDlwUWxhUmplUVlwNkcxb3cyWm1YSkw0MTRtUDV3Q0ZoLURxMzJBc0lSNEVtcVpQdmtGVUtoSVdZdXhFcjl4WDBTS1JGVUpHMllPWkxwRVpoR3pfczJzak9FbGpMeHhvWHI2MkVXTXREZjZ5ZXh0SlplWndvV1luT1B5SjhsZU9IUQ?oc=5",
+   "id": "d85fdb7bce",
+   "title": "Mort de Jean-Claude Vannier, compositeur majeur de la chanson française et arrangeur inspiré de Gainsbourg",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa3QxbTBWZ1RUc3ppaTZTSmFsQko0SjBWdGRjbHA4WjNacVBYMVRlSnAzemxFV1lpdzBKOFZOVEZreFdPRTRZMXYtUG5kUl9JaHpiS1VMYTFxMnpuUENaZVNuTVYwUDQ3YnBoMGE1Uk1XdTJpdFFJNWpsUDRuZHhSU0piUGdnbFktT243LWZ6Y2MtZ0lCWVRCTGVKUlA1NnVTX2JaTmJ2M0habjlzWGpER0NMUlRza1phaXdBNjVkUURxYmt4cGdYMVRob01uX2VmdWkzQkNYSE9KQ0RFV1Z6SQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "franceinfo",
+   "source": "Le Figaro",
    "region": "FR",
-   "date": "2026-11-27T12:12:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "84adfd66f5",
-   "title": "Jean-Claude Vannier, mort d'un arrangeur et compositeur star",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWlrdHlMTmNmNS1nRTNkYzhHRDhSZ2phNVNIRlBmTEpQQ21zVzFZQ1ZjWFJtdWVfVTFPNUF5ZGxOenBBQ0pPRU9sNU9fbE9PNVFnNGI3cUN1OXpycWM3WTVOelB6WGtmdVR3aGZQcUh5T0IzSWJHVng1dWFTcktKVi1VWHFoeUFjZk53?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RFI",
-   "region": "FR",
-   "date": "2026-11-27T12:04:22+00:00",
+   "date": "2026-11-27T13:54:44+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -444,23 +495,6 @@
     "flag": "🇯🇴"
    },
    "topic": "Society"
-  },
-  {
-   "id": "527ab26e48",
-   "title": "À l'occasion du Black Friday 2026, ce PC portable Apple noté 5/5 perd 147,40 €",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0VMNllobF9xcnRYYlNwMnZQRzJkTmJwVS1pTVNmTnNrdW94aXRJVTZZVEV0TEE1UXZJdV9OdUxhRDg5cFRrZWZZclBKSlIyOGs1NmtEUktwNkROZ1dEa1BLSFdKUFRKWkhtdEVBVURCUGxITHBaRmg1UFNCRXAzRVBOODJ4VkpnekdGeHplMmotVW92b0FPM2xMb1lUY1FOTlFUSVRleUljcC1fUlBiU1RNQ0c2b1ZVRl81XzlMbENIRWdHcG50MmpsUUFQWGpnc0JDNF9hSWUyZUVscnd1NWVWbTlQMTRaZ1ZIbjlzNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Les Numériques",
-   "region": "FR",
-   "date": "2026-11-27T10:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Tech"
   },
   {
    "id": "71c663642e",
@@ -497,40 +531,6 @@
    "topic": "Society"
   },
   {
-   "id": "c0cdf93260",
-   "title": "Jeu en ligne, mods et 60 fps… GTA 6 sur PC avance à une vitesse phénoménale",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOXg0YkdQeTUtV3ZUTm9uMU1zajhIb1lSVUVDelJhc0xsVXpueGRHcW8xZzl1dEhDQUNWX29zaWlCT0hHZ2VBZ0Y0YXRaajc3b29Gc05sLWo5Q3NtMmxXMFh5OXFjZTJGUWMzSmFfcDBoVkQtdHNnSjVGWkZOb2R1MFlwb0Ezb0xzZjRNencxWV9IcHJob1N1bThnWk9OeDBEYnNPTXFnUkRUaTl3NEdoVnFoYk5ONUMyZDYxc1F4LUU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Numerama",
-   "region": "FR",
-   "date": "2026-11-27T09:17:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5aef8e57e0",
-   "title": "Charlotte Arnould soulagée du procès pour viol à venir pour Depardieu, après « huit années d’enfer »",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblZ5NWhQNld6cF9vb1pqdGlqMnlsQm9vZlM5bkFSWkhzMUdsbG9wY1RIYXZVcmpHeVV5LUVYNUd5U0JubUhoY21vV29Jam5Cb1NhWm9XeGFFb3lKVmxsV0FUVWFuR3lQT1F6eDFVVG1NZmpUV1hmMkp3ZE14clQ0YjVGV0hySDFFRWdtWFJCX2pBT092RlZXdkxBYU02T1czNjQycEdLSi1uYi1FOHJlRFFsa0Jadm40UU9qOHNIeHg2UnZFZzNyeE93c1NwZ205T3Ftb0RHZlNoMXdDaUhvMDNWZWZDQ0k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le HuffPost",
-   "region": "FR",
-   "date": "2026-11-27T09:07:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2b0c510b79",
    "title": "En direct : Trump dit souhaiter que Poutine \"mette fin à toute agression militaire\" en Europe",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc2VQVm5Eal8wZVBkTnc0em80VkxZdE1ZN2ZJZWhhRm0xUFI2c2xqWXJYWmV3eEhabWRHdXkyRVRxb2ljdXFLcGZabG9XZUxRUTdmeldIRUZSV0gxNkllTEdNRkt0ZnBDMjh2S2puSWpja21RcDFyYTRiblFMWTc2YXNtUDFqQ0QtMnoxcDFfQ011eG0xU294YkU1N3A5NTJvLXFCQVV1UWE3QXhieG1FTkNsYTlnN25HbXVkR1VsWjNnNHp4X3h2TUZJZms0M3RINjVYNw?oc=5",
@@ -548,14 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "66d9a60d93",
-   "title": "\"Faut surtout pas comparer\" : Kev Adams balaie la pression que pourrait avoir sa nouvelle compagne après qu'il soit sorti avec Miss Univers",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZjdxLWVvaGZ5YjRkNi1GMFp5aU10T1JHVDltVHFIX3NSSEhwbnBPUTZKcDhUOHVWMlBabEcycU9aWmZydUJkOTVBR2pKS0JYVURkRTZ5ZDlhcmVlTEk4MXZRMUNNYjNKbTNNZWJMTG5xT2hpZGtXbDdCWjdGR0NGVVNGZHcwTjVtNXVUUElQSE5KTTZ6bktua1MtS29WQjZ0Z3pHVjRBbVd5TmZXTGxVVlZURmZrQXJ0WkxzVThqRm1UdmowWUpNVWJrcGJjaE5lUHdIZnphQzQ4MVg3ajA2R0hjNWc1TVE5a2lfYmpCdHFjd2VDWVZBV3BkeVVhd0tlTVhUMGh6R05ydVN5bDc2OQ?oc=5",
+   "id": "a0ac9a415d",
+   "title": "Dette : pourquoi les agences S&P, Fitch et Moody’s sont si complaisantes envers la France",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEs1VlBDdGJBMDBCRmZrc1FGN2pPRnJpRWRzak9ERkRYU0dFV1hpNm5FaFlEZzJLdE11amlqeWt4THdadmFON3lTZGdoeUVfaTljQ1NjbVU2UVZuNzZwaExHLXZHblhmZEJzUXhiUUFZd0JRX3hFVTN4QTdMMzFuLVFXNUtNTU1ZYmQxcVJ1ZjRIM2hZMzM1aXNjQURpeDZNVzRlUE1vd0VCM2M1emNJXzROS3dLMWdRM0lfZF9DdU1TVnhpRTZ3b1pibw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Télé-Loisirs",
+   "source": "Le Figaro",
    "region": "FR",
-   "date": "2026-11-26T17:00:00+00:00",
+   "date": "2026-11-27T06:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -565,14 +565,14 @@
    "topic": "Society"
   },
   {
-   "id": "f1cc507a6b",
-   "title": "Cancers chez les enfants : une carte de France pour enquêter sur les causes des clusters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnlIV3MwUTZ1Tjc3SlUtYmRna3FYV2YzcGtyMzFZZkR1UHAxMV93X2pNcmI1Z2JUd0dPeWhUOXJ0YXFGZVFzVWR5dk1Id2dacEtVQTNXNUJoVlBVTVJ2NTdpcGVxNTlvSHppSVEzOVpuckdNUWtJbzBWRjl6MlVNWXB1QTVZSHhqRl9XVXBYUXV5dUY4T0xCUTdJTG42cUNnQUZlLUk5SUVTMlF2WkE?oc=5",
+   "id": "c2fd5174a3",
+   "title": "« Pour la littérature, le recours à l’IA est un vrai naufrage ! » : après l’affaire Thélyson Orélien, des écrivains face à l’intelligence artificielle",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbWdPU1VTSUQxUGJGa0RCcWV4di1hRzlaNEtIVlhkeTNVazkyUmVTaXdkbmhFSXIzQ3VkTjBzVmlldktSZHJrSFhMdURzOHdqek9vSmZLN0wzb0VqOWxSSlJqV1F5cW5QUEl4dmZMTFN2UFN0U1J1WEZHb0M2RFJ3Y0xqUXdBRzVjUThVLUFyVGtldGMwM3ZjYU5WWWRRZElVRk5CSGdNVTFjVHlOV3QtY0hzSGZJSVJzWnEwZnY3YWtuZkdLTkt0ZEtNWjlIQnRpdjI5bEVfcm12WEpDVDQ5RDFqUklPOEc2SXo0Z0lUcGF2OEF3LWRHNzJPbkk3Mk5VU0FIQzRtRDZTUzNyTmVxX3RTUXJ5VUUwOGNpNUQ2a2ZWVHQzLWxWaGRneElCaTVB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reporterre, le média de l'écologie",
+   "source": "Le Monde.fr",
    "region": "FR",
-   "date": "2026-11-26T10:01:00+00:00",
+   "date": "2026-11-27T05:00:02+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
