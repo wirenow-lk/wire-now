@@ -1,7 +1,7 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 12/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 60 stories
+OK   Ada Derana: 62 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 19 stories
@@ -16,27 +16,76 @@ FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 15 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 32 stories
+OK   BBC World: 22 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 81 stories
+OK   AP News: 75 stories
 
-Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Canada's top court upholds Quebec law banning (5 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets) | Parliament observes minute’s silence in remem (5 outlets) | Black Friday shopping on a budget? These 41+  (4 outlets)
+Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Black Friday shopping on a budget? These 41+  (5 outlets) | Canada’s Supreme Court largely upholds a Queb (5 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets) | Parliament observes minute’s silence in remem (5 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: MAS, Lanka Minerals sweep Mercantile Tennis doubles titles
+* TMZ [1 outlets]: 'The Challenge' Star Tyler Duckworth Cause of Death Revealed
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* IGN [3 outlets]: We’ve Found 10 Excellent Game Deals for $20 or Less in Black Friday Sa
+    important (also on NBC News, Tom's Guide) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily News [1 outlets]: Sri Lanka Athletes win eight gold medals at BIMSTEC U-23 meet
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [1 outlets]: Maaveerar remembrance events held across North and East
+* The New York Times [1 outlets]: How Eagles QB Joe Milton rocketed into ‘rock star’ status on Thanksgiv
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strik
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+* Al Jazeera [4 outlets]: US military says it disabled merchant ship trying to breach Iran block
+    important (also on AP News, CBS News, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -45,49 +94,17 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Sri Lanka successfully hosts 1,200 Chinese tourists in mega MICE event
-    normal news - one-paragraph summary
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your )
     news search: 0 results, 0 about this story
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: OpenAI countersues Apple over trade secrets as AI race heats up
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Venezuela to repeal law that bans opposition figures from office
-    important (also on BBC World) - researching
-    news search: 0 results, 0 about this story
-    read 2 articles: Al Jazeera, BBC World
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
+  photos: looked up 24, found 0
   photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
@@ -97,4 +114,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 67 story pages for Google)
 
-Countries: IN 35, PK 34, BD 33, US 33, GB 36, IE 37, CA 38, AU 36, NZ 30, SG 33, MY 32, PH 35, AE 33, IL 37, NG 34, KE 35, ZA 32, GH 32, FR 34, DE 32, JP 9, IT 33, ES 33, BR 33
+Countries: IN 36, PK 35, BD 33, US 33, GB 36, IE 36, CA 38, AU 37, NZ 31, SG 34, MY 31, PH 34, AE 33, IL 36, NG 34, KE 32, ZA 34, GH 32, FR 34, DE 32, JP 11, IT 32, ES 34, BR 33
