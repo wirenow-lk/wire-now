@@ -1,15 +1,15 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 36/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 41/80 used today
 
-OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 49 stories
+FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
+OK   Ada Derana: 44 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 22 stories
+OK   EconomyNext: 24 stories
 OK   Daily Mirror: 98 stories
-OK   Hiru News: 100 stories
-OK   Newsfirst: 25 stories
-OK   Daily News: 83 stories
-FAIL Sunday Times: HTTP Error 429: Too Many Requests
+FAIL Hiru News: HTTP Error 429: Too Many Requests
+OK   Newsfirst: 26 stories
+OK   Daily News: 81 stories
+OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
@@ -21,19 +21,36 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 87 stories
+OK   AP News: 86 stories
 
-Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Diana Gamage pleads guilty to overstaying vis (6 outlets) | Navy seizes suspected drug boat with seven su (5 outlets) | Net migration to UK falls to lowest level sin (5 outlets) | World Bank expands local currency financing i (5 outlets)
+Biggest stories right now: Heavy showers above 100mm expected in several (6 outlets) | Diana Gamage pleads guilty to overstaying vis (5 outlets) | Navy seizes suspected drug boat with seven su (4 outlets) | Zelenskyy warns of major Russian attack as Tr (4 outlets) | New Zealand’s ruling coalition falls just sho (4 outlets)
 
-8 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [3 outlets]: Parliament observes minute’s silence in remembrance of cyclone ‘Ditwah
-    important (also on Daily Mirror, Newswire) - researching
+* Daily Mirror [1 outlets]: World Vision concludes Cyclone Ditwah Recovery response. Over 237,000 
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily News [2 outlets]: Pablo Hernández de Cos nominated as next ECB president
+    important (also on The Guardian) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
     reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: Detail 2: Teresa Ribera described as 'became' an executive vice-president, but the article states she 'is' one (present tense).; Detail 2: Nadia Calviño described as 'led' the European Investment Bank
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -42,64 +59,25 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: Cards say 'minute’s silence' but the article says 'moment of silence' and does not specify a minute.; Details claim the silence was observed 'throughout the chamber as a sign of respect'; the article 
-    cards OK (attempt 2, written by openrouter)
-* Hiru News [2 outlets]: Seven suspects arrested in drug bust are foreign nationals, says Navy
-    important (also on Newswire) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 failed: AI did not reply with JSON: ''
+    attempt 2 rejected: Detail 1: EU diplomats agreed on Thursday to nominate Hernandez de Cos not explicitly stated; article links Thursday agreement to the two other ECB executive board appointments, with the package deal 
     -> no cards; posting with the site's own summary
-* The Times of India [2 outlets]: Tamil Nadu rain alert: IMD warns of heavy rain in Theni Ghat areas, th
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newsfirst [2 outlets]: Foreign-Flagged Suspected Drug Boat Seized
-    important (also on Newswire) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    cards OK (attempt 1, written by openrouter)
-* Newswire [2 outlets]: Amnesty renews calls for accountability in Sri Lanka following new UN 
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    cards OK (attempt 1, written by openrouter)
-* Daily Mirror [2 outlets]: Suspect arrested over Rs. 1 Mn bank fraud using fake website
-    important (also on Newsfirst) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [3 outlets]: US too focused on Middle East and not pushing Russia hard enough, Zele
-    important (also on BBC, Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 rejected: Cards state talks are 'set to', 'scheduled', or 'slated' to resume in December; article says they were 'expected' to resume.; Cards state talks made 'no progress'; article says they made 'no obvious p
-    -> no cards; posting with the site's own summary
-* BBC World [3 outlets]: Sheikh Hasina's planned return puts Bangladesh on edge - and India in 
+* Newswire [2 outlets]: 27-acre Arts and Cultural Village proposed near Colombo
+    no AI summary: saving the rest of today for important news
+* Newswire [2 outlets]: Senior DIG Lalith Pathinayake arrives at Bribery Commission
+    no AI summary: saving the rest of today for important news
+* Fox News [2 outlets]: Putin's grip on Crimea tested amid major blackout as Zelenskyy warns o
+    no AI summary: saving the rest of today for important news
+* The Guardian [2 outlets]: New Zealand election: final results show ruling coalition needs minor 
     no AI summary: saving the rest of today for important news
 
-Top 10: 0 fully explained
+Top 10: 2 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 7 too small to look sharp, using the clean cover
+  photos: 5 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  Fact Base: 25 facts and 2 people saved
   meaning check: 15 stories judged by openrouter:openrouter/free
   meaning check: 15 stories judged by openrouter:openrouter/free
 
 Website updated: 150 Sri Lanka + 75 world stories (6 with cards, 67 story pages for Google)
 
-Countries: IN 37, PK 35, BD 34, US 34, GB 36, IE 37, CA 36, AU 36, NZ 33, SG 36, MY 34, PH 34, AE 34, IL 35, NG 34, KE 33, ZA 35, GH 33, FR 33, DE 34, JP 14, IT 33, ES 32, BR 34
+Countries: IN 36, PK 36, BD 33, US 33, GB 36, IE 36, CA 37, AU 37, NZ 33, SG 36, MY 34, PH 32, AE 33, IL 34, NG 34, KE 33, ZA 37, GH 33, FR 34, DE 34, JP 11, IT 33, ES 33, BR 33
