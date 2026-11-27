@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 76/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 79/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 52 stories
+OK   Ada Derana: 57 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
-OK   Daily Mirror: 99 stories
+OK   EconomyNext: 22 stories
+OK   Daily Mirror: 100 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 18 stories
-OK   Daily News: 76 stories
+OK   Daily News: 75 stories
 OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -16,65 +16,32 @@ FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
 OK   Google Warnings LK: 13 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 27 stories
+OK   BBC World: 28 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 72 stories
+OK   AP News: 86 stories
 
-Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Hundreds of thousands still without power aft (4 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (4 outlets) | Italians killed in Kuwait: Why is Iran denyin (4 outlets) | S&P upgrades Sri Lanka’s credit rating to ‘B- (4 outlets)
+Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (4 outlets) | Italians killed in Kuwait: Why is Iran denyin (4 outlets) | S&P upgrades Sri Lanka’s credit rating to ‘B- (4 outlets) | Trump urges Putin to end 'military aggression (4 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [2 outlets]: School term to end on December 4
+* Ada Derana [1 outlets]: Retired army soldier arrested with T-56 firearm & ammunition in Panadu
     no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: IRD warns public about fake notice on weekend office openings
+* Hiru News [1 outlets]: Amazon workers plan worldwide protests over pay and working conditions
     no AI summary: saving the rest of today for important news
-* Ada Derana [2 outlets]: Millions of wives in South Asia unprotected from marital rape – study
+* Newswire [2 outlets]: Why was Jaffna’s ‘Matara Ambula’ restaurant partially demolished? Poli
     no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Canada's Supreme Court to rule on Quebec's law on religious symbols in
+* Hiru News [2 outlets]: Pathfinder Foundation and ANZF discuss regional security, maritime coo
     no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India
+* Hiru News [3 outlets]: Global news agency AFP reports cyberattack, shuts down content platfor
     no AI summary: saving the rest of today for important news
+* The Guardian [3 outlets]: ‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage
+    important (also on Daily Mirror, Reuters) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -89,12 +56,16 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* The Guardian [2 outlets]: Hackers reportedly breach US Air Force’s flagship cloud computing plat
+    no AI summary: daily limit reached
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
   photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
@@ -102,6 +73,8 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 67 story pages for Google)
 
-Countries: IN 36, PK 34, BD 34, US 34, GB 36, IE 36, CA 37, AU 0 (FAIL), NZ 35, SG 36, MY 35, PH 34, AE 34, IL 37, NG 35, KE 36, ZA 36, GH 32, FR 32, DE 34, JP 4, IT 32, ES 34, BR 33
+Countries: IN 0 (FAIL), PK 34, BD 32, US 32, GB 35, IE 38, CA 37, AU 36, NZ 35, SG 36, MY 33, PH 35, AE 32, IL 37, NG 36, KE 36, ZA 36, GH 31, FR 32, DE 0 (FAIL), JP 8, IT 33, ES 34, BR 33
+
+Posted today's Top 10 round-up
 
 World Pulse not made this run: no AI available for writers
