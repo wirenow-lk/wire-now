@@ -1,11 +1,11 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 22/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 62 stories
+OK   Ada Derana: 61 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 19 stories
-OK   Daily Mirror: 98 stories
+OK   EconomyNext: 17 stories
+OK   Daily Mirror: 99 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 15 stories
 OK   Daily News: 57 stories
@@ -14,7 +14,7 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 15 stories
+OK   Google Warnings LK: 14 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 22 stories
 OK   The Guardian: 45 stories
@@ -23,49 +23,54 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 75 stories
 
-Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Black Friday shopping on a budget? These 41+  (5 outlets) | Canada’s Supreme Court largely upholds a Queb (5 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets) | Parliament observes minute’s silence in remem (5 outlets)
+Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Kenyan cult leader guilty of manslaughter mor (5 outlets) | Thousands still without power after storms th (5 outlets) | Black Friday shopping on a budget? These 47+  (5 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* TMZ [1 outlets]: 'The Challenge' Star Tyler Duckworth Cause of Death Revealed
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* IGN [3 outlets]: We’ve Found 10 Excellent Game Deals for $20 or Less in Black Friday Sa
-    important (also on NBC News, Tom's Guide) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily News [1 outlets]: Sri Lanka Athletes win eight gold medals at BIMSTEC U-23 meet
+* Daily News [1 outlets]: SL joins Asian Women Parliamentary Caucus
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* The New York Times [1 outlets]: How Eagles QB Joe Milton rocketed into ‘rock star’ status on Thanksgiv
+* NBC Sports [1 outlets]: Mason Rudolph hits DK Metcalf for touchdown pass as Steelers take 14-0
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Al Jazeera [2 outlets]: Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strik
-    important (also on Reuters) - researching
+* Daily Mirror [1 outlets]: Can Budget 2027 help Sri Lanka keep its talent?
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: Airline Norse Atlantic's Norwegian operating unit declares bankruptcy
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* BBC World [2 outlets]: Brazil pushes back on Macron calling its meat 'doped'
+    important (also on BBC) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (The read operation timed out)
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     -> no cards; posting with the site's own summary
-* Al Jazeera [4 outlets]: US military says it disabled merchant ship trying to breach Iran block
-    important (also on AP News, CBS News, Reuters) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -73,19 +78,7 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the number 2,400 is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -94,17 +87,24 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {
+    attempt 2 failed: no AI available for writers (last error: AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
+  photos: looked up 24, found 1
   photos: 9 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
@@ -114,4 +114,4 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 67 story pages for Google)
 
-Countries: IN 36, PK 35, BD 33, US 33, GB 36, IE 36, CA 38, AU 37, NZ 31, SG 34, MY 31, PH 34, AE 33, IL 36, NG 34, KE 32, ZA 34, GH 32, FR 34, DE 32, JP 11, IT 32, ES 34, BR 33
+Countries: IN 36, PK 35, BD 32, US 32, GB 36, IE 37, CA 37, AU 37, NZ 31, SG 34, MY 33, PH 35, AE 32, IL 37, NG 34, KE 33, ZA 32, GH 33, FR 33, DE 32, JP 11, IT 32, ES 33, BR 33
