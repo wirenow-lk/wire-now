@@ -1,56 +1,52 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 41/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 42/80 used today
 
-FAIL Google Top Stories LK: HTTP Error 429: Too Many Requests
-OK   Ada Derana: 44 stories
+OK   Google Top Stories LK: 38 stories
+OK   Ada Derana: 49 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 24 stories
+OK   EconomyNext: 21 stories
 OK   Daily Mirror: 98 stories
-FAIL Hiru News: HTTP Error 429: Too Many Requests
+OK   Hiru News: 100 stories
 OK   Newsfirst: 26 stories
-OK   Daily News: 81 stories
-OK   Sunday Times: 3 stories
+OK   Daily News: 78 stories
+OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 11 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 31 stories
+OK   BBC World: 32 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 86 stories
+OK   AP News: 77 stories
 
-Biggest stories right now: Heavy showers above 100mm expected in several (6 outlets) | Diana Gamage pleads guilty to overstaying vis (5 outlets) | Navy seizes suspected drug boat with seven su (4 outlets) | Zelenskyy warns of major Russian attack as Tr (4 outlets) | New Zealand’s ruling coalition falls just sho (4 outlets)
+Biggest stories right now: World Bank launches First Sri Lankan Rupee Fa (7 outlets) | Parliament observes minute of silence for Cyc (5 outlets) | Heavy rainfall of over 100mm expected in seve (5 outlets) | Two Italians killed in Kuwait drone attack; T (5 outlets) | New Zealand’s ruling coalition falls just sho (5 outlets)
 
-6 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily Mirror [1 outlets]: World Vision concludes Cyclone Ditwah Recovery response. Over 237,000 
+* Daily Mirror [1 outlets]: A Cost-Free Solution to Railway Level-Crossing Accidents
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily News [2 outlets]: Pablo Hernández de Cos nominated as next ECB president
-    important (also on The Guardian) - researching
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
+* Newswire [1 outlets]: One year since Ditwah: Sajith calls for new disaster management mechan
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    gemini failed (The read operation timed out)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    attempt 1 rejected: Detail 2: Teresa Ribera described as 'became' an executive vice-president, but the article states she 'is' one (present tense).; Detail 2: Nadia Calviño described as 'led' the European Investment Bank
+    attempt 1 rejected: Spoken card includes 'Hello and welcome', which is not in the article.; Spoken card says 'brand new disaster management system', which is not clearly stated in the article.; Spoken card says the curre
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -59,25 +55,73 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 rejected: Detail 1: EU diplomats agreed on Thursday to nominate Hernandez de Cos not explicitly stated; article links Thursday agreement to the two other ECB executive board appointments, with the package deal 
+    attempt 2 rejected: the name/word 'MSMEs' is not in the article
     -> no cards; posting with the site's own summary
-* Newswire [2 outlets]: 27-acre Arts and Cultural Village proposed near Colombo
+* Hiru News [2 outlets]: Court of Appeal to announce order on Suresh Sallay arrest petition on 
+    important (also on Newswire) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* Daily Mirror [3 outlets]: Showers expected in several provinces
+    important (also on Ada Derana, Daily News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Daily Mirror [2 outlets]: Janali and Yasitha tennis champions
     no AI summary: saving the rest of today for important news
-* Newswire [2 outlets]: Senior DIG Lalith Pathinayake arrives at Bribery Commission
+* Newswire [2 outlets]: Rs. 8.4 million bribery case: Chamara Sampath further remanded
     no AI summary: saving the rest of today for important news
-* Fox News [2 outlets]: Putin's grip on Crimea tested amid major blackout as Zelenskyy warns o
+* AP News [2 outlets]: Caleb Williams’ TD pass with 3 seconds left gives Bears 39-35 win over
     no AI summary: saving the rest of today for important news
-* The Guardian [2 outlets]: New Zealand election: final results show ruling coalition needs minor 
+* Al Jazeera [2 outlets]: India’s Pant plays for New Zealand side under false name ‘Stan Stan’
     no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
-Top 10: 2 fully explained
+Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
+  photos: 6 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (6 with cards, 67 story pages for Google)
 
-Countries: IN 36, PK 36, BD 33, US 33, GB 36, IE 36, CA 37, AU 37, NZ 33, SG 36, MY 34, PH 32, AE 33, IL 34, NG 34, KE 33, ZA 37, GH 33, FR 34, DE 34, JP 11, IT 33, ES 33, BR 33
+Countries: IN 0 (FAIL), PK 35, BD 35, US 35, GB 36, IE 36, CA 37, AU 38, NZ 35, SG 36, MY 33, PH 33, AE 35, IL 35, NG 34, KE 33, ZA 36, GH 33, FR 34, DE 33, JP 10, IT 31, ES 33, BR 33
