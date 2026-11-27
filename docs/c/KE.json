@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-27T09:50:19.365036+00:00",
+ "updated": "2026-11-27T10:52:09.286547+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
   {
-   "id": "36a2639637",
-   "title": "Obado sentenced to 25 years in prison over Sharon Otieno murder",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRm1sTkFtT0Rfa3kwRHA3RG9VTFppRU9CbHlPQnB1WW5kdTVwb3Zib0tmcWtoYWYyZnJ2UGoyZ0xra05mTmlUb1pOVkpMWWVNWHhvdWZjSkpOMDVZQnJ5MlNjS25kZmFBbmxvUS1RbTYwR2liaEIteFhxUXlMQ3o1eXRrOGJyXzhDSXFiWlh3Y3FRQW9QVF9fWGQwS2JWM0w5Nk1J?oc=5",
+   "id": "e4207e3dab",
+   "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BMTlzcWp3TTRSSnFCR29lSnNjSGVWdGRGM3Y4NTdNUWp3V1VFVTd3QUx0aEx4QmNJZ1hhSVRBd0RqcDNqRk8tbVE1eVhkamZ1MTE2S1I0LTA1ZGwyYlhORHVZOHhVSHZlZTRvOVRtSQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star, Kenya",
+   "source": "Science Daily",
    "region": "KE",
-   "date": "2026-11-27T08:40:00+00:00",
+   "date": "2026-11-27T10:04:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -21,14 +21,48 @@
    "topic": "Society"
   },
   {
-   "id": "af647b7484",
-   "title": "Kenya Airways warns of flight disruptions as Nairobi airspace faces temporary closures",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDY2ejUyZVNJQzVZb0UtQ0VQRTItbTdmd2JDbXgyTE5jcmszbmhvUE1DS1R3TG9qRTdKbHJCd056a1l1d1loR3BwRFJCSG5ZdVNtQ1B3R1U3c0pzR0FQU25Ld1BFVHRxQ2FpR3JXbi05bXRHM1ljb21aNnRNREtaMXVoQ1AyLVNQbnZhTXZOUjE5YURCY0NNRTIzaVNWU09zM3RvQVI5ZFZrUnJ6UG1hMA?oc=5",
+   "id": "1ccf7a483e",
+   "title": "Flash floods cut families off from healthcare in Mudug, Somalia",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjVFQkthQ1p0ekhKb3ViZmtpYXVCeFZKZWZPcVBzemp3d3pXejZXMmpmdmx4RWNxZUE2VUhMWkFaRzE2NTZjSDNFQkNyRnZlMTh5NHBHdm01VldvN3ZzcXJteTR5Y1BBSnA4UEpiSkFvWGZraVFlclFHTkFEOE9lcGZFV2lFemNOX3g0bXMxaDc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Radiokaya",
+   "source": "ReliefWeb",
    "region": "KE",
-   "date": "2026-11-27T08:38:47+00:00",
+   "date": "2026-11-27T09:55:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Somalia",
+    "place": "",
+    "flag": "🇸🇴"
+   },
+   "topic": "Weather"
+  },
+  {
+   "id": "80843d20a0",
+   "title": "Marco Rose hails 'relentless' Bournemouth after 10-man Cherries make European history against Celta Vigo",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmFjWG1pS2JwR3JQcjM1V3gtVEMxblFnNU1SVnp4VjRnWTBSTktjeXV6enl6ZWtyeHFIQ054M3Z2eFhXMGljdGczNE1saDR2dkdkY2lndG1tNUI0SExHY1BWcnFpbmgzb0h3X1pzdVNQMDZDWHg3dm84V3lZTFRURmtGcmlCVUR5cHJ2OFFScGFSQU50VFp1c00wVlB0b0VEa1lka2VkZVlGbU5BN1Zv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Goal.com",
+   "region": "KE",
+   "date": "2026-11-27T08:58:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "36a2639637",
+   "title": "Obado sentenced to 25 years in prison over Sharon Otieno murder",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRm1sTkFtT0Rfa3kwRHA3RG9VTFppRU9CbHlPQnB1WW5kdTVwb3Zib0tmcWtoYWYyZnJ2UGoyZ0xra05mTmlUb1pOVkpMWWVNWHhvdWZjSkpOMDVZQnJ5MlNjS25kZmFBbmxvUS1RbTYwR2liaEIteFhxUXlMQ3o1eXRrOGJyXzhDSXFiWlh3Y3FRQW9QVF9fWGQwS2JWM0w5Nk1J?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-27T08:40:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -53,6 +87,23 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "dc587c7e1d",
+   "title": "The month’s best folk album: Lizabett Russo confronts her roots on an odyssey through Transylvania",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeG5CbG9aNG9RWk1BQ20xeG5scXdCNFdIaHB4WmtQVHo1c2UxaU1QR05idDlBN0IwN001aks3eEhXWWZicGZVYThyLWxvRXFGZ2FESUZ5Vll3QUwzTHliajItRS1KaTdjVkxaRU9SOWNKS1dkTHNZQkVtSThka1c5VlZ2bHJ2ampDVklVeXpQQXNSVG9kMXh3ZGlraUNIc0dsSmZRSlZCZjN0NEYxekxZNHlTOUw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "KE",
+   "date": "2026-11-27T08:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "1f118d5060",
@@ -106,23 +157,6 @@
    "topic": "Society"
   },
   {
-   "id": "3b3603226b",
-   "title": "Week in wildlife: ‘polar bear jail’, baby penguins and the turkeys’ revenge",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdzFOQzJZODJld3Y4UkFxNHMxVUJJRjB1SE80Z1JoUkpDQzZmTFVHMUFUcGtpTzVodU9VNHFOZHNpN3gxNWJiQmRnSk5sX01od1ZaTXlaX1RYZDNuOGtWYmRyS1dQZU5UWG9CTlRCeDdXWnd5NUdNOEVQTzdqdVJ6WnU5U3VTc3FhM1hRX05oWVl2cGszeGl5SDR2Z3JJVVptQ08tRkExUlZ2aklTY0F0aEhCdTZKY2tFZEs1RzhrQVRKZmFvaUZhZ25R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "KE",
-   "date": "2026-11-27T08:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "782e7ca0aa",
    "title": "Morocco signs two agreements to fund local defense industry",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUVczMjEyazluVkZnZldEdGdmQ3oycjhEbldtdUlnQ1JmZF94d0xUOUNHMVo1WDRjQVZNMTFvcWRDU3FEZGNoZGlpblpsakx1ZTc1MnRIOXJraFFuampkcTNCc1k1ZU1fenljejgtUGIxT3I2bVdsSHRZWHU3SFg1LTBaZ2IxaHV3dVE?oc=5",
@@ -155,6 +189,23 @@
     "flag": "🇰🇪"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "f446da1286",
+   "title": "Of minors, blood and mayhem: Children join violent gang groups, turn estates into battlegrounds",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2l3TFRIbHM4WUxXM0dqZG9Ma1pfRTM5WHRQQ1BFRERvUTMyWHVSeDVsYzdiT256TkJTLWp6UE9qbkxsSENTQWlTWEdSM25EeVQxZ2ZmLXZvaXJKMFRJMEE2ckQwX3pRLTZuQThtN2g1RFJsUHRaSDA5SjcxOFR5YjZLTk5MaVB5YzJKTHZhOFhvcE93c3dUS2JHM00zUWJtcDhxLUYtOUM5RDkxWTQtRHZVVnRhRWV2dWVoRUFVNV8weWtGQmUyTjhQcXoybEZSNjU2Y2VyRVg2NUlpZVlwM19Fd0dmNlZVSlY4SlBFdF9IMkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Standard",
+   "region": "KE",
+   "date": "2026-11-27T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
   },
   {
    "id": "da36b1d7c4",
@@ -191,38 +242,21 @@
    "topic": "Society"
   },
   {
-   "id": "30e12d4c3f",
-   "title": "Richest ‘Everybody Loves Raymond’ Stars Ranked by Net Worth from Lowest to Highest (The Wealthiest is Worth $200 Million!)",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjlwSlF6cGp2bFRPbDNJNkZpQjNuRnRFM1V0TjlRT2UyWHEyRGtFdy1JTS00M3hIemk4bnlqNkwxanpnUGRBQWtZOUdEc2pzVlBkZ1JsVkRMVmZ0U1d5TnU3UFRCRUo1b1ZxV0I5MlZ4cXdhUXdERGVZMWRrUTJBZmNkWGdqOFpHeTdGck5PZUJBOURpUFItN0ZjSFFuNVUwaXUtb0toWjNHTWs?oc=5",
+   "id": "5bdfcec8d7",
+   "title": "Mackenzie not off the hook as court delivers fresh Shakahola convictions",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUGg2cl80V1hrOTNVTXloamhSaXF2QUpHSllWUnJqS3NLaGoyX1NQRWhCWUU0V1Z1clVySEsyZ1h6X3FkaWRIR242cTkyX3h3ZF80NS1MbVBwa0pLT2lVMC0wX1NUWUFmQnlzMUtRbjFtdWJrQmNORWZicUQ4M3ViTGlMOG11TlJqQV9qdFExdW1qM1FPREVzcnZ2NngtX19LVmZfanVKaHpfUlFMaHliZFlzby1Kc2dBS1h6Q3FCelRiSjQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-27T04:00:00+00:00",
+   "date": "2026-11-27T04:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "a2114fc7ab",
-   "title": "Kenya unveils Sh30 billion plan to curb road crashes",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2FsLV9HTFlnWGUxRnljd05TaWJnSTNZMm9FY0RHU3BoZFF6Y21QRE03UGNOb1JTbGVOLUNFalNMYVZodnIzTmh3MTV0NWRsTmthb01qNHZDRGtYZGhJaEZ1NVY3eHAtbXpEME9iUy1QRTZYUjEySXJYVXd1Umw1b1l4RXVpZjhQVHZjYm9QYW9OYkhONm5ONUxlU3RKR1ZGRGlWdkswM05UOHBRSUd0NTFB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "www.standardmedia.co.ke",
-   "region": "KE",
-   "date": "2026-11-27T03:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "0e9c0f2199",
@@ -257,23 +291,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "4d7e82ad03",
-   "title": "Tebbutt attack in Lamu: Kenyan Ali Kololo says Met Police ruined his life",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00VjAtMG00ZjlwUWQ5VWRCRVNBekpVVnRKMHlrLXg4dEduM2hYU1Y5OUFBQzdHdTVsNFBIY0hjeW83YVVFa1BJekNNeDRldTdkY2xPVGl6TERXVUk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "KE",
-   "date": "2026-11-27T00:48:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Politics"
   },
   {
    "id": "265d291964",
@@ -340,57 +357,6 @@
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "27df33905e",
-   "title": "Intra-African trade reaches $213.8bn while only 15% of the continent's trade stays within Africa, Starks’ report finds | Corporate",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPRFc3cHJJOWpMbkVzMjZER2FXY1hVbmJXX1BDNk5CRnBEVnE0anNqR3FadW0wXy1nS1NRbzI4N0otNGltTDA1SnNiZURsTTdqQUw4bjduaUVOS2wzSVUyYzl3QWtadHpSY01oVVI3WldWeE5TWE81UkNUMkZrTEJYZW41NmI1SjBtOHFxdVFHdFR3Rk1yRTdkM2p3b05NRjVWSU1Fd082RU5JQUFVbkJ2b2h1WnkzQy0xS2d0UFRuTGxyVFFvamY0S0lZZGtjeVBzYmJQckJpbVZIUEFESV9HQzVqQl9PNXRod3ZNUThwR2xHUnRMZGZ6N2wyVGtXWkFyYTA0RDNDZDBKSE1ETzBVd29MTnFjVDBySE5Fejdn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EQS News",
-   "region": "KE",
-   "date": "2026-11-26T18:35:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3a0fddfb94",
-   "title": "PROXIMITY COMMANDERS’ MEETING CONCLUDES IN KAYONZA",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONEJRVzNOZnE0MExaVnc4NktzNFhpaTIyclJpR2FvanFzRlV6M0llN0czaGU4Uk03RU9iVXFBX1lHODJDQkk3cnNNZjNMd1JRMEk0bXJRVlVGWC12NTVqZ3A3QVJNZ3ltOEt0Y3ZPbXNEZE92SFpjVjhsZmV6WmhUbUxKQlpFU1dzT2VFUzV4S1JkWk9DclNScVZVNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "mod.gov.rw",
-   "region": "KE",
-   "date": "2026-11-26T16:25:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d2dec77134",
-   "title": "Transfer: Real Madrid will sell Vinicius, buy Haaland - Gary Neville",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzI2eVR4enROZlM5emZJYnVFdHRubW1Gc25jenpmZG5ZV1NUV3pHZlJPbFNfNGVLa25JR0tkX2E4eXZEZ3hPcEUwc2pHbDZReTBsTWxsN21KSzMyMklnWUpyS2Z0dkxRY3RmRmRnbnNGV0VUWmRFSGYxUVZKbEEzR1VpcmZ5cG5sTWh6WUU1QnNxcFI2Rkx5WGxiUXB4Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Post Nigeria",
-   "region": "KE",
-   "date": "2026-11-26T15:56:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
    },
    "topic": "Society"
   },
@@ -497,6 +463,40 @@
    "topic": "Society"
   },
   {
+   "id": "85ee07ed5c",
+   "title": "Wandayi: Why Kenya needs private investors to expand its power grid",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWURmWEpxa0JtdjFNV3JfVlg0SnM4MEZXRjZMRGo0R0JLVjc0WXE4ZWc0bU1VMUZvTDFqdFQyRXZ5VWJMTVBvQUgwaXNKMFU0MFljSEdOUmNYeGtRX2Vienpfdm9sRmttZGE4aUpSYXhuc3ZZcG1FcGNSX0daQ0QxZE1RM18tRlotMGdEc0xGTUc3NVJsbnlJTlMxblRvTVBHdWlxejIxM1N3amo0ZGsyQWtkZFkyc2FNSWVyZmptbXA5LWFDTi16T3lvSXBhby1V?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Standard",
+   "region": "KE",
+   "date": "2026-11-26T12:00:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bdcd80f2e2",
+   "title": "NTSA to suspend 300,000 driving licences as speeding violations hit 740,000",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVldXSzNnZHFpQU5xZ2RkUXZjTUJVOHFWaWlFeU1icmRDQUQ4bGM2LXpjSExTeHB5YV9ucVVONm5GZ0M3Um55NENXU2JDNDlZNzJsS2Q3MWgyUU5heFo1Njd4X1hLVDc4NWUtLVhzWXZ1bmtqa0FhVEx2Sy05cjBSVFgzQ2drU1owNHA2c216TVdpbVRMTEZzaUsxYmFNbHlfZFFCenRSREdjckhQa3JneW5HU05DdUdXWlRuRU1kT2FVVllMVjVpLUtEajN6dXVNZ29kME9iSmJ6VlYwRUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "www.standardmedia.co.ke",
+   "region": "KE",
+   "date": "2026-11-26T11:57:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "da0373d7fe",
    "title": "ASIC sues AIG over alleged complaints handling failures that left some customers waiting months for answers",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPaURvQi1YTC0yaHdNYTJuM2ZXMXdqeS0wODg3TktjZkVZMEw5ak5acmlETmNSaGdHNWxHeW94b25DWE9Id1NMRVdBMnRac0pFZkZzdy1hYUwwclNDSG1HV19jRjBwQVk3azBTbGx3ejJwbWNidVpZenFWT3VmM2xjWVJtQ2FUQ1lKYmZBS3dyS05lRHdmRVNCR1NkMmx4ZDllaUw5TGZMMUx4eHRJOWRqRVd1WllQZTZMNk9uSXhnQkwwQ1FHeEFuWkdpVUMzMkNXdk8yY0NrdDhfQjg3MmdnSGMwSWtpVXBpdGlYQUhUbFUzaUdqR0g2emVrajJIZGZVaUs4bzVIU0FTeEhNVUZmbzRzaDZqVWtPMmpRN2NwN3o5U2p1?oc=5",
@@ -531,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "c50565be68",
-   "title": "Estonia adopts first ViDA VAT reforms for 2027 and 2028",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzdJTHc0b2ZrSTYwQ1g4MlRkVHRaR3BSem5JQXo1RWpTOGNLS3dYTGRNdjB4eEx0aFVCYWVxXzBuOWFoWXFodlZ4TzFiUGxTYUVYMXV4SmtNUE42UWlCZVhqN0E4OTliUW14RDdGOXpnYTUtenZhWGVYNlVHRWRuc2lXU3JxQktfMGl0QTlheGhDQQ?oc=5",
+   "id": "6b82790484",
+   "title": "UNAIDS calls for justice for women, girls living with HIV",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFBTTVFxZHdEN25fODdKcjVQM3pVaHI1c1BhRFZxNWtURWF5T0NzOXd1TFJOMldzXzdKOWItWU1HWFBUUnJwd1ZEUEtBWW56WFY0a3AzejlkRlZ5LWtKRmEzVDNQLWRJUVFiVHhJVkN3RGw5bGJTV1lwV2ZVZFFzeXpNVjZYUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "vatcalc.com",
+   "source": "KBC Digital",
    "region": "KE",
-   "date": "2026-11-26T09:16:55+00:00",
+   "date": "2026-11-26T08:17:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -548,14 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "6b82790484",
-   "title": "UNAIDS calls for justice for women, girls living with HIV",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFBTTVFxZHdEN25fODdKcjVQM3pVaHI1c1BhRFZxNWtURWF5T0NzOXd1TFJOMldzXzdKOWItWU1HWFBUUnJwd1ZEUEtBWW56WFY0a3AzejlkRlZ5LWtKRmEzVDNQLWRJUVFiVHhJVkN3RGw5bGJTV1lwV2ZVZFFzeXpNVjZYUQ?oc=5",
+   "id": "7a434a056d",
+   "title": "£15bn cash boost will not increase National Wealth Fund’s spending",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczhsTFQyRmZYWUxoaFVDZ2NHUEJicXlfTnlpZ0s2TFZXakV6aTF6R0t5WUM1NUNxU2hFdEl3LTVwQkVKbVVzVWNWN2NZRHd3RFBxcFc5cHQ4ZHV4QjJwWUxIZEY4bEM1Ujg1UmNGNW9NLWlNMHZWeWJEa1NZbEttYWJ3UWw?oc=5",
    "summary": "",
    "image": "",
-   "source": "KBC Digital",
+   "source": "Financial Times",
    "region": "KE",
-   "date": "2026-11-26T08:17:53+00:00",
+   "date": "2026-11-26T05:00:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",

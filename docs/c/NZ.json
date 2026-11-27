@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-27T09:50:19.365036+00:00",
+ "updated": "2026-11-27T10:52:09.286547+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
-  {
-   "id": "8df636fb99",
-   "title": "Ticket slash: Guns N' Roses Auckland tickets selling for just over $50",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenlNWkl4OXlpQks3aE9nMWxCVDYzWXBDWk9vRi1xdjRfMkktWHRvMlhBbVNJZlR5eG5BUUN4WEFJclhUQk1adk1maTcwUElZRTdjU1lSRFZuQUt1eXJ5T2NhUkljRnd5TWlOMm1iOEp0RkIxWDJfN0R0UGpsZ2lNbEVXN2xKZHdDUDNfZDRSVkwzamlCZFVuWFZGZHdIdVMxcTJXcnNCTGV5X0FZVDNpdDhEU20zcWxqakVkQWQ5czRoRzRWcUtfQ1l2Z1VnQ2N1Sm5ZNkFVcjItQng0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-27T09:11:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
   {
    "id": "d02cfbdd1f",
    "title": "Greens speak to MP over 'squish my booty' post about Stanford",
@@ -28,7 +11,7 @@
    "image": "",
    "source": "1News",
    "region": "NZ",
-   "date": "2026-11-27T09:10:53+00:00",
+   "date": "2026-11-27T10:14:54+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -36,6 +19,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "3a46fc2014",
+   "title": "Jordie Barrett to captain All Blacks for first time against England",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZk5fVjNpcjF0WTJxUW9vVks3aEZ1Q1VDVE02cmlOQ2NfMTBnNzE2bHFWV0o4S1hHNHVBSmgtVkFaZ3ptNFNKUlIycF9SWkNLa2lxY1NOVVUwVVB0MDhtR09Td01DNUhSQWF1UFVqbFdoSmRFM1pnd2Q4QjlGaDdwMWJrSXJlNEhrNEJLbnZfV2REdXZjV0NKalQ4N245M3JuQXFxNFNB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-27T09:31:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
   },
   {
    "id": "150e719137",
@@ -72,23 +72,6 @@
    "topic": "Society"
   },
   {
-   "id": "6ea010e866",
-   "title": "Kiwi juice making a splash in New York",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ3BkVXlaSWxMZGdNMkdhQ1V2bFI2VXdWMzdGa1k3cUFkMmtkRFhNR0FpTnp3Q0E2aDFOOHNuNllEaDlib1NLZWJFNU9WWlNudmZDRDhHZDkwTlZsTFBOZXhNbFBVRlVjTy1LYmJGdjNKNk4zMXNvUUotRHUxaFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-27T07:03:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "cefbcb274e",
    "title": "Hera's first close-up images of Didymos and Dimorphos",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWlPLWdWWURGUHBISFJIV2xBT3k5eGFyRnc3TGpqUzd6MzVmMXU2clFXX0l2QWtHOVhETVBJemxVZGhKLXdBNVJWOUgyamZYcU1CV2UyWGo2MVdZZFBFZzFUMDd4LVl1dk93WTFPMDIxMWJZbTFOLTd1NVRjUnkydEYyRGMydHdRN3dSc0xSZWk1ZzNwYU5iUDE3cElwX18taGc?oc=5",
@@ -106,14 +89,14 @@
    "topic": "Society"
   },
   {
-   "id": "2317ef0461",
-   "title": "The liver transplant that gave a young woman a new lease of life",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUExQmo2MkZWRXptTzhVSTczM3VwY1l0TnNkU25GOWxHUzRPVU9ST0puLVNORUJWaEw5djdGSGlYN3RPaUk2dHJZczg4b0tkcXNQV2xqU0NUTjRtTDJtT3luejVIVHBCT2NXMkx5TDZWUHlqSFl3UUdiTFRWblp4Q0Z4NWNDbkVaOFRjOUFEd3lNT0pTQXhqQQ?oc=5",
+   "id": "17e4d66091",
+   "title": "Fire and Emergency NZ deputy chief executive quits",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeEtVeUE4VUV6Q3llbHBwcFladTFqYV9MRW5GQ0ZRWV9IaTg4am5uRWI4S20ydzVydWxXekFJcWMycnMtbHRHYkI5Y1o4WElLNHJyRFNaQzJfNXhtYlN5X3N0UXR2Y1puYXJFM0lzUXZ0UVY1UUllRnpXQjJ4Uk1MY0V4WnNtUm50UXZwdUVCQjdlc2c5V1F4SXB4YnluRHItZzNzcVJ0NVpVSUV4ejluOXlTcTRKbFh6WEtNM3JjYWZ6WGNKSzRZbmVnWW5XRnNaMFRlRy1iSlJQTnAzZUpHTjNVNC1WVkJWeTVj?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Press",
+   "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-27T05:00:06+00:00",
+   "date": "2026-11-27T05:45:24+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -204,40 +187,6 @@
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "aac28ac6f3",
-   "title": "Qiulae's tough choices: Coalition, cross benches or another election",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNczBGNnFzUzZXWkZ1SUFCc3B1WnVIc0FnM3Mtc2hjblB6WkFudEN3UGhsV3NhNEs3dklYMTdXZ2Zfa2llUTlpS2gxaWROYURFYnE0bXJFcURzaHM3WVpxN3pHb2kyeTA4RU1BRGQ0WnBDdF9aTjYxMDgyczY3Ni10ZzlueXF0a2tTRHdrRHFTN1dZU2VTY2FMcTZUQW9sbmtYVDh4THl5bk5OamduS01RaVpza2ctOFN4SERQZmpEYVVLdlNQS2stdTBEZ1Q1VUFRV0g5XzlXSnZRd2k3RkRZNEZ1cDI4X1FrOUpESkt1c0JTLVB0U3lURXpCZGtVVm8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-27T02:32:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "e49546cbcf",
-   "title": "Cortez Ratima selection sparks debate ahead of England rematch",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFFfZ3JMbzdpLVZVQ1R1YWRRUF81MzNESlpKWlRmTjdNbjNRWUw0bkQ2YXlpTTQxUTZGYkswWkk2NWs4YUlRZk53N29Ta3dNck9YbFZTSVVjUEE1QlBRZnNIX0lNUFVaVXlDX3NjemM5cjJSVjBTd0ppVFZPejVFeTBZUnFtVmltTnZjSVRhZUpnLW9GM2w2Skk0UzBOQ0FYTFBPYnBB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-27T02:08:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -364,6 +313,23 @@
    "topic": "Society"
   },
   {
+   "id": "36470f8fd5",
+   "title": "Heart failure, coma, seizure: Two young children critically ill from gastro complication",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM1p4TVZhS3FqMUtlYjRoaTM1OGFDYnF3b1I2STZiUUg0WERUUzJuXzE1S0g0NVBOX21OUERrMkFWVjcwY3U2NWpXcEUzR3lwcHNHTG4xOVF4QzJzNHA4cHBFX2FxT2R4bFJ1NW84aVpCNnBhR2dpQVNTSGlRTDdOSGh6WDY0ZEhGa25STEU0dFdseWJ4aVVtdDI2bkZ2dzlCVngwVWJuM3VnWE45RmJDeldhX2xLYXZHOXJzdHFHUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-26T22:55:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "18a0700c5a",
    "title": "Internet Cable Reveals Alpine Fault In High-Res - Expert Reaction - Scoop",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjZJQVEyS1RZUkJMMng5UXJxbmtLazg2aC1HM0p1cnFlZXBUbWt0d3FrclhlZWd6MXlVbEtQWDliLUNocl9RR1VQU211U3RMUlJGS3kwc1dBNlFqN1BqMmhRWnhoa2R1ZWxiTXVSaWE0a0ZoUnN6LXJDV1JCWDBxb21lTG9icjl0NmhIeF80MTNhSl9seXFtNWRNU3lkU1c0WDdQQ0NoZy1fRF9jVnFuNVQtTQ?oc=5",
@@ -381,26 +347,6 @@
    "topic": "Tech"
   },
   {
-   "id": "10d65d3168",
-   "title": "Qantas pilots pull up as Air New Zealand plane crosses Sydney runway",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFdOZHRFNUVYODBBV2pnN0FqRFQ2OVV2V2ZCcHBVLVhDc1BTWm9Mc3FPcVVmejJRMjhVWGh4T0ZIZ0RIaThJdEdrWmFHQU5BV19uMmFUUFNHNnUwblBQRmZ6VWxGSEdkQUloVDJuQnRoWnBja2xNR0RKT2ZyVWRHM3hrVjRlc3l6ZkNTeVVCb3FCWlR6bW9wcUJUM3dEdXhkM2ZGWDdQcw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-26T22:05:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿 🇦🇺",
-    "also": [
-     "Australia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "22ed7a037f",
    "title": "The path to solo motherhood was filled with fear and loss, but I've never been happier",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0JKb2pRaDlsWDVKZ2dWOHAtX0VaNVV5U2VMNWJzYzBPQldERVg4SkFqbHd1R19XdXlrdTdiZjRuRy03MlZPbnNUakNJdVdmWWhwTTY0UmxZc2RWNGVaMy04UVg2NlZmNmhxRWc1UXdKWnVYdHRyOW04WVNuYm9XNkZRdnFibkhVZkprUXd1OFJDRkI0Xzc1Q1pLVC1zTHR6YS1ZaEJzR0hGM0IwOE00Y3JPakYwZmtUWjNRS1haTnhQbmJOcVJlZGtkai0wUQ?oc=5",
@@ -414,6 +360,23 @@
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6ea010e866",
+   "title": "Kiwi juice making a splash in New York",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ3BkVXlaSWxMZGdNMkdhQ1V2bFI2VXdWMzdGa1k3cUFkMmtkRFhNR0FpTnp3Q0E2aDFOOHNuNllEaDlib1NLZWJFNU9WWlNudmZDRDhHZDkwTlZsTFBOZXhNbFBVRlVjTy1LYmJGdjNKNk4zMXNvUUotRHUxaFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-26T19:47:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -603,6 +566,40 @@
     "flag": "🇮🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "b504730f2e",
+   "title": "'Put NZ back on map': Kiwi beauty on surreal top five finish",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaThTdHY5enQzdzEtTDJ0SlIxUkRVMmE0bHhsWG90SWtzZ2ZxNTQ3VEdDUmRzbWZSVlNiVnNWUFFGSThlaUNlQ0N0eFU0VWJFV0xmUHN1UkJrbk5XVDQwVEFJTEt5UlZkSFN2eXdGelo2MXBlNmw4bklrUGFSczRocDlDRHNNcExrMFJNUDVfT3NXaFg2Y1JrbGFlVlBKYWxWa29CZ2M2Y1pfeGE3cFVObGZKZXlYbEE5STl5ZjhrVFlkekx5b3Nnd3VhTVZibG5NXzJQOThrbVhTZ0hCSXBVQ2FjTWJfdl82U3pPMEUyek1Oc21w?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-25T18:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7eae7f0715",
+   "title": "Did the election put home buyers on pause? October sales reveal the scale of the slowdown",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2c5ZW5PdE02LXJ6d3AxSE9RcU1wZ2RQdENielRqTkI1dlpBUWFhMkoyMDZuSDNuU0N0SGw1VnBXT0QxaUdvMlE4aFlpQ1c5ZnVVOUVmOEFoMk83Y3JjVE1tSWdOcUxubll3NVc0UVgtRWphOTV5UUc4bWNVbkNUWXJqRWdwMFg3X1Itb05WQjBGTUJxaGlJdlUwemlxbGM4SV8xVVJ4bXNjdi1yMi1rWW5QdzVrVFNhQ1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-25T16:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Politics"
   },
   {
    "id": "5fda143ff2",
