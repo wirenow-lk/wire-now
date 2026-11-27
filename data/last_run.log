@@ -1,43 +1,79 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 69/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 76/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 51 stories
+OK   Ada Derana: 52 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 24 stories
 OK   Daily Mirror: 99 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 19 stories
+OK   Newsfirst: 18 stories
 OK   Daily News: 76 stories
-OK   Sunday Times: 5 stories
+OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 12 stories
+OK   Google Warnings LK: 13 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 35 stories
+OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 81 stories
+OK   AP News: 72 stories
 
-Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Italians killed in Kuwait: Why is Iran denyin (5 outlets) | New Zealand’s ruling coalition falls just sho (5 outlets) | S&P upgrades Sri Lanka’s credit rating to ‘B- (4 outlets) | Trump urges Putin to end 'military aggression (4 outlets)
+Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Hundreds of thousands still without power aft (4 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (4 outlets) | Italians killed in Kuwait: Why is Iran denyin (4 outlets) | S&P upgrades Sri Lanka’s credit rating to ‘B- (4 outlets)
 
-7 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* EconomyNext [1 outlets]: EXPLAINER – Why S&P warns Sri Lanka’s recovery facing storm clouds ahe
-    important (serious news) - researching
+* Newswire [2 outlets]: School term to end on December 4
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: IRD warns public about fake notice on weekend office openings
+    no AI summary: saving the rest of today for important news
+* Ada Derana [2 outlets]: Millions of wives in South Asia unprotected from marital rape – study
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: Canada's Supreme Court to rule on Quebec's law on religious symbols in
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [3 outlets]: FSP holds protests as Gotabaya appears before court over Lalith, Kugan
-    important (also on Ada Derana, Daily Mirror) - researching
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -53,55 +89,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    -> no cards; posting with the site's own summary
-* CBS News [3 outlets]: Thanksgiving Day storm batters Jersey Shore, Philadelphia area with st
-    important (also on AP News, The Guardian) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* EconomyNext [2 outlets]: Sri Lanka’s Laugfs Gas faces trading suspension over delayed annual re
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [5 outlets]: Heavy rain above 100mm forecast across five provinces over next 36 hou
-    important (also on Ada Derana, Daily News, Hiru News, Newsfirst) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* BBC World [2 outlets]: Hundreds of thousands still without power after storms hit US on Thank
-    important (also on BBC) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* The Guardian [2 outlets]: Momentous decision looms after judges call for Netanyahu charges to be
-    important (also on Euronews.com) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 8 too small to look sharp, using the clean cover
+  photos: 7 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
   headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
@@ -110,4 +102,6 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
 
 Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 67 story pages for Google)
 
-Countries: IN 37, PK 38, BD 36, US 36, GB 37, IE 34, CA 38, AU 37, NZ 37, SG 36, MY 34, PH 35, AE 36, IL 36, NG 34, KE 34, ZA 35, GH 32, FR 33, DE 34, JP 4, IT 33, ES 32, BR 33
+Countries: IN 36, PK 34, BD 34, US 34, GB 36, IE 36, CA 37, AU 0 (FAIL), NZ 35, SG 36, MY 35, PH 34, AE 34, IL 37, NG 35, KE 36, ZA 36, GH 32, FR 32, DE 34, JP 4, IT 32, ES 34, BR 33
+
+World Pulse not made this run: no AI available for writers
