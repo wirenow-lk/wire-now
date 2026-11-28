@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:50:03.054025+00:00",
+ "updated": "2026-11-28T14:43:04.699543+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
@@ -31,7 +31,7 @@
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-28T11:04:18+00:00",
+   "date": "2026-11-28T10:34:18+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -49,11 +49,28 @@
    "source": "SuperSport",
    "region": "ZA",
    "date": "2026-11-28T10:25:36+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8d90ad9a2e",
+   "title": "Moving more could help people with diabetes manage blood sugar and reduce heart risks, study finds",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa0NyYmthcjJZT0tQTHFHSW0yaDRqSGFIU3MwX2w2c1Yzdks0YlpKeU5lRnZuTzN6RFB5Yy12Y0dsOTR3a3FVV2owQVk2bjZmMlZFNnBMQTB2T2Q4N1FCaDBqaWNDZ0kxdFJyWVEyMThqbXl0M1lqN3Q5cVFqSDNKRFBIallfUFVpdVNvZTJoWXA3ZlBQM1pZNUlQd3J2X2kxVGwtWTQyVlpJREhiZTVqdzViVE13dGx2Qmt2T3Y2WHNINXBuOWNVQk1yZmdnR2UzQUJSbVhCYVdZOVhI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-28T09:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
    },
    "topic": "Society"
   },
@@ -82,24 +99,7 @@
    "image": "",
    "source": "BusinessTech",
    "region": "ZA",
-   "date": "2026-11-28T08:01:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4f4d6ea2d6",
-   "title": "ANC puts coalition partners on 100-day clock with public accord",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkdsVlMta3lwVkp2bGZtMkpMbHNOa05Ba000eFZWY0YtQ0tSaEJydVVRRXBWTEowQnlPUGNqSjNfU3U0RGs5NjJpNkRwRGZpNjc2SE82NnNkZDFKWU52MUdYRWJZRndmZlJGbDdCMXRzNUF4Q3M1X1BTV050aWNLMVVNdFBqSXhSdUo4RDktZm1pbkVRNVhxTlFac3JXV2FLeXhmdVlpWndnNW5oU0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-28T07:18:51+00:00",
+   "date": "2026-11-28T08:01:24+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -117,6 +117,23 @@
    "source": "Johannesburg Sunday World",
    "region": "ZA",
    "date": "2026-11-28T07:03:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4f4d6ea2d6",
+   "title": "ANC puts coalition partners on 100-day clock with public accord",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkdsVlMta3lwVkp2bGZtMkpMbHNOa05Ba000eFZWY0YtQ0tSaEJydVVRRXBWTEowQnlPUGNqSjNfU3U0RGs5NjJpNkRwRGZpNjc2SE82NnNkZDFKWU52MUdYRWJZRndmZlJGbDdCMXRzNUF4Q3M1X1BTV050aWNLMVVNdFBqSXhSdUo4RDktZm1pbkVRNVhxTlFac3JXV2FLeXhmdVlpWndnNW5oU0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News24",
+   "region": "ZA",
+   "date": "2026-11-28T06:52:12+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -279,23 +296,6 @@
    "topic": "Politics"
   },
   {
-   "id": "6330996329",
-   "title": "ConCourt dismisses challenges to NHI Bill in major victory for Ramaphosa’s healthcare reform",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWEg3WWZMb0tFVDVTOHhpVnp3RWU3RF9QLXJuUWh4ZW5DNU1TMEhra2ZXdmNjemR2aXJMR3lVb0tCLTJwRGU0Nk05RmNXSzVkN0ZvajFFLTcySEQzTnluOEM3dDFjeEpTc1I2VkxVSWpORmN5aW1uRUFSbXNEZHBBU2wzdDY2LXBQTHhCekgycEp4eV85WGtWMWxrdVFMVEFkQ18tQVpldkZ6czU1UzJEZTdfR2dybU1EaExITnlSb0xGOFNaNVhUMlNPOXJOVEdnNThGZUxPNXdCWjg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-27T15:24:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "0ad588a223",
    "title": "South Africa prepares 36 hospitals for possible Ebola cases",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0Nfc2VMLXR0LUFuWURQSHFfZTZMQWxNc1lmQkp1dzBmRlRrbTdxdXRuX2UtU1RmbEQyYXJJeDU0U3BpNGs0bkFfcmFFUlJuWk94Vk9sVjJNOTkyRDZZWGttdTJZeHl6SmFWVlNWZEhzVUpJMU1VcXdockNSclR2d2h0dTFXdWNPMFg3dFh5VUVnYXBHN2NaYlR3NS1GWmtZS2k1T1kxSFIzVXdo?oc=5",
@@ -321,23 +321,6 @@
    "source": "TopAuto.co.za",
    "region": "ZA",
    "date": "2026-11-27T15:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8beec9a570",
-   "title": "Cape Town mayor reshuffles mayoral committee, brings in new faces for second term",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTENJaTBHcXo1VUhZQ3pncmVJMnhkQUN0cDZjYlc5d3Rkd3k0ZHRTVHVTMVBTUHhHbjZHM1JLNHFjT0Zoazdrb1dkVDlmblVxYkI3c0JwUXFZaVFoUXNCWlpKWGZWckZreTc2ZVNiLUl5bEdNZlkyN1Q2SWw1TnZsT0ZWeUtUZ25XV0dsZ1NjNHIyYUZqbnRYZ3dUMS0zdm12SzlZOHRDbTNTcXA0V3FwcmlmLXNGY1dHSnFYSDI2VEc5Q2R5a2U0VFhhdkFlRkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-27T14:27:21+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -379,6 +362,23 @@
     "flag": "🇿🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "6d626dec25",
+   "title": "CounCourt dismisses NHI challenges but fight over universal healthcare plan not over",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3NkRVJZV0FQNXNHdTBobXM1dktRWTFiMDl6MDVwc1UtOWx3VVVFd21KbFBWREhMSHJuZm1yRVU3elJBU0QxZ2pPN01zTU5PaGJEZ1dFMVpTcXIyVHlHVWE4dW9jZUpFRTBZQWtoc05vTlR3aE9XZUZsb1JCaHZrcmdZdkQtcmlubE41bFBjN2ZPc2lDZEZKQ2o1QjBBaUdFT0FvaDRpMVp6ZUx6cFVZd016dnhKVWRLTHBzMHNlRGlHQTNDS2RVMF9RMkFQTjJLVEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Maverick",
+   "region": "ZA",
+   "date": "2026-11-27T14:19:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Health"
   },
   {
    "id": "59d1e5b83c",
@@ -503,14 +503,14 @@
    "topic": "Society"
   },
   {
-   "id": "93242fd022",
+   "id": "ab09f8ad9b",
    "title": "US funding cuts threaten HIV prevention and community care in Africa, Unisa study warns",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGVxZGpTU2RpNHBnZk5jLXp0cmN6MXlMNUlhemVud2tkM2lGMTdXc3N5elJCQzZTYkh5VnVrdnl5RmE0ZEt0bWhFSFlnLTdJOVY5LTZYNi11WXlIeEt2SzNfTEFXclZ1d1NrNnRjclhycWFRVHhDOHBlVXRMT3d5dzZIRTgwZXdLeWNTN0VoRzlRckh1SHdhLXpfOXBSMlkyX3hxUEkybnhoSFM1dmZWbUFHZEhWdVRJV0xFZUFBWExKSVI2TkxDcm9TUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHdsOVNnZWVEbFNzMFIteFVmU3k0anJtVU5IcS1lQ2pmY0FPcFN0N0FRaFdZSVZ0QUZFRVlocndkaVVla3lrYi11cEdsZ2R2RzFCcFdWa05uTXpGcDFmbHFJXzI0YU5MZ2oxdWtwcHJycWZsT0F2amFwRzVCTEhYeURDYy1GY0tNS1BCLXNfQTAyd1Y0VVRDQ2xYLW9GRE96RzRuMF9RY1NMMG5CVW1NOGhvLTlWWmVPUUZnMVB3Yndmek5YSGc?oc=5",
    "summary": "",
    "image": "",
-   "source": "IOL",
+   "source": "Cape Times",
    "region": "ZA",
-   "date": "2026-11-27T09:00:00+00:00",
+   "date": "2026-11-27T09:07:40+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
