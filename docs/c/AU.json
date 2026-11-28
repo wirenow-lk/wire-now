@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:46:43.427953+00:00",
+ "updated": "2026-11-28T11:43:42.438821+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
@@ -19,23 +19,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "9f7e6e7afb",
-   "title": "Residents surrounding home destroyed in McCrae landslide told to evacuate",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWkw2REZvMDJfNXpWUFBETUpGeWcyNGFSWDlQdEpyNG5xZnZ3VWtNa3hlUmpkLXVsTmRWeFR5dWRNSTIxb1hmTGIwazZHel84aHJoMjN6SE9wMTM1UjZRaDZDRFR5SUZDQ0hVeGx5NUlvTkdvSndUWUZyOWZYblhUNmdZLU1waWV0YW5BUkdfSFNRQkl4RGw1cE9QbmJ2cWJtVWhMcHVleVBHMEpYZC1NRmpHRDhaSG9qYUxBX2xpVGpaUTk2VWlSejZGOWNtbnJrYkRZcWJGQkw0RWZ2UzREYzdtOVI4VWUxYzZieEpaU1ZzTVdRWnB3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Herald Sun",
-   "region": "AU",
-   "date": "2026-11-28T09:58:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Weather"
   },
   {
    "id": "b3ce849e62",
@@ -72,19 +55,43 @@
    "topic": "Tech"
   },
   {
-   "id": "89013dc0b9",
-   "title": "Ejected: Liberal HQ gets security to remove Age reporter",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVlTVzRycGhUU21hVXQxVUdXbkhQdExUNldaNkxZTElRTXdwZVRnVjk0TEtsNUxRd3FHNF91V0FpWjZTaFNHeU9kV21KN3BRZjRIajVkakthTmh5TDdMSTkweWQzSWJmd3NULTVjMk1XVG1pQ2xhVmN6UTlwdVdGYzhOOTRTRVhZaHA5LXI5d3l2XzYxUlhHWXRhdGRyQndZVWZKV2xXaV9veHJWb0xYc1J3MTZpaUhOdHpEeQ?oc=5",
+   "id": "6a7f3cbd9c",
+   "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDZrYTlOdTVmYnJEelBReDNXdF9CRXAyZHUyVlhQNjczRTk0Q0RNM0FYdWlHY3RQc3RZTVZPQ0MwOWZLSExFczk2cGlhMXMyNk81dVVVNGZfUHozUDhCV2xaaEZlNGh1ZmtkeFlsTE94dGhzVEp1UGJKOEg4Si1WdnhqVUNKcFlnTm4wd2NBZDc5TzZDeGh0c1F0OUhEcUxLUjJQSjBVVHp0MFpIay1jZXVUZmNSNXAxb3RJNTU1SkJad3VEWVRwRUhyWUNNRmtXdEJQbmtLWjNMN0NTbWhWdXZhbkUtUzQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Age",
+   "source": "The Guardian",
    "region": "AU",
-   "date": "2026-11-28T08:39:13+00:00",
+   "date": "2026-11-28T07:59:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇺🇸 🇷🇺",
+    "also": [
+     "United States",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a2d1a11ff7",
+   "title": "Australia defeat Colombia in first feisty friendly in Canberra – reaction",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMWVhaFd2NE1fUTU4ZjNzbWl1c2NVdkVQS1V6ZEhJUHR3b1hQY2V2UmdJRUt3ZFlKVEh3djZydldyWlYzN1M4NjQxRGxheHJZV21wNVZsNlN6R0ViZ3hDUVZBcEpYLWViVGVndUk1UFBma0FubXNHaGpJdVpHd1VwR3hYY2lXekp6ZXdLUHFGZDNQX25vcjZvTzNpYW96ZlZ3SXRINFQ2TkJWdFA5ZlJXVWRSR3NvOENBTVIxWmJOUDRUekdZeXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "AU",
+   "date": "2026-11-28T07:43:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
-    "flag": "🇦🇺"
+    "flag": "🇦🇺 🇨🇴",
+    "also": [
+     "Colombia"
+    ]
    },
    "topic": "Society"
   },
@@ -123,8 +130,25 @@
    "topic": "Society"
   },
   {
+   "id": "64c9b2ff07",
+   "title": "North Melbourne AFLW duo announce retirement after historic three-peat",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVzBxeFlKOFNWcGhBOVB4LWp1TjhzZGl2Sm9YRW1VYXpseUwzdTg3ak9FZXFvSmhHQUxxVm9uVVRHbmJnTS01YTR1Mm54eGc4blVrbzdrQnRMVUREcGJzZkFCNjdYZzNFUFJlWU0tZld2ek5lRU03WnNMQ01RWnJIZmlVcE16bEhwSXdUS3NaT0VEQ01lOE5TQ0hTMmJ2QkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-28T07:17:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3ea48fb81a",
-   "title": "Rabbitohs star's shock admission on exit rumblings; Raiders' move for Origin duo revealed",
+   "title": "Rabbitohs star's shock admission on exit rumblings; Cowboys target Dolphins enforcer... again",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNblBiSFE1bFBRQmZ0a0daaHh2QTZVZzVYUU8yUWNhSGVrNkY1Z0hFYUFlcld5T09QN3ozYXhyNldIM1k0RGNXaUZTTXpiY0lDZll6MFZwdzV4TGlneUp5RG5BODhtTndoVkxPb25WUVJuTnB1aW9PSE82RW9TcmlFVVQ0NnlhWUc0YnpvVjhlcmdGWmlVeXNnN0tONnVsTFJPenZONlZ2WUJ1QkxycFZWU2Q4WmYwX2VuYUFOMmlyOFJmeGUtaGdTaXltZFM?oc=5",
    "summary": "",
    "image": "",
@@ -208,72 +232,38 @@
    "topic": "Weather"
   },
   {
-   "id": "64c9b2ff07",
-   "title": "North Melbourne AFLW duo announce retirement after historic three-peat",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVzBxeFlKOFNWcGhBOVB4LWp1TjhzZGl2Sm9YRW1VYXpseUwzdTg3ak9FZXFvSmhHQUxxVm9uVVRHbmJnTS01YTR1Mm54eGc4blVrbzdrQnRMVUREcGJzZkFCNjdYZzNFUFJlWU0tZld2ek5lRU03WnNMQ01RWnJIZmlVcE16bEhwSXdUS3NaT0VEQ01lOE5TQ0hTMmJ2QkE?oc=5",
+   "id": "8f6b7ad323",
+   "title": "Unoccupied house collapses in Mornington Peninsula landslide",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmpNSExEZlo3T2wyWnZIR3lsM3Nmd2h4cHN1TnYwZFhlZktGck1XRE5PNnh3RzQtSzdzbUR0bEZUazJuS1loTWxZU3VpODNUTU8zbWxaWnpfdTFsdFBTOTJVSEZJelI3MlVQY0FYSDc3UGtZamM4T2c5b2tXblRBei12azNsaXJtalhjUGNvdHJyTkJjZFFvWEVR?oc=5",
    "summary": "",
    "image": "",
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-28T05:43:58+00:00",
+   "date": "2026-11-28T05:52:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
    },
-   "topic": "Society"
+   "topic": "Weather"
   },
   {
-   "id": "4701a21962",
-   "title": "Australian-made Ford Falcon could return in limited numbers",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTy16OG56WXZ6SHhKallmcDJjQWJUX1dlTFhxQ2ItOGEtM1p3M2p6RFBLSDhHQ0NxNzg2dVc3dXFMQmJSQnRnblJkRFhybUtyUmwxT0FsM1I5aVAzOEFEMHIzYzdXZFdNdElRRnBZUnpKZWNqRERmbW8zVHlKT2JPY1BB?oc=5",
+   "id": "efb936585b",
+   "title": "Police investigate allegations a school camp staffer inappropriately touched students",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZG5acXhQZjNEZGtqSlY4UjhvZjc2SjJ0V0h1UTd4ZzF4VDhmYlY4WFJibW1fTU16Smh1NUNudFlEdzVsUllMTHM1UXdGd1JRTnN5MGQya2NIWEo1MzB2LXZ2WXBJdGI2dzBqLXVXN2N1T0thRmFZQXp3dTRpY0doMmV5QXZJVXFsRnY4WFViSTU1am81RTJpSWxyZXNVbVNhQ0dhZ3E5VkVfUy1GVlVHLUJxdHAwVlZtN1o1WV9oUVZoWjZsZEI3TzNjYVB0YU0waEk2UWxUOXY3Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Drive",
+   "source": "SMH.com.au",
    "region": "AU",
-   "date": "2026-11-28T05:38:23+00:00",
+   "date": "2026-11-28T05:31:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "ff6c0a50e1",
-   "title": "Joey v Matty: Johns family feud erupts over in-demand NRL star",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkZfaC1tTlBTWlBxRFhzbzZvN1hNTzI0b0RqMVVScXRHajZhc0s4bHM2MkdldXJpenhEU1hkSnQtRVR1YmNRcWdvSk15dE5IZkVzeTZoTl9zcW1MNF9KT3h0RzYyVFJYM0JjSGRmNjc0dVFuYlY2dlZtLTQzMDRhbUp2cF9za045T0VaMkc2SzBZa0Rad2toX0pNLVduOFNUMHdpQ1lnakpJTkl3TENwLS1wTDJVV1Fka1RqVThELUh1VEg0VzZRemNzS0ZOZ0g2VDR3dU5ZTGhIa1J5VWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Daily Telegraph",
-   "region": "AU",
-   "date": "2026-11-28T05:01:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9caaa4f668",
-   "title": "Adelaide-born WWE wrestler Bronson Reed dies at 38",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGlNcHZ1QW5vUHJSajFnakRwWVB4Wm83Nm9PRWVyT2hfZEtVdU9QZWhJb3pYRm9wSXNHSURsVWRIUWItNWlUeG55UXNxb09sVk9Kd1hFamdIWlVsREtXdGdLdjZPWXNjQWplOEhpY25WRi1rX3dleWxnblpnUFRoNlBKWVFZTVRjUFRQS05YTzg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-28T05:00:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "e6dcae62ce",
@@ -344,6 +334,23 @@
    "topic": "Politics"
   },
   {
+   "id": "cc30295023",
+   "title": "Astronomers Detect Evidence of Vast Tunnels Beneath The Surface of The Moon",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVXRjSDRXTGlqZmo0U1FvRGtkeUNXcUdNdUZ2MlVSVk9KcGFNNTNlSTZNa2lDeWlTRlBuUHpfNU94M1kxcmEwSXlwU2ZXRlROLWpIeDAyMjZENUdoUEFMeDhlRnZnZl9XT0ZpeWVtOHlsekE5UXBvcDhlY3Z0dnR4VUpJbEpRZk12NXJlQldMbzFTV2xpdmpEOE1pTUpBTE9LUktPR0E4bw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScienceAlert",
+   "region": "AU",
+   "date": "2026-11-28T03:03:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "42e2eb6eb7",
    "title": "Church leader, league star, private schoolboy: Who was allegedly behind brutal Schoolies bashing",
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQWEVxWWRqeHRXZzk1dGJuQU1wNC1vdXEzd3o5aW1RZUU4X0JSSDY1NkZIeHo4enVKb1E2Z0lBWFBqX19abk8zRXBSbzBYVVBzbV9YR3BJeEtvUGVyRFk3SjNCa0RSZTNGN1ZRYzgwREFTTm41SDBrWGRvMm13SXdBZ05ucHZaNVpCRndRaEVaMURpcXMyY0RsMlEwSmlYWGVqa291NlA1RUVOWWwyckFrVm9ILS14REVpbGdMUDY0Z2FyaG5xQnZyUHJiN1BNUUp6eTlncTdVQU01UzR6X2h6Szc5cmRiS213NnVjVjV3VzFnelNCbHZKeVdwMmVpUU1nUjMzaFhBQm1adDFNRk9hX2ppZWt3Vjl3aVVPVnRfd1V4LXVKU3c?oc=5",
@@ -403,6 +410,40 @@
    "source": "The Guardian",
    "region": "AU",
    "date": "2026-11-27T23:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "35174f4697",
+   "title": "Nathan Lyon's sad confession to wife amid Aussie cricket champion's axing from Test team",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVFhRFc3cHQ0NDdfSHBLLWp0dkpjZ3E4U0FieG5xVzZKOFBiREFwYXFuX3d4MjMweDY1U0ExSEJLbkthM2gyd3NtMDlqYjczQkZvc2s4YUZDNTYwTVg0QldPdVpMNUZHYWQtTWZsUjNYZktSVGJHTkdyWTRVMXdPcnQ2NFV4Ym16QkU1a2taWU80bEYtTk56ZTBxZWswZlhaWFVveVBpdlU4TS0xZk9yNURXU3F6WEExUG9wZFlTZ3p3TlF3ZXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo News Australia",
+   "region": "AU",
+   "date": "2026-11-27T22:55:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Sports"
+  },
+  {
+   "id": "0ba579e151",
+   "title": "Harry Styles is back in Melbourne. Does his show live up to the hype?",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVptby1HRXdoT2hmR3lYdnVzbFRzSjh5c2NFN2FRX1lnaGJGcW1hMnZ0R2RCQnYwSnhESnBFUWJNUGV5WGtiT1FNZWlxSVptd0JFV3pCeU1HX3VJV24ycDhqVUh1Z2FOTnFlYzBQNGVvY0ZjQl9nLVBRdDZsbUg0Q2tyazJiQ05GVE1RVHI1dVhDRjdWeDdLN0JwQmczb0NkY0hXZWVzVWVKZ0U?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Age",
+   "region": "AU",
+   "date": "2026-11-27T22:04:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -497,31 +538,14 @@
    "topic": "Politics"
   },
   {
-   "id": "d45c610272",
-   "title": "COP reveals depths of Australia’s climate policy failure",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMENnWk9mZHhmanBmYzRRS2xKMXhVX2gydmdXVlpUU1Q0LTRoQ0ZDZ2gzSnhIcHBra2VWOEhPaVZuTU5ocFE3Q0ptOUxBS1BwazhINDFZOE1ibWRTLVZ5dVY1dENJUVJZS19iM29VYUQ4d1AxN3doYmlKVzBrT1NUemRzUmRQWEVmdWVLWWRlM1RKeThjbGl0LUtfNVJQNTliQmZ5ZzAwTWY0cWtHMHV3bUl3UTJwQ24yeEJn?oc=5",
+   "id": "2c8bb6f100",
+   "title": "The best vehicles for every situation in GTA 6",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02OEpaTi1ULXRkUzhYUk50S1pSQzlwUnc5Y01WN09JMTJ1RjJjN19ndklKMnBURnJTbFI1V3AwMzgxOFliNk9UVHUyZXNpRFU1SE1aSm5vel9QZ3FBaFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Saturday Paper",
+   "source": "Red Bull",
    "region": "AU",
-   "date": "2026-11-27T13:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "739e7bd703",
-   "title": "Membraneless barriers compartmentalize RNA surveillance",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51bHFJekdrMWo3OG9MdmVGWWJUTm8yNC1Hdk9NZEExUy1VSUhsbEZSa3pCTFUxVHAxZWNNazVOZDQzOXc0UUN1Tmo4eEJCOUd5ZzFEZUphN2FXNjByX0Q4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nature",
-   "region": "AU",
-   "date": "2026-11-27T11:18:43+00:00",
+   "date": "2026-11-27T13:51:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -563,26 +587,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Health"
-  },
-  {
-   "id": "bb2d2491c8",
-   "title": "Nathan Lyon set to be axed from Australia squad for opening New Zealand Test",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkJOVkFndkdCYko3Z2tQNEFHbU80TGtkS2J1V3VHX1phNDFhelF2dTBabHVWNldwcmlpSHE3ejZpYmRRRzFCdGZUUGdvcG15Qk9nSjJsdWVTdlpzYXV6ekotaHhQT2JSQ1M4VmxQNUhQWE1JUkUtcEZmejgxN2RaSWtUdkd4VTJDUGlEOWlrTFhrUjdXMVhpemY2UGtja0FuNFRZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-27T03:44:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺 🇳🇿",
-    "also": [
-     "New Zealand"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "72a20c15d2",

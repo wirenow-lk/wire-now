@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-28T10:46:43.427953+00:00",
+ "updated": "2026-11-28T11:43:42.438821+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "0056f800bf",
+   "title": "This McMaster University Lab is looking to lower the costs of medications. Here’s how",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1pFVmpsdTRDY1pYam1ZYkoza2ZoNGxrbW0xRFhCWVFwVjVNUzRzaUlGNEEwbzBUQmJLUkVGcHVNaU5vSDdrXzl5MkM0Zi1nS1ptVUM2YksyR19rbVFCblRZZTBhdWZ5dDh2aFg1Nm1tU0RMYU9MVnp3dW1UVGhSUFgwSV9EY1c3bEI5VUFOYzY4MEhXOERNRlFXTzZNMl9BUUdpdERfc2NFZ1lzcUwtU2hJUWlPS05FM05Dd0dtU3d4QVhwZ0tDeDhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CP24",
+   "region": "CA",
+   "date": "2026-11-28T11:07:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1f7b3d4b54",
+   "title": "Obituary: Psychologist Forest made most of curious mind",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0Jtd3NScHV0TjRSeHJDazB6akxvX3NmOWJXNHlIT0dma0twQUpUUEpnZnAyY0Qtdllpa0hubXlLelFDdmJGZW8xUXl6NUstTlQtTFl6cmVjV3pUYVU4TTR4QzN0ZVVadVRTYzdwR3IzVS1RRkpGSFFlLTRLM2tDNjhiQkZ6bGc1SWh3ZQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Winnipeg Free Press",
+   "region": "CA",
+   "date": "2026-11-28T11:00:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
   {
    "id": "7db9bb5f8f",
    "title": "How healthy are Nova Scotians? New report highlights gains and gaps",
@@ -21,14 +55,48 @@
    "topic": "Health"
   },
   {
-   "id": "92651a9a26",
-   "title": "New Clatterbridge Cancer Centre 'cosy and calming', says patient",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55RjZDcjN6QmIyeklGaHVKdjhqZDJJdTBubGMyV2kxYzdlYk9lWm5QYTdGOW5BX0R0MkhzRmItemd2RWJ1eVVnUVB5YWVEYzhDcWc1Sk1XX19faFk?oc=5",
+   "id": "9441209a9d",
+   "title": "Did that tip seem steep? The math might have included the tax",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWcmZlSThIbU41S3hYQ0dCTG5BQVppN3pMMDJFa2ZmVzJYSldOangxdV9rcEp2UDdTaUlIVFhRX0V4Y1VCMnAwX0hGVnpicXFSdDBHand5SjJqbHlhcGx5el9PZFFXaDRKYm14OU5FRQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-28T07:18:46+00:00",
+   "date": "2026-11-28T09:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Economy"
+  },
+  {
+   "id": "d0f055ad82",
+   "title": "Canada's top court upholds Quebec law banning some workers from wearing religious symbols",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZWMwbElUbnVua1FUMjNIRVY3elkxbjNsY0lOTTQ1ZzZDRk9wMlZKQzhrUmViNGJLaUlMUHJWUzlpMnBZSGVCY1d5WVNHRmd1am14MjFieWlyc0dyY1owZnVSU2NlSktVTTlvR2IydmdBS2ItOEFYZEljdHEwSzlsdlRYNGpPRHhzOWV0YzI1TXUxZGMyT3EwWVY5MXpUSzhPN1VUTVNId3A?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-28T08:49:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "03d2c564df",
+   "title": "New cancer centre 'cosy and calming', says patient",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5faVNVNmxZQjdOeWlERU9ZYmh2b3VIWFlNTE9DOHlEa09YX1cyZDAtbVhWUktFOGhoUHZzS2VDbG94Sk9WV29DWXhuejVoSnVuMlVNTGw3SFdLa2FMUWJtVjZFc2p0QWM1dDBtU1E1WHhOemhMRTI5eEhqa0Y?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo News Canada",
+   "region": "CA",
+   "date": "2026-11-28T07:18:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -55,6 +123,23 @@
    "topic": "Society"
   },
   {
+   "id": "012b02de76",
+   "title": "Oilers drop fifth straight as Kraken rally with three third-period goals",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmY0U1BJNnBXdExQWmhaLWcwZnhSWW96STBpSVpKRVNWQlNZV3ppcXFJSWJNRXQzRWFrQXdBSjZ6bWYtdVI1ZmVvaFNDYTZFVk5Ua3ctdS1iVlVYeldJSEt5azhtOHAtMFFZQnR5WTJNQXRDMDhqY0lwNFFSTC1zSFdtOEY3T1ZEZkl1NnpWUEFtd3dYcjBYczB2N1NVdnZOYjNqZnZnb1FJRUVx?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-28T04:14:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a3638f8b7c",
    "title": "Nuclear Pathfinder Mission To Ceres Would Usher In Era Of Interplanetary Transport",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSkluRldFNVh3dVZYeFZkbEltMzREUHVIMC1nTF9DM0s2YmsxTng3TllkNER6X0JrMG1iT0NkaTBfNFJkdzBHWlBDSkdTSG1OQmtPellINEY5R3B1ZmNtMC1VaEVJLTNVdTg0SWg0YUw4LVRUMmlDUVcybVdPemFlUERfS2RiSDRGUnVKT2hCSkdyNVJkOWw2STBkWmRUa0RHa2M0OTYwakMxMXFpWlhqUHNLMXhWNjB3Zm9PNVZB?oc=5",
@@ -63,6 +148,40 @@
    "source": "Universe Today",
    "region": "CA",
    "date": "2026-11-28T04:12:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "946de609f6",
+   "title": "WWE star Bronson Reed dead at 38",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zZ0Ywc0tMTHQ0X3JYbURZTnRmdGpzckMyNTJzbll3MDB4MTlCUGJOSWJJZWltbElyOVQxekRMR1gtX1dmM1N3M1ZrSTJ0SExQOEV6QXd0MGlfekVSVXpnRUtyUG41c3hTaXh3cU9qU3dLVTU4QmFxeTd0OGQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CityNews Toronto",
+   "region": "CA",
+   "date": "2026-11-28T03:58:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "40aab84d62",
+   "title": "WWE SmackDown Winners, Live Grades, Reaction and Highlights Before Survivor Series WarGames 2026",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkVKODRBMVM2bEViSXFJV1RmWGgwWUtlb2VIeEhRVDRBQkRFckNLMHZCWlNxOHZ1eTZtVW5VSFlDWExkSGdxT2tuVEZFUEdrbXF6ZHE0UlpaejV1bWxkdDlzRHV3SHp3UXRiRG9KYVc5VnlIdmRVSEVqMWJQdGlad3hycVVEQ1FZVU5vT25vRjBQR3hLV2pmUGh0UjlxRHhfRGpfd200LWRoR0hqRTREem4tcDFGS2R6cU5yS3hJWEdrek1YalBSRWhEUmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bleacher Report",
+   "region": "CA",
+   "date": "2026-11-28T03:47:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -89,40 +208,6 @@
    "topic": "Society"
   },
   {
-   "id": "b6a4f84f83",
-   "title": "Carly Rae Jepsen: How GTA 6 gave her song Run Away With Me a second life",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41eGRuREdINmJELV8yV1FnSVROX250V0RfMGZhWjZMeS02X3dlMzBlcHpSU3NkR1kyd3NuT3JSRWZkN3lGbW1lVERtdElxMGN5YjBPb194VHRuX1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "CA",
-   "date": "2026-11-28T03:03:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "a74da735a0",
-   "title": "Suspect arrested in TTC bus stabbing that left man dead",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWU5rUjVLQUl3OWVJbzlSZUZzR0t1WXhKRE9GVU1jaDMwUVQ1a0JHT0Q5Y0Q0eVlKTnVYc29xWXhsQ0xwVVpCSVlod2lHVGp2VkI3OFNiczlIWGEzZEs5UTFhMzJHTGJpTG5qN2JBeUhsaWZTTEVQMVhBNHZVRWFnX09HeDNPMFc5Ym56VlNVYUs5OVR3dFA3WjBvTHdDdVZE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CP24",
-   "region": "CA",
-   "date": "2026-11-28T02:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "3cf3bf5a40",
    "title": "Sechelt Skies: Lunacy, high tides and winter’s jewel",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnhsejdZVVpHQWR0MXlwSzZDeUJLYVBjVFRBVDRWWkdub2Nhd01hYjJlZ2ViY19yb0RXQnMzMGN2eEhvbWhLZ3hpZFprRzFHTWZLbDZXVlNudXRsUkFYVTVSekRBcHF6R3hmOTBLWE9ERFczQXgwQ0NmdTNocW43aVoxSnE0WE1oajlzYzFkWE5ZQjM1QTM3U0xzQlQ5enF2ai1VS0RsVWI?oc=5",
@@ -138,40 +223,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "5d79f559bc",
-   "title": "Jermaine Haley, known as WWE wrestler Bronson Reed, dead at 38",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxMDZVWUxXZElGcXFwVXBPa25jM215MXVYVTFkWGlEX0dteDZvZENTaXpiSnRyOVZwMlB5OWxoWWNNWE92MnNwS1k1bnVMRmRyWDg3LTVKRDhEdFhSRnlocFFKelcyRkNLUjl2V2tXalZZSVNqeDBz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-28T02:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a2a70985ff",
-   "title": "Thanksgiving storms leave nearly a million without power across the US",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV05RRm9ueHQ3Qmdpb09FZUJxVWN4R3JUVGk5SWI5SGh3MlNJZGVxTXNrRURzTmN1OWgzejIxN0dxSzZfTjNaaV9paGZfN3I1cVZUOTJMYTlEdUFlUFZEN2ItM01pVVMtWEcwVVczQjBtMUVfeFc0Y2MzbDdRSlFzcXRPMnRMWUdkSFRjTHUwS281OVBMTnNQV2Q2Y21LM1pCZ3dXa19zVFFSQ0RsTndLMFVR0gG3AUFVX3lxTFBLT2JDS2VjblItcVVUbkdIUWZXc1IwcUJGSGNKZTZUUHhhYXlrazIyZGtXNDFvaGJSOGxmVEZYVDVzM1ZIdWU3cEJJbXNuSC1ybjNUQmcwa21vY3VPTWkwRTBMVHREWENlNTg3ajdFUTFRcU1McVJMWF9VSTB4UGxzTzVpWlZjSU5sQjZTNXJyYnJPTEc3NFIwM3Q3LVZIV1NyV0cyYktESTEzR1drcFdLaHQwclBnbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "CA",
-   "date": "2026-11-28T01:29:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Weather"
   },
   {
    "id": "99f5c06abb",
@@ -242,31 +293,14 @@
    "topic": "Society"
   },
   {
-   "id": "8b8d627573",
-   "title": "Company denies allegation nurse contract not being renewed over Poilievre photo",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15bGdMSzJHUzRpRzBmS014NW5EQVN2OWFHaE5taExEZEpaX3lFLWpUZWI5Zk1lZDdXNS1XQlN2SGRra3c1Z2tfREFjYk1WSDlZQi1FMkxySEF5V3V2dE90czB4UGozV0h5S3c?oc=5",
+   "id": "7927e267a7",
+   "title": "Moment Kate Middleton broke down in tears over sweet audio messages from her kids after beating cancer",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWXpDcUVhZVU1bWRKWGlEQWVPN3hzcG1jWDJYNEdVM3V5VERJQ1BqTXVhekNMM3hENWlrajNJRWlqYTVGUFRvNlJKcjdjUl9kOVVGOWNRN2ZlMjZReFBWTkJCUGV4bVpOLUVDcTZjOUZvQ0cwQzBpV0RXbjZ4cTN1Nll0XzlieW5OUWw3RUFPa0FVZ0dodWQwSFJKa0JOemdqVFNhYTN5RFpBNnE0Q3VGQVY0TWFCdng3d0NJZA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Global News",
+   "source": "Page Six",
    "region": "CA",
-   "date": "2026-11-27T23:59:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "c98d75653e",
-   "title": "Senators top Lightning in historic win for Ullmark",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0doRElXdmU4Qmp5Rk9GNTYtUkpSWTdoWHpCUWl1aDZsTUVwS1B6dTByeWNSdnd5N3RCdnlMVkEzaVJIeU94RV85bmhWMThkWmV6U0lETWN1dF82ODJJR2NWdmg1Z2V6NzB6TWRqTjRvWTFKS3RmVHVrOEVEQmF1Tnc5Q3V1VExKOXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TSN",
-   "region": "CA",
-   "date": "2026-11-27T23:02:20+00:00",
+   "date": "2026-11-27T22:58:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -293,31 +327,14 @@
    "topic": "Politics"
   },
   {
-   "id": "9e9f3c576f",
+   "id": "3b031dd7e5",
    "title": "One day after MacKinnon called Bill C-39 a ‘slam dunk,’ PM Carney says he will whip votes",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGhnRE9qbTJRbTl1X1BvNlRVSmc0aXJSZWE1Z2dlMDdiRXpzdTV3V2YtSW5RRGFNMDhNdUxqbVgyOUx1bGl0V0dOcWItT2lWVzdrcjYyX3hOaW1tR3ZHTFpTT2ROdzlPUmxQcGpzbGVHZ2pOMWwzREdoSWhodEp0aU1HcVkzWnhmY19tbHE0VHd2U1ctQmFVQzdvRmJZMUFqMV9yWFR5RUs5Q0xqUjQyNGJybk1qZGRoMURIWGhwcVYtVVRwRkFBSjRxa2lzdW1nSzNiNnhMYw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnBJMEFpdVVLVG5EX04zSWhyUTNXcGdCeXlIeW1McjQyTDhXaUtnaEktQlpUT1kySml5eG5RTy1zZEVyZEFwLUhZeTRRMlBINmdyRHlDVEFQa0xfQnJlaVdLVkJZSlNTUVZyUjBTZ2NleHQ2U0N2dE1QT2g2d2hQR1owZ2kzMS1UWXN3OEFjVlZ3TGhySkNpM3BkWWM5T1JiRmhEMmZMSzctcFYxUUJFRW5tV2JMRFEzbmtjR09SSkpNUFU4VVFLQVRoTkNvLUZOcW01azRISjZ6dlE2SUR6OTd5UGNvOGpo?oc=5",
    "summary": "",
    "image": "",
-   "source": "CP24",
+   "source": "BNN Bloomberg",
    "region": "CA",
    "date": "2026-11-27T22:37:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "32170c0b8e",
-   "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Gam00NnZ6U3dGN0tFTzBQakItb2p6UWY0RS04MElzVmZVT1M1ZnVkSVFFdHJKb1BTamlLdE1fMGJDWW1KX1JkY0dYTU5lRjJ1X0l0a1c3TkJ2T0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "CA",
-   "date": "2026-11-27T22:03:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -361,14 +378,14 @@
    "topic": "Society"
   },
   {
-   "id": "e4e789377d",
-   "title": "Freeze-dried poutine headed for International Space Station",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlpvV1VRTUcyUm9WdllRV05qa0ZDM1g1cG8zdENWN3BSQ19BZ05hRlRiQkxfSVYyeWc4N0dKN3JCVnlHYjk5LTlULTktMDZRZWlkdWwyMmlLa1lTX2p2RG53Mk9RM2dhdUlPZFpBbmpDZk1fU29OcUJYeEctWUYxc3IzMHU?oc=5",
+   "id": "fb1c357d12",
+   "title": "Ottawa plots ambitious plan to reshape struggling forestry industry",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTU55X21YTWZUb0pqcXVRVEVjcks1REJfSlNXaHphM1JYVlZNZjVWMzV4aFk1MUhFTXRCM0h5R3lZX3RPSTFDSnVIWFZhQkkzbERpcl8zMjU3X2lWeTFvdDU0V2J6ZDNRVWRDaDg0d1FzbFhmRnZMV21fSFpfZVZQUk9DemN6Yi1DSTBZVEdyQzdWWHVHalU3Q2FfeUt0UG5MQVFtQUk2UC1ucml5cEZXVXhJTGhVNndSX1BWTXN1RE8?oc=5",
    "summary": "",
    "image": "",
-   "source": "AFP.com",
+   "source": "BNN Bloomberg",
    "region": "CA",
-   "date": "2026-11-27T21:02:53+00:00",
+   "date": "2026-11-27T21:02:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -378,12 +395,12 @@
    "topic": "Society"
   },
   {
-   "id": "d24566ec1b",
-   "title": "Four B.C. men, investment firm ordered to pay $4.9M for pump-and-dump scheme",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEpxeHhuSGZRdGh2UENJZ0NTYWtNWVRIdjQ5RkEzR1VvdE1mMFl3bnA5dFRVNVJURGotZHJqamI3V3BQSUZFMEpUY2oxY1U2YVR4eVZPU0NNUWR0X1RHVnp6ZTdFeGc2YXBBY09PRmwtQkw4dkZnbzZZZGNyVV80c3pRX3pxTmhTS0Vuc0laRDhJczM2RnkyX3VBWlB3OFo3eV9NUUFNd2o?oc=5",
+   "id": "856a53b38c",
+   "title": "Another storm forecast to blast Vancouver Island next week",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOEpWdGRZS05HT0dDaExELUR2UkYwWGNaX1p6em91S0UtWXVEeFJtRGZhc2RjcTlKVHExMk5BOGhPdkl4aGlvZkRNdElzcDVQOVVzNkJTSnJQNVBPUy1qdGZCNGN3ZHRKaUlFdDZXWTVQRV9KUmIzUE5sMzZNT0MtMFp3QmNETTN1NzdreldvdTRuX2NtY1J6ZkJXaVVISGpfLV9KaUhUUzN4Q0dQRU53Yjg4d3hRaWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Business in Vancouver",
+   "source": "Times Colonist",
    "region": "CA",
    "date": "2026-11-27T21:00:00+00:00",
    "coverage": 1,
@@ -392,7 +409,7 @@
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Business"
+   "topic": "Weather"
   },
   {
    "id": "ac2a929e02",
@@ -412,40 +429,6 @@
    "topic": "Health"
   },
   {
-   "id": "0edef6cca7",
-   "title": "Supreme Court of Canada rules Quebec's secularism law is constitutionally valid",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03ZWFFYmZrdVAxc29jd3NhbU1Hcm5ReVZwbmFVQklldE9FekdQSVQ3Yl9QYy10aXVLSmgxY2FuLWJLOXZFc1pzQVhNRUQ3U2ZBeVpQMGgwNnZ3QzNiMGtvQkxNdTNiVEFIRVFHWFFjYWF4VHlvcHZON3FLNDk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-27T19:47:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "7f66ce6098",
-   "title": "Canada Post narrows Q3 loss to $451M as parcel and flyer business picks up",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RTFMtX2NUQ2lCTUdUemVVdmlZX1dtNE1QVzdoTmJYOE9CSElnODZWV08xT0NRT2tBdzZSS0xUcTZaQy1IMWZCeFZCQUVha2xrRUExa3kzVjZYRUU5b0M5S1ItaTNwZHRXWjUtMlNKTXlaQ1lQV2dSREhB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-27T19:23:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Business"
-  },
-  {
    "id": "f4507b0459",
    "title": "Ukrainian Community to Remember Man-Made Famine that Killed Millions",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfSm5ZNktTcXZ2d1lQOHNqVE9mZ0t3UWljTi1fdGNtdkYwUkRLOGNSUnZ3NkdXUFUydW16Q1I2RklEMDM5RXYwYmZpYw?oc=5",
@@ -463,14 +446,14 @@
    "topic": "Society"
   },
   {
-   "id": "9718886c3e",
-   "title": "Ontario calls for Criminal Code changes to give home invasion victims more protection",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX3hCaXRsZzRlZVA0MVdDc0Uwc1lXdUhJdnZEalU1cGJodEtxNjQybGluUVFDM0FqQW92VGpYNkNJWHpGNzY4ZHRodUMtMWcyYnBQRVpjbkVKV0ozN1FMeW1OTXVyUWV2MlpIV3d0b3FJRlBLTVhDZmYyQkd6X1VhY2Nlcw?oc=5",
+   "id": "111198cded",
+   "title": "Ontario calls for changes to self-defence laws after Toronto home invasions",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVV0cEFYV3FIWVZEQnYtTkFCeWpRNHowLUh2STMxMUg1U0NHN3NuWXVxNG1oYll2XzRzUzBTUUdhLVVid2hFREV5R3hMYU9FUmE1SUVQbXAzVHBzRW9wTEh4WU5XWDZONTc5cU44VjYtQTN4LTA2ZXVPa1NaYk5HMjlISDduYW53NFpqTGxCa2JaN0tVNFZPUDlrTTBzSnNSNk5NRXRXa2kzeHQ4VTcwVHRvNzNWdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Global News",
+   "source": "The Globe and Mail",
    "region": "CA",
-   "date": "2026-11-27T18:39:38+00:00",
+   "date": "2026-11-27T18:21:59+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -480,21 +463,21 @@
    "topic": "Society"
   },
   {
-   "id": "843ea7db89",
-   "title": "Ottawa outlines $6.5-billion plan to reinvent struggling forestry sector",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2xGXzRrVXF6ckhYRjVxME5BdmdJVXNublJQbDQ4Nng0SE5mQnlwQ3BLczZ5TXZ1djRSSzZMZFpEdndVWGh1Z1ZrdC1rVWw4WFRUSExUZTU4bFQzbEp5Nms1dXpPa3BXOU55TDd2a0F3dVNtQnZrU1BCNUFZSEpuX1FKVHoyUkYtYTFDZnVmNk5hOER3LWZBZzVWNUYtZ01U?oc=5",
+   "id": "b9cb27c6d1",
+   "title": "Thanksgiving storm on U.S. East Coast knocks out power, disrupts flights",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFpBV3FzODFjQkZjWWU1b2NnN0VScU9wb21ZLXRVcDM4Nlpfb1d4WVNKQV9aVHl4Qk41d2hlaW1LS1dodV83cnRkcWVWd0hGdGZubjBzNTBISXVSbWhsbDJ3dmhZQjFoT29tOVFTTDFRY09JbTI1ZHNCNUlySk5HLU9EQXdpODVENnc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Globe and Mail",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-27T17:48:49+00:00",
+   "date": "2026-11-27T16:46:28+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "United States",
     "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Weather"
   },
   {
    "id": "b6208e8afc",
@@ -512,23 +495,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "355fd97bab",
-   "title": "4-day storm dumps 734 mm of rain at Vancouver Island weather station",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGZQd2JOYURweWJRcktScWE2UWxkUHdpSnhEem05R2lfR1FPZGNPMUlFRmFveE9RdElJU3BhWS1iUXVaODE2R3A5MkFwRlRlbmRpRE1WM19rRWZLai15Y3lzeG05R1pPLW5hMzFGZVBsMlJjV2MtU05zWVRmbEE1N0VLYVZ6eVFNSXc2S1ZDeThiSXR2LXBmeFJIRm1FZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CHEK News",
-   "region": "CA",
-   "date": "2026-11-27T15:49:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Weather"
   },
   {
    "id": "3046599d8d",
@@ -565,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "035a15543a",
-   "title": "Best Buy Canada's Black Friday sale includes a Nintendo Switch bundle, a portable charger for 68% off, plus 27 more incredible deals",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOVhPbjNqb2h4NkJ0UTlOR0FydHhhc216elVtaWUwQzAxNENmdkFoZ2RpZUIwS0R5bWV3bzR6a2pHSnlzUHlMQ0piTGp1VXN0cmlwZzRMQTExU2tHbHEwa2syMEs4X0lpWVRnUHhETGl1bXpBTk13NVZDbmlETzFidGZPbE1wWkVQNVlGVWxBU3R1c3Z1NHdXTnZfdWFPUERqU0FTWVNLMHp6MkUzb0pfZlBFcEN3UzBqbkJLUmV3UnpMRGUtVUhtc0hRbnVUMWZaU2hmUGlDclJGTFhDSjJJdVlkTDQxSkk0T05lc1JDUFI1RHluc3pxZjZVTXdOMms?oc=5",
+   "id": "60bf45e66f",
+   "title": "Crown seeks 25-year sentence for Kenneth Law, who admitted to aiding suicide",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Lb1dqZi1ITmZWSF9wbk1rRmRRQWVYUWd2Zk5ERHV0WHBqVWN3anRKVmFhSXpERXItZ3FJelR3OUVXbGVCUzVpcVFjcUMxTzdmTHpRamotOExCSDRTNXJHN0doTktXS0tkWXNkZWZuT1d3cVpZamc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Lifestyle Canada",
+   "source": "Global News",
    "region": "CA",
-   "date": "2026-11-27T11:36:42+00:00",
+   "date": "2026-11-27T12:40:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -582,14 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "224ab72531",
-   "title": "2026 Mississauga Senators U16 vs Chi. Mission U16",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTJjMVFoOGZmWkdfOHpDVDdoRkRMLVpuRnIwQ2tKUzBCSk01ZUx0dnQ5ME1nVEpzSm1YTFpwanoxUWRvd1pGbVc2aG1rLVFCekxjQ2FFb0JxV3JFTllNbW0wNEVCTTZQUkdzQXhvb1dpNVpGcGZ2RjZwRWwtTnJIQzduVmQ5cmZ4ZF94a2FSMUk0bmc?oc=5",
+   "id": "035a15543a",
+   "title": "Best Buy Canada's Black Friday sale includes a Nintendo Switch bundle, a portable charger for 68% off, plus 27 more incredible deals",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOVhPbjNqb2h4NkJ0UTlOR0FydHhhc216elVtaWUwQzAxNENmdkFoZ2RpZUIwS0R5bWV3bzR6a2pHSnlzUHlMQ0piTGp1VXN0cmlwZzRMQTExU2tHbHEwa2syMEs4X0lpWVRnUHhETGl1bXpBTk13NVZDbmlETzFidGZPbE1wWkVQNVlGVWxBU3R1c3Z1NHdXTnZfdWFPUERqU0FTWVNLMHp6MkUzb0pfZlBFcEN3UzBqbkJLUmV3UnpMRGUtVUhtc0hRbnVUMWZaU2hmUGlDclJGTFhDSjJJdVlkTDQxSkk0T05lc1JDUFI1RHluc3pxZjZVTXdOMms?oc=5",
    "summary": "",
    "image": "",
-   "source": "FloHockey",
+   "source": "Yahoo Lifestyle Canada",
    "region": "CA",
-   "date": "2026-11-27T11:03:16+00:00",
+   "date": "2026-11-27T11:36:42+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -617,6 +583,23 @@
     ]
    },
    "topic": "Politics"
+  },
+  {
+   "id": "7809c1ad54",
+   "title": "Trump’s foray into state-directed stock picking isn’t going well",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTBwUVdBbHVLVjV1amxjY0JDenFUVkhnd0RpRXd0ZGpUSkdNVzhHbHE4SEJYeDc5REdyLUlxTUp3Q2szdHNMUkwwMVJRRFJuYlFpdTdVY1Nqc3lJc1Zic2tFeHNGMi1QaWNaZHd2VTZCTHdvaVBxV2VGM2hsdFNxRjA2ZHA3QUhHY1dhVzBsem5JRGpybEJMM2NMY0FIT1FXQ2xMMXZfYllFVWw0LTQtNl9n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-26T19:33:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:46:43.427953+00:00",
+ "updated": "2026-11-28T11:43:42.438821+00:00",
  "code": "BR",
  "name": "Brazil",
  "stories": [
@@ -10,6 +10,23 @@
    "summary": "",
    "image": "",
    "source": "UOL Notícias",
+   "region": "BR",
+   "date": "2026-11-28T11:33:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f1a463c9d9",
+   "title": "Mega-Sena: quanto R$ 82 milhões rendem todo mês na poupança e no Tesouro",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX3haUVctVFZkTmRZZ3drUXpGZHR2RVVaRllOWWNVRF9ad3hXUzdVem9MVGhIU0ZzQWIzWVVfSC1ZR3dtV0dJdGx4MTZwOElKSlM0Zk9yQVdySHhLS1ZpY0FwZnBqeWRFR2h1RDZsaHBLZXQtd0JuQUV1UTdETHo1QWRRY1lxRklkS3R1UklSa1B4a2dBdmlIUlRuakQzTlhjbWx5cVg4clAwZVVrYVdEWlJ6NEdoNEhUdDVqSF9GZ0lnQzRPc3h5QVdnUW43anpp?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "UOL Economia",
    "region": "BR",
    "date": "2026-11-28T08:30:00+00:00",
    "coverage": 1,
@@ -29,23 +46,6 @@
    "source": "G1",
    "region": "BR",
    "date": "2026-11-28T08:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "96d38d072a",
-   "title": "'Co-fundador e sócio': como é o trabalho do filho de Luciano Huck e Angélica em empresa própria aos 21 anos",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNndLOGxMSVlWMlFhWnluZ1pnVUFmX29ORG84VUZVQTdUN0JVUzRPUXBUU3o0ZTFob3NlUUtVOW1wT0lrTk43WGZTN3FuaHZyeW4yMk56SFBzZXFjSzhKQ2xpa0NfLVpDRnRrbFpFUzBrYTRDQ0JDeHF6MEZqRmhoeGsyTjJuaU43U1VLLUdsMzhqR29uQW1ndlRpYkM2YUx2VV94MDR2NjNKek54TVEyaUZkaHZLTGZ3Sml6SGRSUnpyem5Ma2psU3Jxd1ZwbVRqX2lnZW5iZURURzdpdVNZX3N0aXJUQk01SUtFUFdUQlV2RE1U0gGDAkFVX3lxTE1YeFdZQ0dOTUJlWEtTLXJBSEhQVmJ4VHlNd3FHYUw5MWU0UzVQbm9YalZtT00yNW05ai1STThTNFlFUkt6WFN6cmNuc1RxcFhicDNYRUZRZVFtOXNDOTR2ZVFFc2dvMjFDNnRhRWQ5c3BYeWFRNFRlOXBPVnNHVTktVDIzNUVtbGFyM084T2FMUnl0TzdfOTJTT3pMaHYtYUxGSEhxcDA0VXBDeFFqbW5OQUxNdXEwOEw5WXZyaVZiMGMxQVFHbzkxODh1OUtvWDhKWlBtTkU4LXYyVTlwNXNpRFkzdUtwbF84MmdzMF81cHI5R0NLbl9ZRmpSaG45Tl9CVDQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "O GLOBO",
-   "region": "BR",
-   "date": "2026-11-28T07:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -88,23 +88,6 @@
     "also": [
      "China"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3c711df496",
-   "title": "Black Friday ou 11.11? Levantamento do g1 mostra qual data tem os melhores preços",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYnhoV3RKdUxxUURkOEJmcmJIZU5Zb0hOel9mcW1ITzluc194N24xS3IyOVdhekFHcGt3YzlRUm84TTREUXJleXFtdG1SeE9jMmp3VS1mLTRpRUVmb0NiT2MxWFdfUjJGcHBfVkVtNDBSenZXZjJnb2YzcFY4NjhtSmtQVE9kN19BZVZOT18zRnFPb0c5c1RfZng0NjZyMjZnLXF6ZDQxMWpuSV92Z0JuZWZJMTAxTVlxYUVubnZDUjdhTGJLNUHSAdQBQVVfeXFMUHl1MWNpSTZCMDNienFEVDBZdFo3OFhaMUx0bG1oLUdLNWhmUjYteWM0WXh4TDRwQUZPSWhVZUlmYmdvMTlVVnNZaXpOcWpOamROUm1BcnhSWUkwb0FlRWswU0VPeEpUR1RkdTRVXzc3a3VCeGtITlJqZEVpb3pxUEJCMjlqcnlPcE1Cbjl5aGQwSHl4RVJoc2lrYWhvaWNRekg4SkloNlBtd05EX2hEcF8wWEJzeGxBa193d1VLQ292SWNUaEpNcndSMno0OUZaV0wyOWs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "G1",
-   "region": "BR",
-   "date": "2026-11-28T05:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
    },
    "topic": "Society"
   },
@@ -177,14 +160,14 @@
    "topic": "Society"
   },
   {
-   "id": "76d9db1895",
-   "title": "Fachin libera R$ 316 milhões da liquidação do Master para socorrer BRB",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1cyTU1xMUhIR2N5NFBPMXd6UzR3LXhQWHMtZ3dmR25CT1hGMWhZV09mYnYxamlMY2g4R241SEozUENJd1JnVy1JcG05aDZmcjlIUDFkVTBvd0x4OGtPbC1aQVllSGdaM0RVNEwzNjRyQlM0empjLXJtbXpra0NmR1lDRUFWZGxLWUlRRnVjSkpIV3FSVGp6NnJUZU8wRzEzaHlFaC1UdnNGREp5?oc=5",
+   "id": "633343c20c",
+   "title": "Lotofácil hoje: resultado do concurso 3840 e números sorteados",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWx3RVlUemtXemc4ay1oLURvT2lwUjZoZlBzbENLUUpSWmpCU0dxc3dLc1AweGpiTVNaVVc5R0gtenB3eGVNbmVpWU1vSF9aeTI0N0pYRmRlUm1lTkVXUW02NGFkeHlSTnYtQzVGT2JBYXF3dm1MbldDdE9PR282aV9FMzNyMXRwVVEyd2UtZ1RLcUpCZzU2b3VCV0VCT0h0ckxIaEZVQ0lrcGpvS25xRU1hb3EyVXFCbGZSYnBUdkpWaTdf0gHTAUFVX3lxTE5TdVZxMWt5MFY1Z3ZycDJOUWFoZTRrWDFQZ25kMjBLSW4yWU1KMUIta2s0elc4NkVKOXVOTW1VdzlXbk80RU83eDVVcTg5a1U1dEpwYlJTYmdadU93ZHVXblk2NEZKQnBrMTVVSGJ1blBNUUt6SjZFMWJsa0pUbDZKVVdTLUpYdXFvdDFDRXByTzI1SmJGekJsWUxvemFmSFZLbjFuUDN3S0lrTFM2VjctQVRmYU1ZY1JzcG9GWC1Sdktab0p1UjJxNWpta1FzckhrUFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "G1",
    "region": "BR",
-   "date": "2026-11-28T00:20:02+00:00",
+   "date": "2026-11-28T00:46:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -194,14 +177,31 @@
    "topic": "Society"
   },
   {
-   "id": "e7a25abbf6",
-   "title": "Lotofácil hoje (27/11): veja resultado e ganhadores dos R$ 8,5 milhões",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjVkUS1OOUpkZEZRNTJBLU9KbmhRY2ZVUWYwTDV1Mk5tYmJ6bTBRcmViWmRaaWh0M1VDSkJYdUlKTC1sMG9abHcwXzVRUmtZVk9ZZmNSZnRDMFNVU3BRcDI3dWFlV2J5RUxiVWMwR3ZNQnBUMlBVNE5aNUlDOElnYThaSDZsdlRzS3J6YTE0Mm1TQQ?oc=5",
+   "id": "67599b6534",
+   "title": "Saiba o que se sabe sobre a nova variante da covid-19 no Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjgyc1FvaHZXbk41UUhWcUs1NHpXZS0yWXdKNjhFbThQZ0RCMEt4eE5BMjFRS3I5c09VaUl6RTRVZlRaM1JDOWZ5dnRWV3l4T3dUTEI0ZWpjNjl1dDlKc1VHOGxieXZQbDlzcjdMX2k0Z2pKQmphN09GNVAxZzBMTGVXdHRyUHp5SWllQWE3NHlVNDY1dTNoUDdaQXJHYk40cnZaWnNZOA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ache Concursos",
+   "source": "Poder360",
    "region": "BR",
-   "date": "2026-11-27T23:35:00+00:00",
+   "date": "2026-11-28T00:20:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "76d9db1895",
+   "title": "Fachin libera R$ 316 milhões da liquidação do Master para socorrer BRB",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1cyTU1xMUhIR2N5NFBPMXd6UzR3LXhQWHMtZ3dmR25CT1hGMWhZV09mYnYxamlMY2g4R241SEozUENJd1JnVy1JcG05aDZmcjlIUDFkVTBvd0x4OGtPbC1aQVllSGdaM0RVNEwzNjRyQlM0empjLXJtbXpra0NmR1lDRUFWZGxLWUlRRnVjSkpIV3FSVGp6NnJUZU8wRzEzaHlFaC1UdnNGREp5?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN Brasil",
+   "region": "BR",
+   "date": "2026-11-28T00:20:02+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -245,23 +245,6 @@
    "topic": "Society"
   },
   {
-   "id": "4144124e03",
-   "title": "Pai mata filho adolescente e atira na ex-companheira em apartamento, em Fortaleza",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX09Kb25xZWF5alUtU0VyNmxVVklQNEd2UUJFc1VMTEVGaS1TTE9pQlM2dmViOUdkRUpjRFNnaXF4VVduQnBSQ1JoSFNWbzJkVDNiOXJzaDhjVUp0bmx4eUN3LXp1MHB6RVNrNXA3NEJRcndXUVFsM1YwQ3ZWQk5nUlBvU3c2OW5qU015aWNydEp4dEd5QUNBTGh1QzJQd9IBrAFBVV95cUxQUEI4R1FkZXVzaTA3bUNUbG9lZVU4X3U4SDdLZk9wd0R4MUg2b1JmN0hjRjQ2Vmx3TmFJazRpX0E2ZGREclNPOEl2TzdvcDFEbDhJRU5NXzA3QWJvdE14S3VPUmZPLUJBRkxrQXRrNmpLNUdBVGE0eE1aMGx1U3VpUVpadlVrV1BGRzZuVzBYTzhpUGZHbTZycVdfUXFTNE1SVVdUc1JKUXV1akpp?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "G1",
-   "region": "BR",
-   "date": "2026-11-27T22:12:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ff2f40fb5a",
    "title": "Guitarrista do The Killers, Dave Keuning sofre AVC grave, mas tranquiliza fãs: 'Tinha 40% de chance de sobreviver'",
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNaVVJeGtXY2RwSHJ3amFuVkVaV0hOS0tFbG1pSlMyOHhrdVhfdmszQW5KdU42cUFIOHFhNWFLMDVKcjF3OHVURjJDTEF4MHFncTVsR1hDcDIyYVN6MTNSNDZyN1o2OGltTGNjUDNzaDZxaS1UZVlZS0VSaTBKSXhZSkFsN1VPVUtPeU52WVhvYm5lUnFxOW5qazJab0xCQzMzd0hDNHRZaUVmcWJQV0lncmtSUXN5ajNaR3RxVVdqaFdOY29xUjkwVUs4MGdoeEtjWWR0OWlybVlKZUh1OEJNdG0xaXl1Z0Jnd2FveHhKV09laDNpXzRCUzU1dmx1YW5XRjBrV0QwQ2lBeGdL0gGbAkFVX3lxTE5QNVRIOUJORWhnZEI2cUxCd3hmVURhb1pyTzlOdEs5dE51LWNTYXNzVnNLT1M5WGl5LUgzMGVRVG1NUG5iUTktUzI0ZXdsbURubUFoT1RNX3MyUjlBYks3cjJuTzB4amZpNVdZYzdiaVpXTllBSkwzTENObWkyMFhsVy00VjMyY0J1NGxKXzF2bXJ2cHZmdmppN3FfMFZ0Zzd2UUlFRHJGVENxZzFYQW8yRENUem9abGRXYXBsSm83TVlyX2xSVVNNZVVrV1h4SkJUTmJQQW5MWjFrRno5WUtuQnJKN2txNDhqNkVoeXh0Z1B2OHlWOFZpQmpZa3dpTE9vLWRKckxfS0N1cVFpTWV6MlpTQmNvV25TWW8?oc=5",
@@ -279,14 +262,14 @@
    "topic": "Society"
   },
   {
-   "id": "67bdd2d577",
-   "title": "Após críticas, Nunes pede troca de enfeites de Natal em São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnMxcjEzdGg4RVdnTWttSmpmekdDS0cya0lENHdqcFNIbWtNc3VkQ1ZYOFcyRFVMSURTWFdJVGpITGdoLWRKaGh2dlFyUWJIYlIzSm9sQkJMTDZqeExuSWlVN3dsbkI0LVB0dnZNQy1FcFdDUXRzNVZCOGttNDFYS0hmSWxINlJuUmpHMEZ4S2ltbWxFS1dSeFVLUDJmbzd4S1NnUDRSeEZKZkh6NzRyNi13OFU?oc=5",
+   "id": "a52dd20a55",
+   "title": "Marinha investiga denúncia de estupro feita por tenente durante viagem de navio-escola",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVl82YTBOZm5CLUtIaUtCRWZqeFA1akEteVJRWEU3VnhsR1g1SXpWcUJYUmk2UWpMX01iaE1JYVdqUk1TSldjSlZSN3lLSEx5bWRNNjlrU2ZTSVE5c2c2SzQ1YkpYakExVkpETlcxSGY5eGREMHBnYXJDTWR2NXAyVmRfU0Fkb2ktLTFjTGVWZHRCQkU0UFNpVmxaTmlGcHh0azhNcm9HM3ctMDlDR3Vz0gG0AUFVX3lxTFBrQTltZ2ZoekF6aTJkNkI2MHRxclFObVBWUDBHb0hod05GU0ZHckc4dEdORXpNV1NzbUVqYzlyNXRwdXRSMjUzcmxNM2Z5MWVCM1VnQ1pHR0o2b0NmUTE5Q0F2T3B3SnVGTkYtVTJiSUprM0VfRG80ZnZyQlphUktDVkUtYktXQ3JhcjY0RGlzSTZZVXA5dUhqSUJldTRyMU5WbGZOVXFKRFpHN0czV1FNS0dMdg?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "Estadão",
    "region": "BR",
-   "date": "2026-11-27T20:50:08+00:00",
+   "date": "2026-11-27T20:50:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -330,6 +313,23 @@
    "topic": "Society"
   },
   {
+   "id": "7444eb931d",
+   "title": "Luciana Gimenez deixa cobertura de R$ 16 milhões após disputa judicial por imóvel em SP",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOTFVbXdwNFRYOUZ6YnBpbFJQbHEzT3d2cmJSYjhCajNESTB3VktlWmo1U1hudEtfN3hnYTJrU01Cd2NrRkJvdWNPRzd4N0ZfQ2VVQU91WE0tcTlrZEZPcFJEeVR0T3lNVWNGZ2Jlbzg5R3Zpb3AtLUYzQUN3MVJzeWlRdVh2VG9Ld1NycGUzTWJnZk9BSUZEOW5NVXg5eHd5RmtOU1g0aDRNU1U1Z2xBMW5kN2RWUlQwanlOc21vUkdnNjFkemQ1QTdySlRzZWxJa0pCUHVrUUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "UOL",
+   "region": "BR",
+   "date": "2026-11-27T18:49:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "6889b7b5e1",
    "title": "Ao agradecer a estudantes, Lula garante verba para a educação e defende gasto correto",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeXQ5SmpSaGdZRVFtaHRrMDljTXRoRFNoT1RZMmU4bXhoWVN3QmdFRXh5OGlxc2lGYlJHY29Pb1EyaDQzR3R6dWhSWjZXTnU3V2hxckpIQ01zYXNGU3hNRGJSejIteHFFOW9LUlJlQmZUMlplbm12bVBXUlpTMWN1Zm9weEFOQWZRYl9vMFliUC1uV3hpaU1IaFhSM1R1elVGRDdJ0gGrAUFVX3lxTE9aa0tMX2RFOW9hWUdrc3dxS3VwSTNsVE1nVm93YS1sZjVHOGZreWJQOWctR0xBLVZoaDE3T3RHcUliNjRrYlExOFRYcWV1UjNpYmhNcXdZR0dHS3VHZ3ZfU1ZRaGRSa0NrSTdnZ3pWSzdRRXEwTjBvYkx1UVpFTFB6YXg2c2Z6RGtRekVnUWlhODg2OVE1Z3AtUF94aUFTalVlMmluUVdZeHdCUQ?oc=5",
@@ -347,14 +347,14 @@
    "topic": "Society"
   },
   {
-   "id": "b01ee3ef38",
-   "title": "Darlin grita, arruma briga com Erthal e bate panela em A Fazenda: 'Faço o que quiser'",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ0dXWUp6RXQ0MWZFYVlGMzhtMkJEVWZrQTR4anVDSlUyQkVRS05hMHRVdFRpNU5RcUdLS3VOMUQxNHNfVXJBMTRYS1ZncURpejJDMFhVd0dSSVV4MlpUcVBmX2YzY2NFMHdkTXpnZ3lpWXVjVEMwUHphRGZ2b25lNHhsUmR4ai0zQ2FkNElLWnlCWks1bkdZUlpvR1lyM0x1MlJ5ZlM5Sy1OU0VLYjRnYmlwVFFvU1lUZE5HTHJaQ3djZWs2TjJCcmRONTN6TlJabFo3Y9IB4wFBVV95cUxOam5lMWxQWW8xVkFUZENpcnM2M0lPNC1KMG5OX0p3Smwzdzljb0xIQS1iSzVRMUZfY1pBQ0FtczJ2eTRSQUk4emhfQzhVZ1o0eXQtVFJ3RVZ2ekFUMGJISmdOS1A5UlR1ejB6TWJQN3JHVnlDb0Y3MlhjZUZpSXNDcGJRSjltTUZpdEpvUEQzX0NhSW0xWlMzMXVOYUVFaHhfQ281QlJ5UXdJenk4WlZiNGlodGZOS2dnenV5T21DUVhxRGxZbWdwOFlDVm83SnA4Y19qLWQ3MzBpeklNMUpiVXN4bw?oc=5",
+   "id": "3f935d2e61",
+   "title": "Cabeça humana é deixada dentro do 18º BPM, e policiais atribuem ação ao mesmo grupo criminoso que enviou coroas de flores à unidade",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUHhjaGhGN3BDOXRqMExBa3JpSGhnNlhhbVFDTnVpQjc2VFJQMFY5VmNvV0RYNGhSTDdfdkRiT1NWU2o3WGhoWlhFRDNERERTMHRaU2FtdW4tVU5rQzFnd3o3b2FDdloxck5vOVRlMUp1NVZSVE43WGZiWHdBUE9pOVNQS0lLMWIyTW1UQnB2OEdrRTQyMHRPV0JGWVRQY2wzUU9xeUNONHh3dDVsMjZ2WGdEeHdGNEZsekx2bjlET0F1R01HRkdReWpqUWYxSXI1UElMdDVOSVlaWkZhaEtKb1RwV2pWV183RVhyTWlFNmItcFJOdmtIVjdzVWJ6OWFLYVpVLWtNZzhRYUFLd1ZLalp30gGgAkFVX3lxTE9yM21hbHJFQTFRUzd5eVZOZXF3cnkzRTY0LW5CUWp5NWdZcHl1eHhaWFc3ZmZzYWY0bzNUOU9JWFkxSkxQcW0tTE9rUG15VmFvQ3AxUjFPSnZpcVpkaTlMVGE4R29hZjE5ZkRGZFNDZFlBb2wtVWtZV2JGY3FMT2taT1cwY3JsMXVTVEpjMVJmUjAxckVNdS1zREZ0OVNIT0N1c05xZGM1dHpJQmdmT3FMcVNUY1NXcmEyNkR3V19PeTV2bE9wT2IycF9sTERpM2tmeTJZb0dWT0diZ25rUUVYWElzbDYtNmVTU1ZvcHpESHBhMUNGajBkdjAycTltYWZZUjN1enVPWVJhbDFfVU8zbDY1bmRzVjY0MFUwUFZaYw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Notícias da TV",
+   "source": "O GLOBO",
    "region": "BR",
-   "date": "2026-11-27T18:27:00+00:00",
+   "date": "2026-11-27T18:21:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -364,14 +364,14 @@
    "topic": "Society"
   },
   {
-   "id": "0b91a1a954",
-   "title": "Lula descarta cortar benefícios, mas diz que haverá ajustes: 'não pode gastar dinheiro à toa'",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaWVHQ3NmQUxudlNmSmRvWGZ2bGYybldLdGltQ2Nnd19TTlNkMnp3RUFpdXEzc3RrX2FYSDY4Qmp2cER2eDF6Q2hOOEo0WXdCb1pZTXdDdEVRTmJGa05fYk9wMkFFc3VoQzkxa2dMMG9JV0d4SjJOOU9yN1J5empTVE11YklyZlVydDF3aUpvcEY5N2ozVWFIaU1KMHpxQS1EUG55NFpMWlEyc0p1QU5qemFxWWhsUVo0NFMybUQzWGFXdXZaZ09Iak1lNTFsck9MT0lkc2RiVlRPY2_SAeoBQVVfeXFMT2dMWGtmWHUyWmZRUzQ0SFV5aGlZeWNsOGNSWG5qT1FxNkhWXzBQWm5wZ2hiRllJNk0zZEszREdDRXFGVFU4RDRaNzYyVTVjWkhmRDI4RXJkM3BaZWdIQ2pidHRJREQ0MGlpODRDWkFsZVJiMDFxZkVpNkppOHBaeFFkX0VQYVpkcGpIM3lQVnZIN2VHRzc2OFRoLVJVQU5aOHh5dmRGeW5jTy1pZE83SnV5dVRZSDhyalEyZjBPM1BQdDBadDhOTjdQTUU4eDc3ek9UaWpuRUp3Y2hHazBwNmJBcWpaYmlFcm13?oc=5",
+   "id": "2f755a0cb7",
+   "title": "Qual negócio o filho de Luciano Huck comandará com apenas 21 anos",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFdUd1VNTlNia19jM3AzeTZZbTl6Nk5oS2RrRDRuWm5PR0NuVmNzWnlCQmVaaEdyRHcxa240WWd6U3VDcFRXWmN2Y0xxcHVVZkpDZG1YbW41X1ljT3FYbnFmRW9vdnh6Ykk0b2VJNktMUUhxUmtSUV9IWmRZaW9YWHZya3A?oc=5",
    "summary": "",
    "image": "",
-   "source": "O GLOBO",
+   "source": "VEJA RIO",
    "region": "BR",
-   "date": "2026-11-27T15:43:17+00:00",
+   "date": "2026-11-27T16:16:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -466,27 +466,6 @@
    "topic": "Society"
   },
   {
-   "id": "007147d090",
-   "title": "Zelensky critica 'estranha amizade' entre Trump e Putin em entrevista à BBC: 'Putin é um agressor e assassino'",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSmVOdUpIajBxZVg0NXJjeTIwX0doLXJFay0yQUJTbDdJNm5fZ3lDaDNUV2dNOTI1dDRsQ0J2RGNCWjd6YURFRzRZYlZZM3puQmhJajFPcW5yS0xUWWxFbkd2RdIBaEFVX3lxTE10N2tPLXd3S2RMcmczR0ZqOUdDOGR2bXViam5sUVpydVJnMGtqRGprYVFVQWprQ1FsU1gxc1RPVkJNR21PRzhLMDUtOEtUeUVBbVJsVkdRZU40aE9RNXV5Y1BTM0J6LUR3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "BR",
-   "date": "2026-11-27T12:27:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇺🇸 🇷🇺",
-    "also": [
-     "United States",
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b5d6285784",
    "title": "Após 'sim' de Trabuco, Lula anunciará Camilo Santana na Casa Civil, Alckmin na Segurança e mais; veja próximos passos",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeFZ3VkFMUURqMjlJZDRsVndKam96ZnVqeGFSdjJGanhWNEJWemluVURQSmV5V1pfd0NOVm9nUWRQZUJtZFNXR0FianprM2FlSXZrYm16akdIUTJhbTZnNU9kMXc4Q2ZyejUyZThza2hvR3c0aWx5aUI3YmdyaTM0TGotN0xiN1VVc096eU9FOFNYc0pFUFIySHdrdllUcDcxeVJwY2g1bDJfMEpLcUNUZGVqR2RwS29qSVJjYTVwNnBXNDlFdGkwMlhJR3FYbGJQT0NKS1NiY1NxM0lITHcyTDlYSTZONlN2bElEbGJ4M2EyZEFRNC1MOEVidmNuMEHSAY4CQVVfeXFMTkJ3QUxhWU4xQUlmUFp4S01JcFdtZTNpUmp1X0JkZzlKOFJFbnB6QUlIQUsxQ1NUaWVlelVoTDVTOHRhQ1dUaTc2aUN1ZkQ4T05xVU1ORXpCY1hBZTB2QU9odFJlSjVZZlJXOXVtcXVMckVXUlNvNV9LNXA4WFdhVG4yc1BhY2FET2ZpZXVlVHBwUnhYQkpIMUtNOXpmWWV2amxfR1VjZ1k3aXJROGQyTWNrRkY0UWl5ZldCRmZuYjJzMW1aSV9aVWY0RGpZdXNvYTNTZHo2cmJhVjFzRzVaYjg5QU9NbmMyeUFabGtFS3B0VHoyNjJWV0o1dE56cU5teGtIdVFxcnU3YzVxMS1B?oc=5",
@@ -538,6 +517,23 @@
    "topic": "Society"
   },
   {
+   "id": "3322fd4f30",
+   "title": "Cinco hipóteses sobre o “ajuste fiscal” e o futuro",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2phODV6M2VnNnI1NGM0MkJrb3M4cnNQZERyWGdZbmVheDFGSExIUXpvQVVtTl9jeGVFZlRrZjhIdFdxaXpmb2FvMl9jYk9QeVRsaXRrOHhoNW5ob2xmMUFnNzBBX2F2TTVxOGx1cGplbG1uSHR6OFo5M3dZNkg0eURORTNzYlB2SG9sVUxn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Outras Palavras",
+   "region": "BR",
+   "date": "2026-11-26T22:26:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4bc2253222",
    "title": "Novas diretrizes para câncer de próstata: rastreamento individualizado e uso da ressonância antes da biópsia",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb0xONkx4ay1MWHoxdlkyOEExc21VVUtxc3RTTlJnZ2g5aTV2OHVsZXVaUFZGeGo4b1RfM1c2RlpicDhKVERUeFRaeFpscmpnX0pUSTU0NDB5Snc2a1FlZnBTNUdrZ2NjMlBkVkxpV0pXUjZKdWNpYVBSMVB4Z3FaZGpyQTRLN3oySU1felYtNHhNR0VZVUEzZWh4ZHh2OFVKYTV3NE15eDBreU9GQUlVR3NONldNOXhEY0FSUkVpWkV1WDBCS1N2S3EySkFpV0dtYnRKampSZXVvY3J2QWpiQXhqbTVxdw?oc=5",
@@ -555,14 +551,14 @@
    "topic": "Society"
   },
   {
-   "id": "9240ed1851",
-   "title": "Quanto treino de força por semana está ligado a uma vida mais longa? Dados de 30 anos respondem",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWZJVFcxVXp4YXFGTDQ2SHk5YW11MzFYVEluZ2thUUhKRjJoMW9vWDhEQk5sekl0dFhnSlVBc2o0LXFHWlZhYjhiXzI5MFZESzhFcnV5M0U3bVNTeG0tVmFRQ2Z6a0l1bWstX1Q4S05lVDdZVXdOQ0RSQ3I5UVZyb3VSUWRhZ05IQjVjaUtTSTg0c1d3Y0JaLVRGam1sOV90Nl9rcjEzRi1Ha3BieG5KTlplWGM2YWVEbmY1VG4yb3RILWhOZWFIbkpJTQ?oc=5",
+   "id": "181f68de44",
+   "title": "Ministério da Saúde reforça vacinação contra covid-19 com mensagens à população e envio de doses aos estados",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZzB3cVVfX2RZMEl0WmQ1SDFUZE1tVkUtdm5rWEdXWUhyemZrXzZuOURYU2lVamcyV1hQaFR6SzZ1T1RnNlhMSkJrS2hBTkt3MDR3dFBKWWJPVGVMTkxYeU05LTNrOTBpY3lRY2ZRdjE3Y3Z4MC1sOFRzNk5sbHVFbU5zQkkxbXRMdENoczdneENLeWxDLWpnemlZbXo0UkFhckpRaG5LTk9tM3paLUVIMU9veUo5RGR6UFBoRFRlbXRuUnZnOW9aU2JtQXN4VEFEczd2cFRxLVhBQURUdTB3N1l0LTQ3bTV1a0t0Wi13UEZVVEtjb2k1MERvdDVkZDVp?oc=5",
    "summary": "",
    "image": "",
-   "source": "UOL",
+   "source": "Governo Federal",
    "region": "BR",
-   "date": "2026-11-26T15:15:05+00:00",
+   "date": "2026-11-26T17:26:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -572,14 +568,14 @@
    "topic": "Society"
   },
   {
-   "id": "a292f1397a",
-   "title": "Ministério da Saúde identifica mais de 130 mil casos de covid-19 e reforça alerta. PcD tem prioridade na vacinação",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTW5zUDdkSmJoN21kNkRpaFpDbEtXdUNBOURBVHJwZVhiOW1Ua1hmZmJrMllHdEJCYlFMakM0QkZPNVlRYVFHaEdMRVJqRjdNbnFaUURzcGJoZExDLVowaXBhMkk1V1YweFNpcG00OFlyOVhHMWlWLThfcGhVWDdoVWFJWVdRS0xjVlBFVk1ob04yNVhrVFd0ajBaaWE1bEFuMWF6dC1YWERqNFBEcktkd0x4TTlYSGVNa3RLTnVtY1oxcFZmNXV3MWNjTERIMmlLcGNFWWRB?oc=5",
+   "id": "9240ed1851",
+   "title": "Quanto treino de força por semana está ligado a uma vida mais longa? Dados de 30 anos respondem",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWZJVFcxVXp4YXFGTDQ2SHk5YW11MzFYVEluZ2thUUhKRjJoMW9vWDhEQk5sekl0dFhnSlVBc2o0LXFHWlZhYjhiXzI5MFZESzhFcnV5M0U3bVNTeG0tVmFRQ2Z6a0l1bWstX1Q4S05lVDdZVXdOQ0RSQ3I5UVZyb3VSUWRhZ05IQjVjaUtTSTg0c1d3Y0JaLVRGam1sOV90Nl9rcjEzRi1Ha3BieG5KTlplWGM2YWVEbmY1VG4yb3RILWhOZWFIbkpJTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Diário PcD",
+   "source": "UOL",
    "region": "BR",
-   "date": "2026-11-26T10:57:20+00:00",
+   "date": "2026-11-26T15:15:05+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
