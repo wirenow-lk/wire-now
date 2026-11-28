@@ -5,64 +5,39 @@ OK   Ada Derana: 56 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 17 stories
-FAIL Daily Mirror: HTTP Error 429: Too Many Requests
+OK   Daily Mirror: 99 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 15 stories
-FAIL Daily News: HTTP Error 429: Too Many Requests
-OK   Sunday Times: 5 stories
+OK   Newsfirst: 11 stories
+OK   Daily News: 58 stories
+OK   Sunday Times: 6 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
+OK   Google Warnings LK: 14 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 22 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 83 stories
+OK   AP News: 85 stories
 
-Biggest stories right now: Parliament observes minute’s silence in remem (5 outlets) | Princess Kate’s Cancer Documentary ‘Heal’: 3  (4 outlets) | Heavy showers above 100mm expected in several (4 outlets) | US disables ship attempting to breach Iran bl (4 outlets) | Kenyan cult leader guilty of manslaughter mor (4 outlets)
+Biggest stories right now: Parliament observes minute’s silence in remem (6 outlets) | Princess Kate’s Cancer Documentary ‘Heal’: 3  (5 outlets) | Heavy showers above 100mm expected in several (5 outlets) | Canada’s Supreme Court largely upholds a Queb (4 outlets) | Taiwan votes in key local elections as China  (4 outlets)
 
-8 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: Two Sri Lankan workers walking home killed by protruding cargo from tr
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [1 outlets]: Two Sri Lankan workers killed in truck accident in Hwaseong, South Kor
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Fox News [1 outlets]: Jermaine Haley, WWE star known as Bronson Reed, dead at 38
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [1 outlets]: Sri Lanka Business News & Financial Updates
+* The Hawk [1 outlets]: TN: IMD issues yellow alert for 23 districts, heavy rain likely in six
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Ada Derana [2 outlets]: 3.6kg of heroin found aboard vessel seized by Sri Lanka Navy
-    important (also on Hiru News) - researching
+* BBC [2 outlets]: 'Poison seller' Kenneth Law apologises in court to the families of his
+    important (also on BBC World) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Island [1 outlets]: Special Workshop Held to Brief Senior Ministry Officials
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: the name/word 'Lankan' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -71,12 +46,46 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 2, written by openrouter)
-* Reuters [3 outlets]: UK's Princess Kate climbs mountains, fights cancer in intimate documen
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Taiwan votes in key local elections as China looks on
-    no AI summary: saving the rest of today for important news
+    cards OK (attempt 1, written by openrouter)
+* Ada Derana [2 outlets]: 3.6kg of heroin found aboard vessel seized by Sri Lanka Navy
+    important (also on Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: AI did not reply with JSON: ''
+    article too short for cards
+* Hiru News [1 outlets]: Steelers' ticket prices plunge 66% after Aaron Rodgers' release
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [4 outlets]: UK's Princess Kate climbs mountains, fights cancer in intimate documen
+    important (also on AP News, Ada Derana, The New York Times) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [3 outlets]: Taiwan votes in local elections to choose mayors, other leaders
+    important (also on AP News, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: spoken: says results would come 'early the next evening,' but the article says 'early in the evening' (same day); blurb: states the elections 'ended,' but the article does not state they have conclude
+    attempt 2 rejected: the number 2020 is not in the article
+    -> no cards; posting with the site's own summary
+
+Top 10: 1 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 3
+  photos: 7 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  Fact Base: 9 facts and 1 people saved
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check failed (AI did not reply with JSON: '')
+
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 68 story pages for Google)
+
+Countries: IN 38, PK 34, BD 34, US 34, GB 37, IE 35, CA 35, AU 35, NZ 32, SG 35, MY 32, PH 35, AE 34, IL 35, NG 36, KE 33, ZA 33, GH 33, FR 34, DE 32, JP 9, IT 30, ES 34, BR 34
