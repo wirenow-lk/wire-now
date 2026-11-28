@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:05:27.805013+00:00",
+ "updated": "2026-11-28T04:10:21.412799+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
@@ -17,6 +17,23 @@
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c3b206f65a",
+   "title": "Kiev affirme avoir utilisé un laser pour abattre un drone à réaction russe",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFZHbTgzLVZSMmVyUlBWUkdwUlAzcU1FODJjUWlOX2lfeS1EZ1Bydm1XS3ZWazRWRDNSNVN4SzJIdnV1WTF3Vm5PWVFoZ3VqX1IwRHItWTFoTENSc2VwUDBLWUswY2FOWlRqVmkycGJjLUgxY2VJc1VKU2pfMEhVaG5ENktGaFg1RTkwamp0Z05hSzcyR25NTWttNU1pRzJmX2FBM05SZlh4ck1nRm5mQ0NHODZYRU82NklnLUZfVDQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "20 Minutes",
+   "region": "FR",
+   "date": "2026-11-27T21:53:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
    },
    "topic": "Society"
   },
@@ -60,7 +77,7 @@
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGZaU01kUGJNTWNFVFpuaGJZUWxRVWxEUW1yTGNsU3I4ZU9Eb2JHYS1INjBval90SnhGVlkxSTBaNFVTODZLaVRiemVGb09MSUpzcmVwcEtKNXBlZERJclE3cG1lQ3QxNV9vSVlaamFJOFlQVXpCcEJBUGJMd3M3U19NeTZPMlJKX0V2OHJTdjNKV2pXcnhSWkYtSzNacUlGd3A2R0toSzJpeHBselhYZmFkYjR0ajRROEhqQ0J4YkNWajBvTUF5N1VERTRSbVZqM2J6d3VqMTh6VUhuamc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Franceinfo",
+   "source": "franceinfo",
    "region": "FR",
    "date": "2026-11-27T21:24:51+00:00",
    "coverage": 1,
@@ -123,29 +140,12 @@
    "topic": "Society"
   },
   {
-   "id": "8a04107b98",
-   "title": "L'Ukraine affirme avoir utilisé un laser pour abattre un drone russe à réaction",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTBKcFpkbzNtaUN1WmFXdGNpRnlrQV84X0J4TFdLZ3hfdEszR2VDR1BId0JhVUV5VGljRWt1QWZoMk9iN01UdUhjaUhuWWNvT0pJdDlfZnYyWkpIYmVjSXdqeXpqWTNvT0ZRc0xkRk1haWRsbk5fQndPX1RCUmowX1lZd0JOZmEzbVkzdTZvc2p2NDJENVY5ZWNrN192aGJhQkxzSmlENFI2dlA4VVRGYnhKNlQtTWsx?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-27T20:36:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "bda36269d4",
    "title": "Le père de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, annonce qu'il ne participera pas à l'hommage national",
    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTkNLMXVrNzFfSFhkeUpIbFBiS1JxeGFEZ2hzMjZ3eWx2Njc1Ty12b3M2VHhUamotUFA1d2Zka3VwUzBsUHhqdVU1WUw2UXpyd2ZkZ2pLeWROQVRWNVRqWkIxYndnV0Uta1pYSzhUSy1sWElabnNvOVJPcF9QZnU2RjVPM3VIT3NNNGJrN1Bub1hBYWp3R0ZkT3k1V1F5MlNGSDVuRUxkS2NicnRDUkNURnRGVnA0T2JBZmNQOEtVc3FXeXN5NlRJVUs2QnlwTjRRazhZMmZBT2kza1pFWGVYLTgyMDRtblNsQWVqMjZuM1FBUTRINVIya1lac2RiZmRJMEdDdDI1VnkzRkhDckFXbkdNbDRVU3dVdHZlZmpaa1p6Mk05VVJOMkl4ek5WcU5oNWxDdTZITQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Franceinfo",
+   "source": "franceinfo",
    "region": "FR",
    "date": "2026-11-27T20:32:08+00:00",
    "coverage": 1,
@@ -293,14 +293,14 @@
    "topic": "Society"
   },
   {
-   "id": "d484b14b2b",
-   "title": "Grippe : sept régions en pré-épidémie, la vaccination recommandée avant Noël",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbmMwVGZnS1kxNjNNazVfX05Fc2xSU1ZEMlI0Zk9rRVdkWEJkVXQzbnVFSno5MzhPZ3NaNVdNX181TUFEYzBlOUdpenp2OVpRZHhvR1c2Y2RiOXFvTzRBWm5lOUdvRVg5a1NrNXo4T0hHZ1pSWkp4N0VLNlY1TmIxZC1EYm01aExSSXJ3R1ZJVEtOYTZYSUVEckV0a2Y4eHIzX2I1OUpQUHpKUDdCbzNyR0JaM0poY25ZaTI2Ylp1bVVDWXY2YWg5dUt2Ql9TRFo5YktfTTVUeVpiMUVnc0E?oc=5",
+   "id": "a765c70d61",
+   "title": "Mort de Jean-Claude Vannier, “l’arrangeur des arrangeurs”, dans l’ombre de Gainsbourg, Barbara et Brigitte Fontaine",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZzU5SFlJU2l6SEZVaGx2OTRUbzMzNUVTZGtGQUdFYk1PelN0QW53Um92dU1aOUFzZ1AyU1NBelRxcHRwZmw4M1VxTl9EOFRwaDZpQXE3eVhERm1LRVBvcm9mQ0NKUlZPVTFGN3ZNSFJ1VmJUMW5ta0kwYUtReklnOVVqSXl6ZlhmSlk1bVBXNGhWdWlZdzdtWldvT3Z6R0JNNjZhMkpNUzRzRlhWNnhEajBRUEJrdm9QREtaNG55Qi1ibXk0TUpYNzA4LVByYnVQbExRMnpBeEp0U1Z4b05ncFdsRU93a2pScFhuQnpNV0M?oc=5",
    "summary": "",
    "image": "",
-   "source": "Orange Actualités",
+   "source": "Télérama",
    "region": "FR",
-   "date": "2026-11-27T16:18:12+00:00",
+   "date": "2026-11-27T16:50:12+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -310,14 +310,14 @@
    "topic": "Society"
   },
   {
-   "id": "0c907aecdc",
-   "title": "Black Friday : 8 PC portables pour les études, avec 16 Go de mémoire et à moins de 1 000 €",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdm9UVmc2VE5zVmJsZlVsLUZtZmVqTFpQaDZiaXdFVXVRQm05dDl6emkyREJZS1JfRWRNY2VucGdkX3czTGg1Q0QyUTFmcE8tQzFfRjdsa09WRkR1Z0lfVFhweDB4bGRoVWdXbWNkLVdvcjZFTVJKR3gzQ1A5LTlEel85S2dIbmgtOGFZR0ZQRlk0Vk5va0lnYnRxeUhfVDloZ0tLV25mSkVNc1VuNXh0YkhXNTc5eW9RbXRzeWtMTFBmNnh1VWc?oc=5",
+   "id": "d484b14b2b",
+   "title": "Grippe : sept régions en pré-épidémie, la vaccination recommandée avant Noël",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbmMwVGZnS1kxNjNNazVfX05Fc2xSU1ZEMlI0Zk9rRVdkWEJkVXQzbnVFSno5MzhPZ3NaNVdNX181TUFEYzBlOUdpenp2OVpRZHhvR1c2Y2RiOXFvTzRBWm5lOUdvRVg5a1NrNXo4T0hHZ1pSWkp4N0VLNlY1TmIxZC1EYm01aExSSXJ3R1ZJVEtOYTZYSUVEckV0a2Y4eHIzX2I1OUpQUHpKUDdCbzNyR0JaM0poY25ZaTI2Ylp1bVVDWXY2YWg5dUt2Ql9TRFo5YktfTTVUeVpiMUVnc0E?oc=5",
    "summary": "",
    "image": "",
-   "source": "LaptopSpirit",
+   "source": "Orange Actualités",
    "region": "FR",
-   "date": "2026-11-27T16:00:00+00:00",
+   "date": "2026-11-27T16:18:12+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -342,23 +342,6 @@
     "flag": "🇫🇷"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "3202322806",
-   "title": "Une tempête balaie New York et la côte Est",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT2d2dk1tWFduQ1JFd181aEMxUW55T1lINWlVLVJaWXVGaVFXOHBvT2VmTV9EYWlKQWhXRk1HcENzMk0zWGdlT29BVXpkUTFraUxLX3VfeUNxWHBvLVpVNHgtOEdvQXNyTHU3d0doaHJrMlZiR1JwX0hnM3JlWmVtWlFxR0Z1TmNPN1ZMSlJjVzFOMHJyTEZZM1Blb1pTaUhfZTJoRVluMWYyYkZYMXVKYU1yaFlyaHA2WEYzWGFTWDFua25UQ2ZtNFozZUZXYWEzYV85d3FNQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Franceinfo",
-   "region": "FR",
-   "date": "2026-11-27T15:50:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "c0f99c808e",
@@ -395,23 +378,6 @@
    "topic": "Tech"
   },
   {
-   "id": "bc983e7b68",
-   "title": "Perturbations dans les écoles mardi 1er décembre 2026",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWtzSWVFN3F0RU1HLUoxLUt0SDJyV2pNMmN5LUVzcFdGd0VvQWlQTFNDdjJRSlRmY1lTUHlSNmg5czdlaTVrQ3I1d0RVMmp4VG1xVTRzNDZwbWNhM2RhR0g2QjFva3JMUmw2OTJzTHRJR3dTaFowc1pqTV8ya09WOVpIcjUtZ3hZU3c2Sl9fZ0NBUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Rouen.fr",
-   "region": "FR",
-   "date": "2026-11-27T15:00:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "8ff2f41295",
    "title": "Nvidia voit ses gains s'amenuiser après la publication d'un article indiquant que ses puces interdites ont été",
    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdTZTZHRaMkUyX2VaTjB0U0MwS2p3QU1QMEZpcXgzbUxvYzQ0TWJ0X2F4ODBLbWFPTkRHSkJadWllZ1FTZ1FqMXN3X2d6RUZUejZ6OGd5RVoxei1DOWxCY2h4SlR3X1B3XzZmS3k3VFFaSDZpajBhOE02R3BQQUU5N19GVW9tbW9ZMm95X1VERGk5bXR3M2czWHFxLWNCTW1XajBLQUJteF9ibmhiWUxaeHVQejJsaTNDUXJaSnhrOVlzanNUUWlKaWFNVm5QMUlQTDRUSW10QU5CZVozRkpCbGNjM1NHamFyQVdsSWFvSVhKdFVJRnUwckdnRVY5OTR5M1Vwd1Z2S3AtSGRBTjl4cEFaOUdndDM3QTl3c3lYZFN3bzRpWlVtaUFta2s0TFFWcEJORnh4UWdZaEhvMUpTdVFVNWEyUkIyZzJhMGRZY2_SAdYCQVVfeXFMTnRXR09OQm5waTBIZTVLajA5cUR6T0NFWnRsOVdILWFmQ2pqSUJVUllzX3c5ZWROSjBmV3d1TUY5NEI5NWVGRmxpQmNxNW5jajRPbllaVUZ1eGZwQkQ0MnRLV0VEc3VvWHpOMms2a0FlVnREby1DTFB3UGo1YkxVa21UNWxGS2w3RHplWG9pZHUyQ1NET1lIUGR6ZWU5aXU4OHpFNkltOWY0SWplVmc3amtRTjYzRjNzaGdUdmFZVXhIYWlraXZOMWNCTlp6Z2lRQVZKRktWN0VpWkFuTmluaFJCVzNDbXo0ejdOeTR2N3dsYTQ0dWtjYVo4RkdSaEZMdTZXdG5KOHFfV2ZoZ3JRX0U0ZzJiam1FU2s2c3otMEJvNTRwMG1POU1mbXhmdjhtbkk5dlMyWEVVeENwdjIzemZHcmV6TG43OW1Od1pXQkZ0Mlhla3hB?oc=5",
@@ -427,23 +393,6 @@
     "flag": "🇫🇷"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "d85fdb7bce",
-   "title": "Mort de Jean-Claude Vannier, compositeur majeur de la chanson française et arrangeur inspiré de Gainsbourg",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa3QxbTBWZ1RUc3ppaTZTSmFsQko0SjBWdGRjbHA4WjNacVBYMVRlSnAzemxFV1lpdzBKOFZOVEZreFdPRTRZMXYtUG5kUl9JaHpiS1VMYTFxMnpuUENaZVNuTVYwUDQ3YnBoMGE1Uk1XdTJpdFFJNWpsUDRuZHhSU0piUGdnbFktT243LWZ6Y2MtZ0lCWVRCTGVKUlA1NnVTX2JaTmJ2M0habjlzWGpER0NMUlRza1phaXdBNjVkUURxYmt4cGdYMVRob01uX2VmdWkzQkNYSE9KQ0RFV1Z6SQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-27T13:54:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
   },
   {
    "id": "d603ec656c",
@@ -514,14 +463,31 @@
    "topic": "Society"
   },
   {
-   "id": "27568b217c",
-   "title": "Pourquoi la rougeole, maladie humaine la plus contagieuse connue, flambe de nouveau dans de nombreux pays",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOEhoRTBMdEp0cjFjX3EwWEl5eUFKSUNYS2Y5X3lLSHFyV2VQV2lXal94aU5peU9KX004VmQ1LWhoTUdGYzRxTnRhcS1tQ0tpdVRNM1puZTVNNzduUW1nX1o4OWZKMWZZZ2thQktjc1lhdTRxT3dldmdRbWF0YjQ0WUVrRmFoQ2VwUW1Jc3ZGTXpNY05QOHRkcmVrSW1VcDBtaEdoWTZ4RHJJb3R4UmpOejVsNnBIMkYyYTRqUEltd01lS0F6VmQwMlZjMU9hcEVuWHB5Y0xPOWdyOXlkTmVrTkxFT3lNRWdqcHhTTGNYMzdnZHFVYkZMOEFJcmV1ZmRq?oc=5",
+   "id": "8e956eb62c",
+   "title": "Black Friday smartphones : nous avons comparé les prix tout au long du mois, voici nos 9 bons plans préférés",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ3Jadkt5Zkp6X1ljTnE5bVhVb1BLMTYwMGpSRHpTTHRGLXpmNFFibEg5VlNKSzlaMC1XUkdtdkZtWFR2bS1PWGIwVGlQT3FBYnhzV011NFhVOGZsWVB4YnZfblJNaHFnUS00YzYtODhlbHIyY2hxYTlRMzk5dWJ5OURqb3lTb0h0cXNWaDRXUF9Fdkdmd09obFl2RldUNUpDa1lldEtLQnNtcENtMTZNYlJQWlFReWlFbEpXRF9LZVhCMHoxVEJKTmVRblNXb3VyUG9UdVlzR1hwUmhkcEdvQjF5SXBCdVJGa0pz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ariase",
+   "region": "FR",
+   "date": "2026-11-27T05:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "aab256560a",
+   "title": "Christian de Rocquigny, le procureur surpris au siège du RN pendant une perquisition, a admis qu’il avait connaissance de l’affaire des fuites",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOY1gwYVZqQXpqc0FNMVkzRlVHWEhoZGJsakVrOHpvazB3ZV9saDNIdXI4UXFCaDFXTzZmTUJwQnlTcGFpTXRmZUwzblZMc1lKc0dNak50Q3ptV0pOU3RXenFrTkZRa1lTY0NUejk3WUhRWGlCX0xrZjdGMHRaWGpBTnJiVUNRQTQyd1ZjWnRrdXBQWXh2SjVIdkVQcmxBSUxXSlRCV2Y3X0NTcF93cF9OQnp4REhET0Z2M3JCOFRQUENRenI4RG1kaUltdnJLQjh2SlNxN3F3clNHWEdlRFFuSS1OTTNjNlFnbE1tU0Iwb2VjbkQxek9JYXp6ZjhTSmtYTU5FdV9uVE1zUTZHY3Jyc2tZNmRnd2VacWhKOWVTU2pQYkNyLXVObnN4Nk83YmRxYWQyRWk0Yw?oc=5",
    "summary": "",
    "image": "",
    "source": "Le Monde.fr",
    "region": "FR",
-   "date": "2026-11-27T02:55:42+00:00",
+   "date": "2026-11-27T04:18:28+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -538,7 +504,58 @@
    "image": "",
    "source": "Le Monde.fr",
    "region": "FR",
-   "date": "2026-11-27T01:40:44+00:00",
+   "date": "2026-11-27T04:03:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "27568b217c",
+   "title": "Pourquoi la rougeole, maladie humaine la plus contagieuse connue, flambe de nouveau dans de nombreux pays",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOEhoRTBMdEp0cjFjX3EwWEl5eUFKSUNYS2Y5X3lLSHFyV2VQV2lXal94aU5peU9KX004VmQ1LWhoTUdGYzRxTnRhcS1tQ0tpdVRNM1puZTVNNzduUW1nX1o4OWZKMWZZZ2thQktjc1lhdTRxT3dldmdRbWF0YjQ0WUVrRmFoQ2VwUW1Jc3ZGTXpNY05QOHRkcmVrSW1VcDBtaEdoWTZ4RHJJb3R4UmpOejVsNnBIMkYyYTRqUEltd01lS0F6VmQwMlZjMU9hcEVuWHB5Y0xPOWdyOXlkTmVrTkxFT3lNRWdqcHhTTGNYMzdnZHFVYkZMOEFJcmV1ZmRq?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-27T03:31:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f3b8391e2b",
+   "title": "Un jeune homme présentant une « déficience intellectuelle prononcée » mis en examen après le déraillement d’un TER en Normandie en septembre",
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPLUxFRXlkNUVKRS1nOGtjcjBCT055bGE1YTVoYWZUbW91UHZqYjIyRVBEUE5XWDhReXQxblhTa1d0cTA4amxsUWZ6VFhKeE9UR29BSXFwMHZtbmtmUmFvdnNBYlZlWXBUSTNMUGd4eTFIdHk4SE9VdUhPUnRLaS1teTh1M0JsRS1vOXptcVhubmFtc2k1RXZ5clhWSWlTLWlvcEhjSXpDOTRTeEJOdWJjLTM1X2p4SE5uM0hlNHBFVHdSU1hDVmdKNmE5Mnp1WHNJNS15MXhVaEFSQ1FxaFVNcGdLanJiakh6cjR1SW9zV0N5c3dRek5LemRXVzBzTTVLbHhRcjBhZUFPcWduOFRxTnZRaENwelZGWThmVVgxOHdrRFZTN1J5Z0puTHFZNXM1b0liQWIyUXJ0ZnVvMkUtQVlMQXhNUmZ3Uy1fU3lRNlVWY3ktZUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-27T03:25:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dd3aec4044",
+   "title": "« Cruauté inadmissible » : un abattoir de Haute-Saône visé par une enquête après des images chocs de L214",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMGxxcElFcUNSSmNKT1V4QTRmRHJIRWZOSmFtVUZqZ190RWUyWEtVUEhTMjA3WmI2U1I0RGNKNnBkNXczQnpSLWV0dFV3dlFsWDdmU01oMy1aUkFzTnhERFBUN09lWmRJUml0NHFrWEluU2RTdHR6Z2J4TGdtWmtGNHFTSkpLSTlsQldZMUVzc1FOd0IzaDJTTTVuOUdwNlByZ1JfcjNmRVVSUUdVYmtLcnNLNHpVNVJoQU41MG91bnZyTE9fMks4MlZJYkxTVzlmcFlsYjJHTzVncnYyVFQyZlVCN1NzWkI0SnhKMnJnMmxHTVRuMVVNSjFXYWhzZVdQOHQ0UXhlMkd6UXpi?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Parisien",
+   "region": "FR",
+   "date": "2026-11-26T22:15:41+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -561,23 +578,6 @@
     "country": "Taiwan",
     "place": "",
     "flag": "🇹🇼"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8de4a52678",
-   "title": "A la peine, les hôtels de Strasbourg veulent croire à la magie de Noël",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbmQwWTdjd2g5S0hPOWtBcDVYN0cyOXhYVmxIbEFCUnBDMFJoUXpBSUlJaWVjbnRId3E1VEkwLV9vUXlkYjVDaW9acU9fUjVYaW5ZcXQ2bzdXZ0d5dmszRlhSa0pES0k1MWJPdUp2dnhPZGVsQVpnNzc5MFRZNHFiWVQ4RXRBcFBBVXRTSUNlR1ZWOEQ5azNteWFiZFZ6bGVEWGxTdFpjZjNpYjgyZU1MVUx2RVFGRmRGSjRaSHB0VkY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Les Echos",
-   "region": "FR",
-   "date": "2026-11-26T10:17:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
    },
    "topic": "Society"
   }

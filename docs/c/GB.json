@@ -1,24 +1,27 @@
 {
- "updated": "2026-11-28T03:05:27.805013+00:00",
+ "updated": "2026-11-28T04:10:21.412799+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "a2a70985ff",
-   "title": "Thanksgiving storms leave nearly a million without power across the US",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV05RRm9ueHQ3Qmdpb09FZUJxVWN4R3JUVGk5SWI5SGh3MlNJZGVxTXNrRURzTmN1OWgzejIxN0dxSzZfTjNaaV9paGZfN3I1cVZUOTJMYTlEdUFlUFZEN2ItM01pVVMtWEcwVVczQjBtMUVfeFc0Y2MzbDdRSlFzcXRPMnRMWUdkSFRjTHUwS281OVBMTnNQV2Q2Y21LM1pCZ3dXa19zVFFSQ0RsTndLMFVR0gG3AUFVX3lxTFBLT2JDS2VjblItcVVUbkdIUWZXc1IwcUJGSGNKZTZUUHhhYXlrazIyZGtXNDFvaGJSOGxmVEZYVDVzM1ZIdWU3cEJJbXNuSC1ybjNUQmcwa21vY3VPTWkwRTBMVHREWENlNTg3ajdFUTFRcU1McVJMWF9VSTB4UGxzTzVpWlZjSU5sQjZTNXJyYnJPTEc3NFIwM3Q3LVZIV1NyV0cyYktESTEzR1drcFdLaHQwclBnbw?oc=5",
+   "id": "ed27a3dc9f",
+   "title": "Son of Hamas chief and his family survive Israeli airstrike, group says",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalcySG5PbUR1bkhhNjFMd3FadXRiRzQzLXk3dzhqYkxaeTBOSXR2cUE2M3hMTXE4dG5lYmxKSFRSSGVLanNjLVZ2dWV3VnR4LWVJVjJmbHNicGlNaTFNbEVtRV9RRE4teW1EdXlsZ0Y5VXZhcmdoaE9KZXVuajdrclQ3Z05GcXlONDF1R25LWjFJTS11bEFGblpQbThJM0R6SEhDMjRBZHJBQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-28T01:29:20+00:00",
+   "date": "2026-11-28T01:25:21+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Palestine",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇵🇸 🇮🇱",
+    "also": [
+     "Israel"
+    ]
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
    "id": "80241b3921",
@@ -36,23 +39,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Health"
-  },
-  {
-   "id": "c72c8d26d9",
-   "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1o3ZGtjSWNoSXZmUl9JZ3pQb1dnYTZUbDN0VlpXTGNSemVpLWtaMkVZd1lxVWFLdmktVEZZdTFLTTJqZ0xZN09iYkhncFktT0JHbTlKcGJxQmhjakVRQ3JxeWxoc1FtVVdlNGNJM0RSVlZqSVNjU2RNRnJ1aFIzdm1wcXVzSTA1d0N4NlJQTUx0RFJmSHpFYXZjNE05SjVJU0luQg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-27T23:59:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
   },
   {
    "id": "b1eabccaae",
@@ -106,23 +92,6 @@
    "topic": "Society"
   },
   {
-   "id": "20ad6a3ad4",
-   "title": "What we know about Department for Work and Pensions 'cyber incident'",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVTZ4V0QwdmdyeGhOaTBVbURsbDJEd0xhTTdmTGstdDg2ZlpxVjktOVR0QTZJU044dXZxVU5qWkk3Wk5TOWI2QWlyMk1vaWk0cXA2NmFfUFcxVXM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-27T22:01:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9b625deb96",
    "title": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTloblNzSjA1S0pYZk5ETFFxTU1wYWYzSGc2WTVUVUdSd3dqX2toZ3V5UUN1RVdhQm5aNnllTlFXOVROcjVYUFRSZ3I5V3FUbkhWcDlTeWpIakxEX2V5TUY3Mk9mRGF6ZDUxSVRid3NwMXV1a2JUTTA0WkJjLUhBZm01c0hkR1lYVHdCQVVDRUNDcGJPVlF1alpPcmYyZm9L?oc=5",
@@ -138,6 +107,40 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "4f0a1390a9",
+   "title": "Nottm Forest 3-2 Chelsea: How the players rated",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45MEVkUk5EYjNTaDdlRThkYkFPNWlXVWJjalNpOEhJRWlVbC1fQkxZRkV2UUptdE41Q0pmUW83WU1FLVh4U2diWGJfUHlnXzlLUUtDVnpmdkJzbExobmV0am9PRVdxS3lDZV93?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-27T21:59:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6fdc9e6597",
+   "title": "Government told to ‘wake up’ to cyber threat after DWP hit by ‘serious’ incident",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWjUtbWlnRDl6R3Q5aWhPT0pUQkV4YVpjRF9TVHNMNkdxa21DeEY5MTg0dk90Q0x2VVpmU0cxb25adkRmMm9zMFBPMTZwMGY2QlM1YmJVYUFJcmVxYVdOV2Nqa3VSdzdYVktqdnNzYmtHdzktd3hScFVjX1JRQ3ZEYlJkamhSeGlONElHdkFKM0R0dUtp?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "GB",
+   "date": "2026-11-27T21:41:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
   },
   {
    "id": "76f2e66d42",
@@ -157,23 +160,6 @@
    "topic": "Society"
   },
   {
-   "id": "9528f8392f",
-   "title": "Russia warns 'nuclear confrontation is near' in dire WW3 warning",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZm8xT0tyZ1lWTVh4NFYwQjJCOWxIekFJSEFuMUpPZVJrU1cwR3RTeXgyZEV4WjJzUUR6TjRnWW5jYjVudzBTenlkX0UySWxuYWNVWkRaR1ZCLXRfbW5mWGNoLXhjNmZwOTZyZUp2RHhiTEpVQzZlajJGTjhSUDQ4b09UNFppZ3dGYW15ZkhMdFpSZ9IBlwFBVV95cUxOOHE0ejFLa1FoSkxLMG1yZEVwc3YxNlRIWVY5TVlGcG0yR2gxbFFuMHd2VHBMVDhHNkd0bWc3ZnloenJPMFJfTVNycV9SeEdPRmNNZW5selRPZk84QXBnNDQ5R2MtVnViSlBkY3VIbTNHMndjeVc4RmxvOWx6bWk1Ti1MekZ1Wng5YlU3dkdDejVMT1UzMUFJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Express",
-   "region": "GB",
-   "date": "2026-11-27T21:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "86dfeb6e53",
    "title": "Spanish PM and rivals rally supporters in final pitch for votes",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TSV9nSm5RcnR5NGd4U2NzVGM1S2phSHFtdFhqLW42MWwxbEEwb3VCamNJVVBvNWE1d3NadzlPMVh0ZnFhYldNTk1VQ0pFT2RNVldjdnJia1UwU080dEE?oc=5",
@@ -187,26 +173,6 @@
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8c49db1051",
-   "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWRzVF9tUlQ1SlI5aGUwZ2FlbzEwOVpPQTlOMFdXaXFmTExVeEg4MEloXzY2cUxnQV9BRnAzWEJWUE9JSzhuZk8weWFlUkE0bmR2eHJ2ZWljZndSejBXaWFJaDNGMmQ0RndMOUNJRmY2SFJUTl9zYUUyTnhmYmktWGZFd3RmWW92b0t1bWJJcExjRGtDeDJOWmVFYmduWVhiMjM4NDRCQmdYU2xjYm9vZ0pn0gG3AUFVX3lxTE13eFhONFhWVVFPZ3RiSnp0N2ZmaURhR25tQW9oaHJ1MHZGSXhocndNa0FfSjl4Mzg2Y0tBXzRqekh2RXNCS1hGRktqM2M5OHpsYW9CS0FpTHprVkFta1hWclI5X0dxbWRXZ3lrZmNqYWNYZE1WZ1NpVjZoNnBYU3hIdm5peUdtVkxDaUg0MmVLVkZwZmcxemF2bmNJbUg2aF9OeW9xZ3gwVEN5bU5nYlVVSnNUaDYxRQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "GB",
-   "date": "2026-11-27T19:56:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱 🇵🇸",
-    "also": [
-     "Palestine"
-    ]
    },
    "topic": "Society"
   },
@@ -330,40 +296,6 @@
    "topic": "Tech"
   },
   {
-   "id": "d0eb8f82bb",
-   "title": "Eight Xbox Games Are Releasing Today, Including A Dark Fantasy 'Shooter-MOBA' On Xbox Game Pass (November 27)",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1VYTEpGaVo4S2JVS2hvTWFWdGxQNEN5WUZvSDV6ZUY2UnRtaTdiOFdHTWdtUWIyQ0ZqbVJEcGpKYl81TFZXdElJeThrbGVpVDBIWHVBa1JUY29XY3k2X1lPSzZGNVNuSkE1Szh4aWZNa29kcV92Z0o0LWVOTHQxSmhOVGZrdjhETF8ydVV1YjROblBGMnBiamhZQi1tNUNYTUpQZEQ5dE5LRF8zdnJiS3U5RnVnSnJpOEloLXVqTXp1TTJTVnc4cGNpYWhrcUl0akcyTHVUN1RhUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Pure Xbox",
-   "region": "GB",
-   "date": "2026-11-27T18:15:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "95d89d16df",
-   "title": "Vogue Williams opens up on marriage struggles with Spencer Matthews in new trailer saying 'losing me was very real'",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmVLeVlob0lZSDY2TFFTeWYzd3JDRlpkTTcwb29JLVZxY3RDSDEybG1zemFXbUJaZzBqNzZQRnN2OHNkTnk0SVhvcnY5SGM3SVNYQWl0WERLLTBuc1pZTUFfM0d3Nk1Bb2xNNXF2RUhRbW1xcWpjZXJOaXF5bk9GSER5UzJyaEhMRzU3VFA4SEQteUlqOEV0MklhUFF4RDg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-27T17:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "40e1285ba0",
    "title": "How much cardio exercise is too much?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcko5VkNyOEJhcFd6OWgzR3NNZ0dDQVZ1OHRWSTF2ZGxGc0YzQnk0am5acndBQUtLN1R4Z3owVlY1UUlXVzh6d0hNcndOUTlBOVQ5bXQ1MUNLUE5ObUFNU1ZkQUVRUTlvd0ZzZVdrM3hVVnI5Q3YtbEVpRjVfa192cFU0YzY2dnpuQXRuVjgwdC1aam9uSGsxaTE3al8?oc=5",
@@ -381,6 +313,23 @@
    "topic": "Society"
   },
   {
+   "id": "d0eb8f82bb",
+   "title": "Eight Xbox Games Are Releasing Today, Including A Dark Fantasy 'Shooter-MOBA' On Xbox Game Pass (November 27)",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1VYTEpGaVo4S2JVS2hvTWFWdGxQNEN5WUZvSDV6ZUY2UnRtaTdiOFdHTWdtUWIyQ0ZqbVJEcGpKYl81TFZXdElJeThrbGVpVDBIWHVBa1JUY29XY3k2X1lPSzZGNVNuSkE1Szh4aWZNa29kcV92Z0o0LWVOTHQxSmhOVGZrdjhETF8ydVV1YjROblBGMnBiamhZQi1tNUNYTUpQZEQ5dE5LRF8zdnJiS3U5RnVnSnJpOEloLXVqTXp1TTJTVnc4cGNpYWhrcUl0akcyTHVUN1RhUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Pure Xbox",
+   "region": "GB",
+   "date": "2026-11-27T17:30:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a5376e8f38",
    "title": "‘GTA 6’ Is Already One Of The Best-Selling Games Ever, Report Says",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGF2aTB6bjktdlRvOGJUUVNURmQ5QWM3X0ZwWmtnMGVqS3BMX1RDODR2TmhWaFN3aENYRU5fR0VHYnF6S3BzdDNvNWoyTGw3UHcyLXFpNTZrN2dyMDBmZDhXdmFNUDg3N0dqYzk0S1NKZXdjUzR4RVdUeERVMVNYMWZBbHR4MDlzQ3Y0MXoya1lEcGFBWTZIYTh5cnlxRkZmRTBXeHZ6QUhYWVZQZmVXNVAzblA?oc=5",
@@ -389,6 +338,23 @@
    "source": "Forbes",
    "region": "GB",
    "date": "2026-11-27T17:06:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ccbf49e694",
+   "title": "Latest news on Baleba and Rashford",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDlZXy1wMU1ZWHBkVVBrNVZzT05ETGhyaDd6MFkxamlWd3JtV3JTTFplUldkaE93SXFMaGpzVVRuSEtfa1RDdTB4LXcxNFg5VUhMeXdQa1JIM0tPakZLbGYtNU4yaHJORDY3aFZvLWdQZTZ3ZU1mYnQwQUhVQnRiNnRB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manchester United",
+   "region": "GB",
+   "date": "2026-11-27T17:03:18+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -449,6 +415,23 @@
    "topic": "Society"
   },
   {
+   "id": "2ca0411474",
+   "title": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aV25kNzlBRlZWVm5zSE9nMHZTby1hbVV2UWkwMWJLa1lXalZjbVZDTEtFZTBmOS1mX0ZrdDFLaHBiYUJBU0VJMjUwamx1bGdjWUxMRHRDcW1jUTJPQkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-27T15:15:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0988b5be6a",
    "title": "Channel 4 defends making Huw Edwards documentary - as Number 10 reacts",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzdudUxYOXVkc2lfaXR1bEdzWE1SeXZPVm1pTk5wenNtRmI0c25LUUVzN2J1RmhDSlNXVlZlSmVKZE8tUkNLUjRhMVFhSGNKcmt2TVkzT01wNF9nVGFrQTZHNHctQS1NRF9sZ1VVTXRVMVIzVUFLdHZYNGo1YkNHRnM0dHdZM1pFcTMzYTdQS1lBWndwaXQ5UVRkUGZOdnpWN1dXNWZoOA?oc=5",
@@ -466,21 +449,21 @@
    "topic": "Society"
   },
   {
-   "id": "76cc324a38",
-   "title": "Netflix Edits Schizophrenia Scene Out Of Tyson Fury Doc After Wife Reveals Boxer Does Not Have Condition",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1JlS3prR2tQY2FkZWJEcTkxcENLc1VOdnJ2NEt2b3VHYUJoSGVkYWtscm1WWWlVbmpvMzdraGlxUENYOU9oRVAxT3FKTmo4aXVaeW1CN04xd3g0TmpmZ2RXXzJCR01hZTJCMXZveHlPY3Fyb0RhZlNxc1V0S1E2VW9yd1NiN2xNWWxiMzFIMWc2Sk00UDUxYmZ3MkU?oc=5",
+   "id": "0ab22eabb4",
+   "title": "British Gas owner seeks urgent government talks over future of storage facility",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaW0tbE5sWWl3REtBb2JfdHd6cE5fMG1CZTlQUzFQWVJwbTRVaDJ3cjJVNWJ2S01nUUxtN2JBN0FrVWZYZk1OVkF4UjE4dU5VOFFyTTVHQTRTdk92TnFmVGU4N0tHY3dOcXBrdHNaeUJzSmxBLWJrSDFmX19idnZ0aHZlYXhvaURwRXNzSGFoSGx4WU5ZYWQxSG03ZWVQbTdSbVhjaTRhWHJJdXowcFd1VEFlLVlCdFVkM2NHWlplOHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Deadline",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-27T14:56:00+00:00",
+   "date": "2026-11-27T14:58:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Entertainment"
+   "topic": "Politics"
   },
   {
    "id": "d2cc850cbd",
@@ -491,23 +474,6 @@
    "source": "New Statesman",
    "region": "GB",
    "date": "2026-11-27T14:11:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2b5685a5a5",
-   "title": "A small galaxy's giant dark matter core challenges the standard cosmological model",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fTUxZRy1jRFdhY2x5ZlF3MHpaaFVSX1doLUV3OThodmc2S0d2ZWNkZmZFcEZqTXRfSldUYl9jUEYwMURHd0RhcWM2aW9LeVJPaUo2ZTNQTkk4UGJmNUl1UDBkNDI4bkcwdlZNUEpNSTE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Phys.org",
-   "region": "GB",
-   "date": "2026-11-27T13:40:10+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -534,23 +500,6 @@
    "topic": "Health"
   },
   {
-   "id": "136afbada0",
-   "title": "Trowbridge crash: Barbara Barganska died while saving grandson",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53Y2RxdnBvUGEzN0pwMzlpZHd2R3NER0hFTFRwTmJNYUpZdHRKa005SjhMQlNVRnZxeFFfN2cybjZqSGh4SGxzRlhkRkVGNmY0SndKM0pxOExXMU9BT1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-27T13:27:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "bb0f6aa7e7",
    "title": "Jennifer Lopez reunites with her twins for Thanksgiving after becoming empty nester",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXotNkZLOTBSUjRINHlpdkFpQXMxbVNvd1JIc2xKWWRlZkFpNnVDZUpyNFFRZ01QTGJTcGtyOFBtRWhKN051U1VEaEZmNUxFdWhMZWRJdTFQSEV1UmVJc1BNeXp2Y2Fyc2ExMXNYMW5jLU1JRmM3NHU1VFJGRmd6elRvaEdxMFJ6THZqUXVrNS1CQlZsU1VsczZjSQ?oc=5",
@@ -568,55 +517,21 @@
    "topic": "Society"
   },
   {
-   "id": "0fea9ede3a",
-   "title": "UK drug ‘crisis’ as 23 medications hit by shortages - full list",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0gtTG51TVVJX3l3T0VrdFFvOEZjWkxCR05ZUjlQdmRHXzFHUGhONUlua0pBbWdtYlY3aXk2eTIwWmN3ZGZpRU1ieHpTTGNTUDcwdmpQeS16LTZUUWptcm1UdFJMM2hGSERya3RxV01YNHZDWHlRN0dUR1pKOUFqN19FM2VHM1V3elVkY0N6TdIBlAFBVV95cUxQQnBhc3ZnSzVaX25lS2RQSHFGZ0NMWVo0Ul9JcTZ2aUlHYmFyTVk1NmFIUUdzb1NZV01HTWRQWkxZNU9iOXVRUjAxeExCU1BxY1MzVnhfaEZnRElZU3FRcVVMd3loeWN2V1ZLLUdhM2F0SFdaUjVvN2w0WDFsVVU2VjJac3ZSbVU1dnBBSTAtRDRZVjJm?oc=5",
+   "id": "157a478912",
+   "title": "Kettering and Northampton hospitals say critical incident is over",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NRkt5ZXg4TGdMM09HZWExcnpjM2lCWG00TmFlYjg0ek52S3hIaUVJSnBUSHh1MW5MM1Y5bm9pV1pkcVJfVHBxUkpWWEtQcG5pUDV3b1RzLWd0NFhTSWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Express",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-27T12:44:00+00:00",
+   "date": "2026-11-27T10:58:04+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "4f693eeec3",
-   "title": "Dad died after getting trapped in fake narrow cave for five hours",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjFSZWQyZ3lodnFwSDlONHZGaFpZREtvRWh2QmJwbkh2MndleWJ2ODg4bEw3bmlVMU4zcEtYMVNXcngtLTlJc1BCQU4wVjZCRE5FbV9xbFdMcDZ4TjE4ekc0d2h4dUJMaG5HXzZIQTBkUXA1cnlITmZGZ0xwSjQzeUt3Mm5pdHI2WlJXVjNwbEVHbFJLYkpfN2NHbVNSUHRwUHZXc2dn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Metro.co.uk",
-   "region": "GB",
-   "date": "2026-11-27T11:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "25f4e25479",
-   "title": "Neso issues energy supply warning for fourth day in a row",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTF9LVG1VUzBzRFVFQ2hIVzJ3TXZoX1ZiUlFCYlItemdlX2lDUzZlYU00emI3eUY0MWRlVWFNVmllVm5vU0tUUHlYQzNoVTNlTVhIREVZQnhVaVhvZjJ3bnJkaXJqUTB2SXFPSWhfVXZxRXZPZUVheU9kWUc1WEMtUXhfWGY0UFVWbjhHd1VhQjA1OTRxX0cyamU0WTAxdnhKeGNz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "GB",
-   "date": "2026-11-27T10:46:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
+   "topic": "Health"
   },
   {
    "id": "3b3603226b",
@@ -634,6 +549,77 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "cf42abd610",
+   "title": "'It can become unbearable' Life in one of Wales' most deprived towns this winter",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmQ0cXFvN3JiM3NORUJxMmZDWnA4QXkzcHE5QUpUeXpOUEtOdjhUNjBuZW5ZREo4b0hTYzlLaWRxbzU5cDVUSDZEXzJGb0dKMUdPV2xTYjI3R0xRcTJ3U2VQZGVCRUtZTkVWRngyUjUwUUZXdmxCd3VwUlVXYnVJby1PamMxdTBNYW9YbNIBkgFBVV95cUxObGo0cFM0MUttM2RiWE82N256RkRObXd4SFZLZGNhRUtMOWlIVkVUS2UtNWhhVDdGR1B2TF84SVpiRi04RkFJVTBoZ0pyZ0JRM2c0NW1FSlJRUU9INFByRUV1eUJObFlVbFd4anI1Z3N1bnhxNk9EYXozSXN0ZC1Kb0Q4aWZYb3B6NnV4bnpCX0Vudw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Wales Online",
+   "region": "GB",
+   "date": "2026-11-26T22:54:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "255357e8c7",
+   "title": "Trump thanks ‘murderers, drug dealers’ and 2% of Somali-Americans in Thanksgiving golf course rage post",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHh4MVpIdzZDV3A1anVMT0g1eXV1NjctVjdZbUlxT1Z6X1J6VWpuUFBKWHBNUmVNSEVXNks3LXFDbEFPRWlQWF9wSG9PbDFTTzlyMnZBOWMwSlRRdXdMTVlzSzNubEM1SXo5TE9ZTm9jSmNlOGM3NHVrTDlmNnhpZC1iNTVmbHdYaE9Ub3o1MUxfcjFRZ3NkamxDby0yWmFKaC1HOExFd3hPQkYwa29wQnNlb29HelVlRW5pTWdmaWpldU0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "GB",
+   "date": "2026-11-26T20:28:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇸🇴",
+    "also": [
+     "Somalia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4b4bad4310",
+   "title": "Anti-Israel ad airs during SNL’s Thanksgiving special",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblFoel9VekdjWVUycTJqV0VhUFhVWElNZzNPWWM1N3REUXlvejVCVUE0SWRvRXl2V1VyY2xTQTZPZVA2d1Q3ZXVZckcxbHNvbXRUenZ1ZTJtQ3dibXpaRWs3MFZBOUtNUHBOZmNvVTNrX3NXcERXVVFnVTNJWElvMFEzeUZEeFM1cHA40gGQAUFVX3lxTE9rNnFOU0NZa3FuRW9kWWZTM0V4NTBiMVQ3VnV6OHl2QlF5Vkk0WFdGZ2h0LWxHT0VSM3V6dW1vbDI1VzZGdWdEN09lNklMME1HLXdGRFhrYkdEUmcyMlhHZTFwUDR4bW9DYW51Mkx1X0dqa3RxSFk1eUJONmZiNVdzNzVnZXJQR2hYWFVRUjBfVA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of Israel",
+   "region": "GB",
+   "date": "2026-11-26T18:08:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "65c2d8a95b",
+   "title": "How Shane MacGowan’s friends teamed up for the ultimate tribute album",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUhxQXJfeDJkY2Fjb0I1U1dhWGdOZ1NsZTQ2Y3NjeUQ3b3JpXzVjb25CRE5fVHlFNm9WXzU4N0xLV3FsbTdiMkRDLXNMeE85Q3JBc09rNmNPTjcwS25HdVFVUnZDakNtUHFaSjktMjd4YW5uZjJzYmJJTVlqVlNuekpXUzlHS2RmUHA5UWxnQ0lRSlBDaEl4UkFtNFBIRTRLV3pVTkJzcWw4N0FCeE1GemtLdVRpRWRTM2thWDFYYmo1QWFYdHRHb0JsTXQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "GB",
+   "date": "2026-11-26T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Entertainment"
   }
  ]
 }
