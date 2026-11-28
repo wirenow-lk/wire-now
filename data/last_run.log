@@ -1,7 +1,7 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 22/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 61 stories
+OK   Ada Derana: 55 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 17 stories
@@ -21,64 +21,17 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 75 stories
+OK   AP News: 73 stories
 
-Biggest stories right now: Heavy rainfall of over 100mm expected in seve (6 outlets) | Kenyan cult leader guilty of manslaughter mor (5 outlets) | Thousands still without power after storms th (5 outlets) | Black Friday shopping on a budget? These 47+  (5 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets)
+Biggest stories right now: Parliament observes minute’s silence in remem (6 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets) | Heavy rainfall of over 100mm expected in seve (5 outlets) | Kenyan cult leader guilty of manslaughter mor (4 outlets) | Thousands still without power after storms th (4 outlets)
 
-5 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [1 outlets]: SL joins Asian Women Parliamentary Caucus
-    normal news - one-paragraph summary
+* The Island [1 outlets]: UN urges Lanka apology over wartime aid attacks
+    important (serious news) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* NBC Sports [1 outlets]: Mason Rudolph hits DK Metcalf for touchdown pass as Steelers take 14-0
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Daily Mirror [1 outlets]: Can Budget 2027 help Sri Lanka keep its talent?
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [2 outlets]: Airline Norse Atlantic's Norwegian operating unit declares bankruptcy
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [2 outlets]: Brazil pushes back on Macron calling its meat 'doped'
-    important (also on BBC) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: the number 2,400 is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -87,31 +40,26 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 2 failed: no AI available for writers (last error: AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    attempt 1 rejected: the name/word 'Lankan' is not in the article
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* The Island [1 outlets]: JVP: Trade union past and realities of power
+    normal news - one-paragraph summary
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    attempt 1 rejected: the name/word 'India-Sri' is not in the article
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* The Island [1 outlets]: Established mini-hydro operator enters the market with a functioning, 
+    no AI summary: saving the rest of today for important news
+* The Island [1 outlets]: Stroke cases rise in Sri Lanka over past decade
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: At least eight found dead on migrant boat off Spain’s Canary Islands
+    no AI summary: saving the rest of today for important news
+* The Guardian [2 outlets]: Victorian election 2026 live: voters head to the polls as Coalition se
+    no AI summary: saving the rest of today for important news
 
 Top 10: 1 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 9 too small to look sharp, using the clean cover
+  photos: looked up 24, found 8
+  photos: 8 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
-
-Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 67 story pages for Google)
-
-Countries: IN 36, PK 35, BD 32, US 32, GB 36, IE 37, CA 37, AU 37, NZ 31, SG 34, MY 33, PH 35, AE 32, IL 37, NG 34, KE 33, ZA 32, GH 33, FR 33, DE 32, JP 11, IT 32, ES 33, BR 33
