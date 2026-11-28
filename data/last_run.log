@@ -1,57 +1,60 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 38/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 44/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 51 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 13 stories
-OK   Daily Mirror: 97 stories
+OK   EconomyNext: 12 stories
+OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 11 stories
-FAIL Daily News: HTTP Error 429: Too Many Requests
-FAIL Sunday Times: HTTP Error 429: Too Many Requests
+OK   Newsfirst: 13 stories
+OK   Daily News: 61 stories
+OK   Sunday Times: 4 stories
 OK   Lanka Business Online: 10 stories
-FAIL Lanka Puvath: HTTP Error 429: Too Many Requests
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 57 stories
+OK   Google Warnings LK: 31 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 22 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 81 stories
+OK   AP News: 78 stories
 
-Biggest stories right now: Princess Kate’s Cancer Documentary ‘Heal’: 3  (5 outlets) | US disables ship attempting to breach Iran bl (5 outlets) | Kenyan cult leader guilty of manslaughter mor (5 outlets) | Canada's Supreme Court largely upholds a Queb (5 outlets) | Australian wrestler Bronson Reed dies aged 38 (4 outlets)
+Biggest stories right now: Two Sri Lankan workers killed in truck accide (6 outlets) | Princess Kate’s Cancer Documentary ‘Heal’: 3  (5 outlets) | Canada’s Supreme Court largely upholds a Queb (5 outlets) | US disables ship attempting to breach Iran bl (5 outlets) | WWE star Bronson Reed dies at 38 due to ‘medi (4 outlets)
 
-8 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newsfirst [1 outlets]: Suspect Shot During Confrontation with Police in Eheliyagoda
+* Newsfirst [1 outlets]: President Says Righteous Leadership Is Key to National Stability and P
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Daily Mirror [1 outlets]: Secondary market trading remains muted amid stable yields
+* The Star [1 outlets]: Selangor focuses on post-flood recovery, additional aid in Kuala Selan
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [1 outlets]: Ongoing public sector protests are part of a planned attempt to push t
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Fan violence at Europa League matches prompts investigations and conde
-    important (also on Reuters) - researching
+* Daily Mirror [2 outlets]: Meatless Monday brings plant-based cuisine into focus this November
+    important (also on Daily News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [2 outlets]: “My torturers may have forgotten me, but I have not forgotten them”: P
-    important (also on Hiru News) - researching
+* Daily News [2 outlets]: Sri Lanka and Maldives discuss strengthening bilateral cooperation
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Hiru News [1 outlets]: english-175000.xml
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: UN’s Albanese leaves Costa Rica airport after constitutional court ver
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -65,45 +68,9 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Newswire [2 outlets]: Over 4 decades later, Parliament appoints committee to examine Black J
-    important (also on Newsfirst) - researching
+* Reuters [2 outlets]: Explosion reported at school in Afghanistan, official says
+    important (also on AP News) - researching
     news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* BBC World [3 outlets]: Eight killed in Peruvian military helicopter crash
-    important (also on BBC, Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Reuters [3 outlets]: US military repelled drones at UK airbase this month, FT reports
-    important (also on Hiru News, The Star) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
@@ -111,9 +78,20 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
@@ -131,21 +109,20 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "message": "This model is curr)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (The read operation timed out)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -158,43 +135,19 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
+  photos: 3 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  translated 30 headlines (gemini:gemini-flash-latest)
-    gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
+    gemini unavailable this run (AI error 429: {
   "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
+    "code": 429,
+    "message": "You exceeded your )
+  headline translation failed (no AI available for writers (last error: AI error 429: {
   "error": {
     "code")
-    gemini failed (The read operation timed out)
-  summary translation failed (no AI available for writers (last error: The read operation timed out))
-    gemini failed (The read operation timed out)
-  summary translation failed (no AI available for writers (last error: The read operation timed out))
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-  summary translation failed (no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code")
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-  summary translation failed (no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code")
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code)
+  summary translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (4 with cards, 72 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (2 with cards, 72 story pages for Google)
 
-Countries: IN 37, PK 36, BD 36, US 36, GB 36, IE 37, CA 34, AU 36, NZ 32, SG 35, MY 34, PH 33, AE 36, IL 32, NG 34, KE 34, ZA 33, GH 31, FR 33, DE 33, JP 5, IT 32, ES 31, BR 33
+Countries: IN 37, PK 34, BD 36, US 36, GB 37, IE 36, CA 34, AU 36, NZ 33, SG 35, MY 32, PH 34, AE 36, IL 33, NG 34, KE 34, ZA 33, GH 31, FR 33, DE 33, JP 8, IT 33, ES 33, BR 34

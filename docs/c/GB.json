@@ -1,34 +1,75 @@
 {
- "updated": "2026-11-28T08:46:22.444324+00:00",
+ "updated": "2026-11-28T09:47:28.073078+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "fb84983195",
-   "title": "Our reviewers pick UK Black Friday deals still available this weekend and actually worth buying — Amazon, Apple, Lego, Argos, Currys and more",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvTTZLWnFyMlR0NEtmOGM2TkhEVEV1TU5SX0hoUmdQRlVmQlRMcktobjE3STdZNzBXNktZcTlwQmxNVmJ0NFZTcXJxMDk1RFhTdmJXUE14VDNDdVhzMU9Ub0RxaHZPWUtJZUpJdlF6d2xqWWVScDZERUFaemxpQkU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TechRadar",
-   "region": "GB",
-   "date": "2026-11-28T08:32:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "04cc259a22",
-   "title": "Pensions and benefits services still down after 'cyber incident'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGV0JOSVVCcEFVY0VjOEplSXVPQV9ia09pOHdfMzgwOXExbXlvYlAtNUFnVW5RRE83VFBYdmdnbjVBOVk4U3MwNzh2Y3d2eHRDenFuTVJMeUZBaVRpU2c?oc=5",
+   "id": "29b57fcfce",
+   "title": "Tributes paid to Irish actor and comedian PJ Gallagher",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HNnJwRHpSaEJnQmxiaUlzZEdqZ3M0d2JLeHljbGNycF9tQS1iMXJEUWJ6STYzN0x4T0JEUEhGdTdyNUxUYU5QcWZNelB0MjlDRnM0NXBaNU1GdXUyZkE?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-28T07:26:06+00:00",
+   "date": "2026-11-28T08:34:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "ed27a3dc9f",
+   "title": "Son of Hamas chief and his family survive Israeli airstrike, group says",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalcySG5PbUR1bkhhNjFMd3FadXRiRzQzLXk3dzhqYkxaeTBOSXR2cUE2M3hMTXE4dG5lYmxKSFRSSGVLanNjLVZ2dWV3VnR4LWVJVjJmbHNicGlNaTFNbEVtRV9RRE4teW1EdXlsZ0Y5VXZhcmdoaE9KZXVuajdrclQ3Z05GcXlONDF1R25LWjFJTS11bEFGblpQbThJM0R6SEhDMjRBZHJBQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-28T08:01:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Palestine",
+    "place": "",
+    "flag": "🇵🇸 🇮🇱",
+    "also": [
+     "Israel"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6a7f3cbd9c",
+   "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDZrYTlOdTVmYnJEelBReDNXdF9CRXAyZHUyVlhQNjczRTk0Q0RNM0FYdWlHY3RQc3RZTVZPQ0MwOWZLSExFczk2cGlhMXMyNk81dVVVNGZfUHozUDhCV2xaaEZlNGh1ZmtkeFlsTE94dGhzVEp1UGJKOEg4Si1WdnhqVUNKcFlnTm4wd2NBZDc5TzZDeGh0c1F0OUhEcUxLUjJQSjBVVHp0MFpIay1jZXVUZmNSNXAxb3RJNTU1SkJad3VEWVRwRUhyWUNNRmtXdEJQbmtLWjNMN0NTbWhWdXZhbkUtUzQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-28T07:59:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇺🇸 🇷🇺",
+    "also": [
+     "United States",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a7bc03ba45",
+   "title": "Concerns Poundland closure would break former mining community",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMXpmUU40LTRsS0xSRWxac3JmbjdfXy1SbkZLS3lEbjNOR1owbjNUYVRsdnNobnFKSUJCcGFkcVdYRnB5eFF2QzdpZDE0NXNRNS0taEtOYjB0LVg4Znc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-28T07:11:16+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -36,26 +77,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
-  },
-  {
-   "id": "f5a3f16428",
-   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "GB",
-   "date": "2026-11-28T07:18:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱 🇵🇸",
-    "also": [
-     "Palestine"
-    ]
-   },
-   "topic": "Health"
   },
   {
    "id": "88969c0d56",
@@ -73,23 +94,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Health"
-  },
-  {
-   "id": "748314564f",
-   "title": "Could New Zealand head back to the polls? The new centrist party on the block holds the power| Lara Greaves",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ3hVVzRHeU1IZmRBbGQ1UlVYcXdoZ29XN0kzdmNrNk5ySHM4R0FLRmo2SWRBRDZuSGJDM3NDWURSZzhhQUtKMHpOcUlkOW5OTjl0dTlOZkZBV2NWSGx2dm5mYVNoSTkwb2V3UHJZU2pPemRNRS1FN014M2xVTHN3QWE1SHpKWFNoU3JoZ1JZc2I3a3YwRXVPdE1iU0kycmliXzdQLTZ2R2w1QWhoUlAwNnFMc2hLVDVlMlR0MHAzTDkyMnRjMF9rMEtJR0RPUHRIUGF1VA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-28T06:47:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Politics"
   },
   {
    "id": "4bf3c26fdd",
@@ -126,23 +130,53 @@
    "topic": "Tech"
   },
   {
-   "id": "6a7f3cbd9c",
-   "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDZrYTlOdTVmYnJEelBReDNXdF9CRXAyZHUyVlhQNjczRTk0Q0RNM0FYdWlHY3RQc3RZTVZPQ0MwOWZLSExFczk2cGlhMXMyNk81dVVVNGZfUHozUDhCV2xaaEZlNGh1ZmtkeFlsTE94dGhzVEp1UGJKOEg4Si1WdnhqVUNKcFlnTm4wd2NBZDc5TzZDeGh0c1F0OUhEcUxLUjJQSjBVVHp0MFpIay1jZXVUZmNSNXAxb3RJNTU1SkJad3VEWVRwRUhyWUNNRmtXdEJQbmtLWjNMN0NTbWhWdXZhbkUtUzQ?oc=5",
+   "id": "b1b1a5184d",
+   "title": "Cop shared picture of vulnerable man who burned himself to death",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaE9tZFRYajI1NXlSTk8tTjFZWkNsTnNGUWRBalNmMlY0YkFJSEQtZ2ZyUmFIY1RENEZZTzMybms1Vk5vcFFscXpOQk1VMzkyangzZW01OGFQNWZXQ0hQMVNsSFpoVXRfVVo3Qm1QLVgxMkdsX3FydWw0ZmtDNVZHbm1vbkp5VjBDTXdNOGpyLXBnVGpIWUxaUkNUaV9qTWJW?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Liverpool Echo",
+   "region": "GB",
+   "date": "2026-11-28T05:04:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4cdca348be",
+   "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlBXVXJEaXY4WDhmemhlV0pZUmIzM0FWMUVzdm5MaTJ4LVFzY2tObUR2V3VfSThfUF83ZHA0aldQdmJmY0I2VVNRVzI0OUVlcmhkdk9Wd3JrZThWUlNhSVpNUmFyeVVWRU8xWC1EUVp5TlF0X2l0SExydjdGYU5ZWkloYVo0TmtsUVk3aWNqVmV1YUlnQlAw?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-28T03:19:00+00:00",
+   "date": "2026-11-28T05:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ukraine",
+    "country": "Russia",
     "place": "",
-    "flag": "🇺🇦 🇺🇸 🇷🇺",
-    "also": [
-     "United States",
-     "Russia"
-    ]
+    "flag": "🇷🇺"
+   },
+   "topic": "Sports"
+  },
+  {
+   "id": "1951e925ae",
+   "title": "Sporting legend calls York traffic a 'nightmare' ahead of major event",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlJzcHBoNTRwV1F1VUpxUzV0U09YN056bnE3RUlwSXB5b2FjTmV6bzlhaTBETlNsYnVxS24xZlBvR3F5MGlrVGNpYkNpMEd1YnVsajRwSWZCY1BvSTBNY1RCZWI0X0lMTzYzUzJpUDVVQ0k3WHJmbG9WaHd1OHJoaDl0WVlMUnh2NG1lbVdTVnlNTV9zXzVn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The York Press",
+   "region": "GB",
+   "date": "2026-11-28T05:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -198,26 +232,6 @@
    "topic": "Society"
   },
   {
-   "id": "dda9beac39",
-   "title": "Candidate dubbed ‘diehard separatist’ by China shakes up Taipei election",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkdKUEVMOE9rUGE2TDc4NEpzUUN4dkZNaW1VTVkxc2xZZktiTXBvZ1NrQ1JrTlpLcmFnNUZlQzV1VXd3YWtMU09zYV9QNjFtcU42TUJ1WTJqbHRfenk5cmpvSWJLRkdybjJZNHFuSE9LNnUtbU5FNkFVY2JJbDY4RnJYTUU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "GB",
-   "date": "2026-11-27T23:50:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇹🇼",
-    "also": [
-     "Taiwan"
-    ]
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "66f4966ac2",
    "title": "Schools in England must set aside time for pupils to read for pleasure",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWRpREhrUjVPakxYeUZ3dHdEcU03NmlLNDFQb25RTEJuS2dzY0pYUzhfWVJLR2NXY1RYUXk4azU1dk1VNUk3aVlWWXhYRWNXeVk1cHRPSjE4X1FNZ1ZXWllUUGxhbG5sZnU5Rk9VRkNvcGg4RVBOQUxzTVlsa1FOVWdMZDdLNkR0UFl3ZkkzN2xmV3hUNUlQRUNvMTR0RVR2aHp4N2R5N2dXMDFyMFFTSzZNR2ZhVFV3b3ZweA?oc=5",
@@ -235,14 +249,14 @@
    "topic": "Society"
   },
   {
-   "id": "3a74272d89",
-   "title": "Xabi Alonso reaction: What did Chelsea boss say after Forest loss, Wesley Fofana booed by own fans?",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZXRnZU02RU9lSnJybjdfVXdramZ1VkVjM1BWQWlsT3JKVVQyQ1o5TzlHb2NZYmE4VEl3OUlnTVh5ZXhSMExHemhnLTRSaG5YOHRQNU0tQ3pYUktYaFUxMVg1WHRmRkRwOUw3aXJIWlBsM0ZENVJGdEZibGNWTURjWHZoT0VOWkJ5cjYzcThpVXlCM0VoSXZFYko2X01NNzdmTXp5OXpsLWFMaURvdnZyVnAzV3RCSGFqZ0oxd1htM1A?oc=5",
+   "id": "c72c8d26d9",
+   "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1o3ZGtjSWNoSXZmUl9JZ3pQb1dnYTZUbDN0VlpXTGNSemVpLWtaMkVZd1lxVWFLdmktVEZZdTFLTTJqZ0xZN09iYkhncFktT0JHbTlKcGJxQmhjakVRQ3JxeWxoc1FtVVdlNGNJM0RSVlZqSVNjU2RNRnJ1aFIzdm1wcXVzSTA1d0N4NlJQTUx0RFJmSHpFYXZjNE05SjVJU0luQg?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC Sports",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-27T23:24:24+00:00",
+   "date": "2026-11-27T22:10:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -252,31 +266,14 @@
    "topic": "Society"
   },
   {
-   "id": "6b5688c4da",
-   "title": "I’m A Celebrity viewers in tears after emotional Wayne Rooney moment",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjRYclA0UHpCcUUxZmxmc2hacWF6WUlSOEo4X3dMUS1YWkFaUFVTeGFuNWt6dmZGQ0kzZTlPOW1ENTlEcmZ5ekJtZVBucWRXN1ZYVzMyZ2xyM0prVENPMHVPY3dMVGhUZi1kbXozeU9qOVJqSVBybUx4YXhnc3dCblVVampiYUdXdXU3Z3pFWlN0dURrc04yb3BnSDJzZ2hvdkluSnlhRS1IX1ZMTlRnTlN4cELSAboBQVVfeXFMTV9ZUTBEenl6M1RUNDUtRTQxNUVXYVZrR2x3V2lidHRuSi1UUEVXYkE1NmVteE14cHFZOVYzOEhHckhYNmRMUVlYZFlqR0ZiNDhDbWxUVEpmcEtKRWZOcUFTMGhDTVJGQkNUSTNxSm9qVlhCRVZVcWlTa0dXUXI2RTFTM1RlWGRWOHhwVDlMaElwY0hrZVpnVVk1d0lrMHVhWkMwY0lCWmUzNVM0enh6M3JoMEd1QmctekN3?oc=5",
+   "id": "20ad6a3ad4",
+   "title": "What we know about Department for Work and Pensions 'cyber incident'",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVTZ4V0QwdmdyeGhOaTBVbURsbDJEd0xhTTdmTGstdDg2ZlpxVjktOVR0QTZJU044dXZxVU5qWkk3Wk5TOWI2QWlyMk1vaWk0cXA2NmFfUFcxVXM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Express",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-27T22:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "54d6a0ab0b",
-   "title": "Southampton 2-0 Middlesbrough: Finn Azaz scores against former club in ill-tempered first meeting since 'Spygate'",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBETzg3QTFYMTE5Z01Rb1BwWXBJUGp3R0FodFhqV2Y5MXBRODZ3c3VZU3QxOThwVGExRVBpQnQtWkJEc3NTR18yS3pLR0JMYnRNdDBEWHdwYkhiX3d3T1ZZczJQbUlaQXNXNTQyX1BtMExGVWlPMmVUQmRpWS1nR1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky Sports",
-   "region": "GB",
-   "date": "2026-11-27T22:12:28+00:00",
+   "date": "2026-11-27T22:01:04+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -303,6 +300,57 @@
    "topic": "Society"
   },
   {
+   "id": "a34a14e323",
+   "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGQ1d1UTVUTlo1WGZIdHhWLWZvTDFodFlpQ0dFR0QyVlBvWDNzdGJNWXJrTkgyVDUtVUpVSDN3WTBNWng0SHU3RDdvWklLSGFvRWxJaGxtNlE3bkhIWnNibkZyZzBvY3dLV09n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-27T21:31:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ea50ba56ea",
+   "title": "Andy Burnham ‘faces Labour civil war’ over Rosebank as MPs plan to ‘hijack legislation’",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnVldjlpeDRHYXJ3Tmg5dktEQm1UanF5cHd6MVVBUDBNTHhja3VwYWNla0pfU0tRaHpxY2hXQmdNRC1ucTFsRmxkY013Yk5kdHVVYWtpaWJkXzkzaVlPREF1NVVKbmF5SmF4a2V0cUFEaW50TG9sTUZITlZLU2lnSC1jbzNOUnZsdTR6Q1RHS3VwbWtXbUZXNklxRHlMWWRhMndaWW01MW1vTEFRQ1dzQzdzaGZ6aXNPUlFfcW82Yw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "GB",
+   "date": "2026-11-27T21:14:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1820c59087",
+   "title": "What we learned from Friday practice at the 2026 F1 Qatar GP",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjlFbnlaX0M1X3Y0QXNwZnV3VVQ0WEVZd21zejhVX0NDYUJScWVDUXhoelBMb016Q2xCamhhQTBMNUVIWXJqM1Q3Y0NTUWlzbjQ4MkMwRzVLNno0TnI0dWRqVk1tang3N1U5MTUtM3BYSzBWQXQzTDloVUFubmc2RmRXRVUydF8ybjhTc0EyNnVNMi1KaWc2eGUzUU9Ta2dBMXI0WkNaSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Autosport",
+   "region": "GB",
+   "date": "2026-11-27T21:06:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Qatar",
+    "place": "",
+    "flag": "🇶🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "86dfeb6e53",
    "title": "Spanish PM and rivals rally supporters in final pitch for votes",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TSV9nSm5RcnR5NGd4U2NzVGM1S2phSHFtdFhqLW42MWwxbEEwb3VCamNJVVBvNWE1d3NadzlPMVh0ZnFhYldNTk1VQ0pFT2RNVldjdnJia1UwU080dEE?oc=5",
@@ -316,6 +364,26 @@
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "65f6c664de",
+   "title": "Criminologist wanted by China on brink of power in Taipei",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGV5UlowMVpqWTRFeUh6bl9oR3BpYl96NWFaV0I0UUg5Y0xrZHVYS291c2l2d1I5bW1iQlVzMTJ2ZEVXeDNLMWpjaW9Cak9GNDJHLUJsZ0tFa0VTRzZzWUZ0UHBYVDlVeGlqRHN5TDhSczRTdkpvaVdGM1FNOUQ2YXQ0aDVUTjBPdFBidVc2bHMtZDd6QkwyUUQ2Q2xuOEd6?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-27T19:54:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳 🇹🇼",
+    "also": [
+     "Taiwan"
+    ]
    },
    "topic": "Society"
   },
@@ -354,6 +422,23 @@
    "topic": "Society"
   },
   {
+   "id": "44a9cb554a",
+   "title": "JoJo Siwa, 23, 'really hurt' as she splits from boyfriend Chris Hughes, 33",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVFNMkVnWmVseXE4cU9oRHRyWm5PS0pjTXdqTllyR0d3ZGxsSHZvVm9MRHZQUzFqNWVTNml1emZ2NkstZUZVbS1paWxRT0Z2cktxSnlILUZKRnFrRFZqU1N0SFVDek9wWXF3UUpFVk56bmg4TnVoMk9UUWNIdXZTblZqcldsajAwaDhTczFyc1BuZTBDY1oyRTFxVWZzTzg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Metro.co.uk",
+   "region": "GB",
+   "date": "2026-11-27T18:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "bfca5809bd",
    "title": "NHS Grampian publishes leaked report at centre of hospital scandal",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaSjFHbXhhd0t0dFVSSExDU3RuWjd4cGJ4UFhoMVh2LUFkY0hxbUZsQmZTRnNDc256U1Fibmw2TmxOdmItdnFySk9td2RlMDFpemFFbUxUZFYwSlRfb0E?oc=5",
@@ -369,40 +454,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Health"
-  },
-  {
-   "id": "fc06811b5d",
-   "title": "Labour in civil war over Rosebank oil field",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLW5yVnZqc053NFZJd0NfODlWQUJCNVgwYnhOTmpDcWFRSVlxaWltTGh2d1EyeEhyaGNmS3dEV3NPVVFZRVJpeV9Ldk94TlVyUFhJYkVBMm5ON2UzUGowVTljUFNncnFmS0w3UlVfbmhCQURvcU5YUTBDMjBKazlaN0dreWFneVFvZFk5X1NXd2VxNENEQzlMVjczUURKOG8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-27T18:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3e7a56b88f",
-   "title": "Cop31 president slams EU and defends climate summit that ended without a deal",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTRBVXRLcDZEMGptVi1RYUdtdWZhV0NQTGtONGVOd3k0c29mOUJFMGJzcXQwWnZPYVRPOHlhREo3aVUwMUNyMFdHTzFEUDRXSFBPdURHZDNPdmhjRkNkZENDRXQ0VnVILWloWWVncHB4VGtkTFdLWTRtSk1PNDVoRnU0SnQ4UW9faU5kclBHTmhNY0FTV0Z1Qk5qQ0FWa3RSWWd3UTY1SQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Independent",
-   "region": "GB",
-   "date": "2026-11-27T17:37:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
   },
   {
    "id": "40e1285ba0",
@@ -439,21 +490,38 @@
    "topic": "Society"
   },
   {
-   "id": "a9aa6fd771",
-   "title": "Former defence minister: I failed Tory ‘purity test’",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX25saWhXNXMwM3phZ2NYcFYxQ1hpZE1QQnFsd05XWV8xM1ZNVWpGVFFqTnd4elk3SUhjUS1nQVFzMFh3cGtRZ29MSmI3eE9QeXdmSi0temt3OFk2QXVVWVRkVER3d0NVVEZ1LTBfLUprek44OFdQQ0VaeVZrbEJpS3VRRzlGQ3RYd2lsbQ?oc=5",
+   "id": "38e1d153c2",
+   "title": "Mélenchon takes aim at Germany in Berlin campaign stop",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjhkQjk4MGFtXzRqdEU1aXZwTHBhZDdUWlNVSUxWTXIydjl5MGpSUldsb2cyUVZ5cm5lTFFmcGdaT0M0ZnFaWXhXcDhtYnpOMDN3M2NWNFBheGNLMXBidnUyQjhDeV9OM0dueEhyeGd3aHZEZUpEZllsS2tRRkxIcVk5S2M?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-27T15:34:00+00:00",
+   "date": "2026-11-27T16:45:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2ca0411474",
+   "title": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aV25kNzlBRlZWVm5zSE9nMHZTby1hbVV2UWkwMWJLa1lXalZjbVZDTEtFZTBmOS1mX0ZrdDFLaHBiYUJBU0VJMjUwamx1bGdjWUxMRHRDcW1jUTJPQkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-27T15:15:37+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "0988b5be6a",
@@ -464,40 +532,6 @@
    "source": "Sky News",
    "region": "GB",
    "date": "2026-11-27T15:10:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "883bbc2410",
-   "title": "Moyes hints at Michael Keane selection for Merseyside Derby",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUxTOFlOUmx6bFpoYVQ5ZklhUUh4dU9waGFUQWVxelBRRWFvenRHM0Fqbk9NdnhLaTU5Wk8xWk9UNzVGVDRMN0ktdDNJMjAtYlFCTTVSSmFYX3VLOTROdS1MM1lVcUxsUnJQbmU4ZlIxUmI5SjZPb2tVdHFONG5mRWlBTndEUEJMQlUtLTd4MHR4d2dsZjlNc1M2ajdEYzVOaHFoR2luUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ToffeeWeb",
-   "region": "GB",
-   "date": "2026-11-27T14:48:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d2cc850cbd",
-   "title": "Stop worrying about young people’s sex lives",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN0dtYTc3YW9MQlpESWg0eV9ZeGlGUGowV2c0U25nSTJ0TlQzRVdCV2JRYnZHX2U4WE1BRm8zSTdGaHBJRFJ3RGE0T2NkQldZTF9mRmhuUlJCN3loWUwtYndvTGZ6YmwwNGl0TTB5bUpzb2VhakNOZW42ZHJZWUdLamx1eDdHMGphbW94eDltYlVQYnROcVNvNQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "New Statesman",
-   "region": "GB",
-   "date": "2026-11-27T14:11:09+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -524,31 +558,14 @@
    "topic": "Health"
   },
   {
-   "id": "e3445169b9",
-   "title": "UK’s biggest gas storage site risks closure after Labour denies support",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmtxTC1PS3l4Q1FBZndTT0xzNnNSU3FLUUUtdzAzY2QtWEtpeVJkNDl5TC1CSkxuYUxfSEdONkY0OEpxVmMxQVJ0RDNiMDRmelJqLW9nVkUxdUsxQ3BsOTZHczE3X1p2V2NQRGxVbWItZUpHdjFLVFlUUjhoT29naDRXUjlwNXpmMW1CQjZ3YUI2dFkwWDhxRVE0Y1VsdG1aOFJZclhrUnFUcTVV?oc=5",
+   "id": "fb84983195",
+   "title": "Our reviewers pick UK Black Friday deals still available this weekend and actually worth buying — Amazon, Apple, Lego, Argos, Currys and more",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvTTZLWnFyMlR0NEtmOGM2TkhEVEV1TU5SX0hoUmdQRlVmQlRMcktobjE3STdZNzBXNktZcTlwQmxNVmJ0NFZTcXJxMDk1RFhTdmJXUE14VDNDdVhzMU9Ub0RxaHZPWUtJZUpJdlF6d2xqWWVScDZERUFaemxpQkU?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "TechRadar",
    "region": "GB",
-   "date": "2026-11-27T12:34:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dca43c9201",
-   "title": "MPs to probe role of private equity on high street after Poundland collapse",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXJCRGJfaVV0X1pvNFBaM1hCdjd0bzd4TDJQNzVvaWwyS0ZyWG11dXZ4TXo1aGtXX3ZFYWxJemF4bTJqZklzMVJZTjVFdTVjbjlUY1BRbnh1Q2tLQVZLQ0FUeDVtSTlZZzN1NmFWdWowMVcxWDhCeXlFdk5QRnJPSmhjRDRaSW5rd2wxeHFZRXRRZm9MTTd4ZjBMaXJmZUtSYl9nNzhkb3ZpcTFhUm5RWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-27T11:36:26+00:00",
+   "date": "2026-11-27T11:07:16+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
