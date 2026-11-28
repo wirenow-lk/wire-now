@@ -1,11 +1,11 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 0/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 35 stories
+OK   Ada Derana: 37 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 4 stories
-OK   Daily Mirror: 99 stories
+OK   EconomyNext: 3 stories
+OK   Daily Mirror: 98 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
 OK   Daily News: 57 stories
@@ -14,51 +14,121 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 6 stories
-OK   Google Top Stories World: 70 stories
+OK   Google Warnings LK: 14 stories
+OK   Google Top Stories World: 65 stories
 OK   BBC World: 26 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
-OK   AP News: 83 stories
+OK   AP News: 73 stories
 
-Biggest stories right now: Afghanistan school blast kills 7 students, in (8 outlets) | Israeli strike kills two doctors without bord (7 outlets) | Two Sri Lankan workers killed in truck accide (6 outlets) | Jermaine Haley, WWE star Bronson Reed, shocki (5 outlets) | Vijitha Herath meets Indian PM Modi in New De (5 outlets)
+Biggest stories right now: Afghanistan school blast kills 7 students, in (7 outlets) | MSF charity condemns Israeli drone strike tha (6 outlets) | Jermaine Haley, WWE star Bronson Reed, shocki (5 outlets) | Vijitha Herath meets Indian PM Modi in New De (5 outlets) | Two Sri Lankan workers killed in truck accide (5 outlets)
 
-6 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* WSJ [1 outlets]: Pennsylvania Races to Stem Measles Outbreak as Amish Wedding Season Dr
-    no AI summary: daily limit reached
-* Hiru News [1 outlets]: Hiru News 06:55 AM | 2026-11-28
-    no AI summary: daily limit reached
-* Page Six [1 outlets]: Martha Stewart makes mortifying typo in Thanksgiving message to fans w
-    no AI summary: daily limit reached
-* Yahoo Sports [2 outlets]: College football scores, live updates: Michigan vs. Ohio State, USC vs
-    no AI summary: daily limit reached
-* The Guardian [2 outlets]: Watchdog to investigate police after woman dies in Staffordshire car c
-    no AI summary: daily limit reached
-* Al Jazeera [2 outlets]: Dozens reported killed in series of Myanmar air attacks
-    no AI summary: daily limit reached
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 7 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
+* SuaraGarut.ID [2 outlets]: Sri Lanka Rejects Tsunami Warning Claims After Mauritius Earthquake
+    important (also on bsinews.id) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* bsinews.id [2 outlets]: Magnitude 5.0 Earthquake Shakes Offshore Los Angeles
+    important (also on The Guardian) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    -> no cards; posting with the site's own summary
+* Fox News [1 outlets]: ICE agent faces six years in prison in case that could open 'floodgate
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [2 outlets]: Binance gets preliminary approval to establish Asia hub in Bhutan
+    important (also on Reuters) - researching
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Limapagi [2 outlets]: Sri Lanka Declares Coast Safe After Indian Ocean Earthquake
+    important (also on Peradaban.id) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: Apple and ChatGPT clash: Legal battle takes a new turn
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code")
+    "code": 429,
+    "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* Reuters [2 outlets]: Antonelli completes practice sweep in Qatar
+    important (also on Motorsport.com) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Spurs-Lakers: Doncic shoved by fan, security intervenes as wristband t
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 7 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 73 story pages for Google)
 
-Countries: IN 37, PK 35, BD 36, US 36, GB 36, IE 35, CA 37, AU 34, NZ 34, SG 35, MY 32, PH 33, AE 36, IL 37, NG 35, KE 35, ZA 33, GH 31, FR 34, DE 33, JP 10, IT 34, ES 34, BR 32
-
-World Pulse not made this run: no AI available for writers
+Countries: IN 36, PK 32, BD 37, US 37, GB 36, IE 36, CA 36, AU 36, NZ 33, SG 34, MY 32, PH 33, AE 37, IL 36, NG 34, KE 35, ZA 32, GH 31, FR 34, DE 33, JP 8, IT 34, ES 34, BR 32
