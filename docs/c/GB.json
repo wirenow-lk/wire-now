@@ -1,12 +1,29 @@
 {
- "updated": "2026-11-28T05:15:13.332524+00:00",
+ "updated": "2026-11-28T07:47:39.970948+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "f48e54bfcd",
-   "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5",
+   "id": "4bf3c26fdd",
+   "title": "Pharmacies get new powers to swap prescriptions during shortages",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FT2l3aTNPa3V3OW15RjJoWnd1UnM4RnlibUdtdU94amVkbTRfV045QmwzZ3BfWXRmXzZuSl9fNW1ZMFBHQ2NzSm5Bd1Jpb2cwUmllUV90Y3dQWG00R1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-28T06:00:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6c16e2d120",
+   "title": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHAxM3BibFJQcXdRTThreUROWVplVFpnQnVjRktrbHJROHZxLWs0a1JnejVVeW93RjVOb0dZX25JcXhVUWttUFNwQnVkenRQM3p6ZHN1ankwazRIWFI2SWdKZlNkQkRxSHJ5cEFsbXZMV28yZTZ5SmZVeWdWbHBpck5uM1BCbEVhQ0tUVWtVRnhTYm52ZmdJdXExOUF5dWtGUVg2NkUwaUZjTUFpd29XbF9IWVMxSlJZVFlLUmR6djJyN3hEMjI3NVZXYw?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
@@ -19,6 +36,44 @@
     "flag": "🇬🇧"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "1ed0e7748a",
+   "title": "Pharmacies offering children flu jab for first time after surge in hospital admissions",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWN4Y0lpMXNWYnlNX1kteUFWVVZQbnVSX1B2V2tsdzJTZEg1LXpHU3QyZG9uWW9xR2Zuc3JDa2V2Y3VWbG9MTDlvenlPWEkwVnFaanN4N2hLc244Umo0THdBY3V5cUFWQXRSbVg0SGs2V0ZwZTEtYmVrVzhqdXVIeWxIdmN6d2JURW85Vk1ublh5RmFqdFdRd2xtblVtcWRVNzBuZVVzUkpJUXZPY3RJWEozT25sTDA5VVFHeHFybw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-28T04:07:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "6a7f3cbd9c",
+   "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDZrYTlOdTVmYnJEelBReDNXdF9CRXAyZHUyVlhQNjczRTk0Q0RNM0FYdWlHY3RQc3RZTVZPQ0MwOWZLSExFczk2cGlhMXMyNk81dVVVNGZfUHozUDhCV2xaaEZlNGh1ZmtkeFlsTE94dGhzVEp1UGJKOEg4Si1WdnhqVUNKcFlnTm4wd2NBZDc5TzZDeGh0c1F0OUhEcUxLUjJQSjBVVHp0MFpIay1jZXVUZmNSNXAxb3RJNTU1SkJad3VEWVRwRUhyWUNNRmtXdEJQbmtLWjNMN0NTbWhWdXZhbkUtUzQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-28T03:19:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇺🇸 🇷🇺",
+    "also": [
+     "United States",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "4d0da7a811",
@@ -34,26 +89,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ed27a3dc9f",
-   "title": "Son of Hamas chief and his family survive Israeli airstrike, group says",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalcySG5PbUR1bkhhNjFMd3FadXRiRzQzLXk3dzhqYkxaeTBOSXR2cUE2M3hMTXE4dG5lYmxKSFRSSGVLanNjLVZ2dWV3VnR4LWVJVjJmbHNicGlNaTFNbEVtRV9RRE4teW1EdXlsZ0Y5VXZhcmdoaE9KZXVuajdrclQ3Z05GcXlONDF1R25LWjFJTS11bEFGblpQbThJM0R6SEhDMjRBZHJBQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-28T01:25:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Palestine",
-    "place": "",
-    "flag": "🇵🇸 🇮🇱",
-    "also": [
-     "Israel"
-    ]
    },
    "topic": "Society"
   },
@@ -92,14 +127,14 @@
    "topic": "Health"
   },
   {
-   "id": "c72c8d26d9",
-   "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1o3ZGtjSWNoSXZmUl9JZ3pQb1dnYTZUbDN0VlpXTGNSemVpLWtaMkVZd1lxVWFLdmktVEZZdTFLTTJqZ0xZN09iYkhncFktT0JHbTlKcGJxQmhjakVRQ3JxeWxoc1FtVVdlNGNJM0RSVlZqSVNjU2RNRnJ1aFIzdm1wcXVzSTA1d0N4NlJQTUx0RFJmSHpFYXZjNE05SjVJU0luQg?oc=5",
+   "id": "3909986efa",
+   "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GNTFubERSZWNUbjRSRFBtemtGWlotekZDb1hFN3V5X1RNYTZDd2FESTgweFBNY1dnZmotVE5sM1FONFVKcTNJeFB6SlJwQjhmVGhUd2djX1A4S0xraWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-27T23:59:00+00:00",
+   "date": "2026-11-28T00:05:17+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -109,19 +144,39 @@
    "topic": "Society"
   },
   {
-   "id": "559f2f408b",
-   "title": "Irish comedian PJ Gallagher dies aged 51 as 'family & friends devastated' & 'we will miss him terribly' tributes pour in",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2ptRE5TRm9NS0U0Skt6ZTBvRVZLVGRRZDZnS205MURlTTdFOWlvVzBrUE9uV3RabFlaT0tuNkdlNVVRT0VZRUxvLUQ0NVNxY2tjUVZnV3hjTEdLTUZ4SURkM2lkclNRekMyVFEwcDFlaHU3LUJYWUtqZkhKNnVhcEtHYy1SM25LMDFoS0JmNlZTQQ?oc=5",
+   "id": "dda9beac39",
+   "title": "Candidate dubbed ‘diehard separatist’ by China shakes up Taipei election",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkdKUEVMOE9rUGE2TDc4NEpzUUN4dkZNaW1VTVkxc2xZZktiTXBvZ1NrQ1JrTlpLcmFnNUZlQzV1VXd3YWtMU09zYV9QNjFtcU42TUJ1WTJqbHRfenk5cmpvSWJLRkdybjJZNHFuSE9LNnUtbU5FNkFVY2JJbDY4RnJYTUU?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Sun",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-27T22:21:00+00:00",
+   "date": "2026-11-27T23:50:03+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ireland",
+    "country": "China",
     "place": "",
-    "flag": "🇮🇪"
+    "flag": "🇨🇳 🇹🇼",
+    "also": [
+     "Taiwan"
+    ]
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "66f4966ac2",
+   "title": "Schools in England must set aside time for pupils to read for pleasure",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWRpREhrUjVPakxYeUZ3dHdEcU03NmlLNDFQb25RTEJuS2dzY0pYUzhfWVJLR2NXY1RYUXk4azU1dk1VNUk3aVlWWXhYRWNXeVk1cHRPSjE4X1FNZ1ZXWllUUGxhbG5sZnU5Rk9VRkNvcGg4RVBOQUxzTVlsa1FOVWdMZDdLNkR0UFl3ZkkzN2xmV3hUNUlQRUNvMTR0RVR2aHp4N2R5N2dXMDFyMFFTSzZNR2ZhVFV3b3ZweA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-27T23:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -134,6 +189,23 @@
    "source": "Sky Sports",
    "region": "GB",
    "date": "2026-11-27T22:12:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c72c8d26d9",
+   "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1o3ZGtjSWNoSXZmUl9JZ3pQb1dnYTZUbDN0VlpXTGNSemVpLWtaMkVZd1lxVWFLdmktVEZZdTFLTTJqZ0xZN09iYkhncFktT0JHbTlKcGJxQmhjakVRQ3JxeWxoc1FtVVdlNGNJM0RSVlZqSVNjU2RNRnJ1aFIzdm1wcXVzSTA1d0N4NlJQTUx0RFJmSHpFYXZjNE05SjVJU0luQg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-27T22:10:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -177,31 +249,31 @@
    "topic": "Society"
   },
   {
-   "id": "86dfeb6e53",
-   "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TSV9nSm5RcnR5NGd4U2NzVGM1S2phSHFtdFhqLW42MWwxbEEwb3VCamNJVVBvNWE1d3NadzlPMVh0ZnFhYldNTk1VQ0pFT2RNVldjdnJia1UwU080dEE?oc=5",
+   "id": "42f65e4202",
+   "title": "Lutnick and Huang are testifying about Trump’s Nvidia scandal. Here’s what Congress needs to ask",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTkVJMmVwd2Z2aV9oRFFtUzFKejlnQW52Qm5KMXctcFpOUlpLVWhGSGpkcFJCcS1Jei1EWVlMTmNpbHFXMnlERFQtaEswYmJ2aVM5LWxhSWJpcTYxbkxiOFhZWjQ0RXJtc3hDeU5acUpWSkpzbEdtclFVSFNoRzZvVVFOaUd4cldja3NQa25weWF1NW1Jbl9oWXZqbmRXeUd6T2pkQVN2dHd0Z2ZmVHpHMHl2Q3MxNmt4TWVtMVNDRG52X0tvUnVF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "GB",
+   "date": "2026-11-27T21:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "b3d96bacfe",
+   "title": "Charity in Capt Tom's name bids to be struck off",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xc2lRalVwWExMem1rMW01ZE91bTJFSjVzYkJCUjFzNk9OWXdXYVRMV0hqTm1IYm41X2tIbEZON3k5ZTJ1MEltdmthakhOZGNZYWIxbFBOOHBpM2pxNGc?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-27T20:09:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5c72e0c46f",
-   "title": "These are the 3 top CD players I'm recommending to everyone this Black Friday",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdXVsV1hrZVJfc19kT2R6UWtVbnIyNHVrSDhaVTdJYS0xcjBFcDBzMklJRFJMSUJpYl9DdkJySGlmczZHY0N3N0I5UDlXWEI1RHFpQUExbERBSmJNWU5zMkhTVlAxMjVhR3l0MGhlY20wMV9IU0VkSWw3cHZza3dnOVctaFBqbGFrNjdreW5TdzRJNFhDZ3pCQ2VCcTluZTR0U0kzREVuWjlsRGtOeUlFcUZEb1czQS03Xy1pUXJUWHZjVTBrU3B6T3ZCbzNnWmp1M3lLLVlXUkw4T2VkcWZMSTBCWWNxdjFQa0VZanYxUDlpRlRObXRsX2ZjV3pNcTlyZ2hWWlo2c2xTUGdFU3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "What Hi-Fi?",
-   "region": "GB",
-   "date": "2026-11-27T19:51:09+00:00",
+   "date": "2026-11-27T21:26:30+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -211,38 +283,21 @@
    "topic": "Society"
   },
   {
-   "id": "96962fb890",
-   "title": "Parents urged to vaccinate children for flu as hospital cases surge in England",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVGdG9nbzJ3djJKQXlPSjhLYUF1QnNOSENlZVVtTzdlZzVqTlJ4MzNtSnEyeVZWVE5tSGtVRnNpdXAzZkcyd2R1OVk0NWlmYWQ3NVdXT3d5N2R6LUVhSHE4a0toekNkM19lWW9tMTQtY2F4bTBrMkdjbFFjVU5TS0IyM0U5Ukdrc3RkTHRiQ0RVbUctMU9ieDhmWlp5OWRZZ3dFV18zazBwZ21qV2dpNDF6U1VWNTBXeXZwNGxIN0pReUph?oc=5",
+   "id": "6fca73abe1",
+   "title": "Police arrest 33 in child sexual exploitation probe",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00MzFFRmNlN0ZldWdQN3JjVEViU3FvMGlrRkUxQzdRN1RYcVVKYUtMTlhlZFRnUzY5LXJhRFFBMUNTZVRFUGJjUExXbkR5bTB1YnM4X0pvTEVLbEpqTmc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-27T19:48:00+00:00",
+   "date": "2026-11-27T19:24:15+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Health"
-  },
-  {
-   "id": "fd415ba400",
-   "title": "UK man jailed for online blackmail of vulnerable girls around the world",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXhYbG1VeDhLQmYxTXpJN2RWa2t6UkRXZ2hic3A4dmJJQ25fNVBRTHE3ZXhNRUVJeG5lQ3l0WWhtaXNQODNMMlpkOG9DZnh4WDFvOUNHbGR2aW1qclJWWDN2MW9aUHM0Z3YxdEFvT3c0XzZidFdaUllvQjctSEhjdHJXU1JVeEdxVG5uYjdhYUlWVUl0R0F5NGN1NWxNc25qTmZoMjVvRFlvWHREbjNUZjdn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-27T19:11:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "564c7ebb17",
@@ -296,9 +351,9 @@
    "topic": "Society"
   },
   {
-   "id": "29f0d045b6",
+   "id": "a7c365653e",
    "title": "Chicken Shop Date: The perfect end or a disappointing send-off?",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iVXRFUmxnTUwtbXd2TXowa1kxMjhmWnc3MkJfU1Q4dVprV0l0clJZNENzM0VWR1RIZU95M0JVTEhteGdLYUdqM3kySmJiS0pnT1JybHlLQ0kya3diSGc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKTGxkTXE3bUZ4QmN2d2RTWTM5YnNjNHVoTFNzVkxPVWtydzZXVzBMTXN5SXJpaHhSNFdSSzVRLVpLZFhRcnJtenpXdnpGdDRLU3FySVJrY0dyRTg?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
@@ -313,23 +368,6 @@
    "topic": "Society"
   },
   {
-   "id": "95d89d16df",
-   "title": "Vogue Williams opens up on marriage struggles with Spencer Matthews in new trailer saying 'losing me was very real'",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmVLeVlob0lZSDY2TFFTeWYzd3JDRlpkTTcwb29JLVZxY3RDSDEybG1zemFXbUJaZzBqNzZQRnN2OHNkTnk0SVhvcnY5SGM3SVNYQWl0WERLLTBuc1pZTUFfM0d3Nk1Bb2xNNXF2RUhRbW1xcWpjZXJOaXF5bk9GSER5UzJyaEhMRzU3VFA4SEQteUlqOEV0MklhUFF4RDg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-27T17:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "40e1285ba0",
    "title": "How much cardio exercise is too much?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcko5VkNyOEJhcFd6OWgzR3NNZ0dDQVZ1OHRWSTF2ZGxGc0YzQnk0am5acndBQUtLN1R4Z3owVlY1UUlXVzh6d0hNcndOUTlBOVQ5bXQ1MUNLUE5ObUFNU1ZkQUVRUTlvd0ZzZVdrM3hVVnI5Q3YtbEVpRjVfa192cFU0YzY2dnpuQXRuVjgwdC1aam9uSGsxaTE3al8?oc=5",
@@ -338,23 +376,6 @@
    "source": "The Economist",
    "region": "GB",
    "date": "2026-11-27T17:34:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d0eb8f82bb",
-   "title": "Eight Xbox Games Are Releasing Today, Including A Dark Fantasy 'Shooter-MOBA' On Xbox Game Pass (November 27)",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1VYTEpGaVo4S2JVS2hvTWFWdGxQNEN5WUZvSDV6ZUY2UnRtaTdiOFdHTWdtUWIyQ0ZqbVJEcGpKYl81TFZXdElJeThrbGVpVDBIWHVBa1JUY29XY3k2X1lPSzZGNVNuSkE1Szh4aWZNa29kcV92Z0o0LWVOTHQxSmhOVGZrdjhETF8ydVV1YjROblBGMnBiamhZQi1tNUNYTUpQZEQ5dE5LRF8zdnJiS3U5RnVnSnJpOEloLXVqTXp1TTJTVnc4cGNpYWhrcUl0akcyTHVUN1RhUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Pure Xbox",
-   "region": "GB",
-   "date": "2026-11-27T17:30:11+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -415,14 +436,14 @@
    "topic": "Society"
   },
   {
-   "id": "2ca0411474",
-   "title": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aV25kNzlBRlZWVm5zSE9nMHZTby1hbVV2UWkwMWJLa1lXalZjbVZDTEtFZTBmOS1mX0ZrdDFLaHBiYUJBU0VJMjUwamx1bGdjWUxMRHRDcW1jUTJPQkE?oc=5",
+   "id": "f0f881f4d1",
+   "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sdS1YTUFieDRuLTMyVmh4NGZ3MEhUaFR3WWRHQ0xSY0ZMNE1NcTBvS2JEbEZLbU8weWY3ZGpjOTZtVGJ0Y3BUX2JMZWJ5UkV4cWJZRXlPVlVrUTJuWVE?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-27T15:15:37+00:00",
+   "date": "2026-11-27T14:33:10+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -432,31 +453,14 @@
    "topic": "Society"
   },
   {
-   "id": "0988b5be6a",
-   "title": "Channel 4 defends making Huw Edwards documentary - as Number 10 reacts",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzdudUxYOXVkc2lfaXR1bEdzWE1SeXZPVm1pTk5wenNtRmI0c25LUUVzN2J1RmhDSlNXVlZlSmVKZE8tUkNLUjRhMVFhSGNKcmt2TVkzT01wNF9nVGFrQTZHNHctQS1NRF9sZ1VVTXRVMVIzVUFLdHZYNGo1YkNHRnM0dHdZM1pFcTMzYTdQS1lBWndwaXQ5UVRkUGZOdnpWN1dXNWZoOA?oc=5",
+   "id": "a95b3e0e44",
+   "title": "Moyes names three Everton players in contention for Merseyside derby",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDZFbjE0UlQzVExlQl9yU0JORFpDdS1RR3dkOWtQNmZmcFYtSU5JWHdPX2p5VmVyNGRWXzhEd3hoUUhmbExldlp6MnB1ZjhqdGxTUHIwbHAwREZlRlY1U3JwZHRHeEYxbVNZUW1MaTBwMlhGU0VsUlgzSlVfM3p3MWxB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky News",
+   "source": "Read Everton",
    "region": "GB",
-   "date": "2026-11-27T15:10:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "883bbc2410",
-   "title": "Moyes hints at Michael Keane selection for Merseyside Derby",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUxTOFlOUmx6bFpoYVQ5ZklhUUh4dU9waGFUQWVxelBRRWFvenRHM0Fqbk9NdnhLaTU5Wk8xWk9UNzVGVDRMN0ktdDNJMjAtYlFCTTVSSmFYX3VLOTROdS1MM1lVcUxsUnJQbmU4ZlIxUmI5SjZPb2tVdHFONG5mRWlBTndEUEJMQlUtLTd4MHR4d2dsZjlNc1M2ajdEYzVOaHFoR2luUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ToffeeWeb",
-   "region": "GB",
-   "date": "2026-11-27T14:48:21+00:00",
+   "date": "2026-11-27T14:31:56+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -500,48 +504,14 @@
    "topic": "Health"
   },
   {
-   "id": "20caa13a14",
-   "title": "Scientists ‘reprogramme’ immune system to fight melanoma",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUZvaGtzWVg5LUtZcFBOWjd6bE5XMDNoc2pLanI2blJ1MnlOVm93c21JR1F5SDRZZlk4ODZsaHpzc1IwTWFpdU9GbnhRMkd3ZjlqWWVwclo5M0ZHOThMRTQ3b1ZVa28wZURzWlVOQ1ZZd2lhN2FqdWFNR1ZTbHBZYVEtTHRKaDdrT2dWNlpzT2RqeEx5aUpoQ3Vjak9iQ0VEQ0E?oc=5",
+   "id": "d0eb8f82bb",
+   "title": "Eight Xbox Games Are Releasing Today, Including A Dark Fantasy 'Shooter-MOBA' On Xbox Game Pass (November 27)",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1VYTEpGaVo4S2JVS2hvTWFWdGxQNEN5WUZvSDV6ZUY2UnRtaTdiOFdHTWdtUWIyQ0ZqbVJEcGpKYl81TFZXdElJeThrbGVpVDBIWHVBa1JUY29XY3k2X1lPSzZGNVNuSkE1Szh4aWZNa29kcV92Z0o0LWVOTHQxSmhOVGZrdjhETF8ydVV1YjROblBGMnBiamhZQi1tNUNYTUpQZEQ5dE5LRF8zdnJiS3U5RnVnSnJpOEloLXVqTXp1TTJTVnc4cGNpYWhrcUl0akcyTHVUN1RhUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times",
+   "source": "Pure Xbox",
    "region": "GB",
-   "date": "2026-11-27T12:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e3445169b9",
-   "title": "UK’s biggest gas storage site risks closure after Labour denies support",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmtxTC1PS3l4Q1FBZndTT0xzNnNSU3FLUUUtdzAzY2QtWEtpeVJkNDl5TC1CSkxuYUxfSEdONkY0OEpxVmMxQVJ0RDNiMDRmelJqLW9nVkUxdUsxQ3BsOTZHczE3X1p2V2NQRGxVbWItZUpHdjFLVFlUUjhoT29naDRXUjlwNXpmMW1CQjZ3YUI2dFkwWDhxRVE0Y1VsdG1aOFJZclhrUnFUcTVV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-27T12:34:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4f693eeec3",
-   "title": "Dad died after getting trapped in fake narrow cave for five hours",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjFSZWQyZ3lodnFwSDlONHZGaFpZREtvRWh2QmJwbkh2MndleWJ2ODg4bEw3bmlVMU4zcEtYMVNXcngtLTlJc1BCQU4wVjZCRE5FbV9xbFdMcDZ4TjE4ekc0d2h4dUJMaG5HXzZIQTBkUXA1cnlITmZGZ0xwSjQzeUt3Mm5pdHI2WlJXVjNwbEVHbFJLYkpfN2NHbVNSUHRwUHZXc2dn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Metro.co.uk",
-   "region": "GB",
-   "date": "2026-11-27T11:28:00+00:00",
+   "date": "2026-11-27T11:06:31+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -568,6 +538,23 @@
    "topic": "Society"
   },
   {
+   "id": "a5e163d877",
+   "title": "Spain’s 2026 election explained in maps and charts",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjdBLXBwZmVvWG9NU3Y2djVBNnZXWGM5WEpkNldHelQ1SE53SjluMDdtd1JKN3ZrNU9saERxRWx4U3NQTUVVLWhZTVBZTmtoeXRMVGZiUmFFR3BtOGVrNmpCSWtiMlhRMDgwREhmTkhscDFEc0tCWmNJUG9ZR0NPdXEwWGFKVnFXWHh6R2xJZkc5Wk8zSXfSAZsBQVVfeXFMTlVRNndBSUVDSE1FaFhjY2dacWFkZmRXcDU3Mkt0MXhUYTJvLVo4ZXh4UFNvUVFvSDdlTjdVSkNnZ3d3ZHdLQWpMdHpVMGdhN1NtUkZsT3dhV1VHWENuVUFja3BfMTlmVzl6Zy0tbXhGM0FldHppN2tTYlM1Y2V5M0pKdk40eUZVUzhOUVZkZ3prMTRIMXlWQnBRY1U?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "GB",
+   "date": "2026-11-27T06:02:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "cf42abd610",
    "title": "'It can become unbearable' Life in one of Wales' most deprived towns this winter",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmQ0cXFvN3JiM3NORUJxMmZDWnA4QXkzcHE5QUpUeXpOUEtOdjhUNjBuZW5ZREo4b0hTYzlLaWRxbzU5cDVUSDZEXzJGb0dKMUdPV2xTYjI3R0xRcTJ3U2VQZGVCRUtZTkVWRngyUjUwUUZXdmxCd3VwUlVXYnVJby1PamMxdTBNYW9YbNIBkgFBVV95cUxObGo0cFM0MUttM2RiWE82N256RkRObXd4SFZLZGNhRUtMOWlIVkVUS2UtNWhhVDdGR1B2TF84SVpiRi04RkFJVTBoZ0pyZ0JRM2c0NW1FSlJRUU9INFByRUV1eUJObFlVbFd4anI1Z3N1bnhxNk9EYXozSXN0ZC1Kb0Q4aWZYb3B6NnV4bnpCX0Vudw?oc=5",
@@ -585,39 +572,19 @@
    "topic": "Society"
   },
   {
-   "id": "255357e8c7",
-   "title": "Trump thanks ‘murderers, drug dealers’ and 2% of Somali-Americans in Thanksgiving golf course rage post",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHh4MVpIdzZDV3A1anVMT0g1eXV1NjctVjdZbUlxT1Z6X1J6VWpuUFBKWHBNUmVNSEVXNks3LXFDbEFPRWlQWF9wSG9PbDFTTzlyMnZBOWMwSlRRdXdMTVlzSzNubEM1SXo5TE9ZTm9jSmNlOGM3NHVrTDlmNnhpZC1iNTVmbHdYaE9Ub3o1MUxfcjFRZ3NkamxDby0yWmFKaC1HOExFd3hPQkYwa29wQnNlb29HelVlRW5pTWdmaWpldU0?oc=5",
+   "id": "acc6467bee",
+   "title": "Our reviewers pick UK Black Friday 2026 deals that are actually worth buying — from Amazon, Apple, Lego, Argos, Currys and more",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yZXlJYnJDdk9kSWJQaldYck56bXNCa3BZTmdmS0RKTEFLRnJ2b3JoN1h0WXZTQ0IxTjdRVDlIbkpkVDFRU1Y0RjV5WE41bHVGUzNmSEtTMXdDY2RuMmVDcDNlOGlGUVUxRnJtSUh0a3kwTkdBVjdnSVVsN3RsM1k?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Independent",
+   "source": "TechRadar",
    "region": "GB",
-   "date": "2026-11-26T20:28:00+00:00",
+   "date": "2026-11-26T15:13:56+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸 🇸🇴",
-    "also": [
-     "Somalia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4b4bad4310",
-   "title": "Anti-Israel ad airs during SNL’s Thanksgiving special",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblFoel9VekdjWVUycTJqV0VhUFhVWElNZzNPWWM1N3REUXlvejVCVUE0SWRvRXl2V1VyY2xTQTZPZVA2d1Q3ZXVZckcxbHNvbXRUenZ1ZTJtQ3dibXpaRWs3MFZBOUtNUHBOZmNvVTNrX3NXcERXVVFnVTNJWElvMFEzeUZEeFM1cHA40gGQAUFVX3lxTE9rNnFOU0NZa3FuRW9kWWZTM0V4NTBiMVQ3VnV6OHl2QlF5Vkk0WFdGZ2h0LWxHT0VSM3V6dW1vbDI1VzZGdWdEN09lNklMME1HLXdGRFhrYkdEUmcyMlhHZTFwUDR4bW9DYW51Mkx1X0dqa3RxSFk1eUJONmZiNVdzNzVnZXJQR2hYWFVRUjBfVA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of Israel",
-   "region": "GB",
-   "date": "2026-11-26T18:08:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   }
