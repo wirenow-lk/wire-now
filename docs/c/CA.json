@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-28T17:19:05.414864+00:00",
+ "updated": "2026-11-28T18:14:01.677609+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
   {
-   "id": "6de412a881",
-   "title": "Flyers clipped by Nighthawks in thrilling, back and forth contest",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE81MWpaWThvS0RFY2RwWjJ1RnJlTUVURnVUeXhZdnFwT1BxS3BpTzh5WG1jb2FhN1JpZmFiYWp5eXZzY2RpdnlwUmFqZjlBcDBZc1pfRHZJNEhxWFVHNENDQ25WUUlhazUxSGV0MGtoMW8xYXNkLWpZQWpRTjlwNXQzNEtUTEt0RkhHQ1A5dnNfS01QRlN0UjJIaHFmSFk3QXhYRWpLNlg?oc=5",
+   "id": "68d17c46d0",
+   "title": "Weekly ISS update: Kutryk welcomes third child from orbit",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9paExaYXNUQnNWd1F2WDQ3N1VHYVZYMEp4V1lETlpkeGJvN3RKc0xCLVJKWTh0NDhTcGtRVzNueFRYV1YtUDVyYUI5UEVITnlzUXZkeklPMW9vUlFCY0hsOVhxbVZ0a1R5SEpiZ1kxS2lSZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "PembinaValleyOnline",
+   "source": "SpaceQ",
    "region": "CA",
-   "date": "2026-11-28T16:24:14+00:00",
+   "date": "2026-11-28T17:39:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -104,6 +104,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "0599706fa5",
+   "title": "These popular games might not exist if not for Edmonton’s BioWare",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEZPU2lfbGloUkYyX1YxNjI3dXN4Z1o1XzBJWk56ek9UeDFpdEI4dXI2UThJaXd5UDB6bUtuMnZKbEszSDBYeDRSeDZPcmxETWxCaGRkWThLWi1QZDZuSXpLaUNRREsybmt4ZUpTNjhqMjVLMzZNUjJkMEk3dVdOOTRjSkFBMmpwbGw0aTl6QXdNemppRGxwLU92RlVpaVFaN3lLVmJvQTg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-28T13:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "30856bbefb",
@@ -262,38 +279,41 @@
    "topic": "Society"
   },
   {
-   "id": "7db9bb5f8f",
-   "title": "How healthy are Nova Scotians? New report highlights gains and gaps",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkpHOEMxSzRtNDVObjJXVUcyR0w5dFlFaGdGaU1xRlB2aldBOFdDYWFGU2JNcjdfb09PR1VfYXFVYUpUNU8yRlFMbWwxbTFfVUsxMS10R1h3MTczcFk5QTZyMEhJMlJfMWRRZUt0NnpPbG5BTUVNYlk1NGpQd01yaFU4eThjYk9Oekp0ZFE3dnZpRUJVQjlGRTdHX2hqR1NqMGpEMHhyQUZidUVtMDY3eG1PYw?oc=5",
+   "id": "8f5b7ced95",
+   "title": "Ukraine reportedly launches massive attack on Moscow Oblast with 460 drones",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTURZRDZkTE10Q2xtY2dvU0ZwQmtIOUxvMUdiRGZxZjdCV0FpT3FqTXM2a3lueThxdzNTa3FOZ1Z4R256OUVJa1ZKMDlmVlB2N1paMFA4eE54WWMybjkwQXhOR09rWDFpLWpXbmhmcWNsMDNYZWVEdi1lY3QxTXU1ZUhmS195bDR4WDc3YmhWcVpURFpiTGFvMjZsaDFWc0NUM200SDM4TQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Kyiv Independent",
+   "region": "CA",
+   "date": "2026-11-28T10:05:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9441209a9d",
+   "title": "Did that tip seem steep? The math might have included the tax",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWcmZlSThIbU41S3hYQ0dCTG5BQVppN3pMMDJFa2ZmVzJYSldOangxdV9rcEp2UDdTaUlIVFhRX0V4Y1VCMnAwX0hGVnpicXFSdDBHand5SjJqbHlhcGx5el9PZFFXaDRKYm14OU5FRQ?oc=5",
    "summary": "",
    "image": "",
    "source": "CBC",
    "region": "CA",
-   "date": "2026-11-28T10:00:00+00:00",
+   "date": "2026-11-28T09:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Health"
-  },
-  {
-   "id": "d4c5bfbd2b",
-   "title": "Moscow Hit by Overnight Drone Raid, Sobyanin Claims 123 Intercepted Near Capital",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53aEI2enhxak1fTllDWVNXcGJfbVBsQkJWOFpkem5XaHhCQi02UkhIMlI1LXFFd1NzeUN2MjJkcTV5Uk9JcGVHMkYzTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Kyiv Post",
-   "region": "CA",
-   "date": "2026-11-28T07:25:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺"
-   },
-   "topic": "Society"
+   "topic": "Economy"
   },
   {
    "id": "7aceb91750",
@@ -304,40 +324,6 @@
    "source": "Sportsnet.ca",
    "region": "CA",
    "date": "2026-11-28T07:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6f74230e18",
-   "title": "She killed his sister and her family while driving drunk. Now they're speaking together about forgiveness",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3E2aFdMUm1tTjFYSnN3UmFHWkxGaTNKSGJCeWVBYlRUNTR5UktrZXpMMWZiV0NPQWFwUGUyY1M4aGRDUDRSTEVvNVlqX1N0U3BvbXpjRnhuOV90WTFNS0N2WjRIYUdpYWNfTlJkMVVmRHFUeVpfa0MxYnQwa3Exb0JVRGtGZHFhVk5acW91WG9yVHY3aG5PQkhQdnBUcDhuTnBQS2pnTXlIQWFPNFRsVUdQYjJlS0I5ZFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-28T06:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a3638f8b7c",
-   "title": "Nuclear Pathfinder Mission To Ceres Would Usher In Era Of Interplanetary Transport",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSkluRldFNVh3dVZYeFZkbEltMzREUHVIMC1nTF9DM0s2YmsxTng3TllkNER6X0JrMG1iT0NkaTBfNFJkdzBHWlBDSkdTSG1OQmtPellINEY5R3B1ZmNtMC1VaEVJLTNVdTg0SWg0YUw4LVRUMmlDUVcybVdPemFlUERfS2RiSDRGUnVKT2hCSkdyNVJkOWw2STBkWmRUa0RHa2M0OTYwakMxMXFpWlhqUHNLMXhWNjB3Zm9PNVZB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Universe Today",
-   "region": "CA",
-   "date": "2026-11-28T04:12:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -415,6 +401,40 @@
    "topic": "Society"
   },
   {
+   "id": "1dd4372bc6",
+   "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZOUNCUmFBbGpPdG9ZWHlLOHVKSDJESHE4OXpsM3lCcDhJdVNKYlpoM1h5aTQyREd1MFNsdUZ4SHF5aVFaTlhYSGpLSXNqbWwzcW5RbGZiajZJY2N5UWpmeXVNY0stLU53MjdEb2NzWGE4RnNud0J5aWViWV82UQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Phys.org",
+   "region": "CA",
+   "date": "2026-11-28T02:40:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "67d5688874",
+   "title": "Quebec argues ruling requiring oath will cause ‘major disruption’ if MNAs not allowed to sit",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWURJbXpkck9rZTZPcDRjZVdUOS1ScGtyaGplc3I0ZHBPRjJka3BHU1ZYZ2g5Y0p6cmNQYWtqNTlJUUd0TnB6VVM3NDN4Uy1NLURGSno2bGZNMFdIVGEtdnNSaUcxd05EM2FDM05RNjRYQ3VsRWJWUEJ1TXEzMGhab1RHSVJXRE5URHduMVExTTVobHpXanFfQkJPenZESEJzNTJMTWtlMEl6VUFpVGJRbUdkRXVBdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-28T00:50:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d9cb7e493f",
    "title": "North Vancouver mayor skips past B.C. premier's salary with Metro Vancouver chair nod",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWxPdGNwX3RMVE9DTlc4QklEV2g1LS1OUFNrTkcxR1IzOGFwSnNmX3FrdXpsU01MdFd1TTNVRkJ3US0zQ2lQbTNmNDNCbGUtdkhKYVp4TUdCV3RoQ1ZkVUg2VFNDMlVuWXNyNkpjd2xUSEZBTmtWMWVSaGFzX2VDLU9zQUNmdTBIb3NIQTJRUUw1Y2ZDLVRwMUlid2VrUzB1QUJLc2o1alJYWEpNeXJFZk90c0ZuUXFDY2xmMGRUQ0pDSjlRLUV2LUFtSGM5UGtFWTZF?oc=5",
@@ -449,21 +469,21 @@
    "topic": "Society"
   },
   {
-   "id": "86518c90f3",
-   "title": "Four B.C. men, investment firm ordered to pay $4.9M for pump-and-dump scheme",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUhDWHl2UUhydXlEYlhPUHR3Q2lRa3dwLVB2LWlxT3l3VlVneDhKS25JZ1hBaUloaFFoN3ZxSkdaMGFQeE45RzVkWDNNVHY1RU1zQWtrNnlWa3lUN1VUMEtvR1pOR0xLSnpUcHZrNkFrenR5TWxXMU8tMGVBc0VlVDNJd3hGZ1BsVDhXU0ZGTTUxUG5GcXpobGJPdWFKMWtvbTM3cjRVRUNsYUxvLU00Ynh3Y3pCRXJBWHQxQVlmcVd0cTNJ?oc=5",
+   "id": "b544971010",
+   "title": "Carney says vote on controversial bill to fast-track projects will be whipped for Liberal MPs",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5laGN6aHZrRFdHcmx3OE1Sb0dqempxcmpoWm0tbnJMcGhENlNRWjc0bFJXb2pfUzByRGs2TDdlc1QzUmhEY1VGaGNGd0dlanlCQ3ZVVWJNaHAzb1drd00tdUl5SzFLaGE4Z3hNOFNoamk1U3Axd2dEQnl2NA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Business in Vancouver",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-27T21:00:00+00:00",
+   "date": "2026-11-27T22:42:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Business"
+   "topic": "Society"
   },
   {
    "id": "838a73dbdc",
@@ -483,23 +503,6 @@
    "topic": "Politics"
   },
   {
-   "id": "6499dd0003",
-   "title": "CRTC orders Bell, Rogers, Telus to stop charging prohibited wireless fees by Dec. 27",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHbjRsQm5kMTNsRW1KV2xBWm84ZTRvcVJSbmVlVC11OW1HYWV1dEFtMWVQa2dfc0doTkszWW41QjBoc2RZbG5WRGdMdFdHZHBnRUxzeHRHVGM0Z3ZIWXdkZEI1bEgyUk9UaVlUR3dmY0lqSnM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-27T20:21:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ac2a929e02",
    "title": "N.W.T. health officials shed light on delay publicizing Behchokǫ̀ whooping cough outbreak",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85NDA2S0tLRmx2ODJXMmx0X2NEQzhqNGxyeTFDS1lSQTZaano2a2ZSY0huTi1zVVRLYllkNkptbkdEeGR6eWhYZEVtUjdnZEQ3Ul9VUkVFRkZybU5TS3BaRkNSZjE3ZWdmLWFBTTNGYnM?oc=5",
@@ -517,14 +520,14 @@
    "topic": "Health"
   },
   {
-   "id": "111198cded",
-   "title": "Ontario calls for changes to self-defence laws after Toronto home invasions",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVV0cEFYV3FIWVZEQnYtTkFCeWpRNHowLUh2STMxMUg1U0NHN3NuWXVxNG1oYll2XzRzUzBTUUdhLVVid2hFREV5R3hMYU9FUmE1SUVQbXAzVHBzRW9wTEh4WU5XWDZONTc5cU44VjYtQTN4LTA2ZXVPa1NaYk5HMjlISDduYW53NFpqTGxCa2JaN0tVNFZPUDlrTTBzSnNSNk5NRXRXa2kzeHQ4VTcwVHRvNzNWdw?oc=5",
+   "id": "9718886c3e",
+   "title": "Ontario calls for Criminal Code changes to give home invasion victims more protection",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX3hCaXRsZzRlZVA0MVdDc0Uwc1lXdUhJdnZEalU1cGJodEtxNjQybGluUVFDM0FqQW92VGpYNkNJWHpGNzY4ZHRodUMtMWcyYnBQRVpjbkVKV0ozN1FMeW1OTXVyUWV2MlpIV3d0b3FJRlBLTVhDZmYyQkd6X1VhY2Nlcw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Globe and Mail",
+   "source": "Global News",
    "region": "CA",
-   "date": "2026-11-27T18:21:59+00:00",
+   "date": "2026-11-27T18:39:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -534,14 +537,14 @@
    "topic": "Society"
   },
   {
-   "id": "b6208e8afc",
-   "title": "Joshua Kutryk left for the International Space Station on Oct. 1 with Crew-13. On Nov. 24, the Canadian Space Agency announced that his wife, Heather, had given birth to their third child.",
-   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPdFZ1QU9MTGpsWmRDalpqRUxSVHpqUUhYZkhqUVFKWFp2dnllOUdMZFFISURFRi14MVNmZkUycGZTN3BOSjltUXFHbU1aTzFJOUdidm83U2VZUUhzWm1aQW9KTDZFQmRNV3ZoLU5vaXBtTDFvX2JUdEVQTmIwcHgwZDNKblctNGQ4VG1PYXNNMDRXSHNDLWxfMHRZdW9oS093NE9vX0hsT3dncktWdGwwalpEd2hvU3hJRjA1Z1h3RjlGNkhOMlE4ZE1PMGZjWmJlRnFHR2pOVllqUzVGc0FBTUJhVDFLaU4zXzhPWUhSUTRfR19oTjc2a3FxZ1dWQWNnRG9kNHpkakhnYVVKQ1dvZG8tUE5WdWFjRWV5VUhOcjBSTU1Remh0WWlGeTZzNWwzUXZPUVRENGhXZTJld0k4ODBCZlNwUktQaGlB?oc=5",
+   "id": "620c511bbd",
+   "title": "CRTC says Bell, Telus and Rogers violated its ban on junk fees",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHhtSFF6b1BGS3R4RHRjMHhEeW9rVmJMUkRaYTI0QlFIRVJLcDNwNDhxYTEwemg3RHVfZFk4NklIWUNCTzc2ZXU5UGR4U1hjZi1HampJM24tRFY0S2F3WnFBU0dlckJzY2lhWjdoTTJLU3pPR09mal9vWXpqdTlkaEhRc3dMVWk0TXJvcTJ1M0FpVzBGMW5ZbU1lRzN6SUZsY3JQbWY2NkM4dXZDSHJNX1NsdDdJbUgtaDBqNDRuVDA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Futura, le média qui explore le monde",
+   "source": "BNN Bloomberg",
    "region": "CA",
-   "date": "2026-11-27T15:57:01+00:00",
+   "date": "2026-11-27T18:23:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -602,21 +605,21 @@
    "topic": "Society"
   },
   {
-   "id": "86ad20ba75",
-   "title": "Diana Fox Carney mandated to secure government pledges as ocean envoy, letter shows",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXBscnN4MmpvZDRFN1F4WlRtUEVLUDh6aDZOdFZuMjlHMkdSQi1pSThUREYwZWN4YjNmNnhrOFZGRUgzcjdyeC1CbjdBUi1ZenFma3dqcElRRXF3SWkxOERCdWpEU0lzWlZDcDF2ZlhabGJGaFBvOVRUdXJyUXZkNUpUWGZSRHIxSFhjanExeFZ2OFdkSjNhNw?oc=5",
+   "id": "965b2f1d0e",
+   "title": "More than half of Alberta flu cases found in Calgary as H1N1 spreads",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0EzSEcweXhWdC1HdC1ZUkwzRE53aFc3YktaVDVBamJDaFoxUThzOVpfYWM2T3BYR2FSc0VkS0toZFNDbnRlVjk0MmNnNThlQmJGNGhwU1ppYXFYMkRubEliVGswTUdrMlFHTTVGS2NxNzktSDFSdnd0dlpVTVJ5OUdDTDJudHZ1eUpVSzJ6SG9zbjV3Z2ZxdUhNcHNTSldDam1jY3IwS3FGVG9C?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Globe and Mail",
+   "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-27T03:10:05+00:00",
+   "date": "2026-11-26T20:44:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "7809c1ad54",
