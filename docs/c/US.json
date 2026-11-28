@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T14:43:04.699543+00:00",
+ "updated": "2026-11-28T15:29:55.422755+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
@@ -29,7 +29,7 @@
    "source": "NBC News",
    "region": "US",
    "date": "2026-11-28T13:42:25+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "location": {
     "country": "United States",
     "place": "",
@@ -58,6 +58,40 @@
    "topic": "Health"
   },
   {
+   "id": "b63912ec86",
+   "title": "Kate Middleton shares ‘scary’ new details about her cancer battle: ‘Really dark time’",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaW9HNUdyTExkR3lKbmFzOUxHMlhramNZWDFSOU40Vkt1enRnWVUyMnJXd3Fib3BxZFRmYXNnSnd2SlBtdWo1dFBmNVkwMTh1eGlRQU5tOUQySklnOVd0a2Y5MzduR2p6LXJzaHItZGhKTTFYRFhpX3VERlpWRFRsbHdGNHBubVgyeGZlN2trRkZfUmpFd01Ka245MFNIenF4UVJ0cVZOeUdwaENNSmg5T3o5NXNxVjFaNnNB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Page Six",
+   "region": "US",
+   "date": "2026-11-28T13:03:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "943ca58203",
+   "title": "Argentina's bid to stop Falklands oil drilling rejected",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pbDVaMF8tMXpUaVJOTjZqLXFxbmkzNnVsM19uc1ZyTFRrdTdXMTIwVXUzRVp3Mlpod3V2NDhtbHlpTm5vTXhGcDBWemFpeTNValVKaXV1Q0FoeVU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "US",
+   "date": "2026-11-28T13:02:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Argentina",
+    "place": "",
+    "flag": "🇦🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "695971d5c4",
    "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XMk50RGlkOXd3WG1YOW56UHBybHV5TkpQVkN0RjdUR1k1bEdfMUZUeDRPLXBQcVVrTkN6ZUxVQUlkYkJSV1RRVjh3Y01UbkdLVTc0RXJ3aThxV2M?oc=5",
@@ -75,9 +109,9 @@
    "topic": "Society"
   },
   {
-   "id": "911555dfa2",
-   "title": "I tested nearly 30 vehicles. These are the best SUVs of 2026",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjdBNEhKR3NKMkU0UU1UeU9QdFhZQVdLMHcwS1ptTi1WT2QwbEFOUmFnMWduT1A2dXNETlZlN0h0c0hpWFhHMmlaQW9OTGE1aXN5RVd1UzVvRmstWDgxWVVRTjBxMmZQZnY4Q0g3REQ1ek5PU3JHUDNCS1VQRGZzNklxVGZFOXJEZENjdzRDS3M4ZEhkT3FTak5pam5ieU9lS0tF?oc=5",
+   "id": "10d31c1ea1",
+   "title": "5 sedans I'd buy if I planned to keep my next car for 10 years",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWxLS25pbDRxMjVMSS1ReXNlMGtFaXZvTXc5LUtIalRwWkM3TkYtUEVxcjIxcmNaYmpzVnI5MTNtbU5nckNnYlB5d0pOYUF4eVpvTEVmZ0VYLUc2OG9rNlhITUw0anlsYjV6MFFucHRPX3RBT0phTm9LUFBxMVdtcEpIN3MwdV9zTUlpdkNmMzRGZVVOSXJmV25oVlMzSFZWUW9teUI0VXBjeFJhNGc?oc=5",
    "summary": "",
    "image": "",
    "source": "USA Today",
@@ -126,23 +160,6 @@
    "topic": "Society"
   },
   {
-   "id": "72abf38f0e",
-   "title": "Spain has an election on Sunday. What would a new government mean for Europe?",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmI4cS1SMzJfdWlZUHByajFZNVBtcURVVzNqdVVYcDg2Qk1VbDZsX0k4RU12alFTTTJfbXhSS1p6ZHpGQ3VKNzFjQjNiV2J4bHpDZDFkX3NWY0lhSm1FcGZVY0Z1ZzAwcnJJcVFoUkVkWDktektTeXB6ZUxLR2VoTUxB0gGCAUFVX3lxTE05ZlNfLXVKaVI2UVc2N0VPc3NFR3g5UnN0Ri1TSW9TSF9JdkJmOXBESlRkMDU1RXRPWjBLT0ZxWDV6dUdjMHZPRXVZT3dSSWhiT1QyMndPaEtKZ1czdTctbGExX1ZBVmZZbFVGQ0Q3VnNjSXRfdERVRkViN1p5WG1XS1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DW.com",
-   "region": "US",
-   "date": "2026-11-28T11:27:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "ca8e04adc5",
    "title": "Mason Rudolph: Aftermath of Aaron Rodgers on Pat McAfee was challenging for Steelers",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTThJc2oyVTg5b205TUVUR0g1R3R4MGk4dlBISUJTU3dVdm1SQXM5SENKZld3SEt5anU4amlDeHpMdzRYeFNPOVVFR3o1UUp0bDNKZUx3THUtalR0eGxIVlY4VkdSQUN5ODRFb3FiUjBzc3RUekJwYTBPMEIzZVJ1ZXE0UTlpTE5kYnJ0M1lnZGhaNXVnVU1CUmJldkRaU0lHUHB3X3pBelEweGt0YnlhcmJJa1ZxWDhzVzIxMDFIbFB6U0U2bnA4Z2hlYUdxMzNpU0ZaZldvU2I5VVpnY1E?oc=5",
@@ -160,14 +177,14 @@
    "topic": "Society"
   },
   {
-   "id": "92680fc393",
-   "title": "The Ultimate Guide for Gifts You Can’t Buy",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGNZQlpWbmh5cUhOMVh5OGg4SFN5UWdiVkpPOXVKOGJ1cjg5Y3AxUGxJU1BNNXZmZnMtOGtSbGZiaXNBR0pNU3RUeExRQXBidUJOYlNjZkNSd3JCWGJCZERyWmFIb2VWc0Rvd20zMnVLekRVeDhmcm9NcWMxWEcwZEk2TXFMaGVPTElYb25IZFpmd0x4WWxpdGlfSTZpYW53RTNkN3V1SlVXXzZi?oc=5",
+   "id": "562a0344c2",
+   "title": "Warren Buffett is 96 and eats like he's 6. We asked longevity gurus how he's lived so long.",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbk9xSmppR3pRVzZreDZhZE96MXNGU25GOWZCbUVONGFYRXlnUExkVUc3bGN3RzI5THFMaUZabzFvRUdMTEpsZ0JVZ0hQNENxZWZxY2JtSXVOaGkxWGtYSVkwY2ZFMWpHVklNRGZZQks5VVpPYVVqaVNiN0RSeEN3cFdpWWhPS3lYVzRIdF9kMllEMkdFVm51OWs4Y0xEVG45N0JpRWJXZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "Business Insider",
    "region": "US",
-   "date": "2026-11-28T11:04:03+00:00",
+   "date": "2026-11-28T10:46:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -228,21 +245,38 @@
    "topic": "Society"
   },
   {
-   "id": "6650fe6709",
-   "title": "Danny Trejo Says He Tried to Quit Ben Shapiro's ICE Movie, Claims He Faced Legal Threat",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb29VYWNvVElJSmxPYXNKdmNKRHpJMk05dVpvclBlSGZBd3lNUXgtSXVOdUxKR1oteVplRGZ6bUcxb0V1T05mM19ZdEI3MndNX3VBMVp3aE5RNENFWWNaeVBIVE0zSEpuUk1zd1pwRTNLZTMwUjFVeDdSMzk5ZDNkeV9fR0JEVklnZ1ZuWFFR?oc=5",
+   "id": "201fe9ade2",
+   "title": "WWE Star Bronson Reed Cause of Death Revealed",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVDBzVWQ4azhVMXVUWXBxcHpHd05vOEZOT1lGR0I1YmlYckNCWmtkR3k4dXJtSHlLV2M3bjBwNTI1QW9hSnRXZDlxX3NlcV82ODJTMmdMV1ZBU213bzRhZGtQY2J5ZmNXTl82bFR6a1A1UlRNYTh0T1B5RkRFQ3VPQUxSWmotUzJGalItb19aMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "TMZ",
+   "source": "Yahoo Sports",
    "region": "US",
-   "date": "2026-11-28T09:00:14+00:00",
+   "date": "2026-11-28T08:36:39+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
+  },
+  {
+   "id": "76617ff8e8",
+   "title": "Trump says he talked Nvidia’s board into reinstating Jensen Huang. It’s not the first company he’s stepped into",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByYmdLMURnTXFsSTdqaUtDN3pkcVpNckk1ZjBTTlcybnlYdkNxWm44d1c2cUp3MmNhdkRiQjk5ZXB3WjlYa2tRUU9kMlpJQ3U4VWtpdVhpdUdudkx5Uml6VXNxUTFNTW53bkJoZUtTRURMZ3Q2N2MzcnNB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Fortune",
+   "region": "US",
+   "date": "2026-11-28T08:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "4730c453fc",
@@ -262,31 +296,14 @@
    "topic": "Health"
   },
   {
-   "id": "0cdeca3f6a",
-   "title": "Labriola on the win over the Broncos",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00ZW90SFcwQ2F6a2RFLUxNRUR6SmNqWldZY0o3bFRVMjZob3VhMFJqeGE4d2RpM0xrX2F0VmViLVFMZ0JUQWQ4dG5LMVRSLVVfdXNrclFnOTNFeGxOaFEzTWNXeDRnbFBUTTNMTUJWU196VkJyOGIweXhXZnM?oc=5",
+   "id": "bdeddbafcf",
+   "title": "Where high tides set records on both coasts this week",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjM2T0xkSDhDenlaaTVRbG9IYVBXNFpCZ1NDUTUxVmREdF85MUJtbnVjZnpKOUt6djVsT0VhdEZ6eVpDY2lzSXRfTEt4TldqanVsYlR1b1EyaWIxZjJ4Z0tvMk9QSWdjZDVXTEQzbklXNFQ4S0lScnB5eUxEZ19PY3JJTUxrY0ZTQmpobnlHY3pwQ21jUGpEWUt6RW5XajRCRlFJ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Steelers.com",
+   "source": "The Washington Post",
    "region": "US",
-   "date": "2026-11-28T06:32:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c423f8b803",
-   "title": "Texas 'not perfect' but finds way again at Texas A&M, earns SEC title shot",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG5jZWlKQ2FhRnVqYjFlV1ZsZko1a1FtQmMwODl5aGtvdmFPOWs5eVRrMWdHb1F1cGF5T29aR204MEZWT0Jxc3pwTFQxYmktMUhpNllGcUhEaHBUVk92TEFKdmZUY3NtTE9FQk5RSEFMamFCZHkwWXdpcEVHamRTN2FUWk5lbllILWkzNTgxdzZFTXFzNmdXaVZ4MXVFZzhXNWdVR3ByZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN",
-   "region": "US",
-   "date": "2026-11-28T06:23:00+00:00",
+   "date": "2026-11-28T06:45:58+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -313,31 +330,31 @@
    "topic": "Astrology"
   },
   {
-   "id": "5f5413f724",
-   "title": "Hundreds of thousands still without power after severe Thanksgiving weather",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZDcGNBblpnR2Zwdy1RRWhBTmhpOTAwRWhNdDJHS1BXNDBsSFVHQml1eHU5NEVrUUM4bVpJN2xBMFdUTXp0VFYtcU1PYTVHS0lBb2ZuOWw3OGZRaEdDSlN3d1o2bU56Q2NBaXlVSTFWaS13bnp4NnhFQ3hhNW4zVlBvRHNUc2VEX2haa1hnQl9xdm5aX1J4RDVhQUk?oc=5",
+   "id": "23251e0cdd",
+   "title": "How Mark Pope's inexplicable overtime coaching blunders doomed Kentucky in rock-bottom loss to Wichita State",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3JTejdCeXpsTkU5enlEa216T2o0eDgxOWJuZVlBSnk5U3pOUy1MS1NSdDM4SVdPTGItbFhWSnpmVEdwR3gzVWtaWmZ2ZWppekcwajkzckEtYUlRTTlhQ3hGMnRaZmR3UlZRSE5OaURuUUNLeVJDX3NRcXgycEZLaDE3MzR1dGdRMHRhWElZeE10Zm1OUEd0enBkdUpXQzBlWlR4UXphZm9JTnUzU0ZN?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC News",
+   "source": "CBS Sports",
    "region": "US",
-   "date": "2026-11-28T05:01:00+00:00",
+   "date": "2026-11-28T05:58:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
-   "id": "195fbee74c",
-   "title": "Nebraska Sen. Deb Fischer’s husband died by suicide, her office says",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSm8tOVRZQ3F0elhYOWhScWtKZGx6V1pTOFlWVmVlZnhNdWFzV0UwM1phQVpFRVNxNDVrcC1SWndfekNLbGx5c0d2QkVrTkt0ZG1JNWNnRmRhWXpndXRHRGRJZERoUmpGNE1nSVdtMUY1VDFoSGdqOHdQQ3ZYcjMtSkRYUU5ncjhJOHRaZEpxMkdNcWo2ek5IQVd6RTJMcmZjTU5wNWNPc0dhV29R?oc=5",
+   "id": "f4e10195a8",
+   "title": "Andrea Stewart-Cousins, NY Senate leader, dies at 76",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkNXTVl5TndwZFpYcVRUVV92eUJ6N19wV3Z4UjJFZE03cnhxR3F0ZXM4VGMyZWJHd1ZIb1k3WnVYNkpkVnpiejdBSnJMWTB2RUlrelJzYlNGb2lOYndia1A4OV9BZjJOeHNRWkxBaXFJRDlxeVB3eDhaLXB6RUpteEs1VHphRVp6aGNHOWVfMnc1QkozM1gxVHNB0gGfAUFVX3lxTE1icFF1Unc4aFN0Zk9aRW8wdFpsMkp1V3h3Ujh6SDJxaW5TWEVPamllNWFnYXRkZkRYRFM1YXRFY1MtNFJVNmhEdmxBTzhXWHNvYjktckhQOERJLWI1emNxTnA3dlNna3AxdnhKcV9Fd2RGU1EycXRfdjk3MjRhZHNLU01FUDdxNjhiNnFLVE9JMXgtN21pWG53LW43dmhjdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "ABC7 New York",
    "region": "US",
-   "date": "2026-11-28T04:36:09+00:00",
+   "date": "2026-11-28T04:59:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -364,31 +381,14 @@
    "topic": "Politics"
   },
   {
-   "id": "d2beaf15db",
-   "title": "2026 SEC Championship Game: Texas gets one last shot at Georgia in contest's final edition",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFFNS2tPZEFCVGgyM2RFYWQ1UFloMTdZaF83d0otMDhQaDNtZUg1ZDk5YmNVN3BSekZsOHVDY2hWTERUXzNNcThIQThPajBFbmtYMzAzYlQ0bnI5R0ZqVjlaNE9XY3EwdVN6d1Blbm9oVlNVRFdqVmdwZ0RydmxRLWh2bTNmd0Z0djNqcGhsX2FaZTQ?oc=5",
+   "id": "b15de5b217",
+   "title": "Arch Manning, Longhorns avoid scare against Texas A&M to punch ticket to SEC Championship Game",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeDBlVTRWWHptZTNrejkySEhkM051dS14RVMtNWNBcmtoNHhsTHJid0s5aFRsNjJSa0NTb0w4LTd1d2d6UUc5bmt0T01nOHRsR21yX2EzTUNrbzI3TXBjMFZYSC1mRXlHcnlSdGozdUE4RUNCSjFKWVNVRFdRU3ZLRHl6NVRReHYtYlVJN3JCNkpZMHdyZUxJeXUzWURpclAzaHA3b2FETm0xRERYdldDX0VBOVRFY045akpXaXpMOWhJS28?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBS Sports",
+   "source": "Fox News",
    "region": "US",
-   "date": "2026-11-28T04:23:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2e8717ae32",
-   "title": "HomePod Mini 2 in (RED) Seemingly Spotted Ahead of Announcement",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBicE5HTmZQTnJ6MXNIdEhjRFQtTFpvLUswNWF3ZTVLYjR1Ql9VbVJJR2R6SFdjRGlnM1ZlV1YxM2d5SFFqRlI4UDdfakFOQWpVTFE4TVpRbC0zU2hhb001WVdDeVBlU0Nhc1lLb3p4Skw4cFB1c29UUEw2Mks3YW8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MacRumors",
-   "region": "US",
-   "date": "2026-11-28T03:50:00+00:00",
+   "date": "2026-11-28T04:25:11+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -432,38 +432,21 @@
    "topic": "Society"
   },
   {
-   "id": "81cc0904ba",
-   "title": "Watch Kevin Owens honor Bronson Reed with in-ring tribute, speech at WWE Athens",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFlnVUVBeEZvYXBZeDhxQ1dlNXlTdjlONS1SYTVQT3lWSTlRaVE1MzM5RWRJNlZqQVBUWGZkWFJGRFl2U1FZZGRud29ldDczZFpBcmhsZWd0UF9XandRZmdEUHNUdEpkbkFSdjBfcGxkb0NURzZhb1BvWmFzaE1nSV9KMVRCdWRKcXh4WUJOUlhJSjRJ?oc=5",
+   "id": "5f5413f724",
+   "title": "Hundreds of thousands still without power after severe Thanksgiving weather",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHZDcGNBblpnR2Zwdy1RRWhBTmhpOTAwRWhNdDJHS1BXNDBsSFVHQml1eHU5NEVrUUM4bVpJN2xBMFdUTXp0VFYtcU1PYTVHS0lBb2ZuOWw3OGZRaEdDSlN3d1o2bU56Q2NBaXlVSTFWaS13bnp4NnhFQ3hhNW4zVlBvRHNUc2VEX2haa1hnQl9xdm5aX1J4RDVhQUk?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "NBC News",
    "region": "US",
-   "date": "2026-11-28T03:05:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Greece",
-    "place": "",
-    "flag": "🇬🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f4e10195a8",
-   "title": "Andrea Stewart-Cousins, NY Senate leader, dies at 76",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkNXTVl5TndwZFpYcVRUVV92eUJ6N19wV3Z4UjJFZE03cnhxR3F0ZXM4VGMyZWJHd1ZIb1k3WnVYNkpkVnpiejdBSnJMWTB2RUlrelJzYlNGb2lOYndia1A4OV9BZjJOeHNRWkxBaXFJRDlxeVB3eDhaLXB6RUpteEs1VHphRVp6aGNHOWVfMnc1QkozM1gxVHNB0gGfAUFVX3lxTE1icFF1Unc4aFN0Zk9aRW8wdFpsMkp1V3h3Ujh6SDJxaW5TWEVPamllNWFnYXRkZkRYRFM1YXRFY1MtNFJVNmhEdmxBTzhXWHNvYjktckhQOERJLWI1emNxTnA3dlNna3AxdnhKcV9Fd2RGU1EycXRfdjk3MjRhZHNLU01FUDdxNjhiNnFLVE9JMXgtN21pWG53LW43dmhjdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC7 New York",
-   "region": "US",
-   "date": "2026-11-28T01:28:02+00:00",
+   "date": "2026-11-28T02:38:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Weather"
   },
   {
    "id": "92f2ce0cae",
@@ -554,23 +537,6 @@
    "topic": "Society"
   },
   {
-   "id": "f4257a9b54",
-   "title": "Restricted NVIDIA Chips Were Installed At A Chinese Data Center Linked To Alice Huang",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWtYOThKWWFkTmR1eF9BUnF5OXhjU0hGZDh0NDNDOTNESWtYNWtxWVBEb1BLN21OLVBVYkRGcTlzenVOM2lkRkE2TzlBeE5IR1lCZjJ0bjdoam1CaklfTEJKY3ZKakhrelI2eDFlQXZONktnNWpXdWZCRkNSTXZxX1BpeTF1d29MN2VMeHBhaFNCaUJ3d3I3dU1xNlp5VVpuMEhGWVVTcUxxMHhDMDJzbGFfSEdETlRVT0xJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Engadget",
-   "region": "US",
-   "date": "2026-11-27T19:45:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "463f452565",
    "title": "\"We just wanted to provide some clarity\" - Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fZmt2ZzdDczA2U01qWW1XVUhuQWJ6QTlPTU4tOGx2aXpRbDJ4dnlxdTBfbk93OGhaaFNHbnJTUVViejl5WDlZQ3VYVDlybjE0X21kS1RPZWI1bzNZSkNIanhGek9FUU9TU3c?oc=5",
@@ -596,6 +562,23 @@
    "source": "CNN",
    "region": "US",
    "date": "2026-11-27T17:14:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "810a0d94b3",
+   "title": "Official Bama247 Game Predictions: Discussing 91st Iron Bowl in Bryant-Denny Stadium",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbTRyUDY1VW9CSF9MWFZ1TEkxRElPZzhJUHhUc0ZxcjUxTFFaNlJMd1Z4N1dySmNUWHIzVXBWODZ5VHJCSzVEbWl0MFp2M0g3eDN2T20wMmt4TEVCQmVvdEhIam5iU2t6YkI5TzdEVXJYUl9TNDZBbVdBTmZQX1RLdTJBb3VKSXJ3dXc2M3FIUmx1YVJFMzBvVTVocldoNTlESmRXQlEzUC1VMHRsODY1TmgxVTI2b2VKMnhFNmFudnhLbU9BbktHWkZJUVFhaDFhQW9QLXRkOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "247Sports",
+   "region": "US",
+   "date": "2026-11-27T15:32:25+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",

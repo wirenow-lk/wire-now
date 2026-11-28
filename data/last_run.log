@@ -1,7 +1,7 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 73/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 78/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 44 stories
+OK   Ada Derana: 37 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 5 stories
@@ -14,137 +14,69 @@ OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 8 stories
+OK   Google Warnings LK: 7 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 24 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
-OK   Reuters: 95 stories
-OK   AP News: 85 stories
+OK   Reuters: 100 stories
+OK   AP News: 78 stories
 
 Biggest stories right now: Afghanistan school blast kills 7 students, in (8 outlets) | Doctors Without Borders condemns Israeli stri (6 outlets) | Two Sri Lankan workers killed in truck accide (6 outlets) | Vijitha Herath meets Indian PM Modi in New De (5 outlets) | Sri Lanka designates 5.7 km Port Access Eleva (5 outlets)
 
-7 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Trade unions adamant on going ahead with Monday’s strike
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: Prabhakaran photo displays: Arrests in Mannar and Mullaitivu
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* Ada Derana [2 outlets]: Port entrance road along elevated highway restricted to vehicles with 
-    important (also on EconomyNext) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Sunday Times [2 outlets]: Dialog Gifts Fully Equipped IT Laboratory to Thalduwa Bauddha Maha Vid
+* Hiru News [2 outlets]: One Galle Face brings Christmas to Colombo with dazzling tree lighting
     important (also on Daily Mirror) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [2 outlets]: Petroleum distributors back November 30 island-wide trade union action
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* The Guardian [2 outlets]: Argentina fails to block oil drilling off Falkland Islands
-    important (also on AP News) - researching
+* Newswire [2 outlets]: Coast Guard responds to oil spill at Trincomalee Harbour
+    important (also on Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-* The Guardian [3 outlets]: Costa Rica bars UN rapporteur on Palestinian territories from entering
-    important (also on Hiru News, Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 5 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code")
+    "code": 429,
+    "message": "You exceeded your )
+    -> no cards; posting with the site's own summary
+* Hiru News [2 outlets]: Sri Lanka and Brazil explore stronger cooperation in higher education
+    no AI summary: saving the rest of today for important news
+* AP News [2 outlets]: EPA says no rise in contamination after Army detonates lead azide stoc
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: Years after Sandy Hook massacre, US Supreme Court case targets assault
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 6 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  fact check feed Fact Crescendo Sri Lanka failed (HTTP Error 429: Too Many Requests)
+  fact check feed Watchdog failed (HTTP Error 429: Too Many Requests)
+  fact check feed AFP Fact Check failed (HTTP Error 429: Too Many Requests)
+  headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 72 story pages for Google)
 
-Countries: IN 35, PK 34, BD 35, US 35, GB 37, IE 35, CA 36, AU 35, NZ 32, SG 37, MY 32, PH 34, AE 35, IL 35, NG 35, KE 35, ZA 33, GH 33, FR 34, DE 34, JP 0 (FAIL), IT 34, ES 34, BR 33
-
-Posted today's Top 10 round-up
+Countries: IN 36, PK 32, BD 0 (FAIL), US 34, GB 37, IE 36, CA 36, AU 0 (FAIL), NZ 34, SG 35, MY 32, PH 35, AE 35, IL 37, NG 38, KE 0 (FAIL), ZA 34, GH 0 (FAIL), FR 34, DE 32, JP 0 (FAIL), IT 34, ES 33, BR 34
 
 World Pulse not made this run: no AI available for writers
