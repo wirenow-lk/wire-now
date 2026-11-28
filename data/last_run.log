@@ -1,37 +1,68 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 26/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 28/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 55 stories
+OK   Ada Derana: 56 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 17 stories
-OK   Daily Mirror: 99 stories
+FAIL Daily Mirror: HTTP Error 429: Too Many Requests
 OK   Hiru News: 100 stories
 OK   Newsfirst: 15 stories
-OK   Daily News: 57 stories
-OK   Sunday Times: 6 stories
+FAIL Daily News: HTTP Error 429: Too Many Requests
+OK   Sunday Times: 5 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 14 stories
+FAIL Google Warnings LK: HTTP Error 429: Too Many Requests
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 22 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 73 stories
+OK   AP News: 83 stories
 
-Biggest stories right now: Parliament observes minute’s silence in remem (6 outlets) | Sri Lanka Navy Seizes Vessel Suspected of Smu (5 outlets) | Heavy rainfall of over 100mm expected in seve (5 outlets) | Kenyan cult leader guilty of manslaughter mor (4 outlets) | Thousands still without power after storms th (4 outlets)
+Biggest stories right now: Parliament observes minute’s silence in remem (5 outlets) | Princess Kate’s Cancer Documentary ‘Heal’: 3  (4 outlets) | Heavy showers above 100mm expected in several (4 outlets) | US disables ship attempting to breach Iran bl (4 outlets) | Kenyan cult leader guilty of manslaughter mor (4 outlets)
 
-6 new stories to post
+8 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* The Island [1 outlets]: UN urges Lanka apology over wartime aid attacks
+* Hiru News [1 outlets]: Two Sri Lankan workers walking home killed by protruding cargo from tr
     important (serious news) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Two Sri Lankan workers killed in truck accident in Hwaseong, South Kor
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Fox News [1 outlets]: Jermaine Haley, WWE star known as Bronson Reed, dead at 38
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [1 outlets]: Sri Lanka Business News & Financial Updates
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Ada Derana [2 outlets]: 3.6kg of heroin found aboard vessel seized by Sri Lanka Navy
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [1 outlets]: Special Workshop Held to Brief Senior Ministry Officials
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    attempt 1 rejected: the name/word 'Lankan' is not in the article
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -40,26 +71,12 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    attempt 1 rejected: the name/word 'Lankan' is not in the article
-    attempt 2 failed: AI did not reply with JSON: ''
-    -> no cards; posting with the site's own summary
-* The Island [1 outlets]: JVP: Trade union past and realities of power
-    normal news - one-paragraph summary
+    cards OK (attempt 2, written by openrouter)
+* Reuters [3 outlets]: UK's Princess Kate climbs mountains, fights cancer in intimate documen
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: Taiwan votes in key local elections as China looks on
+    no AI summary: saving the rest of today for important news
     news search: 0 results, 0 about this story
-    attempt 1 rejected: the name/word 'India-Sri' is not in the article
-    attempt 2 failed: AI did not reply with JSON: ''
-    -> no cards; posting with the site's own summary
-* The Island [1 outlets]: Established mini-hydro operator enters the market with a functioning, 
-    no AI summary: saving the rest of today for important news
-* The Island [1 outlets]: Stroke cases rise in Sri Lanka over past decade
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: At least eight found dead on migrant boat off Spain’s Canary Islands
-    no AI summary: saving the rest of today for important news
-* The Guardian [2 outlets]: Victorian election 2026 live: voters head to the polls as Coalition se
-    no AI summary: saving the rest of today for important news
-
-Top 10: 1 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 8
-  photos: 8 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: AI did not reply with JSON: ''
