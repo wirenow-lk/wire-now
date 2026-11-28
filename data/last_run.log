@@ -1,72 +1,47 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 33/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 35/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 57 stories
+OK   Ada Derana: 55 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
-OK   Daily Mirror: 98 stories
+OK   EconomyNext: 18 stories
+OK   Daily Mirror: 96 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 10 stories
-OK   Daily News: 56 stories
-OK   Sunday Times: 7 stories
+OK   Daily News: 57 stories
+OK   Sunday Times: 6 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
-OK   Google Warnings LK: 12 stories
+OK   Google Warnings LK: 10 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 21 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 77 stories
+OK   AP News: 78 stories
 
-Biggest stories right now: Two Sri Lankan workers killed in truck accide (5 outlets) | Hundreds of thousands still without power a d (5 outlets) | US disables ship attempting to breach Iran bl (5 outlets) | Kenyan cult leader guilty of manslaughter mor (5 outlets) | OpenAI countersues Apple for stealing trade s (4 outlets)
+Biggest stories right now: Thousands still without power after storms th (6 outlets) | Two Sri Lankan workers killed in truck accide (5 outlets) | US disables ship attempting to breach Iran bl (5 outlets) | Kenyan cult leader guilty of manslaughter mor (5 outlets) | Canada's Supreme Court largely upholds a Queb (5 outlets)
 
-8 new stories to post
+6 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [2 outlets]: Parliamentary select committee appointed to study 1983 'Black July' ri
-    important (also on Ada Derana) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: WWE star Bronson Reed dies at 38 due to ‘medical complications’
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: Youth hospitalised after alleged assault by Puttalam Mayor arrested
+* Ada Derana [1 outlets]: Police open fire on van carrying robbers in Eheliyagoda; one arrested
     important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [3 outlets]: World Buddhist Conference begins today with 5,000 participants, includ
-    important (also on Ada Derana, Daily News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Ada Derana [2 outlets]: Tuition classes for O/L exam candidates prohibited from Dec. 2 midnigh
-    important (also on Daily News) - researching
+* Hiru News [2 outlets]: Fan violence at Europa League matches prompts investigations and conde
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [2 outlets]: PM stresses need to strengthen teacher training under education reform
-    important (also on Daily Mirror) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* BBC World [2 outlets]: A clinic is reassessing people with ADHD and autism diagnoses - but cr
-    important (also on BBC) - researching
+* Newswire [2 outlets]: “My torturers may have forgotten me, but I have not forgotten them”: P
+    important (also on Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -77,33 +52,18 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 1, written by openrouter)
-* AP News [2 outlets]: NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies
-    important (also on The New York Times) - researching
+    attempt 1 failed: Expecting ',' delimiter: line 1 column 1563 (char 1562)
+    attempt 2 rejected: In 'spoken', says Rajapaksa 'told a court he had never heard of him'; article says he 'did not know' the journalist (changed claim).; In 'spoken', says Jayantha 'remembers Gotabaya Rajapaksa very well
+    -> no cards; posting with the site's own summary
+* Newswire [2 outlets]: Over 4 decades later, Parliament appoints committee to examine Black J
+    important (also on Newsfirst) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
+    attempt 1 rejected: The card states the committee was 'appointed by Speaker Dr. Jagath Wickramaratne,' but the article only says the Speaker announced the appointment.; The 'spoken' card adds 'highlighting the need for h
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* AP News [2 outlets]: Parts of the US clean up, power being restored after Thanksgiving stor
+    important (also on Al Jazeera) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 rejected: Cards say the men were killed 'instantly' (details and spoken); the article only says 'killing them' and never states it was instant.; Cards say the wooden roof protruded 'from its load' / 'the truck'
-    attempt 2 rejected: Spoken version says 'room' instead of 'accommodation'; Details and key_facts state police 'investigated' cargo rules but article says 'are investigating'
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 6 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  summary translation failed (no AI available for writers)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 13 stories judged by openrouter:openrouter/free
-
-Website updated: 150 Sri Lanka + 75 world stories (3 with cards, 70 story pages for Google)
-
-Countries: IN 38, PK 36, BD 34, US 34, GB 36, IE 36, CA 35, AU 34, NZ 32, SG 35, MY 33, PH 37, AE 34, IL 36, NG 35, KE 33, ZA 33, GH 32, FR 34, DE 32, JP 11, IT 32, ES 34, BR 34
+    attempt 1 rejected: Blurb claims cleanup is starting, which is not in the article.; Spoken says officials were preparing, but the article only says preparations were under way.; Key fact says heavy snow expected without 
