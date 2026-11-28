@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-28T16:24:32.705818+00:00",
+ "updated": "2026-11-28T17:19:05.414864+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
+  {
+   "id": "520e4ee8fe",
+   "title": "Plant-inspired adhesive joins tiny blood vessels without stitches",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZEVWUWxiNEdfeERvMHJpenQ5b015S3FaZ0RpVEpEVVIwc2d4S3hlTWNMamhpdS1IcnlOVFVfRXNneXg0ZW9JdC1yM0pJZzhUdGk0eFVKak03Z0oyRXZ3S3VEYkk1MzNBMXdlODRfQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Phys.org",
+   "region": "PH",
+   "date": "2026-11-28T17:00:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
   {
    "id": "c5bf06f27a",
    "title": "Singapore Team Finds New Path Integral Method May Speed Quantum Dynamics Calculations",
@@ -17,23 +34,6 @@
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cf3d04bf68",
-   "title": "Dodecagonal gold nanohole metasurface with radially graded apertures for local thin-film refractive-index sensing",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmVEZEc21SbUhrQXBlcHgzci1DazRQdUtQWnZ2b3JBTlB4bGJramNrY2R1MDNvN01DOFdOaDdPNUprc0NINGFFVmlKVFZzNlQxTUQ1M3A1RTNLWjREUjA0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nature",
-   "region": "PH",
-   "date": "2026-11-28T16:06:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
    },
    "topic": "Society"
   },
@@ -55,43 +55,9 @@
    "topic": "Tech"
   },
   {
-   "id": "b42aad40c8",
-   "title": "OWWA opens seafarers’ center in Iloilo City",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlhaTkVEem43S3hWczgwck1UQzloczY4TU9GQ2Y1b1R4YzFCOEFGWWcyalRuVkc5YVVzTUctVFlZSkRQR1Bkdm42ZkwzdjNMLVNiVmFnMVFZVDNwR1VZZ2dDZk43UG1lQ1J0WmlHR2JfUGw5Uy1Xa0F1R29DbGZUUjdaUmdKVmdIYnkySzF2a19XOW1mYWd6dTBPajJuUdIBowFBVV95cUxNS3QtVjFXR0UzSXNBTVZxVFFFTWNaRThUMjhxM0w1QmlTUktvckM4aGc0REpYdDRqTlpSTnA2LWExLXZTX21VNldxSHIxM3JJbUhCbzBCNERZZXl5VTFTQTV6VXFwS2lMOWxkUWdkc2luclFWLXEza3dlb2dmYWJxa3ZQS0I1SjhBSWhNZDJ6aEQ5eVAyMGF2d3N2WEpaSllUS2p3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Manila Times",
-   "region": "PH",
-   "date": "2026-11-28T16:04:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d9028ad7a9",
-   "title": "Snapping shrimp without their 'helmets' show signs of disorientation after a blast from a nearby neighbor",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWHlWNjVDRnhRaWJoTXU3OUctZld6dXZObEZuREZJVHJibERldGgxZ05vX1FWV1BlY2lSS1o0TlJ5anB4TTlyc0Mwdll4YzZ4aERpZ2dpV1NXT1BhcWUxOGM0d0JFT2ZoZnJWSk9KYmg1cWJ2MXN1TFFmUTZrZU1WVkdLNENDdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Phys.org",
-   "region": "PH",
-   "date": "2026-11-28T16:00:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bdb1e09658",
-   "title": "DND, DMW warn vs Russia jobs luring Pinoys to war zones",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkVjaGdOT2NVMnpUd1gtRGlFQk1ZdzVFWGVTUzJFNTRmMnpsMDFzMW5wX1VQbmItMjNENWFLckpNR281bHF5NUdiMnF1RkJpcVJPU2RnX3pGeEx0bllJVWlZMkVfdi1YS2hFWWk5NUJEREdTaWhSSlhzcUJRdHI1bzZHUTNKVk1aaWxkejlqenNqZDVJWDNtT3VNN01oNGtyNkJlTEhoTUXSAa8BQVVfeXFMTlVRbjVHZ1p3azItVEV6SkE5eFJhVjBxbGtvUkMzRmRpS2wxVEE1MGp5LU9tZmFvYm9FVVBiUWl3X1RVcFI5V1lJT0tOS3J5Ykc0MjRxQzZ2ZkNUNEVZRVhsZ28yQ0NnQjRSa3k1LTZpMEJhRjhxcmlrMVV3TmFERmVnZWdhX09mRDBXSEJva1V0eDJhY0VLeUZuajE1MG5MV0lxd2NJZlVJeFB3MHBBWQ?oc=5",
+   "id": "35ec45d618",
+   "title": "China not opposed to Philippines defense partnerships, but...",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaW40NnRxV25taU1xdWtKMF9CZzAxTWl4MVZZSlNNTDRsMjJNZ1VXR3p4eDdtMkxuc2ZBS3hwMi1KYnpKei13UU9DSVBxM05ORUtFeDBNVWJtczF0TWUzWmtuaVVxb2tnQ0dSamd3Y25PMmo3aFp1VllvSkh4X1FKNWhoV1luV0R5cGRUQldVNkFyTVpLdzFfaGVDV2s3TU8wSUdSdktpbDVSRXRD0gGzAUFVX3lxTFA3ck4xRFJ2SmlyaVV1S0JYS1cyVHJUWjlzS2lvWWhJYThSVzFGWWczVW4yeEs4Vmg1SXJnN01iLUxkc2E1U0JFOFBvcWpaZ2lMSm00UUo0U2pxM0ZpbkFGeUFLS0FsOFQ5Ty1uTFR1aWg3N29qSXMtNHVnYUcyYmxyTVkyNmtqVFhSMzk3bExydUhJbFB6S3BiMWh5U2lTSVdxZk1xZnkwWjZKQ1BuUmZlOTVZ?oc=5",
    "summary": "",
    "image": "",
    "source": "Philstar.com",
@@ -99,9 +65,12 @@
    "date": "2026-11-28T16:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Russia",
+    "country": "China",
     "place": "",
-    "flag": "🇷🇺"
+    "flag": "🇨🇳 🇵🇭",
+    "also": [
+     "Philippines"
+    ]
    },
    "topic": "Society"
   },
@@ -114,6 +83,23 @@
    "source": "Philstar.com",
    "region": "PH",
    "date": "2026-11-28T16:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e27e6d84f4",
+   "title": "The hippocampus helps people infer new relationships from familiar patterns, experiments suggest",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUlNcExPRGk2cHlDOEJWZkdlUm4tYWotaXd2RnIzZ1VOR2JxVHQ5NFRJcXRabkZDWmxIZEFwZXA4NGFsczVBQm9aaUpyMGt1THp5Y1p4eWZhOWhZQjE5S0EwbHJoS1JEZ0czUVdBcWpjb3VibklXOEplOXN1VkNKUC04RmZ4dnlqVHJtUl9TcTF6VktSNUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Medical Xpress",
+   "region": "PH",
+   "date": "2026-11-28T15:00:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -140,23 +126,6 @@
    "topic": "Society"
   },
   {
-   "id": "e0d3236fd3",
-   "title": "The Eminence in Shadow: Lost Echoes Anime Film Confirms May 2027 Premiere and Cast Addition in New Visual and Trailer",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZWJUMEJ0T3JLUlJRMWlkV2JFWUNSZFZsWHp2N0E3X0g2WElDR2NyOEd6cVdmbklSNU5YbnphRjVuRVA2NWt4cEJ2bjBRR2t2SHFZb0NTM2NCYXVDRGpPS3NJWTFORkR1SnY4d0NWUWtpWmF1ZmpjY1JSd2VjLWFselBIWnNvejV5NFZqZ1B1bzlMZGhNekx1QUY3QzJMRDdJaUpjUzR4dUI0X1lLdzdqZE9GaVlYeWl2bVlwVmRVZmFoZmJFbGlDRzNEazZCMGs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Crunchyroll",
-   "region": "PH",
-   "date": "2026-11-28T14:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "d8d916076c",
    "title": "Peru finds 677 live tarantulas, scorpions and centipedes in travelers' luggage at airport",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQV9WN1pIYXBvNnhpRGFaVk5Oc0YxUWt5aUE3ZVdWQ1NkVEEtaWF5ZVptcUhXQTI0Vi1hb1YtaFBPUUdpZ0doQWtMTUswNGJZYTNFMWhuaUphdldQTG1SMWJnb2hIbjBoZFNsSVp0TUhxLUFHV0l0VW9iYVAwelR5T0s4dVdqODVqY3UyRTdYQ0RLb0RpNHg2M1pCT2s2S0E5R1FXTk9ZMTFQSmY4cHdvWmpNa0xXN0VKR0tZZi0tZU9uRzFkbGc?oc=5",
@@ -164,7 +133,7 @@
    "image": "",
    "source": "ABS-CBN",
    "region": "PH",
-   "date": "2026-11-28T13:23:07+00:00",
+   "date": "2026-11-28T14:53:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Peru",
@@ -208,23 +177,6 @@
    "topic": "Health"
   },
   {
-   "id": "8ef5faae18",
-   "title": "Philippine Central Bank Sees November Inflation Hitting 7.2%-8.2% on Power, LPG Costs",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4ZUE0NHRRbHFrSWhrd2p6dTVBUGZXV0RKOEs5S19RTnlIaENiNUJ0Y3Y0X2V5NjRTa2tzakVES1lrR3J0LUZCZnQyclF0TXJwU2xzRlE0QUh5M3BjMmVyWXpLNzcyY2RMSGg0cTV3dlpwaUI5ckE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BigGo Finance",
-   "region": "PH",
-   "date": "2026-11-28T10:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Economy"
-  },
-  {
    "id": "854535b2f5",
    "title": "Bantug: VP Duterte’s whole-day impeachment trial to resume next week",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZXRYcFFVOWx3RlNKTW9qdjBLcFcwamNyUExjbXM4MUpvUkV6OEVCTFZGUExpNGIyTkhBVDdrazhMTTVJT29CR09QRllmNFE5VlJDWWRwT0U0c280Rzk5RXpMRy0xa1pmMEhHSjVTcGlSRDJpZ1gtQmM0V1d4SkVNQTRqTWUxN2hKMGNDWXdvaXFlcFlCVUxaX0R0SE9xVWM1cFA2S1VVONIBrAFBVV95cUxPaDk2VVZHZlYyN0IyRkd1UDltdVNyR1Y0eWZNZlhjUlR6dS1DaFg2UUdqTDNwREJOVkplUTh2VHlWaThpem1zNDZKbEt1eWpMaUUzZFlVa0x2elZDVU9MWUdjTVh4RkZYaGlMS2czYTJkeGEyd2pZUjVoelVHcmlBdHQxQXg1OG5BXzRvSGFzOVhEN1JyY2NlRkUwQXpXandwNlNGdkkzQmxEdC1o?oc=5",
@@ -240,6 +192,40 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "07f3d764e5",
+   "title": "DMW probes alleged recruitment of Filipinos for armed conflicts abroad",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXpWaWRqTGNJLWZrbG9ySW1Fa3VYNnhjZ2EzUGZUeVZ6QkhDY24xNERBeTc5djQ5YmtXMkJvLUVVWEROdXhQa0VVWWRZRE9YXzRWRWFybVFaazhvMzloemE0U2F4VU45S3JkSmc0SXp3eTFRT3FrSmR1LXBPODJDcTQxR2JFWDRWbXFuYTBaMXQyamRRYS0yTnZjOXZfcEdp?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "thechronicle.com.ph",
+   "region": "PH",
+   "date": "2026-11-28T09:59:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4f3668e371",
+   "title": "Smart 5G: 6,100 Sites, 12.9M Devices, AI.Smart Platform",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGlRUDlMMDdCUzZ4TEJNWlV2RmVFT0pJQWhhZjc0aV8xNzJMUVpZZnNoV1hma2h5VlVMMERBSy1mWEN2bjNXUlI5MjNsLWU0djBnbXJuRi1wa1N1cGpRdXRWNGdXSHVjQVJYZUZqNF9Yak0tZmZGOTRKZEVQcndzb2dHVXd6dTdDWm9HTDZ0dWozQk0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Gadget Pilipinas",
+   "region": "PH",
+   "date": "2026-11-28T08:56:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Tech"
   },
   {
    "id": "ba156c5c5f",
@@ -317,7 +303,7 @@
    "image": "",
    "source": "Financial Times",
    "region": "PH",
-   "date": "2026-11-28T05:03:38+00:00",
+   "date": "2026-11-28T05:00:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -361,6 +347,23 @@
    "topic": "Society"
   },
   {
+   "id": "e33128be50",
+   "title": "Senate wraps up deliberations on proposed P7.2T budget for 2027",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlFKQ01rc0lQY1lZOFB0NUdrWlo1Z1NYdUVUcGRTLXhCZmR2eVhac0RtOEFpdkpOV2ZhM0QzYjlKSjlnU090c1ZPb0NoMU9uOEgteXZIa0RSMlRINTJjZUdvaldaNlMxSllvc2ZRaE1fVkJBRkgzWWFKdk9MOGlzTm85QWsxSkw0bTBnTm1tazhTbjdPSDY4cVFINVFuMkpVMG9j0gGoAUFVX3lxTFB1a09nckZCYjJLZVFjTDdySjFoTVo5cHJ1M2xIdDNsbUNTSkhsUTIzODVKaEJkOTFTRkhRVjBVYXRkTVNRM3RsdFlXNTFzdG5uMXRXTnM0YVhIX3hPaDZSbE9BOTFyNXZicEhvdlpwcnQ1WlRpZ3lzbHhqZmJ1TzN1dV9Zd2tRQ0N3clI2dHZIOGFEZHZFVXZWVEc2aUFEZHJpd01BN1ZJbg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Inquirer.net",
+   "region": "PH",
+   "date": "2026-11-28T04:09:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Economy"
+  },
+  {
    "id": "d05efd4585",
    "title": "Clinical AI agents require oversight beyond answer accuracy",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BU0NXOGMxNkdLeEhXWGRLSjM4R2gtMk9oa0JyYVFXRjc1c0xWYkpuQ2dxUW9tZl9CM0U1VGFfRzQxZWtlQU9vZ3ZnS0RPZ25pWmhyMzVnbmhUOGJFNUtz?oc=5",
@@ -395,21 +398,38 @@
    "topic": "Society"
   },
   {
-   "id": "4e9973fe9d",
-   "title": "Smart advances AI-powered mobile experiences with 5G",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05T2RtTm9zUlJXTnZYSFJHbTloVHFKMENSSGlBSFVkb0NjSGhfanNZYjFzYlZxNXZJbGxGQjhLd0RtOVgycDVlSGpkeXY2RWZGbTA1ZEVMUQ?oc=5",
+   "id": "b4f01f3746",
+   "title": "Overgeared Anime Releases Action-Packed Special Trailer Ahead of Climax",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREJWRHBiekdkZG85S0Rnc19vaGVHR2MwX09YTkVZbC1fY3dIU1NNNFQtMWNzbWlKaDdLbDdEYlB4cFZ0YjhuM0pXVUczM083cUhiSmppZWtLX3BGakJkR3lvd2VjSXhSUHdteDBrRjN0ZEZrR0RnZG1jVnJ6c3hUaUo2T1VkZm5RbmQ4dF9qRUxxQVNx?oc=5",
    "summary": "",
    "image": "",
-   "source": "Unbox PH",
+   "source": "Crunchyroll",
    "region": "PH",
-   "date": "2026-11-27T15:36:48+00:00",
+   "date": "2026-11-28T00:15:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
     "place": "",
     "flag": "🇵🇭"
    },
-   "topic": "Tech"
+   "topic": "Entertainment"
+  },
+  {
+   "id": "8d09b5d665",
+   "title": "Bennie Boatwright earns Tim Cone’s praise after solid Gilas debut",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1NPaHFkamFUcW1YQWFsTWlTSE5hN0pDdDlHRDVxckxFRkZaR1AzVzg0WnpaYTd6eDF0eEwyRDhVWjcxZlRpdnlqVU91WWVoaDAwQXJVcVZjeDdoUzZCNWtmeHZEd3FQSktqcVBXM3BWV0xsMTZwcXNxX2Z5OGxodGlSV0FWeWFReDFESm9vYV9OVGZJR3Y2UGwxdmpSVXlU0gGmAUFVX3lxTE5HWkszaTV5MW1OVmdhVlJOcVZydFlVQWw3WjhsejJaRDBybjFabVZ4dFBZSEdGalczVEQtZWt4dzYwa01UMWlSSlBKZUxCd01jZHVLbmx6VU81NlowSl9tX1JST1F1UThIMElRczBLc1RtTHgxYkg5ZGJaVzRlMUgyNFZNTnZ5T3FUbFFHNVZzai1oaUdZampDVDROUnNtc1lXVW5MVEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Inquirer.net",
+   "region": "PH",
+   "date": "2026-11-27T15:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
   },
   {
    "id": "74578e1e0c",
@@ -429,23 +449,6 @@
    "topic": "Society"
   },
   {
-   "id": "f6af869722",
-   "title": "LIVE: Gilas Pilipinas vs Syria – Fiba Asian Qualifiers 5th window",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0JybjR5REEtdHJKWFF5MTZZbGtKempYV2twM25tOFNXQlN5QzJad0xjZ0dhYlV6NEthTmxHNW1qZW5DNUp4ZUhrVHkyUzljeGlTd1U3NXBIcmo2UW9TTk9MeXBmSjlVa2JaUVpxaVBwM1lSWEtOaUZuaDB0aFpCd3YyckZNSGNWXzVWTjVxZGhlVDBybHFqVGZVQmZpd9IBowFBVV95cUxNQUE4Rm9lSkN6bElDSVMtSGJlcEpUcE5BQ25DeUpTNnV6Y3kxWW16TXB2WlVXenJLdko4VUZaMFRiOWhYSjdOdFVMQkxPTWlnWElJdGZ3ZGp6eXJySk9DdTNfZ2gySU5qNXdrQ2VmODNhcmdKYXcwUGNDSWZZbjNpaktWSzcyNnBLVm5vZTFxcjNLWmJPSU5jaFItX2pnc0NiUzB3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Inquirer.net",
-   "region": "PH",
-   "date": "2026-11-27T14:33:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Syria",
-    "place": "",
-    "flag": "🇸🇾"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9060e7dcc7",
    "title": "'It's scary': California battles West Nile virus surge",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVdBVnQybURYQVZTU0VTNWZyVVhRVndwM1JQbU9WcXNzZVBQdkZ3VFFlR2I1VnhVanRyM1BoZy1UcDJDN0tGRmd1QU9CZnFsVkkzc1A3Znd1VzFIdERtdkRLblF5MXZ5WDZzQkpxSEt2VFZpdXVMdDZkWEJPWHpYcmphTnJtQ01HVXZnctIBjAFBVV95cUxNLVdBVnQybURYQVZTU0VTNWZyVVhRVndwM1JQbU9WcXNzZVBQdkZ3VFFlR2I1VnhVanRyM1BoZy1UcDJDN0tGRmd1QU9CZnFsVkkzc1A3Znd1VzFIdERtdkRLblF5MXZ5WDZzQkpxSEt2VFZpdXVMdDZkWEJPWHpYcmphTnJtQ01HVXZncg?oc=5",
@@ -459,23 +462,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bd2b70160e",
-   "title": "DND: Beijing has no say in PH defense partnerships",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmtMTHR0X1JWMmdBRGNhLWFHOFI1REhKSzVZMkdON195UFdvMlVXbGh3Nmh5UUFBSHA2a1RvcXZlekVCSmRsODhUdm5PXzhqb2N0bGd1MzFyRElQSDdhVEExRWZyTkhKaklFT3ltczlFcmQ2S0JaVW5CWnEyVG12dWNySGtqZ3hiS19wYTNsbzVGUUlWX0HSAZsBQVVfeXFMTWVrMEZwZXNCcHJuYkYyUXNoUDJIVHVLenZoTEplMmdQRTVPYk0ybkNhaHNpVVgtVDltZEZMSUdGN2NyNjZnV0JpOV8zVmdwSHVRbkZaWlhlRFlZU3NzLVotbno4b1hiX2RmMU5VMFoyZGVOZVhlc0ZOWVVJdk5jZU02MFdDRUNKalJMZHBFWDc5YkJOdWphTDJkREk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cebu Daily News",
-   "region": "PH",
-   "date": "2026-11-27T12:29:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
    },
    "topic": "Society"
   },
@@ -531,6 +517,23 @@
    "topic": "Society"
   },
   {
+   "id": "3b8a58e363",
+   "title": "Philippine Exports Hit Record $10.57 Billion in October, Driven by Electronics",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tdFI2TkVTS2stcG45bGtXbVZXSTRLS0Z6SjVtY05vaDRtYmFZUjhValNOZWpfcnFLM1JWWXZqOXpZZWpfQzg5X2htamx5TE9mZjJOa1FTdG1PLWVxYm5fbWRwQTV6cmlmM0x5M2hwbkpOSHQ5dWthbmRkbGw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Tribune",
+   "region": "PH",
+   "date": "2026-11-27T05:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Business"
+  },
+  {
    "id": "ca7ef2e2b8",
    "title": "EU Plans New Funds to Help Replace US War-Fighting Capabilities",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTd0aVgyc3pOWkhUOTdHemFlTGkyNlFXVGdXRjZLM3lZLU5EeTBtZVVtQncwZXZzZ0lybkxLb3FGYksxY3dVZFR0T2FvRXByWGNkYTZsVTdiT3lESkZrSUxjOWhweGxLUEVBRWNoZmhxS1VmenV2dDRZbndES3ZWQTdVem1LRTR0RURyQUxJRWJtZjd1ZFhuTFBtOGlReE1UU0MwMVZPVVRveHowUVBaSzhyTkM?oc=5",
@@ -548,21 +551,21 @@
    "topic": "Society"
   },
   {
-   "id": "916019161b",
-   "title": "Senate court serves subpoenas on Cale88 witnesses",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQi1pUmF0VkF4cERXcjEteWp2eWxUd1ZNQnA4NWR3dkxfSUkyTlBmbEQxX21mSXgwMndrbE01WXNPNUFpNndqTmhVYmJWeVFMR3ZfaWRZZm5wc09HdTdBaC04Z3JQTWp6TTlIaGlOSFhxdmpMWVF0SDlnYUU4cFFkWEhmaFF6bzg?oc=5",
+   "id": "711afda984",
+   "title": "A little help goes a long way: Rice assistance eases daily needs of Tuguegarao family",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSXM5bkpPZWg1MUhBYTZHV2pMcEhHT2hDc2NOZE1mNVJwUWFFYzloVjRDT2c3SXlfemJxSlJTTWhDcnAzM0dwMWxodjBJMjJhTGpFeTFrVlRrVFJjaWh0UlBLQjVkUXNCODZuN1FNN0ZaN2dmRGZoR2dqWlpPLUg0dEt2MmdfcXVNX1ctczhobTNaVjRtQUIyeV9DeF9kMkg3UDNqWlEzX3phQ2NTaEJYYTRMaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Philippine News Agency",
+   "source": "Philippine Information Agency",
    "region": "PH",
-   "date": "2026-11-27T01:39:32+00:00",
+   "date": "2026-11-27T03:29:15+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Philippines",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇵🇭"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "d82ed1eca9",

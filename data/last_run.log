@@ -1,11 +1,11 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 80/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 39 stories
+OK   Ada Derana: 36 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 5 stories
-OK   Daily Mirror: 98 stories
+OK   Daily Mirror: 99 stories
 OK   Hiru News: 100 stories
 OK   Newsfirst: 12 stories
 OK   Daily News: 58 stories
@@ -16,36 +16,31 @@ FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 0 stories
 OK   Google Warnings LK: 6 stories
 OK   Google Top Stories World: 70 stories
-OK   BBC World: 24 stories
+OK   BBC World: 26 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 99 stories
 OK   AP News: 84 stories
 
-Biggest stories right now: Afghanistan school blast kills 7 students, in (8 outlets) | Doctors Without Borders condemns Israeli stri (6 outlets) | Two Sri Lankan workers killed in truck accide (6 outlets) | Vijitha Herath meets Indian PM Modi in New De (5 outlets) | Sri Lanka designates 5.7 km Port Access Eleva (5 outlets)
+Biggest stories right now: Afghanistan school blast kills 7 students, in (8 outlets) | Israeli strike kills two doctors without bord (7 outlets) | Two Sri Lankan workers killed in truck accide (6 outlets) | Jermaine Haley, WWE star Bronson Reed, shocki (5 outlets) | Vijitha Herath meets Indian PM Modi in New De (5 outlets)
 
-5 new stories to post
+3 new stories to post
 
-    reddit: Reddit not reachable from here
-What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [2 outlets]: Puig to buy Parfums de Marly owner from Advent in €1.2 billion deal
+What people are saying: looked up 0, 0 stories with Reddit discussions
+* Ada Derana [1 outlets]: Trains to operate as scheduled on Nov. 30 despite planned union action
     no AI summary: daily limit reached
-* The Star [2 outlets]: Fleeing murder suspect crashes into elephant in Sri Lanka
+* Hiru News [1 outlets]: Hiru News 11:55 AM | 2026-11-28
     no AI summary: daily limit reached
-* CBS News [3 outlets]: Macy's Thanksgiving Day Parade kicks off after being postponed due to 
-    no AI summary: daily limit reached
-* Al Jazeera [2 outlets]: India fumble chances as New Zealand finish day two on top in Christchu
-    no AI summary: daily limit reached
-* Reuters [2 outlets]: Myanmar military airstrike on village school kills at least 30 people,
+* The Washington Post [1 outlets]: 3 memory changes experts warn you should never ignore as you’re aging
     no AI summary: daily limit reached
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
   photos: 6 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
-What people are saying: looked up 0, 0 stories with Reddit discussions
+    reddit: Reddit not reachable from here
+What people are saying: looked up 1, 0 stories with Reddit discussions
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
@@ -54,11 +49,10 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
   "error": {
     "code")
   summary translation failed (no AI available for writers)
-  Fact Base: 7 facts and 0 people saved
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 73 story pages for Google)
 
-Countries: IN 37, PK 35, BD 33, US 33, GB 36, IE 35, CA 37, AU 36, NZ 35, SG 35, MY 32, PH 34, AE 33, IL 36, NG 33, KE 36, ZA 34, GH 32, FR 34, DE 33, JP 12, IT 33, ES 34, BR 34
+Countries: IN 37, PK 34, BD 34, US 34, GB 36, IE 34, CA 37, AU 35, NZ 35, SG 34, MY 32, PH 34, AE 34, IL 36, NG 34, KE 36, ZA 33, GH 33, FR 34, DE 33, JP 10, IT 34, ES 33, BR 33
 
 World Pulse not made this run: no AI available for writers
