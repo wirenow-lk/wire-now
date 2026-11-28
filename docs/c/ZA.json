@@ -1,22 +1,59 @@
 {
- "updated": "2026-11-28T04:10:21.412799+00:00",
+ "updated": "2026-11-28T05:15:13.332524+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
   {
-   "id": "55df76324b",
-   "title": "'Intensity is up': Libbok tips Bok backline to click against France",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0IwWnhUM0oxNk1qYjNIT1c2cHl4RzlsWFFKT2RFLWQzbDRReDNGSExCNWtUMFNfNjlELTRwVmU4NnpYM2dVSjIyUnk1WWhTNmYzd0lfb041YlN5eHZSYmVTelVraUJlUGhrcXoteENsUDdNTXRGckZIRXZWMEFZOXVrMHh6MktpbVRwNjl6LU8xLVo1SEZVWWhZTEY5UHR1aC1Jd0xR?oc=5",
+   "id": "458f250913",
+   "title": "1.5-Million-Year-Old Ice In Antarctica Could Unlock Earth's Climate Past",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUtiWXYwWDRCbHBJTWZUWHA5LVZEeUd3YTFSSFAySWFsVURzMDVCakxwQkhLM2dFMEtkZkxTQzZVc0NoeS00cnB3R0xfcDktRGV2WkJQazBuY1NBaXQ3MktYR3lDODhSV25yQUR5Rm9CdFMxM1AzcEdWZnFMbVNJZnFDc2lsdkpOaFZPbUVfSnBDbGZDcV9QY3o2NGhXZTJEb1FFY1Z4X1gyYXVoNHfSAbYBQVVfeXFMT2ItUS03bjBVWHU3dzdVY0VUNkN2dzdCNUZTM0ZsalV1Mm5DZndyeEszekExQUVlX3hoc0hSb2hTM1BjRGFiU1otQWt1NndRNUlLakNqMHFTbU1kbkJEbUJMbkNpUGpmMXJtVVRSQzhBc19oRW1yZ2NZaDRURGNjQ09rbVZreEk2ZFN5cV9LcnJma0RSMDU5MFR0bzVXM2NmbENyV0NYNkxlZUNqNGhzbi1LWWVMQUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NDTV",
+   "region": "ZA",
+   "date": "2026-11-28T03:19:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "03c9c6d879",
+   "title": "Ireland punish Wallabies in London",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXRQclNCWWpuV0RkY2FjNEI2ejUtOXh1UzNER05OR1ZkSzYzVENQUU0zUXBOTXVKQ3h1WjREN05ETGdoM0JrYm8xcThHd3FfTkREelYzdnFKd0taTkVXdkxIT0wwWlRfTm11WlZuN1pXbTBwTnZ6ampKM2V6OFJ4dmNR?oc=5",
    "summary": "",
    "image": "",
    "source": "Rugby365",
    "region": "ZA",
-   "date": "2026-11-27T21:17:23+00:00",
+   "date": "2026-11-27T22:21:05+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "Ireland",
     "place": "",
-    "flag": "🇫🇷"
+    "flag": "🇮🇪 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d46e8959fe",
+   "title": "Ebola emergency in DR Congo extended as WHO names 15 high-risk states",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4VjRzZE42bmpIRzc2RUczaThENFRpLXpndE1SQnItN3pOMGdEQTRuLXVXZXp5ZnlFNTJpdWgwUGZLTVRMVnIwaWZXeGVCZWtjWTBRaHVVRzdaQXFkM3BqTlJUNGZtdTVJVTVn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DNE Africa",
+   "region": "ZA",
+   "date": "2026-11-27T20:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Congo",
+    "place": "",
+    "flag": "🇨🇩"
    },
    "topic": "Society"
   },
@@ -28,7 +65,7 @@
    "image": "",
    "source": "IOL",
    "region": "ZA",
-   "date": "2026-11-27T19:08:57+00:00",
+   "date": "2026-11-27T19:11:37+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -55,40 +92,6 @@
    "topic": "Society"
   },
   {
-   "id": "2b8705352d",
-   "title": "ANC deal gets MK mayor elected in eThekwini, realigning KZN politics",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3RfNFg5aThDRkFyVzUzWkx6QXdaRVpxSEVlOVFIQm1zOVlKRWY4ZkQ3VS0xZ0gwSnZZaHluNlpPOUxRbjBqS3RvV3d3RkJZbm9RcHhwRDdyMEFWSVlqZV96VmdudWRfUFNhWktWZGtISzU1NFZoaTVNelJJRGNJdngwRVBKWnRKOTd0Y3RIUkdwV1hLVVZvWGtJeTBjc0hFME9rclVtUnZvOU1wYm5ycU55Y0RvS09PX1Bj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Maverick",
-   "region": "ZA",
-   "date": "2026-11-27T17:34:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ff1c57cf33",
-   "title": "Stephen Nell | Blockbuster Boks vs France final? It’s also Rassie vs World Rugby",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZnYyMDJWNDExUTRPQnN6Y3NnZjJ1S0tMdklSUDBWUjdnNUduLWJkaGJWNFh5TmtPQVpyRXRPNVIzS2lZeVcxRi1BNERyVkdnZ2xncWliVUNsbDFGTW5TYTVhVUVOT29zVmJsc1hScThZVlNsNU1EUjZSZkViM0V4UXMxTlhkVzJuQy13M3licGxaNkxNWnZMREVaV0htNHZhb0gtcGt4dWtZYndscXFrTjlFZFlxbUhyQTR4Z3F5azRiZFVCZ1hnNkhKaGZ4ZVFFQXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-27T17:12:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Sports"
-  },
-  {
    "id": "25f7eb8485",
    "title": "GRAND FINAL PREVIEW: Boks need to blunt Ramos-bolstered France's fast start",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN3VmOG5xaXo1ei1fSlRmTUh4Z1JkVHYwUDRqbk5YN1N4T0lSekxJRC1qdnpFM28yY1RHLXNsMGdfSklfd2NkV1dTdGwtWmE3MjlTcS1ZUEt1QVJUeUNtTHFpWkhFTThuUi1lV2lIR3VaTllZLTRFSXM5SS1pN19XMDhMQ2FFOElEZUxRT1QtMlVFUEttUzF4d25KMUtqNmNwMGJzcjdJWGg5YUpFWnBnZGFwc1BBbWxUd2RiY2wxWWtfUnVld3FNcG1laWZSd2s1WkFuVGZTeWNseW16MlE?oc=5",
@@ -106,21 +109,21 @@
    "topic": "Society"
   },
   {
-   "id": "2859ef2258",
-   "title": "Court gags Zille; Baas Kruger defies court order in Kubayi saga: Today’s top 7 stories",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVpUR2RHcGVERlhSb1BJdjRUT3dxSE9YWThndmJNNnozT3p5XzhlZGpZUHJucjR1LTBUbkk0QmJ1cGJvYTVDbmVib1Z1RDNnZmpKdWM3eE90OXNjUlh1cDRDcVE5V3V6ODhyeVE4aGJmLTJ1ZEpqNDdDczlOdHJfMVZMX2dlbEZzRmhfejJVMzNtRWtiY3BZWFhwMzhPbS1vTWZzSmdRcUlSOXpmQi05TlhUb0hJLWprTGVjdjg2c2V1WDN6TTFzQkpxTUV0ektvQnAw?oc=5",
+   "id": "39be2aa605",
+   "title": "MKP's Mxolisi Phakathi elected eThekwini mayor",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN2FQV0RFNmVVdmhZMXlXMm5FOVFkSE9WaGhpajh4T2xZZ3pTQkpRbmR4ejdhc25CWG16UVVNUGtCQmpqRHRqM1BKaHA4ZG9OZWZJaUxGbi1ING1pempVQ0xLZ29OSm02OGotLVZWNFpOMTUzV25vRDFpWWJFeEt4VmRSTWUxYjhHSmlj?oc=5",
    "summary": "",
    "image": "",
-   "source": "News24",
+   "source": "eNCA",
    "region": "ZA",
-   "date": "2026-11-27T16:06:33+00:00",
+   "date": "2026-11-27T16:14:38+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "0ad588a223",
@@ -157,12 +160,63 @@
    "topic": "Society"
   },
   {
-   "id": "bee6d2366d",
-   "title": "Nations Championship, Finals Weekend: Teams, global TV channels, referees and more",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbERTdEduX3dEdURZdFJIWjlIQTZTSG4tTmprZDVHV3RJa0NXZWNjLVl6NUt2MzJ2RGJ6N2EtZDN4OW9rSzhvc3QyQkdOaHhsV0NqT25QTnQ2MlgyTlZ2Rk9Dc0N4MnZpWXB2X0d4VEtLODhiazJ5OFJuM3gwRmhPdVFLSENWQkNHWERodWt1LVU5RWVYblFtZlQ3cG9ka1lrUVJENW5FNGNJS1B6eUVZYg?oc=5",
+   "id": "c1f2478efc",
+   "title": "Level 4 severe weather warning for South Africa – including thunderstorms and possible flooding",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONEhMamQ3amxSejMzblc5dllWLWJoXzVMWTZod2MzeGhHWkMtVGhDZ2hTRFJhUnNUWndfbjFMNk80OUFWWjV0clR1a3F5T0NJbU41MXJnRUpLWHRSeG0xb3YxNFE5ZTdsUmVnUFJ6NHMzSVZnRkRndDk4Z0hvUVlCQWdXLTlLREd3VFNMczBWOWZnQXRoLXUwMDFDbmU0YXdZUE1CbEd5dUZEdEpmX0E0WHRHRm4zZFhyY01nd25penRCZW9vT3RiY211TVF5Y3daLVBRUEtlSm0wV3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "Planet Rugby",
+   "source": "BusinessTech",
+   "region": "ZA",
+   "date": "2026-11-27T14:25:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Weather"
+  },
+  {
+   "id": "6d626dec25",
+   "title": "CounCourt dismisses NHI challenges but fight over universal healthcare plan not over",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3NkRVJZV0FQNXNHdTBobXM1dktRWTFiMDl6MDVwc1UtOWx3VVVFd21KbFBWREhMSHJuZm1yRVU3elJBU0QxZ2pPN01zTU5PaGJEZ1dFMVpTcXIyVHlHVWE4dW9jZUpFRTBZQWtoc05vTlR3aE9XZUZsb1JCaHZrcmdZdkQtcmlubE41bFBjN2ZPc2lDZEZKQ2o1QjBBaUdFT0FvaDRpMVp6ZUx6cFVZd016dnhKVWRLTHBzMHNlRGlHQTNDS2RVMF9RMkFQTjJLVEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Maverick",
+   "region": "ZA",
+   "date": "2026-11-27T14:19:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "59d1e5b83c",
+   "title": "The silent artery killer: Why diabetes is now deadlier than HIV in South Africa",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemxTcUtGRGoycHlVSTBtLXoxeWxUekVGVHY0Ui1ld3VSRjExaFRsVlJFUEU4MW5GSFRfTU0tQ2NrdHVON0c0OWdvUVQ1WlpySWlaYzV5LVRQX0o0MnI4cTdNT2tFQlAtY2hCRGpTUmpZWXNTd284M25GUGRZaVBiWnBudlhyaEJXZGk1U1A2emlrVnRpUHJNMFVKU2JXNXo4Q0luaW9qZjhUbW1ueHU5UTVNb2ZrTm14Wk9KbUtJTlVlZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DailyNews.co.za",
+   "region": "ZA",
+   "date": "2026-11-27T14:06:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5ff3e586aa",
+   "title": "rAge Nation 2026 Kicks Off at Fourways Mall: GTA 6 Demos, Retro Gaming Walkthroughs, and High-End PC Rigs",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbHhOUGJaX0pfSVlKOUZGWXdfbFhfUWpPY0NWOVFCRW51QVZaX3dJSWNwX01OWGtYTTZVa1piN0Z5N0VJTmJRV3h6ak1fQzFiU2hCN1BwN0RQZEtuVVJXektlOUpaeDZzY21waS1MSTJLQmg0cXc1R3AxdVplbV9zRC1rV1NnWmJ1NDVTczlXY2h0RzhBQ0c1UnFCRmlvOFU2RFVNVF9pTjlqcmpsMnVlRXh5X1lhcUtCZkx3MXFjdGhBZEo2LS1Ta3F5MDJfSE0ySWRlVjVsZkJMSFU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
    "region": "ZA",
    "date": "2026-11-27T13:04:41+00:00",
    "coverage": 1,
@@ -174,14 +228,14 @@
    "topic": "Society"
   },
   {
-   "id": "5846ea4763",
-   "title": "The silent artery killer: Why diabetes is now deadlier than HIV in South Africa",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdS1VYnN4dUp4NU9oRWxGOWhFcE1EQlZOYXFST1Y4SFUzWi1GcnAyTGF1N1lBY0oyV3c2bVE0bG4wbHE4WHlZZ082ZzI0NlU0VWtXVmJKNXp5QjhkZXNzaG5VLTNqQjV2UkhTNmxoaEVVTG5Pa2dTMHYtTTd5WGgtUkVray1GdzNqeVVoLXZZMzJ3eWVTejFreFZjME1rNWtSekZlODdsRU9Ld29OM3BRMEFrZGJyX3VjelUtSjRVUlJiZjlCTFJ3?oc=5",
+   "id": "bee6d2366d",
+   "title": "Nations Championship, Finals Weekend: Teams, global TV channels, referees and more",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbERTdEduX3dEdURZdFJIWjlIQTZTSG4tTmprZDVHV3RJa0NXZWNjLVl6NUt2MzJ2RGJ6N2EtZDN4OW9rSzhvc3QyQkdOaHhsV0NqT25QTnQ2MlgyTlZ2Rk9Dc0N4MnZpWXB2X0d4VEtLODhiazJ5OFJuM3gwRmhPdVFLSENWQkNHWERodWt1LVU5RWVYblFtZlQ3cG9ka1lrUVJENW5FNGNJS1B6eUVZYg?oc=5",
    "summary": "",
    "image": "",
-   "source": "IOL",
+   "source": "Planet Rugby",
    "region": "ZA",
-   "date": "2026-11-27T12:44:27+00:00",
+   "date": "2026-11-27T13:04:41+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -226,57 +280,6 @@
     ]
    },
    "topic": "Tech"
-  },
-  {
-   "id": "dad87ce01a",
-   "title": "BEST OF THE BEST - Rangers make history as they capture 2026 Silver Fez",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMllUekFHV1UwZ3h3VDFfS3JyZER6TlFXZVVVOVJEZDZfSnpFeWhNeXA1VWJLTncyd0lXT284MFlfQy1DQnBkdVZRUmVUeTA4WWo0UHVaSUZvV1huNXV0anF5eFp3aDlHNGZZWTBIdFlwOHNEekNwZTVoVVhBMnpqSVlGeklzNVp2MWN5Mm1WRVRzd09HQ01LMENsN2VjbmdLRjNqT284TmpSSEktVE50Sw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Voice",
-   "region": "ZA",
-   "date": "2026-11-27T11:59:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f312d56523",
-   "title": "Orbit College - NWU Mafikeng 2-0",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzZFUF9uZVNDTThlMjFGZ20xZldsTm1xVUhHSHZMaTdkNUhNWktiay1KYUtyWGd1QzA3eEFkNy0xOWNxR0FvSWZ2b0k3N1oxVzJuR1VoWjI2RGhrZUxvT3kzYWNSWjdURjlBQkNTZTB6QTJhaVN3eUZpMFN0dmRyOHZ5SFdEZ3VNSjBPWU53VjhVWWNvaXhTU05NMEI0TThzTHRlVnF0aVo?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Flashscore.com",
-   "region": "ZA",
-   "date": "2026-11-27T11:14:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6ad5ee5db5",
-   "title": "ANC coalition talks face further delays amid pressure to finalise municipal deals",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUm5KTlJmdGI2dzUyZHJseW5BZktreVh5THA2YzNlTkhHNHZLZEp3QUtzdHFJUWZJTjdfV3NXaE5oSWJPU1ptVGNCT0lDR19WLWlld1h1RG0tc242MlluM1k1TU03YUNkaXdReDNEMS1kTU1sbGgxVmxCa2dsa3l2X2xHLVNuZGhkeTRiS1JHcUhDZUNTWU8wcVZWVE9mN1dnX3R1czBIVVk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Citizen",
-   "region": "ZA",
-   "date": "2026-11-27T10:45:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "e925f0a373",
@@ -330,6 +333,23 @@
    "topic": "Society"
   },
   {
+   "id": "93242fd022",
+   "title": "US funding cuts threaten HIV prevention and community care in Africa, Unisa study warns",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGVxZGpTU2RpNHBnZk5jLXp0cmN6MXlMNUlhemVud2tkM2lGMTdXc3N5elJCQzZTYkh5VnVrdnl5RmE0ZEt0bWhFSFlnLTdJOVY5LTZYNi11WXlIeEt2SzNfTEFXclZ1d1NrNnRjclhycWFRVHhDOHBlVXRMT3d5dzZIRTgwZXdLeWNTN0VoRzlRckh1SHdhLXpfOXBSMlkyX3hxUEkybnhoSFM1dmZWbUFHZEhWdVRJV0xFZUFBWExKSVI2TkxDcm9TUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-27T09:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "872bbc1924",
    "title": "R44 billion Coca-Cola deal officially complete",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0pOWkJxbTA1TGc1bHpSYVFXcnUyeGkxUUhVc3IzajQ5MTR5Ri1SSndRQmo3Vi14dHFEVVlIRHlmTVdzb1RwaVJJUXdiOGU5d2ZLVzYwMzB4M29tMU92X29JRGdaRndpREYtdVIxWlNFWS1Mc2RIRWFULVNSUFhOSzA3MjAtZUpfT0JkMUlrelZkUTh6ZTJUQTRkTQ?oc=5",
@@ -345,57 +365,6 @@
     "flag": "🇿🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "77bd41031f",
-   "title": "Constitutional Court dismisses challenges to the NHI",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeng4VFZ0Wm5ZRlp1WHowZHduRy1ka1V2U2FsMl9LcWEzX1NzWUx1Z1BqVFJYaEtya3dyRWZQTWF1bkFUNVpZWnJsdVZnQmZoS3RzUnBDd25oejRGZkpKZG5xdl9UVFBUdW9WcXlaa1BteXh0Sl8wQ3M1eDdwRHhfdE5wTnpsdG5xb1VNSzhzOHpMbGxpc1o4cXluWUdEV0RBY3JzMW93?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BusinessTech",
-   "region": "ZA",
-   "date": "2026-11-27T08:40:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "ca4fa2a508",
-   "title": "Escalating fighting disrupts Ebola response in eastern DRC - APAnews",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUxGdDdvcjR2YlhQLWsxYUEwWHpOaXZFdTRkaDBFWEJxMzItQTlxaElQb2sxS0ZxNm9menRkMFFHdGhyLW56S3VxdDZ0WnpjTlBwVGkzRDJjc3VwcGJHX1N6a0FhWUdqcGJ6U3VuSjFSdVV4LVpYUmdYTERaU2VaX182TTFkQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Agence de Presse Africaine",
-   "region": "ZA",
-   "date": "2026-11-27T07:00:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "afff5081ff",
-   "title": "Saws warns of thunderstorms, flooding and extreme heat heading into the weekend",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR1JyU1UyU1hlemkwRkg3djFuUzh6SXZ0T3o0M1NnM05WbE5TLVE1U1YzenFHdWoyVTA1MEJKVlYtaFZrbHVTeXlZSjYxcnhsZHpncVVVdkt2Y3BXSUQ2SnlvNE40eVlURHRPVFZXdWpLY1JydjRMTUV2M3ZuTWZnU1RxSlFDMGdja1VKekRudWhEdTVERnBDbm1lOG8xQUNBdU1oUE9JUzNGNlRZS3cwRDVJY180TVlMVUF1MVV5OHlYUmlzOWoxZFBMQW16Nk9LMlE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TimesLIVE",
-   "region": "ZA",
-   "date": "2026-11-27T06:29:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Weather"
   },
   {
    "id": "40f73915f1",
@@ -415,48 +384,68 @@
    "topic": "Entertainment"
   },
   {
-   "id": "8449a2d2cc",
-   "title": "rAge Nation expo transforms into participatory gaming festival with Mettlestate and Nedbank",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2NnSWJXQTA5T1B5NWZfYzI3bWhXY0ZhRnRIaUVZWko5aURxZ3pIX3lrUV8yQlBlR0drOFZ4OXVXcHdIY3VsNDN4b2tLMjdDdUNEVmNtUmZOOVJNcGsxWERiT29TT3lxclg0RlpUb2w3N0pjMGpWRlBMRUN6blZQTGt2cmZxWFhFMnlqRWpwTy15MEZhckY5bU00cXJyZE0wZWdDTFRseFMzbXF0N1B0TU1DQ09waU9VSzNCSTA1b1pFd1hPbWo2YzB0LWs?oc=5",
+   "id": "09006e6268",
+   "title": "Nations Championship Final: three key France v South Africa head-to-heads",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVh6VVlqT1FtejdLV2RwM2FuMXBSMXpEYXNWNEdFVk9GeGdfTEhYSWJWOXpHakZ0RHhvUUc2b3dEamszWXJGNlEyOUtpWG9YZjBWdnZBaU9kQ0RmSE05eFc0SVN2ZGIzLU5URzFaOVVFUTRSNFJ5Z0RwUVJWZ00ySl9aTm5XRXRlQ1F5ZTVQbFR5aE5MQkRLQUZSeFJZYTRmVXVvV2JPZFFnZmFFVC15TnFBOV9fVUh2bVN4YkdPMjYtMWRCd3BjR2Q1ZzlaN3pwR0trTElpSFJTM0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SuperSport",
+   "region": "ZA",
+   "date": "2026-11-27T04:26:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "851d25564d",
+   "title": "The Vaal Dam is overflowing but Johannesburg and Pretoria are running out of water",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUi1RV0RqUWF0TGdDY2tLN0Z6U2RUX1hYYjczbEZldS1UWUJVeHdCOXVJUURqaTJJYUJ5by1IeVVtdTFaSEN0SWtfcXZQMGVjcFFsRFlTZkZGUkV4MFA0ZXQ0dV90RkZxTkJGN2hXOVFDdlprNzJPMUlyT2xLUWxsajVmYzhUTmhjNXdzT0ZxaEpnTWlOUzU1bmNubERBWmF6T1ZJdkVOZW45ekJoYXRtQlRFbzBXdjI2QVpTWGlDZTFJV0pPZ1RGNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Investor",
+   "region": "ZA",
+   "date": "2026-11-27T04:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5808bcda35",
+   "title": "VOETSEK! 'Baas Kruger' refuses to delete posts despite court ruling following online spat with Minister Mmamoloko Kubayi",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1JGS2tQcU96VWxvMk52UE5PTWpBUzVsT2Q4cG1oY0k0YUdfY1JsbUVrb2dKREEzWHBVcWY2d0w0aWtvUEtneVpDUDBFdld6M19QY3Eyb2lMZExnaWtGQS1xcld2RkRHSkh2Yk1wVVFCUnVyZzdqUDZfcktPcWYwWXptVF9zaU94bEc3dHAwejh6ZU03ZlJXMGdYMmNvVWlDel9LWjFnVTZ3ak5kU1k4RnBvSjdHU05QZ0dLdWRVRU45enlIVFo2SmJuMGR0VXg5cGxmSjkxNHhKeEo0MDQtTERHaDRxZlRpR3VpdDNjaHQzZVpPeEZsZA?oc=5",
    "summary": "",
    "image": "",
    "source": "IOL",
    "region": "ZA",
-   "date": "2026-11-27T05:50:37+00:00",
+   "date": "2026-11-27T03:50:00+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
-   "id": "3e51f8eab6",
-   "title": "ActionSA takes Tshwane mayor as coalitions with ANC set to sweep GP metros",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMlRVYzZqNW5ua2pWcl9JTjVnZ041R1A2Ukp2Um9YdEtmQzdtOXExam9ZVi1sZGdRWGR2S2tNRzlQTGZsTmNXNnVPLWlfS3lqek1SSm5pQUE5NmpsamVNbmJOajNtUkI5cGtoMW55eVhiRVRtNU42MWprUGVYaWNDUGNXZ1lfWVdHQ1FrUkRBdDhnd2YxRzd0ZVNfLXlMbDMwVHBvNTNmbG9Gc0w0bmU1aGlEc2dwakI5bm85WThBWTc5UEEw?oc=5",
+   "id": "b3df5587b2",
+   "title": "It’s a patchwork of parties: KZN gives a hint of how coalitions will pan out",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEsyeUxIdkFTRk50Mjh3Y19wcEVCM3FBR2hvV2xSODVmQjdnQVU4LVBXSDVrajVnSmlKNTFOSnAzMXJvLXhXUXpfY1lWNFlzQThDbWpVWGNxcmNBbGtxZDREQlZLZjFSZUZhYlNNVTA2ZC0xMGdsMHlvY3J0OHdYUmVoTjBtbmdUaEloaFVFdmZIVFEtZldCTHgzRXR3TGU0WW55S0lSWDFYUFhZLXZLTGJyU2xOQnh4cTVuMg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Maverick",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-26T21:59:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bdf19c7422",
-   "title": "HIV funding cuts hit Africa’s prevention services, UNAIDS says",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KUHVZbDZTbDlVa3JaNF9sVU5PZU9hQ0JXNXhqTVZPWmhJNmxnZWs2U2oxUlZsZTd2NWt0dGRBSGVySHU4dHhfUnE2SlVvaTFheXJxS1doVmhkbThXaW9YR0RJWC1lWHA1UkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DNE Africa",
-   "region": "ZA",
-   "date": "2026-11-26T17:03:00+00:00",
+   "date": "2026-11-27T02:02:09+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -500,6 +489,23 @@
    "topic": "Society"
   },
   {
+   "id": "7214e812c1",
+   "title": "DStv Premium for R99",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbk1RNXZFM3dJTzU0WWd4QVo1bXlDTUJJV2R1ZHk2YS03dXE4NkhZWi0zVEZ0SWlWU01FSklsQzJrVE0xbG9MOFVIaW10V2lHLWpHWm5ZaklDMmREQ2EzTmQ4MTdaanVBTE84bmpsU0paZ2hZdDlnSzR3dDFsM2VvbWF3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MyBroadband",
+   "region": "ZA",
+   "date": "2026-11-26T16:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "474e63a27a",
    "title": "Hands-on with Huawei’s wide foldable – the Pura X Max",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHQ2Um9WRlJpWXBTVFR2MWJ3RXZZdldleV9tOE1SQnlNYkxjcHlVRlVPTG1XWjdZQ0M5S0YzcGVlMWlJOUkxc0NoQjRYcndwaFdTQmNXVFpPR0hwUzRUUFJsRXpvMXBTaHpYUDYwbmxucG81QXlGNjlNdlM0eGxEM192VTU?oc=5",
@@ -525,6 +531,23 @@
    "source": "Research Professional News",
    "region": "ZA",
    "date": "2026-11-26T13:06:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "31f7891b50",
+   "title": "IDC in talks for R4.5bn stake in Tongaat Hulett",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd25mZ3FZaTB4b1RZU2RyQ2s0TDVIdUJkTW9OT3Z1YkR1dVREUnpGWUdtSEVrZ0gtQTNNdXU3NkQ1eXByb2xIS3FvWTVpZXdzS3QwQTVUemRPOE9FWE0wX3o1LVZ4RzhTcmx4TnNnX2hjQjlsOHNJb2pxYjJ2ekVSSFp5aFNpajhjRGd2TXZfNVRHM1JTdnFaVXdmYUY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Moneyweb",
+   "region": "ZA",
+   "date": "2026-11-26T11:48:49+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
